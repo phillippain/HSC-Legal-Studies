@@ -1,0 +1,1294 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Every HSC Legal Studies exam question from 2011 to 2025, searchable by syllabus content point, theme and challenge, or directive.">
+<meta name="theme-color" content="#4338ca">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;600&family=Inter:wght@400;500;600;700&display=swap">
+<title>HSC Legal Studies Question Finder</title>
+<style>
+/* ============================================================ tokens ===== */
+:root{
+  /* warm paper surfaces — a revision tool should not feel like a spreadsheet */
+  --bg:#f6f3ee; --surface:#fffdfa; --surface-2:#f1ece3; --surface-3:#e9e2d6;
+  --line:#e3dbcd; --line-soft:#efe9dd;
+  --ink:#1c1a17; --ink-2:#55504a; --ink-3:#726b62;  /* 4.75:1 on --bg */
+  --accent:#4338ca; --accent-2:#5b50e0; --accent-soft:#ebe9fc; --on-accent:#ffffff;
+
+  /* topic identity — validated for colour-vision deficiency on all pairs,
+     not just adjacent ones, because all four topics are on screen together */
+  --t1:#4338ca; --t1b:#eceafb;   /* Crime          */
+  --t2:#be123c; --t2b:#fce9ed;   /* Human Rights   */
+  --t3:#0e8fae; --t3b:#e4f4f8;   /* Family         */
+  --t4:#9c7a12; --t4b:#f7f0dc;   /* Shelter        */
+
+  /* section order is a sequence, so it gets one hue at four strengths */
+  --s1:#8a83e6; --s2:#6f66db; --s3:#544acd; --s4:#3b32a8;
+
+  --ok:#15803d; --ok-bg:#e7f5ec; --warn:#b03d0c; --warn-bg:#fdeee4;
+  --focus:#4338ca;
+
+  --r:12px; --r-sm:8px; --r-lg:20px; --r-pill:999px;
+  --sh-1:0 1px 2px rgba(50,40,25,.06), 0 1px 3px rgba(50,40,25,.04);
+  --sh-2:0 2px 4px rgba(50,40,25,.05), 0 8px 20px -10px rgba(50,40,25,.16);
+  --sh-3:0 4px 8px rgba(50,40,25,.06), 0 18px 40px -18px rgba(50,40,25,.28);
+
+  --sans:"Inter","Segoe UI",Roboto,-apple-system,Helvetica,Arial,sans-serif;
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
+  --bg:#131116; --surface:#1b181f; --surface-2:#241f29; --surface-3:#2e2836;
+  --line:#332c3a; --line-soft:#282230;
+  --ink:#f1ece5; --ink-2:#b9b1a8; --ink-3:#8d867e;
+  --accent:#a78bfa; --accent-2:#b9a3fb; --accent-soft:#241f36; --on-accent:#16121f;
+  --t1:#8b5cf0; --t1b:#241c3a;
+  --t2:#cf2f4e; --t2b:#33151d;
+  --t3:#0d9dbd; --t3b:#0f2a33;
+  --t4:#9e9639; --t4b:#2a2714;
+  --s1:#6d5bc4; --s2:#8371dc; --s3:#9b8bef; --s4:#b5a7fb;
+  --ok:#4ade80; --ok-bg:#132a1c; --warn:#fb923c; --warn-bg:#331c10;
+  --focus:#a78bfa;
+  --sh-1:0 1px 2px rgba(0,0,0,.4); --sh-2:0 2px 6px rgba(0,0,0,.45), 0 10px 26px -14px rgba(0,0,0,.8);
+  --sh-3:0 4px 10px rgba(0,0,0,.5), 0 22px 48px -20px rgba(0,0,0,.95);
+}}
+:root[data-theme="dark"]{
+  --bg:#131116; --surface:#1b181f; --surface-2:#241f29; --surface-3:#2e2836;
+  --line:#332c3a; --line-soft:#282230;
+  --ink:#f1ece5; --ink-2:#b9b1a8; --ink-3:#8d867e;
+  --accent:#a78bfa; --accent-2:#b9a3fb; --accent-soft:#241f36; --on-accent:#16121f;
+  --t1:#8b5cf0; --t1b:#241c3a; --t2:#cf2f4e; --t2b:#33151d;
+  --t3:#0d9dbd; --t3b:#0f2a33; --t4:#9e9639; --t4b:#2a2714;
+  --s1:#6d5bc4; --s2:#8371dc; --s3:#9b8bef; --s4:#b5a7fb;
+  --ok:#4ade80; --ok-bg:#132a1c; --warn:#fb923c; --warn-bg:#331c10; --focus:#a78bfa;
+  --sh-1:0 1px 2px rgba(0,0,0,.4); --sh-2:0 2px 6px rgba(0,0,0,.45), 0 10px 26px -14px rgba(0,0,0,.8);
+  --sh-3:0 4px 10px rgba(0,0,0,.5), 0 22px 48px -20px rgba(0,0,0,.95);
+}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%; scroll-behavior:smooth}
+body{margin:0; background:var(--bg); color:var(--ink); font-family:var(--sans);
+  font-size:15px; line-height:1.55; -webkit-font-smoothing:antialiased}
+h1,h2,h3,h4{margin:0; font-family:var(--display); font-weight:600; text-wrap:balance;
+  letter-spacing:-.012em; font-optical-sizing:auto}
+a{color:var(--accent); text-underline-offset:2px}
+button{font:inherit; color:inherit}
+:focus-visible{outline:2.5px solid var(--focus); outline-offset:2px; border-radius:4px}
+.ic{width:1em; height:1em; flex:none; stroke-width:1.75; vertical-align:-.13em}
+#sprite{display:none}
+
+/* ========================================================== masthead ===== */
+.masthead{position:relative; background:var(--surface); border-bottom:1px solid var(--line); overflow:hidden}
+.masthead::before{content:""; position:absolute; inset:0 0 auto; height:3px;
+  background:linear-gradient(90deg, var(--t1), var(--t2) 33%, var(--t3) 66%, var(--t4))}
+/* a faint set of scales behind the title — the one decorative flourish */
+.mast-art{position:absolute; right:26px; top:50%; translate:0 -50%; width:150px; height:150px;
+  color:var(--ink); opacity:.035; pointer-events:none}
+@media (max-width:820px){ .mast-art{display:none} }
+.mast-in{position:relative; max-width:1400px; margin:0 auto; padding:22px 22px 20px;
+  display:flex; flex-wrap:wrap; gap:16px 26px; align-items:center}
+.brand{display:flex; gap:14px; align-items:center; min-width:0}
+.brand-mark{width:46px; height:46px; flex:none; border-radius:14px; display:grid; place-items:center;
+  background:linear-gradient(145deg, var(--t1), var(--accent-2)); color:#fff; font-size:25px;
+  box-shadow:var(--sh-2)}
+.school{font-size:.7rem; letter-spacing:.13em; text-transform:uppercase; color:var(--ink-3); font-weight:600}
+.mast-in h1{font-size:1.72rem; font-weight:700; line-height:1.1; margin-top:2px}
+.mast-meta{margin-left:auto; display:flex; gap:8px; flex-wrap:wrap}
+.pill{display:inline-flex; align-items:center; gap:7px; background:var(--surface-2);
+  border:1px solid var(--line-soft); border-radius:var(--r-pill); padding:6px 13px;
+  font-size:.78rem; color:var(--ink-2); font-weight:500}
+.pill b{font-family:var(--mono); font-weight:600; color:var(--ink); font-variant-numeric:tabular-nums}
+.pill .ic{color:var(--ink-3); font-size:.95rem}
+
+/* ============================================================= shell ===== */
+.shell{max-width:1400px; margin:0 auto; padding:22px 22px 60px;
+  display:grid; grid-template-columns:346px minmax(0,1fr); gap:24px; align-items:start}
+@media (max-width:980px){ .shell{grid-template-columns:1fr; gap:18px; padding-inline:16px} }
+.rail{position:sticky; top:18px; max-height:calc(100vh - 36px);
+  display:flex; flex-direction:column; gap:14px; min-height:0}
+@media (max-width:980px){ .rail{position:static; max-height:none} }
+
+/* ============================================================ picker ===== */
+.picker{background:var(--surface); border:1px solid var(--line); border-radius:var(--r-lg);
+  display:flex; flex-direction:column; overflow:hidden; flex:1 1 auto; min-height:0; box-shadow:var(--sh-1)}
+@media (max-width:980px){ .picker{flex:none} .tree{max-height:46vh} }
+.tabs{display:flex; gap:3px; padding:7px; background:var(--surface-2); border-bottom:1px solid var(--line-soft)}
+.tabs button{flex:1; border:0; background:none; padding:9px 6px; cursor:pointer; border-radius:var(--r-sm);
+  font-size:.76rem; letter-spacing:.02em; color:var(--ink-3); font-weight:600;
+  display:inline-flex; align-items:center; justify-content:center; gap:6px; transition:.14s}
+.tabs button:hover{color:var(--ink-2); background:color-mix(in srgb, var(--surface) 70%, transparent)}
+.tabs button[aria-selected="true"]{color:var(--accent); background:var(--surface); box-shadow:var(--sh-1)}
+.tabs .ic{font-size:1.02rem}
+.searchwrap{padding:13px 13px 11px; display:flex; gap:8px}
+.sbox{flex:1; min-width:0; position:relative; display:flex; align-items:center}
+.sbox .ic{position:absolute; left:11px; color:var(--ink-3); font-size:1.05rem; pointer-events:none}
+.searchwrap input{width:100%; padding:10px 12px 10px 35px; border:1.5px solid var(--line);
+  border-radius:var(--r); background:var(--bg); color:var(--ink); font:inherit; font-size:.9rem; transition:.14s}
+.searchwrap input:focus{border-color:var(--accent); background:var(--surface); outline:none;
+  box-shadow:0 0 0 3.5px var(--accent-soft)}
+.searchwrap input::placeholder{color:var(--ink-3)}
+.kbd{position:absolute; right:9px; font-family:var(--mono); font-size:.66rem; color:var(--ink-3);
+  border:1px solid var(--line); border-radius:5px; padding:1px 5px; background:var(--surface)}
+.sbox:focus-within .kbd{display:none}
+@media (hover:none),(max-width:620px){ .kbd{display:none} }
+.home{border:1.5px solid var(--line); background:var(--surface); border-radius:var(--r); cursor:pointer;
+  padding:0 11px; font-size:.75rem; font-weight:600; color:var(--ink-2); white-space:nowrap;
+  display:inline-flex; align-items:center; gap:6px; transition:.14s}
+.home:hover{border-color:var(--accent); color:var(--accent)}
+.tree{overflow-y:auto; padding:4px 8px 16px; flex:1; scrollbar-width:thin}
+.heading{margin:12px 0 4px; padding:0 8px; font-size:.67rem; letter-spacing:.11em; text-transform:uppercase;
+  color:var(--ink-3); font-weight:700}
+
+.dot{width:100%; display:flex; gap:9px; align-items:flex-start; border:0; background:none; cursor:pointer;
+  text-align:left; padding:8px 9px; border-radius:var(--r-sm); line-height:1.4; transition:.12s}
+.dot:hover{background:var(--surface-2)}
+.dot[aria-current="true"]{background:var(--accent-soft); box-shadow:inset 2.5px 0 0 var(--accent)}
+.dot .code{font-family:var(--mono); font-size:.66rem; color:var(--ink-3); padding-top:3px; min-width:50px}
+.dot[aria-current="true"] .code{color:var(--accent)}
+.dot .lbl{flex:1; font-size:.845rem}
+.dot .cnt{padding-top:2px}
+.dot.none .lbl{color:var(--ink-3)}
+.dot.none .cnt{color:var(--warn)}
+.cnt{font-family:var(--mono); font-size:.72rem; color:var(--ink-3); font-variant-numeric:tabular-nums}
+.swatch{width:9px; height:9px; border-radius:3px; flex:none; margin-top:6px; background:var(--sw)}
+
+/* topic cards — the front door */
+.topic-card{width:100%; display:block; text-align:left; cursor:pointer; margin:0 0 10px;
+  background:var(--surface); border:1.5px solid var(--line); border-radius:var(--r);
+  padding:13px 14px 12px; position:relative; overflow:hidden; transition:.16s}
+.topic-card::before{content:""; position:absolute; inset:0 auto 0 0; width:4px; background:var(--tc)}
+.topic-card:hover{border-color:var(--tc); transform:translateY(-1px); box-shadow:var(--sh-2)}
+.topic-card .thead{display:flex; gap:11px; align-items:center}
+.tico{width:36px; height:36px; flex:none; border-radius:11px; display:grid; place-items:center;
+  background:var(--tb); color:var(--tc); font-size:20px}
+.topic-card .tn{display:block; font-family:var(--display); font-weight:600; font-size:1.06rem;
+  color:var(--ink); line-height:1.2}
+.topic-card .part{display:block; font-size:.67rem; letter-spacing:.09em; text-transform:uppercase;
+  color:var(--ink-3); margin-top:3px; font-weight:600}
+.topic-card .go{margin-left:auto; color:var(--tc); font-size:1.05rem; opacity:.5; transition:.16s}
+.topic-card:hover .go{opacity:1; transform:translateX(2px)}
+.topic-card .meta{display:flex; align-items:center; gap:9px; margin-top:11px; font-size:.74rem; color:var(--ink-3)}
+.topic-card .meta b{font-family:var(--mono); color:var(--ink-2); font-weight:600}
+.bar{height:5px; border-radius:99px; background:var(--surface-3); overflow:hidden; margin-top:9px}
+.bar i{display:block; height:100%; border-radius:99px; background:var(--tc); transition:width .3s}
+.bar.mini{height:4px; margin-top:6px}
+
+.level-head{display:flex; align-items:center; gap:10px; padding:6px 4px 10px; margin-bottom:4px;
+  border-bottom:1px solid var(--line-soft); flex-wrap:wrap}
+.back{border:1.5px solid var(--line); background:var(--surface); border-radius:var(--r-pill);
+  padding:5px 12px 5px 9px; cursor:pointer; font-size:.76rem; font-weight:600; color:var(--ink-2);
+  white-space:nowrap; display:inline-flex; align-items:center; gap:5px; transition:.14s}
+.back:hover{border-color:var(--accent); color:var(--accent)}
+.crumb{font-size:.7rem; letter-spacing:.07em; text-transform:uppercase; color:var(--ink-3); font-weight:600}
+.sub{width:100%; display:flex; gap:10px; align-items:center; border:0; background:none; cursor:pointer;
+  text-align:left; padding:11px 9px; border-radius:var(--r-sm); transition:.12s}
+.sub:hover{background:var(--surface-2)}
+.sub .lbl{flex:1; font-size:.875rem; font-weight:500; line-height:1.35}
+.sub .dotc{width:8px; height:8px; border-radius:3px; background:var(--tc); flex:none}
+.chev{color:var(--ink-3); font-size:1rem; display:inline-flex}
+.hit-crumb{display:block; padding:0 9px 7px 68px; font-size:.66rem; letter-spacing:.05em;
+  text-transform:uppercase; color:var(--ink-3)}
+.nomatch{padding:16px 10px; color:var(--ink-3); font-size:.85rem}
+
+/* =========================================================== results ===== */
+.results{min-width:0}
+.rhead{background:var(--surface); border:1px solid var(--line); border-radius:var(--r-lg);
+  padding:18px 20px; margin-bottom:14px; box-shadow:var(--sh-1)}
+.eyebrow{font-size:.68rem; letter-spacing:.12em; text-transform:uppercase; color:var(--ink-3);
+  margin-bottom:6px; font-weight:700}
+.rhead h2{font-size:1.4rem; font-weight:600; line-height:1.24}
+.rhead .code-big{font-family:var(--mono); color:var(--accent); font-size:.8rem; margin-right:9px;
+  background:var(--accent-soft); padding:3px 8px; border-radius:6px; vertical-align:.12em; font-weight:600}
+.rhead .detail{margin:9px 0 0; font-size:.86rem; color:var(--ink-2); line-height:1.5}
+
+.stats{background:var(--surface); border:1px solid var(--line); border-radius:var(--r-lg);
+  padding:14px 15px 15px; flex:none; box-shadow:var(--sh-1)}
+.stats h3{font-size:.68rem; letter-spacing:.11em; text-transform:uppercase; color:var(--ink-3);
+  font-family:var(--sans); font-weight:700; margin-bottom:11px}
+.tally{display:grid; grid-template-columns:repeat(3,1fr); gap:8px}
+.tally div{border:1px solid var(--line-soft); border-radius:var(--r-sm); padding:8px 9px; background:var(--bg)}
+.tally .n{font-family:var(--mono); font-size:1.2rem; font-weight:600;
+  font-variant-numeric:tabular-nums; line-height:1.1}
+.tally .s{font-size:.61rem; letter-spacing:.05em; text-transform:uppercase; color:var(--ink-3);
+  line-height:1.3; margin-top:2px}
+.tally .wide{grid-column:span 3; display:flex; align-items:center; gap:9px; background:var(--ok-bg);
+  border-color:transparent; color:var(--ok)}
+.tally .wide .n{font-size:1.05rem; color:var(--ok)}
+.tally .wide .s{color:var(--ok); opacity:.85; margin:0}
+
+.note{margin-top:13px; padding:11px 13px; border-radius:var(--r); font-size:.84rem; line-height:1.5;
+  display:flex; gap:9px; align-items:flex-start}
+.note .ic{font-size:1.1rem; margin-top:1px}
+.note.warn{background:var(--warn-bg); color:var(--warn)}
+.note.info{background:var(--surface-2); color:var(--ink-2)}
+
+/* =========================================================== toolbar ===== */
+.toolbar{display:flex; flex-wrap:wrap; gap:9px; align-items:center; margin-bottom:16px}
+.chipset{display:flex; flex-wrap:wrap; gap:3px; background:var(--surface); border:1px solid var(--line);
+  border-radius:var(--r-pill); padding:3px; box-shadow:var(--sh-1)}
+.chipset button{border:0; background:none; cursor:pointer; padding:6px 13px; border-radius:var(--r-pill);
+  font-size:.76rem; font-weight:600; color:var(--ink-3); white-space:nowrap; transition:.12s;
+  display:inline-flex; align-items:center; gap:6px}
+.chipset button:hover{color:var(--ink-2)}
+.chipset button[aria-pressed="true"]{background:var(--accent); color:var(--on-accent)}
+.tool{display:inline-flex; align-items:center; gap:7px; background:var(--surface); border:1px solid var(--line);
+  border-radius:var(--r-pill); padding:7px 14px; font-size:.8rem; color:var(--ink-2); cursor:pointer;
+  box-shadow:var(--sh-1); transition:.14s; font-weight:500}
+.tool select{border:0; background:none; color:var(--ink); font:inherit; cursor:pointer; font-weight:600}
+.tool .ic{color:var(--ink-3); font-size:1rem}
+button.tool:hover{border-color:var(--accent); color:var(--accent)}
+button.tool:hover .ic{color:var(--accent)}
+.tool.primary{background:var(--accent); border-color:var(--accent); color:var(--on-accent); font-weight:600}
+.tool.primary .ic{color:var(--on-accent)}
+.tool.primary:hover{background:var(--accent-2); border-color:var(--accent-2); color:var(--on-accent)}
+.tool.primary:hover .ic{color:var(--on-accent)}
+.tool input[type=checkbox]{accent-color:var(--accent); width:15px; height:15px; margin:0}
+.progress{margin-left:auto; font-size:.78rem; color:var(--ink-3); font-family:var(--mono);
+  display:inline-flex; align-items:center; gap:7px}
+
+/* ==================================================== question groups ===== */
+.group{background:var(--surface); border:1px solid var(--line); border-radius:var(--r-lg);
+  margin-bottom:16px; overflow:hidden; box-shadow:var(--sh-1)}
+.group > header{display:flex; align-items:center; gap:11px; padding:13px 17px;
+  border-bottom:1px solid var(--line-soft); background:var(--surface-2)}
+.group > header .gico{width:30px; height:30px; flex:none; border-radius:9px; display:grid; place-items:center;
+  background:var(--gc); color:#fff; font-size:16px}
+.group > header .sec{font-family:var(--display); font-weight:600; font-size:1rem; color:var(--ink)}
+.group > header .desc{font-size:.76rem; color:var(--ink-3)}
+.group > header .cnt{margin-left:auto; background:var(--surface); border:1px solid var(--line);
+  border-radius:var(--r-pill); padding:3px 10px; font-weight:600}
+@media (max-width:620px){ .group > header{flex-wrap:wrap} .group > header .desc{flex-basis:100%; order:3} }
+
+ul.qs{list-style:none; margin:0; padding:0}
+ul.qs > li{display:flex; gap:13px; padding:15px 17px; border-top:1px solid var(--line-soft); align-items:flex-start}
+ul.qs > li:first-child{border-top:0}
+ul.qs > li:hover{background:var(--surface-2)}
+ul.qs > li.done, ul.qs > li.done:hover{background:var(--ok-bg)}
+ul.qs > li.done .ref a{color:var(--ok)}
+.tick{margin-top:2px; width:19px; height:19px; flex:none; accent-color:var(--ok); cursor:pointer}
+.ref{font-family:var(--mono); font-size:.76rem; font-weight:600; color:var(--ink-2);
+  min-width:104px; flex:none; font-variant-numeric:tabular-nums; padding-top:2px}
+.ref a{color:var(--accent); text-decoration:none; border-bottom:1px dotted currentColor}
+.ref a:hover{border-bottom-style:solid}
+.ref .alt{display:block; font-weight:400; color:var(--ink-3); font-size:.68rem; letter-spacing:.03em;
+  font-family:var(--sans); margin-top:2px}
+.qbody{flex:1; min-width:0}
+.qtext{display:block; font-size:.98rem; line-height:1.55; color:var(--ink)}
+.qmeta{margin-top:9px; display:flex; flex-wrap:wrap; gap:6px; align-items:center}
+.marks{font-family:var(--mono); font-size:.7rem; color:var(--ink-2); font-variant-numeric:tabular-nums;
+  background:var(--surface-2); border-radius:var(--r-pill); padding:2px 9px; font-weight:600}
+.sk{font-size:.68rem; letter-spacing:.02em; padding:2px 9px; border-radius:var(--r-pill);
+  background:var(--surface-2); color:var(--ink-3)}
+.sk.dir{background:var(--accent-soft); color:var(--accent); font-weight:600; text-transform:lowercase}
+.sk.q{background:var(--warn-bg); color:var(--warn); font-weight:600}
+.sk.time{display:inline-flex; align-items:center; gap:5px; color:var(--ink-3)}
+.mglink{font-size:.72rem; color:var(--ink-3); text-decoration:none; border-bottom:1px dotted currentColor}
+.mglink:hover{color:var(--accent)}
+.tagline{margin-top:9px; display:flex; flex-wrap:wrap; gap:5px}
+.tg{font-size:.68rem; padding:2px 9px 3px; border-radius:var(--r-pill); line-height:1.5;
+  color:var(--tgc); background:color-mix(in srgb, var(--tgc) 11%, transparent); font-weight:500}
+.tg.sup{opacity:.62; background:var(--surface-2); color:var(--ink-3); font-weight:400}
+.stim{display:block; margin:0 0 9px; padding:10px 12px; border-radius:var(--r); font-size:.84rem;
+  background:var(--surface-2); color:var(--ink-2); border-left:3px solid var(--ink-3); line-height:1.5}
+.stim b{color:var(--ink); font-weight:600}
+
+ol.opts{list-style:none; margin:11px 0 2px; padding:0; display:grid; gap:2px}
+ol.opts li{display:flex; gap:10px; align-items:baseline; font-size:.89rem; line-height:1.45;
+  color:var(--ink-2); padding:4px 9px; border-radius:var(--r-sm)}
+ol.opts li .ol{font-family:var(--mono); font-size:.74rem; font-weight:600; color:var(--ink-3); min-width:14px}
+ol.opts li.right{background:var(--ok-bg); color:var(--ok); font-weight:500}
+ol.opts li.right .ol{color:var(--ok)}
+.orphan{margin:10px 0 0; padding:9px 12px; border-radius:var(--r); font-size:.82rem;
+  background:var(--warn-bg); color:var(--warn)}
+.orphan a{color:inherit; font-weight:600}
+
+/* ================================================== reveal / criteria ===== */
+.crit{margin-top:11px}
+.reveal{border:1.5px dashed var(--line); background:var(--surface); border-radius:var(--r-pill); cursor:pointer;
+  padding:6px 14px; font-size:.76rem; font-weight:600; color:var(--ink-2); transition:.14s;
+  display:inline-flex; align-items:center; gap:7px}
+.reveal:hover{border-style:solid; border-color:var(--accent); color:var(--accent); background:var(--accent-soft)}
+.reveal .ic{font-size:.95rem}
+.answer{margin-top:10px; border-radius:var(--r); background:var(--ok-bg); padding:11px 14px;
+  font-size:.86rem; color:var(--ok); display:flex; gap:9px; align-items:center}
+.answer b{font-family:var(--mono); font-weight:700; font-size:1rem}
+.panel{margin-top:10px; border:1px solid var(--line-soft); border-radius:var(--r);
+  background:var(--surface-2); padding:13px 15px}
+.panel h4{font-family:var(--sans); font-size:.66rem; letter-spacing:.11em; text-transform:uppercase;
+  color:var(--ink-3); font-weight:700; margin:0 0 9px; display:flex; align-items:center; gap:7px}
+.band{display:flex; gap:12px; padding:8px 0; border-top:1px solid var(--line-soft)}
+.band:first-of-type{border-top:0}
+.band .bm{font-family:var(--mono); font-size:.74rem; font-weight:700; color:var(--accent);
+  min-width:52px; font-variant-numeric:tabular-nums; padding-top:3px}
+.band ul{margin:0; padding-left:17px; font-size:.84rem; line-height:1.5; list-style:disc}
+.band li{margin:2px 0}
+.panel .body{font-size:.86rem; line-height:1.6}
+.panel .body p{margin:5px 0}
+.panel .body ul{margin:5px 0; padding-left:18px}
+.stage2{margin-top:11px}
+
+/* =========================================================== welcome ===== */
+.welcome{background:var(--surface); border:1px solid var(--line); border-radius:var(--r-lg);
+  padding:24px 24px 22px; margin-bottom:16px; box-shadow:var(--sh-1); position:relative; overflow:hidden}
+.welcome::before{content:""; position:absolute; inset:0 0 auto; height:3px;
+  background:linear-gradient(90deg, var(--t1), var(--t2) 33%, var(--t3) 66%, var(--t4))}
+.welcome h2{font-size:1.5rem; margin-bottom:7px}
+.welcome .lede{font-size:.94rem; color:var(--ink-2); line-height:1.6; max-width:62ch; margin:0 0 20px}
+.ways{display:grid; grid-template-columns:repeat(auto-fit,minmax(196px,1fr)); gap:11px; margin-bottom:22px}
+.way{display:flex; gap:11px; align-items:flex-start; padding:13px 14px; border-radius:var(--r);
+  background:var(--surface-2); border:1px solid var(--line-soft)}
+.way .wico{width:32px; height:32px; flex:none; border-radius:10px; display:grid; place-items:center;
+  background:var(--surface); color:var(--accent); font-size:17px; box-shadow:var(--sh-1)}
+.way b{display:block; font-size:.86rem; margin-bottom:2px}
+.way span{font-size:.78rem; color:var(--ink-3); line-height:1.45}
+.paper-map h3{font-size:.68rem; letter-spacing:.11em; text-transform:uppercase; color:var(--ink-3);
+  font-family:var(--sans); font-weight:700; margin-bottom:11px; display:flex; align-items:center; gap:8px}
+.paper-map h3 .ic{font-size:1.15rem; letter-spacing:normal}
+.pbar{display:flex; gap:2px; height:38px; border-radius:var(--r-sm); overflow:hidden; margin-bottom:9px}
+.pbar div{display:flex; align-items:center; justify-content:center; gap:7px; color:#fff;
+  font-size:.76rem; font-weight:600; min-width:0; padding-inline:6px}
+.pbar .ic{font-size:.95rem}
+.pkey{display:flex; flex-wrap:wrap; gap:6px 18px; font-size:.75rem; color:var(--ink-3)}
+.pkey span{display:inline-flex; align-items:center; gap:6px}
+.pkey i{width:9px; height:9px; border-radius:3px; background:var(--kc); display:inline-block}
+
+/* =========================================================== heatmap ===== */
+.hm{background:var(--surface); border:1px solid var(--line); border-radius:var(--r-lg);
+  padding:20px 22px 22px; margin-bottom:16px; box-shadow:var(--sh-1)}
+.hm h3{font-size:1.16rem; font-weight:600; margin-bottom:5px; display:flex; align-items:center; gap:9px}
+.hm h3 .ic{color:var(--accent); font-size:1.15rem}
+.hm .lede{font-size:.86rem; color:var(--ink-2); line-height:1.55; margin:0 0 18px; max-width:76ch}
+.hmgrid{display:grid; grid-template-columns:minmax(150px,1.7fr) repeat(3,minmax(54px,auto)) minmax(96px,1.05fr);
+  font-size:.82rem; align-items:stretch}
+.hmgrid .hh{font-size:.62rem; letter-spacing:.09em; text-transform:uppercase; color:var(--ink-3);
+  padding:0 9px 7px; font-weight:700; border-bottom:1.5px solid var(--line); align-self:end}
+.hmgrid .hh.num{text-align:center}
+.hmgrid .cell{padding:6px 9px; border-bottom:1px solid var(--line-soft); display:flex; align-items:center}
+.hmgrid .cell.num{justify-content:center; font-family:var(--mono);
+  font-variant-numeric:tabular-nums; font-weight:600}
+.hmgrid .lab{gap:9px; cursor:pointer; background:none; border:0; border-bottom:1px solid var(--line-soft);
+  text-align:left; color:inherit; font:inherit; padding:6px 9px; display:flex; align-items:center; transition:.12s}
+.hmgrid .lab:hover{background:var(--surface-2); color:var(--accent)}
+.hmgrid .lab.sub-row{padding-left:28px; font-size:.78rem; color:var(--ink-2)}
+.hmgrid .lab.sub-row .swatch{width:6px; height:6px; opacity:.55}
+.hmgrid .sec-row{grid-column:1/-1; font-size:.63rem; letter-spacing:.1em; text-transform:uppercase;
+  color:var(--ink-3); font-weight:700; padding:16px 9px 6px; border-bottom:1.5px solid var(--line)}
+.hmgrid .status{font-size:.74rem; letter-spacing:.02em; display:inline-flex; align-items:center; gap:5px}
+.hmgrid .status.hot{color:var(--ink-3)}
+.hmgrid .status.due,.hmgrid .status.never{color:var(--warn); font-weight:600}
+/* sequential ramp: one hue, strength = how often the element has been the core focus */
+.heat{--h:0; background:color-mix(in srgb, var(--accent) calc(var(--h) * 1%), transparent);
+  border-radius:6px; min-width:30px; padding:3px 8px; text-align:center;
+  color:color-mix(in srgb, var(--ink) calc(60% + var(--h) * 0.4%), var(--ink))}
+.heat.zero{color:var(--ink-3); font-weight:400}
+.hmkey{margin-top:16px; font-size:.76rem; color:var(--ink-3); line-height:1.6}
+
+.empty{background:var(--surface); border:1.5px dashed var(--line); border-radius:var(--r-lg);
+  padding:40px 22px; text-align:center; color:var(--ink-3); font-size:.92rem}
+.empty .ic{font-size:2rem; color:var(--line); display:block; margin:0 auto 12px; width:2rem; height:2rem}
+
+.foot{max-width:1400px; margin:0 auto; padding:0 22px 52px; font-size:.79rem; color:var(--ink-3); line-height:1.65}
+.foot p{margin:.55em 0; max-width:96ch}
+.foot b{color:var(--ink-2)}
+
+@media (max-width:560px){
+  .mast-in h1{font-size:1.3rem}
+  .brand-mark{width:40px; height:40px; font-size:21px}
+  ul.qs > li{flex-wrap:wrap; gap:9px}
+  .ref{min-width:0}
+  .qbody{flex-basis:100%}
+  .hmgrid{grid-template-columns:minmax(104px,1.4fr) repeat(3,minmax(36px,auto)) minmax(66px,1fr); font-size:.74rem}
+  .shell{padding-inline:13px}
+  .welcome{padding:18px 16px}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important; transition:none!important; scroll-behavior:auto}}
+
+/* ============================================================= print ===== */
+@media print{
+  .rail,.toolbar,.masthead,.tick,.foot,.hm,.welcome{display:none!important}
+  .shell{display:block; padding:0}
+  body{background:#fff; color:#000; font-size:11pt; font-family:Georgia,serif}
+  .group,.rhead{border:1px solid #999; box-shadow:none; break-inside:avoid; border-radius:0}
+  .group > header{background:#eee}
+  a{color:#000; text-decoration:none}
+  body.sheet .shell{display:none!important}
+  body.sheet #printarea{display:block!important}
+}
+#printarea{display:none}
+.ws-cover{border-bottom:2.5px solid #000; padding-bottom:10px; margin-bottom:20px}
+.ws-cover h1{font-size:17pt; margin:0 0 5px; font-family:Georgia,serif}
+.ws-cover .sub{font-size:10pt; color:#444}
+.ws-q{break-inside:avoid; margin-bottom:17px}
+.ws-q .hd{display:flex; gap:10px; align-items:baseline; font-size:10pt; margin-bottom:4px}
+.ws-q .ref{font-family:"IBM Plex Mono",monospace; font-weight:600; min-width:120px}
+.ws-q .mk{margin-left:auto; font-family:"IBM Plex Mono",monospace}
+.ws-q .qt{font-size:11.5pt; line-height:1.45}
+.ws-q .note{font-size:9pt; color:#555; font-style:italic; margin-top:4px; background:none; border:0; padding:0; display:block}
+.ws-q ol.opts{margin:6px 0 0; padding:0; font-size:10.5pt; gap:1px}
+.ws-q ol.opts li{color:#000; padding:1px 0; background:none}
+.ws-lines{margin-top:7px; border-bottom:1px solid #000;
+  background-image:repeating-linear-gradient(to bottom, transparent 0 27px, #bbb 27px 28px)}
+.ws-break{break-before:page; border-top:2.5px solid #000; padding-top:12px; margin-top:26px}
+.ws-crit{break-inside:avoid; margin-bottom:15px; font-size:10pt}
+.ws-crit .ref{font-family:"IBM Plex Mono",monospace; font-weight:600}
+.ws-crit table{border-collapse:collapse; width:100%; margin-top:5px}
+.ws-crit td{border:1px solid #999; padding:5px 7px; vertical-align:top; font-size:9.5pt}
+.ws-crit td.m{width:66px; font-family:"IBM Plex Mono",monospace; text-align:center}
+.ws-crit ul{margin:0; padding-left:16px}
+</style>
+</head>
+<body>
+
+<!-- Icon sprite. Drawn here rather than loaded, so the page stays one file and
+     works offline; every icon inherits currentColor and the surrounding size. -->
+<svg id="sprite" xmlns="http://www.w3.org/2000/svg"><defs>
+<symbol id="g-scales" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 3v18M7 21h10M12 6 4.5 8M12 6l7.5 2"/><path d="M4.5 8 1.8 14.2h5.4zM19.5 8l-2.7 6.2h5.4z"/>
+  <path d="M1.8 14.2a2.7 2.7 0 0 0 5.4 0M16.8 14.2a2.7 2.7 0 0 0 5.4 0"/></symbol>
+<symbol id="g-globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.6 3.8 5.7 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.7-3.8-9S9.5 5.6 12 3z"/></symbol>
+<symbol id="g-family" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="8" cy="7" r="2.8"/><circle cx="17" cy="8.5" r="2.2"/>
+  <path d="M3 20v-1.6A4.4 4.4 0 0 1 7.4 14h1.2A4.4 4.4 0 0 1 13 18.4V20"/>
+  <path d="M15 20v-1.2a3.6 3.6 0 0 1 3.6-3.6h.3A3.1 3.1 0 0 1 22 18.3V20"/></symbol>
+<symbol id="g-shelter" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M3.5 10.5 12 3.5l8.5 7"/><path d="M5.5 9.2V20h13V9.2"/><path d="M10 20v-5.2h4V20"/></symbol>
+<symbol id="g-gavel" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m14.5 3.5 6 6-2.5 2.5-6-6z"/><path d="m11 8 5 5"/><path d="m12.8 11.2-7.5 7.5a1.8 1.8 0 0 1-2.5-2.5l7.5-7.5"/>
+  <path d="M14 21h8"/></symbol>
+<symbol id="g-columns" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M3 9.5 12 4l9 5.5"/><path d="M4.5 20h15"/><path d="M6.5 11v7M10.5 11v7M14.5 11v7M18.5 11v7"/></symbol>
+<symbol id="g-list" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m3 6 1.6 1.6L7.6 4.6M3 12l1.6 1.6L7.6 10.6M3 18l1.6 1.6 3-3"/><path d="M11 6h10M11 12h10M11 18h10"/></symbol>
+<symbol id="g-pen" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L8 18l-4 1 1-4z"/><path d="M14.5 5.5l3 3"/><path d="M4 21h16"/></symbol>
+<symbol id="g-doc" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5"/>
+  <path d="M8.5 13h7M8.5 16.5h5"/></symbol>
+<symbol id="g-book" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 6.5C10.5 5 8.5 4.3 5 4.3V18c3.5 0 5.5.7 7 2.2 1.5-1.5 3.5-2.2 7-2.2V4.3c-3.5 0-5.5.7-7 2.2z"/>
+  <path d="M12 6.5v13.7"/></symbol>
+<symbol id="g-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="11" cy="11" r="7"/><path d="m16.2 16.2 4.3 4.3"/></symbol>
+<symbol id="g-dice" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><circle cx="8.5" cy="8.5" r="1.15" fill="currentColor" stroke="none"/>
+  <circle cx="15.5" cy="15.5" r="1.15" fill="currentColor" stroke="none"/><circle cx="12" cy="12" r="1.15" fill="currentColor" stroke="none"/></symbol>
+<symbol id="g-print" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M7 9V3.8h10V9"/><path d="M7 18H5a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/>
+  <rect x="7" y="14.5" width="10" height="6.2" rx="1.2"/></symbol>
+<symbol id="g-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m4.5 12.5 5 5 10-11"/></symbol>
+<symbol id="g-chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m9 5 7 7-7 7"/></symbol>
+<symbol id="g-back" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M19 12H5"/><path d="m11 6-6 6 6 6"/></symbol>
+<symbol id="g-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="12" r="8.5"/><path d="M12 7.2V12l3.2 2"/></symbol>
+<symbol id="g-alert" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.85" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 4.2 2.6 20h18.8z"/><path d="M12 10v4.2"/><circle cx="12" cy="17.3" r="1.05" fill="currentColor" stroke="none"/></symbol>
+<symbol id="g-target" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.6"/><circle cx="12" cy="12" r="1" fill="currentColor" stroke="none"/></symbol>
+<symbol id="g-grid" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="3.5" y="3.5" width="7" height="7" rx="2"/><rect x="13.5" y="3.5" width="7" height="7" rx="2"/>
+  <rect x="3.5" y="13.5" width="7" height="7" rx="2"/><rect x="13.5" y="13.5" width="7" height="7" rx="2"/></symbol>
+<symbol id="g-eye" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M2.2 12S5.8 5.5 12 5.5 21.8 12 21.8 12 18.2 18.5 12 18.5 2.2 12 2.2 12z"/><circle cx="12" cy="12" r="3.1"/></symbol>
+<symbol id="g-tag" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M3.5 11.4V4.6a1 1 0 0 1 1-1h6.8a1 1 0 0 1 .7.3l8.1 8.1a1.5 1.5 0 0 1 0 2.1l-5.4 5.4a1.5 1.5 0 0 1-2.1 0L3.8 12a1 1 0 0 1-.3-.6z"/>
+  <circle cx="7.8" cy="7.8" r="1.35"/></symbol>
+<symbol id="g-bolt" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M13.2 2.5 4.5 13.6h6.3L10 21.5l8.7-11.1h-6.3z"/></symbol>
+<symbol id="g-layers" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m12 3 9 4.8-9 4.8-9-4.8z"/><path d="m3 12.4 9 4.8 9-4.8"/><path d="m3 16.9 9 4.8 9-4.8"/></symbol>
+</defs></svg>
+
+<header class="masthead">
+  <svg class="mast-art" viewBox="0 0 24 24" aria-hidden="true"><use href="#g-scales"/></svg>
+  <div class="mast-in">
+    <div class="brand">
+      <span class="brand-mark"><svg class="ic" aria-hidden="true"><use href="#g-scales"/></svg></span>
+      <div>
+        <div class="school">Sydney Secondary College — Blackwattle Bay</div>
+        <h1>HSC Legal Studies Question Finder</h1>
+      </div>
+    </div>
+    <div class="mast-meta">
+      <span class="pill"><svg class="ic"><use href="#g-doc"/></svg><b id="m-q">—</b> questions</span>
+      <span class="pill"><svg class="ic"><use href="#g-layers"/></svg><b id="m-p">—</b> papers</span>
+      <span class="pill"><svg class="ic"><use href="#g-clock"/></svg><span id="m-y">—</span></span>
+    </div>
+  </div>
+</header>
+
+<div class="shell">
+  <aside class="rail">
+    <div class="picker">
+      <div class="tabs" role="tablist">
+        <button role="tab" data-tab="syl" aria-selected="true"><svg class="ic"><use href="#g-book"/></svg>Content</button>
+        <button role="tab" data-tab="thm" aria-selected="false"><svg class="ic"><use href="#g-tag"/></svg>Themes</button>
+        <button role="tab" data-tab="dir" aria-selected="false"><svg class="ic"><use href="#g-bolt"/></svg>Directive</button>
+      </div>
+      <div class="searchwrap">
+        <div class="sbox">
+          <svg class="ic"><use href="#g-search"/></svg>
+          <input id="q" type="search" aria-label="Search content points, themes and questions"
+            placeholder="Search — bail, surrogacy, tenancy…" autocomplete="off">
+          <span class="kbd">/</span>
+        </div>
+        <button class="home" id="home" type="button" title="Back to the four topics">
+          <svg class="ic"><use href="#g-grid"/></svg>All</button>
+      </div>
+      <div class="tree" id="tree"></div>
+    </div>
+    <section class="stats" id="stats" aria-label="Questions in this selection"></section>
+  </aside>
+
+  <main class="results" id="results">
+    <div class="rhead" id="rhead"></div>
+    <div class="toolbar">
+      <div class="chipset" role="group" aria-label="Filter by section">
+        <button data-sec="I" aria-pressed="true">Sec I</button>
+        <button data-sec="II-A" aria-pressed="true">II-A</button>
+        <button data-sec="II-B" aria-pressed="true">II-B</button>
+        <button data-sec="III" aria-pressed="true">Sec III</button>
+      </div>
+      <label class="tool" for="from"><svg class="ic"><use href="#g-clock"/></svg>From
+        <select id="from">
+          <option value="0">all years</option>
+          <option value="2016">2016</option>
+          <option value="2019">2019</option>
+          <option value="2021">2021</option>
+        </select>
+      </label>
+      <label class="tool" for="coreonly"><input type="checkbox" id="coreonly">
+        <svg class="ic"><use href="#g-target"/></svg>Core focus only</label>
+      <div class="chipset">
+        <button id="tickall" type="button"><svg class="ic"><use href="#g-check"/></svg>All</button>
+        <button id="untickall" type="button">Clear</button>
+      </div>
+      <button class="tool" id="rand" type="button"><svg class="ic"><use href="#g-dice"/></svg>Random</button>
+      <button class="tool primary" id="sheet" type="button"><svg class="ic"><use href="#g-print"/></svg>Print worksheet</button>
+      <span class="progress" id="progress"></span>
+    </div>
+    <div id="hmwrap"></div>
+    <div id="qlist"></div>
+  </main>
+</div>
+
+<div id="printarea" hidden></div>
+
+<footer class="foot">
+  <p><b>What is in here.</b> Every question from 2011 to 2025, the life of the 2009 syllabus: 300 Section I
+  objective-response questions with their options and NESA's answer key, 51 Human Rights short answers,
+  the 15 Crime extended responses, and both alternatives of the Family and Shelter option questions —
+  426 in all.</p>
+  <p><b>Two levels of tagging.</b> Section I and Section II Part A are tagged to a single syllabus dot
+  point, because a one- or two-mark question turns on one. The extended responses are tagged to whole
+  syllabus sections, because a 15- or 25-mark answer draws on a section rather than a dot point.</p>
+  <p><b>How questions are matched.</b> Each question carries a <b>core</b> focus — the elements it is built on,
+  which you cannot answer without — and <b>supporting</b> elements, expected as evidence or context. Selecting a
+  content point or theme shows both, and “Core focus only” narrows to the questions genuinely about it.
+  This is a reading of the questions, not an official NESA mapping.</p>
+  <p><b>Section III sets two alternatives.</b> Candidates answer part (a) <i>or</i> part (b), so the thirty
+  alternatives in each option are thirty separate questions for revision but only fifteen papers.</p>
+  <p><b>Ticks are private to this device.</b> They are kept in your own browser and are not sent anywhere.
+  Ticking is also how the worksheet is built — tick the questions you want, then print.</p>
+  <p><b>Marking criteria.</b> Band criteria are shown for <b>every</b> short answer and extended
+  response, 2011 to 2025, with NESA's sample answers where they were published and the
+  “answers could include” notes where NESA gave them — a recent practice, and much
+  fuller from 2024. They unfold in stages, so a question can be attempted before the marking is
+  read. Two gaps are NESA's own rather than ours: <b>2020 published no sample answers at all</b>,
+  and the 2013 guidelines set out their “answers could include” notes in a way that
+  cannot be reproduced faithfully here — use the link to that year's guidelines instead.</p>
+  <p><b>Papers and marking guidelines.</b> The examination papers and NESA marking guidelines for 2015 to 2025
+  sit beside this page, so a year link opens the paper itself and the guidelines are one click away. The
+  2011 to 2014 papers and guidelines are not held here; those links go to the Board of Studies archive,
+  which still serves them.</p>
+  <p>Questions and papers © NSW Education Standards Authority. Content points and themes from the Legal Studies
+  Stage 6 Syllabus (Board of Studies NSW, 2009).</p>
+</footer>
+
+<script>const DATA = __DATA__;</script>
+<script>
+/* ------------------------------------------------------------------ setup */
+// Sections are an ordered sequence, so they take one hue at four strengths.
+// Topic colour is reserved for topic identity; the icon carries the section.
+const SEC = {
+  'I':    {name:'Section I — Objective response', v:'--s1', ic:'g-list',    desc:'20 marks · 15 from Crime, 5 from Human Rights'},
+  'II-A': {name:'Section II Part A — Short answer', v:'--s2', ic:'g-pen',   desc:'Human Rights · 15 marks across 3–4 items'},
+  'II-B': {name:'Section II Part B — Extended response', v:'--s3', ic:'g-doc', desc:'Crime · one question · 15 marks · no alternative'},
+  'III':  {name:'Section III — Options', v:'--s4', ic:'g-columns', desc:'25 marks · answer part (a) or part (b)'}
+};
+const icon = (id, cls) => `<svg class="ic${cls ? ' ' + cls : ''}" aria-hidden="true"><use href="#${id}"/></svg>`;
+const TICON = {crime:'g-scales', humanrights:'g-globe', family:'g-family', shelter:'g-shelter'};
+// NESA allows 30 min for Section I, 1 hour for Section II, 1.5 hours for Section III
+const minutes = it => it.s === 'I' ? 2 : Math.round(it.m * (it.s === 'II-A' ? 2 : 1.8));
+const SECORD = ['I','II-A','II-B','III'];
+const TV = {crime:['--t1','--t1b'], humanrights:['--t2','--t2b'], family:['--t3','--t3b'], shelter:['--t4','--t4b']};
+
+/* 2015–2025 ship beside the page, so a link opens the paper itself rather than
+   a NESA landing page. 2011–2014 are not held here and fall back to the Board
+   of Studies archive, which still serves them. */
+const PAPER = {
+ 2011:'https://www.boardofstudies.nsw.edu.au/hsc_exams/hsc2011exams/pdf_doc/2011-hsc-exam-legal-studies.pdf',
+ 2012:'https://www.boardofstudies.nsw.edu.au/hsc_exams/hsc2012exams/pdf_doc/2012-hsc-exam-legal-studies.pdf',
+ 2013:'https://www.boardofstudies.nsw.edu.au/hsc_exams/2013/pdf_doc/2013-hsc-legal-studies.pdf',
+ 2014:'https://www.boardofstudies.nsw.edu.au/hsc_exams/2014/pdf_doc/2014-hsc-legal-studies.pdf',
+ 2015:'legal-studies-hsc-exam-2015.pdf',
+ 2016:'2016-hsc-legal-studies.pdf',
+ 2017:'2017-hsc-legal-studies.pdf',
+ 2018:'2018-hsc-legal-studies.pdf',
+ 2019:'2019-hsc-legal-studies.pdf',
+ 2020:'2020-hsc-legal-studies.pdf',
+ 2021:'2021-hsc-legal-studies.pdf',
+ 2022:'2022-hsc-legal-studies.pdf',
+ 2023:'2023-hsc-legal-studies.pdf',
+ 2024:'2024-hsc-legal-studies.pdf',
+ 2025:'2025-hsc-legal-studies.pdf'
+};
+const MG = {
+ 2011:'https://www.boardofstudies.nsw.edu.au/hsc_exams/hsc2011exams/pdf_doc/legal-studies-marking-guide-11.pdf',
+ 2012:'https://www.boardofstudies.nsw.edu.au/hsc_exams/hsc2012exams/pdf_doc/legal-studies-marking-guide-12.pdf',
+ 2013:'https://www.boardofstudies.nsw.edu.au/hsc_exams/2013/pdf_doc/2013-marking-guide-legal-studies.pdf',
+ 2014:'https://www.boardofstudies.nsw.edu.au/hsc_exams/2014/pdf_doc/2014-mg-legal-studies.pdf',
+ 2015:'legal-studies-hsc-mg-2015.pdf',
+ 2016:'2016-hsc-mg-legal-studies.pdf',
+ 2017:'2017-hsc-mg-legal-studies.pdf',
+ 2018:'2018-hsc-legal-studies-mg.pdf',
+ 2019:'2019-hsc-legal-studies-mg.pdf',
+ 2020:'2020-hsc-legal-studies-mg.pdf',
+ 2021:'2021-hsc-legal-studies-mg.pdf',
+ 2022:'2022-hsc-legal-studies-mg.pdf',
+ 2023:'2023-hsc-legal-studies-mg.pdf',
+ 2024:'2024-hsc-legal-studies-mg.pdf',
+ 2025:'2025-hsc-legal-studies-mg.pdf'
+};
+const href = f => /^https?:/.test(f) ? f : encodeURI(f);
+const nesa = y => PAPER[y] ? href(PAPER[y])
+  : 'https://www.nsw.gov.au/education-and-training/nesa/curriculum/hsc-exam-papers/legal-studies/' + y;
+const mgLink = y => MG[y] ? href(MG[y]) : null;
+
+const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+/* Flat lookup of every tag: content points, sections and themes alike. Each
+   entry knows its topic, its label, its colour and its parent, which is what
+   lets a selection on a section pull in the dot points beneath it. */
+const TAG = {};
+DATA.topics.forEach(t => {
+  t.themes.forEach(th => TAG[th.id] = {id:th.id, topic:t.k, label:th.label, detail:th.full,
+    colour:th.colour, parent:null, kind:'theme'});
+  t.sections.forEach(s => {
+    TAG[s.id] = {id:s.id, topic:t.k, label:s.label, detail:null, colour:s.colour, parent:null, kind:'section'};
+    s.points.forEach(p => TAG[p.id] = {id:p.id, topic:t.k, label:p.label, detail:p.detail || null,
+      colour:s.colour, parent:s.id, kind:'point'});
+  });
+});
+const kids = {};
+Object.values(TAG).forEach(t => { if (t.parent) (kids[t.parent] = kids[t.parent] || []).push(t.id); });
+
+/* A question tagged at section level answers a selection on any dot point
+   inside it, and a question tagged on a dot point answers a selection on its
+   section. So a tag matches a selection when either contains the other. */
+const family = id => {
+  const out = new Set([id]);
+  (kids[id] || []).forEach(k => out.add(k));
+  if (TAG[id] && TAG[id].parent) out.add(TAG[id].parent);
+  return out;
+};
+
+DATA.items.forEach((it, i) => { it.i = i; it.id = it.topic + it.y + it.l; });
+
+const matches = (it, ids, coreOnly) => {
+  const want = new Set();
+  ids.forEach(id => family(id).forEach(x => want.add(x)));
+  const tags = coreOnly ? it.core : it.core.concat(it.support);
+  return tags.some(t => want.has(t));
+};
+const countFor = (ids, coreOnly) => DATA.items.filter(it => matches(it, ids, coreOnly)).length;
+
+/* Extended responses are tagged at section level, because a 25-mark essay draws
+   on a whole section rather than one dot point. So a dot point's own count is
+   zero until the multiple choice and short answers arrive, and what it really
+   offers is its section's questions. Counting directly keeps that honest. */
+const countDirect = (id, coreOnly) => DATA.items.filter(it =>
+  (coreOnly ? it.core : it.core.concat(it.support)).includes(id)).length;
+
+const searchText = it => (it._s = it._s || [it.t, it.st, (TAG[it.core[0]] || {}).label]
+  .concat(it.opts ? it.opts.map(o => o[1]) : []).filter(Boolean).join(' ').toLowerCase());
+
+/* --------------------------------------------------------------- state */
+let done = new Set();
+try { done = new Set(JSON.parse(localStorage.getItem('hsc-ls-done') || '[]')); } catch (e) {}
+const save = () => { try { localStorage.setItem('hsc-ls-done', JSON.stringify([...done])); } catch (e) {} };
+
+const state = {
+  tab:'syl', query:'', sel:null, level:0, ti:0, si:0,
+  secs:{'I':true,'II-A':true,'II-B':true,'III':true}, from:0, coreOnly:false, heat:false
+};
+let booted = false;
+
+function pick(kind, key, title, sub, detail) {
+  state.sel = {kind, key, title, sub, detail};
+  state.heat = false;
+  render();
+  if (booted && window.matchMedia('(max-width:900px)').matches) {
+    document.getElementById('results').scrollIntoView({behavior:'smooth', block:'start'});
+  }
+}
+function itemsFor(sel) {
+  if (!sel) return [];
+  let out;
+  if (sel.kind === 'tags') out = DATA.items.filter(it => matches(it, sel.key, state.coreOnly));
+  else if (sel.kind === 'dir') out = DATA.items.filter(it => it.dir === sel.key);
+  else if (sel.kind === 'band') out = DATA.items.filter(it => it.band === sel.key);
+  else if (sel.kind === 'topic') out = DATA.items.filter(it => it.topic === sel.key);
+  else if (sel.kind === 'text') { const q = sel.key.toLowerCase();
+    out = DATA.items.filter(it => searchText(it).includes(q)); }
+  else out = [];
+  return out.slice().sort((a, b) => a.y - b.y || SECORD.indexOf(a.s) - SECORD.indexOf(b.s)
+    || a.q - b.q || a.l.localeCompare(b.l));
+}
+const visible = () => itemsFor(state.sel).filter(it => state.secs[it.s] && it.y >= state.from);
+
+/* --------------------------------------------------------------- picker */
+function tagBtn(id, showCode) {
+  const t = TAG[id];
+  const direct = countDirect(id, false), dcore = countDirect(id, true);
+  const total = countFor([id], false);
+  // A dot point with nothing of its own still reaches its section's questions;
+  // the arrow says the number is inherited rather than earned.
+  const cnt = direct ? `${dcore}/${direct}` : (total ? `↑${total}` : '—');
+  const cur = state.sel && state.sel.kind === 'tags' && state.sel.key.length === 1 && state.sel.key[0] === id;
+  return `<button class="dot${total ? '' : ' none'}" aria-current="${cur}" data-act="tags" data-key="${id}">
+    ${showCode ? `<span class="code">${esc(id)}</span>` : `<span class="swatch" style="--sw:${t.colour}"></span>`}
+    <span class="lbl">${esc(t.label)}</span>
+    <span class="cnt"${direct ? '' : ' style="opacity:.55"'}>${cnt}</span></button>`;
+}
+const levelHead = (back, crumb) =>
+  `<div class="level-head"><button class="back" data-nav="up">${icon('g-back')}${esc(back)}</button>
+   <span class="crumb">${esc(crumb)}</span></div>`;
+
+function renderTree() {
+  const tree = document.getElementById('tree');
+  const q = state.query.trim().toLowerCase();
+  let html = '';
+
+  if (q) {
+    if (q.length > 2) html += `<button class="dot" data-act="text" data-key="${esc(state.query.trim())}">
+      <span class="code">↳</span><span class="lbl">Search every question for “${esc(state.query.trim())}”</span></button>`;
+    let hits = 0;
+    Object.values(TAG).forEach(t => {
+      if (!(t.label.toLowerCase().includes(q) || (t.detail || '').toLowerCase().includes(q) || t.id.includes(q))) return;
+      hits++;
+      const topic = DATA.topics.find(x => x.k === t.topic);
+      html += `<div>${tagBtn(t.id, t.kind !== 'theme')}
+        <span class="hit-crumb">${esc(topic.label)} › ${esc(t.kind === 'theme' ? 'Theme' : (TAG[t.parent] || t).label)}</span></div>`;
+    });
+    if (!hits) html += `<p class="nomatch">Nothing matches that. Try a shorter word, or search every question above.</p>`;
+    tree.innerHTML = html;
+    return;
+  }
+
+  if (state.tab === 'dir') {
+    html += `<div class="heading"><span>Demand band</span></div>`;
+    DATA.bands.forEach(b => {
+      const n = DATA.items.filter(i => i.band === b.band).length;
+      const cur = state.sel && state.sel.kind === 'band' && state.sel.key === b.band;
+      html += `<button class="dot${n ? '' : ' none'}" aria-current="${cur}" data-act="band" data-key="${b.band}">
+        <span class="code">${b.band}</span><span class="lbl">${esc(b.label)}</span>
+        <span class="cnt">${n || '—'}</span></button>`;
+    });
+    html += `<div class="heading" style="margin-top:14px"><span>Directive as set</span></div>`;
+    const verbs = {};
+    DATA.items.forEach(i => { if (i.dir) verbs[i.dir] = (verbs[i.dir] || 0) + 1; });
+    Object.entries(verbs).sort((a, b) => b[1] - a[1]).forEach(([v, n]) => {
+      const cur = state.sel && state.sel.kind === 'dir' && state.sel.key === v;
+      html += `<button class="dot" aria-current="${cur}" data-act="dir" data-key="${esc(v)}">
+        <span class="code">▸</span><span class="lbl">${esc(v.charAt(0).toUpperCase() + v.slice(1))}</span>
+        <span class="cnt">${n}</span></button>`;
+    });
+    tree.innerHTML = html;
+    return;
+  }
+
+  if (state.level === 0) {
+    DATA.topics.forEach((t, i) => {
+      const n = DATA.items.filter(x => x.topic === t.k).length;
+      const units = state.tab === 'thm' ? t.themes.length
+        : t.sections.reduce((a, s) => a + s.points.length, 0);
+      const ticked = DATA.items.filter(x => x.topic === t.k && done.has(x.id)).length;
+      const pct = n ? Math.round(ticked / n * 100) : 0;
+      html += `<button class="topic-card" style="--tc:var(${TV[t.k][0]});--tb:var(${TV[t.k][1]})"
+        data-nav="topic" data-ti="${i}">
+        <span class="thead">
+          <span class="tico">${icon(TICON[t.k])}</span>
+          <span><span class="tn">${esc(t.label)}</span><span class="part">${esc(t.part)}</span></span>
+          <span class="go">${icon('g-chev')}</span>
+        </span>
+        <span class="meta"><b>${n}</b> questions <span aria-hidden="true">·</span>
+          <b>${units}</b> ${state.tab === 'thm' ? 'themes' : 'content points'}
+          ${ticked ? `<span aria-hidden="true">·</span> <b>${ticked}</b> ticked` : ''}</span>
+        ${ticked ? `<span class="bar"><i style="width:${pct}%"></i></span>` : ''}</button>`;
+    });
+  } else {
+    const t = DATA.topics[state.ti];
+    if (state.tab === 'thm') {
+      html += levelHead('All topics', t.label + ' — themes and challenges');
+      t.themes.forEach(th => { html += tagBtn(th.id, false); });
+    } else if (state.level === 1) {
+      html += levelHead('All topics', t.label);
+      t.sections.forEach((s, i) => {
+        html += `<button class="sub" style="--tc:${s.colour}" data-nav="sec" data-si="${i}">
+          <span class="dotc"></span><span class="lbl">${esc(s.label)}</span>
+          <span class="cnt">${countFor([s.id], true)}/${countFor([s.id], false)}</span>
+          <span class="chev">${icon('g-chev')}</span></button>`;
+      });
+    } else {
+      const s = t.sections[state.si];
+      html += levelHead(t.label, s.label);
+      html += tagBtn(s.id, true);
+      html += `<div class="heading"><span>Students learn about</span></div>`;
+      s.points.forEach(p => { html += tagBtn(p.id, true); });
+    }
+  }
+  tree.innerHTML = html;
+}
+
+// 0 hidden · 1 answer or criteria · 2 sample answer and what a full answer covers
+const revealed = new Map();
+const critFor = it => DATA.crit[`${it.y}|${it.s}|${it.l}`] || null;
+
+function optionList(it) {
+  if (!it.opts) return '';
+  const show = revealed.get(it.id) >= 1;
+  return `<ol class="opts">${it.opts.map(o =>
+    `<li class="${show && o[0] === it.ans ? 'right' : ''}"><span class="ol">${esc(o[0])}</span>${esc(o[1])}</li>`
+  ).join('')}</ol>`;
+}
+
+function answerBlock(it) {
+  const st = revealed.get(it.id) || 0;
+  const c = critFor(it);
+
+  if (it.s === 'I') {
+    if (!it.ans) return '';
+    if (!st) return `<div class="crit"><button class="reveal" data-reveal="1" data-id="${it.id}">${icon('g-eye')}Show the answer</button></div>`;
+    // 2018 had two disputed questions; NESA's key is reproduced as published
+    // rather than forced into a single letter.
+    const plain = /^[A-D]$/.test(it.ans);
+    return `<div class="crit"><button class="reveal" data-reveal="0" data-id="${it.id}">${icon('g-eye')}Hide the answer</button>
+      <div class="answer">${icon('g-check')}Correct answer: <b>${esc(it.ans)}</b>${plain ? '' :
+        ' — NESA recorded this question as disputed and marked it accordingly.'}</div></div>`;
+  }
+
+  if (!c) {
+    return mgLink(it.y) ? `<div class="crit"><span class="mglink">Criteria for ${it.y} are not held here —
+      see the marking guidelines.</span></div>` : '';
+  }
+  if (!st) {
+    return `<div class="crit"><button class="reveal" data-reveal="1" data-id="${it.id}">${icon('g-gavel')}Show marking criteria</button></div>`;
+  }
+  // Criteria first, then the sample answer — so a question can be attempted, then
+  // marked, then compared against what NESA published.
+  let inner = (c.criteria || []).map(b => `<div class="band"><span class="bm">${esc(b.m)}</span>
+    <ul>${b.b.map(x => `<li>${esc(x)}</li>`).join('')}</ul></div>`).join('');
+  const more = (c.sample && c.sample.length) || (c.could && c.could.length);
+  if (st === 1 && more) {
+    const bits = [];
+    if (c.sample && c.sample.length) bits.push('the sample answer');
+    if (c.could && c.could.length) bits.push('what a full answer covers');
+    inner += `<div class="stage2"><button class="reveal" data-reveal="2" data-id="${it.id}">
+      Show ${bits.join(' and ')}</button></div>`;
+  }
+  if (st === 2) {
+    if (c.sample && c.sample.length) inner += `<h4 style="margin-top:12px">Sample answer</h4>
+      <div class="body">${c.sample.map(x => `<p>${esc(x)}</p>`).join('')}</div>`;
+    if (c.could && c.could.length) inner += `<h4 style="margin-top:12px">Answers could include</h4>
+      <div class="body"><ul>${c.could.map(x => `<li>${esc(x.replace(/^[•·]\s*/, ''))}</li>`).join('')}</ul></div>`;
+  }
+  return `<div class="crit"><button class="reveal" data-reveal="0" data-id="${it.id}">${icon('g-gavel')}Hide criteria</button>
+    <div class="panel"><h4>${icon('g-gavel')}Marking criteria — NESA ${it.y}</h4>${inner}</div></div>`;
+}
+
+/* -------------------------------------------------------------- results */
+/* Chips are drawn per survey element, not per tag ID. "Dispute resolution"
+   expands to six syllabus points for filtering, but it is one idea, and six
+   chips in a row made the tag line longer than the question. */
+function tagLine(it) {
+  const chip = (lbl, colour, sup) => `<span class="tg${sup ? ' sup' : ''}"
+    style="--tgc:${colour}">${esc(lbl)}</span>`;
+  // Extended responses carry survey-element groups; Section I and II Part A are
+  // tagged at dot-point level and render their tags directly.
+  if (it.cg) {
+    const pal = DATA.groups[it.topic] || {};
+    return `<span class="tagline">`
+      + it.cg.map(l => chip(l, pal[l] || 'currentColor', false)).join('')
+      + it.sg.map(l => chip(l, pal[l] || 'currentColor', true)).join('') + `</span>`;
+  }
+  const one = (id, sup) => TAG[id] ? chip(TAG[id].label, TAG[id].colour, sup) : '';
+  return `<span class="tagline">`
+    + it.core.map(c => one(c, false)).join('')
+    + it.support.map(c => one(c, true)).join('') + `</span>`;
+}
+
+function renderResults() {
+  const sel = state.sel, all = itemsFor(sel);
+  const shown = all.filter(it => state.secs[it.s] && it.y >= state.from);
+  const nDone = all.filter(it => done.has(it.id)).length;
+  const years = all.map(it => it.y);
+  const last = years.length ? Math.max(...years) : null;
+
+  let notes = '';
+  if (!all.length) {
+    notes = `<div class="note warn">${icon('g-alert')}<span><b>Never examined.</b> No question in this
+      collection has this as a focus. That does not make it unexaminable — it makes it overdue.</span></div>`;
+  } else if (last && last <= 2019) {
+    notes = `<div class="note warn">${icon('g-alert')}<span>Last examined in <b>${last}</b>. Nothing since.</span></div>`;
+  }
+  if (state.coreOnly && sel && sel.kind === 'tags') {
+    notes += `<div class="note info">${icon('g-target')}<span>Showing only questions <b>built on</b> this.
+      Untick “Core focus only” to include questions where it is supporting evidence.</span></div>`;
+  }
+  if (sel && sel.kind === 'tags' && sel.key.length === 1 && TAG[sel.key[0]].kind === 'point'
+      && !countDirect(sel.key[0], false) && all.length) {
+    notes += `<div class="note info">${icon('g-layers')}<span>No question is tagged to this dot point on its own. These are the
+      ${all.length} questions built on <b>${esc(TAG[TAG[sel.key[0]].parent].label)}</b> as a whole —
+      extended responses are tagged at section level, because a 15- or 25-mark answer draws on the
+      section rather than one dot point. Dot-point tagging arrives with the objective-response
+      and short-answer questions.</span></div>`;
+  }
+
+  const det = sel && sel.kind === 'tags' && sel.key.length === 1 && TAG[sel.key[0]].detail;
+  document.getElementById('rhead').hidden = !sel;
+  document.getElementById('stats').hidden = !sel;
+  document.getElementById('rhead').innerHTML = sel ? `
+    <div class="eyebrow">${esc(sel.sub || '')}</div>
+    <h2>${sel.kind === 'tags' && sel.key.length === 1 && TAG[sel.key[0]].kind !== 'theme'
+      ? `<span class="code-big">${esc(sel.key[0])}</span>` : ''}${esc(sel.title)}</h2>
+    ${det ? `<p class="detail">${esc(det)}</p>` : ''}${notes}` : '';
+
+  document.getElementById('stats').innerHTML = sel ? `
+    <h3>Questions in this selection</h3>
+    <div class="tally">
+      ${SECORD.map(s => `<div><div class="n">${all.filter(i => i.s === s).length}</div>
+        <div class="s">${s === 'I' ? 'Sec I' : s === 'III' ? 'Sec III' : s}</div></div>`).join('')}
+      <div><div class="n">${all.length}</div><div class="s">Total</div></div>
+      <div><div class="n">${last || '—'}</div><div class="s">Latest</div></div>
+      <div class="wide">${icon('g-check')}<span class="n">${nDone}</span><span class="s">ticked for the worksheet</span></div>
+    </div>` : '';
+
+  document.getElementById('progress').innerHTML = all.length
+    ? `${icon('g-check')}${nDone} of ${all.length} ticked` : '';
+  document.getElementById('hmwrap').innerHTML = state.heat ? welcome() + heatmap() : '';
+
+  const body = document.getElementById('qlist');
+  if (state.heat) { body.innerHTML = ''; return; }
+  if (!shown.length) {
+    body.innerHTML = all.length
+      ? `<div class="empty">${icon('g-search')}Nothing matches the filters above. Try turning a section back on.</div>`
+      : `<div class="empty">${icon('g-book')}Choose a content point, theme or directive on the left to see the questions that have examined it.</div>`;
+    return;
+  }
+  let html = '';
+  SECORD.forEach(s => {
+    const g = shown.filter(i => i.s === s);
+    if (!g.length) return;
+    html += `<section class="group" style="--gc:var(${SEC[s].v})">
+      <header><span class="gico">${icon(SEC[s].ic)}</span>
+      <span class="sec">${esc(SEC[s].name)}</span><span class="desc">${esc(SEC[s].desc)}</span>
+      <span class="cnt">${g.length}</span></header><ul class="qs">` +
+      g.map(it => {
+        const link = nesa(it.y);
+        const ref = `${it.y} ${it.l}`;
+        return `<li class="${done.has(it.id) ? 'done' : ''}">
+          <input class="tick" type="checkbox" data-id="${it.id}" ${done.has(it.id) ? 'checked' : ''}
+            aria-label="Tick ${esc(ref)} for the worksheet">
+          <span class="ref">${link ? `<a href="${link}" target="_blank" rel="noopener">${ref}</a>` : ref}
+            ${it.part ? `<span class="alt">or part (${it.part === 'a' ? 'b' : 'a'})</span>` : ''}</span>
+          <span class="qbody">
+            ${it.st ? `<span class="stim"><b>Shared stimulus.</b> ${esc(it.st)}</span>` : ''}
+            <span class="qtext">${esc(it.t)}</span>
+            ${optionList(it)}
+            ${it.needsPaper ? `<p class="orphan">This question is built on a table printed in the paper.
+              <a href="${nesa(it.y)}" target="_blank" rel="noopener">Open the ${it.y} paper</a> to attempt it.</p>` : ''}
+            <span class="qmeta">
+              <span class="marks">${it.m} ${it.m === 1 ? 'mark' : 'marks'}</span>
+              ${it.dir ? `<span class="sk dir">${esc(it.dir)}</span>` : ''}
+              ${it.quoted ? `<span class="sk q">quoted proposition</span>` : ''}
+              <span class="sk time">${icon('g-clock')}≈${minutes(it)} min</span>
+              ${mgLink(it.y) ? `<a class="mglink" href="${mgLink(it.y)}" target="_blank"
+                rel="noopener">Marking guidelines ${it.y}</a>` : ''}
+            </span>
+            ${tagLine(it)}
+            ${answerBlock(it)}
+          </span></li>`;
+      }).join('') + `</ul></section>`;
+  });
+  body.innerHTML = html;
+}
+function render() { renderTree(); renderResults(); }
+
+/* ------------------------------------------------------- welcome panel */
+// Students arriving cold used to meet a dense coverage table first. This says
+// what the site is, the three ways in, and — because it is the thing they are
+// actually revising for — how the paper is put together.
+function welcome() {
+  const total = DATA.items.length;
+  const ticked = DATA.items.filter(i => done.has(i.id)).length;
+  const paper = [
+    {k:'I',    marks:20, label:'Section I',    note:'20 multiple choice'},
+    {k:'II-A', marks:15, label:'Section II A', note:'Human Rights short answer'},
+    {k:'II-B', marks:15, label:'Section II B', note:'Crime extended response'},
+    {k:'III',  marks:50, label:'Section III',  note:'two options, 25 marks each'},
+  ];
+  const ways = [
+    ['g-book', 'By content point', 'Pick a topic, then a syllabus section or dot point — every question that has turned on it.'],
+    ['g-tag',  'By theme',         'The themes and challenges each topic must weave through, like discretion or law reform.'],
+    ['g-bolt', 'By directive',     'Group by the verb the question sets — assess, evaluate, to what extent — and by how much it demands.'],
+  ];
+  return `<section class="welcome">
+    <h2>Every HSC Legal Studies question, 2011&ndash;2025</h2>
+    <p class="lede">${total} questions from fifteen papers, each tagged to the syllabus, with NESA's
+    answer key and marking criteria behind a reveal so you can attempt first and mark after.
+    ${ticked ? `You have ticked <b>${ticked}</b> so far.` : 'Tick questions as you go to build a printable worksheet.'}</p>
+    <div class="ways">${ways.map(([ic, t, d]) => `<div class="way">
+      <span class="wico">${icon(ic)}</span>
+      <span><b>${t}</b><span>${d}</span></span></div>`).join('')}</div>
+    <div class="paper-map">
+      <h3>${icon('g-columns')}How the paper is built — 100 marks in 3 hours</h3>
+      <div class="pbar">${paper.map(x => `<div style="flex:${x.marks}; background:var(${SEC[x.k].v})"
+        title="${esc(x.label)} — ${x.marks} marks">${icon(SEC[x.k].ic)}${x.marks}</div>`).join('')}</div>
+      <div class="pkey">${paper.map(x => `<span><i style="--kc:var(${SEC[x.k].v})"></i>
+        <b>${esc(x.label)}</b>&nbsp;${esc(x.note)}</span>`).join('')}</div>
+    </div>
+  </section>`;
+}
+
+/* ------------------------------------------------------------- heatmap */
+function heatmap() {
+  const rows = [];
+  DATA.topics.forEach(t => {
+    rows.push({sec:t.label + ' · themes and challenges'});
+    t.themes.forEach(x => rows.push({id:x.id}));
+    rows.push({sec:t.label + ' · students learn about'});
+    t.sections.forEach(s => {
+      rows.push({id:s.id});
+      s.points.forEach(p => rows.push({id:p.id, sub:true}));
+    });
+  });
+  const stats = id => {
+    const core = DATA.items.filter(it => it.core.includes(id));
+    const sup = DATA.items.filter(it => it.support.includes(id));
+    const ys = core.map(i => i.y);
+    return {core:core.length, sup:sup.length, last:ys.length ? Math.max(...ys) : null};
+  };
+  const maxCore = Math.max(...Object.keys(TAG).map(id => stats(id).core), 1);
+  const NOW = DATA.meta.lastYear;
+
+  let html = `<div class="hm"><h3>${icon('g-grid')}Coverage — what has been examined, and what is overdue</h3>
+    <p class="lede">Core is the number of questions built on the element; support counts the questions
+    where it is expected as evidence. An element that has not been the core focus since ${NOW - 5} is
+    marked overdue — the examiners work through the syllabus, and a long gap is the strongest signal
+    a revision programme can use.</p>
+    <div class="hmgrid">
+      <div class="hh">Element</div><div class="hh num">Core</div><div class="hh num">Support</div>
+      <div class="hh num">Total</div><div class="hh">Last core focus</div>`;
+  rows.forEach(r => {
+    if (r.sec) { html += `<div class="sec-row">${esc(r.sec)}</div>`; return; }
+    const t = TAG[r.id], s = stats(r.id);
+    const h = Math.round((s.core / maxCore) * 62) + (s.core ? 8 : 0);
+    const cls = !s.last ? 'never' : (NOW - s.last >= 6 ? 'due' : 'hot');
+    const txt = !s.last ? 'never' : (NOW - s.last >= 6 ? s.last + ' · overdue' : String(s.last));
+    const flag = (cls === 'hot') ? '' : icon('g-alert');
+    html += `<button class="lab${r.sub ? ' sub-row' : ''}" data-act="tags" data-key="${r.id}">
+        <span class="swatch" style="--sw:${t.colour}; margin:0"></span>${esc(t.label)}</button>
+      <div class="cell num"><span class="heat${s.core ? '' : ' zero'}" style="--h:${h}">${s.core || '·'}</span></div>
+      <div class="cell num" style="color:var(--ink-3); font-weight:400">${s.sup || '·'}</div>
+      <div class="cell num">${s.core + s.sup || '·'}</div>
+      <div class="cell"><span class="status ${cls}">${flag}${esc(txt)}</span></div>`;
+  });
+  html += `</div><p class="hmkey">Counts run over ${DATA.meta.firstYear}–${DATA.meta.lastYear}.
+    Section III counts both alternatives separately, so an option's elements are counted across
+    thirty questions rather than fifteen. Click any element to see its questions.</p></div>`;
+  return html;
+}
+
+/* ----------------------------------------------------------- worksheet */
+const lineBox = m => {
+  const rows = m <= 2 ? 4 : m <= 4 ? 7 : m <= 6 ? 11 : m <= 15 ? 30 : 46;
+  return `<div class="ws-lines" style="height:${rows * 28}px"></div>`;
+};
+function buildWorksheet() {
+  const picked = visible().filter(it => done.has(it.id))
+    .sort((a, b) => SECORD.indexOf(a.s) - SECORD.indexOf(b.s) || a.y - b.y || a.l.localeCompare(b.l));
+  if (!picked.length) { alert('Tick some questions first — or use Select all.'); return false; }
+  const marks = picked.reduce((a, b) => a + (b.m || 0), 0);
+  // The paper allows 3 hours for 100 marks, and NESA's own advice is to spend
+  // roughly a mark a minute plus reading time.
+  const mins = Math.round(marks * 1.8);
+  const d = new Date().toLocaleDateString('en-AU', {day:'numeric', month:'long', year:'numeric'});
+  let h = `<div class="ws-cover"><h1>${esc(state.sel.title)}</h1>
+    <div class="sub">HSC Legal Studies practice · ${picked.length} question${picked.length === 1 ? '' : 's'}
+    · ${marks} mark${marks === 1 ? '' : 's'} · suggested ${mins} minutes · printed ${d}</div></div>`;
+  picked.forEach(it => {
+    h += `<div class="ws-q"><div class="hd"><span class="ref">${it.y} ${it.l}</span>
+      <span>${esc(SEC[it.s].name.split('—')[0].trim())}</span>
+      <span class="mk">${it.m} ${it.m === 1 ? 'mark' : 'marks'}</span></div>
+      <div class="qt">${esc(it.t)}</div>`;
+    if (it.st) h += `<div class="note">Shared stimulus: ${esc(it.st)}</div>`;
+    if (it.opts) {
+      h += `<ol class="opts">${it.opts.map(o =>
+        `<li><span class="ol">${esc(o[0])}</span>${esc(o[1])}</li>`).join('')}</ol>
+        <div class="note">Answer: ______</div>`;
+    }
+    if (it.needsPaper) h += `<div class="note">Built on a table printed in the ${it.y} paper — open that paper before attempting it.</div>`;
+    if (it.part) h += `<div class="note">In the paper this was part (${it.part}); candidates answered
+      it or the alternative.</div>`;
+    h += (it.opts ? '' : lineBox(it.m)) + `</div>`;
+  });
+  // Marking material goes on its own page after the questions, so the worksheet
+  // can be attempted before any of it is read.
+  const withMark = picked.filter(it => critFor(it) || (it.s === 'I' && it.ans));
+  if (withMark.length) {
+    h += `<div class="ws-break"><h1 style="font-size:15pt;margin:0 0 10px">Marking criteria</h1>
+      <p style="font-size:9.5pt;color:#555;margin:0 0 14px">From the NESA marking guidelines.
+      Attempt every question before reading this page.</p>`;
+    const mc = withMark.filter(it => it.s === 'I');
+    if (mc.length) {
+      h += `<div class="ws-crit"><span class="ref">Section I answers</span>
+        <table><tr>${mc.map(it => `<td class="m">${it.y} ${it.l}</td>`).join('')}</tr>
+        <tr>${mc.map(it => `<td class="m"><b>${esc(it.ans)}</b></td>`).join('')}</tr></table></div>`;
+    }
+    withMark.filter(it => it.s !== 'I').forEach(it => {
+      const c = critFor(it);
+      h += `<div class="ws-crit"><span class="ref">${it.y} ${it.l}</span>`;
+      if (c && c.criteria) {
+        h += `<table>${c.criteria.map(b => `<tr><td class="m">${esc(b.m)}</td>
+          <td><ul>${b.b.map(x => `<li>${esc(x)}</li>`).join('')}</ul></td></tr>`).join('')}</table>`;
+      }
+      h += `</div>`;
+    });
+    h += `</div>`;
+  }
+  document.getElementById('printarea').innerHTML = h;
+  return true;
+}
+
+/* -------------------------------------------------------------- events */
+document.addEventListener('click', e => {
+  const rv = e.target.closest('[data-reveal]');
+  if (rv) {
+    const st = +rv.dataset.reveal;
+    st ? revealed.set(rv.dataset.id, st) : revealed.delete(rv.dataset.id);
+    renderResults();
+    return;
+  }
+  const nav = e.target.closest('[data-nav]');
+  if (nav) {
+    const k = nav.dataset.nav;
+    if (k === 'up') { state.level = Math.max(0, state.level - 1); renderTree(); return; }
+    if (k === 'topic') {
+      state.ti = +nav.dataset.ti;
+      const t = DATA.topics[state.ti];
+      state.level = 1;
+      pick('topic', t.k, t.label, t.part);
+      return;
+    }
+    if (k === 'sec') {
+      state.si = +nav.dataset.si;
+      state.level = 2;
+      const s = DATA.topics[state.ti].sections[state.si];
+      pick('tags', [s.id], s.label, DATA.topics[state.ti].label);
+      return;
+    }
+  }
+  const b = e.target.closest('[data-act]');
+  if (b) {
+    const act = b.dataset.act, key = b.dataset.key;
+    if (act === 'tags') { const t = TAG[key];
+      pick('tags', [key], t.label, DATA.topics.find(x => x.k === t.topic).label
+        + (t.kind === 'theme' ? ' · theme and challenge' : t.parent ? ' · ' + TAG[t.parent].label : '')); }
+    else if (act === 'text') pick('text', key, `Questions mentioning “${key}”`, 'Free text search');
+    else if (act === 'dir') pick('dir', key, `Questions using “${key}”`, 'Directive as set');
+    else if (act === 'band') pick('band', +key, DATA.bands.find(x => x.band == key).label,
+      'Demand band · ' + DATA.bands.find(x => x.band == key).expects);
+    return;
+  }
+  const tb = e.target.closest('.tabs button');
+  if (tb) { state.tab = tb.dataset.tab;
+    [...document.querySelectorAll('.tabs button')].forEach(x => x.setAttribute('aria-selected', x === tb));
+    if (state.tab === 'thm' && state.level > 1) state.level = 1;
+    renderTree(); return; }
+  const sc = e.target.closest('.chipset button[data-sec]');
+  if (sc) { state.secs[sc.dataset.sec] = !state.secs[sc.dataset.sec];
+    sc.setAttribute('aria-pressed', state.secs[sc.dataset.sec]); renderResults(); return; }
+});
+document.addEventListener('change', e => {
+  if (e.target.classList.contains('tick')) {
+    const id = e.target.dataset.id;
+    e.target.checked ? done.add(id) : done.delete(id);
+    save(); renderResults();
+  }
+});
+// "/" jumps to search, Escape leaves it — fast revision without reaching for the mouse
+document.addEventListener('keydown', e => {
+  const el = document.getElementById('q');
+  if (e.key === '/' && document.activeElement !== el
+      && !/^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement.tagName)) {
+    e.preventDefault(); el.focus(); el.select();
+  } else if (e.key === 'Escape' && document.activeElement === el) {
+    el.value = ''; state.query = ''; renderTree(); el.blur();
+  }
+});
+document.getElementById('q').addEventListener('input', e => { state.query = e.target.value; renderTree(); });
+document.getElementById('from').addEventListener('change', e => { state.from = +e.target.value; renderResults(); });
+document.getElementById('coreonly').addEventListener('change', e => { state.coreOnly = e.target.checked; render(); });
+document.getElementById('tickall').addEventListener('click', () => { visible().forEach(it => done.add(it.id)); save(); renderResults(); });
+document.getElementById('untickall').addEventListener('click', () => { visible().forEach(it => done.delete(it.id)); save(); renderResults(); });
+document.getElementById('home').addEventListener('click', () => {
+  state.query = ''; document.getElementById('q').value = '';
+  state.level = 0; state.heat = true; state.sel = null;
+  document.getElementById('rhead').hidden = true;
+  document.getElementById('stats').hidden = true;
+  document.getElementById('hmwrap').innerHTML = welcome() + heatmap();
+  document.getElementById('qlist').innerHTML = '';
+  document.getElementById('rhead').innerHTML = '';
+  document.getElementById('stats').innerHTML = '';
+  renderTree();
+});
+document.getElementById('rand').addEventListener('click', () => {
+  // A random pick respects whatever is filtered, so "give me one" from a whole
+  // topic is a different exercise from "give me one" from a single dot point.
+  const pool = state.sel ? visible() : DATA.items.filter(it => state.secs[it.s] && it.y >= state.from);
+  if (!pool.length) { alert('Nothing to pick from — widen the filters first.'); return; }
+  const it = pool[Math.floor(Math.random() * pool.length)];
+  state.heat = false;
+  state.sel = {kind:'text', key:it.t, title:'One question, at random',
+    sub:`${DATA.topics.find(t => t.k === it.topic).label} · ${it.y} ${it.l}`};
+  render();
+});
+document.getElementById('sheet').addEventListener('click', () => {
+  if (!buildWorksheet()) return;
+  document.body.classList.add('sheet');
+  window.print();
+  setTimeout(() => document.body.classList.remove('sheet'), 400);
+});
+
+(() => {
+  const ys = [...new Set(DATA.items.map(i => i.y))].sort();
+  document.getElementById('m-q').textContent = DATA.items.length;
+  document.getElementById('m-p').textContent = ys.length;
+  document.getElementById('m-y').textContent = ys[0] + '–' + ys[ys.length - 1];
+})();
+state.heat = true;
+renderTree();
+document.getElementById('rhead').hidden = true;
+document.getElementById('stats').hidden = true;
+document.getElementById('hmwrap').innerHTML = welcome() + heatmap();
+booted = true;
+</script>
+</body>
+</html>
