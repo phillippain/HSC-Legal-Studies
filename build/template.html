@@ -102,6 +102,15 @@ button{font:inherit; color:inherit}
   font-size:.78rem; color:var(--ink-2); font-weight:500}
 .pill b{font-family:var(--mono); font-weight:600; color:var(--ink); font-variant-numeric:tabular-nums}
 .pill .ic{color:var(--ink-3); font-size:.95rem}
+/* the guide is the one thing in the masthead you can press, so it looks pressable */
+.help-btn{cursor:pointer; border-color:var(--accent); color:var(--accent); background:var(--accent-soft);
+  font-weight:600; transition:.14s}
+.help-btn .ic{color:var(--accent); font-size:1.02rem}
+.help-btn:hover{background:var(--accent); color:var(--on-accent); border-color:var(--accent)}
+.help-btn:hover .ic{color:inherit}
+/* a soft ring until the guide has been opened once on this device */
+.help-btn.nudge{animation:ring 2.6s ease-out 3}
+@keyframes ring{0%,70%{box-shadow:0 0 0 0 var(--accent)} 85%{box-shadow:0 0 0 6px transparent} 100%{box-shadow:0 0 0 0 transparent}}
 
 /* ============================================================= shell ===== */
 .shell{max-width:1400px; margin:0 auto; padding:22px 22px 60px;
@@ -176,13 +185,28 @@ button{font:inherit; color:inherit}
 .bar i{display:block; height:100%; border-radius:99px; background:var(--tc); transition:width .3s}
 .bar.mini{height:4px; margin-top:6px}
 
-.level-head{display:flex; align-items:center; gap:10px; padding:6px 4px 10px; margin-bottom:4px;
-  border-bottom:1px solid var(--line-soft); flex-wrap:wrap}
-.back{border:1.5px solid var(--line); background:var(--surface); border-radius:var(--r-pill);
-  padding:5px 12px 5px 9px; cursor:pointer; font-size:.76rem; font-weight:600; color:var(--ink-2);
-  white-space:nowrap; display:inline-flex; align-items:center; gap:5px; transition:.14s}
-.back:hover{border-color:var(--accent); color:var(--accent)}
-.crumb{font-size:.7rem; letter-spacing:.07em; text-transform:uppercase; color:var(--ink-3); font-weight:600}
+/* A back button only ever undoes one step. The trail says where you are and lets
+   you jump to any level above — the thing students got lost without. */
+.trail{display:flex; align-items:center; flex-wrap:wrap; gap:2px; padding:4px 2px 9px; margin-bottom:6px;
+  border-bottom:1px solid var(--line-soft)}
+.trail .up{border:1.5px solid var(--line); background:var(--surface); border-radius:var(--r-pill);
+  padding:4px 10px 4px 7px; margin-right:7px; cursor:pointer; font-size:.73rem; font-weight:600;
+  color:var(--ink-2); display:inline-flex; align-items:center; gap:4px; white-space:nowrap; transition:.14s}
+.trail .up:hover{border-color:var(--accent); color:var(--accent)}
+.trail .step{border:0; background:none; cursor:pointer; padding:3px 6px; border-radius:var(--r-sm);
+  font-size:.76rem; font-weight:600; color:var(--accent); transition:.12s}
+.trail .step:hover{background:var(--accent-soft); text-decoration:underline}
+.trail .sep{color:var(--ink-3); font-size:.82rem; display:inline-flex; opacity:.6}
+.trail .here{padding:3px 6px; font-size:.76rem; font-weight:600; color:var(--ink-2)}
+/* one line of plain instruction at each level — it costs a row and saves a question */
+.tree-hint{display:flex; gap:8px; align-items:flex-start; margin:2px 2px 10px; padding:9px 11px;
+  background:var(--surface-2); border-radius:var(--r-sm); font-size:.755rem; line-height:1.5;
+  color:var(--ink-3)}
+.tree-hint .ic{font-size:.95rem; margin-top:2px; color:var(--accent)}
+.tree-hint b{color:var(--ink-2)}
+.hint-link{border:0; background:none; padding:0; cursor:pointer; color:var(--accent); font-weight:600;
+  font-size:inherit; text-decoration:underline; text-underline-offset:2px; white-space:nowrap}
+.hint-link:hover{color:var(--accent-2)}
 .sub{width:100%; display:flex; gap:10px; align-items:center; border:0; background:none; cursor:pointer;
   text-align:left; padding:11px 9px; border-radius:var(--r-sm); transition:.12s}
 .sub:hover{background:var(--surface-2)}
@@ -234,6 +258,26 @@ button{font:inherit; color:inherit}
   display:inline-flex; align-items:center; gap:6px}
 .chipset button:hover{color:var(--ink-2)}
 .chipset button[aria-pressed="true"]{background:var(--accent); color:var(--on-accent)}
+
+/* Section filters carry the paper's own names. "Sec I" meant nothing to a student
+   who had not sat one yet; the second line is what they actually call it. */
+.secfilter{flex-basis:100%; display:flex; align-items:center; gap:10px 14px; flex-wrap:wrap}
+.tlabel{font-size:.67rem; letter-spacing:.11em; text-transform:uppercase; color:var(--ink-3); font-weight:700}
+.chipset.secs{gap:2px; padding:3px}
+.chipset.secs button{display:inline-flex; align-items:center; gap:8px; padding:7px 14px 7px 11px;
+  text-align:left; border-radius:var(--r); opacity:.62}
+.chipset.secs button[aria-pressed="true"]{opacity:1}
+.chipset.secs .ic{font-size:1.1rem}
+.chipset.secs .sl{display:flex; flex-direction:column; line-height:1.2}
+.chipset.secs .sl b{font-size:.78rem; font-weight:600}
+.chipset.secs .sl i{font-size:.69rem; font-style:normal; opacity:.78}
+/* two rows of two on a phone — a wrapped pill leaves a ragged empty corner */
+@media (max-width:620px){
+  .secfilter{gap:7px}
+  .chipset.secs{display:grid; grid-template-columns:1fr 1fr; gap:3px; width:100%; border-radius:var(--r)}
+  .chipset.secs button{padding:7px 10px; border-radius:var(--r-sm)}
+  .chipset.secs .ic{display:none}
+}
 .tool{display:inline-flex; align-items:center; gap:7px; background:var(--surface); border:1px solid var(--line);
   border-radius:var(--r-pill); padding:7px 14px; font-size:.8rem; color:var(--ink-2); cursor:pointer;
   box-shadow:var(--sh-1); transition:.14s; font-weight:500}
@@ -337,6 +381,29 @@ ol.opts li.right .ol{color:var(--ok)}
   background:linear-gradient(90deg, var(--t1), var(--t2) 33%, var(--t3) 66%, var(--t4))}
 .welcome h2{font-size:1.5rem; margin-bottom:7px}
 .welcome .lede{font-size:.94rem; color:var(--ink-2); line-height:1.6; max-width:62ch; margin:0 0 20px}
+/* the first thing on the page is now what to do, not what is in here */
+.startrow{display:grid; grid-template-columns:minmax(0,1.55fr) minmax(0,1fr); gap:14px; margin-bottom:22px}
+@media (max-width:760px){ .startrow{grid-template-columns:1fr} }
+.steps{list-style:none; counter-reset:st; margin:0; padding:0; display:grid; gap:9px; align-content:start}
+.steps li{counter-increment:st; display:grid; grid-template-columns:auto 1fr; gap:2px 12px;
+  align-items:baseline; padding:11px 14px; background:var(--surface-2); border-radius:var(--r);
+  border:1px solid var(--line-soft)}
+.steps li::before{content:counter(st); grid-row:span 2; align-self:start; width:23px; height:23px;
+  border-radius:8px; display:grid; place-items:center; background:var(--accent); color:var(--on-accent);
+  font-family:var(--mono); font-size:.72rem; font-weight:600}
+.steps b{font-size:.86rem; color:var(--ink)}
+.steps span{font-size:.78rem; color:var(--ink-3); line-height:1.45}
+.guide-cta{display:flex; gap:12px; align-items:center; text-align:left; cursor:pointer;
+  padding:15px 16px; border-radius:var(--r); border:1.5px solid var(--accent);
+  background:var(--accent-soft); color:var(--ink-2); transition:.16s}
+.guide-cta:hover{transform:translateY(-1px); box-shadow:var(--sh-2)}
+.guide-cta > .ic{font-size:1.5rem; color:var(--accent)}
+.guide-cta b{display:block; font-size:.9rem; color:var(--ink); margin-bottom:3px}
+.guide-cta span span{font-size:.78rem; color:var(--ink-3); line-height:1.45}
+.guide-cta > .ic:last-child{margin-left:auto; font-size:1.05rem; opacity:.6}
+.wsub{font-size:.68rem; letter-spacing:.11em; text-transform:uppercase; color:var(--ink-3);
+  font-family:var(--sans); font-weight:700; margin-bottom:11px; display:flex; align-items:center; gap:8px}
+.wsub .ic{font-size:1.15rem; letter-spacing:normal; color:var(--accent)}
 .ways{display:grid; grid-template-columns:repeat(auto-fit,minmax(196px,1fr)); gap:11px; margin-bottom:22px}
 .way{display:flex; gap:11px; align-items:flex-start; padding:13px 14px; border-radius:var(--r);
   background:var(--surface-2); border:1px solid var(--line-soft)}
@@ -394,6 +461,58 @@ ol.opts li.right .ol{color:var(--ok)}
 .foot p{margin:.55em 0; max-width:96ch}
 .foot b{color:var(--ink-2)}
 
+/* ============================================================= guide ===== */
+#guide{width:min(760px, calc(100vw - 32px)); max-height:min(86vh, 900px); padding:0; border:0;
+  border-radius:var(--r-lg); background:var(--surface); color:var(--ink); box-shadow:var(--sh-3);
+  overflow:hidden; display:flex; flex-direction:column}
+#guide::backdrop{background:rgba(20,15,28,.55); backdrop-filter:blur(2px)}
+.g-head{display:flex; align-items:center; gap:12px; padding:18px 20px 15px; border-bottom:1px solid var(--line);
+  background:var(--surface-2); position:relative}
+.g-head::before{content:""; position:absolute; inset:0 0 auto; height:3px;
+  background:linear-gradient(90deg, var(--t1), var(--t2) 33%, var(--t3) 66%, var(--t4))}
+.g-head h2{font-size:1.16rem; display:flex; align-items:center; gap:10px}
+.g-head h2 .ic{color:var(--accent); font-size:1.25rem}
+.g-close{margin-left:auto; border:1px solid var(--line); background:var(--surface); border-radius:var(--r-sm);
+  width:32px; height:32px; display:grid; place-items:center; cursor:pointer; color:var(--ink-3); transition:.14s}
+.g-close:hover{border-color:var(--accent); color:var(--accent)}
+.g-body{padding:18px 22px 6px; overflow-y:auto; font-size:.86rem; line-height:1.6; color:var(--ink-2)}
+.g-body p{margin:.55em 0 1em}
+.g-lede{font-size:.93rem; color:var(--ink-2); max-width:62ch}
+.g-body h3{display:flex; align-items:center; gap:10px; font-size:1rem; color:var(--ink);
+  margin:22px 0 8px; padding-top:16px; border-top:1px solid var(--line-soft)}
+.g-body h3:first-of-type{border-top:0; padding-top:0}
+.g-num{width:23px; height:23px; flex:none; border-radius:8px; display:grid; place-items:center;
+  background:var(--accent-soft); color:var(--accent); font-family:var(--mono); font-size:.73rem; font-weight:600}
+.g-list{margin:.4em 0 1em; padding-left:0; list-style:none}
+.g-list li{position:relative; padding:0 0 0 15px; margin-bottom:.5em}
+.g-list li::before{content:""; position:absolute; left:2px; top:.62em; width:5px; height:5px;
+  border-radius:2px; background:var(--accent); opacity:.55}
+.g-list b{color:var(--ink)}
+.g-list b .ic{color:var(--accent); font-size:1rem; margin-right:4px}
+.g-mono{font-family:var(--mono); font-size:.82rem; background:var(--surface-2); border-radius:5px;
+  padding:1px 6px; color:var(--ink)}
+.g-tip{background:var(--surface-2); border-radius:var(--r); padding:11px 13px; font-size:.82rem;
+  margin:.4em 0 1.1em!important}
+.g-tip b{color:var(--ink)}
+.kbd-i{font-family:var(--mono); font-size:.72rem; background:var(--surface); border:1px solid var(--line);
+  border-radius:5px; padding:1px 6px; color:var(--ink-2)}
+.g-levels{display:grid; gap:8px; margin:.5em 0 1.1em}
+.g-levels > div{display:grid; grid-template-columns:auto 1fr; gap:3px 12px; align-items:baseline;
+  padding:11px 13px; background:var(--surface-2); border-radius:var(--r);
+  box-shadow:inset 3px 0 0 var(--accent)}
+.g-lv{grid-row:span 2; font-size:.63rem; letter-spacing:.09em; text-transform:uppercase;
+  color:var(--accent); font-weight:700; align-self:start; padding-top:3px}
+.g-levels b{color:var(--ink); font-size:.86rem}
+.g-levels span:last-child{font-size:.79rem; color:var(--ink-3); line-height:1.5}
+.g-crumb{display:inline-flex; align-items:center; gap:5px; background:var(--surface-2); border-radius:6px;
+  padding:2px 8px; font-size:.78rem; font-weight:600; color:var(--ink-2); white-space:nowrap}
+.g-crumb i{font-style:normal; color:var(--ink-3)}
+.g-crumb-demo{margin:.1em 0 1em!important}
+.g-body p b .ic{color:var(--accent); font-size:1rem; margin-right:4px; vertical-align:-.15em}
+.g-foot{padding:13px 20px 16px; border-top:1px solid var(--line); background:var(--surface-2);
+  display:flex; justify-content:flex-end}
+@media (max-width:560px){ .g-body{padding:15px 16px 4px} .g-crumb{white-space:normal} }
+
 @media (max-width:560px){
   .mast-in h1{font-size:1.3rem}
   .brand-mark{width:40px; height:40px; font-size:21px}
@@ -408,7 +527,7 @@ ol.opts li.right .ol{color:var(--ok)}
 
 /* ============================================================= print ===== */
 @media print{
-  .rail,.toolbar,.masthead,.tick,.foot,.hm,.welcome{display:none!important}
+  .rail,.toolbar,.masthead,.tick,.foot,.hm,.welcome,#guide{display:none!important}
   .shell{display:block; padding:0}
   body{background:#fff; color:#000; font-size:11pt; font-family:Georgia,serif}
   .group,.rhead{border:1px solid #999; box-shadow:none; break-inside:avoid; border-radius:0}
@@ -503,6 +622,13 @@ ol.opts li.right .ol{color:var(--ok)}
   <path d="M13.2 2.5 4.5 13.6h6.3L10 21.5l8.7-11.1h-6.3z"/></symbol>
 <symbol id="g-layers" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
   <path d="m12 3 9 4.8-9 4.8-9-4.8z"/><path d="m3 12.4 9 4.8 9-4.8"/><path d="m3 16.9 9 4.8 9-4.8"/></symbol>
+<symbol id="g-help" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="12" r="8.6"/><path d="M9.7 9.4a2.4 2.4 0 1 1 3.2 2.3c-.6.25-.9.8-.9 1.45v.35"/>
+  <circle cx="12" cy="16.8" r="1.05" fill="currentColor" stroke="none"/></symbol>
+<symbol id="g-route" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 3v18"/><path d="M12 5.6h6.3l1.7 2.1-1.7 2.1H12"/><path d="M12 13.4H5.7L4 15.5l1.7 2.1H12"/></symbol>
+<symbol id="g-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m6 6 12 12M18 6 6 18"/></symbol>
 </defs></svg>
 
 <header class="masthead">
@@ -519,6 +645,8 @@ ol.opts li.right .ol{color:var(--ok)}
       <span class="pill"><svg class="ic"><use href="#g-doc"/></svg><b id="m-q">—</b> questions</span>
       <span class="pill"><svg class="ic"><use href="#g-layers"/></svg><b id="m-p">—</b> papers</span>
       <span class="pill"><svg class="ic"><use href="#g-clock"/></svg><span id="m-y">—</span></span>
+      <button class="pill help-btn" id="openguide" type="button"
+        aria-haspopup="dialog"><svg class="ic"><use href="#g-help"/></svg>How to use this site</button>
     </div>
   </div>
 </header>
@@ -538,8 +666,9 @@ ol.opts li.right .ol{color:var(--ok)}
             placeholder="Search — bail, surrogacy, tenancy…" autocomplete="off">
           <span class="kbd">/</span>
         </div>
-        <button class="home" id="home" type="button" title="Back to the four topics">
-          <svg class="ic"><use href="#g-grid"/></svg>All</button>
+        <button class="home" id="home" type="button"
+          title="Home — the four topics, the coverage map and the guide">
+          <svg class="ic"><use href="#g-grid"/></svg>Home</button>
       </div>
       <div class="tree" id="tree"></div>
     </div>
@@ -549,11 +678,10 @@ ol.opts li.right .ol{color:var(--ok)}
   <main class="results" id="results">
     <div class="rhead" id="rhead"></div>
     <div class="toolbar">
-      <div class="chipset" role="group" aria-label="Filter by section">
-        <button data-sec="I" aria-pressed="true">Sec I</button>
-        <button data-sec="II-A" aria-pressed="true">II-A</button>
-        <button data-sec="II-B" aria-pressed="true">II-B</button>
-        <button data-sec="III" aria-pressed="true">Sec III</button>
+      <div class="secfilter">
+        <span class="tlabel">Show me these parts of the paper</span>
+        <div class="chipset secs" id="secchips" role="group"
+          aria-label="Show or hide each section of the examination paper"></div>
       </div>
       <label class="tool" for="from"><svg class="ic"><use href="#g-clock"/></svg>From
         <select id="from">
@@ -578,9 +706,89 @@ ol.opts li.right .ol{color:var(--ok)}
   </main>
 </div>
 
+<dialog id="guide" aria-labelledby="guide-t">
+  <div class="g-head">
+    <h2 id="guide-t"><svg class="ic"><use href="#g-help"/></svg>How to use this site</h2>
+    <button class="g-close" id="closeguide" type="button" aria-label="Close the guide">
+      <svg class="ic"><use href="#g-close"/></svg></button>
+  </div>
+  <div class="g-body">
+    <p class="g-lede">Every question the HSC has set on Crime, Human Rights, Family and Shelter since 2011,
+      sorted the three ways you are likely to want them. Nothing here is a test — click about.</p>
+
+    <h3><span class="g-num">1</span>Pick how you want to search</h3>
+    <p>The three tabs at the top of the left-hand column are three different questions you might be asking.</p>
+    <ul class="g-list">
+      <li><b><svg class="ic"><use href="#g-book"/></svg>Content</b> — “what has been asked about bail?”
+        Follow the syllabus itself, topic by topic.</li>
+      <li><b><svg class="ic"><use href="#g-tag"/></svg>Themes</b> — “where does discretion come up?”
+        The themes and challenges every answer is supposed to weave through.</li>
+      <li><b><svg class="ic"><use href="#g-bolt"/></svg>Directive</b> — “give me every <i>evaluate</i>
+        question.” Grouped by the verb the question sets and by how much it demands.</li>
+    </ul>
+    <p class="g-tip">Or type into the search box — press <span class="kbd-i">/</span> from anywhere to jump
+      there, and <span class="kbd-i">Esc</span> to clear it. Search looks through content points, themes
+      and the questions themselves.</p>
+
+    <h3><span class="g-num">2</span>Moving in and out of a topic</h3>
+    <p>The <b>Content</b> tab has three levels, and you walk down them one at a time.</p>
+    <div class="g-levels">
+      <div><span class="g-lv">Level 1</span><b>The four topics</b>
+        <span>Crime and Human Rights are the cores; Family and Shelter are the options. Click one to open it.</span></div>
+      <div><span class="g-lv">Level 2</span><b>Syllabus sections</b>
+        <span>The big divisions of that topic — “Sentencing and punishment”, for instance. Click one to open it.</span></div>
+      <div><span class="g-lv">Level 3</span><b>Dot points</b>
+        <span>“Students learn about…”, straight from the syllabus. Click one to see the questions built on it.</span></div>
+    </div>
+    <p><b><svg class="ic"><use href="#g-route"/></svg>Getting back out.</b> Once you are inside a topic a
+      trail sits at the top of the left-hand column, like this:</p>
+    <p class="g-crumb-demo"><span class="g-crumb">All topics <i>›</i> Crime <i>›</i> Sentencing and punishment</span></p>
+    <p>Every step except the last one is a button. Click <b>Crime</b> to go back to its other sections, or
+      <b>All topics</b> to return to the four cards — you never have to press Back twice. The <b>Home</b>
+      button beside the search box goes all the way out and brings up the coverage map.</p>
+    <p class="g-tip">Opening a section or a dot point does not clear what is on the right — the questions
+      stay put until you choose something new, so you can climb back up and look around without losing your place.</p>
+
+    <h3><span class="g-num">3</span>What the numbers beside each row mean</h3>
+    <ul class="g-list">
+      <li><b class="g-mono">3/8</b> — eight questions touch this, and three are <i>built</i> on it. The first
+        number is the core count, the second is the total.</li>
+      <li><b class="g-mono">↑12</b> — nothing is tagged to this dot point on its own, so the twelve come from
+        the section above it. Extended responses are tagged to a whole section, because a 25-mark answer
+        draws on one.</li>
+      <li><b class="g-mono">—</b> — never examined. That does not make it unexaminable; it makes it overdue.</li>
+    </ul>
+
+    <h3><span class="g-num">4</span>Narrowing what you see</h3>
+    <ul class="g-list">
+      <li><b>The four section buttons</b> turn each part of the paper on and off. Revising essays only?
+        Turn off Section I and Section II A.</li>
+      <li><b>From</b> limits the years, for when only the recent papers matter.</li>
+      <li><b>Core focus only</b> drops the questions where your point is just supporting evidence, leaving
+        the ones genuinely about it.</li>
+    </ul>
+
+    <h3><span class="g-num">5</span>Attempting, then marking</h3>
+    <p>Answers and marking criteria start hidden, so you can write first. Click <b>Reveal</b> once for the
+      answer or the band criteria, and again for NESA's sample answer where one was published. Each question
+      also shows its marks, its directive verb and roughly how long it should take you.</p>
+
+    <h3><span class="g-num">6</span>Building a worksheet</h3>
+    <p>Tick the questions you want as you browse — ticks are saved in this browser and go nowhere else.
+      <b>All</b> and <b>Clear</b> tick everything currently shown. <b>Print worksheet</b> then produces a
+      paper with writing lines, and the marking criteria on pages of their own at the back.</p>
+    <p class="g-tip"><b>In a hurry?</b> <b>Random</b> pulls one question out of whatever you have filtered —
+      from a whole topic, or from a single dot point. <b>Home</b> shows the coverage map, where the empty
+      cells are the points the HSC has left alone.</p>
+  </div>
+  <div class="g-foot"><button class="tool primary" id="closeguide2" type="button">Got it</button></div>
+</dialog>
+
 <div id="printarea" hidden></div>
 
 <footer class="foot">
+  <p><b>Lost?</b> <a href="#" id="footguide">Open the guide</a> — how to search, how to move in and out of a
+  topic, what the numbers mean, and how to build a worksheet.</p>
   <p><b>What is in here.</b> Every question from 2011 to 2025, the life of the 2009 syllabus: 300 Section I
   objective-response questions with their options and NESA's answer key, 51 Human Rights short answers,
   the 15 Crime extended responses, and both alternatives of the Family and Shelter option questions —
@@ -616,11 +824,17 @@ ol.opts li.right .ol{color:var(--ok)}
 /* ------------------------------------------------------------------ setup */
 // Sections are an ordered sequence, so they take one hue at four strengths.
 // Topic colour is reserved for topic identity; the icon carries the section.
+// `name` is what NESA prints on the paper; `short` is what a student calls it.
+// Both are shown, because a filter button reading "Sec I" taught nobody anything.
 const SEC = {
-  'I':    {name:'Section I — Objective response', v:'--s1', ic:'g-list',    desc:'20 marks · 15 from Crime, 5 from Human Rights'},
-  'II-A': {name:'Section II Part A — Short answer', v:'--s2', ic:'g-pen',   desc:'Human Rights · 15 marks across 3–4 items'},
-  'II-B': {name:'Section II Part B — Extended response', v:'--s3', ic:'g-doc', desc:'Crime · one question · 15 marks · no alternative'},
-  'III':  {name:'Section III — Options', v:'--s4', ic:'g-columns', desc:'25 marks · answer part (a) or part (b)'}
+  'I':    {name:'Section I — Objective response', num:'Section I', short:'Multiple choice',
+           v:'--s1', ic:'g-list',    desc:'20 marks · 15 from Crime, 5 from Human Rights'},
+  'II-A': {name:'Section II Part A — Short answer', num:'Section II A', short:'Short answer',
+           v:'--s2', ic:'g-pen',     desc:'Human Rights · 15 marks across 3–4 items'},
+  'II-B': {name:'Section II Part B — Extended response', num:'Section II B', short:'Crime essay',
+           v:'--s3', ic:'g-doc',     desc:'Crime · one question · 15 marks · no alternative'},
+  'III':  {name:'Section III — Options', num:'Section III', short:'Options essay',
+           v:'--s4', ic:'g-columns', desc:'25 marks · answer part (a) or part (b)'}
 };
 const icon = (id, cls) => `<svg class="ic${cls ? ' ' + cls : ''}" aria-hidden="true"><use href="#${id}"/></svg>`;
 const TICON = {crime:'g-scales', humanrights:'g-globe', family:'g-family', shelter:'g-shelter'};
@@ -767,9 +981,18 @@ function tagBtn(id, showCode) {
     <span class="lbl">${esc(t.label)}</span>
     <span class="cnt"${direct ? '' : ' style="opacity:.55"'}>${cnt}</span></button>`;
 }
-const levelHead = (back, crumb) =>
-  `<div class="level-head"><button class="back" data-nav="up">${icon('g-back')}${esc(back)}</button>
-   <span class="crumb">${esc(crumb)}</span></div>`;
+// Every step but the last is a button, so any level above is one click away
+// rather than a guess at how many times to press Back.
+function trail(steps) {
+  const up = `<button class="up" data-nav="up" title="Up one level">${icon('g-back')}Back</button>`;
+  return `<nav class="trail" aria-label="You are here">${up}` + steps.map((s, i) =>
+    i === steps.length - 1
+      ? `<span class="here" aria-current="true">${esc(s.label)}</span>`
+      : `<button class="step" data-nav="level" data-lv="${s.lv}">${esc(s.label)}</button>
+         <span class="sep" aria-hidden="true">${icon('g-chev')}</span>`
+  ).join('') + `</nav>`;
+}
+const hint = (body) => `<p class="tree-hint">${icon('g-route')}<span>${body}</span></p>`;
 
 function renderTree() {
   const tree = document.getElementById('tree');
@@ -793,6 +1016,8 @@ function renderTree() {
   }
 
   if (state.tab === 'dir') {
+    html += hint(`This tab ignores content altogether. Pick a <b>band</b> to practise a level of demand,
+      or a <b>directive</b> to drill one verb across all four topics.`);
     html += `<div class="heading"><span>Demand band</span></div>`;
     DATA.bands.forEach(b => {
       const n = DATA.items.filter(i => i.band === b.band).length;
@@ -815,6 +1040,12 @@ function renderTree() {
   }
 
   if (state.level === 0) {
+    html += `<div class="heading"><span>Step 1 — choose a topic</span></div>`;
+    html += hint(state.tab === 'thm'
+      ? `Open a topic to see its <b>themes and challenges</b> — the ideas every answer is meant to weave
+         through. <button class="hint-link" type="button" data-nav="guide">How this works</button>`
+      : `Two cores and two options. Open one to see its <b>syllabus sections</b>, then the
+         <b>dot points</b> inside them. <button class="hint-link" type="button" data-nav="guide">How this works</button>`);
     DATA.topics.forEach((t, i) => {
       const n = DATA.items.filter(x => x.topic === t.k).length;
       const units = state.tab === 'thm' ? t.themes.length
@@ -836,10 +1067,15 @@ function renderTree() {
   } else {
     const t = DATA.topics[state.ti];
     if (state.tab === 'thm') {
-      html += levelHead('All topics', t.label + ' — themes and challenges');
+      html += trail([{label:'All topics', lv:0}, {label:t.label + ' — themes'}]);
+      html += hint(`Pick a theme to see every question that turns on it in <b>${esc(t.label)}</b>.
+        <b>Back</b>, or <b>All topics</b> above, returns you to the four cards.`);
       t.themes.forEach(th => { html += tagBtn(th.id, false); });
     } else if (state.level === 1) {
-      html += levelHead('All topics', t.label);
+      html += trail([{label:'All topics', lv:0}, {label:t.label}]);
+      html += hint(`Step 2 — these are the <b>syllabus sections</b> of ${esc(t.label)}. Open one for its
+        dot points, or click <b>All topics</b> above to go back. The two numbers are
+        <b>core</b> / <b>total</b> questions.`);
       t.sections.forEach((s, i) => {
         html += `<button class="sub" style="--tc:${s.colour}" data-nav="sec" data-si="${i}">
           <span class="dotc"></span><span class="lbl">${esc(s.label)}</span>
@@ -848,7 +1084,10 @@ function renderTree() {
       });
     } else {
       const s = t.sections[state.si];
-      html += levelHead(t.label, s.label);
+      html += trail([{label:'All topics', lv:0}, {label:t.label, lv:1}, {label:s.label}]);
+      html += hint(`Step 3 — the row below gives you the <b>whole section</b>; the dot points under it
+        narrow you down. Click <b>${esc(t.label)}</b> in the trail above for its other sections, or
+        <b>All topics</b> for the four cards.`);
       html += tagBtn(s.id, true);
       html += `<div class="heading"><span>Students learn about</span></div>`;
       s.points.forEach(p => { html += tagBtn(p.id, true); });
@@ -973,8 +1212,8 @@ function renderResults() {
   document.getElementById('stats').innerHTML = sel ? `
     <h3>Questions in this selection</h3>
     <div class="tally">
-      ${SECORD.map(s => `<div><div class="n">${all.filter(i => i.s === s).length}</div>
-        <div class="s">${s === 'I' ? 'Sec I' : s === 'III' ? 'Sec III' : s}</div></div>`).join('')}
+      ${SECORD.map(s => `<div title="${esc(SEC[s].name)}"><div class="n">${all.filter(i => i.s === s).length}</div>
+        <div class="s">${esc(SEC[s].short)}</div></div>`).join('')}
       <div><div class="n">${all.length}</div><div class="s">Total</div></div>
       <div><div class="n">${last || '—'}</div><div class="s">Latest</div></div>
       <div class="wide">${icon('g-check')}<span class="n">${nDone}</span><span class="s">ticked for the worksheet</span></div>
@@ -1039,30 +1278,43 @@ function welcome() {
   const total = DATA.items.length;
   const ticked = DATA.items.filter(i => done.has(i.id)).length;
   const paper = [
-    {k:'I',    marks:20, label:'Section I',    note:'20 multiple choice'},
-    {k:'II-A', marks:15, label:'Section II A', note:'Human Rights short answer'},
-    {k:'II-B', marks:15, label:'Section II B', note:'Crime extended response'},
-    {k:'III',  marks:50, label:'Section III',  note:'two options, 25 marks each'},
+    {k:'I',    marks:20, note:'20 multiple choice'},
+    {k:'II-A', marks:15, note:'Human Rights short answer'},
+    {k:'II-B', marks:15, note:'Crime extended response'},
+    {k:'III',  marks:50, note:'two options, 25 marks each'},
   ];
   const ways = [
     ['g-book', 'By content point', 'Pick a topic, then a syllabus section or dot point — every question that has turned on it.'],
     ['g-tag',  'By theme',         'The themes and challenges each topic must weave through, like discretion or law reform.'],
     ['g-bolt', 'By directive',     'Group by the verb the question sets — assess, evaluate, to what extent — and by how much it demands.'],
   ];
+  // Three numbered steps, because "where do I start" was the first thing asked.
+  const steps = [
+    ['Choose a topic', 'Four cards on the left — Crime and Human Rights are the cores, Family and Shelter the options.'],
+    ['Go in a level or two', 'A topic opens into syllabus sections, a section into its dot points. The trail at the top takes you back up.'],
+    ['Attempt, then reveal', 'Answers and marking criteria stay hidden until you ask for them. Tick as you go to build a worksheet.'],
+  ];
   return `<section class="welcome">
     <h2>Every HSC Legal Studies question, 2011&ndash;2025</h2>
     <p class="lede">${total} questions from fifteen papers, each tagged to the syllabus, with NESA's
     answer key and marking criteria behind a reveal so you can attempt first and mark after.
     ${ticked ? `You have ticked <b>${ticked}</b> so far.` : 'Tick questions as you go to build a printable worksheet.'}</p>
+    <div class="startrow">
+      <ol class="steps">${steps.map(([t, d]) => `<li><b>${esc(t)}</b><span>${esc(d)}</span></li>`).join('')}</ol>
+      <button class="guide-cta" data-nav="guide" type="button">${icon('g-help')}
+        <span><b>First time here?</b><span>The two-minute guide — searching, moving between levels,
+        what the numbers mean, and building a worksheet.</span></span>${icon('g-chev')}</button>
+    </div>
+    <h3 class="wsub">${icon('g-route')}Three ways to find a question</h3>
     <div class="ways">${ways.map(([ic, t, d]) => `<div class="way">
       <span class="wico">${icon(ic)}</span>
       <span><b>${t}</b><span>${d}</span></span></div>`).join('')}</div>
     <div class="paper-map">
       <h3>${icon('g-columns')}How the paper is built — 100 marks in 3 hours</h3>
       <div class="pbar">${paper.map(x => `<div style="flex:${x.marks}; background:var(${SEC[x.k].v})"
-        title="${esc(x.label)} — ${x.marks} marks">${icon(SEC[x.k].ic)}${x.marks}</div>`).join('')}</div>
+        title="${esc(SEC[x.k].name)} — ${x.marks} marks">${icon(SEC[x.k].ic)}${x.marks}</div>`).join('')}</div>
       <div class="pkey">${paper.map(x => `<span><i style="--kc:var(${SEC[x.k].v})"></i>
-        <b>${esc(x.label)}</b>&nbsp;${esc(x.note)}</span>`).join('')}</div>
+        <b>${esc(SEC[x.k].num)}</b>&nbsp;${esc(x.note)}</span>`).join('')}</div>
     </div>
   </section>`;
 }
@@ -1189,7 +1441,10 @@ document.addEventListener('click', e => {
   const nav = e.target.closest('[data-nav]');
   if (nav) {
     const k = nav.dataset.nav;
+    if (k === 'guide') { openGuide(); return; }
     if (k === 'up') { state.level = Math.max(0, state.level - 1); renderTree(); return; }
+    // The trail jumps straight to a level rather than stepping back one at a time.
+    if (k === 'level') { state.level = +nav.dataset.lv; renderTree(); return; }
     if (k === 'topic') {
       state.ti = +nav.dataset.ti;
       const t = DATA.topics[state.ti];
@@ -1259,6 +1514,21 @@ document.getElementById('home').addEventListener('click', () => {
   document.getElementById('stats').innerHTML = '';
   renderTree();
 });
+/* ---------------------------------------------------------------- guide */
+const gd = document.getElementById('guide');
+function openGuide() {
+  if (gd.open) return;
+  gd.showModal ? gd.showModal() : gd.setAttribute('open', '');
+  try { localStorage.setItem('hsc-ls-seen-guide', '1'); } catch (e) {}
+}
+const closeGuide = () => { gd.close ? gd.close() : gd.removeAttribute('open'); };
+document.getElementById('openguide').addEventListener('click', openGuide);
+document.getElementById('closeguide').addEventListener('click', closeGuide);
+document.getElementById('closeguide2').addEventListener('click', closeGuide);
+document.getElementById('footguide').addEventListener('click', e => { e.preventDefault(); openGuide(); });
+// clicking the backdrop closes it — the dialog element itself fills only its box
+gd.addEventListener('click', e => { if (e.target === gd) closeGuide(); });
+
 document.getElementById('rand').addEventListener('click', () => {
   // A random pick respects whatever is filtered, so "give me one" from a whole
   // topic is a different exercise from "give me one" from a single dot point.
@@ -1282,6 +1552,14 @@ document.getElementById('sheet').addEventListener('click', () => {
   document.getElementById('m-q').textContent = DATA.items.length;
   document.getElementById('m-p').textContent = ys.length;
   document.getElementById('m-y').textContent = ys[0] + '–' + ys[ys.length - 1];
+  // Built from SEC so the filter, the tally and the paper map can never drift apart.
+  document.getElementById('secchips').innerHTML = SECORD.map(s =>
+    `<button data-sec="${s}" aria-pressed="${state.secs[s]}"
+       title="${esc(SEC[s].name)} — ${esc(SEC[s].desc)}">${icon(SEC[s].ic)}
+       <span class="sl"><b>${esc(SEC[s].num)}</b><i>${esc(SEC[s].short)}</i></span></button>`).join('');
+  let seen = false;
+  try { seen = !!localStorage.getItem('hsc-ls-seen-guide'); } catch (e) {}
+  if (!seen) document.getElementById('openguide').classList.add('nudge');
 })();
 state.heat = true;
 renderTree();

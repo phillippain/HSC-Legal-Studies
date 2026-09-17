@@ -11,6 +11,11 @@ papers and guidelines live on the Board of Studies archive and the links go ther
 question text and marking criteria were read from that archive and are held here, so the site
 works in full for all fifteen years.
 
+Students who have not used it before should press **How to use this site** in the masthead. The
+guide covers the three ways in, how to walk down and back up the three levels of the content tree,
+what the counts beside each row mean, and how the worksheet is built. The same guide is linked from
+the welcome panel, from the hint under each level of the tree, and from the footer.
+
 ## What is in it
 
 Every question from 2011 to 2025, the life of the 2009 syllabus — **426 in all**:
