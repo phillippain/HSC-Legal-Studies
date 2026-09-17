@@ -462,9 +462,12 @@ ol.opts li.right .ol{color:var(--ok)}
 .foot b{color:var(--ink-2)}
 
 /* ============================================================= guide ===== */
+/* `display:flex` here would beat the user agent's `dialog:not([open]){display:none}`
+   and leave the guide painted over the page after it closes — so it is [open] only. */
 #guide{width:min(760px, calc(100vw - 32px)); max-height:min(86vh, 900px); padding:0; border:0;
   border-radius:var(--r-lg); background:var(--surface); color:var(--ink); box-shadow:var(--sh-3);
-  overflow:hidden; display:flex; flex-direction:column}
+  overflow:hidden}
+#guide[open]{display:flex; flex-direction:column}
 #guide::backdrop{background:rgba(20,15,28,.55); backdrop-filter:blur(2px)}
 .g-head{display:flex; align-items:center; gap:12px; padding:18px 20px 15px; border-bottom:1px solid var(--line);
   background:var(--surface-2); position:relative}
