@@ -1,0 +1,3006 @@
+[
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2011,
+  "q": 25,
+  "part": null,
+  "l": "Q25",
+  "m": 15,
+  "t": "Explain the tension between community interests and individual rights and freedoms within the criminal justice system.",
+  "core": [
+   "crime.t.balance"
+  ],
+  "support": [
+   "crime.t.discretion",
+   "crime.t.effectiveness",
+   "crime.1",
+   "crime.2",
+   "crime.3",
+   "crime.4"
+  ],
+  "dir": "explain",
+  "band": "explain",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Balancing victims, offenders & society"
+  ],
+  "sg": [
+   "Discretion",
+   "Legal & non-legal effectiveness",
+   "The nature of crime",
+   "Criminal investigation process",
+   "Criminal trial process",
+   "Sentencing & punishment"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2012,
+  "q": 24,
+  "part": null,
+  "l": "Q24",
+  "m": 15,
+  "t": "To what extent are courts the only means of achieving justice within the criminal justice system?",
+  "core": [
+   "crime.t.effectiveness",
+   "crime.3"
+  ],
+  "support": [
+   "crime.t.discretion",
+   "crime.t.balance",
+   "crime.1",
+   "crime.2",
+   "crime.4",
+   "crime.5"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Criminal trial process"
+  ],
+  "sg": [
+   "Discretion",
+   "Balancing victims, offenders & society",
+   "The nature of crime",
+   "Criminal investigation process",
+   "Sentencing & punishment",
+   "Young offenders"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2013,
+  "q": 25,
+  "part": null,
+  "l": "Q25",
+  "m": 15,
+  "t": "Assess the role discretion plays in the sentencing and punishment of offenders.",
+  "core": [
+   "crime.t.discretion",
+   "crime.4"
+  ],
+  "support": [
+   "crime.t.reform",
+   "crime.t.balance",
+   "crime.t.effectiveness",
+   "crime.3"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Discretion",
+   "Sentencing & punishment"
+  ],
+  "sg": [
+   "Law reform",
+   "Balancing victims, offenders & society",
+   "Legal & non-legal effectiveness",
+   "Criminal trial process"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2014,
+  "q": 24,
+  "part": null,
+  "l": "Q24",
+  "m": 15,
+  "t": "To what extent does the criminal investigation process balance the rights of victims, suspects and society?",
+  "core": [
+   "crime.t.balance",
+   "crime.2"
+  ],
+  "support": [
+   "crime.t.discretion",
+   "crime.t.reform",
+   "crime.t.effectiveness",
+   "crime.1"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": "Second Reading Speech, Law Enforcement (Powers and Responsibilities) Bill 2002 (NSW), 17 September 2002",
+  "quoted": false,
+  "cg": [
+   "Balancing victims, offenders & society",
+   "Criminal investigation process"
+  ],
+  "sg": [
+   "Discretion",
+   "Law reform",
+   "Legal & non-legal effectiveness",
+   "The nature of crime"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2015,
+  "q": 24,
+  "part": null,
+  "l": "Q24",
+  "m": 15,
+  "t": "How effective are domestic and international measures in dealing with transnational crime?",
+  "core": [
+   "crime.t.effectiveness",
+   "crime.6"
+  ],
+  "support": [
+   "crime.t.reform",
+   "crime.t.balance",
+   "crime.1"
+  ],
+  "dir": "how effective",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "International crime"
+  ],
+  "sg": [
+   "Law reform",
+   "Balancing victims, offenders & society",
+   "The nature of crime"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2016,
+  "q": 24,
+  "part": null,
+  "l": "Q24",
+  "m": 15,
+  "t": "‘The criminal justice system must treat young offenders differently in order to achieve justice.’ To what extent is this statement true?",
+  "core": [
+   "crime.t.effectiveness",
+   "crime.5"
+  ],
+  "support": [
+   "crime.t.discretion",
+   "crime.t.moral",
+   "crime.t.balance",
+   "crime.3",
+   "crime.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": true,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Young offenders"
+  ],
+  "sg": [
+   "Discretion",
+   "Moral & ethical standards",
+   "Balancing victims, offenders & society",
+   "Criminal trial process",
+   "Sentencing & punishment"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2017,
+  "q": 24,
+  "part": null,
+  "l": "Q24",
+  "m": 15,
+  "t": "‘A court’s decision whether to allow an accused person bail or to hold them in remand reflects the tension between community interests and individual rights and freedoms.’ Assess this statement with reference to the criminal justice system.",
+  "core": [
+   "crime.t.balance",
+   "crime.2"
+  ],
+  "support": [
+   "crime.t.discretion",
+   "crime.t.reform",
+   "crime.t.effectiveness",
+   "crime.3"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": true,
+  "cg": [
+   "Balancing victims, offenders & society",
+   "Criminal investigation process"
+  ],
+  "sg": [
+   "Discretion",
+   "Law reform",
+   "Legal & non-legal effectiveness",
+   "Criminal trial process"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2018,
+  "q": 25,
+  "part": null,
+  "l": "Q25",
+  "m": 15,
+  "t": "Discuss the use of discretion in achieving justice in the criminal justice system.",
+  "core": [
+   "crime.t.discretion"
+  ],
+  "support": [
+   "crime.t.balance",
+   "crime.t.effectiveness",
+   "crime.2",
+   "crime.3",
+   "crime.4",
+   "crime.5"
+  ],
+  "dir": "discuss",
+  "band": "analyse",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Discretion"
+  ],
+  "sg": [
+   "Balancing victims, offenders & society",
+   "Legal & non-legal effectiveness",
+   "Criminal investigation process",
+   "Criminal trial process",
+   "Sentencing & punishment",
+   "Young offenders"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2019,
+  "q": 24,
+  "part": null,
+  "l": "Q24",
+  "m": 15,
+  "t": "Explain how post-sentencing considerations seek to balance community interests and individual rights and freedoms.",
+  "core": [
+   "crime.t.balance",
+   "crime.4"
+  ],
+  "support": [
+   "crime.t.discretion",
+   "crime.t.reform",
+   "crime.t.effectiveness"
+  ],
+  "dir": "explain",
+  "band": "explain",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Balancing victims, offenders & society",
+   "Sentencing & punishment"
+  ],
+  "sg": [
+   "Discretion",
+   "Law reform",
+   "Legal & non-legal effectiveness"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2020,
+  "q": 24,
+  "part": null,
+  "l": "Q24",
+  "m": 15,
+  "t": "To what extent does the criminal trial process reflect the moral and ethical standards of society?",
+  "core": [
+   "crime.t.moral",
+   "crime.3"
+  ],
+  "support": [
+   "crime.t.discretion",
+   "crime.t.balance",
+   "crime.t.effectiveness",
+   "crime.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Moral & ethical standards",
+   "Criminal trial process"
+  ],
+  "sg": [
+   "Discretion",
+   "Balancing victims, offenders & society",
+   "Legal & non-legal effectiveness",
+   "Sentencing & punishment"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2021,
+  "q": 25,
+  "part": null,
+  "l": "Q25",
+  "m": 15,
+  "t": "‘The legal system focuses on punishing offenders rather than preventing crime.’ Assess this statement in reference to achieving justice through criminal processes and institutions.",
+  "core": [
+   "crime.t.effectiveness",
+   "crime.1",
+   "crime.4"
+  ],
+  "support": [
+   "crime.t.discretion",
+   "crime.t.balance",
+   "crime.3",
+   "crime.5"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": true,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "The nature of crime",
+   "Sentencing & punishment"
+  ],
+  "sg": [
+   "Discretion",
+   "Balancing victims, offenders & society",
+   "Criminal trial process",
+   "Young offenders"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2022,
+  "q": 25,
+  "part": null,
+  "l": "Q25",
+  "m": 15,
+  "t": "Assess the effectiveness of criminal law reform in balancing individual rights and community interests.",
+  "core": [
+   "crime.t.reform",
+   "crime.t.balance",
+   "crime.t.effectiveness"
+  ],
+  "support": [
+   "crime.t.moral",
+   "crime.1",
+   "crime.4",
+   "crime.5"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": "Comment by the NSW Attorney General on a proposal to raise the age of criminal responsibility, The Sydney Morning Herald, 21 November 2021 — “refer to the above stimulus and other examples”",
+  "quoted": false,
+  "cg": [
+   "Law reform",
+   "Balancing victims, offenders & society",
+   "Legal & non-legal effectiveness"
+  ],
+  "sg": [
+   "Moral & ethical standards",
+   "The nature of crime",
+   "Sentencing & punishment",
+   "Young offenders"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2023,
+  "q": 25,
+  "part": null,
+  "l": "Q25",
+  "m": 15,
+  "t": "To what extent do courts encourage compliance with criminal law?",
+  "core": [
+   "crime.t.compliance",
+   "crime.3"
+  ],
+  "support": [
+   "crime.t.discretion",
+   "crime.t.balance",
+   "crime.t.effectiveness",
+   "crime.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Compliance & non-compliance",
+   "Criminal trial process"
+  ],
+  "sg": [
+   "Discretion",
+   "Balancing victims, offenders & society",
+   "Legal & non-legal effectiveness",
+   "Sentencing & punishment"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2024,
+  "q": 24,
+  "part": null,
+  "l": "Q24",
+  "m": 15,
+  "t": "To what extent does the criminal trial and sentencing process provide justice for adult offenders?",
+  "core": [
+   "crime.t.effectiveness",
+   "crime.3",
+   "crime.4"
+  ],
+  "support": [
+   "crime.t.discretion",
+   "crime.t.balance",
+   "crime.5"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Criminal trial process",
+   "Sentencing & punishment"
+  ],
+  "sg": [
+   "Discretion",
+   "Balancing victims, offenders & society",
+   "Young offenders"
+  ]
+ },
+ {
+  "s": "II-B",
+  "topic": "crime",
+  "y": 2025,
+  "q": 24,
+  "part": null,
+  "l": "Q24",
+  "m": 15,
+  "t": "Analyse how Australia’s criminal legal system operates to protect community interests. In your answer, refer to legal measures to combat both transnational and domestic crimes.",
+  "core": [
+   "crime.t.balance",
+   "crime.1",
+   "crime.6"
+  ],
+  "support": [
+   "crime.t.reform",
+   "crime.t.effectiveness",
+   "crime.2",
+   "crime.4"
+  ],
+  "dir": "analyse",
+  "band": "analyse",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Balancing victims, offenders & society",
+   "The nature of crime",
+   "International crime"
+  ],
+  "sg": [
+   "Law reform",
+   "Legal & non-legal effectiveness",
+   "Criminal investigation process",
+   "Sentencing & punishment"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2011,
+  "q": 28,
+  "part": "a",
+  "l": "Q28(a)",
+  "m": 25,
+  "t": "To what extent have changing values in the community improved the legal rights of parents and children?",
+  "core": [
+   "fam.t.values",
+   "fam.1.5",
+   "fam.1.6"
+  ],
+  "support": [
+   "fam.t.reform",
+   "fam.t.effectiveness",
+   "fam.1.1",
+   "fam.1.2",
+   "fam.1.3",
+   "fam.1.4",
+   "fam.3.1",
+   "fam.3.2",
+   "fam.3.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Changing community values",
+   "Parents & children · adoption"
+  ],
+  "sg": [
+   "Law reform & just outcomes",
+   "Legal & non-legal effectiveness",
+   "Nature of family law",
+   "Marriage & alternative relationships",
+   "Same-sex relationships",
+   "Parental responsibility",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2011,
+  "q": 28,
+  "part": "b",
+  "l": "Q28(b)",
+  "m": 25,
+  "t": "Evaluate the effectiveness of the law in achieving justice for parties involved in relationship breakdown.",
+  "core": [
+   "fam.t.effectiveness",
+   "fam.2.1",
+   "fam.2.2",
+   "fam.2.3"
+  ],
+  "support": [
+   "fam.t.cooperation",
+   "fam.t.reform",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.4",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7",
+   "fam.3.2"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Divorce & separation"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Law reform & just outcomes",
+   "Parents & children · adoption",
+   "Domestic violence",
+   "Courts, dispute resolution, NGOs & media",
+   "Parental responsibility"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2012,
+  "q": 27,
+  "part": "a",
+  "l": "Q27(a)",
+  "m": 25,
+  "t": "Discuss whether the courts deliver justice for families.",
+  "core": [
+   "fam.t.effectiveness",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7"
+  ],
+  "support": [
+   "fam.t.cooperation",
+   "fam.t.reform",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.1",
+   "fam.2.2",
+   "fam.2.3",
+   "fam.2.4",
+   "fam.3.4"
+  ],
+  "dir": "discuss",
+  "band": "analyse",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Courts, dispute resolution, NGOs & media"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Law reform & just outcomes",
+   "Parents & children · adoption",
+   "Divorce & separation",
+   "Domestic violence",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2012,
+  "q": 27,
+  "part": "b",
+  "l": "Q27(b)",
+  "m": 25,
+  "t": "To what extent does the law adequately protect family members in relation to birth technologies and surrogacy?",
+  "core": [
+   "fam.t.effectiveness",
+   "fam.3.3"
+  ],
+  "support": [
+   "fam.t.values",
+   "fam.t.reform",
+   "fam.1.1",
+   "fam.1.2",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.3.2"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Surrogacy & birth technologies"
+  ],
+  "sg": [
+   "Changing community values",
+   "Law reform & just outcomes",
+   "Nature of family law",
+   "Parents & children · adoption",
+   "Parental responsibility"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2013,
+  "q": 28,
+  "part": "a",
+  "l": "Q28(a)",
+  "m": 25,
+  "t": "To what extent has law reform been effective in dealing with contemporary issues concerning family members?",
+  "core": [
+   "fam.t.reform",
+   "fam.3.1",
+   "fam.3.2",
+   "fam.3.3",
+   "fam.3.4"
+  ],
+  "support": [
+   "fam.t.values",
+   "fam.t.effectiveness",
+   "fam.1.1",
+   "fam.1.2"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Law reform & just outcomes",
+   "Same-sex relationships",
+   "Parental responsibility",
+   "Surrogacy & birth technologies",
+   "Care & protection of children"
+  ],
+  "sg": [
+   "Changing community values",
+   "Legal & non-legal effectiveness",
+   "Nature of family law"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2013,
+  "q": 28,
+  "part": "b",
+  "l": "Q28(b)",
+  "m": 25,
+  "t": "Evaluate how effectively the law resolves conflict in family relationships.",
+  "core": [
+   "fam.t.cooperation",
+   "fam.t.effectiveness",
+   "fam.2.1",
+   "fam.2.2",
+   "fam.2.3",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7"
+  ],
+  "support": [
+   "fam.t.compliance",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.4"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Cooperation & conflict resolution",
+   "Legal & non-legal effectiveness",
+   "Divorce & separation",
+   "Courts, dispute resolution, NGOs & media"
+  ],
+  "sg": [
+   "Compliance & non-compliance",
+   "Parents & children · adoption",
+   "Domestic violence"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2014,
+  "q": 27,
+  "part": "a",
+  "l": "Q27(a)",
+  "m": 25,
+  "t": "To what extent has law reform achieved just outcomes for those in same sex relationships?",
+  "core": [
+   "fam.t.reform",
+   "fam.1.3",
+   "fam.1.4",
+   "fam.3.1"
+  ],
+  "support": [
+   "fam.t.values",
+   "fam.t.effectiveness",
+   "fam.1.1",
+   "fam.1.2",
+   "fam.1.5",
+   "fam.1.6"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Law reform & just outcomes",
+   "Marriage & alternative relationships",
+   "Same-sex relationships"
+  ],
+  "sg": [
+   "Changing community values",
+   "Legal & non-legal effectiveness",
+   "Nature of family law",
+   "Parents & children · adoption"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2014,
+  "q": 27,
+  "part": "b",
+  "l": "Q27(b)",
+  "m": 25,
+  "t": "Evaluate the roles of the law and the media in responding to issues affecting family members.",
+  "core": [
+   "fam.t.effectiveness",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7"
+  ],
+  "support": [
+   "fam.t.values",
+   "fam.t.reform",
+   "fam.2.4",
+   "fam.3.1",
+   "fam.3.3",
+   "fam.3.4"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Courts, dispute resolution, NGOs & media"
+  ],
+  "sg": [
+   "Changing community values",
+   "Law reform & just outcomes",
+   "Domestic violence",
+   "Same-sex relationships",
+   "Surrogacy & birth technologies",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2015,
+  "q": 27,
+  "part": "a",
+  "l": "Q27(a)",
+  "m": 25,
+  "t": "To what extent is law reform regarding alternative family relationships a reflection of changing values?",
+  "core": [
+   "fam.t.values",
+   "fam.t.reform",
+   "fam.1.3",
+   "fam.1.4"
+  ],
+  "support": [
+   "fam.t.effectiveness",
+   "fam.1.1",
+   "fam.1.2",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.3.1"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Changing community values",
+   "Law reform & just outcomes",
+   "Marriage & alternative relationships"
+  ],
+  "sg": [
+   "Legal & non-legal effectiveness",
+   "Nature of family law",
+   "Parents & children · adoption",
+   "Same-sex relationships"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2015,
+  "q": 27,
+  "part": "b",
+  "l": "Q27(b)",
+  "m": 25,
+  "t": "Assess the effectiveness of legal and non-legal responses in dealing with domestic violence.",
+  "core": [
+   "fam.t.effectiveness",
+   "fam.2.4"
+  ],
+  "support": [
+   "fam.t.cooperation",
+   "fam.t.compliance",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7",
+   "fam.3.4"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Domestic violence"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Compliance & non-compliance",
+   "Parents & children · adoption",
+   "Courts, dispute resolution, NGOs & media",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2016,
+  "q": 27,
+  "part": "a",
+  "l": "Q27(a)",
+  "m": 25,
+  "t": "To what extent does the law encourage cooperation to resolve conflict in families?",
+  "core": [
+   "fam.t.cooperation",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7"
+  ],
+  "support": [
+   "fam.t.compliance",
+   "fam.t.effectiveness",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.1",
+   "fam.2.2",
+   "fam.2.3",
+   "fam.2.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Cooperation & conflict resolution",
+   "Courts, dispute resolution, NGOs & media"
+  ],
+  "sg": [
+   "Compliance & non-compliance",
+   "Legal & non-legal effectiveness",
+   "Parents & children · adoption",
+   "Divorce & separation",
+   "Domestic violence"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2016,
+  "q": 27,
+  "part": "b",
+  "l": "Q27(b)",
+  "m": 25,
+  "t": "Evaluate the effectiveness of the law in dealing with issues related to birth technologies and surrogacy.",
+  "core": [
+   "fam.t.effectiveness",
+   "fam.3.3"
+  ],
+  "support": [
+   "fam.t.values",
+   "fam.t.reform",
+   "fam.1.1",
+   "fam.1.2",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.3.2"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Surrogacy & birth technologies"
+  ],
+  "sg": [
+   "Changing community values",
+   "Law reform & just outcomes",
+   "Nature of family law",
+   "Parents & children · adoption",
+   "Parental responsibility"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2017,
+  "q": 27,
+  "part": "a",
+  "l": "Q27(a)",
+  "m": 25,
+  "t": "‘The legal system is constantly changing as it seeks to achieve justice.’ Evaluate this statement with respect to at least one contemporary issue concerning family law.",
+  "core": [
+   "fam.t.values",
+   "fam.t.reform"
+  ],
+  "support": [
+   "fam.t.effectiveness",
+   "fam.3.1",
+   "fam.3.2",
+   "fam.3.3",
+   "fam.3.4"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": true,
+  "cg": [
+   "Changing community values",
+   "Law reform & just outcomes"
+  ],
+  "sg": [
+   "Legal & non-legal effectiveness",
+   "Same-sex relationships",
+   "Parental responsibility",
+   "Surrogacy & birth technologies",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2017,
+  "q": 27,
+  "part": "b",
+  "l": "Q27(b)",
+  "m": 25,
+  "t": "Assess the effectiveness of both legal and non-legal measures in achieving just outcomes for family members.",
+  "core": [
+   "fam.t.effectiveness"
+  ],
+  "support": [
+   "fam.t.cooperation",
+   "fam.t.reform",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.1",
+   "fam.2.2",
+   "fam.2.3",
+   "fam.2.4",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7",
+   "fam.3.4"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Law reform & just outcomes",
+   "Parents & children · adoption",
+   "Divorce & separation",
+   "Domestic violence",
+   "Courts, dispute resolution, NGOs & media",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2018,
+  "q": 28,
+  "part": "a",
+  "l": "Q28(a)",
+  "m": 25,
+  "t": "Evaluate how effective changes to family law have been in reflecting changing community values.",
+  "core": [
+   "fam.t.values",
+   "fam.t.reform"
+  ],
+  "support": [
+   "fam.t.effectiveness",
+   "fam.1.3",
+   "fam.1.4",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.3.1",
+   "fam.3.2",
+   "fam.3.3"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Changing community values",
+   "Law reform & just outcomes"
+  ],
+  "sg": [
+   "Legal & non-legal effectiveness",
+   "Marriage & alternative relationships",
+   "Parents & children · adoption",
+   "Same-sex relationships",
+   "Parental responsibility",
+   "Surrogacy & birth technologies"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2018,
+  "q": 28,
+  "part": "b",
+  "l": "Q28(b)",
+  "m": 25,
+  "t": "To what extent are legal processes effective in dealing with issues in family relationships?",
+  "core": [
+   "fam.t.effectiveness",
+   "fam.2.1",
+   "fam.2.2",
+   "fam.2.3",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7"
+  ],
+  "support": [
+   "fam.t.cooperation",
+   "fam.t.compliance",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Divorce & separation",
+   "Courts, dispute resolution, NGOs & media"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Compliance & non-compliance",
+   "Parents & children · adoption",
+   "Domestic violence"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2019,
+  "q": 27,
+  "part": "a",
+  "l": "Q27(a)",
+  "m": 25,
+  "t": "Evaluate the effectiveness of legal responses in achieving justice for parties involved in relationship breakdowns.",
+  "core": [
+   "fam.t.effectiveness",
+   "fam.2.1",
+   "fam.2.2",
+   "fam.2.3"
+  ],
+  "support": [
+   "fam.t.cooperation",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.4",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7",
+   "fam.3.2"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Divorce & separation"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Parents & children · adoption",
+   "Domestic violence",
+   "Courts, dispute resolution, NGOs & media",
+   "Parental responsibility"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2019,
+  "q": 27,
+  "part": "b",
+  "l": "Q27(b)",
+  "m": 25,
+  "t": "Assess the role of law reform in achieving just outcomes for family members. In your response, refer to at least ONE contemporary issue.",
+  "core": [
+   "fam.t.reform"
+  ],
+  "support": [
+   "fam.t.values",
+   "fam.t.effectiveness",
+   "fam.3.1",
+   "fam.3.2",
+   "fam.3.3",
+   "fam.3.4"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Law reform & just outcomes"
+  ],
+  "sg": [
+   "Changing community values",
+   "Legal & non-legal effectiveness",
+   "Same-sex relationships",
+   "Parental responsibility",
+   "Surrogacy & birth technologies",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2020,
+  "q": 27,
+  "part": "a",
+  "l": "Q27(a)",
+  "m": 25,
+  "t": "Evaluate the effectiveness of the legal system in addressing issues relating to care and protection of children.",
+  "core": [
+   "fam.t.effectiveness",
+   "fam.3.4"
+  ],
+  "support": [
+   "fam.t.compliance",
+   "fam.t.reform",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.4",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Care & protection of children"
+  ],
+  "sg": [
+   "Compliance & non-compliance",
+   "Law reform & just outcomes",
+   "Parents & children · adoption",
+   "Domestic violence",
+   "Courts, dispute resolution, NGOs & media"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2020,
+  "q": 27,
+  "part": "b",
+  "l": "Q27(b)",
+  "m": 25,
+  "t": "Compliance with the law can be difficult to achieve. To what extent is this statement true in relation to family law?",
+  "core": [
+   "fam.t.compliance",
+   "fam.t.effectiveness"
+  ],
+  "support": [
+   "fam.t.cooperation",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.1",
+   "fam.2.2",
+   "fam.2.3",
+   "fam.2.4",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7",
+   "fam.3.2"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Compliance & non-compliance",
+   "Legal & non-legal effectiveness"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Parents & children · adoption",
+   "Divorce & separation",
+   "Domestic violence",
+   "Courts, dispute resolution, NGOs & media",
+   "Parental responsibility"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2021,
+  "q": 28,
+  "part": "a",
+  "l": "Q28(a)",
+  "m": 25,
+  "t": "To what extent do courts and dispute resolution methods achieve justice for family members?",
+  "core": [
+   "fam.t.cooperation",
+   "fam.t.effectiveness",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7"
+  ],
+  "support": [
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.1",
+   "fam.2.2",
+   "fam.2.3",
+   "fam.2.4",
+   "fam.3.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Cooperation & conflict resolution",
+   "Legal & non-legal effectiveness",
+   "Courts, dispute resolution, NGOs & media"
+  ],
+  "sg": [
+   "Parents & children · adoption",
+   "Divorce & separation",
+   "Domestic violence",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2021,
+  "q": 28,
+  "part": "b",
+  "l": "Q28(b)",
+  "m": 25,
+  "t": "‘Legal measures often fail to respond to change.’ Assess this statement with reference to the need to protect family members.",
+  "core": [
+   "fam.t.values",
+   "fam.t.reform"
+  ],
+  "support": [
+   "fam.t.effectiveness",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.4",
+   "fam.3.3",
+   "fam.3.4"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": true,
+  "cg": [
+   "Changing community values",
+   "Law reform & just outcomes"
+  ],
+  "sg": [
+   "Legal & non-legal effectiveness",
+   "Parents & children · adoption",
+   "Domestic violence",
+   "Surrogacy & birth technologies",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2022,
+  "q": 28,
+  "part": "a",
+  "l": "Q28(a)",
+  "m": 25,
+  "t": "‘Legal responses are more effective than non-legal responses in achieving justice.’ To what extent is this statement true in relation to families?",
+  "core": [
+   "fam.t.effectiveness"
+  ],
+  "support": [
+   "fam.t.cooperation",
+   "fam.t.reform",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.4",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7",
+   "fam.3.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": true,
+  "cg": [
+   "Legal & non-legal effectiveness"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Law reform & just outcomes",
+   "Parents & children · adoption",
+   "Domestic violence",
+   "Courts, dispute resolution, NGOs & media",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2022,
+  "q": 28,
+  "part": "b",
+  "l": "Q28(b)",
+  "m": 25,
+  "t": "Evaluate the effectiveness of the law in encouraging cooperation to resolve issues concerning families. Support your response with reference to at least ONE issue.",
+  "core": [
+   "fam.t.cooperation",
+   "fam.t.effectiveness"
+  ],
+  "support": [
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.1",
+   "fam.2.2",
+   "fam.2.3",
+   "fam.2.4",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7",
+   "fam.3.1",
+   "fam.3.2",
+   "fam.3.3",
+   "fam.3.4"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Cooperation & conflict resolution",
+   "Legal & non-legal effectiveness"
+  ],
+  "sg": [
+   "Parents & children · adoption",
+   "Divorce & separation",
+   "Domestic violence",
+   "Courts, dispute resolution, NGOs & media",
+   "Same-sex relationships",
+   "Parental responsibility",
+   "Surrogacy & birth technologies",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2023,
+  "q": 28,
+  "part": "a",
+  "l": "Q28(a)",
+  "m": 25,
+  "t": "To what extent does family law respond to the changing nature of parental responsibilities?",
+  "core": [
+   "fam.t.values",
+   "fam.t.reform",
+   "fam.3.2"
+  ],
+  "support": [
+   "fam.t.effectiveness",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.1",
+   "fam.2.2",
+   "fam.2.3",
+   "fam.3.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Changing community values",
+   "Law reform & just outcomes",
+   "Parental responsibility"
+  ],
+  "sg": [
+   "Legal & non-legal effectiveness",
+   "Parents & children · adoption",
+   "Divorce & separation",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2023,
+  "q": 28,
+  "part": "b",
+  "l": "Q28(b)",
+  "m": 25,
+  "t": "Assess the effectiveness of the law in protecting victims of domestic violence.",
+  "core": [
+   "fam.t.effectiveness",
+   "fam.2.4"
+  ],
+  "support": [
+   "fam.t.cooperation",
+   "fam.t.compliance",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7",
+   "fam.3.4"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Domestic violence"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Compliance & non-compliance",
+   "Parents & children · adoption",
+   "Courts, dispute resolution, NGOs & media",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2024,
+  "q": 27,
+  "part": "a",
+  "l": "Q27(a)",
+  "m": 25,
+  "t": "Analyse the role of state and federal governments in responding to the rights of family members.",
+  "core": [
+   "fam.t.effectiveness",
+   "fam.1.1",
+   "fam.1.2"
+  ],
+  "support": [
+   "fam.t.reform",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.4",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7",
+   "fam.3.4"
+  ],
+  "dir": "analyse",
+  "band": "analyse",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Nature of family law"
+  ],
+  "sg": [
+   "Law reform & just outcomes",
+   "Parents & children · adoption",
+   "Domestic violence",
+   "Courts, dispute resolution, NGOs & media",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2024,
+  "q": 27,
+  "part": "b",
+  "l": "Q27(b)",
+  "m": 25,
+  "t": "To what extent are legal responses effective in addressing the issues of surrogacy and birth technologies?",
+  "core": [
+   "fam.t.effectiveness",
+   "fam.3.3"
+  ],
+  "support": [
+   "fam.t.values",
+   "fam.t.reform",
+   "fam.1.1",
+   "fam.1.2",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.3.2"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Surrogacy & birth technologies"
+  ],
+  "sg": [
+   "Changing community values",
+   "Law reform & just outcomes",
+   "Nature of family law",
+   "Parents & children · adoption",
+   "Parental responsibility"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2025,
+  "q": 27,
+  "part": "a",
+  "l": "Q27(a)",
+  "m": 25,
+  "t": "‘Non-compliance challenges the effectiveness of the law.’ To what extent is this statement accurate in relation to families?",
+  "core": [
+   "fam.t.compliance",
+   "fam.t.effectiveness"
+  ],
+  "support": [
+   "fam.t.cooperation",
+   "fam.1.5",
+   "fam.1.6",
+   "fam.2.1",
+   "fam.2.2",
+   "fam.2.3",
+   "fam.2.4",
+   "fam.2.5",
+   "fam.2.6",
+   "fam.2.7",
+   "fam.3.2"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": true,
+  "cg": [
+   "Compliance & non-compliance",
+   "Legal & non-legal effectiveness"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Parents & children · adoption",
+   "Divorce & separation",
+   "Domestic violence",
+   "Courts, dispute resolution, NGOs & media",
+   "Parental responsibility"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "family",
+  "y": 2025,
+  "q": 27,
+  "part": "b",
+  "l": "Q27(b)",
+  "m": 25,
+  "t": "Assess the interrelationship between changing community values and the achievement of just outcomes for families. In your answer, you must refer to at least ONE contemporary issue.",
+  "core": [
+   "fam.t.values",
+   "fam.t.reform"
+  ],
+  "support": [
+   "fam.t.effectiveness",
+   "fam.1.1",
+   "fam.1.2",
+   "fam.1.3",
+   "fam.1.4",
+   "fam.3.1",
+   "fam.3.2",
+   "fam.3.3",
+   "fam.3.4"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Changing community values",
+   "Law reform & just outcomes"
+  ],
+  "sg": [
+   "Legal & non-legal effectiveness",
+   "Nature of family law",
+   "Marriage & alternative relationships",
+   "Same-sex relationships",
+   "Parental responsibility",
+   "Surrogacy & birth technologies",
+   "Care & protection of children"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2011,
+  "q": 30,
+  "part": "a",
+  "l": "Q30(a)",
+  "m": 25,
+  "t": "To what extent is the law effective in achieving just outcomes in regard to the provision of shelter?",
+  "core": [
+   "shel.t.effectiveness",
+   "shel.1"
+  ],
+  "support": [
+   "shel.t.cooperation",
+   "shel.t.reform",
+   "shel.2.1",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.4",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10",
+   "shel.3.1",
+   "shel.3.3",
+   "shel.3.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Nature of shelter"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Law reform",
+   "Purchasing",
+   "Leasing",
+   "Other shelter types",
+   "Dispute resolution",
+   "Affordability",
+   "Homelessness",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2011,
+  "q": 30,
+  "part": "b",
+  "l": "Q30(b)",
+  "m": 25,
+  "t": "How effective are legal measures in resolving conflicts in regard to shelter?",
+  "core": [
+   "shel.t.cooperation",
+   "shel.t.effectiveness",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "support": [
+   "shel.t.compliance",
+   "shel.2.1",
+   "shel.2.4",
+   "shel.3.2"
+  ],
+  "dir": "how effective",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Cooperation & conflict resolution",
+   "Legal & non-legal effectiveness",
+   "Leasing",
+   "Dispute resolution"
+  ],
+  "sg": [
+   "Compliance & non-compliance",
+   "Purchasing",
+   "Other shelter types",
+   "Discrimination"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2012,
+  "q": 29,
+  "part": "a",
+  "l": "Q29(a)",
+  "m": 25,
+  "t": "Assess the role of government in providing and securing shelter for individuals.",
+  "core": [
+   "shel.t.effectiveness",
+   "shel.1",
+   "shel.3.4"
+  ],
+  "support": [
+   "shel.t.reform",
+   "shel.2.1",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.4",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10",
+   "shel.3.1",
+   "shel.3.3"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Nature of shelter",
+   "Social housing"
+  ],
+  "sg": [
+   "Law reform",
+   "Purchasing",
+   "Leasing",
+   "Other shelter types",
+   "Dispute resolution",
+   "Affordability",
+   "Homelessness"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2012,
+  "q": 29,
+  "part": "b",
+  "l": "Q29(b)",
+  "m": 25,
+  "t": "Compare the effectiveness of legal and non-legal measures in protecting the rights of those seeking shelter.",
+  "core": [
+   "shel.t.effectiveness",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "support": [
+   "shel.t.reform",
+   "shel.1",
+   "shel.2.1",
+   "shel.3.1",
+   "shel.3.2",
+   "shel.3.3",
+   "shel.3.4"
+  ],
+  "dir": "compare",
+  "band": "explain",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Leasing",
+   "Dispute resolution"
+  ],
+  "sg": [
+   "Law reform",
+   "Nature of shelter",
+   "Purchasing",
+   "Affordability",
+   "Discrimination",
+   "Homelessness",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2013,
+  "q": 30,
+  "part": "a",
+  "l": "Q30(a)",
+  "m": 25,
+  "t": "To what extent does the law reflect changing values and ethical standards in society for those securing shelter?",
+  "core": [
+   "shel.t.values",
+   "shel.t.reform",
+   "shel.2.2",
+   "shel.2.3"
+  ],
+  "support": [
+   "shel.1",
+   "shel.2.1",
+   "shel.2.4",
+   "shel.3.1",
+   "shel.3.2",
+   "shel.3.3",
+   "shel.3.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Changing values & ethics",
+   "Law reform",
+   "Leasing"
+  ],
+  "sg": [
+   "Nature of shelter",
+   "Purchasing",
+   "Other shelter types",
+   "Affordability",
+   "Discrimination",
+   "Homelessness",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2013,
+  "q": 30,
+  "part": "b",
+  "l": "Q30(b)",
+  "m": 25,
+  "t": "Explain how contemporary issues affecting those seeking shelter demonstrate the need for law reform.",
+  "core": [
+   "shel.t.reform",
+   "shel.3.1",
+   "shel.3.2",
+   "shel.3.3",
+   "shel.3.4"
+  ],
+  "support": [
+   "shel.t.values",
+   "shel.t.effectiveness",
+   "shel.1",
+   "shel.2.2",
+   "shel.2.3"
+  ],
+  "dir": "explain",
+  "band": "explain",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Law reform",
+   "Affordability",
+   "Discrimination",
+   "Homelessness",
+   "Social housing"
+  ],
+  "sg": [
+   "Changing values & ethics",
+   "Legal & non-legal effectiveness",
+   "Nature of shelter",
+   "Leasing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2014,
+  "q": 29,
+  "part": "a",
+  "l": "Q29(a)",
+  "m": 25,
+  "t": "Compare the effectiveness of legal and non-legal measures in responding to homelessness and issues of discrimination relating to shelter.",
+  "core": [
+   "shel.t.effectiveness",
+   "shel.3.2",
+   "shel.3.3"
+  ],
+  "support": [
+   "shel.t.reform",
+   "shel.1",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10",
+   "shel.3.1",
+   "shel.3.4"
+  ],
+  "dir": "compare",
+  "band": "explain",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Discrimination",
+   "Homelessness"
+  ],
+  "sg": [
+   "Law reform",
+   "Nature of shelter",
+   "Dispute resolution",
+   "Affordability",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2014,
+  "q": 29,
+  "part": "b",
+  "l": "Q29(b)",
+  "m": 25,
+  "t": "Discuss how compliance with the law promotes justice both for those seeking and those providing shelter.",
+  "core": [
+   "shel.t.compliance",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "support": [
+   "shel.t.cooperation",
+   "shel.t.effectiveness",
+   "shel.1",
+   "shel.2.1",
+   "shel.2.4",
+   "shel.3.2",
+   "shel.3.4"
+  ],
+  "dir": "discuss",
+  "band": "analyse",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Compliance & non-compliance",
+   "Leasing",
+   "Dispute resolution"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Legal & non-legal effectiveness",
+   "Nature of shelter",
+   "Purchasing",
+   "Other shelter types",
+   "Discrimination",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2015,
+  "q": 29,
+  "part": "a",
+  "l": "Q29(a)",
+  "m": 25,
+  "t": "To what extent have dispute resolution mechanisms been effective in resolving conflict with regard to shelter?",
+  "core": [
+   "shel.t.cooperation",
+   "shel.t.effectiveness",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "support": [
+   "shel.2.1",
+   "shel.2.4",
+   "shel.3.2"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Cooperation & conflict resolution",
+   "Legal & non-legal effectiveness",
+   "Leasing",
+   "Dispute resolution"
+  ],
+  "sg": [
+   "Purchasing",
+   "Other shelter types",
+   "Discrimination"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2015,
+  "q": 29,
+  "part": "b",
+  "l": "Q29(b)",
+  "m": 25,
+  "t": "To what extent does the law provide justice for those purchasing and selling shelter?",
+  "core": [
+   "shel.t.effectiveness",
+   "shel.2.1"
+  ],
+  "support": [
+   "shel.t.compliance",
+   "shel.1",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10",
+   "shel.3.1"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Purchasing"
+  ],
+  "sg": [
+   "Compliance & non-compliance",
+   "Nature of shelter",
+   "Dispute resolution",
+   "Affordability"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2016,
+  "q": 29,
+  "part": "a",
+  "l": "Q29(a)",
+  "m": 25,
+  "t": "To what extent does the law encourage cooperation to resolve conflict in regard to shelter?",
+  "core": [
+   "shel.t.cooperation",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "support": [
+   "shel.t.compliance",
+   "shel.t.effectiveness",
+   "shel.2.1",
+   "shel.2.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Cooperation & conflict resolution",
+   "Leasing",
+   "Dispute resolution"
+  ],
+  "sg": [
+   "Compliance & non-compliance",
+   "Legal & non-legal effectiveness",
+   "Purchasing",
+   "Other shelter types"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2016,
+  "q": 29,
+  "part": "b",
+  "l": "Q29(b)",
+  "m": 25,
+  "t": "Evaluate the effectiveness of the law in dealing with issues related to social housing.",
+  "core": [
+   "shel.t.effectiveness",
+   "shel.3.4"
+  ],
+  "support": [
+   "shel.t.reform",
+   "shel.1",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10",
+   "shel.3.1",
+   "shel.3.2",
+   "shel.3.3"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Social housing"
+  ],
+  "sg": [
+   "Law reform",
+   "Nature of shelter",
+   "Dispute resolution",
+   "Affordability",
+   "Discrimination",
+   "Homelessness"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2017,
+  "q": 29,
+  "part": "a",
+  "l": "Q29(a)",
+  "m": 25,
+  "t": "‘The legal system is constantly changing as it seeks to achieve justice.’ Evaluate this statement with respect to at least one contemporary issue concerning shelter.",
+  "core": [
+   "shel.t.values",
+   "shel.t.reform"
+  ],
+  "support": [
+   "shel.t.effectiveness",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.3.1",
+   "shel.3.2",
+   "shel.3.3",
+   "shel.3.4"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": true,
+  "cg": [
+   "Changing values & ethics",
+   "Law reform"
+  ],
+  "sg": [
+   "Legal & non-legal effectiveness",
+   "Leasing",
+   "Affordability",
+   "Discrimination",
+   "Homelessness",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2017,
+  "q": 29,
+  "part": "b",
+  "l": "Q29(b)",
+  "m": 25,
+  "t": "Assess the effectiveness of both legal and non-legal measures in achieving just outcomes in regard to the provision of shelter.",
+  "core": [
+   "shel.t.effectiveness",
+   "shel.1",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "support": [
+   "shel.t.cooperation",
+   "shel.2.1",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.4",
+   "shel.3.1",
+   "shel.3.3",
+   "shel.3.4"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Nature of shelter",
+   "Dispute resolution"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Purchasing",
+   "Leasing",
+   "Other shelter types",
+   "Affordability",
+   "Homelessness",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2018,
+  "q": 30,
+  "part": "a",
+  "l": "Q30(a)",
+  "m": 25,
+  "t": "Evaluate how effective changes to laws relating to shelter have been in reflecting changing values and ethical standards.",
+  "core": [
+   "shel.t.values",
+   "shel.t.reform",
+   "shel.2.2",
+   "shel.2.3"
+  ],
+  "support": [
+   "shel.t.effectiveness",
+   "shel.2.1",
+   "shel.2.4",
+   "shel.3.1",
+   "shel.3.2",
+   "shel.3.4"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Changing values & ethics",
+   "Law reform",
+   "Leasing"
+  ],
+  "sg": [
+   "Legal & non-legal effectiveness",
+   "Purchasing",
+   "Other shelter types",
+   "Affordability",
+   "Discrimination",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2018,
+  "q": 30,
+  "part": "b",
+  "l": "Q30(b)",
+  "m": 25,
+  "t": "To what extent does the legal system protect those securing and providing shelter?",
+  "core": [
+   "shel.t.effectiveness",
+   "shel.2.1",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.4"
+  ],
+  "support": [
+   "shel.t.compliance",
+   "shel.1",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Purchasing",
+   "Leasing",
+   "Other shelter types"
+  ],
+  "sg": [
+   "Compliance & non-compliance",
+   "Nature of shelter",
+   "Dispute resolution"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2019,
+  "q": 29,
+  "part": "a",
+  "l": "Q29(a)",
+  "m": 25,
+  "t": "Evaluate the effectiveness of legal protection and remedies in achieving justice for those securing shelter.",
+  "core": [
+   "shel.t.effectiveness",
+   "shel.2.1",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "support": [
+   "shel.t.cooperation",
+   "shel.1",
+   "shel.2.4"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Purchasing",
+   "Leasing",
+   "Dispute resolution"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Nature of shelter",
+   "Other shelter types"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2019,
+  "q": 29,
+  "part": "b",
+  "l": "Q29(b)",
+  "m": 25,
+  "t": "Assess the role of law reform in protecting the rights of those seeking shelter. In your response, refer to at least ONE contemporary issue.",
+  "core": [
+   "shel.t.reform"
+  ],
+  "support": [
+   "shel.t.values",
+   "shel.t.effectiveness",
+   "shel.1",
+   "shel.3.1",
+   "shel.3.2",
+   "shel.3.3",
+   "shel.3.4"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Law reform"
+  ],
+  "sg": [
+   "Changing values & ethics",
+   "Legal & non-legal effectiveness",
+   "Nature of shelter",
+   "Affordability",
+   "Discrimination",
+   "Homelessness",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2020,
+  "q": 29,
+  "part": "a",
+  "l": "Q29(a)",
+  "m": 25,
+  "t": "Evaluate the effectiveness of the legal system in addressing issues relating to the affordability of shelter.",
+  "core": [
+   "shel.t.effectiveness",
+   "shel.3.1"
+  ],
+  "support": [
+   "shel.t.reform",
+   "shel.1",
+   "shel.2.1",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.3.3",
+   "shel.3.4"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Affordability"
+  ],
+  "sg": [
+   "Law reform",
+   "Nature of shelter",
+   "Purchasing",
+   "Leasing",
+   "Homelessness",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2020,
+  "q": 29,
+  "part": "b",
+  "l": "Q29(b)",
+  "m": 25,
+  "t": "Compliance with the law can be difficult to achieve. To what extent is this statement true in relation to laws governing shelter?",
+  "core": [
+   "shel.t.compliance",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "support": [
+   "shel.t.cooperation",
+   "shel.t.effectiveness",
+   "shel.2.1",
+   "shel.2.4",
+   "shel.3.2"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Compliance & non-compliance",
+   "Leasing",
+   "Dispute resolution"
+  ],
+  "sg": [
+   "Cooperation & conflict resolution",
+   "Legal & non-legal effectiveness",
+   "Purchasing",
+   "Other shelter types",
+   "Discrimination"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2021,
+  "q": 30,
+  "part": "a",
+  "l": "Q30(a)",
+  "m": 25,
+  "t": "To what extent do courts and tribunals achieve justice for people seeking shelter?",
+  "core": [
+   "shel.t.cooperation",
+   "shel.t.effectiveness",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "support": [
+   "shel.2.1",
+   "shel.2.4",
+   "shel.3.2",
+   "shel.3.3"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Cooperation & conflict resolution",
+   "Legal & non-legal effectiveness",
+   "Leasing",
+   "Dispute resolution"
+  ],
+  "sg": [
+   "Purchasing",
+   "Other shelter types",
+   "Discrimination",
+   "Homelessness"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2021,
+  "q": 30,
+  "part": "b",
+  "l": "Q30(b)",
+  "m": 25,
+  "t": "‘Legal measures often fail to respond to change.’ Assess this statement with reference to the provision of shelter.",
+  "core": [
+   "shel.t.values",
+   "shel.t.reform",
+   "shel.1"
+  ],
+  "support": [
+   "shel.t.effectiveness",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.3.1",
+   "shel.3.3",
+   "shel.3.4"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": true,
+  "cg": [
+   "Changing values & ethics",
+   "Law reform",
+   "Nature of shelter"
+  ],
+  "sg": [
+   "Legal & non-legal effectiveness",
+   "Leasing",
+   "Affordability",
+   "Homelessness",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2022,
+  "q": 30,
+  "part": "a",
+  "l": "Q30(a)",
+  "m": 25,
+  "t": "‘Legal responses are more effective than non-legal responses in achieving justice.’ To what extent is this statement true in relation to shelter?",
+  "core": [
+   "shel.t.effectiveness",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "support": [
+   "shel.1",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.3.1",
+   "shel.3.2",
+   "shel.3.3",
+   "shel.3.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": true,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Dispute resolution"
+  ],
+  "sg": [
+   "Nature of shelter",
+   "Leasing",
+   "Affordability",
+   "Discrimination",
+   "Homelessness",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2022,
+  "q": 30,
+  "part": "b",
+  "l": "Q30(b)",
+  "m": 25,
+  "t": "Evaluate the effectiveness of the law in encouraging cooperation to resolve issues concerning shelter. Support your response with reference to at least ONE issue.",
+  "core": [
+   "shel.t.cooperation",
+   "shel.t.effectiveness",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "support": [
+   "shel.2.2",
+   "shel.2.3",
+   "shel.3.1",
+   "shel.3.2",
+   "shel.3.3",
+   "shel.3.4"
+  ],
+  "dir": "evaluate",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Cooperation & conflict resolution",
+   "Legal & non-legal effectiveness",
+   "Dispute resolution"
+  ],
+  "sg": [
+   "Leasing",
+   "Affordability",
+   "Discrimination",
+   "Homelessness",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2023,
+  "q": 30,
+  "part": "a",
+  "l": "Q30(a)",
+  "m": 25,
+  "t": "To what extent do legal responses relating to shelter address discrimination and homelessness?",
+  "core": [
+   "shel.t.effectiveness",
+   "shel.3.2",
+   "shel.3.3"
+  ],
+  "support": [
+   "shel.t.reform",
+   "shel.1",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.3.4"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Discrimination",
+   "Homelessness"
+  ],
+  "sg": [
+   "Law reform",
+   "Nature of shelter",
+   "Leasing",
+   "Social housing"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2023,
+  "q": 30,
+  "part": "b",
+  "l": "Q30(b)",
+  "m": 25,
+  "t": "Assess the role of dispute resolution mechanisms in achieving justice for people seeking and providing shelter.",
+  "core": [
+   "shel.t.cooperation",
+   "shel.t.effectiveness",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "support": [
+   "shel.1",
+   "shel.2.1",
+   "shel.2.4"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Cooperation & conflict resolution",
+   "Legal & non-legal effectiveness",
+   "Leasing",
+   "Dispute resolution"
+  ],
+  "sg": [
+   "Nature of shelter",
+   "Purchasing",
+   "Other shelter types"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2024,
+  "q": 29,
+  "part": "a",
+  "l": "Q29(a)",
+  "m": 25,
+  "t": "Analyse the role of state and federal governments in responding to the rights of individuals accessing shelter.",
+  "core": [
+   "shel.1",
+   "shel.3.4"
+  ],
+  "support": [
+   "shel.t.reform",
+   "shel.t.effectiveness",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10",
+   "shel.3.1",
+   "shel.3.3"
+  ],
+  "dir": "analyse",
+  "band": "analyse",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Nature of shelter",
+   "Social housing"
+  ],
+  "sg": [
+   "Law reform",
+   "Legal & non-legal effectiveness",
+   "Dispute resolution",
+   "Affordability",
+   "Homelessness"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2024,
+  "q": 29,
+  "part": "b",
+  "l": "Q29(b)",
+  "m": 25,
+  "t": "To what extent are legal responses effective in addressing the issues of affordability and social housing?",
+  "core": [
+   "shel.t.effectiveness",
+   "shel.3.1",
+   "shel.3.4"
+  ],
+  "support": [
+   "shel.t.reform",
+   "shel.1",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.3.3"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Legal & non-legal effectiveness",
+   "Affordability",
+   "Social housing"
+  ],
+  "sg": [
+   "Law reform",
+   "Nature of shelter",
+   "Leasing",
+   "Homelessness"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2025,
+  "q": 29,
+  "part": "a",
+  "l": "Q29(a)",
+  "m": 25,
+  "t": "‘Non-compliance challenges the effectiveness of the law.’ To what extent is this statement accurate in relation to shelter?",
+  "core": [
+   "shel.t.compliance",
+   "shel.t.effectiveness",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.2.5",
+   "shel.2.6",
+   "shel.2.7",
+   "shel.2.8",
+   "shel.2.9",
+   "shel.2.10"
+  ],
+  "support": [
+   "shel.2.1",
+   "shel.2.4",
+   "shel.3.2"
+  ],
+  "dir": "to what extent",
+  "band": "evaluate",
+  "st": null,
+  "quoted": true,
+  "cg": [
+   "Compliance & non-compliance",
+   "Legal & non-legal effectiveness",
+   "Leasing",
+   "Dispute resolution"
+  ],
+  "sg": [
+   "Purchasing",
+   "Other shelter types",
+   "Discrimination"
+  ]
+ },
+ {
+  "s": "III",
+  "topic": "shelter",
+  "y": 2025,
+  "q": 29,
+  "part": "b",
+  "l": "Q29(b)",
+  "m": 25,
+  "t": "Assess the interrelationship between changing community values and the achievement of just outcomes for people seeking and providing shelter. In your answer, you must refer to at least ONE contemporary issue.",
+  "core": [
+   "shel.t.values",
+   "shel.t.reform"
+  ],
+  "support": [
+   "shel.t.effectiveness",
+   "shel.1",
+   "shel.2.2",
+   "shel.2.3",
+   "shel.3.1",
+   "shel.3.2",
+   "shel.3.3",
+   "shel.3.4"
+  ],
+  "dir": "assess",
+  "band": "evaluate",
+  "st": null,
+  "quoted": false,
+  "cg": [
+   "Changing values & ethics",
+   "Law reform"
+  ],
+  "sg": [
+   "Legal & non-legal effectiveness",
+   "Nature of shelter",
+   "Leasing",
+   "Affordability",
+   "Discrimination",
+   "Homelessness",
+   "Social housing"
+  ]
+ }
+]

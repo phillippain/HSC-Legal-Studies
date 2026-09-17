@@ -1,0 +1,49 @@
+{
+ "crime": {
+  "Discretion": "crime.t.discretion",
+  "Compliance & non-compliance": "crime.t.compliance",
+  "Moral & ethical standards": "crime.t.moral",
+  "Law reform": "crime.t.reform",
+  "Balancing victims, offenders & society": "crime.t.balance",
+  "Legal & non-legal effectiveness": "crime.t.effectiveness",
+  "The nature of crime": "crime.1",
+  "Criminal investigation process": "crime.2",
+  "Criminal trial process": "crime.3",
+  "Sentencing & punishment": "crime.4",
+  "Young offenders": "crime.5",
+  "International crime": "crime.6"
+ },
+ "family": {
+  "Cooperation & conflict resolution": "fam.t.cooperation",
+  "Compliance & non-compliance": "fam.t.compliance",
+  "Changing community values": "fam.t.values",
+  "Law reform & just outcomes": "fam.t.reform",
+  "Legal & non-legal effectiveness": "fam.t.effectiveness",
+  "Nature of family law": "fam.1.1",
+  "Marriage & alternative relationships": "fam.1.3",
+  "Parents & children · adoption": "fam.1.5",
+  "Divorce & separation": "fam.2.1",
+  "Domestic violence": "fam.2.4",
+  "Courts, dispute resolution, NGOs & media": "fam.2.5",
+  "Same-sex relationships": "fam.3.1",
+  "Parental responsibility": "fam.3.2",
+  "Surrogacy & birth technologies": "fam.3.3",
+  "Care & protection of children": "fam.3.4"
+ },
+ "shelter": {
+  "Cooperation & conflict resolution": "shel.t.cooperation",
+  "Compliance & non-compliance": "shel.t.compliance",
+  "Changing values & ethics": "shel.t.values",
+  "Law reform": "shel.t.reform",
+  "Legal & non-legal effectiveness": "shel.t.effectiveness",
+  "Nature of shelter": "shel.1",
+  "Purchasing": "shel.2.1",
+  "Leasing": "shel.2.2",
+  "Other shelter types": "shel.2.4",
+  "Dispute resolution": "shel.2.5",
+  "Affordability": "shel.3.1",
+  "Discrimination": "shel.3.2",
+  "Homelessness": "shel.3.3",
+  "Social housing": "shel.3.4"
+ }
+}

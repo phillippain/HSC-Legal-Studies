@@ -1,0 +1,30 @@
+2011|a|To what extent is the law effective in achieving just outcomes in regard to the provision of shelter?
+2011|b|How effective are legal measures in resolving conflicts in regard to shelter?
+2012|a|Assess the role of government in providing and securing shelter for individuals.
+2012|b|Compare the effectiveness of legal and non-legal measures in protecting the rights of those seeking shelter.
+2013|a|To what extent does the law reflect changing values and ethical standards in society for those securing shelter?
+2013|b|Explain how contemporary issues affecting those seeking shelter demonstrate the need for law reform.
+2014|a|Compare the effectiveness of legal and non-legal measures in responding to homelessness and issues of discrimination relating to shelter.
+2014|b|Discuss how compliance with the law promotes justice both for those seeking and those providing shelter.
+2015|a|To what extent have dispute resolution mechanisms been effective in resolving conflict with regard to shelter?
+2015|b|To what extent does the law provide justice for those purchasing and selling shelter?
+2016|a|To what extent does the law encourage cooperation to resolve conflict in regard to shelter?
+2016|b|Evaluate the effectiveness of the law in dealing with issues related to social housing.
+2017|a|'The legal system is constantly changing as it seeks to achieve justice.' Evaluate this statement with respect to at least one contemporary issue concerning shelter.
+2017|b|Assess the effectiveness of both legal and non-legal measures in achieving just outcomes in regard to the provision of shelter.
+2018|a|Evaluate how effective changes to laws relating to shelter have been in reflecting changing values and ethical standards.
+2018|b|To what extent does the legal system protect those securing and providing shelter?
+2019|a|Evaluate the effectiveness of legal protection and remedies in achieving justice for those securing shelter.
+2019|b|Assess the role of law reform in protecting the rights of those seeking shelter. In your response, refer to at least ONE contemporary issue.
+2020|a|Evaluate the effectiveness of the legal system in addressing issues relating to the affordability of shelter.
+2020|b|Compliance with the law can be difficult to achieve. To what extent is this statement true in relation to laws governing shelter?
+2021|a|To what extent do courts and tribunals achieve justice for people seeking shelter?
+2021|b|'Legal measures often fail to respond to change.' Assess this statement with reference to the provision of shelter.
+2022|a|'Legal responses are more effective than non-legal responses in achieving justice.' To what extent is this statement true in relation to shelter?
+2022|b|Evaluate the effectiveness of the law in encouraging cooperation to resolve issues concerning shelter. Support your response with reference to at least ONE issue.
+2023|a|To what extent do legal responses relating to shelter address discrimination and homelessness?
+2023|b|Assess the role of dispute resolution mechanisms in achieving justice for people seeking and providing shelter.
+2024|a|Analyse the role of state and federal governments in responding to the rights of individuals accessing shelter.
+2024|b|To what extent are legal responses effective in addressing the issues of affordability and social housing?
+2025|a|'Non-compliance challenges the effectiveness of the law.' To what extent is this statement accurate in relation to shelter?
+2025|b|Assess the interrelationship between changing community values and the achievement of just outcomes for people seeking and providing shelter. In your answer, you must refer to at least ONE contemporary issue.

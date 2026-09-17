@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "syllabus": "Legal Studies Stage 6 Syllabus 2009 (NSW)",
+    "firstExamined": 2011,
+    "note": "Tag IDs are stable. Every question record carries core[] and support[] arrays of these IDs, plus one theme set and one directive.",
+    "examStructure": {
+      "sectionI": { "marks": 20, "type": "objective", "split": { "crime": 15, "humanrights": 5 }, "note": "Objective response. Questions may refer to stimulus." },
+      "sectionIIA": { "marks": 15, "type": "short-answer", "topic": "humanrights", "items": "3-4 items, may be in parts" },
+      "sectionIIB": { "marks": 15, "type": "extended-response", "topic": "crime", "items": "one question, no alternative, ~600 words / 4 booklet pages" },
+      "sectionIII": { "marks": 50, "type": "extended-response", "topic": "options", "items": "one 25-mark question per option, each with two alternatives; candidates answer two options; ~1000 words / 8 booklet pages each" }
+    }
+  },
+
+  "directives": {
+    "describe": { "label": "Describe / outline", "band": 1, "verbs": ["identify", "list", "define", "outline", "describe", "recall"] },
+    "explain": { "label": "Explain", "band": 2, "verbs": ["explain", "examine", "distinguish", "compare", "contrast", "apply", "demonstrate", "investigate"] },
+    "analyse": { "label": "Analyse / discuss", "band": 3, "verbs": ["analyse", "discuss", "compare and contrast", "clarify", "explain how"] },
+    "evaluate": { "label": "Evaluate / judge", "band": 4, "verbs": ["assess", "evaluate", "to what extent", "how effective", "critically analyse", "justify", "critically assess"] }
+  },
+
+  "demandBands": [
+    { "band": 1, "label": "Recall & describe", "expects": "Sketches the legal machinery. Accurate content, little judgement." },
+    { "band": 2, "label": "Explain & apply", "expects": "Shows how and why the machinery works, with legislation and cases attached to claims." },
+    { "band": 3, "label": "Analyse", "expects": "Breaks the issue into parts and shows the relationships between them; competing interests surfaced." },
+    { "band": 4, "label": "Evaluate", "expects": "Sustained judgement against criteria, supported throughout by legislation, cases, media and reports." }
+  ],
+
+  "topics": {
+    "crime": {
+      "label": "Crime",
+      "part": "HSC Core Part I",
+      "weight": "30% of course time",
+      "examWeight": 30,
+      "principalFocus": "Through the use of a range of contemporary examples, students investigate criminal law, processes and institutions and the tension between community interests and individual rights and freedoms.",
+      "themes": [
+        { "id": "crime.t.discretion", "label": "Discretion", "full": "The role of discretion in the criminal justice system", "colour": "#0F6E6E" },
+        { "id": "crime.t.compliance", "label": "Compliance & non-compliance", "full": "Issues of compliance and non-compliance in regard to criminal law", "colour": "#8A6A00" },
+        { "id": "crime.t.moral", "label": "Moral & ethical standards", "full": "The extent to which law reflects moral and ethical standards", "colour": "#6B3FA0" },
+        { "id": "crime.t.reform", "label": "Law reform", "full": "The role of law reform in the criminal justice system", "colour": "#A31545" },
+        { "id": "crime.t.balance", "label": "Balancing victims, offenders & society", "full": "The extent to which the law balances the rights of victims, offenders and society", "colour": "#A3480C" },
+        { "id": "crime.t.effectiveness", "label": "Legal & non-legal effectiveness", "full": "The effectiveness of legal and non-legal measures in achieving justice", "colour": "#1F3864" }
+      ],
+      "sections": [
+        {
+          "id": "crime.1", "label": "The nature of crime", "colour": "#2E5C8A",
+          "points": [
+            { "id": "crime.1.1", "label": "The meaning of crime" },
+            { "id": "crime.1.2", "label": "The elements of crime: actus reus, mens rea" },
+            { "id": "crime.1.3", "label": "Strict liability offences" },
+            { "id": "crime.1.4", "label": "Causation" },
+            { "id": "crime.1.5", "label": "Categories of crime", "detail": "Offences against the person, offences against the sovereign, economic offences (property/white collar/computer), drug offences, driving offences, public order offences, preliminary crimes (attempts and conspiracy)" },
+            { "id": "crime.1.6", "label": "Summary and indictable offences" },
+            { "id": "crime.1.7", "label": "Parties to a crime", "detail": "Principal in the first degree, principal in the second degree, accessory before the fact, accessory after the fact" },
+            { "id": "crime.1.8", "label": "Factors affecting criminal behaviour" },
+            { "id": "crime.1.9", "label": "Crime prevention: situational and social" }
+          ]
+        },
+        {
+          "id": "crime.2", "label": "The criminal investigation process", "colour": "#3A3A9E",
+          "points": [
+            { "id": "crime.2.1", "label": "Police powers" },
+            { "id": "crime.2.2", "label": "Reporting crime" },
+            { "id": "crime.2.3", "label": "Investigating crime", "detail": "Gathering evidence, use of technology, search and seizure, use of warrants" },
+            { "id": "crime.2.4", "label": "Arrest and charge, summons, warrants" },
+            { "id": "crime.2.5", "label": "Bail or remand" },
+            { "id": "crime.2.6", "label": "Detention and interrogation, rights of suspects" }
+          ]
+        },
+        {
+          "id": "crime.3", "label": "The criminal trial process", "colour": "#1E6B4F",
+          "points": [
+            { "id": "crime.3.1", "label": "Court jurisdiction" },
+            { "id": "crime.3.2", "label": "The adversary system" },
+            { "id": "crime.3.3", "label": "Legal personnel", "detail": "Magistrate, judge, police prosecutor, Director of Public Prosecutions, Public Defenders" },
+            { "id": "crime.3.4", "label": "Pleas, charge negotiation" },
+            { "id": "crime.3.5", "label": "Legal representation, including legal aid" },
+            { "id": "crime.3.6", "label": "Burden and standard of proof" },
+            { "id": "crime.3.7", "label": "Use of evidence, including witnesses" },
+            { "id": "crime.3.8", "label": "Defences to criminal charges", "detail": "Complete defences; partial defences to murder" },
+            { "id": "crime.3.9", "label": "The role of juries, including verdicts" }
+          ]
+        },
+        {
+          "id": "crime.4", "label": "Sentencing and punishment", "colour": "#B02A37",
+          "points": [
+            { "id": "crime.4.1", "label": "Statutory and judicial guidelines" },
+            { "id": "crime.4.2", "label": "The purposes of punishment", "detail": "Deterrence (specific and general), retribution, rehabilitation, incapacitation" },
+            { "id": "crime.4.3", "label": "Factors affecting a sentencing decision", "detail": "Aggravating and mitigating circumstances" },
+            { "id": "crime.4.4", "label": "The role of the victim in sentencing" },
+            { "id": "crime.4.5", "label": "Appeals" },
+            { "id": "crime.4.6", "label": "Types of penalties", "detail": "No conviction recorded, caution, fine, bond, suspended sentence, probation, criminal infringement notice, penalty units, community service order, home detention, periodic detention, forfeiture of assets, imprisonment, diversionary programs" },
+            { "id": "crime.4.7", "label": "Alternative methods of sentencing", "detail": "Circle sentencing, restorative justice" },
+            { "id": "crime.4.8", "label": "Post-sentencing considerations", "detail": "Security classification, protective custody, parole, preventative detention, continued detention, sexual offenders registration, deportation" }
+          ]
+        },
+        {
+          "id": "crime.5", "label": "Young offenders", "colour": "#5F7D3F",
+          "points": [
+            { "id": "crime.5.1", "label": "Age of criminal responsibility" },
+            { "id": "crime.5.2", "label": "The rights of children when questioned or arrested" },
+            { "id": "crime.5.3", "label": "Children's Court — procedures and operation" },
+            { "id": "crime.5.4", "label": "Penalties for children" },
+            { "id": "crime.5.5", "label": "Alternatives to court" }
+          ]
+        },
+        {
+          "id": "crime.6", "label": "International crime", "colour": "#0E7490",
+          "points": [
+            { "id": "crime.6.1", "label": "Categories of international crime", "detail": "Crimes against the international community; transnational crimes" },
+            { "id": "crime.6.2", "label": "Dealing with international crime", "detail": "Domestic and international measures; limitations" }
+          ]
+        }
+      ]
+    },
+
+    "humanrights": {
+      "label": "Human Rights",
+      "part": "HSC Core Part II",
+      "weight": "20% of course time",
+      "examWeight": 20,
+      "principalFocus": "Through the use of a range of contemporary examples, students investigate the notion of human rights and assess the extent to which legal systems embody such human rights and promote them in practice.",
+      "themes": [
+        { "id": "hr.t.sovereignty", "label": "State sovereignty & human rights", "full": "The changing understanding of the relationship between state sovereignty and human rights", "colour": "#1F3864" },
+        { "id": "hr.t.compliance", "label": "Compliance & non-compliance", "full": "Issues of compliance and non-compliance in relation to human rights", "colour": "#8A6A00" },
+        { "id": "hr.t.values", "label": "Changing values & ethical standards", "full": "The development of human rights as a reflection of changing values and ethical standards", "colour": "#6B3FA0" },
+        { "id": "hr.t.reform", "label": "Law reform", "full": "The role of law reform in protecting human rights", "colour": "#A31545" },
+        { "id": "hr.t.effectiveness", "label": "Legal & non-legal effectiveness", "full": "The effectiveness of legal and non-legal measures in protecting human rights", "colour": "#0F6E6E" }
+      ],
+      "sections": [
+        {
+          "id": "hr.1", "label": "The nature and development of human rights", "colour": "#2E5C8A",
+          "points": [
+            { "id": "hr.1.1", "label": "The definition of human rights" },
+            { "id": "hr.1.2", "label": "Developing recognition of human rights", "detail": "The abolition of slavery; trade unionism and labour rights; universal suffrage; universal education; self-determination; environmental rights; peace rights" },
+            { "id": "hr.1.3", "label": "Formal statements of human rights", "detail": "Universal Declaration of Human Rights; ICCPR; ICESCR" }
+          ]
+        },
+        {
+          "id": "hr.2", "label": "Promoting and enforcing human rights", "colour": "#1E6B4F",
+          "points": [
+            { "id": "hr.2.1", "label": "State sovereignty", "scope": "international" },
+            { "id": "hr.2.2", "label": "The role of the United Nations", "scope": "international" },
+            { "id": "hr.2.3", "label": "The role of intergovernmental organisations", "scope": "international" },
+            { "id": "hr.2.4", "label": "The role of courts, tribunals and independent statutory authorities", "scope": "international" },
+            { "id": "hr.2.5", "label": "The role of non-government organisations", "scope": "international" },
+            { "id": "hr.2.6", "label": "The role of the media", "scope": "international" },
+            { "id": "hr.2.7", "label": "The incorporation of human rights into Australian domestic law", "scope": "australia" },
+            { "id": "hr.2.8", "label": "The role of the Constitution", "detail": "Including division of powers and separation of powers", "scope": "australia" },
+            { "id": "hr.2.9", "label": "The role of statute law", "scope": "australia" },
+            { "id": "hr.2.10", "label": "The role of common law", "scope": "australia" },
+            { "id": "hr.2.11", "label": "The role of courts and tribunals", "scope": "australia" },
+            { "id": "hr.2.12", "label": "The role of non-government organisations (Australia)", "scope": "australia" },
+            { "id": "hr.2.13", "label": "The role of the media (Australia)", "scope": "australia" },
+            { "id": "hr.2.14", "label": "A Charter of Rights — arguments for and against", "scope": "australia" }
+          ]
+        },
+        {
+          "id": "hr.3", "label": "Contemporary issue", "colour": "#B02A37",
+          "points": [
+            { "id": "hr.3.1", "label": "A contemporary issue illustrating the promotion and/or enforcement of human rights", "detail": "Genocide; treatment of refugees; asylum seekers; child soldiers; abuse of children; torture; capital punishment; arbitrary detention; religious discrimination; discrimination against women; exploitation of workers; human trafficking and slavery; limitations on free speech" }
+          ]
+        }
+      ]
+    },
+
+    "family": {
+      "label": "Family",
+      "part": "HSC Option 3",
+      "weight": "25% of course time",
+      "examWeight": 25,
+      "principalFocus": "Through the use of contemporary examples, students investigate the legal nature of family relationships and the effectiveness of the law in achieving justice.",
+      "themes": [
+        { "id": "fam.t.cooperation", "label": "Cooperation & conflict resolution", "full": "The role of the law in encouraging cooperation and resolving conflict in regard to family", "colour": "#0F6E6E" },
+        { "id": "fam.t.compliance", "label": "Compliance & non-compliance", "full": "Issues of compliance and non-compliance", "colour": "#8A6A00" },
+        { "id": "fam.t.values", "label": "Changing community values", "full": "Changes to family law as a response to changing values in the community", "colour": "#6B3FA0" },
+        { "id": "fam.t.reform", "label": "Law reform", "full": "The role of law reform in achieving just outcomes for family members and society", "colour": "#A31545" },
+        { "id": "fam.t.effectiveness", "label": "Legal & non-legal effectiveness", "full": "The effectiveness of legal and non-legal responses in achieving just outcomes for family members", "colour": "#1F3864" }
+      ],
+      "sections": [
+        {
+          "id": "fam.1", "label": "The nature of family law", "colour": "#2E5C8A",
+          "points": [
+            { "id": "fam.1.1", "label": "The concept of family law", "detail": "Including the difficulty of defining 'family' and changing concepts of family" },
+            { "id": "fam.1.2", "label": "State and federal jurisdiction in family law" },
+            { "id": "fam.1.3", "label": "Legal requirements of marriage" },
+            { "id": "fam.1.4", "label": "Alternative family relationships" },
+            { "id": "fam.1.5", "label": "Legal rights and obligations of parents and children", "detail": "Including those derived from international law" },
+            { "id": "fam.1.6", "label": "Adoption" }
+          ]
+        },
+        {
+          "id": "fam.2", "label": "Responses to problems in family relationships", "colour": "#1E6B4F",
+          "points": [
+            { "id": "fam.2.1", "label": "Divorce" },
+            { "id": "fam.2.2", "label": "Legal consequences of separation — children" },
+            { "id": "fam.2.3", "label": "Legal consequences of separation — property" },
+            { "id": "fam.2.4", "label": "Dealing with domestic violence" },
+            { "id": "fam.2.5", "label": "The roles of courts and dispute resolution methods" },
+            { "id": "fam.2.6", "label": "The role of non-government organisations" },
+            { "id": "fam.2.7", "label": "The role of the media" }
+          ]
+        },
+        {
+          "id": "fam.3", "label": "Contemporary issues concerning family law", "colour": "#B02A37",
+          "points": [
+            { "id": "fam.3.1", "label": "Recognition of same-sex relationships" },
+            { "id": "fam.3.2", "label": "The changing nature of parental responsibility" },
+            { "id": "fam.3.3", "label": "Surrogacy and birth technologies" },
+            { "id": "fam.3.4", "label": "Care and protection of children" }
+          ]
+        }
+      ]
+    },
+
+    "shelter": {
+      "label": "Shelter",
+      "part": "HSC Option 5",
+      "weight": "25% of course time",
+      "examWeight": 25,
+      "principalFocus": "Through the use of contemporary examples, students investigate the legal means of securing shelter and the effectiveness of the law in achieving justice for people seeking and providing shelter.",
+      "themes": [
+        { "id": "shel.t.cooperation", "label": "Cooperation & conflict resolution", "full": "The role of the law in encouraging cooperation and resolving conflict in regard to shelter", "colour": "#0F6E6E" },
+        { "id": "shel.t.compliance", "label": "Compliance & non-compliance", "full": "Issues of compliance and non-compliance", "colour": "#8A6A00" },
+        { "id": "shel.t.values", "label": "Changing values & ethical standards", "full": "Laws relating to shelter as a reflection of changing values and ethical standards", "colour": "#6B3FA0" },
+        { "id": "shel.t.reform", "label": "Law reform", "full": "The role of law reform in protecting the rights of those seeking shelter", "colour": "#A31545" },
+        { "id": "shel.t.effectiveness", "label": "Legal & non-legal effectiveness", "full": "The effectiveness of legal and non-legal responses in achieving just outcomes in regard to the provision of shelter", "colour": "#1F3864" }
+      ],
+      "sections": [
+        {
+          "id": "shel.1", "label": "The nature of shelter", "colour": "#2E5C8A",
+          "points": [
+            { "id": "shel.1.1", "label": "Definition of 'shelter'" },
+            { "id": "shel.1.2", "label": "Right to shelter", "detail": "Including the right to shelter according to international law" },
+            { "id": "shel.1.3", "label": "Obligation to provide shelter", "detail": "State and federal government obligations" },
+            { "id": "shel.1.4", "label": "Types of shelter" }
+          ]
+        },
+        {
+          "id": "shel.2", "label": "Legal protection and remedies associated with securing shelter", "colour": "#1E6B4F",
+          "points": [
+            { "id": "shel.2.1", "label": "Purchasing", "detail": "Separate dwelling or shared space; private treaty or auction; systems of registration; sources of finance; protection for buyers" },
+            { "id": "shel.2.2", "label": "Leasing — rights and obligations of landlords and tenants" },
+            { "id": "shel.2.3", "label": "Protection for tenants, landlords, boarders and lodgers" },
+            { "id": "shel.2.4", "label": "Securing other types of shelter", "detail": "Aged care, residential parks and squats" },
+            { "id": "shel.2.5", "label": "Dispute resolution mechanisms" },
+            { "id": "shel.2.6", "label": "The roles of courts and tribunals" },
+            { "id": "shel.2.7", "label": "Alternative dispute resolution" },
+            { "id": "shel.2.8", "label": "The role of government organisations" },
+            { "id": "shel.2.9", "label": "The role of non-government organisations" },
+            { "id": "shel.2.10", "label": "The role of the media" }
+          ]
+        },
+        {
+          "id": "shel.3", "label": "Contemporary issues concerning shelter", "colour": "#B02A37",
+          "points": [
+            { "id": "shel.3.1", "label": "Affordability" },
+            { "id": "shel.3.2", "label": "Discrimination" },
+            { "id": "shel.3.3", "label": "Homelessness" },
+            { "id": "shel.3.4", "label": "Social housing", "detail": "Public housing, cooperative housing and community housing" }
+          ]
+        }
+      ]
+    }
+  },
+
+  "outcomes": {
+    "H1": "Identifies and applies legal concepts and terminology",
+    "H2": "Describes and explains key features of and the relationship between Australian and international law",
+    "H3": "Analyses the operation of domestic and international legal systems",
+    "H4": "Evaluates the effectiveness of the legal system in addressing issues",
+    "H5": "Explains the role of law in encouraging cooperation and resolving conflict, as well as initiating and responding to change",
+    "H6": "Assesses the nature of the interrelationship between the legal system and society",
+    "H7": "Evaluates the effectiveness of the law in achieving justice",
+    "H8": "Locates, selects, organises, synthesises and analyses legal information from a variety of sources including legislation, cases, media, international instruments and documents",
+    "H9": "Communicates legal information using well-structured and logical arguments",
+    "H10": "Analyses differing perspectives and interpretations of legal information and issues"
+  }
+}
