@@ -1,0 +1,45 @@
+# Syllabus tags for library files whose name says nothing useful.
+#
+#   <path relative to the Evidence Organiser folder> | <comma-separated tags>
+#
+# These REPLACE the tags the scanner derives from the folder and filename, so a
+# line here is the last word on where a file appears. Blank lines and lines
+# starting with # are ignored.
+
+# The LSA journal — tagged from each edition's own contents table.
+Legal Briefs/2025 - Volume 36 - Ed 1 - Full Edition for Publication.pdf | ls.4.1, ls.4.2, ls.4.3, hr.2.6, ind.2.4
+Legal Briefs/Legal_Briefs_2025_Edition_3.pdf | shel.2.1, crime.4.8, crime.3.1, ind.3.2, lip.1.3
+Legal Briefs/2025-Volume36-Ed4 LS.pdf | crime.2.1, crime.2.5, crime.3.8, crime.4.6, crime.4.7, crime.4.8, hr.1.2, hr.3.1, ind.3.2
+
+# Videos whose filename says what they are. Three TikToks keep their upload hash
+# (v14044g5...) and cannot be placed without watching them; "NSWCA Harris Case" and
+# "US Tariff" are too thin to place confidently. Add lines here once identified.
+Tiktok Videos/Erin_Patterson_Forest.MP4 | crime.1.2, crime.3.7, crime.3.9
+Tiktok Videos/Erin_Patterson_Kitchen.MP4 | crime.1.2, crime.3.7, crime.3.9
+
+# The two AT4 response-structure documents. Teaching resources, but each covers a
+# specific set of dot points and the folder tag alone buries them under "shelter".
+Shelter/12LS 2026 AT4 Q30a Response Structure.docx | shel.2.3, shel.2.5, shel.2.6, shel.2.7, shel.2.8, shel.2.9, shel.2.10
+Shelter/12LS 2026 AT4 Q30b Response Structure.docx | shel.1.2, shel.2.1, shel.2.2, shel.2.4, shel.3.1, shel.3.3, shel.3.4
+
+# Family/Cases — a numbered case series that follows the TEXTBOOK's numbering, not the
+# syllabus's. Scanned, no text layer, so the scanner could read nothing from them; the
+# headings were OCR'd on 20 Sep 2026 and mapped by hand. Note 1.2 is the legal
+# requirements of marriage (fam.1.3), not jurisdiction, and nothing in the series covers
+# fam.1.2 (state and federal jurisdiction).
+Family/Cases/1.1 Family law cases.pdf | fam.1.1
+Family/Cases/1.2 Family law cases.pdf | fam.1.3
+Family/Cases/1.3 Family law cases.pdf | fam.1.4
+Family/Cases/1.4 Family law cases.pdf | fam.1.5
+Family/Cases/1.5 Family law cases.pdf | fam.1.6
+Family/Cases/2.1 Family law cases.pdf | fam.2.1
+Family/Cases/2.2 Family law cases.pdf | fam.2.2
+Family/Cases/2.2.2 Family law cases.pdf | fam.2.3
+Family/Cases/2.3 Family law cases.pdf | fam.2.4
+Family/Cases/2.4.1 Family law cases.pdf | fam.2.5
+Family/Cases/2.4.2 Family law cases.pdf | fam.2.6
+Family/Cases/2.4.3 Family law cases.pdf | fam.2.7
+Family/Cases/3.1 Family law cases.pdf | fam.3.1
+Family/Cases/3.2 Family law cases.pdf | fam.3.2
+Family/Cases/3.3 Family law cases.pdf | fam.3.3
+Family/Cases/3.4 Family law cases.pdf | fam.3.4

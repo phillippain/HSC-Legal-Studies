@@ -1,4 +1,19 @@
-# HSC Legal Studies Question Finder
+# Legal Studies Stage 6
+
+Two sites, one syllabus tree.
+
+| Open | What it is |
+|---|---|
+| **`index.html`** | The **Question Finder** — every HSC examination question from 2011 to 2025, with NESA's marking criteria |
+| **`evidence.html`** | The **Evidence Finder** — the legislation, cases, media, international instruments and reports you have collected, filed against the same syllabus tags, for Preliminary as well as HSC |
+
+Both are single self-contained files. Both read `data/syllabus.json`, so `crime.4.8` means
+*post-sentencing considerations* in both, and evidence and questions can be looked up against each
+other.
+
+---
+
+## The Question Finder — `index.html`
 
 A past-paper question finder for HSC Legal Studies, built on the same architecture as the
 HSC Economics finder. Questions are organised by syllabus content point, by themes and
@@ -55,10 +70,187 @@ is inherited. A theme goes in `core` when the question is built on it.
 
 This is a reading of the questions, not an official NESA mapping.
 
+---
+
+## The Evidence Finder — `evidence.html`
+
+Every piece of evidence you hold, tagged against the syllabus and searchable three ways.
+
+**The record.** One markdown file per piece of evidence in `evidence/`, with a comma-separated
+header and a markdown summary. `evidence/README.md` has the field list. The build refuses a tag
+that is not in the syllabus and refuses a significance line longer than a sentence.
+
+**Six forms of evidence**, which are the ones outcomes H8 and P8 name: legislation, case law,
+international instruments, reports and statistics, media, and documents and non-legal responses.
+
+**Three ways in.**
+
+- **Content** walks course → topic → section → dot point. Choosing a dot point returns its own
+  evidence plus anything filed against its whole section, marked as inherited.
+- **Themes** lists each topic's themes and challenges, which is how the 25-mark questions are built.
+- **Kind** filters by form of evidence, and by the eight **criteria for evaluating effectiveness**
+  the syllabus sets out in Law in practice — resource efficiency, accessibility, enforceability,
+  responsiveness, protection of individual rights, meeting society's needs, the rule of law, and
+  whether justice has been achieved. Those criteria cut across every topic in both courses, so this
+  is how you find everything you hold on one line of judgement at once.
+
+**The evidence finder is white.** Its light palette is neutral — white page, white panels separated
+by line and shadow rather than by tint, grey `#f4f5f7` for chips, rails and cells — so the topic
+colours are the only warmth on the page. The question finder keeps the original cream
+(`#f6f3ee`/`#fffdfa`); the two sites no longer share a light surface palette, which is why
+`build/template.html` and `build/evidence_template.html` carry their own tokens. Dark mode is
+unchanged in both.
+
+**One course at a time.** The switch in the masthead — **Both · Preliminary · HSC** — scopes the
+whole page: the syllabus tree, the coverage grid, the search, the counts in the masthead and the
+library below the results. The choice is remembered, so a Year 11 class and a Year 12 class each open
+the finder where they left it. On **Both**, the grid carries a heading per course with its own
+subtotal.
+
+Scoping **does not hide the cross-course evidence**, which is a large part of what the finder is for.
+A Crime case tagged to a Preliminary content point still appears under that point while you are in
+Preliminary, carrying a dashed **HSC evidence** mark so you can see which course it is really about.
+The rule is: a record shows in a course if **any** of its tags belong to that course, and is marked
+when **none of its core tags** do. Leaving a course drops a selection that belonged to it, so you
+never end up looking at an empty list under the other course's heading.
+
+**The coverage grid is the landing view** — one cell per dot point, darker where you hold more,
+dashed where you hold nothing. It is the fastest way to see what a topic is missing before an
+assessment.
+
+**Ticking builds an evidence sheet**, printed as title, citation, the one-line significance and the
+syllabus tags — the same selection mechanism as the question finder's worksheet builder.
+
+**Adding evidence.** Press **Add evidence** in the masthead: whatever is selected becomes the core
+tag, and the dialog emits the whole file, ready to save at the path it names. Or copy the nearest
+existing file by hand. Then rebuild.
+
+### The library
+
+`~/Desktop/Evidence Organiser` holds the documents themselves — around 700 cases, articles, reports,
+decks and videos. `build/scan_library.py` walks it and classifies every file:
+
+- **evidence or teaching resource.** A question survey, a practice question, an essay plan, a slide
+  deck and a revision table are how the evidence gets taught, not evidence. They are indexed
+  separately so they stay findable without diluting the evidence list.
+- **a syllabus tag** from the folder the file sits in, refined by what the filename says and by the
+  court its citation names — `ARTA` plus `Refugee` is `hr.3.1`, `FedCFamC` is Family.
+- **duplicates.** A `.docx` and a `.pdf` of the same name are *not* duplicates: one is the editable
+  source, the other the handout. A second copy in the *same* format is.
+
+The finder shows those files under whatever part of the syllabus they were filed to, below the
+written-up evidence, and a link opens the document itself. A record that summarises one of them names
+it in a `document:` line, and that file then drops out of the library list — the record supersedes
+it. Coarse tags stay where they are honest: a file tagged only to a topic appears at the topic, not
+under each of its dot points.
+
+A file the library still holds that a record already covers is recognised by its **medium neutral
+citation** and hidden too — the raw judgment beside the case card. The court code can itself contain
+digits (`FedCFamC2F`, `NSWCATAD`), so the citation pattern requires whitespace before the number:
+without it `[2026] FedCFamC2F 391` truncates to `[2026] FedCFamC2` and matches every FedCFamC2F case
+in the folder. That bug hid twenty unrelated judgments before it was caught.
+
+**Tagging by hand.** `data/library-tags.txt` maps a path to a list of tags and overrides whatever the
+scanner derived — for files whose name says nothing, like the three *Legal Briefs* journal editions,
+which are tagged from each edition's own contents table. The scan reports any line pointing at a file
+that is no longer there.
+
+**The coverage grid distinguishes a gap from a lead.** A dashed cell means nothing at all; a dotted,
+faintly tinted cell means no record has been written but documents are filed there. Every dot point
+now carries at least one record, so no cell is dashed — but coverage is not depth, and the tint still
+shows where filed documents are waiting to be written up.
+
+Re-run `scan_library.py` after adding or moving files in that folder, then rebuild. **Give it the
+folder as an argument** if you are not running it on the machine where `~/Desktop/Evidence Organiser`
+lives; a scan that finds no files refuses to write rather than replacing a good index with an empty
+one (`--empty-ok` overrides that). The path the page's library links are built from is separate —
+`LIB_LINK_ROOT`, defaulting to `/Users/phillip/Desktop/Evidence Organiser` — so the links resolve on
+your Mac no matter where the scan ran.
+
+### Tidying the folder
+
+`build/tidy_plan.py` proposes changes and writes them to `data/tidy-plan.md` and
+`data/tidy-plan.json`; `build/apply_tidy.py --go` carries them out. **Nothing is ever deleted** — a
+duplicate is moved to `_duplicates/` with its original path underneath, so every change is
+reversible and no delete permission is needed. The `document:` line of any record pointing at a moved
+file is rewritten, following the chain if the file it is repointed to is also moving.
+
+Two mistakes the first version of this made, both caught before anything moved and both worth
+keeping in mind if the rules are ever changed:
+
+- stripping a trailing digit to catch `… 2.pdf` copies treated **"Slide Set 4" as a copy of "Slide
+  Set 3"** and merged eight decks into one. A copy is now only a copy when the file it copies is
+  actually there, in the same folder and the same format.
+- the keep-rule sorted alphabetically, and `"X 2.pdf"` sorts before `"X.pdf"`, so it proposed
+  keeping every copy and discarding every original.
+
+### Preliminary
+
+`data/syllabus.json` carries the **Preliminary** course as well — The legal system (ls.*), The
+individual and the law (ind.*) and Law in practice (lip.*), 55 dot points across ten sections, with
+each part's themes and challenges. The question finder ignores them: its `ORDER` list names the four
+HSC topics, and a full rebuild still produces `index.html` byte-for-byte.
+
+### Colour
+
+The question finder's four HSC topic colours are unchanged. Preliminary needed a fifth, and
+**seven categorical hues cannot be separated for colour-vision deficiency inside one lightness
+band** — the best seven-colour set that keeps the existing four reaches ΔE 6.6 under deuteranopia,
+below the 8.6 the shipped palette already sits at. So colour carries the topic among the HSC four
+and the *course* for Preliminary, whose three parts are told apart by their icons instead. The
+fifth hue (light `#8b1a7d`, dark `#9b46b4`) passes all five checks against all pairs.
+
+## Publishing — GitHub Pages for the page, Google Drive for the documents
+
+Google Drive stopped serving HTML as web pages in 2016, so the page itself is published on
+**GitHub Pages**. The documents behind it live in the shared drive
+`HSC_LS_SSCBWB / Evidence Finder / library`, which mirrors the Evidence Organiser folder exactly —
+665 documents, 1.63 GB, **no videos** and nothing from `_duplicates/`. Keeping them in Drive keeps
+them behind the school sign-in: much of the library is paywalled news, a textbook excerpt and other
+teachers' material that should not be on the open web.
+
+A page on `github.io` cannot reach a Drive file by path, so every link needs that file's Drive id.
+
+1. Copy new documents into `Evidence Finder/library/` in the same folder they sit in on the Desktop.
+2. Run **`build/map-drive-ids.gs`** (a copy also sits in the Drive folder): script.google.com → New
+   project → paste → Save → run `mapDriveIds`. It walks `library/` and writes `drive-links.json`
+   into the Evidence Finder folder. If it says RESUME, press Run again.
+3. Rebuild. `build_evidence.py` picks up `data/drive-links.json` if present, otherwise the copy in
+   the shared drive (override the path with `DRIVE_LINKS=`), and prints how many links it mapped.
+
+Every document link then opens `drive.google.com/file/d/<id>/view`. A file missing from the map
+keeps its local `file://` link, so a half-finished map degrades one file at a time rather than
+breaking the page — and with no map at all, the page works exactly as it always has on this Mac.
+
+**Access.** A Drive link opens for anyone the file is shared with. If students are not members of
+the shared drive, share the `library` folder as "anyone at education.nsw.gov.au with the link" or
+the links will ask them to request access.
+
+**Videos** are not copied yet. Drag them into `library/` under the same folder names, re-run the
+script and rebuild, and their links switch over too.
+
 ## Files
 
 ```
-index.html                  the site — open this
+evidence.html               the evidence finder — open this
+evidence/*/*.md             one file per piece of evidence
+evidence/README.md          the record format
+build/evidence_lib.py       reads and validates the evidence records
+build/md.py                 the markdown subset the summaries are written in
+build/build_evidence.py     evidence/ + syllabus.json -> evidence.html
+build/verify_evidence.py    checks the built evidence.html
+build/evidence_template.html  the page, with __DATA__ as the data placeholder
+build/check_evidence_page.mjs drives the built page in Playwright, light and dark
+build/scan_library.py       the Evidence Organiser folder -> data/library.json
+build/extract_summaries.py  pulls the text out of the finished case cards and evidence sheets
+build/tidy_plan.py          proposes a tidy-up -> data/tidy-plan.md and .json
+build/apply_tidy.py         carries the plan out (--go); moves only, never deletes
+data/library.json           every document in the folder, classified and tagged
+data/library-tags.txt       hand-written tags for files whose name says nothing
+
+_superseded/                papers and guidelines kept but no longer linked (git-ignored)
+
+index.html                  the question finder — open this
 *.pdf                       examination papers and marking guidelines, 2015-2025
 data/syllabus.json          tag taxonomy: topics, themes, sections, dot points, directives
 data/items-extended.json    extended responses, with core[]/support[] tag arrays
@@ -81,6 +273,17 @@ source-documents/archive-2011-2014/   2011-2014 question text, read from the arc
 ```
 
 ## Rebuilding
+
+The evidence finder:
+
+```sh
+python3 build/scan_library.py        # the Evidence Organiser folder -> data/library.json
+python3 build/build_evidence.py      # evidence/*.md + library -> evidence.html
+python3 build/verify_evidence.py     # tags, ids, icons, document paths, self-containment
+node build/check_evidence_page.mjs   # optional: drives the page, light and dark
+```
+
+The question finder:
 
 ```sh
 pip install python-docx pdfplumber
@@ -154,6 +357,19 @@ are flagged `needsPaper` and the page sends the student to the paper.
 
 **`2025 HSC Exam.pdf`** is a 24-page scan with no text layer. `2025-hsc-legal-studies.pdf` is the
 usable copy and is what the page links to.
+
+## The papers at the repo root
+
+Twenty-two of them are linked from the question finder and every link resolves. Of the rest:
+
+- `2025 HSC Exam.pdf` is the 24-page scan with **no text layer**; `2025-hsc-legal-studies.pdf` is the
+  usable copy and is what the page links to.
+- `HR & Crime Q24 2022 & 2023 HSC.pdf` is a separate 8-page compilation, not a duplicate.
+- `2020-hsc-legal-studies-section-II-part-A-extract.pdf` was named `2020-hsc-legal-studies copy.pdf`
+  and is **not** a copy — it is a 3-page extract of Section II Part A.
+- Four genuine duplicates are in `_superseded/`: the 2022 and 2023 papers re-saved at a different
+  compression, and the 2015 paper and guidelines downloaded a second time with a random prefix. Same
+  page count, same text, different bytes. Nothing was deleted.
 
 Questions, papers and marking guidelines © NSW Education Standards Authority. Content points and
 themes from the Legal Studies Stage 6 Syllabus (Board of Studies NSW, 2009).
