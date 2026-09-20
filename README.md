@@ -215,8 +215,12 @@ A page on `github.io` cannot reach a Drive file by path, so every link needs tha
 2. Run **`build/map-drive-ids.gs`** (a copy also sits in the Drive folder): script.google.com → New
    project → paste → Save → run `mapDriveIds`. It walks `library/` and writes `drive-links.json`
    into the Evidence Finder folder. If it says RESUME, press Run again.
-3. Rebuild. `build_evidence.py` picks up `data/drive-links.json` if present, otherwise the copy in
-   the shared drive (override the path with `DRIVE_LINKS=`), and prints how many links it mapped.
+3. Copy `drive-links.json` from the Drive folder into **`data/drive-links.json`** in this repo, then
+   rebuild. `build_evidence.py` reads `data/` first and falls back to the copy in the shared drive
+   (override that path with `DRIVE_LINKS=`), printing how many links it mapped. Prefer the `data/`
+   copy: a file Drive has only just synced can be locked for a while ("Resource deadlock avoided"),
+   and the copy in the repo also makes the build reproducible without Drive mounted.
+4. Commit and push. GitHub Pages serves the rebuilt `evidence.html`.
 
 Every document link then opens `drive.google.com/file/d/<id>/view`. A file missing from the map
 keeps its local `file://` link, so a half-finished map degrades one file at a time rather than

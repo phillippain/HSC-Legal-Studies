@@ -20,8 +20,12 @@
  * stopped, as many times as needed.
  */
 
-// The folder to walk. Found by name inside the shared drive; change only if you
-// rename it.
+// The folder to walk. Paste its id between the quotes: open the Evidence Finder
+// folder in Drive in your browser, and the id is the long code at the end of the
+// address — drive.google.com/drive/folders/THIS_PART. Using the id means the
+// script cannot pick up a different folder that happens to share the name.
+// Left empty, it falls back to searching by name.
+var ROOT_ID = '';
 var ROOT_NAME = 'Evidence Finder';
 var LIBRARY_NAME = 'library';      // the subfolder holding the documents
 var OUT_NAME = 'drive-links.json';
@@ -32,9 +36,10 @@ function mapDriveIds() {
   var props = PropertiesService.getScriptProperties();
   var state = JSON.parse(props.getProperty('state') || 'null');
 
-  var root = findFolder_(ROOT_NAME);
+  var root = ROOT_ID ? DriveApp.getFolderById(ROOT_ID) : findFolder_(ROOT_NAME);
   if (!root) throw new Error('Could not find a folder named "' + ROOT_NAME +
-    '". Check the name, and that this account can see the shared drive.');
+    '". Paste its id into ROOT_ID at the top of the script.');
+  if (!state) Logger.log('Walking ' + root.getName() + ' — ' + root.getUrl());
 
   var library = childFolder_(root, LIBRARY_NAME);
   if (!library) throw new Error('No "' + LIBRARY_NAME + '" folder inside ' +
@@ -75,10 +80,10 @@ function mapDriveIds() {
     count: seen,
     files: map
   };
-  writeJson_(root, OUT_NAME, payload);
+  var out = writeJson_(root, OUT_NAME, payload);
   props.deleteProperty('state');
   Logger.log('DONE — ' + seen + ' files mapped. Wrote ' + OUT_NAME + ' into ' +
-             ROOT_NAME + '.');
+             root.getName() + ' — ' + out.getUrl());
 }
 
 /** Start again from scratch if a resume ever gets stuck. */
@@ -89,9 +94,21 @@ function resetMapDriveIds() {
 
 // --------------------------------------------------------------------- bits
 
+/* By name, and only a folder that actually holds a `library` subfolder — so a
+   stray "Evidence Finder" folder elsewhere in Drive is skipped rather than used.
+   If more than one qualifies, it says so instead of guessing. */
 function findFolder_(name) {
-  var it = DriveApp.getFoldersByName(name);
-  return it.hasNext() ? it.next() : null;
+  var it = DriveApp.getFoldersByName(name), hits = [];
+  while (it.hasNext()) {
+    var f = it.next();
+    if (childFolder_(f, LIBRARY_NAME)) hits.push(f);
+  }
+  if (hits.length > 1) {
+    throw new Error(hits.length + ' folders called "' + name + '" contain a library ' +
+      'folder: ' + hits.map(function (f) { return f.getUrl(); }).join('  ') +
+      '  Paste the right one\'s id into ROOT_ID.');
+  }
+  return hits.length ? hits[0] : null;
 }
 
 function childFolder_(parent, name) {
@@ -103,8 +120,9 @@ function writeJson_(folder, name, obj) {
   var body = JSON.stringify(obj, null, 1);
   var existing = folder.getFilesByName(name);
   if (existing.hasNext()) {
-    existing.next().setContent(body);
-  } else {
-    folder.createFile(name, body, MimeType.PLAIN_TEXT);
+    var f = existing.next();
+    f.setContent(body);
+    return f;
   }
+  return folder.createFile(name, body, MimeType.PLAIN_TEXT);
 }
