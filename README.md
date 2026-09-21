@@ -222,6 +222,13 @@ A page on `github.io` cannot reach a Drive file by path, so every link needs tha
    and the copy in the repo also makes the build reproducible without Drive mounted.
 4. Commit and push. GitHub Pages serves the rebuilt `evidence.html`.
 
+**`.nojekyll` must stay at the repo root.** Without it GitHub Pages runs every file through
+Jekyll, which reads each record's `---` header as YAML front matter. Those headers are deliberately
+*not* YAML — a colon inside a title or a significance line is legal here and fatal there — so seven
+records were enough to fail the whole deployment, and the live site silently stayed on its last good
+build, which predated `evidence.html`. `.nojekyll` tells Pages to serve the files exactly as they
+are, which is all this site needs.
+
 Every document link then opens `drive.google.com/file/d/<id>/view`. A file missing from the map
 keeps its local `file://` link, so a half-finished map degrades one file at a time rather than
 breaking the page — and with no map at all, the page works exactly as it always has on this Mac.
