@@ -67,8 +67,10 @@ their place tend to have a **Use it for** section and a **Caution** section.
 
 Three ways, all producing the same file:
 
-1. **From the site.** Press **Add evidence** in the masthead. Whatever you have selected is
-   pre-filled as the core tag. Fill in the fields, press Copy, save it at the path shown.
+1. **Drop the document in the inbox.** Put it in `Evidence Finder / inbox` in the shared drive and
+   run the **add-evidence** skill in Cowork: it files the document in the library, tags it, writes
+   the record and rebuilds the page. `build/ingest.py` is the machinery, and the README at the repo
+   root describes it.
 2. **By hand.** Copy the nearest existing file and edit it.
 3. **Ask Claude.** Paste the article, case or report and ask for it to be filed; the conventions are
    in `claude/evidence-finder-build-spec.md` in the project.

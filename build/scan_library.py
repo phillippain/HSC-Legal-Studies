@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Walk the Evidence Organiser folder and classify what is in it.
+"""Walk the Evidence Finder library (in the shared drive) and classify what is in it.
 
 Two things live in that folder and they are not the same: **evidence**, which goes in
 front of a marker, and **teaching resources** — decks, question surveys, practice
@@ -13,15 +13,23 @@ import json, os, re, sys, unicodedata, urllib.parse
 from collections import defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-LIB = os.path.expanduser("~/Desktop/Evidence Organiser")
-if len(sys.argv) > 1:
-    LIB = sys.argv[1]
+# The library is the `library` folder inside Evidence Finder in the shared drive:
+# the same files the site links to on Drive, so what is scanned is what is
+# published. It is found wherever this runs — the Mac itself, or a Cowork session
+# with the Evidence Finder folder connected. An argument or EVIDENCE_LIBRARY wins.
+DRIVE_LIBRARY = ("/Users/phillip/Library/CloudStorage/GoogleDrive-phillip.pain@education.nsw.gov.au/"
+                 "Shared drives/HSC_LS_SSCBWB/Evidence Finder/library")
+CANDIDATES = [os.environ.get("EVIDENCE_LIBRARY", ""), DRIVE_LIBRARY,
+              os.path.expanduser("~/mnt/Evidence Finder/library")]
+args = [a for a in sys.argv[1:] if not a.startswith("--")]
+LIB = args[0] if args else next((c for c in CANDIDATES if c and os.path.isdir(c)), DRIVE_LIBRARY)
 
 # Where the folder lives *on the machine that opens the page*. The scan may run
-# somewhere else — a mounted copy of the folder, say — and the library links in
-# evidence.html must still point at the real thing, so the path that is written
-# into the data is this one, not the path that was walked.
-LINK_ROOT = os.environ.get("LIB_LINK_ROOT", "/Users/phillip/Desktop/Evidence Organiser")
+# somewhere else — a mounted copy of the folder, say — and the fallback file://
+# links in evidence.html must still point at the real thing, so the path written
+# into the data is this one, not the path that was walked. (Online, every
+# document opens from its Drive id instead; see data/drive-links.json.)
+LINK_ROOT = os.environ.get("LIB_LINK_ROOT", DRIVE_LIBRARY)
 
 SKIP = {".DS_Store", "Icon\r", "Thumbs.db", "desktop.ini"}
 
@@ -258,7 +266,7 @@ def main():
     overrides = load_overrides()
     files = []
     # Folders the tidy-up puts things aside in are not part of the library.
-    ASIDE = {"_duplicates", "_not-legal-studies"}
+    ASIDE = {"_duplicates", "_not-legal-studies", "inbox"}
     for dirpath, dirnames, names in os.walk(LIB):
         dirnames[:] = [d for d in dirnames if not d.startswith(".") and d not in ASIDE]
         for n in sorted(names):

@@ -5,8 +5,9 @@
  * Every check here is a promise the page makes to a student, not a detail of the
  * code: the landing view is the coverage grid, the tree walks and climbs, each of
  * the three ways in returns evidence, a summary renders as markup rather than as
- * markdown source, ticking builds a sheet, the composer emits a record the build
- * will accept, and nothing scrolls sideways on a phone.
+ * markdown source, ticking builds a sheet, there is
+ * no in-page composer (evidence arrives through the Drive inbox), and nothing
+ * scrolls sideways on a phone.
  */
 import { chromium } from 'playwright';
 import { pathToFileURL } from 'node:url';
@@ -72,17 +73,8 @@ for (const scheme of ['light', 'dark']) {
   ok((await page.locator('#selN').textContent()) === '2', scheme + ': selection count wrong');
   ok((await page.locator('#sheet .sheet-i').count()) === 2, scheme + ': the sheet did not build');
 
-  await page.locator('#homeBtn').click();
-  await page.locator('.cell[data-act="point"][data-id="crime.6.1"]').click();
-  await page.locator('#addBtn').click();
-  await page.locator('#cform [name="title"]').fill('AUSTRAC annual report');
-  await page.locator('#cform [name="significance"]').fill('Transnational crime, measured.');
-  const txt = await page.locator('#cout').textContent();
-  ok(txt.startsWith('---\ntype: '), scheme + ': composer header malformed');
-  ok(txt.includes('core: crime.6.1'), scheme + ': composer did not prefill the selected tag');
-  ok((await page.locator('#cpath').textContent()).endsWith('austrac-annual-report.md'),
-     scheme + ': composer path wrong');
-  await page.locator('#composeClose').click();
+  ok((await page.locator('#addBtn, #compose').count()) === 0,
+     scheme + ': the retired Add evidence composer is back on the page');
 
   /* ---------------------------------------------- the documents behind a point */
   await page.locator('#homeBtn').click();

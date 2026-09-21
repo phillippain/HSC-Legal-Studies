@@ -362,21 +362,6 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
 .dlg-body h3 em{font-style:normal; font-family:var(--mono); font-size:.8rem; color:var(--accent)}
 .dlg-body p{font-size:.88rem; color:var(--ink-2); margin:.4em 0}
 .dlg-body ul{font-size:.88rem; color:var(--ink-2); padding-left:1.2em}
-.form{display:grid; grid-template-columns:1fr 1fr; gap:10px 12px; margin:14px 0}
-@media (max-width:620px){ .form{grid-template-columns:1fr} }
-.form label{display:flex; flex-direction:column; gap:4px; font-size:.75rem; font-weight:600; color:var(--ink-2)}
-.form label.wide{grid-column:1/-1}
-.form input,.form select,.form textarea{font:inherit; font-size:.85rem; padding:7px 10px; border:1.5px solid var(--line);
-  border-radius:var(--r-sm); background:var(--bg); color:var(--ink); font-weight:400}
-.form textarea{font-family:var(--mono); font-size:.78rem; resize:vertical}
-.form input:focus,.form select:focus,.form textarea:focus{border-color:var(--accent); outline:none;
-  box-shadow:0 0 0 3px var(--accent-soft)}
-.cfoot{display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin-bottom:10px}
-.cfoot code{font-family:var(--mono); font-size:.76rem; color:var(--ink-3); background:var(--surface-2);
-  padding:4px 9px; border-radius:var(--r-sm)}
-#cout{font-family:var(--mono); font-size:.72rem; line-height:1.5; background:var(--surface-2);
-  border:1px solid var(--line); border-radius:var(--r-sm); padding:12px; overflow-x:auto;
-  white-space:pre-wrap; word-break:break-word; color:var(--ink-2); max-height:240px; overflow-y:auto}
 .x{border:1px solid var(--line); background:var(--surface-2); border-radius:50%; width:32px; height:32px;
   cursor:pointer; display:grid; place-items:center; color:var(--ink-2)}
 .x:hover{border-color:var(--accent); color:var(--accent)}
@@ -494,7 +479,6 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
       <span class="pill"><svg class="ic"><use href="#g-grid"/></svg><b id="m-cover">0</b> content points covered</span>
       <span class="pill" id="m-libpill" hidden><svg class="ic"><use href="#g-doc"/></svg><b id="m-lib">0</b> documents</span>
       <a class="pill" href="index.html"><svg class="ic"><use href="#g-list"/></svg>Question&nbsp;Finder</a>
-      <button class="pill" id="addBtn"><svg class="ic"><use href="#g-pen"/></svg>Add evidence</button>
       <button class="pill help-btn" id="helpBtn"><svg class="ic"><use href="#g-help"/></svg>How to use this site</button>
     </div>
   </div>
@@ -608,44 +592,9 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
     <p>Tick the box on any card. The bar at the bottom counts what you have chosen and prints it as a
       sheet &mdash; title, citation, one-line significance and the syllabus tags for each.</p>
     <h3><em>7</em>Adding evidence</h3>
-    <p>Each piece is one markdown file in <code>evidence/</code>. Copy an existing one, change the header,
-      write the summary, and run <code>python3 build/build_evidence.py</code>. The build refuses any tag that
-      is not in the syllabus, so a typo cannot quietly disappear. <code>evidence/README.md</code> has the
-      field list.</p>
-  </div>
-</dialog>
-
-<dialog id="compose">
-  <div class="dlg-head">
-    <svg class="ic" style="font-size:1.4rem;color:var(--accent)"><use href="#g-pen"/></svg>
-    <h2>Add a piece of evidence</h2>
-    <button class="x" id="composeClose"><svg class="ic"><use href="#g-close"/></svg></button>
-  </div>
-  <div class="dlg-body">
-    <p>Fill in what you know and press <strong>Copy</strong>. Save the text as the file named below,
-      then run <code>python3 build/build_evidence.py</code>. Anything you leave blank can be added later
-      &mdash; only the type, title, significance and one core tag are required.</p>
-    <div class="form" id="cform">
-      <label>Form of evidence<select name="type"></select></label>
-      <label>Title<input name="title" placeholder="Crimes Act 1900 (NSW) s 54D — coercive control"></label>
-      <label>Short name<input name="short" placeholder="s 54D Crimes Act 1900 (NSW)"></label>
-      <label>Citation<input name="citation" placeholder="[2026] FedCFamC2F 1367"></label>
-      <label>Date<input name="date" placeholder="2026-09-16"></label>
-      <label>Jurisdiction<input name="jurisdiction" placeholder="NSW"></label>
-      <label class="wide">One line on why it matters<input name="significance" placeholder="The sentence you would actually write in an answer."></label>
-      <label class="wide">Core content tags<input name="core" placeholder="crime.4.8, fam.2.4"></label>
-      <label class="wide">Supporting content tags<input name="support" placeholder="crime.2.1, hr.2.9"></label>
-      <label class="wide">Themes<input name="themes" placeholder="crime.t.reform, crime.t.balance"></label>
-      <label class="wide">Criteria<input name="criteria" placeholder="enforceability, accessibility"></label>
-      <label class="wide">Source URL<input name="source" placeholder="https://"></label>
-      <label class="wide">Summary<textarea name="body" rows="4" placeholder="## Use it for&#10;&#10;- ..."></textarea></label>
-    </div>
-    <div class="cfoot">
-      <code id="cpath">evidence/&hellip;</code>
-      <span style="flex:1"></span>
-      <button class="btn" id="copyBtn"><svg class="ic"><use href="#g-doc"/></svg>Copy the file</button>
-    </div>
-    <pre id="cout"></pre>
+    <p>New material is dropped into the <strong>inbox</strong> folder in the shared Evidence Finder drive.
+      It is filed, tagged against the syllabus and published from there, so the site always reflects the
+      library. Ask the Legal Studies team if you have something to add.</p>
   </div>
 </dialog>
 
@@ -1221,71 +1170,6 @@ $("#helpBtn").addEventListener("click", openGuide);
 $("#guideClose").addEventListener("click", () => guide.close());
 guide.addEventListener("click", e => { if (e.target === guide) guide.close(); });
 if (!ls.get("hsc-ls-ev-seen-guide")) $("#helpBtn").classList.add("nudge");
-
-/* ------------------------------------------------------------- composer -- */
-const compose = $("#compose"), cform = $("#cform");
-const DIR = {legislation: "legislation", case: "cases", media: "media",
-             international: "international", report: "reports", document: "documents"};
-(function fillTypes(){
-  const sel = cform.querySelector('[name="type"]');
-  sel.innerHTML = Object.keys(DATA.types)
-    .map(k => '<option value="' + k + '">' + esc(DATA.types[k].label) + "</option>").join("");
-})();
-
-function slug(s){
-  return s.toLowerCase().normalize("NFKD").replace(/[^a-z0-9]+/g, "-")
-          .replace(/^-|-$/g, "").slice(0, 60) || "new-evidence";
-}
-function composeText(){
-  const v = n => (cform.querySelector('[name="' + n + '"]').value || "").trim();
-  const type = v("type") || "case";
-  const id = slug(v("short") || v("title"));
-  $("#cpath").textContent = "evidence/" + DIR[type] + "/" + id + ".md";
-  const line = (k, val) => val ? k + ": " + val + "\n" : "";
-  const today = new Date().toISOString().slice(0, 10);
-  const head = "---\n" +
-    "type: " + type + "\n" +
-    line("title", v("title")) +
-    line("short", v("short")) +
-    line("citation", v("citation")) +
-    line("date", v("date")) +
-    line("jurisdiction", v("jurisdiction")) +
-    line("significance", v("significance")) +
-    line("core", v("core")) +
-    line("support", v("support")) +
-    line("themes", v("themes")) +
-    line("criteria", v("criteria")) +
-    line("source", v("source")) +
-    "added: " + today + "\n---\n\n";
-  $("#cout").textContent = head + (v("body") || "## Use it for\n\n- ");
-}
-cform.addEventListener("input", composeText);
-$("#addBtn").addEventListener("click", () => {
-  // whatever is selected right now is almost always the reason you are adding this
-  const sel = state.sel;
-  if (sel.kind === "point" || sel.kind === "section")
-    cform.querySelector('[name="core"]').value = sel.id;
-  if (sel.kind === "theme") cform.querySelector('[name="themes"]').value = sel.id;
-  if (sel.kind === "criterion") cform.querySelector('[name="criteria"]').value = sel.id;
-  if (sel.kind === "type") cform.querySelector('[name="type"]').value = sel.id;
-  composeText();
-  compose.showModal();
-});
-$("#composeClose").addEventListener("click", () => compose.close());
-compose.addEventListener("click", e => { if (e.target === compose) compose.close(); });
-$("#copyBtn").addEventListener("click", async () => {
-  const btn = $("#copyBtn"), label = btn.lastChild;
-  try {
-    await navigator.clipboard.writeText($("#cout").textContent);
-    label.textContent = "Copied";
-  } catch (e) {
-    const r = document.createRange();
-    r.selectNodeContents($("#cout"));
-    const s = getSelection(); s.removeAllRanges(); s.addRange(r);
-    label.textContent = "Selected \u2014 press \u2318C";
-  }
-  setTimeout(() => { label.textContent = "Copy the file"; }, 2200);
-});
 
 /* ----------------------------------------------------------------- boot -- */
 (function boot(){

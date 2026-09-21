@@ -127,8 +127,11 @@ existing file by hand. Then rebuild.
 
 ### The library
 
-`~/Desktop/Evidence Organiser` holds the documents themselves — around 700 cases, articles, reports,
-decks and videos. `build/scan_library.py` walks it and classifies every file:
+`HSC_LS_SSCBWB / Evidence Finder / library` in the shared drive holds the documents themselves —
+around 660 cases, articles, reports and decks, the same files the site links to, so what is scanned
+is what is published. (`~/Desktop/Evidence Organiser` is where they were gathered and still holds the
+videos, which are too big to be worth uploading.) `build/scan_library.py` walks the library and
+classifies every file:
 
 - **evidence or teaching resource.** A question survey, a practice question, an essay plan, a slide
   deck and a revision table are how the evidence gets taught, not evidence. They are indexed
@@ -160,12 +163,13 @@ faintly tinted cell means no record has been written but documents are filed the
 now carries at least one record, so no cell is dashed — but coverage is not depth, and the tint still
 shows where filed documents are waiting to be written up.
 
-Re-run `scan_library.py` after adding or moving files in that folder, then rebuild. **Give it the
-folder as an argument** if you are not running it on the machine where `~/Desktop/Evidence Organiser`
-lives; a scan that finds no files refuses to write rather than replacing a good index with an empty
-one (`--empty-ok` overrides that). The path the page's library links are built from is separate —
-`LIB_LINK_ROOT`, defaulting to `/Users/phillip/Desktop/Evidence Organiser` — so the links resolve on
-your Mac no matter where the scan ran.
+Re-run `scan_library.py` after adding or moving files in the library, then rebuild — or run
+`build/ingest.py refresh`, which does both and more. It finds the library by itself (the Drive path
+on the Mac, `~/mnt/Evidence Finder/library` in a Cowork session, or `EVIDENCE_LIBRARY=`), and takes
+a folder as an argument if you want to point it somewhere else. A scan that finds no files refuses
+to write rather than replacing a good index with an empty one (`--empty-ok` overrides that). The
+path the page's *fallback* `file://` links are built from is separate — `LIB_LINK_ROOT` — but online
+every document opens from its Drive id instead.
 
 ### Tidying the folder
 
@@ -200,27 +204,53 @@ below the 8.6 the shipped palette already sits at. So colour carries the topic a
 and the *course* for Preliminary, whose three parts are told apart by their icons instead. The
 fifth hue (light `#8b1a7d`, dark `#9b46b4`) passes all five checks against all pairs.
 
+## Adding evidence — drop it in the inbox
+
+New material goes into **`Evidence Finder / inbox`** in the shared drive, from any device: drag a
+PDF in from a browser, from email, from a phone. Nothing else is required of whoever drops it.
+
+Filing it is then one Cowork session with the **add-evidence** skill: Claude reads what is waiting,
+decides which library folder it belongs in and which syllabus dot points it is about, moves it,
+writes an evidence record for it where it deserves one, rebuilds the page and reports what changed.
+`build/ingest.py` is what it drives, and it can be driven by hand just as well:
+
+```sh
+python3 build/ingest.py status                                  # what is waiting, and where it could go
+python3 build/ingest.py file "R v Smith.pdf" "Cases/Crime" --tags crime.3.4
+python3 build/ingest.py refresh --commit "Evidence: R v Smith"  # rescan, rebuild, verify, commit
+```
+
+Then push (GitHub Desktop → Push origin) and the site has it. Pushing is the one step left by hand,
+because the shared drive is inside the school account and the repo credentials are not.
+
+A file **keeps its Drive id when it is moved inside the shared drive**, which is what makes this
+work: the inbox is listed every five minutes, so by the time a file is filed its id is already known
+and the link on the site is right immediately, without waiting for the nightly re-map.
+
 ## Publishing — GitHub Pages for the page, Google Drive for the documents
 
 Google Drive stopped serving HTML as web pages in 2016, so the page itself is published on
 **GitHub Pages**. The documents behind it live in the shared drive
-`HSC_LS_SSCBWB / Evidence Finder / library`, which mirrors the Evidence Organiser folder exactly —
-665 documents, 1.63 GB, **no videos** and nothing from `_duplicates/`. Keeping them in Drive keeps
-them behind the school sign-in: much of the library is paywalled news, a textbook excerpt and other
-teachers' material that should not be on the open web.
+`HSC_LS_SSCBWB / Evidence Finder / library` — 665 documents, 1.63 GB, **no videos** and nothing from
+`_duplicates/`. Keeping them in Drive keeps them behind the school sign-in: much of the library is
+paywalled news, a textbook excerpt and other teachers' material that should not be on the open web.
 
 A page on `github.io` cannot reach a Drive file by path, so every link needs that file's Drive id.
+**`build/map-drive-ids.gs`** collects them, and a copy sits in the Drive folder. Set it up once —
+script.google.com → open the project → paste the file over what is there → Save → run
+`installTriggers`, allowing the permissions it asks for — and from then on it runs itself:
 
-1. Copy new documents into `Evidence Finder/library/` in the same folder they sit in on the Desktop.
-2. Run **`build/map-drive-ids.gs`** (a copy also sits in the Drive folder): script.google.com → New
-   project → paste → Save → run `mapDriveIds`. It walks `library/` and writes `drive-links.json`
-   into the Evidence Finder folder. If it says RESUME, press Run again.
-3. Copy `drive-links.json` from the Drive folder into **`data/drive-links.json`** in this repo, then
-   rebuild. `build_evidence.py` reads `data/` first and falls back to the copy in the shared drive
-   (override that path with `DRIVE_LINKS=`), printing how many links it mapped. Prefer the `data/`
-   copy: a file Drive has only just synced can be locked for a while ("Resource deadlock avoided"),
-   and the copy in the repo also makes the build reproducible without Drive mounted.
-4. Commit and push. GitHub Pages serves the rebuilt `evidence.html`.
+- every **5 minutes** it notes what is in the inbox, into `inbox-links.json` (one folder, a second's
+  work, and it writes only when the inbox has changed);
+- every **night** it re-maps the whole library into `drive-links.json`, catching anything added,
+  renamed or moved by hand. A run that hits Apps Script's 6-minute limit schedules itself to carry
+  on a minute later.
+
+`build/ingest.py refresh` folds that map into `data/drive-links.json` in the repo, keeping the ids it
+has carried across itself. The `data/` copy is what the build reads (`DRIVE_LINKS=` overrides the
+fallback): a file Drive has only just synced can be locked for a while ("Resource deadlock avoided"),
+and a copy in the repo also makes the build reproducible without Drive mounted. `mapDriveIds` and
+`mapInbox` can still be run by hand; `removeTriggers` turns the automation off.
 
 **`.nojekyll` must stay at the repo root.** Without it GitHub Pages runs every file through
 Jekyll, which reads each record's `---` header as YAML front matter. Those headers are deliberately
@@ -229,16 +259,17 @@ records were enough to fail the whole deployment, and the live site silently sta
 build, which predated `evidence.html`. `.nojekyll` tells Pages to serve the files exactly as they
 are, which is all this site needs.
 
-Every document link then opens `drive.google.com/file/d/<id>/view`. A file missing from the map
-keeps its local `file://` link, so a half-finished map degrades one file at a time rather than
-breaking the page — and with no map at all, the page works exactly as it always has on this Mac.
+Every document link opens `drive.google.com/file/d/<id>/view`. A file missing from the map keeps a
+local `file://` link, so a half-finished map degrades one file at a time rather than breaking the
+page — and with no map at all, the page works exactly as it always has on this Mac.
 
 **Access.** A Drive link opens for anyone the file is shared with. If students are not members of
 the shared drive, share the `library` folder as "anyone at education.nsw.gov.au with the link" or
 the links will ask them to request access.
 
-**Videos** are not copied yet. Drag them into `library/` under the same folder names, re-run the
-script and rebuild, and their links switch over too.
+**Videos** stay on the Desktop folder and are not in the library, so they are no longer indexed.
+Drag them into `library/` under the same folder names if you want them back: the nightly map picks
+them up and their links switch over too.
 
 ## Files
 
@@ -252,12 +283,16 @@ build/build_evidence.py     evidence/ + syllabus.json -> evidence.html
 build/verify_evidence.py    checks the built evidence.html
 build/evidence_template.html  the page, with __DATA__ as the data placeholder
 build/check_evidence_page.mjs drives the built page in Playwright, light and dark
-build/scan_library.py       the Evidence Organiser folder -> data/library.json
+build/scan_library.py       the Drive library folder -> data/library.json
+build/ingest.py             inbox -> library: file, tag, rebuild, verify, commit
+build/map-drive-ids.gs      Apps Script: keeps drive-links.json and inbox-links.json current
 build/extract_summaries.py  pulls the text out of the finished case cards and evidence sheets
 build/tidy_plan.py          proposes a tidy-up -> data/tidy-plan.md and .json
 build/apply_tidy.py         carries the plan out (--go); moves only, never deletes
 data/library.json           every document in the folder, classified and tagged
 data/library-tags.txt       hand-written tags for files whose name says nothing
+data/drive-links.json       library path -> Google Drive file id, for the online links
+data/ingest-log.jsonl       every file moved out of the inbox, and when
 
 _superseded/                papers and guidelines kept but no longer linked (git-ignored)
 
@@ -288,7 +323,8 @@ source-documents/archive-2011-2014/   2011-2014 question text, read from the arc
 The evidence finder:
 
 ```sh
-python3 build/scan_library.py        # the Evidence Organiser folder -> data/library.json
+python3 build/ingest.py refresh      # all four of the below, plus the Drive map and a report
+python3 build/scan_library.py        # the Drive library folder -> data/library.json
 python3 build/build_evidence.py      # evidence/*.md + library -> evidence.html
 python3 build/verify_evidence.py     # tags, ids, icons, document paths, self-containment
 node build/check_evidence_page.mjs   # optional: drives the page, light and dark
