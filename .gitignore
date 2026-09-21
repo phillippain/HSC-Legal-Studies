@@ -3,3 +3,4 @@ __pycache__/
 *.py[co]
 
 _superseded/
+data/inbox-links.json
