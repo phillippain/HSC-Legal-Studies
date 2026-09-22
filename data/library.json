@@ -3773,6 +3773,20 @@
    "primary": true
   },
   {
+   "path": "News Articles/Crime/ABC 22Sept26 - NSW sexual assault pre-recorded evidence reforms.pdf",
+   "name": "ABC 22Sept26 - NSW sexual assault pre-recorded evidence reforms",
+   "file": "ABC 22Sept26 - NSW sexual assault pre-recorded evidence reforms.pdf",
+   "ext": "pdf",
+   "bytes": 3287937,
+   "mtime": 1790026176,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [],
+   "dupe": "abc22sept26nswsexualassaultprerecordedevidencereforms",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "News Articles/Crime/Number of NSW children in youth detention up by one third, new data shows | New South Wales | The Guardian.pdf",
    "name": "Number of NSW children in youth detention up by one third, new data shows | New South Wales | The Guardian",
    "file": "Number of NSW children in youth detention up by one third, new data shows | New South Wales | The Guardian.pdf",
@@ -3982,6 +3996,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Brigham and Hibler [2026] ARTA 2053 - Case Summary.pdf",
+   "name": "Brigham and Hibler [2026] ARTA 2053 - Case Summary",
+   "file": "Brigham and Hibler [2026] ARTA 2053 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 410109,
+   "mtime": 1790030475,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "brighamandhibler2026arta2053casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Cerinza & Moreau [2026] FedCFamC2F 785.rtf",
    "name": "Cerinza & Moreau [2026] FedCFamC2F 785",
    "file": "Cerinza & Moreau [2026] FedCFamC2F 785.rtf",
@@ -4015,6 +4045,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Corella & Nagar [2026] FedCFamC2F 1037 - Case Summary.pdf",
+   "name": "Corella & Nagar [2026] FedCFamC2F 1037 - Case Summary",
+   "file": "Corella & Nagar [2026] FedCFamC2F 1037 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 496972,
+   "mtime": 1790030468,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "corellanagar2026fedcfamc2f1037casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Corella & Nagar [2026] FedCFamC2F 1037.rtf",
    "name": "Corella & Nagar [2026] FedCFamC2F 1037",
    "file": "Corella & Nagar [2026] FedCFamC2F 1037.rtf",
@@ -4043,6 +4089,22 @@
     "family"
    ],
    "dupe": "curtinbushno22026fedcfamc2f1165",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Curtin & Bush [2026] FedCFamC2F 1021 and 1165 - Case Summary.pdf",
+   "name": "Curtin & Bush [2026] FedCFamC2F 1021 and 1165 - Case Summary",
+   "file": "Curtin & Bush [2026] FedCFamC2F 1021 and 1165 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 458907,
+   "mtime": 1790030474,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "curtinbush2026fedcfamc2f1021and1165casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4092,6 +4154,22 @@
     "fam.1.5"
    ],
    "dupe": "devineandkitsonchildsupport2026arta194421july2026",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Fernley & Masson [2026] FedCFamC2F 958 - Case Summary.pdf",
+   "name": "Fernley & Masson [2026] FedCFamC2F 958 - Case Summary",
+   "file": "Fernley & Masson [2026] FedCFamC2F 958 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 481412,
+   "mtime": 1790030470,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "fernleymasson2026fedcfamc2f958casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4293,6 +4371,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Swynnerton and Swynnerton [2026] ARTA 2033 - Case Summary.pdf",
+   "name": "Swynnerton and Swynnerton [2026] ARTA 2033 - Case Summary",
+   "file": "Swynnerton and Swynnerton [2026] ARTA 2033 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 440130,
+   "mtime": 1790030476,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "swynnertonandswynnerton2026arta2033casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Taggart & Gowden [2026] FedCFamC2F 673 (Summary).pdf",
    "name": "Taggart & Gowden [2026] FedCFamC2F 673 (Summary)",
    "file": "Taggart & Gowden [2026] FedCFamC2F 673 (Summary).pdf",
@@ -4305,6 +4399,22 @@
     "family"
    ],
    "dupe": "taggartgowden2026fedcfamc2f673summary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Tanvil & Batta [2026] FedCFamC2F 1001 - Case Summary.pdf",
+   "name": "Tanvil & Batta [2026] FedCFamC2F 1001 - Case Summary",
+   "file": "Tanvil & Batta [2026] FedCFamC2F 1001 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 500756,
+   "mtime": 1790030472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "tanvilbatta2026fedcfamc2f1001casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4338,6 +4448,22 @@
     "fam.1.5"
    ],
    "dupe": "threechildsupportreviewscomparisonsheet",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Vacek & Novosel (No 7) [2026] FedCFamC2F 1040 - Case Summary.pdf",
+   "name": "Vacek & Novosel (No 7) [2026] FedCFamC2F 1040 - Case Summary",
+   "file": "Vacek & Novosel (No 7) [2026] FedCFamC2F 1040 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 460978,
+   "mtime": 1790030472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "vaceknovoselno72026fedcfamc2f1040casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4419,6 +4545,23 @@
     "hr.3.1"
    ],
    "dupe": "2012344refugee2026arta204629april2026",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/2012344 (Refugee) [2026] ARTA 2046 - Case Summary.pdf",
+   "name": "2012344 (Refugee) [2026] ARTA 2046 - Case Summary",
+   "file": "2012344 (Refugee) [2026] ARTA 2046 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 443355,
+   "mtime": 1790030480,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "humanrights",
+    "hr.3.1"
+   ],
+   "dupe": "2012344refugee2026arta2046casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4571,6 +4714,22 @@
     "hr.3.1"
    ],
    "dupe": "fhstcitizenshipadminlawsummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/HGY v Secretary, Ministry of Health [2026] NSWCATAD 278 - Case Summary.pdf",
+   "name": "HGY v Secretary, Ministry of Health [2026] NSWCATAD 278 - Case Summary",
+   "file": "HGY v Secretary, Ministry of Health [2026] NSWCATAD 278 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 464401,
+   "mtime": 1790030478,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "humanrights"
+   ],
+   "dupe": "hgyvsecretaryministryofhealth2026nswcatad278casesummary",
    "copyOf": null,
    "primary": true
   },

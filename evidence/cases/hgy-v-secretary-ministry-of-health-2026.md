@@ -10,7 +10,7 @@ core: hr.2.9, hr.2.4, hr.3.1
 support: hr.2.11, hr.2.7, hr.2.14, ind.1.1, ind.1.2, ind.2.3, ind.2.6, ls.3.3, lip.1.1, lip.2.1, lip.2.3
 themes: hr.t.compliance, hr.t.values, hr.t.effectiveness, ind.t.justice
 criteria: rights, enforceability, accessibility, responsiveness, justice
-document: Cases/HGY v Secretary, Ministry of Health in respect of Northern NSW Local Health District [NSW Caselaw].pdf
+document: Cases/Human Rights/HGY v Secretary, Ministry of Health [2026] NSWCATAD 278 - Case Summary.pdf
 related: fowler-v-forestville-rsl-2026, haji-zadeh-v-woolworths-2026, jones-v-commissioner-of-police-2026
 added: 2026-09-19
 ---
