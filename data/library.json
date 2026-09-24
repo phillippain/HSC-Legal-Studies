@@ -3627,6 +3627,22 @@
    "primary": true
   },
   {
+   "path": "News Articles/Family/The Conversation 23Sept26 - DV response not prevention.pdf",
+   "name": "The Conversation 23Sept26 - DV response not prevention",
+   "file": "The Conversation 23Sept26 - DV response not prevention.pdf",
+   "ext": "pdf",
+   "bytes": 3653835,
+   "mtime": 1790133303,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "family"
+   ],
+   "dupe": "theconversation23sept26dvresponsenotprevention",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "News Articles/Family/Tracking Elderly Parents for Safety: How Life360 and GPS Devices Help Caregivers.pdf",
    "name": "Tracking Elderly Parents for Safety: How Life360 and GPS Devices Help Caregivers",
    "file": "Tracking Elderly Parents for Safety: How Life360 and GPS Devices Help Caregivers.pdf",
@@ -3799,6 +3815,20 @@
     "crime.2"
    ],
    "dupe": "numberofnswchildreninyouthdetentionupbyonethirdnewdatashowsnewsouthwalestheguardian",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "News Articles/Crime/The Conversation 23Sept26 - Rape myths and sexual assault trials.pdf",
+   "name": "The Conversation 23Sept26 - Rape myths and sexual assault trials",
+   "file": "The Conversation 23Sept26 - Rape myths and sexual assault trials.pdf",
+   "ext": "pdf",
+   "bytes": 1868425,
+   "mtime": 1790133328,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [],
+   "dupe": "theconversation23sept26rapemythsandsexualassaulttrials",
    "copyOf": null,
    "primary": true
   },
@@ -4125,6 +4155,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Daalman & Daalman (No 2) [2026] FedCFamC2F 830 - Case Summary.pdf",
+   "name": "Daalman & Daalman (No 2) [2026] FedCFamC2F 830 - Case Summary",
+   "file": "Daalman & Daalman (No 2) [2026] FedCFamC2F 830 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 506174,
+   "mtime": 1790203208,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "daalmandaalmanno22026fedcfamc2f830casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Devine and Kitson 2026 ARTA 1944 - Case Summary.pdf",
    "name": "Devine and Kitson 2026 ARTA 1944 - Case Summary",
    "file": "Devine and Kitson 2026 ARTA 1944 - Case Summary.pdf",
@@ -4190,6 +4236,38 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Fierro & Bien (No 3) [2026] FedCFamC1F 541 - Case Summary.pdf",
+   "name": "Fierro & Bien (No 3) [2026] FedCFamC1F 541 - Case Summary",
+   "file": "Fierro & Bien (No 3) [2026] FedCFamC1F 541 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 501635,
+   "mtime": 1790203208,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "fierrobienno32026fedcfamc1f541casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Gizela & Elmas [2026] FedCFamC1F 494 - Case Summary.pdf",
+   "name": "Gizela & Elmas [2026] FedCFamC1F 494 - Case Summary",
+   "file": "Gizela & Elmas [2026] FedCFamC1F 494 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 495736,
+   "mtime": 1790203208,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "gizelaelmas2026fedcfamc1f494casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Glancey and Glancey 2026 ARTA 1945 - Case Summary.pdf",
    "name": "Glancey and Glancey 2026 ARTA 1945 - Case Summary",
    "file": "Glancey and Glancey 2026 ARTA 1945 - Case Summary.pdf",
@@ -4240,6 +4318,54 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Jelen & Jelen [2026] FedCFamC1F 532 - Case Summary.pdf",
+   "name": "Jelen & Jelen [2026] FedCFamC1F 532 - Case Summary",
+   "file": "Jelen & Jelen [2026] FedCFamC1F 532 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 498885,
+   "mtime": 1790203208,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "jelenjelen2026fedcfamc1f532casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Kawakami & Urbonaite [2026] FedCFamC1F 593 - Case Summary.pdf",
+   "name": "Kawakami & Urbonaite [2026] FedCFamC1F 593 - Case Summary",
+   "file": "Kawakami & Urbonaite [2026] FedCFamC1F 593 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 513269,
+   "mtime": 1790203208,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "kawakamiurbonaite2026fedcfamc1f593casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Keven & Jaylah (No 2) [2026] FedCFamC2F 1045 - Case Summary.pdf",
+   "name": "Keven & Jaylah (No 2) [2026] FedCFamC2F 1045 - Case Summary",
+   "file": "Keven & Jaylah (No 2) [2026] FedCFamC2F 1045 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 489652,
+   "mtime": 1790203208,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "kevenjaylahno22026fedcfamc2f1045casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Khuu & Trang [2026] FedCFamC1F 260.pdf",
    "name": "Khuu & Trang [2026] FedCFamC1F 260",
    "file": "Khuu & Trang [2026] FedCFamC1F 260.pdf",
@@ -4268,6 +4394,54 @@
     "family"
    ],
    "dupe": "khuutrangcasesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Kurbonova & Hennigsen [2026] FedCFamC1F 520 - Case Summary.pdf",
+   "name": "Kurbonova & Hennigsen [2026] FedCFamC1F 520 - Case Summary",
+   "file": "Kurbonova & Hennigsen [2026] FedCFamC1F 520 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 516118,
+   "mtime": 1790203208,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "kurbonovahennigsen2026fedcfamc1f520casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Murchin & Enfield (No 3) [2026] FedCFamC2F 1104 - Case Summary.pdf",
+   "name": "Murchin & Enfield (No 3) [2026] FedCFamC2F 1104 - Case Summary",
+   "file": "Murchin & Enfield (No 3) [2026] FedCFamC2F 1104 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 497383,
+   "mtime": 1790203208,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "murchinenfieldno32026fedcfamc2f1104casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Olmstead & Olmstead [2026] FedCFamC1A 153 - Case Summary.pdf",
+   "name": "Olmstead & Olmstead [2026] FedCFamC1A 153 - Case Summary",
+   "file": "Olmstead & Olmstead [2026] FedCFamC1A 153 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 491736,
+   "mtime": 1790203208,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "olmsteadolmstead2026fedcfamc1a153casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4333,6 +4507,22 @@
     "family"
    ],
    "dupe": "pandevaandpandevacasestudycard",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Patchett & Tapley [2026] FedCFamC1F 504 - Case Summary.pdf",
+   "name": "Patchett & Tapley [2026] FedCFamC1F 504 - Case Summary",
+   "file": "Patchett & Tapley [2026] FedCFamC1F 504 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 515153,
+   "mtime": 1790203208,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "patchetttapley2026fedcfamc1f504casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7168,6 +7358,22 @@
     "shelter"
    ],
    "dupe": "guidetopurchaseyourhome",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/HILDA 2026 Shelter Evidence Brief.pdf",
+   "name": "HILDA 2026 Shelter Evidence Brief",
+   "file": "HILDA 2026 Shelter Evidence Brief.pdf",
+   "ext": "pdf",
+   "bytes": 357638,
+   "mtime": 1790205236,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shelter"
+   ],
+   "dupe": "hilda2026shelterevidencebrief",
    "copyOf": null,
    "primary": true
   },
