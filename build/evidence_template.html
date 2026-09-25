@@ -246,8 +246,14 @@ a.pill:hover .ic{color:var(--accent)}
 /* ============================================================== card ===== */
 .ev{position:relative; background:var(--surface); border:1px solid var(--line); border-radius:var(--r-lg);
   box-shadow:var(--sh-1); overflow:hidden; margin-bottom:12px}
-.ev::before{content:""; position:absolute; inset:0 auto 0 0; width:4px; background:var(--ec)}
-.ev-head{display:flex; gap:12px; align-items:flex-start; padding:15px 17px 13px 20px}
+/* Two colours do two jobs. The stripe down the left edge is the TOPIC the evidence
+   belongs to — split into bands when one piece serves more than one topic — and the
+   icon and label at the top are the FORM of evidence. */
+.ev::before{content:""; position:absolute; inset:0 auto 0 0; width:6px; background:var(--edge,var(--ec))}
+.ev-head{display:flex; gap:12px; align-items:flex-start; padding:15px 17px 13px 22px}
+.ev-topics{display:inline-flex; flex-wrap:wrap; gap:5px; margin-left:8px; vertical-align:2px}
+.ev-topics i{font-style:normal; color:var(--tc); background:var(--tcb); border-radius:var(--r-pill);
+  padding:1px 8px; font-size:.64rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase}
 .ev-tick{flex:none; margin-top:2px; width:20px; height:20px; border:1.8px solid var(--line);
   border-radius:6px; background:var(--bg); cursor:pointer; display:grid; place-items:center; color:transparent;
   transition:.12s}
@@ -366,14 +372,67 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
   cursor:pointer; display:grid; place-items:center; color:var(--ink-2)}
 .x:hover{border-color:var(--accent); color:var(--accent)}
 
+/* ==================================================== start again, hints == */
+.startover{cursor:pointer; border-color:var(--accent); color:var(--accent); background:var(--surface);
+  font-weight:600; transition:.14s}
+.startover .ic{color:inherit}
+.startover:hover{background:var(--accent); color:var(--on-accent); border-color:var(--accent)}
+
+.toast{position:fixed; left:50%; bottom:22px; translate:-50% 0; z-index:40; display:none;
+  gap:12px; align-items:center; background:var(--ink); color:var(--bg); border-radius:var(--r-pill);
+  padding:10px 10px 10px 18px; font-size:.82rem; box-shadow:var(--sh-3); max-width:calc(100% - 24px);
+  pointer-events:none}
+.toast.on{display:flex}
+.toast button{border:1px solid currentColor; background:none; color:inherit; border-radius:var(--r-pill);
+  padding:4px 13px; font-size:.78rem; font-weight:600; cursor:pointer; flex:none; pointer-events:auto}
+
+/* one-line explanations that sit beside the thing they explain */
+.tip{display:flex; gap:8px; align-items:flex-start; font-size:.76rem; color:var(--ink-3);
+  line-height:1.5; margin:8px 2px 0}
+.tip .ic{font-size:1rem; color:var(--accent); flex:none; margin-top:.15em}
+.tip strong{color:var(--ink-2); font-weight:600}
+.keyline{display:flex; gap:8px; align-items:center; font-size:.74rem; color:var(--ink-3)}
+.keyline .bar{width:5px; height:16px; border-radius:3px; flex:none;
+  background:linear-gradient(180deg,var(--t1) 0 50%,var(--t3) 50% 100%)}
+
+/* ============================================================= tour ====== */
+.tour{position:fixed; inset:0; z-index:60; display:none}
+.tour.on{display:block}
+.tour-ring{position:absolute; border:3px solid var(--accent); border-radius:14px;
+  box-shadow:0 0 0 9999px rgba(15,18,24,.55); transition:top .22s, left .22s, width .22s, height .22s;
+  pointer-events:none}
+.tour-card{position:absolute; width:min(330px, calc(100vw - 32px)); background:var(--surface);
+  color:var(--ink); border-radius:var(--r); padding:16px 18px; box-shadow:var(--sh-3)}
+.tour-card h3{font-size:1.02rem; margin-bottom:5px}
+.tour-card p{font-size:.86rem; color:var(--ink-2); margin:0 0 13px; line-height:1.5}
+.tour-foot{display:flex; align-items:center; gap:10px}
+.tour-n{font-family:var(--mono); font-size:.72rem; color:var(--ink-3); flex:1}
+.tour-skip{border:0; background:none; color:var(--ink-3); font-size:.78rem; cursor:pointer;
+  text-decoration:underline; padding:0}
+
 /* ============================================================ print ====== */
-#sheet{display:none}
+#sheet,#map{display:none}
 @media print{
-  .masthead,.rail,.selbar,.results-head,.panel.welcome,#cov,dialog{display:none !important}
+  .masthead,.rail,.selbar,.results-head,.panel.welcome,#cov,dialog,.toast,.tour,
+  #libwrap,#cardkey,#maptext{display:none !important}
   .shell{display:block; padding:0; max-width:none}
   body{background:#fff; font-size:11pt}
   #list{display:none}
   #sheet{display:block}
+  body.print-map #sheet{display:none}
+  body.print-map #map{display:block}
+  .map-h{border-bottom:2px solid #000; padding-bottom:8px; margin-bottom:14px}
+  .map-topic{font-size:13pt; margin:16px 0 2px; break-after:avoid; page-break-after:avoid}
+  .map-sec{font-size:9pt; letter-spacing:.08em; text-transform:uppercase; color:#444;
+    margin:10px 0 2px; break-after:avoid; page-break-after:avoid}
+  .map-pt{break-inside:avoid; page-break-inside:avoid; border-top:1px solid #ccc; padding:7px 0 3px}
+  .map-pt h4{font-size:11pt; margin:0 0 3px}
+  .map-pt .code{font-family:var(--mono); font-size:8.5pt; color:#555}
+  .map-type{font-size:8.5pt; letter-spacing:.06em; text-transform:uppercase; color:#555; margin-top:5px}
+  .map-i{font-size:10pt; margin:2px 0 2px 14px}
+  .map-i .cite{font-family:var(--mono); font-size:8.5pt; color:#444}
+  .map-i .sig{color:#222}
+  .map-i .sup{font-size:8.5pt; color:#666}
   .sheet-h{border-bottom:2px solid #000; padding-bottom:8px; margin-bottom:14px}
   .sheet-i{break-inside:avoid; page-break-inside:avoid; border-bottom:1px solid #bbb; padding:10px 0}
   .sheet-i h3{font-size:12pt; margin-bottom:2px}
@@ -478,6 +537,8 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
       <span class="pill"><svg class="ic"><use href="#g-tag"/></svg><b id="m-records">0</b> pieces of evidence</span>
       <span class="pill"><svg class="ic"><use href="#g-grid"/></svg><b id="m-cover">0</b> content points covered</span>
       <span class="pill" id="m-libpill" hidden><svg class="ic"><use href="#g-doc"/></svg><b id="m-lib">0</b> documents</span>
+      <button class="pill startover" id="startBtn" title="Clear the course, the filters, the search and anything ticked, and go back to the start page">
+        <svg class="ic"><use href="#g-back"/></svg>Start again</button>
       <a class="pill" href="index.html"><svg class="ic"><use href="#g-list"/></svg>Question&nbsp;Finder</a>
       <button class="pill help-btn" id="helpBtn"><svg class="ic"><use href="#g-help"/></svg>How to use this site</button>
     </div>
@@ -499,7 +560,7 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
           <input id="q" type="search" placeholder="Search titles, citations, summaries" autocomplete="off">
           <span class="kbd">/</span>
         </label>
-        <button class="home" id="homeBtn"><svg class="ic"><use href="#g-back"/></svg>All</button>
+        <button class="home" id="homeBtn" title="Clear everything and go back to the start page"><svg class="ic"><use href="#g-back"/></svg>Start&nbsp;again</button>
       </div>
       <div class="tree" id="tree"></div>
     </div>
@@ -507,19 +568,15 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
 
   <main class="main">
     <section class="panel welcome" id="welcome">
-      <h2>Every piece of evidence you have, filed against the syllabus</h2>
-      <p>Legislation, cases, media, international instruments, reports and documents — each one tagged
-        to the content points it actually answers, to the themes and challenges it carries, and to the
-        syllabus&rsquo;s own criteria for judging effectiveness.</p>
+      <h2>Cases, laws and evidence &mdash; sorted by the syllabus</h2>
+      <p>Everything here is filed against the dot points it actually answers, so you can find what to
+        write about, see what you are missing, and build a sheet for a question in about a minute.</p>
       <div class="steps">
-        <div class="step"><b><i>1</i>Pick a course, then a topic</b><span>The switch at the top right scopes the whole page to Preliminary or HSC &mdash; the tree, the grid, the search and the counts. Preliminary is one colour because seven hues cannot be told apart reliably; its parts carry their own icons.</span></div>
-        <div class="step"><b><i>2</i>Go down a level or two</b><span>Topic &rarr; section &rarr; dot point. The trail at the top of the list takes you back up in one press.</span></div>
-        <div class="step"><b><i>3</i>Tick what you need</b><span>Ticked evidence prints as a one-page sheet you can take into a study session or hand out.</span></div>
+        <div class="step"><b><i>1</i>Choose your course</b><span>Use the buttons at the top right &mdash; <strong>Preliminary</strong> if you are in Year 11, <strong>HSC</strong> if you are in Year 12. The whole page follows.</span></div>
+        <div class="step"><b><i>2</i>Find your dot point</b><span>Click a topic in the list on the left, then a section, then a dot point. Or type a word in the search box. Or click any square on the grid below.</span></div>
+        <div class="step"><b><i>3</i>Tick what you want to use</b><span>Ticking puts a piece of evidence in your list. When you are done, print it as a study sheet, or as an <strong>evidence map</strong> sorted by dot point.</span></div>
       </div>
-      <p style="margin-top:14px"><strong>Three ways in.</strong> <em>Content</em> walks the syllabus tree.
-        <em>Themes</em> lists the themes and challenges, which is how the 25-mark questions are actually built.
-        <em>Kind</em> filters by form of evidence &mdash; and by the eight criteria for evaluating effectiveness,
-        so you can find everything you hold on enforceability or accessibility at once.</p>
+      <p class="tip"><svg class="ic"><use href="#g-help"/></svg><span>Stuck? Press <strong>How to use this site</strong> at the top for a short tour and a worked example of answering a real HSC question. Press <strong>Start again</strong> at any time to clear everything and come back here.</span></p>
     </section>
 
     <section class="panel" id="cov">
@@ -533,6 +590,10 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
         </div>
       </div>
       <p class="scopenote" id="covnote" hidden></p>
+      <p class="tip"><svg class="ic"><use href="#g-help"/></svg><span>One square per dot point. The
+        darker it is, the more evidence you have. <strong>Click any square</strong> to see what is filed
+        there. A dashed square with a <strong>0</strong> means nothing is written up for that dot point
+        yet &mdash; that is where to look before an assessment.</span></p>
       <div class="cov" id="covBody"></div>
     </section>
 
@@ -542,6 +603,12 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
       <span class="spacer"></span>
       <button class="mini" id="sortBtn"><svg class="ic"><use href="#g-clock"/></svg><span>Newest first</span></button>
     </div>
+    <p class="tip" id="cardkey" hidden><svg class="ic"><use href="#g-help"/></svg><span>
+      <span class="keyline"><span class="bar"></span></span>
+      The <strong>stripe down the left of a card is the topic</strong> it belongs to (two bands means it
+      serves two topics). The <strong>icon and label at the top are the form of evidence</strong> &mdash;
+      case, Act, report, media, international instrument or document. <strong>Tick the box</strong> on any
+      card to add it to your list.</span></p>
     <div id="list"></div>
     <div id="libwrap"></div>
 
@@ -550,10 +617,15 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
       <b id="selN">0</b><span>ticked</span>
       <span class="spacer" style="flex:1"></span>
       <button class="btn ghost" id="clearSel">Clear</button>
-      <button class="btn" id="printSel"><svg class="ic"><use href="#g-print"/></svg>Print evidence sheet</button>
+      <button class="mini" id="supToggle" aria-pressed="false"
+        title="By default the map lists each piece under the dot points it is about. Turn this on to list it under the points it merely supports as well.">+ supporting points</button>
+      <button class="btn ghost" id="copyMap"><svg class="ic"><use href="#g-columns"/></svg><span>Copy map</span></button>
+      <button class="btn" id="printMap"><svg class="ic"><use href="#g-grid"/></svg>Evidence map</button>
+      <button class="btn" id="printSel"><svg class="ic"><use href="#g-print"/></svg>Evidence sheet</button>
     </div>
 
     <div id="sheet"></div>
+    <div id="map"></div>
   </main>
 </div>
 
@@ -564,39 +636,98 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
     <button class="x" id="guideClose"><svg class="ic"><use href="#g-close"/></svg></button>
   </div>
   <div class="dlg-body">
-    <h3><em>1</em>The three ways in</h3>
-    <p><strong>Content</strong> walks the syllabus: course &rarr; topic &rarr; section &rarr; dot point.
-      <strong>Themes</strong> lists each topic&rsquo;s themes and challenges. <strong>Kind</strong> filters by the
-      form of the evidence, and by the eight criteria the syllabus gives for evaluating effectiveness.
-      Search cuts across all three at once.</p>
-    <h3><em>2</em>One course at a time</h3>
-    <p>The switch at the top right — <strong>Both</strong>, <strong>Preliminary</strong>, <strong>HSC</strong> —
-      scopes the whole page: the tree, the coverage grid, the search, the counts and the library. It is
-      remembered, so a Year 11 class and a Year 12 class each open the finder where they left it.</p>
-    <p>Evidence is <em>not</em> hidden at the course boundary. A Crime case that supports a Preliminary
-      content point still appears under that point while you are in Preliminary, carrying a dashed
-      <strong>HSC evidence</strong> mark so you can see at a glance that it belongs to the other course.
-      Those cross-course links are a large part of what the finder is for.</p>
-    <h3><em>3</em>Core and supporting</h3>
-    <p>A piece of evidence is <strong>core</strong> to a content point when the point is what the evidence is
-      about, and <strong>supporting</strong> when it is useful there but is really about something else. Choosing a
-      dot point shows its core evidence first. A solid chip is core; a faint one is supporting.</p>
-    <h3><em>4</em>What the numbers mean</h3>
-    <p>The number beside a row is how many pieces of evidence sit at or below it. A number in orange means
-      nothing is filed there yet &mdash; on the coverage grid those cells are dashed. Where the question finder
-      has past questions on the same dot point, the card footer says so.</p>
-    <h3><em>5</em>The coverage grid</h3>
-    <p>One cell per dot point, darker where you hold more. It is the fastest way to see what a topic is
-      missing before an assessment. Press a cell to jump to that dot point.</p>
-    <h3><em>6</em>Building an evidence sheet</h3>
-    <p>Tick the box on any card. The bar at the bottom counts what you have chosen and prints it as a
-      sheet &mdash; title, citation, one-line significance and the syllabus tags for each.</p>
-    <h3><em>7</em>Adding evidence</h3>
-    <p>New material is dropped into the <strong>inbox</strong> folder in the shared Evidence Finder drive.
-      It is filed, tagged against the syllabus and published from there, so the site always reflects the
-      library. Ask the Legal Studies team if you have something to add.</p>
+    <p style="margin-top:12px"><button class="btn" id="tourBtn"><svg class="ic"><use href="#g-route"/></svg>Show me around the page</button></p>
+
+    <h3><em>1</em>Start with your course</h3>
+    <p>The buttons at the top right say <strong>Both</strong>, <strong>Preliminary</strong> and
+      <strong>HSC</strong>. Pick yours and the whole page follows &mdash; the list on the left, the grid,
+      the search and the counts. The site remembers your choice next time.</p>
+    <p>You will still see useful evidence from the other course. It carries a dashed
+      <strong>HSC evidence</strong> or <strong>Preliminary evidence</strong> label so you know where it
+      really belongs. That is deliberate: a Crime case can be perfect for a Preliminary question.</p>
+
+    <h3><em>2</em>Three ways to find something</h3>
+    <ul>
+      <li><strong>Content</strong> &mdash; walk the syllabus: topic, then section, then dot point.</li>
+      <li><strong>Themes</strong> &mdash; the themes and challenges. Big essay questions are usually built
+        from these, so start here for a 25-marker.</li>
+      <li><strong>Kind</strong> &mdash; find all your cases, or all your Acts. It also lists the eight
+        criteria (enforceability, accessibility and so on), so you can pull up everything you have for
+        one of them at once.</li>
+    </ul>
+    <p>Or just type in the search box. It searches titles, citations and summaries at the same time.</p>
+
+    <h3><em>3</em>Reading a card</h3>
+    <p>The <strong>stripe down the left is the topic</strong>. The <strong>icon at the top is the form of
+      evidence</strong> &mdash; case, Act, report, media, international instrument, document. Underneath
+      are the dot points it covers, coloured to match their topic.</p>
+    <p>A <strong>solid</strong> dot point chip means the evidence is <em>about</em> that point. A
+      <strong>faint</strong> one means it is useful there but is really about something else. Click any
+      chip to jump to everything else on that point.</p>
+
+    <h3><em>4</em>The grid: what you have and what you don&rsquo;t</h3>
+    <p>One square per dot point. Darker means more evidence. A dashed square with a <strong>0</strong>
+      means nothing is written up yet, and a dotted square means there are documents filed but nobody has
+      written them up. Click a square to jump straight to that dot point.</p>
+
+    <h3><em>5</em>Your list: the sheet and the map</h3>
+    <p>Tick the box on any card. A bar appears at the bottom with what you have chosen, and two ways to
+      take it away:</p>
+    <ul>
+      <li><strong>Evidence sheet</strong> &mdash; one entry per piece: title, citation, the one-line
+        significance and its tags. Good for revision.</li>
+      <li><strong>Evidence map</strong> &mdash; the same evidence <em>sorted by dot point</em>, and within
+        each dot point grouped by form of evidence. Good for checking a topic is covered, or for planning
+        an answer. It lists each piece under the dot points it is <em>about</em>; press
+        <strong>+ supporting points</strong> to list it under the points it merely supports as well.
+        <strong>Copy map</strong> puts the same thing on your clipboard as plain text.</li>
+    </ul>
+    <p>Both open your browser&rsquo;s print box, so you can print on paper or save as a PDF.</p>
+
+    <h3><em>6</em>A worked example</h3>
+    <p><em>&ldquo;Evaluate the effectiveness of the legal system in addressing issues relating to care and
+      protection of children.&rdquo;</em> (HSC 2020, Family, Q27(a))</p>
+    <ul>
+      <li>Set the course to <strong>HSC</strong>, open <strong>Content</strong>, choose <strong>Family</strong>
+        &rarr; <em>Contemporary issues</em> &rarr; <strong>Care and protection of children</strong>.</li>
+      <li>Tick two or three cases, plus an Act and a report &mdash; the card colours make the mix easy to
+        see, and a good answer needs more than cases.</li>
+      <li>The question says <em>evaluate</em>, so open <strong>Kind</strong> and add something from
+        <em>effectiveness</em> criteria such as <strong>enforceability</strong> or
+        <strong>accessibility</strong>.</li>
+      <li>Press <strong>Evidence map</strong>. You now have your evidence grouped under the dot point,
+        with the citations already written out &mdash; that is your paragraph plan.</li>
+    </ul>
+
+    <h3><em>7</em>Starting over</h3>
+    <p><strong>Start again</strong> (top right, or beside the search box) clears everything &mdash; the
+      course, the filters, the search and anything you have ticked &mdash; and brings you back to this
+      start page. If you clear a list by accident, press <strong>Undo</strong> in the message that
+      appears.</p>
+
+    <h3><em>8</em>Where the evidence comes from</h3>
+    <p>New material is dropped into the <strong>inbox</strong> folder in the shared Evidence Finder drive,
+      then filed, tagged and published from there. Ask your teacher if you have something to add.</p>
   </div>
 </dialog>
+
+<div class="toast" id="toast" role="status" aria-live="polite">
+  <span id="toastMsg"></span>
+  <button id="toastUndo">Undo</button>
+</div>
+
+<div class="tour" id="tour" role="dialog" aria-label="Quick tour">
+  <div class="tour-ring" id="tourRing"></div>
+  <div class="tour-card" id="tourCard">
+    <h3 id="tourTitle"></h3>
+    <p id="tourBody"></p>
+    <div class="tour-foot">
+      <span class="tour-n" id="tourN"></span>
+      <button class="tour-skip" id="tourSkip">Skip</button>
+      <button class="btn" id="tourNext">Next</button>
+    </div>
+  </div>
+</div>
 
 <script>const DATA = __DATA__;</script>
 <script>
@@ -651,6 +782,7 @@ let state = {
   sel: {kind: "all", id: null},
   q: "",
   sort: "date",
+  mapSup: false,                    // does the evidence map include supporting dot points?
   ticks: new Set((ls.get("hsc-ls-ev-ticks") || "").split(",").filter(Boolean))
 };
 
@@ -817,11 +949,36 @@ function themeChips(ids){
   }).join("");
 }
 
+/* Which topics a piece of evidence belongs to: what it is *about* (its core tags)
+   if it has any, otherwise where it is merely useful. Drives the stripe down the
+   left edge and the topic labels beside the form of evidence. */
+function topicsOf(it){
+  const pick = ids => {
+    const out = [];
+    ids.forEach(t => { const i = TAG[t]; if (i && i.topic && out.indexOf(i.topic) < 0) out.push(i.topic); });
+    return out;
+  };
+  const core = pick(it.core);
+  return core.length ? core : pick(it.support.concat(it.themes));
+}
+
+/* One topic paints the edge flat; several split it into equal bands, so a piece of
+   evidence that serves Crime and Family says so before you read a word of it. */
+function edgeFor(it){
+  const cols = topicsOf(it).slice(0, 4).map(k => "var(--t" + T[k].slot + ")");
+  if (!cols.length) return "var(--ec)";
+  if (cols.length === 1) return cols[0];
+  const step = 100 / cols.length;
+  return "linear-gradient(180deg," + cols.map((c, i) =>
+    c + " " + (i * step).toFixed(2) + "% " + ((i + 1) * step).toFixed(2) + "%").join(",") + ")";
+}
+
 function card(it){
   const ty = DATA.types[it.type];
   const inh = inherited(it, state.sel);
   const qn = it.core.map(t => DATA.questions[t] || 0).reduce((a, b) => a + b, 0);
-  let h = '<article class="ev" style="--ec:var(--e-' + it.type + ')" id="ev-' + esc(it.id) + '">';
+  let h = '<article class="ev" style="--ec:var(--e-' + it.type + ');--edge:' + edgeFor(it) +
+          '" id="ev-' + esc(it.id) + '">';
   h += '<div class="ev-head">';
   h += '<button class="ev-tick" data-act="tick" data-id="' + esc(it.id) + '" aria-pressed="' +
        (state.ticks.has(it.id) ? "true" : "false") + '" title="Add to the evidence sheet">' +
@@ -829,6 +986,9 @@ function card(it){
   h += '<div class="ev-body">';
   h += '<span class="ev-type"><svg class="ic"><use href="#' + ty.icon + '"/></svg>' + esc(ty.label) +
        (inh ? " · tagged to the whole section" : "") + "</span>";
+  h += '<span class="ev-topics">' + topicsOf(it).map(k =>
+       '<i style="' + tvar(k) + '" title="' + esc(T[k].label) + '">' + esc(T[k].label) + "</i>").join("") +
+       "</span>";
   h += "<h3>" + esc(it.title) + "</h3>";
   if (it.cite) h += '<div class="cite">' + esc(it.cite) + (it.juris ? " · " + esc(it.juris) : "") + "</div>";
   h += '<p class="sig">' + esc(it.sig) + "</p>";
@@ -880,6 +1040,7 @@ function renderResults(){
   $("#welcome").hidden = !landing;
   $("#cov").hidden = !landing;
   $("#rhead").hidden = landing;
+  $("#cardkey").hidden = landing;
   if (landing){ $("#list").innerHTML = ""; $("#libwrap").innerHTML = ""; return; }
   $("#rtitle").textContent = titleFor(state.sel);
   $("#rcount").textContent = items.length + (items.length === 1 ? " piece" : " pieces") +
@@ -887,8 +1048,9 @@ function renderResults(){
   $("#list").innerHTML = items.length
     ? items.map(card).join("")
     : '<div class="panel empty"><svg class="ic"><use href="#g-alert"/></svg>' +
-      "<p>No evidence has been written up here yet.</p><p style=\"font-size:.85rem\">" +
-      "Anything in the library below is a candidate &mdash; or press <strong>Add evidence</strong>.</p></div>";
+      "<p>Nothing is written up here yet.</p><p style=\"font-size:.85rem\">" +
+      "If there are documents listed below, they are filed here but nobody has written them up &mdash; " +
+      "try a nearby dot point, or the section above this one.</p></div>";
 }
 
 /* -------------------------------------------------------------- library -- */
@@ -1029,6 +1191,84 @@ function renderSheet(){
   $("#selN").textContent = chosen.length;
   $("#selbar").classList.toggle("on", chosen.length > 0);
   ls.set("hsc-ls-ev-ticks", [...state.ticks].join(","));
+  renderMap(chosen);
+}
+
+/* ------------------------------------------------------------------ map -- */
+/* The evidence map: the same ticked evidence, but turned inside out. The sheet is
+   a list of pieces; the map is a list of *dot points*, each carrying the evidence
+   filed against it, grouped by form. It is how an answer gets planned, and how a
+   gap in a topic becomes obvious. A piece that supports a point appears there too,
+   marked, because that is exactly what "supporting" is for. */
+const TYPE_ORDER = ["legislation", "case", "international", "report", "media", "document"];
+
+function mapRows(chosen){
+  const rows = [];
+  TOPICS.forEach(t => t.sections.forEach(s => s.points.forEach(p => {
+    const hits = chosen.filter(i => i.core.indexOf(p.id) >= 0 ||
+      (state.mapSup && i.support.indexOf(p.id) >= 0));
+    if (!hits.length) return;
+    const groups = TYPE_ORDER.map(ty => ({
+      type: ty,
+      items: hits.filter(i => i.type === ty).sort((a, b) => a.title.localeCompare(b.title))
+    })).filter(g => g.items.length);
+    rows.push({topic: t, section: s, point: p, groups: groups, n: hits.length});
+  })));
+  return rows;
+}
+
+function renderMap(chosen){
+  const rows = mapRows(chosen);
+  if (!chosen.length){ $("#map").innerHTML = ""; return; }
+  let h = '<div class="map-h"><h2>Evidence map</h2><div style="font-size:9pt">' +
+    chosen.length + (chosen.length === 1 ? " piece" : " pieces") + " across " + rows.length +
+    (rows.length === 1 ? " dot point" : " dot points") +
+    (state.mapSup ? " (including supporting points)" : "") +
+    " · Legal Studies Stage 6 · built " + esc(DATA.meta.built) + "</div></div>";
+  let topic = null, section = null;
+  rows.forEach(r => {
+    if (r.topic.k !== topic){ h += '<h3 class="map-topic">' + esc(r.topic.label) + "</h3>"; topic = r.topic.k; section = null; }
+    if (r.section.id !== section){ h += '<div class="map-sec">' + esc(r.section.label) + "</div>"; section = r.section.id; }
+    h += '<div class="map-pt"><h4>' + esc(r.point.label) +
+         ' <span class="code">' + esc(r.point.id) + "</span></h4>";
+    r.groups.forEach(g => {
+      h += '<div class="map-type">' + esc(DATA.types[g.type].label) + "</div>";
+      g.items.forEach(i => {
+        const sup = i.core.indexOf(r.point.id) < 0;
+        h += '<div class="map-i"><strong>' + esc(i.short || i.title) + "</strong>" +
+             (i.cite ? ' <span class="cite">' + esc(i.cite) + "</span>" : "") +
+             (sup ? ' <span class="sup">(supporting)</span>' : "") +
+             '<div class="sig">' + esc(i.sig) + "</div></div>";
+      });
+    });
+    h += "</div>";
+  });
+  $("#map").innerHTML = h;
+}
+
+/* The same map as plain text, for pasting into notes, a document or an email. */
+function mapText(){
+  const chosen = ITEMS.filter(i => state.ticks.has(i.id));
+  const rows = mapRows(chosen);
+  const out = ["EVIDENCE MAP — " + chosen.length + " pieces across " + rows.length + " dot points" +
+               (state.mapSup ? ", including supporting points" : "") +
+               " (Legal Studies Stage 6, built " + DATA.meta.built + ")", ""];
+  let topic = null, section = null;
+  rows.forEach(r => {
+    if (r.topic.k !== topic){ out.push("", r.topic.label.toUpperCase(), ""); topic = r.topic.k; section = null; }
+    if (r.section.id !== section){ out.push(r.section.label); section = r.section.id; }
+    out.push("  " + r.point.label + "  [" + r.point.id + "]");
+    r.groups.forEach(g => {
+      out.push("    " + DATA.types[g.type].label);
+      g.items.forEach(i => {
+        const sup = i.core.indexOf(r.point.id) < 0 ? " (supporting)" : "";
+        out.push("      - " + (i.short || i.title) + (i.cite ? " " + i.cite : "") + sup);
+        out.push("        " + i.sig);
+      });
+    });
+    out.push("");
+  });
+  return out.join("\n");
 }
 
 /* --------------------------------------------------------------- render -- */
@@ -1062,7 +1302,7 @@ document.addEventListener("click", e => {
   if (!a) return;
   const act = a.dataset.act, id = a.dataset.id;
   if (act === "guide"){ e.preventDefault(); openGuide(); return; }
-  if (act === "home"){ state.crumb = []; state.sel = {kind: "all", id: null}; render(); return; }
+  if (act === "home"){ resetAll(); return; }
   if (act === "tick"){
     state.ticks.has(id) ? state.ticks.delete(id) : state.ticks.add(id);
     a.setAttribute("aria-pressed", state.ticks.has(id) ? "true" : "false");
@@ -1093,8 +1333,50 @@ document.querySelectorAll(".tabs button").forEach(b => b.addEventListener("click
   renderTree();
 }));
 
-$("#homeBtn").addEventListener("click", () => {
-  state.crumb = []; state.sel = {kind: "all", id: null}; state.q = ""; $("#q").value = "";
+/* ----------------------------------------------------------- start again -- */
+/* One button, one meaning: everything goes back to how the page opens for the
+   first time — course, tab, trail, search, sort and anything ticked. Clearing a
+   half-built list by accident would be the one unforgivable part of that, so the
+   ticks come back with Undo. */
+let undoTicks = null, toastTimer = null;
+
+function showToast(msg, undoable){
+  $("#toastMsg").textContent = msg;
+  $("#toastUndo").hidden = !undoable;
+  $("#toast").classList.add("on");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => $("#toast").classList.remove("on"), 9000);
+}
+
+function resetAll(){
+  const had = [...state.ticks];
+  state.tab = "content";
+  state.crumb = [];
+  state.sel = {kind: "all", id: null};
+  state.q = ""; $("#q").value = "";
+  state.sort = "date";
+  $("#sortBtn span").textContent = "Newest first";
+  $("#sortBtn svg use").setAttribute("href", "#g-clock");
+  state.course = "all"; ls.set("hsc-ls-ev-course", "all");
+  state.ticks.clear();
+  syncTabs(); syncCourse(); renderCoverage(); render();
+  window.scrollTo({top: 0, behavior: "smooth"});
+  if (had.length){
+    undoTicks = had;
+    showToast("Cleared everything, including " + had.length +
+      (had.length === 1 ? " ticked piece" : " ticked pieces") + ".", true);
+  } else {
+    undoTicks = null;
+    showToast("Back to the start.", false);
+  }
+}
+
+$("#homeBtn").addEventListener("click", resetAll);
+$("#startBtn").addEventListener("click", resetAll);
+$("#toastUndo").addEventListener("click", () => {
+  if (undoTicks) undoTicks.forEach(id => state.ticks.add(id));
+  undoTicks = null;
+  $("#toast").classList.remove("on");
   render();
 });
 
@@ -1147,8 +1429,49 @@ $("#sortBtn").addEventListener("click", () => {
   renderResults();
 });
 
-$("#clearSel").addEventListener("click", () => { state.ticks.clear(); render(); });
-$("#printSel").addEventListener("click", () => window.print());
+$("#clearSel").addEventListener("click", () => {
+  const had = [...state.ticks];
+  state.ticks.clear();
+  render();
+  if (had.length){
+    undoTicks = had;
+    showToast("Cleared " + had.length + (had.length === 1 ? " ticked piece" : " ticked pieces") + ".", true);
+  }
+});
+$("#printSel").addEventListener("click", () => { document.body.classList.remove("print-map"); window.print(); });
+$("#printMap").addEventListener("click", () => { document.body.classList.add("print-map"); window.print(); });
+window.addEventListener("afterprint", () => document.body.classList.remove("print-map"));
+
+$("#supToggle").addEventListener("click", () => {
+  state.mapSup = !state.mapSup;
+  $("#supToggle").setAttribute("aria-pressed", state.mapSup ? "true" : "false");
+  renderMap(ITEMS.filter(i => state.ticks.has(i.id)));
+});
+
+$("#copyMap").addEventListener("click", async () => {
+  const label = $("#copyMap span");
+  const text = mapText();
+  try {
+    await navigator.clipboard.writeText(text);
+    label.textContent = "Copied";
+  } catch (e) {
+    /* clipboard refused (an insecure page, or permission denied) — put the text on
+       screen and select it, so the keyboard still works */
+    const pre = document.createElement("pre");
+    pre.id = "maptext";
+    pre.style.cssText = "white-space:pre-wrap;font:12px/1.5 var(--mono);background:var(--surface-2);" +
+      "border:1px solid var(--line);border-radius:12px;padding:14px;margin:12px 0;max-height:50vh;overflow:auto";
+    pre.textContent = text;
+    const old = document.getElementById("maptext");
+    if (old) old.remove();
+    $("#selbar").insertAdjacentElement("beforebegin", pre);
+    const r = document.createRange();
+    r.selectNodeContents(pre);
+    const s = getSelection(); s.removeAllRanges(); s.addRange(r);
+    label.textContent = "Selected — press ⌘C";
+  }
+  setTimeout(() => { label.textContent = "Copy map"; }, 2400);
+});
 
 document.addEventListener("keydown", e => {
   if (e.key === "/" && !/^(INPUT|TEXTAREA)$/.test(document.activeElement.tagName)){
@@ -1171,12 +1494,76 @@ $("#guideClose").addEventListener("click", () => guide.close());
 guide.addEventListener("click", e => { if (e.target === guide) guide.close(); });
 if (!ls.get("hsc-ls-ev-seen-guide")) $("#helpBtn").classList.add("nudge");
 
+/* ----------------------------------------------------------------- tour -- */
+/* Four steps, once, pointing at the four things a new student has to find: the
+   course switch, the three ways in, the grid, and the way back. It can be run
+   again from the guide, and it never appears on a phone-sized screen, where the
+   rail and the grid are not where the ring would put them. */
+const TOUR = [
+  {el: "#courseswitch", title: "Start with your course",
+   body: "Year 11 press Preliminary, Year 12 press HSC. The whole page follows your choice, and it is remembered next time you visit."},
+  {el: ".picker", title: "Three ways to find evidence",
+   body: "Walk the syllabus under Content, work from the themes and challenges under Themes, or filter by form of evidence and the effectiveness criteria under Kind. Or just search."},
+  {el: "#cov", title: "See what you have — and what is missing",
+   body: "One square per dot point, darker where you have more. Click a square to jump to it. A dashed square means nothing is written up there yet."},
+  {el: "#startBtn", title: "Lost? Start again",
+   body: "This clears the course, the filters, the search and anything you have ticked, and brings you back to the start page. If you clear a list by accident, press Undo."}
+];
+let tourAt = 0;
+const tourEl = $("#tour");
+
+function placeTour(){
+  const step = TOUR[tourAt];
+  const target = document.querySelector(step.el);
+  if (!target){ endTour(); return; }
+  const r = target.getBoundingClientRect();
+  const pad = 8;
+  const ring = $("#tourRing");
+  ring.style.top = (r.top - pad) + "px";
+  ring.style.left = (r.left - pad) + "px";
+  ring.style.width = (r.width + pad * 2) + "px";
+  ring.style.height = (r.height + pad * 2) + "px";
+  $("#tourTitle").textContent = step.title;
+  $("#tourBody").textContent = step.body;
+  $("#tourN").textContent = (tourAt + 1) + " of " + TOUR.length;
+  $("#tourNext").textContent = tourAt === TOUR.length - 1 ? "Got it" : "Next";
+  const card = $("#tourCard");
+  const cw = Math.min(330, window.innerWidth - 32);
+  const below = r.bottom + 16 + 170 < window.innerHeight;
+  card.style.top = below ? (r.bottom + 14) + "px" : Math.max(14, r.top - 14 - card.offsetHeight) + "px";
+  card.style.left = Math.min(Math.max(14, r.left), window.innerWidth - cw - 14) + "px";
+}
+
+function startTour(){
+  if (window.innerWidth < 900) return;
+  tourAt = 0;
+  tourEl.classList.add("on");
+  placeTour();
+  requestAnimationFrame(placeTour);          // once the card has a height
+}
+function endTour(){
+  tourEl.classList.remove("on");
+  ls.set("hsc-ls-ev-tour", "1");
+}
+$("#tourNext").addEventListener("click", () => {
+  if (tourAt === TOUR.length - 1){ endTour(); return; }
+  tourAt++;
+  placeTour();
+});
+$("#tourSkip").addEventListener("click", endTour);
+$("#tourBtn").addEventListener("click", () => { guide.close(); setTimeout(startTour, 120); });
+window.addEventListener("resize", () => { if (tourEl.classList.contains("on")) placeTour(); });
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape" && tourEl.classList.contains("on")) endTour();
+});
+
 /* ----------------------------------------------------------------- boot -- */
 (function boot(){
   if (!DATA.courses[state.course]) state.course = "all";
   syncCourse();
   renderCoverage();
   render();
+  if (!ls.get("hsc-ls-ev-tour")) setTimeout(startTour, 700);
 })();
 </script>
 </body>

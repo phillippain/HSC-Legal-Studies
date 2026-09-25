@@ -5,9 +5,11 @@
  * Every check here is a promise the page makes to a student, not a detail of the
  * code: the landing view is the coverage grid, the tree walks and climbs, each of
  * the three ways in returns evidence, a summary renders as markup rather than as
- * markdown source, ticking builds a sheet, there is
- * no in-page composer (evidence arrives through the Drive inbox), and nothing
- * scrolls sideways on a phone.
+ * markdown source, ticking builds a sheet and an evidence map, Start again really
+ * does start again (and can be undone), colour says both what a piece is about and
+ * what form it takes, the first-visit tour appears and can be skipped, there is no
+ * in-page composer (evidence arrives through the Drive inbox), and nothing scrolls
+ * sideways on a phone.
  */
 import { chromium } from 'playwright';
 import { pathToFileURL } from 'node:url';
@@ -20,10 +22,15 @@ const POINTS = Number(process.argv[3] || 147);
 
 const fails = [];
 const ok = (c, m) => { if (!c) fails.push(m); };
-const browser = await chromium.launch();
+const browser = await chromium.launch({ executablePath: process.env.PW_CHROMIUM });
 
 for (const scheme of ['light', 'dark']) {
   const ctx = await browser.newContext({ colorScheme: scheme, viewport: { width: 1280, height: 900 } });
+  /* The tour is a first-visit thing and would sit over everything else; it gets a
+     context of its own at the end. */
+  await ctx.addInitScript(() => {
+    try { localStorage.setItem('hsc-ls-ev-tour', '1'); } catch (e) {}
+  });
   const page = await ctx.newPage();
   const errs = [];
   page.on('pageerror', e => errs.push(scheme + ': ' + e.message));
@@ -72,6 +79,36 @@ for (const scheme of ['light', 'dark']) {
   ok(await page.locator('#selbar').isVisible(), scheme + ': the selection bar did not appear');
   ok((await page.locator('#selN').textContent()) === '2', scheme + ': selection count wrong');
   ok((await page.locator('#sheet .sheet-i').count()) === 2, scheme + ': the sheet did not build');
+
+  /* --------------------------------------------------- colour says two things */
+  const edge = await page.locator('#list .ev').first().evaluate(
+    el => getComputedStyle(el).getPropertyValue('--edge').trim());
+  ok(edge.length > 0, scheme + ': a card carries no topic colour on its edge');
+  ok((await page.locator('#list .ev-topics i').count()) > 0,
+     scheme + ': cards do not name the topic they belong to');
+  ok(await page.locator('#cardkey').isVisible(), scheme + ': the colour key is missing from results');
+
+  /* ------------------------------------------------------- the evidence map */
+  ok((await page.locator('#map .map-pt').count()) > 0, scheme + ': the evidence map has no dot points');
+  ok((await page.locator('#map .map-pt .map-type').count()) > 0,
+     scheme + ': the map does not group by form of evidence');
+  const mt = await page.evaluate(() => mapText());
+  ok(/^EVIDENCE MAP/.test(mt) && mt.split('\n').length > 6, scheme + ': the copyable map is empty');
+
+  /* ----------------------------------------- start again, and undoing it */
+  await page.locator('#courseswitch button[data-course="hsc"]').click();
+  await page.locator('#q').fill('coercive');
+  await page.waitForTimeout(120);
+  await page.locator('#startBtn').click();
+  await page.waitForTimeout(150);
+  ok(await page.locator('#cov').isVisible(), scheme + ': Start again did not return to the landing view');
+  ok((await page.locator('#courseswitch button[aria-checked="true"]').getAttribute('data-course')) === 'all',
+     scheme + ': Start again left the course scoped');
+  ok((await page.locator('#q').inputValue()) === '', scheme + ': Start again left the search box filled');
+  ok((await page.locator('#selbar').isVisible()) === false, scheme + ': ticked evidence survived Start again');
+  await page.locator('#toastUndo').click();
+  await page.waitForTimeout(120);
+  ok((await page.locator('#selN').textContent()) === '2', scheme + ': Undo did not bring the ticked evidence back');
 
   ok((await page.locator('#addBtn, #compose').count()) === 0,
      scheme + ': the retired Add evidence composer is back on the page');
@@ -133,6 +170,24 @@ for (const scheme of ['light', 'dark']) {
   ok((await page.evaluate(() => getComputedStyle(document.body).backgroundColor)) !== 'rgba(0, 0, 0, 0)',
      scheme + ': body has no background');
 
+  await ctx.close();
+}
+
+/* --------------------------------------------------- the first-visit tour -- */
+{
+  const ctx = await browser.newContext({ viewport: { width: 1280, height: 900 } });
+  const page = await ctx.newPage();
+  await page.goto(FILE, { waitUntil: 'load' });
+  await page.waitForTimeout(1100);
+  ok(await page.locator('#tour').isVisible(), 'the tour did not appear on a first visit');
+  ok((await page.locator('#tourTitle').textContent()).length > 0, 'the tour has no first step');
+  await page.locator('#tourNext').click();
+  ok(/2 of/.test(await page.locator('#tourN').textContent()), 'the tour did not advance');
+  await page.locator('#tourSkip').click();
+  ok((await page.locator('#tour').isVisible()) === false, 'the tour could not be skipped');
+  await page.reload({ waitUntil: 'load' });
+  await page.waitForTimeout(1100);
+  ok((await page.locator('#tour').isVisible()) === false, 'the tour came back after being skipped');
   await ctx.close();
 }
 await browser.close();

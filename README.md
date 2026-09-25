@@ -118,12 +118,38 @@ never end up looking at an empty list under the other course's heading.
 dashed where you hold nothing. It is the fastest way to see what a topic is missing before an
 assessment.
 
-**Ticking builds an evidence sheet**, printed as title, citation, the one-line significance and the
-syllabus tags — the same selection mechanism as the question finder's worksheet builder.
+**Colour carries two different facts at once.** The stripe down the left edge of a card is the
+**topic** the evidence belongs to — split into equal bands when one piece is about more than one, so
+a case that serves Crime and Family says so before a word is read — and the icon and label at the top
+are the **form of evidence**. The topic name is repeated as a small chip beside the form, and every
+dot-point chip is tinted to its own topic. A one-line key above the results says so in plain words.
 
-**Adding evidence.** Press **Add evidence** in the masthead: whatever is selected becomes the core
-tag, and the dialog emits the whole file, ready to save at the path it names. Or copy the nearest
-existing file by hand. Then rebuild.
+**Ticking builds two outputs**, both from the same selection:
+
+- the **evidence sheet** — one entry per piece: title, citation, the one-line significance and tags;
+- the **evidence map** — the selection turned inside out, listed by **topic → section → dot point**,
+  and inside each dot point grouped by **form of evidence**. It lists each piece under the points it
+  is *about*; **+ supporting points** adds the points it merely supports, marked as such. That is the
+  difference between a revision list and a paragraph plan. **Copy map** puts the same thing on the
+  clipboard as plain text.
+
+Both print through the browser's own print box, so either goes to paper or to a PDF. The map is
+driven by `body.print-map`, which swaps `#sheet` for `#map` at print time.
+
+**Start again** (masthead, and beside the search box) resets everything to how the page opens for the
+first time: course, tab, trail, search, sort and every tick. Clearing a half-built selection by
+accident is the one thing that would really cost a student, so the ticks come back from the
+**Undo** in the message that follows.
+
+**The help is written for a student, not for the build.** The guide covers the course switch, the
+three ways in, how to read a card, the grid, the sheet and the map, and ends with a worked example
+against a real past question (HSC 2020 Family Q27(a)). A four-step **tour** rings the course switch,
+the pickers, the grid and Start again on a first visit — once, never on a phone-sized screen, and
+replayable from the guide. Short one-line hints sit beside the grid, the results and the welcome
+panel rather than only inside the guide.
+
+**Adding evidence** is not done on the page: material is dropped into the Drive inbox and filed from
+there (see the section above).
 
 ### The library
 
