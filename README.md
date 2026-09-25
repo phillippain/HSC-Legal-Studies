@@ -127,7 +127,7 @@ so in plain words.
 
 **Tags sit in labelled rows**, because the four kinds make different claims and shading alone did not
 say which: **About** (the dot points the evidence is about), **Also useful for** (where it helps,
-though it is really about something else), **Themes**, and **Criteria**. A label that appears in two
+though it is really about something else), **Themes and challenges**, and **Effectiveness criteria**. A label that appears in two
 topics — "The role of non-government organisations" is a dot point in both Family and Human Rights —
 is qualified by its topic, the same rule the theme chips already used.
 

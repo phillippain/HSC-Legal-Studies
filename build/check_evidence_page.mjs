@@ -90,7 +90,8 @@ for (const scheme of ['light', 'dark']) {
   const labels = await page.locator('#list .ev').first().locator('.chiplab').allTextContents();
   ok(labels.length >= 2 && labels[0] === 'About',
      scheme + ': a card does not label what its tags claim (' + labels.join('/') + ')');
-  ok(labels.every(l => ['About', 'Also useful for', 'Themes', 'Criteria'].indexOf(l) >= 0),
+  ok(labels.every(l => ['About', 'Also useful for', 'Themes and challenges',
+                        'Effectiveness criteria'].indexOf(l) >= 0),
      scheme + ': an unexpected tag-row label: ' + labels.join('/'));
 
   /* ------------------------------------------------------- the evidence map */
