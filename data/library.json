@@ -3879,6 +3879,23 @@
    "primary": true
   },
   {
+   "path": "Cases/BOCSAR/BOCSAR Coercive Control Monitoring June 2026 - Summary.pdf",
+   "name": "BOCSAR Coercive Control Monitoring June 2026 - Summary",
+   "file": "BOCSAR Coercive Control Monitoring June 2026 - Summary.pdf",
+   "ext": "pdf",
+   "bytes": 318165,
+   "mtime": 1790299038,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime",
+    "fam.2.4"
+   ],
+   "dupe": "bocsarcoercivecontrolmonitoringjune2026summary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/BOCSAR/BOCSAR June 2026 Custody Trends.pdf",
    "name": "BOCSAR June 2026 Custody Trends",
    "file": "BOCSAR June 2026 Custody Trends.pdf",
@@ -4904,6 +4921,22 @@
     "hr.3.1"
    ],
    "dupe": "fhstcitizenshipadminlawsummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/Goldman v Inner West Council [2026] NSWCATAD 288.pdf",
+   "name": "Goldman v Inner West Council [2026] NSWCATAD 288",
+   "file": "Goldman v Inner West Council [2026] NSWCATAD 288.pdf",
+   "ext": "pdf",
+   "bytes": 325802,
+   "mtime": 1790311162,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "humanrights"
+   ],
+   "dupe": "goldmanvinnerwestcouncil2026nswcatad288",
    "copyOf": null,
    "primary": true
   },
