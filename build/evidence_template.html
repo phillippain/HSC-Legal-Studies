@@ -249,8 +249,8 @@ a.pill:hover .ic{color:var(--accent)}
 /* Two colours do two jobs. The stripe down the left edge is the TOPIC the evidence
    belongs to — split into bands when one piece serves more than one topic — and the
    icon and label at the top are the FORM of evidence. */
-.ev::before{content:""; position:absolute; inset:0 auto 0 0; width:6px; background:var(--edge,var(--ec))}
-.ev-head{display:flex; gap:12px; align-items:flex-start; padding:15px 17px 13px 22px}
+.ev::before{content:""; position:absolute; inset:0 auto 0 0; width:11px; background:var(--edge,var(--ec))}
+.ev-head{display:flex; gap:12px; align-items:flex-start; padding:15px 17px 13px 27px}
 .ev-topics{display:inline-flex; flex-wrap:wrap; gap:5px; margin-left:8px; vertical-align:2px}
 .ev-topics i{font-style:normal; color:var(--tc); background:var(--tcb); border-radius:var(--r-pill);
   padding:1px 8px; font-size:.64rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase}
@@ -266,6 +266,19 @@ a.pill:hover .ic{color:var(--accent)}
 .ev .cite{font-family:var(--mono); font-size:.74rem; color:var(--ink-3)}
 .ev .sig{margin:8px 0 0; font-size:.93rem; color:var(--ink-2); line-height:1.5}
 .chips{display:flex; flex-wrap:wrap; gap:5px; margin-top:11px}
+/* Four kinds of tag sit on a card and they are not the same claim: what the
+   evidence is about, where it is merely useful, the themes it carries, and the
+   criteria it can be judged against. Shading alone did not say that, so each run
+   of chips is labelled. */
+.chiprows{display:flex; flex-direction:column; gap:7px; margin-top:12px}
+.chiprow{display:grid; grid-template-columns:104px minmax(0,1fr); gap:10px; align-items:start}
+.chiplab{font-size:.63rem; font-weight:700; letter-spacing:.09em; text-transform:uppercase;
+  color:var(--ink-3); padding-top:4px; text-align:right}
+.chiprow .chips{margin-top:0}
+@media (max-width:700px){
+  .chiprow{grid-template-columns:1fr; gap:2px}
+  .chiplab{text-align:left; padding-top:2px}
+}
 .chip{display:inline-flex; align-items:center; gap:5px; border-radius:var(--r-pill); padding:2px 9px;
   font-size:.71rem; font-weight:600; border:1px solid transparent; cursor:pointer; background:var(--surface-2);
   color:var(--ink-2); transition:.12s}
@@ -276,10 +289,10 @@ a.pill:hover .ic{color:var(--accent)}
 .chip.crit{background:none; border-style:dashed; border-color:var(--line); color:var(--ink-3)}
 .chip .ic{font-size:.85rem}
 .ev-more{border:0; background:none; cursor:pointer; color:var(--accent); font-size:.79rem; font-weight:600;
-  padding:8px 17px 13px 20px; display:inline-flex; align-items:center; gap:6px}
+  padding:8px 17px 13px 27px; display:inline-flex; align-items:center; gap:6px}
 .ev-more .ic{transition:.2s}
 .ev-more[aria-expanded="true"] .ic{rotate:90deg}
-.ev-full{display:none; padding:2px 20px 18px; border-top:1px solid var(--line-soft); margin:0 0 0 0}
+.ev-full{display:none; padding:2px 22px 18px 27px; border-top:1px solid var(--line-soft); margin:0 0 0 0}
 .ev-full.open{display:block}
 .ev-full h3{font-family:var(--display); font-size:.98rem; margin:16px 0 6px}
 .ev-full h4{font-size:.88rem; margin:13px 0 5px; color:var(--ink-2)}
@@ -607,8 +620,10 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
       <span class="keyline"><span class="bar"></span></span>
       The <strong>stripe down the left of a card is the topic</strong> it belongs to (two bands means it
       serves two topics). The <strong>icon and label at the top are the form of evidence</strong> &mdash;
-      case, Act, report, media, international instrument or document. <strong>Tick the box</strong> on any
-      card to add it to your list.</span></p>
+      case, Act, report, media, international instrument or document. Tags are labelled by what they
+      claim: <strong>About</strong> (the dot points it is about), <strong>Also useful for</strong>,
+      <strong>Themes</strong> and <strong>Criteria</strong>. Every tag is clickable, and
+      <strong>ticking the box</strong> adds the card to your list.</span></p>
     <div id="list"></div>
     <div id="libwrap"></div>
 
@@ -659,11 +674,18 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
 
     <h3><em>3</em>Reading a card</h3>
     <p>The <strong>stripe down the left is the topic</strong>. The <strong>icon at the top is the form of
-      evidence</strong> &mdash; case, Act, report, media, international instrument, document. Underneath
-      are the dot points it covers, coloured to match their topic.</p>
-    <p>A <strong>solid</strong> dot point chip means the evidence is <em>about</em> that point. A
-      <strong>faint</strong> one means it is useful there but is really about something else. Click any
-      chip to jump to everything else on that point.</p>
+      evidence</strong> &mdash; case, Act, report, media, international instrument, document.</p>
+    <p>Underneath, the tags are in labelled rows, because they do not all make the same claim:</p>
+    <ul>
+      <li><strong>About</strong> &mdash; the dot points this evidence is <em>about</em>. Lead with these.</li>
+      <li><strong>Also useful for</strong> &mdash; dot points where it helps, though it is really about
+        something else. Worth a sentence, not a paragraph.</li>
+      <li><strong>Themes</strong> &mdash; the themes and challenges it carries, which is how the big essay
+        questions are built.</li>
+      <li><strong>Criteria</strong> &mdash; the syllabus criteria for evaluating effectiveness it speaks
+        to, such as enforceability or accessibility.</li>
+    </ul>
+    <p>Every tag is a button: click one to see everything else filed against it.</p>
 
     <h3><em>4</em>The grid: what you have and what you don&rsquo;t</h3>
     <p>One square per dot point. Darker means more evidence. A dashed square with a <strong>0</strong>
@@ -935,19 +957,21 @@ function chipFor(tag, cls, label){
     esc(T[info.topic].label + " · " + tag) + '">' + esc(label || info.label) + "</button>";
 }
 
-/* Several topics name the same theme — "Legal & non-legal effectiveness" belongs to
-   four of them. Two identical chips on one card read as a duplicate, so a repeated
-   label is qualified by its topic. */
-function themeChips(ids){
+/* Several topics name the same thing — "Legal & non-legal effectiveness" is a theme
+   in four of them, and "The role of non-government organisations" is a dot point in
+   two. Two identical chips on one card read as a duplicate, so a repeated label is
+   qualified by its topic. */
+function tagChips(ids, cls){
   const count = {};
   ids.forEach(t => { if (TAG[t]) count[TAG[t].label] = (count[TAG[t].label] || 0) + 1; });
   return ids.map(t => {
     const info = TAG[t];
     if (!info) return "";
     const label = count[info.label] > 1 ? T[info.topic].label + " · " + info.label : info.label;
-    return chipFor(t, "thm", label);
+    return chipFor(t, cls, label);
   }).join("");
 }
+const themeChips = ids => tagChips(ids, "thm");
 
 /* Which topics a piece of evidence belongs to: what it is *about* (its core tags)
    if it has any, otherwise where it is merely useful. Drives the stripe down the
@@ -992,20 +1016,32 @@ function card(it){
   h += "<h3>" + esc(it.title) + "</h3>";
   if (it.cite) h += '<div class="cite">' + esc(it.cite) + (it.juris ? " · " + esc(it.juris) : "") + "</div>";
   h += '<p class="sig">' + esc(it.sig) + "</p>";
-  h += '<div class="chips">';
   if (crossCourse(it)){
     const home = Object.keys(it.home).map(c => DATA.courses[c].label).join(" & ");
-    h += '<span class="chip xcourse" title="This is ' + esc(home) +
+    h += '<div class="chips"><span class="chip xcourse" title="This is ' + esc(home) +
          ' evidence. It is shown here because it is tagged to a ' +
          esc(DATA.courses[state.course].label) + ' content point as well.">' +
-         esc(home) + " evidence</span>";
+         esc(home) + " evidence</span></div>";
   }
-  h += it.core.map(t => chipFor(t, "core")).join("");
-  h += it.support.map(t => chipFor(t, "sup")).join("");
-  h += themeChips(it.themes);
-  h += it.criteria.map(c => '<button class="chip crit" data-act="criterion" data-id="' + esc(c) +
-       '"><svg class="ic"><use href="#g-target"/></svg>' + esc(DATA.criteria[c]) + "</button>").join("");
-  h += "</div></div></div>";
+  const rows = [];
+  if (it.core.length)
+    rows.push(["About", "The dot points this evidence is about",
+               tagChips(it.core, "core")]);
+  if (it.support.length)
+    rows.push(["Also useful for", "Dot points where it helps, though it is really about something else",
+               tagChips(it.support, "sup")]);
+  if (it.themes.length)
+    rows.push(["Themes", "The themes and challenges it carries — how the big essay questions are built",
+               themeChips(it.themes)]);
+  if (it.criteria.length)
+    rows.push(["Criteria", "The syllabus criteria for evaluating effectiveness that this evidence speaks to",
+               it.criteria.map(c => '<button class="chip crit" data-act="criterion" data-id="' + esc(c) +
+               '"><svg class="ic"><use href="#g-target"/></svg>' + esc(DATA.criteria[c]) +
+               "</button>").join("")]);
+  h += '<div class="chiprows">' + rows.map(r =>
+    '<div class="chiprow"><span class="chiplab" title="' + esc(r[1]) + '">' + esc(r[0]) + "</span>" +
+    '<div class="chips">' + r[2] + "</div></div>").join("") + "</div>";
+  h += "</div></div>";
   h += '<button class="ev-more" data-act="more" data-id="' + esc(it.id) + '" aria-expanded="false">' +
        '<svg class="ic"><use href="#g-chev"/></svg>Read the summary</button>';
   h += '<div class="ev-full" id="full-' + esc(it.id) + '">' + it.body;

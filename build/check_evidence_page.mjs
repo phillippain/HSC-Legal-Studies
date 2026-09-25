@@ -87,6 +87,11 @@ for (const scheme of ['light', 'dark']) {
   ok((await page.locator('#list .ev-topics i').count()) > 0,
      scheme + ': cards do not name the topic they belong to');
   ok(await page.locator('#cardkey').isVisible(), scheme + ': the colour key is missing from results');
+  const labels = await page.locator('#list .ev').first().locator('.chiplab').allTextContents();
+  ok(labels.length >= 2 && labels[0] === 'About',
+     scheme + ': a card does not label what its tags claim (' + labels.join('/') + ')');
+  ok(labels.every(l => ['About', 'Also useful for', 'Themes', 'Criteria'].indexOf(l) >= 0),
+     scheme + ': an unexpected tag-row label: ' + labels.join('/'));
 
   /* ------------------------------------------------------- the evidence map */
   ok((await page.locator('#map .map-pt').count()) > 0, scheme + ': the evidence map has no dot points');

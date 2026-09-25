@@ -118,11 +118,18 @@ never end up looking at an empty list under the other course's heading.
 dashed where you hold nothing. It is the fastest way to see what a topic is missing before an
 assessment.
 
-**Colour carries two different facts at once.** The stripe down the left edge of a card is the
-**topic** the evidence belongs to — split into equal bands when one piece is about more than one, so
-a case that serves Crime and Family says so before a word is read — and the icon and label at the top
-are the **form of evidence**. The topic name is repeated as a small chip beside the form, and every
-dot-point chip is tinted to its own topic. A one-line key above the results says so in plain words.
+**Colour carries two different facts at once.** The stripe down the left edge of a card (11px, hard
+to miss) is the **topic** the evidence belongs to — split into equal bands when one piece is about
+more than one, so a case that serves Crime and Family says so before a word is read — and the icon
+and label at the top are the **form of evidence**. The topic name is repeated as a small chip beside
+the form, and every dot-point chip is tinted to its own topic. A one-line key above the results says
+so in plain words.
+
+**Tags sit in labelled rows**, because the four kinds make different claims and shading alone did not
+say which: **About** (the dot points the evidence is about), **Also useful for** (where it helps,
+though it is really about something else), **Themes**, and **Criteria**. A label that appears in two
+topics — "The role of non-government organisations" is a dot point in both Family and Human Rights —
+is qualified by its topic, the same rule the theme chips already used.
 
 **Ticking builds two outputs**, both from the same selection:
 
