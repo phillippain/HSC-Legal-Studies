@@ -87,8 +87,9 @@ international instruments, reports and statistics, media, and documents and non-
 
 - **Content** walks course → topic → section → dot point. Choosing a dot point returns its own
   evidence plus anything filed against its whole section, marked as inherited.
-- **Themes** lists each topic's themes and challenges, which is how the 25-mark questions are built.
-- **Kind** filters by form of evidence, and by the eight **criteria for evaluating effectiveness**
+- **Themes & Challenges** lists each topic's themes and challenges, which is how the 25-mark questions
+  are built.
+- **Evidence Type** filters by form of evidence, and by the eight **criteria for evaluating effectiveness**
   the syllabus sets out in Law in practice — resource efficiency, accessibility, enforceability,
   responsiveness, protection of individual rights, meeting society's needs, the rule of law, and
   whether justice has been achieved. Those criteria cut across every topic in both courses, so this
@@ -143,10 +144,13 @@ is qualified by its topic, the same rule the theme chips already used.
 Both print through the browser's own print box, so either goes to paper or to a PDF. The map is
 driven by `body.print-map`, which swaps `#sheet` for `#map` at print time.
 
-**Start again** (masthead, and beside the search box) resets everything to how the page opens for the
-first time: course, tab, trail, search, sort and every tick. Clearing a half-built selection by
-accident is the one thing that would really cost a student, so the ticks come back from the
-**Undo** in the message that follows.
+**Two ways back, and they are different.** **Back**, beside the search box, climbs one rung —
+dot point → section → topic → everything — names its destination in its tooltip, and greys out at the
+top; it touches nothing else, so a ticked list survives it. **Start again**, in the masthead, resets
+everything to how the page opens for the first time: course, tab, trail, search, sort and every tick.
+Clearing a half-built selection by accident is the one thing that would really cost a student, so the
+ticks come back from the **Undo** in the message that follows. The breadcrumb's **All topics** is
+navigation too, not a reset.
 
 **The help is written for a student, not for the build.** The guide covers the course switch, the
 three ways in, how to read a card, the grid, the sheet and the map, and ends with a worked example

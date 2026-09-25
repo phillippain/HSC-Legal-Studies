@@ -163,12 +163,13 @@ a.pill:hover .ic{color:var(--accent)}
   display:flex; flex-direction:column; overflow:hidden; flex:1 1 auto; min-height:0; box-shadow:var(--sh-1)}
 @media (max-width:980px){ .picker{flex:none} .tree{max-height:46vh} }
 .tabs{display:flex; gap:3px; padding:7px; background:var(--surface-2); border-bottom:1px solid var(--line-soft)}
-.tabs button{flex:1; border:0; background:none; padding:9px 6px; cursor:pointer; border-radius:var(--r-sm);
-  font-size:.76rem; color:var(--ink-3); font-weight:600;
-  display:inline-flex; align-items:center; justify-content:center; gap:6px; transition:.14s}
+.tabs button{flex:1; min-width:0; border:0; background:none; padding:8px 5px; cursor:pointer;
+  border-radius:var(--r-sm); font-size:.74rem; color:var(--ink-3); font-weight:600; line-height:1.2;
+  display:inline-flex; flex-direction:column; align-items:center; justify-content:flex-start; gap:4px;
+  text-align:center; transition:.14s}
 .tabs button:hover{color:var(--ink-2); background:color-mix(in srgb, var(--surface) 70%, transparent)}
 .tabs button[aria-selected="true"]{color:var(--accent); background:var(--surface); box-shadow:var(--sh-1)}
-.tabs .ic{font-size:1.02rem}
+.tabs .ic{font-size:1.12rem}
 .searchwrap{padding:13px 13px 11px; display:flex; gap:8px}
 .sbox{flex:1; min-width:0; position:relative; display:flex; align-items:center}
 .sbox>.ic{position:absolute; left:11px; color:var(--ink-3); font-size:1.05rem; pointer-events:none}
@@ -184,7 +185,8 @@ a.pill:hover .ic{color:var(--accent)}
 .home{border:1.5px solid var(--line); background:var(--surface); border-radius:var(--r); cursor:pointer;
   padding:0 11px; font-size:.75rem; font-weight:600; color:var(--ink-2); white-space:nowrap;
   display:inline-flex; align-items:center; gap:6px; transition:.14s}
-.home:hover{border-color:var(--accent); color:var(--accent)}
+.home:hover:not(:disabled){border-color:var(--accent); color:var(--accent)}
+.home:disabled{opacity:.42; cursor:default}
 .tree{overflow-y:auto; padding:4px 8px 16px; flex:1; scrollbar-width:thin}
 .heading{margin:12px 0 4px; padding:0 8px; font-size:.67rem; letter-spacing:.11em; text-transform:uppercase;
   color:var(--ink-3); font-weight:700; display:flex; align-items:center; gap:7px}
@@ -209,6 +211,14 @@ a.pill:hover .ic{color:var(--accent)}
 .row[aria-current="true"] .n{background:var(--surface)}
 .row.gap .n{color:var(--warn); background:var(--warn-bg)}
 .row .ic.chev{font-size:.9rem; color:var(--ink-3)}
+/* The seven topics are the first choice anyone makes, so they are set larger than
+   the rows below them. */
+.row.big{padding:12px 11px; gap:12px}
+.row.big .lbl{font-size:1.04rem; font-weight:650; line-height:1.25}
+.row.big .sub{font-size:.72rem; margin-top:1px}
+.row.big>.ic:first-child{font-size:1.5rem}
+.row.big .n{font-size:.8rem; padding:2px 10px}
+.row.big .ic.chev{font-size:1rem}
 
 /* ============================================================== main ===== */
 .main{min-width:0; display:flex; flex-direction:column; gap:16px}
@@ -564,8 +574,8 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
     <div class="picker">
       <div class="tabs" role="tablist">
         <button role="tab" id="tab-content" aria-selected="true" data-tab="content"><svg class="ic"><use href="#g-grid"/></svg>Content</button>
-        <button role="tab" id="tab-themes" aria-selected="false" data-tab="themes"><svg class="ic"><use href="#g-bolt"/></svg>Themes</button>
-        <button role="tab" id="tab-kinds" aria-selected="false" data-tab="kinds"><svg class="ic"><use href="#g-layers"/></svg>Kind</button>
+        <button role="tab" id="tab-themes" aria-selected="false" data-tab="themes"><svg class="ic"><use href="#g-bolt"/></svg>Themes &amp; Challenges</button>
+        <button role="tab" id="tab-kinds" aria-selected="false" data-tab="kinds"><svg class="ic"><use href="#g-layers"/></svg>Evidence Type</button>
       </div>
       <div class="searchwrap">
         <label class="sbox">
@@ -574,7 +584,7 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
           <input id="q" type="search" placeholder="Search titles, citations, summaries" autocomplete="off">
           <span class="kbd">/</span>
         </label>
-        <button class="home" id="homeBtn" title="Clear everything and go back to the start page"><svg class="ic"><use href="#g-back"/></svg>Start&nbsp;again</button>
+        <button class="home" id="backBtn" title="Go back one step"><svg class="ic"><use href="#g-back"/></svg>Back</button>
       </div>
       <div class="tree" id="tree"></div>
     </div>
@@ -590,7 +600,7 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
         <div class="step"><b><i>2</i>Find your dot point</b><span>Click a topic in the list on the left, then a section, then a dot point. Or type a word in the search box. Or click any square on the grid below.</span></div>
         <div class="step"><b><i>3</i>Tick what you want to use</b><span>Ticking puts a piece of evidence in your list. When you are done, print it as a study sheet, or as an <strong>evidence map</strong> sorted by dot point.</span></div>
       </div>
-      <p class="tip"><svg class="ic"><use href="#g-help"/></svg><span>Stuck? Press <strong>How to use this site</strong> at the top for a short tour and a worked example of answering a real HSC question. Press <strong>Start again</strong> at any time to clear everything and come back here.</span></p>
+      <p class="tip"><svg class="ic"><use href="#g-help"/></svg><span>Stuck? Press <strong>How to use this site</strong> at the top for a short tour and a worked example of answering a real HSC question. <strong>Back</strong> beside the search box steps up one level at a time; <strong>Start again</strong> at the top clears everything and comes back here.</span></p>
     </section>
 
     <section class="panel" id="cov">
@@ -666,9 +676,9 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
     <h3><em>2</em>Three ways to find something</h3>
     <ul>
       <li><strong>Content</strong> &mdash; walk the syllabus: topic, then section, then dot point.</li>
-      <li><strong>Themes</strong> &mdash; the themes and challenges. Big essay questions are usually built
-        from these, so start here for a 25-marker.</li>
-      <li><strong>Kind</strong> &mdash; find all your cases, or all your Acts. It also lists the eight
+      <li><strong>Themes &amp; Challenges</strong> &mdash; big essay questions are usually built from
+        these, so start here for a 25-marker.</li>
+      <li><strong>Evidence Type</strong> &mdash; find all your cases, or all your Acts. It also lists the eight
         criteria (enforceability, accessibility and so on), so you can pull up everything you have for
         one of them at once.</li>
     </ul>
@@ -716,7 +726,7 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
         &rarr; <em>Contemporary issues</em> &rarr; <strong>Care and protection of children</strong>.</li>
       <li>Tick two or three cases, plus an Act and a report &mdash; the card colours make the mix easy to
         see, and a good answer needs more than cases.</li>
-      <li>The question says <em>evaluate</em>, so open <strong>Kind</strong> and add something from
+      <li>The question says <em>evaluate</em>, so open <strong>Evidence Type</strong> and add something from
         <em>effectiveness</em> criteria such as <strong>enforceability</strong> or
         <strong>accessibility</strong>.</li>
       <li>Press <strong>Evidence map</strong>. You now have your evidence grouped under the dot point,
@@ -724,10 +734,12 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
     </ul>
 
     <h3><em>7</em>Starting over</h3>
-    <p><strong>Start again</strong> (top right, or beside the search box) clears everything &mdash; the
-      course, the filters, the search and anything you have ticked &mdash; and brings you back to this
-      start page. If you clear a list by accident, press <strong>Undo</strong> in the message that
-      appears.</p>
+    <p><strong>Back</strong>, beside the search box, climbs one step at a time: dot point &rarr; section
+      &rarr; topic &rarr; everything. Hover it and it tells you where it is about to take you; it greys
+      out once you are back at the start.</p>
+    <p><strong>Start again</strong>, at the top right, is the bigger hammer: it clears everything &mdash;
+      the course, the filters, the search and anything you have ticked. If you clear a list by accident,
+      press <strong>Undo</strong> in the message that appears.</p>
 
     <h3><em>8</em>Where the evidence comes from</h3>
     <p>New material is dropped into the <strong>inbox</strong> folder in the shared Evidence Finder drive,
@@ -850,7 +862,8 @@ const ownCount = id => ITEMS.filter(i => inScope(i) && i.tags.includes(id)).leng
 
 /* ----------------------------------------------------------------- tree -- */
 function row(o){
-  return '<button class="row' + (o.gap ? " gap" : "") + '" style="' + (o.style || "") + '"' +
+  return '<button class="row' + (o.gap ? " gap" : "") + (o.big ? " big" : "") +
+    '" style="' + (o.style || "") + '"' +
     (o.current ? ' aria-current="true"' : "") + ' data-act="' + o.act + '" data-id="' + esc(o.id) + '">' +
     (o.dot ? '<span class="dot"></span>' : (o.icon ? '<svg class="ic" style="color:var(--tc)"><use href="#' + o.icon + '"/></svg>' : "")) +
     '<span class="lbl">' + esc(o.label) + (o.sub ? '<span class="sub">' + esc(o.sub) + "</span>" : "") + "</span>" +
@@ -869,7 +882,7 @@ function treeContent(){
       TOPICS.filter(t => t.course === ck).forEach(t => {
         const n = countOf("topic", t.k);
         h.push(row({act: "topic", id: t.k, label: t.label, sub: t.part, icon: t.icon,
-                    n: n, gap: !n, chev: true, style: tvar(t.k)}));
+                    n: n, gap: !n, chev: true, big: true, style: tvar(t.k)}));
       });
     });
     const lead = state.course === "all"
@@ -910,7 +923,7 @@ function treeContent(){
 }
 
 function trail(t, s){
-  let h = '<div class="trail"><button data-act="home" data-id="">All topics</button>';
+  let h = '<div class="trail"><button data-act="alltopics" data-id="">All topics</button>';
   h += "<span>›</span>";
   if (s) h += '<button data-act="topic" data-id="' + t.k + '">' + esc(t.label) + "</button><span>›</span>" +
               '<span class="now">' + esc(s.label) + "</span>";
@@ -1315,7 +1328,7 @@ function renderTree(){
                        : state.tab === "themes" ? treeThemes() : treeKinds();
 }
 function render(){
-  renderTree(); renderResults(); renderLibrary(); renderSheet();
+  renderTree(); renderResults(); renderLibrary(); renderSheet(); syncBack();
 }
 
 /* --------------------------------------------------------------- events -- */
@@ -1341,6 +1354,7 @@ document.addEventListener("click", e => {
   const act = a.dataset.act, id = a.dataset.id;
   if (act === "guide"){ e.preventDefault(); openGuide(); return; }
   if (act === "home"){ resetAll(); return; }
+  if (act === "alltopics"){ toTop(); return; }
   if (act === "tick"){
     state.ticks.has(id) ? state.ticks.delete(id) : state.ticks.add(id);
     a.setAttribute("aria-pressed", state.ticks.has(id) ? "true" : "false");
@@ -1409,8 +1423,42 @@ function resetAll(){
   }
 }
 
-$("#homeBtn").addEventListener("click", resetAll);
 $("#startBtn").addEventListener("click", resetAll);
+
+/* ------------------------------------------------------------------ back -- */
+/* Start again is a blunt instrument, and most of the time what a student wants is
+   simply to climb one rung: dot point → section → topic → everything. The button
+   beside the search does that, names where it is about to go, and greys out when
+   there is nowhere left to climb. */
+function toTop(){
+  state.crumb = [];
+  state.sel = {kind: "all", id: null};
+  render();
+}
+
+function backStep(){
+  const sel = state.sel;
+  if (sel.kind === "point" && TAG[sel.id]){
+    const sec = TAG[sel.id].section;
+    return {label: "Back to " + TAG[sec].label, run: () => select("section", sec)};
+  }
+  if (sel.kind === "section" && TAG[sel.id]){
+    const tk = TAG[sel.id].topic;
+    return {label: "Back to " + T[tk].label, run: () => select("topic", tk)};
+  }
+  if (["topic", "theme", "type", "criterion"].indexOf(sel.kind) >= 0)
+    return {label: "Back to all topics", run: toTop};
+  if (state.q)
+    return {label: "Clear the search", run: () => { state.q = ""; $("#q").value = ""; render(); }};
+  return null;
+}
+
+function syncBack(){
+  const b = backStep(), btn = $("#backBtn");
+  btn.disabled = !b;
+  btn.title = b ? b.label : "You are at the start already";
+}
+$("#backBtn").addEventListener("click", () => { const b = backStep(); if (b) b.run(); });
 $("#toastUndo").addEventListener("click", () => {
   if (undoTicks) undoTicks.forEach(id => state.ticks.add(id));
   undoTicks = null;
@@ -1541,7 +1589,7 @@ const TOUR = [
   {el: "#courseswitch", title: "Start with your course",
    body: "Year 11 press Preliminary, Year 12 press HSC. The whole page follows your choice, and it is remembered next time you visit."},
   {el: ".picker", title: "Three ways to find evidence",
-   body: "Walk the syllabus under Content, work from the themes and challenges under Themes, or filter by form of evidence and the effectiveness criteria under Kind. Or just search."},
+   body: "Walk the syllabus under Content, start from the themes under Themes & Challenges, or filter by form of evidence and the effectiveness criteria under Evidence Type. Or just search."},
   {el: "#cov", title: "See what you have — and what is missing",
    body: "One square per dot point, darker where you have more. Click a square to jump to it. A dashed square means nothing is written up there yet."},
   {el: "#startBtn", title: "Lost? Start again",

@@ -56,6 +56,10 @@ for (const scheme of ['light', 'dark']) {
   await page.locator('.trail button[data-act="topic"]').click();
   ok((await page.locator('button.row[data-id="crime.1"]').count()) === 1, scheme + ': the trail did not climb');
 
+  ok(/Themes & Challenges/.test(await page.locator('#tab-themes').textContent()),
+     scheme + ': the themes tab is not named for the syllabus');
+  ok(/Evidence Type/.test(await page.locator('#tab-kinds').textContent()),
+     scheme + ': the kinds tab is not named Evidence Type');
   await page.locator('#tab-themes').click();
   await page.locator('button.row[data-id="crime.t.discretion"]').click();
   ok((await page.locator('#list .ev').count()) > 0, scheme + ': no evidence for the discretion theme');
@@ -65,8 +69,28 @@ for (const scheme of ['light', 'dark']) {
 
   await page.locator('#q').fill('coercive control');
   ok((await page.locator('#list .ev').count()) > 0, scheme + ': search returned nothing');
-  await page.locator('#homeBtn').click();
-  ok(await page.locator('#cov').isVisible(), scheme + ': home did not return to the landing view');
+  await page.locator('#startBtn').click();
+  ok(await page.locator('#cov').isVisible(), scheme + ': Start again did not return to the landing view');
+
+  /* ------------------------------------------------ Back climbs one rung at a time */
+  await page.locator('.cell[data-act="point"][data-id="crime.4.8"]').click();
+  await page.waitForTimeout(120);
+  ok((await page.locator('#backBtn').isDisabled()) === false, scheme + ': Back is dead at a dot point');
+  await page.locator('#backBtn').click();
+  await page.waitForTimeout(120);
+  ok(/sentencing/i.test(await page.locator('#rtitle').textContent()),
+     scheme + ': Back from a dot point did not land on its section');
+  await page.locator('#backBtn').click();
+  await page.waitForTimeout(120);
+  ok((await page.locator('#rtitle').textContent()) === 'Crime',
+     scheme + ': Back from a section did not land on its topic');
+  await page.locator('#backBtn').click();
+  await page.waitForTimeout(120);
+  ok(await page.locator('#cov').isVisible(), scheme + ': Back from a topic did not land on the grid');
+  ok(await page.locator('#backBtn').isDisabled(), scheme + ': Back is still live at the start');
+  ok((await page.locator('#selbar').isVisible()) === false ||
+     (await page.locator('#selN').textContent()) !== '0',
+     scheme + ': Back disturbed the ticked list');
 
   await page.locator('.cell[data-act="point"][data-id="fam.2.4"]').click();
   await page.locator('.ev-more').first().click();
@@ -120,7 +144,7 @@ for (const scheme of ['light', 'dark']) {
      scheme + ': the retired Add evidence composer is back on the page');
 
   /* ---------------------------------------------- the documents behind a point */
-  await page.locator('#homeBtn').click();
+  await page.locator('#startBtn').click();
   await page.locator('.cell[data-act="point"][data-id="shel.3.1"]').click();
   await page.waitForTimeout(120);
   const libN = await page.locator('#libwrap .libf').count();
@@ -133,7 +157,7 @@ for (const scheme of ['light', 'dark']) {
      scheme + ': a library link is neither a local file nor a Drive link: ' + href);
 
   /* ------------------------------------------------------ the course switch */
-  await page.locator('#homeBtn').click();
+  await page.locator('#startBtn').click();
   await page.locator('#q').fill('');
   await page.waitForTimeout(120);
   ok((await page.locator('.covband').count()) === 2, scheme + ': expected a band per course on "Both"');
