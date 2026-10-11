@@ -4092,6 +4092,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Copeland and Masters [2025] ARTA 3315 - Case Summary.pdf",
+   "name": "Copeland and Masters [2025] ARTA 3315 - Case Summary",
+   "file": "Copeland and Masters [2025] ARTA 3315 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 512639,
+   "mtime": 1791753795,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "copelandandmasters2025arta3315casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Corella & Nagar [2026] FedCFamC2F 1037 - Case Summary.pdf",
    "name": "Corella & Nagar [2026] FedCFamC2F 1037 - Case Summary",
    "file": "Corella & Nagar [2026] FedCFamC2F 1037 - Case Summary.pdf",
@@ -5461,6 +5477,22 @@
     "humanrights"
    ],
    "dupe": "keylegalissuesinwertheimvhaddad",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/Kmart camera glasses - privacy and surveillance (HSC evidence summary 7Oct26).pdf",
+   "name": "Kmart camera glasses - privacy and surveillance (HSC evidence summary 7Oct26)",
+   "file": "Kmart camera glasses - privacy and surveillance (HSC evidence summary 7Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 699898,
+   "mtime": 1791357760,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "humanrights"
+   ],
+   "dupe": "kmartcameraglassesprivacyandsurveillancehscevidencesummary7oct26",
    "copyOf": null,
    "primary": true
   },
