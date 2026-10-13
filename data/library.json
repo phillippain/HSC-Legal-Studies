@@ -5122,6 +5122,56 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/R v Lodhi [2006] NSWSC 691 - Case Summary.pdf",
+   "name": "R v Lodhi [2006] NSWSC 691 - Case Summary",
+   "file": "R v Lodhi [2006] NSWSC 691 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 505281,
+   "mtime": 1791851071,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "rvlodhi2006nswsc691casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Skaf brothers - Rule of Law case note.pdf",
+   "name": "R v Skaf brothers - Rule of Law case note",
+   "file": "R v Skaf brothers - Rule of Law case note.pdf",
+   "ext": "pdf",
+   "bytes": 763412,
+   "mtime": 1791850163,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "rvskafbrothersruleoflawcasenote",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Skaf brothers - one-page case brief.pdf",
+   "name": "R v Skaf brothers - one-page case brief",
+   "file": "R v Skaf brothers - one-page case brief.pdf",
+   "ext": "pdf",
+   "bytes": 144807,
+   "mtime": 1791850189,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.9",
+    "crime.4.3",
+    "crime.4.5"
+   ],
+   "dupe": "rvskafbrothersonepagecasebrief",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/12LEG3 2026 HR SA Case Study Example.docx",
    "name": "12LEG3 2026 HR SA Case Study Example",
    "file": "12LEG3 2026 HR SA Case Study Example.docx",
