@@ -3578,6 +3578,22 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Remote NT women's safety report (Evidence summary 16Oct26).pdf",
+   "name": "Remote NT women's safety report (Evidence summary 16Oct26)",
+   "file": "Remote NT women's safety report (Evidence summary 16Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 34585,
+   "mtime": 1792102427,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "fam.2.4"
+   ],
+   "dupe": "remotentwomenssafetyreportevidencesummary16oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Surrogacy_crazy car salesman_Evidence_Summary_With_Paragraphs.pdf",
    "name": "Surrogacy crazy car salesman Evidence Summary With Paragraphs",
    "file": "Surrogacy_crazy car salesman_Evidence_Summary_With_Paragraphs.pdf",
@@ -3591,6 +3607,22 @@
     "fam.3.3"
    ],
    "dupe": "surrogacycrazycarsalesmanevidencesummarywithparagraphs",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Family/Evidence Summaries/Violence against children study 2026 (Evidence summary 16Oct26).pdf",
+   "name": "Violence against children study 2026 (Evidence summary 16Oct26)",
+   "file": "Violence against children study 2026 (Evidence summary 16Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 32549,
+   "mtime": 1792102427,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.3.4"
+   ],
+   "dupe": "violenceagainstchildrenstudy2026evidencesummary16oct26",
    "copyOf": null,
    "primary": true
   },
@@ -5367,6 +5399,22 @@
    "primary": true
   },
   {
+   "path": "Human Rights/Digital duty of care bill (Evidence summary 16Oct26).pdf",
+   "name": "Digital duty of care bill (Evidence summary 16Oct26)",
+   "file": "Digital duty of care bill (Evidence summary 16Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 33709,
+   "mtime": 1792102426,
+   "bucket": "evidence",
+   "kind": "legislation",
+   "tags": [
+    "hr.3.1"
+   ],
+   "dupe": "digitaldutyofcarebillevidencesummary16oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/Forced Marriage Posters.pdf",
    "name": "Forced Marriage Posters",
    "file": "Forced Marriage Posters.pdf",
@@ -5575,6 +5623,22 @@
     "humanrights"
    ],
    "dupe": "kmartcameraglassesprivacyandsurveillancehscevidencesummary7oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/Ombudsman wrongful immigration detention (Evidence summary 16Oct26).pdf",
+   "name": "Ombudsman wrongful immigration detention (Evidence summary 16Oct26)",
+   "file": "Ombudsman wrongful immigration detention (Evidence summary 16Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 32872,
+   "mtime": 1792102425,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.4"
+   ],
+   "dupe": "ombudsmanwrongfulimmigrationdetentionevidencesummary16oct26",
    "copyOf": null,
    "primary": true
   },
@@ -8531,6 +8595,22 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Evidence Sheet - Housing as shelter or asset (16Oct26).pdf",
+   "name": "Evidence Sheet - Housing as shelter or asset (16Oct26)",
+   "file": "Evidence Sheet - Housing as shelter or asset (16Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 33785,
+   "mtime": 1792102426,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.1.2"
+   ],
+   "dupe": "evidencesheethousingasshelterorasset16oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Evidence Sheet - Insights from the Grattan Institute.docx",
    "name": "Evidence Sheet - Insights from the Grattan Institute",
    "file": "Evidence Sheet - Insights from the Grattan Institute.docx",
@@ -9770,6 +9850,22 @@
     "crime.2"
    ],
    "dupe": "nswpolicepowerstwopagesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/NSW permanent knife scanning powers (Evidence summary 16Oct26).pdf",
+   "name": "NSW permanent knife scanning powers (Evidence summary 16Oct26)",
+   "file": "NSW permanent knife scanning powers (Evidence summary 16Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 36453,
+   "mtime": 1792094033,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.2.1"
+   ],
+   "dupe": "nswpermanentknifescanningpowersevidencesummary16oct26",
    "copyOf": null,
    "primary": true
   },
