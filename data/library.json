@@ -4204,6 +4204,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Deng [2026] FedCFamC2F 1192 - Case Summary.pdf",
+   "name": "Deng [2026] FedCFamC2F 1192 - Case Summary",
+   "file": "Deng [2026] FedCFamC2F 1192 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 639217,
+   "mtime": 1792041518,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "deng2026fedcfamc2f1192casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Devine and Kitson 2026 ARTA 1944 - Case Summary.pdf",
    "name": "Devine and Kitson 2026 ARTA 1944 - Case Summary",
    "file": "Devine and Kitson 2026 ARTA 1944 - Case Summary.pdf",
@@ -4573,6 +4589,22 @@
     "fam.1.5"
    ],
    "dupe": "rollandandfraserchildsupport2025arta34306october2025",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Selley & Dorner [2026] FedCFamC2F 1161 - Case Summary.pdf",
+   "name": "Selley & Dorner [2026] FedCFamC2F 1161 - Case Summary",
+   "file": "Selley & Dorner [2026] FedCFamC2F 1161 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 656150,
+   "mtime": 1792041585,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "selleydorner2026fedcfamc2f1161casesummary",
    "copyOf": null,
    "primary": true
   },
