@@ -299,6 +299,16 @@ a.pill:hover .ic{color:var(--accent)}
 .chip.thm{background:none; border-color:var(--line); color:var(--ink-3)}
 .chip.crit{background:none; border-style:dashed; border-color:var(--line); color:var(--ink-3)}
 .chip .ic{font-size:.85rem}
+/* "Also useful for" is the weakest claim on a card, so it stays folded until asked for. */
+.sup-toggle{border:0; background:none; cursor:pointer; color:var(--ink-3); font-size:.71rem; font-weight:600;
+  padding:2px 0; display:inline-flex; align-items:center; gap:4px; text-decoration:underline;
+  text-underline-offset:2px; text-decoration-color:var(--line)}
+.sup-toggle:hover{color:var(--accent); text-decoration-color:currentColor}
+.sup-toggle .ic{transition:.2s; font-size:.8rem}
+.sup-toggle[aria-expanded="true"] .ic{rotate:90deg}
+.sup-list{flex-basis:100%; margin-top:2px}
+.sup-list[hidden]{display:none}
+.ev.landed{animation:ring 2.2s ease-out 1}
 .ev-more{border:0; background:none; cursor:pointer; color:var(--accent); font-size:.79rem; font-weight:600;
   padding:8px 17px 13px 27px; display:inline-flex; align-items:center; gap:6px}
 .ev-more .ic{transition:.2s}
@@ -691,7 +701,8 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
     <ul>
       <li><strong>About</strong> &mdash; the dot points this evidence is <em>about</em>. Lead with these.</li>
       <li><strong>Also useful for</strong> &mdash; dot points where it helps, though it is really about
-        something else. Worth a sentence, not a paragraph.</li>
+        something else. Worth a sentence, not a paragraph. These are folded away to keep cards tidy;
+        press <em>Show</em> to see them.</li>
       <li><strong>Themes and challenges</strong> &mdash; the ones it carries, which is how the big essay
         questions are built.</li>
       <li><strong>Effectiveness criteria</strong> &mdash; the syllabus criteria for evaluating
@@ -1042,9 +1053,18 @@ function card(it){
   if (it.core.length)
     rows.push(["About", "The dot points this evidence is about",
                tagChips(it.core, "core")]);
-  if (it.support.length)
+  if (it.support.length){
+    /* Folded by default; open when the dot point you are looking at is one of them,
+       since that is the reason the card is on screen. */
+    const sel = state.sel.id || "";
+    const open = it.support.some(t => t === sel || t.indexOf(sel + ".") === 0) && !!sel;
+    const n = it.support.length, word = n + " dot point" + (n === 1 ? "" : "s");
     rows.push(["Also useful for", "Dot points where it helps, though it is really about something else",
-               tagChips(it.support, "sup")]);
+               '<button class="sup-toggle" data-act="sup" data-n="' + esc(word) + '" aria-expanded="' + open +
+               '"><svg class="ic"><use href="#g-chev"/></svg><span>' + (open ? "Hide " : "Show ") + esc(word) +
+               '</span></button><div class="chips sup-list"' + (open ? "" : " hidden") + ">" +
+               tagChips(it.support, "sup") + "</div>"]);
+  }
   if (it.themes.length)
     rows.push(["Themes and challenges", "The themes and challenges it carries — how the big essay questions are built",
                themeChips(it.themes)]);
@@ -1348,6 +1368,42 @@ function syncTabs(){
     b.setAttribute("aria-selected", b.dataset.tab === state.tab ? "true" : "false"));
 }
 
+function setSummary(id, open){
+  const f = $("#full-" + CSS.escape(id));
+  const b = document.querySelector('.ev-more[data-id="' + CSS.escape(id) + '"]');
+  if (!f) return;
+  f.classList.toggle("open", open);
+  if (b){
+    b.setAttribute("aria-expanded", open ? "true" : "false");
+    b.lastChild.textContent = open ? "Hide the summary" : "Read the summary";
+  }
+}
+
+/* "See also" used to scroll only to a card already on screen, so a link to evidence
+   filed under another dot point did nothing. Now, if the card is not showing, the
+   page moves to where it lives — its first "About" dot point, or its type — widening
+   the course and dropping a search that would hide it, then opens and marks it. */
+function showEvidence(id){
+  const it = ITEMS.find(x => x.id === id);
+  if (!it) return;
+  if (!$("#ev-" + CSS.escape(id))){
+    if (!inScope(it)){
+      state.course = "all"; ls.set("hsc-ls-ev-course", "all");
+      syncCourse(); renderCoverage();
+    }
+    if (state.q && it.hay.indexOf(state.q.trim().toLowerCase()) < 0){ state.q = ""; $("#q").value = ""; }
+    const home = it.core.find(t => TAG[t]);
+    if (home) select(TAG[home].kind === "theme" ? "theme" : TAG[home].kind, home);
+    else select("type", it.type);
+    if (!$("#ev-" + CSS.escape(id))) select("type", it.type);
+  }
+  const el = $("#ev-" + CSS.escape(id));
+  if (!el) return;
+  setSummary(id, true);
+  el.classList.remove("landed"); void el.offsetWidth; el.classList.add("landed");
+  setTimeout(() => el.scrollIntoView({behavior: "smooth", block: "start"}), 80);
+}
+
 document.addEventListener("click", e => {
   const a = e.target.closest("[data-act]");
   if (!a) return;
@@ -1363,15 +1419,19 @@ document.addEventListener("click", e => {
   }
   if (act === "more"){
     const f = $("#full-" + CSS.escape(id));
-    const open = f.classList.toggle("open");
+    setSummary(id, !f.classList.contains("open"));
+    return;
+  }
+  if (act === "sup"){
+    const box = a.nextElementSibling, open = box.hidden;
+    box.hidden = !open;
     a.setAttribute("aria-expanded", open ? "true" : "false");
-    a.lastChild.textContent = open ? "Hide the summary" : "Read the summary";
+    a.lastChild.textContent = (open ? "Hide " : "Show ") + a.dataset.n;
     return;
   }
   if (act === "jump"){
     e.preventDefault();
-    const el = $("#ev-" + CSS.escape(id));
-    if (el) el.scrollIntoView({behavior: "smooth", block: "center"});
+    showEvidence(id);
     return;
   }
   if (["topic", "section", "point", "theme", "type", "criterion"].indexOf(act) >= 0){
