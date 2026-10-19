@@ -38,3 +38,8 @@ moral claim.
 - Sits well against the **s 54D coercive control offence** and the *Crimes (Domestic and Personal
   Violence) Act 2007*: three NSW responses to the same underlying pattern of partner violence, aimed
   at three different points in it.
+
+## The inquiry in between
+
+After *Singh*, the NSW **Legislative Council Select Committee on the Partial Defence of Provocation** (2013) examined whether to abolish or narrow the defence. It recommended keeping a narrowed defence, which the 2014 Act enacted as 'extreme provocation'.
+

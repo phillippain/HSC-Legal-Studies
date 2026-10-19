@@ -30,3 +30,9 @@ added: 2026-09-19
 - The jurisdictional gap: ss 4A and 14(4) of the *Crimes (Domestic and Personal Violence) Act 2007*
   are built around **NSW** offences. A course of conduct answered by a **Commonwealth** offence is
   sentenced outside the domestic violence framework the state built for it.
+
+## Guilty plea discounts since 2018 (s 25D) and victim consultation (s 35A)
+
+- **s 25D** (Early Appropriate Guilty Plea reforms, 2018): **25%** for a plea in the Local Court before committal; **10%** after committal at least 14 days before trial; **5%** otherwise. Before 2018 the discount was up to 25% at the court's discretion (*R v Thomson and Houlton*, 2000; see *Shine v R*).
+- **s 35A** (2010, after *R v Koch*): the court must not take account of negotiated charges or facts unless the prosecutor certifies the victim was consulted.
+
