@@ -12,6 +12,7 @@ themes: crime.t.discretion, crime.t.reform, crime.t.effectiveness
 criteria: rights, justice, responsiveness, accessibility
 document: Crime/Criminal Trial Process/3b. Pleas & Charge negotiation.docx
 related: crimes-sentencing-procedure-act-1999, shine-v-r-2016
+source: https://theconversation.com/plea-bargains-and-the-efficiencies-of-justice-8440
 added: 2026-09-19
 ---
 
@@ -44,3 +45,16 @@ Searched on 19 September 2026 without success: AustLII blocks automated access a
 search returned nothing for the name. **Still unverified** — the case is well known in teaching
 materials for the charge negotiation that produced s 35A, but use the reform, not the citation, as
 the load-bearing evidence until the judgment is found.
+
+## From The Conversation, "Plea bargains and the efficiencies of justice"
+
+- Names the offender as **Karl Koch** and the victim as **Nanette May**, his former girlfriend, left
+  with ongoing problems with motor coordination. There was significant evidence he had **stalked her
+  and planned to kill her**. He pleaded guilty in **2009**.
+- Describes the substituted offence as "malicious injury **with** intent"; the department notes say
+  "without intent". The sources disagree — say "a lesser malicious injury offence" until the
+  judgment is found. The article does not give the sentence.
+- Wider point: most Australian jurisdictions keep **no external record** of when or why plea deals
+  happen; it suggests a register. Comparison cases: Carl Williams (Vic, 2007), Tony Mokbel (Vic),
+  Paul Nemer (SA, 2003).
+
