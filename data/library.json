@@ -3611,6 +3611,22 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Temporary visas and family violence (Evidence summary 19Oct26).pdf",
+   "name": "Temporary visas and family violence (Evidence summary 19Oct26)",
+   "file": "Temporary visas and family violence (Evidence summary 19Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 34803,
+   "mtime": 1792355851,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.2.4"
+   ],
+   "dupe": "temporaryvisasandfamilyviolenceevidencesummary19oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Violence against children study 2026 (Evidence summary 16Oct26).pdf",
    "name": "Violence against children study 2026 (Evidence summary 16Oct26)",
    "file": "Violence against children study 2026 (Evidence summary 16Oct26).pdf",
@@ -8595,6 +8611,22 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Evidence Sheet - Group renting and co-tenancy (19Oct26).pdf",
+   "name": "Evidence Sheet - Group renting and co-tenancy (19Oct26)",
+   "file": "Evidence Sheet - Group renting and co-tenancy (19Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 32346,
+   "mtime": 1792355850,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.2"
+   ],
+   "dupe": "evidencesheetgrouprentingandcotenancy19oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Evidence Sheet - Housing as shelter or asset (16Oct26).pdf",
    "name": "Evidence Sheet - Housing as shelter or asset (16Oct26)",
    "file": "Evidence Sheet - Housing as shelter or asset (16Oct26).pdf",
@@ -9479,6 +9511,22 @@
    "primary": true
   },
   {
+   "path": "Crime/Aboriginal-run rehab as an alternative to custody (Evidence summary 19Oct26).pdf",
+   "name": "Aboriginal-run rehab as an alternative to custody (Evidence summary 19Oct26)",
+   "file": "Aboriginal-run rehab as an alternative to custody (Evidence summary 19Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 33079,
+   "mtime": 1792355850,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.4.7"
+   ],
+   "dupe": "aboriginalrunrehabasanalternativetocustodyevidencesummary19oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Arrest, detention and interrogation - Student version.pdf",
    "name": "Arrest, detention and interrogation - Student version",
    "file": "Arrest, detention and interrogation - Student version.pdf",
@@ -9672,6 +9720,22 @@
     "crime"
    ],
    "dupe": "criminalinvestigationprocesssides",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Greta bus crash - charge negotiation to reform (Evidence summary 19Oct26).pdf",
+   "name": "Greta bus crash - charge negotiation to reform (Evidence summary 19Oct26)",
+   "file": "Greta bus crash - charge negotiation to reform (Evidence summary 19Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 31189,
+   "mtime": 1792355849,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.3.4"
+   ],
+   "dupe": "gretabuscrashchargenegotiationtoreformevidencesummary19oct26",
    "copyOf": null,
    "primary": true
   },
@@ -10470,6 +10534,22 @@
     "crime.3"
    ],
    "dupe": "rulesforadminissibilityofevidence",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Criminal Trial Process/Zakaria permanent stay application (Evidence summary 19Oct26).pdf",
+   "name": "Zakaria permanent stay application (Evidence summary 19Oct26)",
+   "file": "Zakaria permanent stay application (Evidence summary 19Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 30957,
+   "mtime": 1792355849,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.3.1"
+   ],
+   "dupe": "zakariapermanentstayapplicationevidencesummary19oct26",
    "copyOf": null,
    "primary": true
   },
@@ -11326,6 +11406,22 @@
     "crime.4"
    ],
    "dupe": "pptx9theroleofjuriesstudent",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Sentencing and Punishment/Robinson brothers Mexico sentencing - comparative (Evidence summary 19Oct26).pdf",
+   "name": "Robinson brothers Mexico sentencing - comparative (Evidence summary 19Oct26)",
+   "file": "Robinson brothers Mexico sentencing - comparative (Evidence summary 19Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 29801,
+   "mtime": 1792355850,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.4.1"
+   ],
+   "dupe": "robinsonbrothersmexicosentencingcomparativeevidencesummary19oct26",
    "copyOf": null,
    "primary": true
   },
