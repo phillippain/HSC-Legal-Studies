@@ -3927,6 +3927,22 @@
    "primary": true
   },
   {
+   "path": "Cases/BOCSAR/BOCSAR CJB264 - Effect of judge-alone trials (2024).pdf",
+   "name": "BOCSAR CJB264 - Effect of judge-alone trials (2024)",
+   "file": "BOCSAR CJB264 - Effect of judge-alone trials (2024).pdf",
+   "ext": "pdf",
+   "bytes": 1260691,
+   "mtime": 1792447979,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "bocsarcjb264effectofjudgealonetrials2024",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/BOCSAR/BOCSAR Coercive Control Monitoring June 2026 - Summary.pdf",
    "name": "BOCSAR Coercive Control Monitoring June 2026 - Summary",
    "file": "BOCSAR Coercive Control Monitoring June 2026 - Summary.pdf",
