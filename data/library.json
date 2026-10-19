@@ -9836,6 +9836,23 @@
    "primary": true
   },
   {
+   "path": "Crime/LECC Strip Search Inquiry - Fact Sheet 1 (2020).pdf",
+   "name": "LECC Strip Search Inquiry - Fact Sheet 1 (2020)",
+   "file": "LECC Strip Search Inquiry - Fact Sheet 1 (2020).pdf",
+   "ext": "pdf",
+   "bytes": 22440,
+   "mtime": 1792445120,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime",
+    "crime.2"
+   ],
+   "dupe": "leccstripsearchinquiryfactsheet12020",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Mushroom Murders Case - Crime Concepts.docx",
    "name": "Mushroom Murders Case - Crime Concepts",
    "file": "Mushroom Murders Case - Crime Concepts.docx",
