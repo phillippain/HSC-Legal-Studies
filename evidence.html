@@ -1121,10 +1121,10 @@ function titleFor(sel){
   return TAG[sel.id] ? TAG[sel.id].label : "Everything";
 }
 
-/* Under a form of evidence or a criterion the list spans every topic, so it can be
+/* Under a form of evidence, a criterion or a theme the list spans topics, so it can be
    narrowed to one. A piece belongs to the topics it is *about* — the same topics
    that colour its stripe. */
-const topicFilterable = sel => sel.kind === "type" || sel.kind === "criterion";
+const topicFilterable = sel => sel.kind === "type" || sel.kind === "criterion" || sel.kind === "theme";
 
 function renderTopicBar(all){
   const bar = $("#topicbar");
@@ -1405,7 +1405,11 @@ function select(kind, id){
   if (kind === "topic"){ state.tab = "content"; state.crumb = [id]; }
   else if (kind === "section"){ state.tab = "content"; state.crumb = [TAG[id].topic, id]; }
   else if (kind === "point"){ state.tab = "content"; state.crumb = [TAG[id].topic, TAG[id].section]; }
-  else if (kind === "theme"){ /* stay where you are — a theme is reachable from both tabs */ }
+  else if (kind === "theme"){
+    /* stay where you are — a theme is reachable from both tabs. Each theme belongs to
+       one topic, so a topic chosen under another theme would mostly empty the list. */
+    state.topicFilter = "";
+  }
   syncTabs();
   render();
   if (window.innerWidth <= 980) $(".main").scrollIntoView({behavior: "smooth", block: "start"});
