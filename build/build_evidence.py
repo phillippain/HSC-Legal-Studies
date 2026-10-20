@@ -25,11 +25,13 @@ if problems:
 
 # ----------------------------------------------- past questions, if built ----
 questions = {}
+qitems = []          # each past question's tags, to count what the question finder will show
 try:
     html_src = open(f"{ROOT}/index.html", encoding="utf-8").read()
     m = re.search(r"<script>const DATA = (\{.*?\});</script>", html_src, re.S)
     if m:
         for it in json.loads(m.group(1))["items"]:
+            qitems.append(set(it["core"] + it["support"]))
             for t in it["core"] + it["support"]:
                 questions[t] = questions.get(t, 0) + 1
 except FileNotFoundError:
@@ -172,8 +174,27 @@ except FileNotFoundError:
     print("  drive:    no data/drive-links.json — links stay local "
           "(run build/map-drive-ids.gs to make one)")
 
+# Each card links to the question finder for its "About" dot points. The finder
+# matches a dot point to questions tagged on it *or on its section* (a 25-mark essay
+# is tagged at section level), so the counts here use the same rule — the number
+# on the card is the number of questions the link opens.
+parent, kids = {}, {}
+for t in topics:
+    for s in t["sections"]:
+        for p in s["points"]:
+            parent[p["id"]] = s["id"]
+            kids.setdefault(s["id"], []).append(p["id"])
+def qfamily(tag):
+    return {tag, *kids.get(tag, []), *([parent[tag]] if tag in parent else [])}
+def qcount(tags):
+    want = set().union(*(qfamily(t) for t in tags)) if tags else set()
+    return sum(1 for q in qitems if q & want)
+qlinks = {}          # tag -> questions the finder shows for it
+
 items = []
 for r in recs:
+    for t in r["core"]:
+        if t not in qlinks: qlinks[t] = qcount([t])
     items.append({
         "id": r["id"], "type": r["type"], "title": r["title"], "short": r["short"],
         "cite": r.get("citation", ""), "date": r.get("date", ""),
@@ -182,6 +203,7 @@ for r in recs:
         "criteria": r["criteria"], "related": r["related"],
         "source": r.get("source", ""), "file": r["file"],
         "doc": r.get("document", ""),
+        "qn": qcount(r["core"]),
         "body": md.render(r["body"]),
     })
 
@@ -192,7 +214,7 @@ data = {
         "records": len(items),
     },
     "types": TYPES, "criteria": CRITERIA, "courses": COURSE,
-    "topics": topics, "items": items, "questions": questions,
+    "topics": topics, "items": items, "questions": questions, "qlinks": qlinks,
     "libRoot": libroot, "library": library, "driveLinks": drive_links,
 }
 data["meta"]["library"] = len(library)

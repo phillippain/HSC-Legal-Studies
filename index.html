@@ -1569,6 +1569,24 @@ renderTree();
 document.getElementById('rhead').hidden = true;
 document.getElementById('stats').hidden = true;
 document.getElementById('hmwrap').innerHTML = welcome() + heatmap();
+
+/* Opened from the evidence finder: index.html#tags=crime.4.3,crime.4.5 lands on the
+   past questions for those dot points, matched exactly as clicking them would. */
+function openFromHash() {
+  const m = location.hash.match(/^#tags=([^&]+)/);
+  if (!m) return;
+  const ids = m[1].split(',').map(decodeURIComponent).filter(id => TAG[id]);
+  if (!ids.length) return;
+  const t = TAG[ids[0]], topic = DATA.topics.find(x => x.k === t.topic);
+  if (ids.length === 1) {
+    pick('tags', ids, t.label, topic.label
+      + (t.kind === 'theme' ? ' · theme and challenge' : t.parent ? ' · ' + TAG[t.parent].label : ''));
+  } else {
+    pick('tags', ids, `Questions on ${ids.length} dot points`, ids.map(id => TAG[id].label).join(' · '));
+  }
+}
+openFromHash();
+window.addEventListener('hashchange', openFromHash);
 booted = true;
 </script>
 </body>

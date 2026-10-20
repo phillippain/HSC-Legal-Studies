@@ -327,6 +327,7 @@ a.pill:hover .ic{color:var(--accent)}
 .sup-list{flex-basis:100%; margin-top:2px}
 .sup-list[hidden]{display:none}
 .ev.landed{animation:ring 2.2s ease-out 1}
+.qlinks b{font-family:var(--mono); font-weight:700; font-size:.92em}
 .ev-more{border:0; background:none; cursor:pointer; color:var(--accent); font-size:.79rem; font-weight:600;
   padding:8px 17px 13px 27px; display:inline-flex; align-items:center; gap:6px}
 .ev-more .ic{transition:.2s}
@@ -1043,10 +1044,25 @@ function edgeFor(it){
     c + " " + (i * step).toFixed(2) + "% " + ((i + 1) * step).toFixed(2) + "%").join(",") + ")";
 }
 
+/* Links into the question finder, one per "About" dot point and one for them all.
+   The finder opens on whatever tags follow #tags=, and the counts are built with
+   the finder's own matching rule, so the number on the link is what it opens. */
+const QLINKS = DATA.qlinks || {};
+const qhref = tags => "index.html#tags=" + tags.map(encodeURIComponent).join(",");
+function questionLinks(it){
+  const pts = it.core.filter(t => TAG[t] && QLINKS[t]);
+  if (!pts.length) return "";
+  let h = '<span class="qlinks"><svg class="ic"><use href="#g-list"/></svg> HSC questions: ' +
+    pts.map(t => '<a href="' + qhref([t]) + '" target="_blank" rel="noopener" title="Open the question finder on this dot point">' +
+      esc(TAG[t].label) + " <b>" + QLINKS[t] + "</b></a>").join(" · ");
+  if (pts.length > 1 && it.qn)
+    h += ' — <a href="' + qhref(pts) + '" target="_blank" rel="noopener">all ' + it.qn + " together</a>";
+  return h + "</span>";
+}
+
 function card(it){
   const ty = DATA.types[it.type];
   const inh = inherited(it, state.sel);
-  const qn = it.core.map(t => DATA.questions[t] || 0).reduce((a, b) => a + b, 0);
   let h = '<article class="ev" style="--ec:var(--e-' + it.type + ');--edge:' + edgeFor(it) +
           '" id="ev-' + esc(it.id) + '">';
   h += '<div class="ev-head">';
@@ -1102,8 +1118,7 @@ function card(it){
   if (it.doc) h += '<a href="' + esc(fileUrl(it.doc)) + '" target="_blank" rel="noopener" title="' +
        esc(it.doc) + '"><svg class="ic"><use href="#g-doc"/></svg> Open the document</a>';
   if (it.source) h += '<a href="' + esc(it.source) + '" target="_blank" rel="noopener"><svg class="ic"><use href="#g-eye"/></svg> Source</a>';
-  if (qn) h += '<span><svg class="ic"><use href="#g-list"/></svg> ' + qn +
-               ' past question' + (qn === 1 ? "" : "s") + ' on its core content points — <a href="index.html">question finder</a></span>';
+  h += questionLinks(it);
   if (it.related.length) h += "<span>See also " + it.related.map(r => {
       const o = ITEMS.find(x => x.id === r);
       return o ? '<a href="#ev-' + esc(r) + '" data-act="jump" data-id="' + esc(r) + '">' + esc(o.short) + "</a>" : "";
