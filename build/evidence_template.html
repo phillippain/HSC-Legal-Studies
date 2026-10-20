@@ -247,6 +247,16 @@ a.pill:hover .ic{color:var(--accent)}
 .results-head h2{font-size:1.22rem}
 .results-head .count{font-family:var(--mono); font-size:.8rem; color:var(--ink-3)}
 .results-head .spacer{flex:1}
+/* Topic filter under a form of evidence or a criterion: narrows the list to one topic. */
+.topicbar{display:flex; flex-wrap:wrap; gap:6px; align-items:center; padding:2px 2px 0}
+.topicbar[hidden]{display:none}
+.topicbar .lab{font-size:.63rem; font-weight:700; letter-spacing:.09em; text-transform:uppercase;
+  color:var(--ink-3); margin-right:4px}
+.topicbar .chip{font-size:.74rem; padding:3px 11px}
+.topicbar .chip[aria-pressed="true"]{background:var(--tcb); color:var(--tc);
+  border-color:color-mix(in srgb, var(--tc) 45%, transparent)}
+.topicbar .chip .n{font-family:var(--mono); font-size:.68rem; opacity:.75}
+.topicbar .chip[disabled]{opacity:.4; cursor:default}
 .mini{border:1px solid var(--line); background:var(--surface); border-radius:var(--r-pill); cursor:pointer;
   padding:5px 12px; font-size:.76rem; font-weight:600; color:var(--ink-2); display:inline-flex;
   align-items:center; gap:6px; transition:.14s}
@@ -637,6 +647,7 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
       <span class="spacer"></span>
       <button class="mini" id="sortBtn"><svg class="ic"><use href="#g-clock"/></svg><span>Newest first</span></button>
     </div>
+    <div class="topicbar" id="topicbar" hidden></div>
     <p class="tip" id="cardkey" hidden><svg class="ic"><use href="#g-help"/></svg><span>
       <span class="keyline"><span class="bar"></span></span>
       The <strong>stripe down the left of a card is the topic</strong> it belongs to (two bands means it
@@ -829,6 +840,7 @@ let state = {
   sel: {kind: "all", id: null},
   q: "",
   sort: "date",
+  topicFilter: "",                  // a topic key narrowing a form-of-evidence or criterion view
   mapSup: false,                    // does the evidence map include supporting dot points?
   ticks: new Set((ls.get("hsc-ls-ev-ticks") || "").split(",").filter(Boolean))
 };
@@ -1101,17 +1113,45 @@ function titleFor(sel){
   return TAG[sel.id] ? TAG[sel.id].label : "Everything";
 }
 
+/* Under a form of evidence or a criterion the list spans every topic, so it can be
+   narrowed to one. A piece belongs to the topics it is *about* — the same topics
+   that colour its stripe. */
+const topicFilterable = sel => sel.kind === "type" || sel.kind === "criterion";
+
+function renderTopicBar(all){
+  const bar = $("#topicbar");
+  if (!topicFilterable(state.sel)){ bar.hidden = true; bar.innerHTML = ""; return; }
+  const n = k => all.filter(it => topicsOf(it).includes(k)).length;
+  let h = '<span class="lab">Topic</span>' +
+    '<button class="chip" style="--tc:var(--accent);--tcb:var(--surface-2)" data-act="tfilter" data-id="" aria-pressed="' +
+    (!state.topicFilter) + '">All <span class="n">' + all.length + "</span></button>";
+  scopedTopics().forEach(t => {
+    const c = n(t.k);
+    h += '<button class="chip" style="' + tvar(t.k) + '" data-act="tfilter" data-id="' + t.k +
+         '" aria-pressed="' + (state.topicFilter === t.k) + '"' + (c ? "" : " disabled") + ">" +
+         esc(t.label) + ' <span class="n">' + c + "</span></button>";
+  });
+  bar.innerHTML = h;
+  bar.hidden = false;
+}
+
 function renderResults(){
-  const items = found(state.sel).sort((a, b) =>
+  if (!topicFilterable(state.sel) || (state.topicFilter && !scopedTopics().some(t => t.k === state.topicFilter)))
+    state.topicFilter = "";
+  const all = found(state.sel);
+  renderTopicBar(all);
+  const items = (state.topicFilter ? all.filter(it => topicsOf(it).includes(state.topicFilter)) : all).sort((a, b) =>
     state.sort === "date" ? (b.date || "").localeCompare(a.date || "") || a.title.localeCompare(b.title)
                           : a.title.localeCompare(b.title));
   const landing = state.sel.kind === "all" && !state.q;
+  if (landing) $("#topicbar").hidden = true;
   $("#welcome").hidden = !landing;
   $("#cov").hidden = !landing;
   $("#rhead").hidden = landing;
   $("#cardkey").hidden = landing;
   if (landing){ $("#list").innerHTML = ""; $("#libwrap").innerHTML = ""; return; }
-  $("#rtitle").textContent = titleFor(state.sel);
+  $("#rtitle").textContent = titleFor(state.sel) +
+    (state.topicFilter && topicFilterable(state.sel) ? " · " + T[state.topicFilter].label : "");
   $("#rcount").textContent = items.length + (items.length === 1 ? " piece" : " pieces") +
     (state.q ? ' matching "' + state.q + '"' : "");
   $("#list").innerHTML = items.length
@@ -1390,6 +1430,7 @@ function showEvidence(id){
       syncCourse(); renderCoverage();
     }
     if (state.q && it.hay.indexOf(state.q.trim().toLowerCase()) < 0){ state.q = ""; $("#q").value = ""; }
+    state.topicFilter = "";
     const home = it.core.find(t => TAG[t]);
     if (home) select(TAG[home].kind === "theme" ? "theme" : TAG[home].kind, home);
     else select("type", it.type);
@@ -1425,6 +1466,11 @@ document.addEventListener("click", e => {
     box.hidden = !open;
     a.setAttribute("aria-expanded", open ? "true" : "false");
     a.lastChild.textContent = (open ? "Hide " : "Show ") + a.dataset.n;
+    return;
+  }
+  if (act === "tfilter"){
+    state.topicFilter = id;
+    renderResults(); syncBack();
     return;
   }
   if (act === "jump"){
@@ -1465,6 +1511,7 @@ function resetAll(){
   state.sel = {kind: "all", id: null};
   state.q = ""; $("#q").value = "";
   state.sort = "date";
+  state.topicFilter = "";
   $("#sortBtn span").textContent = "Newest first";
   $("#sortBtn svg use").setAttribute("href", "#g-clock");
   state.course = "all"; ls.set("hsc-ls-ev-course", "all");
@@ -1504,6 +1551,8 @@ function backStep(){
     const tk = TAG[sel.id].topic;
     return {label: "Back to " + T[tk].label, run: () => select("topic", tk)};
   }
+  if (topicFilterable(sel) && state.topicFilter)
+    return {label: "Show every topic", run: () => { state.topicFilter = ""; renderResults(); syncBack(); }};
   if (["topic", "theme", "type", "criterion"].indexOf(sel.kind) >= 0)
     return {label: "Back to all topics", run: toTop};
   if (state.q)
