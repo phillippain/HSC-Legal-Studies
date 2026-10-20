@@ -52,3 +52,7 @@ population.
 
 A **stock** figure is a headcount on one night; **flow** counts receptions and discharges. Remand
 figures describe *alleged* offending, since the most serious offence is a charge, not a conviction.
+
+## Youth figures: check the source
+
+BOCSAR's published quarterly updates give **220 young people in detention in March 2026 (175, or 79.6%, on remand; 118 Aboriginal)** and **208 in June 2026 (down from 236 in June 2025; 107, or 51.4%, Aboriginal)**. The youth figures earlier in this record (242; 85.1% unsentenced) come from the summary sheet and do not match the June 2026 update; check the Youth Custody Report spreadsheet before using them.

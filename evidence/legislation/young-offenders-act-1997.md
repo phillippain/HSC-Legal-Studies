@@ -33,3 +33,7 @@ proceeded against to court, against **62.2%** of adults; for domestic violence a
 Any question on **discretion**, on **alternatives to court**, or on whether the criminal justice
 system deals effectively with young offenders. The contrast with adult diversion is the strongest
 single statistic in the topic.
+
+## The 2026 amendments
+
+From 1 July 2026: a non-denial statement replaces the admission needed for a caution or conference (s 10), inadmissible later (s 67A); no caution after three in three years (s 20(7)); conferences within 42 days (s 43). See *Doli incapax and diversion reforms (2025–26)*.

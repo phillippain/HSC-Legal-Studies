@@ -37,3 +37,7 @@ s 22C review: **454** young people faced the test, **70%** refused bail; Aborigi
 ## Caution
 
 Hawi and Fesus are named from teaching notes; read the 2014 Hatzistergos review before relying on the details of either case.
+
+## s 22C extended (September 2026)
+
+The statutory review (tabled 15 September 2026) found s 22C helped stabilise youth crime in regional NSW and recommended extending it. The Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026, introduced 15 September and passed **24 September 2026**, extended s 22C to **4 April 2028** (it was due to lapse on 1 October 2026). The government paired it with an $8.4m Tamworth diversion pilot for 8–13-year-olds (AAP, 15 Sept 2026). Critics, including the ALS, point to remand rising and Aboriginal young people making up most refusals.
