@@ -10,7 +10,7 @@ core: crime.1.3, crime.1.6, crime.1.7
 support: crime.1.1, crime.1.2, crime.1.5, crime.3.1, crime.3.6, crime.3.8, ls.3.1, ls.3.3
 themes: crime.t.balance, crime.t.moral, crime.t.effectiveness
 criteria: ruleoflaw, resource, rights, justice, enforceability
-related: defences-to-criminal-charges, the-adversary-system-and-court-jurisdiction, royall-v-the-queen-1991
+related: defences-to-criminal-charges, the-adversary-system-and-court-jurisdiction, royall-v-the-queen-1991, crimes-act-1900-key-offences, nsw-mobile-phone-detection-cameras, miller-v-the-queen-2016, summary-offences-act-1988
 added: 2026-09-20
 ---
 
@@ -21,6 +21,10 @@ A reference note.
 Offences where the prosecution need prove only the **actus reus** — no **mens rea**. Most are
 regulatory: traffic, licensing, pollution, food safety, workplace safety. The justification is
 volume and deterrence: proving intent for every speeding ticket would be unworkable.
+
+The courts **presume** that Parliament intended mens rea to be an element unless it clearly says
+otherwise: *He Kaw Teh v The Queen* (1985) 157 CLR 523, where the High Court read a guilty-knowledge
+requirement into the offence of importing heroin.
 
 The defence that survives is **honest and reasonable mistake of fact** — *Proudman v Dayman* (1941).
 It does **not** apply to **absolute liability** offences, where even that is excluded.
