@@ -248,15 +248,23 @@ a.pill:hover .ic{color:var(--accent)}
 .results-head .count{font-family:var(--mono); font-size:.8rem; color:var(--ink-3)}
 .results-head .spacer{flex:1}
 /* Topic filter under a form of evidence or a criterion: narrows the list to one topic. */
-.topicbar{display:flex; flex-wrap:wrap; gap:6px; align-items:center; padding:2px 2px 0}
+.topicbar{display:flex; flex-wrap:wrap; gap:8px; align-items:center; padding:4px 2px 2px}
 .topicbar[hidden]{display:none}
-.topicbar .lab{font-size:.63rem; font-weight:700; letter-spacing:.09em; text-transform:uppercase;
+.topicbar .lab{font-size:.66rem; font-weight:700; letter-spacing:.09em; text-transform:uppercase;
   color:var(--ink-3); margin-right:4px}
-.topicbar .chip{font-size:.74rem; padding:3px 11px}
-.topicbar .chip[aria-pressed="true"]{background:var(--tcb); color:var(--tc);
-  border-color:color-mix(in srgb, var(--tc) 45%, transparent)}
-.topicbar .chip .n{font-family:var(--mono); font-size:.68rem; opacity:.75}
-.topicbar .chip[disabled]{opacity:.4; cursor:default}
+.tbtn{display:inline-flex; align-items:center; gap:8px; border-radius:var(--r-pill); cursor:pointer;
+  padding:8px 15px 8px 12px; font-size:.86rem; font-weight:600; line-height:1.2;
+  background:var(--tcb); color:var(--ink); border:1.5px solid color-mix(in srgb, var(--tc) 40%, transparent);
+  border-left:5px solid var(--tc); transition:.14s}
+.tbtn .ic{font-size:1.1rem; color:var(--tc)}
+.tbtn .n{font-family:var(--mono); font-size:.74rem; font-weight:700; color:var(--tc);
+  background:var(--surface); border-radius:var(--r-pill); padding:1px 7px; min-width:1.6em; text-align:center}
+.tbtn:hover:not([disabled]){border-color:var(--tc)}
+.tbtn[aria-pressed="true"]{background:var(--tc); color:var(--on-accent); border-color:var(--tc)}
+.tbtn[aria-pressed="true"] .ic{color:var(--on-accent)}
+.tbtn[aria-pressed="true"] .n{background:color-mix(in srgb, var(--on-accent) 22%, transparent); color:var(--on-accent)}
+.tbtn[disabled]{opacity:.38; cursor:default}
+@media (max-width:700px){ .tbtn{font-size:.8rem; padding:7px 12px 7px 10px} }
 .mini{border:1px solid var(--line); background:var(--surface); border-radius:var(--r-pill); cursor:pointer;
   padding:5px 12px; font-size:.76rem; font-weight:600; color:var(--ink-2); display:inline-flex;
   align-items:center; gap:6px; transition:.14s}
@@ -1123,13 +1131,15 @@ function renderTopicBar(all){
   if (!topicFilterable(state.sel)){ bar.hidden = true; bar.innerHTML = ""; return; }
   const n = k => all.filter(it => topicsOf(it).includes(k)).length;
   let h = '<span class="lab">Topic</span>' +
-    '<button class="chip" style="--tc:var(--accent);--tcb:var(--surface-2)" data-act="tfilter" data-id="" aria-pressed="' +
-    (!state.topicFilter) + '">All <span class="n">' + all.length + "</span></button>";
+    '<button class="tbtn" style="--tc:var(--accent);--tcb:var(--accent-soft)" data-act="tfilter" data-id="" aria-pressed="' +
+    (!state.topicFilter) + '"><svg class="ic"><use href="#g-layers"/></svg>All topics <span class="n">' +
+    all.length + "</span></button>";
   scopedTopics().forEach(t => {
     const c = n(t.k);
-    h += '<button class="chip" style="' + tvar(t.k) + '" data-act="tfilter" data-id="' + t.k +
-         '" aria-pressed="' + (state.topicFilter === t.k) + '"' + (c ? "" : " disabled") + ">" +
-         esc(t.label) + ' <span class="n">' + c + "</span></button>";
+    h += '<button class="tbtn" style="' + tvar(t.k) + '" data-act="tfilter" data-id="' + t.k +
+         '" aria-pressed="' + (state.topicFilter === t.k) + '"' + (c ? "" : " disabled") +
+         ' title="' + esc(t.part || t.label) + '"><svg class="ic"><use href="#' + esc(t.icon || "g-layers") +
+         '"/></svg>' + esc(t.label) + ' <span class="n">' + c + "</span></button>";
   });
   bar.innerHTML = h;
   bar.hidden = false;
