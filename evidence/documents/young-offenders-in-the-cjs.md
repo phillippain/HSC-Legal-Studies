@@ -61,3 +61,7 @@ required** to attend at all — which narrows who can reach a just outcome throu
 A **topic summary**, not a primary source. Verify the LEPRA provisions in the Act, and the BOCSAR
 percentages and the LECC findings at source, before quoting any of them. Check whether STMPs were in
 fact discontinued on the announced timetable, and whether anything replaced them.
+
+## LECC Operation Tepito (2020–2023)
+
+The Law Enforcement Conduct Commission's Operation Tepito examined police use of the STMP on children and young people (interim report January 2020; final report October 2023). It found the STMP's use could be 'unreasonable, unjust, oppressive or improperly discriminatory in its effect on children and young people', with Aboriginal young people disproportionately targeted. NSW Police stopped using the STMP on young people in October 2023 and ended it for adults in December 2023.
