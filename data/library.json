@@ -3476,6 +3476,23 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/AHRC Balancing Act - working parents and carers (Evidence summary 20Oct26).pdf",
+   "name": "AHRC Balancing Act - working parents and carers (Evidence summary 20Oct26)",
+   "file": "AHRC Balancing Act - working parents and carers (Evidence summary 20Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 33278,
+   "mtime": 1792439078,
+   "bucket": "evidence",
+   "kind": "legislation",
+   "tags": [
+    "fam.3.2",
+    "hr.2.4"
+   ],
+   "dupe": "ahrcbalancingactworkingparentsandcarersevidencesummary20oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Baby broker: The ‘crazy car salesman’ brokering babies and holding embryos ‘hostage’.pdf",
    "name": "Baby broker: The ‘crazy car salesman’ brokering babies and holding embryos ‘hostage’",
    "file": "Baby broker: The ‘crazy car salesman’ brokering babies and holding embryos ‘hostage’.pdf",
@@ -3611,18 +3628,18 @@
    "primary": true
   },
   {
-   "path": "Family/Evidence Summaries/Temporary visas and family violence (Evidence summary 19Oct26).pdf",
-   "name": "Temporary visas and family violence (Evidence summary 19Oct26)",
-   "file": "Temporary visas and family violence (Evidence summary 19Oct26).pdf",
+   "path": "Family/Evidence Summaries/Temporary visas and family violence (Evidence summary 20Oct26 v2).pdf",
+   "name": "Temporary visas and family violence (Evidence summary 20Oct26 v2)",
+   "file": "Temporary visas and family violence (Evidence summary 20Oct26 v2).pdf",
    "ext": "pdf",
-   "bytes": 34803,
-   "mtime": 1792355851,
+   "bytes": 31439,
+   "mtime": 1792439077,
    "bucket": "evidence",
    "kind": "document",
    "tags": [
     "fam.2.4"
    ],
-   "dupe": "temporaryvisasandfamilyviolenceevidencesummary19oct26",
+   "dupe": "temporaryvisasandfamilyviolenceevidencesummary20oct26v2",
    "copyOf": null,
    "primary": true
   },
@@ -5770,6 +5787,22 @@
     "humanrights"
    ],
    "dupe": "uncriticisesaustraliasantislaverylawsinsidenationsalarminglabourscheme",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/US execution livestream and the death penalty (Evidence summary 20Oct26).pdf",
+   "name": "US execution livestream and the death penalty (Evidence summary 20Oct26)",
+   "file": "US execution livestream and the death penalty (Evidence summary 20Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 31254,
+   "mtime": 1792439075,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.3.1"
+   ],
+   "dupe": "usexecutionlivestreamandthedeathpenaltyevidencesummary20oct26",
    "copyOf": null,
    "primary": true
   },
@@ -8627,18 +8660,34 @@
    "primary": true
   },
   {
-   "path": "Shelter/Evidence Sheets/Evidence Sheet - Group renting and co-tenancy (19Oct26).pdf",
-   "name": "Evidence Sheet - Group renting and co-tenancy (19Oct26)",
-   "file": "Evidence Sheet - Group renting and co-tenancy (19Oct26).pdf",
+   "path": "Shelter/Evidence Sheets/Evidence Sheet - Brooms Head over-55s rule set aside by NCAT (20Oct26).pdf",
+   "name": "Evidence Sheet - Brooms Head over-55s rule set aside by NCAT (20Oct26)",
+   "file": "Evidence Sheet - Brooms Head over-55s rule set aside by NCAT (20Oct26).pdf",
    "ext": "pdf",
-   "bytes": 32346,
-   "mtime": 1792355850,
+   "bytes": 30427,
+   "mtime": 1792439076,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.4"
+   ],
+   "dupe": "evidencesheetbroomsheadover55srulesetasidebyncat20oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Evidence Sheet - Group renting and co-tenancy (20Oct26 v2).pdf",
+   "name": "Evidence Sheet - Group renting and co-tenancy (20Oct26 v2)",
+   "file": "Evidence Sheet - Group renting and co-tenancy (20Oct26 v2).pdf",
+   "ext": "pdf",
+   "bytes": 30793,
+   "mtime": 1792439076,
    "bucket": "evidence",
    "kind": "document",
    "tags": [
     "shel.2.2"
    ],
-   "dupe": "evidencesheetgrouprentingandcotenancy19oct26",
+   "dupe": "evidencesheetgrouprentingandcotenancy20oct26v2",
    "copyOf": null,
    "primary": true
   },
@@ -8721,6 +8770,22 @@
     "shel.3.1"
    ],
    "dupe": "evidencesheetnswplanninglawspolicy",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Evidence Sheet - Strata reforms fourth tranche 2026 (20Oct26).pdf",
+   "name": "Evidence Sheet - Strata reforms fourth tranche 2026 (20Oct26)",
+   "file": "Evidence Sheet - Strata reforms fourth tranche 2026 (20Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 34539,
+   "mtime": 1792439075,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.4"
+   ],
+   "dupe": "evidencesheetstratareformsfourthtranche202620oct26",
    "copyOf": null,
    "primary": true
   },
@@ -9820,6 +9885,23 @@
    "primary": true
   },
   {
+   "path": "Crime/Haines attack - state and federal charges (Evidence summary 21Oct26).pdf",
+   "name": "Haines attack - state and federal charges (Evidence summary 21Oct26)",
+   "file": "Haines attack - state and federal charges (Evidence summary 21Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 31377,
+   "mtime": 1792533855,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.1.5",
+    "crime.2.4"
+   ],
+   "dupe": "hainesattackstateandfederalchargesevidencesummary21oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Incorporating Evidence in a Crime Response.docx",
    "name": "Incorporating Evidence in a Crime Response",
    "file": "Incorporating Evidence in a Crime Response.docx",
@@ -9848,6 +9930,22 @@
     "crime"
    ],
    "dupe": "inquestintothedeathofbradleyvincentbalzan",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/LECC Operation Makalu Town Hall protest hearings (Evidence summary 21Oct26).pdf",
+   "name": "LECC Operation Makalu Town Hall protest hearings (Evidence summary 21Oct26)",
+   "file": "LECC Operation Makalu Town Hall protest hearings (Evidence summary 21Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 35794,
+   "mtime": 1792533853,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.2.1"
+   ],
+   "dupe": "leccoperationmakalutownhallprotesthearingsevidencesummary21oct26",
    "copyOf": null,
    "primary": true
   },
@@ -10571,6 +10669,22 @@
    "primary": true
   },
   {
+   "path": "Crime/Criminal Trial Process/Town Hall protest CCTV subpoena ruling (Evidence summary 21Oct26).pdf",
+   "name": "Town Hall protest CCTV subpoena ruling (Evidence summary 21Oct26)",
+   "file": "Town Hall protest CCTV subpoena ruling (Evidence summary 21Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 34696,
+   "mtime": 1792533854,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7"
+   ],
+   "dupe": "townhallprotestcctvsubpoenarulingevidencesummary21oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Criminal Trial Process/Zakaria permanent stay application (Evidence summary 19Oct26).pdf",
    "name": "Zakaria permanent stay application (Evidence summary 19Oct26)",
    "file": "Zakaria permanent stay application (Evidence summary 19Oct26).pdf",
@@ -10583,6 +10697,22 @@
     "crime.3.1"
    ],
    "dupe": "zakariapermanentstayapplicationevidencesummary19oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Criminal Trial Process/Zakaria stay hearing day one (Evidence summary 21Oct26).pdf",
+   "name": "Zakaria stay hearing day one (Evidence summary 21Oct26)",
+   "file": "Zakaria stay hearing day one (Evidence summary 21Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 29659,
+   "mtime": 1792533856,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.3.1"
+   ],
+   "dupe": "zakariastayhearingdayoneevidencesummary21oct26",
    "copyOf": null,
    "primary": true
   },
@@ -10616,6 +10746,22 @@
     "crime.5"
    ],
    "dupe": "doesthecjstreatyoungpeopleeffectively",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Young Offenders/Narrabeen Lagoon 13-year-old charged (Evidence summary 20Oct26).pdf",
+   "name": "Narrabeen Lagoon 13-year-old charged (Evidence summary 20Oct26)",
+   "file": "Narrabeen Lagoon 13-year-old charged (Evidence summary 20Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 31300,
+   "mtime": 1792439073,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.5.1"
+   ],
+   "dupe": "narrabeenlagoon13yearoldchargedevidencesummary20oct26",
    "copyOf": null,
    "primary": true
   },
@@ -11250,18 +11396,18 @@
    "primary": true
   },
   {
-   "path": "Crime/Sentencing and Punishment/Moore Park rapist sentence hearing (Evidence summary 20Oct26).pdf",
-   "name": "Moore Park rapist sentence hearing (Evidence summary 20Oct26)",
-   "file": "Moore Park rapist sentence hearing (Evidence summary 20Oct26).pdf",
+   "path": "Crime/Sentencing and Punishment/Moore Park rapist sentencing hearing (Evidence summary 21Oct26).pdf",
+   "name": "Moore Park rapist sentencing hearing (Evidence summary 21Oct26)",
+   "file": "Moore Park rapist sentencing hearing (Evidence summary 21Oct26).pdf",
    "ext": "pdf",
-   "bytes": 30835,
-   "mtime": 1792439074,
+   "bytes": 33817,
+   "mtime": 1792533855,
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "crime.4"
+    "crime.4.3"
    ],
-   "dupe": "mooreparkrapistsentencehearingevidencesummary20oct26",
+   "dupe": "mooreparkrapistsentencinghearingevidencesummary21oct26",
    "copyOf": null,
    "primary": true
   },
