@@ -317,7 +317,7 @@ a.pill:hover .ic{color:var(--accent)}
 .chip.thm{background:none; border-color:var(--line); color:var(--ink-3)}
 .chip.crit{background:none; border-style:dashed; border-color:var(--line); color:var(--ink-3)}
 .chip .ic{font-size:.85rem}
-/* "Also useful for" is the weakest claim on a card, so it stays folded until asked for. */
+/* "Also useful for", themes and criteria stay folded until asked for. */
 .sup-toggle{border:0; background:none; cursor:pointer; color:var(--ink-3); font-size:.71rem; font-weight:600;
   padding:2px 0; display:inline-flex; align-items:center; gap:4px; text-decoration:underline;
   text-underline-offset:2px; text-decoration-color:var(--line)}
@@ -721,8 +721,8 @@ dialog::backdrop{background:rgba(15,18,24,.5); backdrop-filter:blur(2px)}
     <ul>
       <li><strong>About</strong> &mdash; the dot points this evidence is <em>about</em>. Lead with these.</li>
       <li><strong>Also useful for</strong> &mdash; dot points where it helps, though it is really about
-        something else. Worth a sentence, not a paragraph. These are folded away to keep cards tidy;
-        press <em>Show</em> to see them.</li>
+        something else. Worth a sentence, not a paragraph. This row, the themes and the
+        criteria are folded away to keep cards tidy; press <em>Show</em> to see them.</li>
       <li><strong>Themes and challenges</strong> &mdash; the ones it carries, which is how the big essay
         questions are built.</li>
       <li><strong>Effectiveness criteria</strong> &mdash; the syllabus criteria for evaluating
@@ -1089,24 +1089,26 @@ function card(it){
   if (it.core.length)
     rows.push(["About", "The dot points this evidence is about",
                tagChips(it.core, "core")]);
-  if (it.support.length){
-    /* Always folded until asked for. */
-    const open = false;
-    const n = it.support.length, word = n + " dot point" + (n === 1 ? "" : "s");
+  /* Everything below "About" is folded until asked for, so a card leads with what
+     the evidence is about and the rest is one click away. */
+  const fold = (n, one, many, chips) => {
+    const word = n + " " + (n === 1 ? one : many);
+    return '<button class="sup-toggle" data-act="sup" data-n="' + esc(word) + '" aria-expanded="false">' +
+           '<svg class="ic"><use href="#g-chev"/></svg><span>Show ' + esc(word) + "</span></button>" +
+           '<div class="chips sup-list" hidden>' + chips + "</div>";
+  };
+  if (it.support.length)
     rows.push(["Also useful for", "Dot points where it helps, though it is really about something else",
-               '<button class="sup-toggle" data-act="sup" data-n="' + esc(word) + '" aria-expanded="' + open +
-               '"><svg class="ic"><use href="#g-chev"/></svg><span>' + (open ? "Hide " : "Show ") + esc(word) +
-               '</span></button><div class="chips sup-list"' + (open ? "" : " hidden") + ">" +
-               tagChips(it.support, "sup") + "</div>"]);
-  }
+               fold(it.support.length, "dot point", "dot points", tagChips(it.support, "sup"))]);
   if (it.themes.length)
     rows.push(["Themes and challenges", "The themes and challenges it carries — how the big essay questions are built",
-               themeChips(it.themes)]);
+               fold(it.themes.length, "theme", "themes", themeChips(it.themes))]);
   if (it.criteria.length)
     rows.push(["Effectiveness criteria", "The syllabus criteria for evaluating effectiveness that this evidence speaks to",
+               fold(it.criteria.length, "criterion", "criteria",
                it.criteria.map(c => '<button class="chip crit" data-act="criterion" data-id="' + esc(c) +
                '"><svg class="ic"><use href="#g-target"/></svg>' + esc(DATA.criteria[c]) +
-               "</button>").join("")]);
+               "</button>").join(""))]);
   h += '<div class="chiprows">' + rows.map(r =>
     '<div class="chiprow"><span class="chiplab" title="' + esc(r[1]) + '">' + esc(r[0]) + "</span>" +
     '<div class="chips">' + r[2] + "</div></div>").join("") + "</div>";
