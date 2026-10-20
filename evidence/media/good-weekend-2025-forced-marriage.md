@@ -11,7 +11,7 @@ support: fam.1.3, fam.2.4, crime.6.1, crime.4.2, crime.4.3, hr.2.6, hr.2.5, lip.
 themes: crime.t.moral, crime.t.effectiveness, crime.t.balance
 criteria: enforceability, rights, society, justice, accessibility
 document: Human Rights/Forced marriage in Australia women who escape – and the new legal precedent.pdf
-related: modern-slavery-in-australia, modern-slavery-act-2018
+related: modern-slavery-in-australia, modern-slavery-act-2018, criminal-code-cth-transnational-offences
 added: 2026-09-20
 ---
 
@@ -54,3 +54,10 @@ without English. Investigators had hoped a conviction would set a precedent and 
 - **Consent and the legal requirements of marriage** (`fam.1.3`) — real consent, not formal consent.
 - **Non-legal responses** — the alternative reporting pathways that now exist precisely because
   reporting to police carries this cost.
+
+## Update (October 2026)
+
+The AFP received **118 forced-marriage reports in 2024–25**, up from 91 the year before. In July 2026 the
+Commonwealth announced a **'failure to prevent' modern slavery offence** for companies. Use this record
+for `crime.6.1` (forced marriage is a Div 270 slavery-like offence) alongside *Criminal Code (Cth):
+transnational offences*.
