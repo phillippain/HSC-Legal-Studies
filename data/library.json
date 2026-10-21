@@ -4188,6 +4188,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Charis & Charis (No 2) [2026] FedCFamC1F 572 - Case Summary.pdf",
+   "name": "Charis & Charis (No 2) [2026] FedCFamC1F 572 - Case Summary",
+   "file": "Charis & Charis (No 2) [2026] FedCFamC1F 572 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 818261,
+   "mtime": 1792624633,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "charischarisno22026fedcfamc1f572casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Coercive Control Worked Example Crime & Family.pdf",
    "name": "Coercive Control Worked Example Crime & Family",
    "file": "Coercive Control Worked Example Crime & Family.pdf",
@@ -4301,6 +4317,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/DFFH & Haraldson [2026] FedCFamC1F 598 - Case Summary.pdf",
+   "name": "DFFH & Haraldson [2026] FedCFamC1F 598 - Case Summary",
+   "file": "DFFH & Haraldson [2026] FedCFamC1F 598 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 862031,
+   "mtime": 1792624633,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "dffhharaldson2026fedcfamc1f598casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Daalman & Daalman (No 2) [2026] FedCFamC2F 830 - Case Summary.pdf",
    "name": "Daalman & Daalman (No 2) [2026] FedCFamC2F 830 - Case Summary",
    "file": "Daalman & Daalman (No 2) [2026] FedCFamC2F 830 - Case Summary.pdf",
@@ -4317,18 +4349,18 @@
    "primary": true
   },
   {
-   "path": "Cases/Family/Deng [2026] FedCFamC2F 1192 - Case Summary.pdf",
-   "name": "Deng [2026] FedCFamC2F 1192 - Case Summary",
-   "file": "Deng [2026] FedCFamC2F 1192 - Case Summary.pdf",
+   "path": "Cases/Family/Deng [2026] FedCFamC2F 1192 - Case Summary (v2).pdf",
+   "name": "Deng [2026] FedCFamC2F 1192 - Case Summary (v2)",
+   "file": "Deng [2026] FedCFamC2F 1192 - Case Summary (v2).pdf",
    "ext": "pdf",
-   "bytes": 639217,
-   "mtime": 1792041518,
+   "bytes": 874798,
+   "mtime": 1792624633,
    "bucket": "evidence",
    "kind": "case",
    "tags": [
     "family"
    ],
-   "dupe": "deng2026fedcfamc2f1192casesummary",
+   "dupe": "deng2026fedcfamc2f1192casesummaryv2",
    "copyOf": null,
    "primary": true
   },
@@ -4512,6 +4544,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Kegler & Mansons [2026] FedCFamC1F 587 - Case Summary.pdf",
+   "name": "Kegler & Mansons [2026] FedCFamC1F 587 - Case Summary",
+   "file": "Kegler & Mansons [2026] FedCFamC1F 587 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 827136,
+   "mtime": 1792624633,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "keglermansons2026fedcfamc1f587casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Keven & Jaylah (No 2) [2026] FedCFamC2F 1045 - Case Summary.pdf",
    "name": "Keven & Jaylah (No 2) [2026] FedCFamC2F 1045 - Case Summary",
    "file": "Keven & Jaylah (No 2) [2026] FedCFamC2F 1045 - Case Summary.pdf",
@@ -4572,6 +4620,22 @@
     "family"
    ],
    "dupe": "kurbonovahennigsen2026fedcfamc1f520casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Murali & Murali (No 2) [2026] FedCFamC1F 604 - Case Summary.pdf",
+   "name": "Murali & Murali (No 2) [2026] FedCFamC1F 604 - Case Summary",
+   "file": "Murali & Murali (No 2) [2026] FedCFamC1F 604 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 830919,
+   "mtime": 1792624633,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "muralimuralino22026fedcfamc1f604casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4706,18 +4770,34 @@
    "primary": true
   },
   {
-   "path": "Cases/Family/Selley & Dorner [2026] FedCFamC2F 1161 - Case Summary.pdf",
-   "name": "Selley & Dorner [2026] FedCFamC2F 1161 - Case Summary",
-   "file": "Selley & Dorner [2026] FedCFamC2F 1161 - Case Summary.pdf",
+   "path": "Cases/Family/Selley & Dorner [2026] FedCFamC2F 1161 - Case Summary (v2).pdf",
+   "name": "Selley & Dorner [2026] FedCFamC2F 1161 - Case Summary (v2)",
+   "file": "Selley & Dorner [2026] FedCFamC2F 1161 - Case Summary (v2).pdf",
    "ext": "pdf",
-   "bytes": 656150,
-   "mtime": 1792041585,
+   "bytes": 848035,
+   "mtime": 1792624633,
    "bucket": "evidence",
    "kind": "case",
    "tags": [
     "family"
    ],
-   "dupe": "selleydorner2026fedcfamc2f1161casesummary",
+   "dupe": "selleydorner2026fedcfamc2f1161casesummaryv2",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Shung & Khun [2026] FedCFamC1F 613 - Case Summary.pdf",
+   "name": "Shung & Khun [2026] FedCFamC1F 613 - Case Summary",
+   "file": "Shung & Khun [2026] FedCFamC1F 613 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 880921,
+   "mtime": 1792624633,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "shungkhun2026fedcfamc1f613casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4852,6 +4932,38 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Van & Aixin (No 3) [2026] FedCFamC1F 601 - Case Summary.pdf",
+   "name": "Van & Aixin (No 3) [2026] FedCFamC1F 601 - Case Summary",
+   "file": "Van & Aixin (No 3) [2026] FedCFamC1F 601 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 840329,
+   "mtime": 1792624633,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "vanaixinno32026fedcfamc1f601casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/WNZP and Child Support Registrar [2026] ARTA 2398 - Case Summary.pdf",
+   "name": "WNZP and Child Support Registrar [2026] ARTA 2398 - Case Summary",
+   "file": "WNZP and Child Support Registrar [2026] ARTA 2398 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 890091,
+   "mtime": 1792624633,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.1.5"
+   ],
+   "dupe": "wnzpandchildsupportregistrar2026arta2398casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Walsman & Walsman [2026] FedCFamC2F 391.rtf",
    "name": "Walsman & Walsman [2026] FedCFamC2F 391",
    "file": "Walsman & Walsman [2026] FedCFamC2F 391.rtf",
@@ -4880,6 +4992,38 @@
     "family"
    ],
    "dupe": "wannellluxford2026fedcfamc2f930",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/XTXD and Child Support Registrar [2026] ARTA 2401 - Case Summary.pdf",
+   "name": "XTXD and Child Support Registrar [2026] ARTA 2401 - Case Summary",
+   "file": "XTXD and Child Support Registrar [2026] ARTA 2401 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 865344,
+   "mtime": 1792624633,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.1.5"
+   ],
+   "dupe": "xtxdandchildsupportregistrar2026arta2401casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Zeelan & Abney (No 3) [2026] FedCFamC1F 605 - Case Summary.pdf",
+   "name": "Zeelan & Abney (No 3) [2026] FedCFamC1F 605 - Case Summary",
+   "file": "Zeelan & Abney (No 3) [2026] FedCFamC1F 605 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 857885,
+   "mtime": 1792624633,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "zeelanabneyno32026fedcfamc1f605casesummary",
    "copyOf": null,
    "primary": true
   },

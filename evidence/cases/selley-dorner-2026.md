@@ -4,14 +4,14 @@ title: Selley & Dorner [2026] FedCFamC2F 1161
 short: Selley & Dorner
 citation: "[2026] FedCFamC2F 1161"
 date: 2026-07-31
-jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Judge Taglieri
+jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Judge Taglieri, Hobart; heard 25–29 May and 23 June 2026
 significance: Where risk is real but not disqualifying, the court does not choose between contact and safety — it builds a staircase, with a hair test that can send the father back to the bottom of it.
 core: fam.2.4, fam.3.2, fam.2.2
 support: fam.2.5, fam.1.5, fam.2.6, fam.3.4, shel.1.1, ls.1.6
 themes: fam.t.compliance, fam.t.effectiveness, fam.t.values, fam.t.reform, fam.t.cooperation
 criteria: enforceability, rights, responsiveness, justice, accessibility
-document: Cases/Family/Selley & Dorner [2026] FedCFamC2F 1161 - Case Summary.pdf
-related: kawakami-urbonaite-2026, patchett-tapley-2026, family-law-amendment-act-2023, murchin-enfield-no3-2026
+document: Cases/Family/Selley & Dorner [2026] FedCFamC2F 1161 - Case Summary (v2).pdf
+related: kawakami-urbonaite-2026, patchett-tapley-2026, family-law-amendment-act-2023, murchin-enfield-no3-2026, murali-murali-no2-2026, kegler-mansons-2026
 added: 2026-10-15
 ---
 
@@ -38,7 +38,26 @@ rebuild it.
   blocks become one.
 
 Refused: the father's and the ICL's five nights in a single block; the mother's total alcohol ban in
-the twelve hours before care; her proposal to postpone overseas travel to 2030.
+the twelve hours before care; her proposal to postpone overseas travel to 2030 — "unnecessarily
+restrictive and disproportionate to the risk findings" (at [126]).
+
+## How the Court got there
+
+1. Most orders were already agreed; what remained was the number of nights, whether they came in
+   one block, and hair-testing terms the Court found "neither clear nor precise".
+2. The violence allegations had never been put to the mother, so she was **recalled** for further
+   cross-examination — procedural fairness enforced mid-trial. Preferring her evidence: "I find that
+   the father perpetrated family violence towards the mother, predominantly in the period between
+   2021 and 2022" (at [89]); "I accept that he excessively squeezed the elder child's wrist or hand
+   and that he otherwise used physical force to control her actions" (at [91]). Authorities on
+   coercion and control: *Olivier & Olivier* [2020] FamCA 639, *Carter & Wilson* [2023]
+   FedCFamC1A 9, *Pickford & Pickford* [2024] FedCFamC1A 249.
+3. Drinking during the relationship was "problematic and harmful"; he had cut down since August 2025,
+   but "the father has failed to persuade me that the required improvements are lasting" (at [114]).
+4. His own case told against him: he treated the limits on his time and the alcohol orders as "a
+   form of bullying or control of him" — the insight the change depends on was not yet there.
+5. A staircase, not a leap: two blocks rather than one, because a single block would require him to
+   sustain the change for longer; merging left to dispute resolution by the end of 2027.
 
 ## Use it for
 
@@ -61,4 +80,4 @@ About **thirty of the forty-two orders were made by consent**, so this is not a 
 imposed everything over objection. The catchwords say five nights a fortnight; the reasons and orders
 say **four**, and the summary follows the orders — do not quote the catchwords. The 2024 best-interests
 framework applies. Summary prepared for class from the judgment; quotes checked against the judgment
-text.
+text. The six-page class summary of 22 October 2026 replaced the earlier four-page version.
