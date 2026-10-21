@@ -5,7 +5,7 @@ short: Town Hall protest subpoena ruling
 citation: Pre-trial ruling, Local Court of NSW (Judge Scott Nash), 19 October 2026, unreported; ABC News, 20 October 2026
 date: 2026-10-19
 jurisdiction: Local Court of NSW; NSW Police Commissioner as third-party subpoena recipient
-significance: An accused can subpoena the police's own documents to test whether an arrest was lawful — and because assaulting police requires an officer acting in the execution of duty, unlawful policing is a live defence, not just a grievance.
+significance: An accused can subpoena police documents to test whether an arrest was lawful — and because assaulting police needs an officer in the execution of duty, unlawful policing is a defence, not a grievance.
 core: crime.3.7, crime.2.1, crime.3.6
 support: crime.2.4, crime.3.2, crime.3.3, crime.3.4, crime.3.5, crime.1.6, hr.2.10, hr.2.11, hr.2.12, ls.1.6, ls.2.2, ls.3.3, ind.2.3, lip.1.3, lip.2.1
 themes: crime.t.balance, crime.t.discretion, crime.t.compliance, crime.t.effectiveness, lip.t.ruleoflaw

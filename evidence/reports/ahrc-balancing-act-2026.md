@@ -5,7 +5,7 @@ short: AHRC Balancing Act 2026
 citation: Australian Human Rights Commission, Balancing Act: Supporting working parents and carers, October 2026 (Sex Discrimination Commissioner Dr Anna Cody); read with ABC Four Corners, 19 October 2026
 date: 2026-10-19
 jurisdiction: Commonwealth — AHRC, Fair Work Commission, Federal Court and FCFCOA
-significance: Twelve years after the AHRC found half of mothers faced workplace discrimination, the law still gives parents only a right to request flexible work — and the report's 18 reform areas say the protections work "in theory, not in practice".
+significance: Twelve years after the AHRC found half of mothers faced workplace discrimination, parents still have only a right to request flexible work — its 18 reform areas say protections work 'in theory, not in practice'.
 core: fam.3.2, hr.2.4, fam.1.5
 support: hr.2.9, hr.2.7, hr.2.12, hr.2.13, hr.1.3, hr.3.1, ind.2.7, ind.2.6, ls.2.14, ls.4.1, ls.4.2, ls.4.3, lip.1.1, lip.2.1, lip.2.3
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness, hr.t.effectiveness, hr.t.values, hr.t.reform, lip.t.justice

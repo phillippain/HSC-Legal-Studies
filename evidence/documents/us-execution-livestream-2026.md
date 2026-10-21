@@ -5,7 +5,7 @@ short: US execution livestream
 citation: HSC Legal Studies evidence summary, 20 October 2026; built on ABC News of 12 and 16 October 2026, AP and Task & Purpose reports, DFAT's Strategy for Abolition of the Death Penalty (2018), the Death Penalty Abolition Act 1973 (Cth) s 6, Online Safety Act 2021 (Cth) and eSafety regulatory guidance
 date: 2026-10-16
 jurisdiction: United States (Army court-martial, Department of Defense); Australia (eSafety Commissioner, federal government)
-significance: Australia has banned the death penalty in every jurisdiction and lobbies against it abroad, but when an ally planned to broadcast an execution, the eSafety Commissioner said she had no power to stop Australians watching it.
+significance: Australia has banned the death penalty everywhere and lobbies against it abroad, but when an ally planned to broadcast an execution the eSafety Commissioner said she had no power to stop Australians watching.
 core: hr.3.1, hr.2.1, hr.2.9
 support: hr.1.1, hr.1.3, hr.2.2, hr.2.5, hr.2.6, hr.2.7, hr.2.12, hr.2.13, crime.4.6, crime.4.2, ind.3.2, ind.3.3, ls.2.11, ls.2.14, lip.1.5
 themes: hr.t.sovereignty, hr.t.values, hr.t.compliance, hr.t.effectiveness, ind.t.technology
