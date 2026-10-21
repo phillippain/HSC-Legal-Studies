@@ -1,60 +1,68 @@
 ---
 type: document
-title: MP Helen Haines struck by car — a man faces state and federal charges (2026)
+title: MP Helen Haines struck by car — a man faces state and federal charges and is remanded (2026)
 short: Haines attack charges
-citation: HSC Legal Studies evidence summary, 21 October 2026; built on ABC News coverage of 19–21 October 2026, AAP and AP reports, Crimes Act 1958 (Vic) ss 16 and 319, Criminal Code (Cth) s 147.1 and the VLRC's account of Victorian committals
-date: 2026-10-20
-jurisdiction: Victoria and Commonwealth — Victoria Police with the AFP; Wangaratta Magistrates' Court
+citation: HSC Legal Studies evidence summaries, 21 and 22 October 2026; built on ABC News coverage of 19–21 October 2026 including the first court appearance, AAP, AP and SBS reports, Crimes Act 1958 (Vic) ss 16 and 319, Criminal Code (Cth) s 147.1, the Bail Act 1977 (Vic) and the Criminal Procedure Act 2009 (Vic)
+date: 2026-10-21
+jurisdiction: Victoria and Commonwealth — Victoria Police with the AFP; Wangaratta Magistrates' Court (Magistrate Allison Vaughan)
 significance: One act, three charges from two parliaments — the federal offence exists only because the victim is a Commonwealth official, so state and federal criminal law run side by side on the same facts.
 core: crime.1.5, crime.2.4, crime.3.1
 support: crime.1.2, crime.1.6, crime.2.3, crime.2.5, crime.3.6, crime.3.7, crime.3.9, crime.1.8, hr.2.13, ls.2.3, ls.2.6, ls.3.1, ls.3.3, lip.1.2, lip.1.3
 themes: crime.t.balance, crime.t.moral, crime.t.compliance, ls.t.institutions
 criteria: enforceability, rights, justice, responsiveness
-document: Crime/Haines attack - state and federal charges (Evidence summary 21Oct26).pdf
-source: https://www.abc.net.au/news/2026-10-20/brendan-nugent-charged-over-attack-against-helen-haines/107288126
+document: Crime/Haines attack - charges and first court appearance (Evidence summary 22Oct26).pdf
+source: https://www.abc.net.au/news/2026-10-21/helen-haines-attack-live-updates-brendan-nugent-court-hearing/107290276
 related: crimes-act-1900-key-offences, police-and-law-enforcement-agencies, the-adversary-system-and-court-jurisdiction, dpp-v-carr-2002, detention-and-interrogation-rights, bail-act-2013
 added: 2026-10-21
 ---
 
-On **Monday 19 October 2026**, at about 3:35pm, the independent MP for Indi, **Helen Haines**, was
-struck by a LandCruiser outside her Wangaratta electorate office. Bystanders held the driver until
-police arrived. She lost a leg and was in a critical condition at The Alfred. On the night of
+On **Monday 19 October 2026**, at about 3:35pm, the independent MP for Indi, **Helen Haines**, 65,
+was struck by a LandCruiser outside her Wangaratta electorate office; a bystander held the driver
+until police arrived, who seized a knife from the vehicle. She lost her left leg that day and her
+right leg on 21 October, and remained critical but stable at The Alfred. On the night of
 **20 October** Victoria Police, after a joint investigation with the AFP and the Joint Counter
-Terrorism Team, charged a 43-year-old Tarrawingee man with **three offences**, due before
-**Wangaratta Magistrates' Court on 21 October**. **No plea has been entered and he is presumed
-innocent; everything below is an allegation.**
+Terrorism Team, charged a 43-year-old Tarrawingee man with **three offences**; charge sheets later
+added two cannabis counts (cultivation and possession, allegedly 20 October). **No plea has been
+entered and he is presumed innocent; everything below is an allegation.**
 
 ## Two parliaments, three charges
 
 | | *Crimes Act 1958* (Vic) | *Criminal Code* (Cth) s 147.1 |
 |---|---|---|
 | Offence | **s 16** intentionally causing serious injury; **s 319(1A)** dangerous driving causing serious injury | Causing harm to a **Commonwealth public official** |
-| Fault element | s 16 needs intent to cause serious injury; s 319 needs dangerous driving | Intent to cause harm **because of** the official's status or duties |
+| Fault element | s 16 needs intent to cause serious injury; s 319 needs dangerous driving | Intent to cause harm **because of** the official's status or duties — motive is still unknown, so this element may be contested |
 | Maximum | 20 years (s 16); 5 years (s 319(1A)) | 10 years (13 only for judicial or law-enforcement officers) |
 | Victim's status | Irrelevant — protects any person | The whole point — an MP is a Commonwealth public official |
-| Where heard | s 16 is strictly indictable: County Court, judge and jury | Federal offences are tried in state courts exercising federal jurisdiction |
+| Where heard | s 16 is strictly indictable: County Court, judge and jury | Prosecuted alongside the state charges in the same Victorian court exercising federal jurisdiction |
 
-The same conduct underlies all three. Which proceed to trial is a prosecutorial choice.
+Chief Commissioner Mike Bush: the investigation is "far from complete" and further serious charges,
+including **attempted murder** (25 years, ss 321M, 321P), are "not ruled out".
 
-## The pathway (Victoria)
+## First appearance, 21 October 2026
 
-1. **Arrest and charge** — restrained by the public, questioned on 20 October, charged that night.
-2. **Filing hearing** — a remanded accused must be before a magistrate within seven days
-   (*Criminal Procedure Act 2009* (Vic) s 102); bail considered, timetable set.
-3. **Committal** — hand-up brief served at least 42 days before the committal mention (s 108); the
-   magistrate commits only if the evidence is of sufficient weight to support a conviction (s 141(4)).
-4. **Trial** — DPP files an indictment in the County or Supreme Court; judge and jury; the Crown
-   proves each element beyond reasonable doubt.
+- **No bail application.** Because s 16 is a Schedule 2 offence under the *Bail Act 1977* (Vic),
+  the accused would have to show **compelling reasons** — a reverse onus — before bail could be
+  granted. He was remanded, reportedly to Melbourne Assessment Prison; the magistrate noted it was
+  his first time in custody and asked for an immediate medical assessment after a defence
+  submission about a neurological condition and concussion.
+- **Brief of evidence** to be served by **24 December 2026**; **committal mention** at Wangaratta on
+  **4 February 2027**, where he may plead, contest committal, or let the matter go straight up.
+  Committal for trial needs evidence of sufficient weight to support a conviction (*Criminal
+  Procedure Act 2009* s 141(4)); most matters are committed.
 
 ## The context the coverage supplies
 
-- AFP data: reports of threats or harassment against parliamentarians rose from **706 (2022–23)** to
-  **1,009 (2023–24)** to **1,067 (2025–26)**; AFP threat teams were set up in October 2025 and **41**
-  people have since been charged.
+- Reports of threats, harassment and intimidation involving politicians and protected
+  officeholders: **951 (2024–25)** to **1,067 (2025–26)**, up about 12% (Home Affairs Minister);
+  earlier AFP data put 2023–24 at 1,009. AFP threat teams were set up in October 2025; AFP
+  Commissioner Barrett says "almost one individual every week" is charged for targeting
+  Commonwealth officials.
 - s 147.1 was used in 2017 against the man who head-butted Tony Abbott.
-- Police and the AFP called it an isolated incident with no ongoing threat, yet a counter-terrorism
-  team joined; motive has **not** been stated, and ABC Verify found earlier online posts by the
-  accused praising Haines.
+- Police call it deliberate but isolated, with no prior intelligence holdings on the accused; ABC
+  Verify found earlier online posts by him praising Haines.
+- UK comparison: MPs Jo Cox (2016) and Sir David Amess (2021) were killed meeting constituents.
+  Some federal MPs say AFP home-security assessments are lacking; extra measures are planned for the
+  Victorian election on 28 November.
 
 ## Use it for
 
@@ -63,18 +71,19 @@ The same conduct underlies all three. Which proceed to trial is a prosecutorial 
 - **crime.3.1 / ls.2.3 / ls.2.6 (jurisdiction, division of powers)** — the cleanest current example
   of concurrent state and federal criminal law: the Commonwealth has no general criminal power, so
   s 147.1 is tied to the protection of its own officials.
-- **crime.2.4 / crime.2.5** — citizen's arrest by bystanders, charge within 48 hours, remand and a
-  first appearance inside the seven-day limit.
+- **crime.2.4 / crime.2.5** — citizen's arrest by a bystander, charge within 48 hours, a
+  **reverse-onus bail** test, and a first appearance inside the seven-day limit.
 - **crime.3.6 / crime.3.9 / hr.2.13 (fair trial and the media)** — unofficial mental-health claims,
   a neighbour's account and the accused's online history were published before any plea: material
   for the tension between open reporting and jury impartiality.
-- **crime.1.8** — the AFP's rising threat statistics as the factor behind the response.
+- **crime.1.8** — the rising threat statistics as the factor behind the response.
 
 ## Caution
 
-A **class-made summary** of **live news written within 48 hours of the incident**. All facts are
-allegations; the mental-health reports rest on unnamed sources; the Victorian penalties and the
-s 147.1 elements come from practitioner summaries and AustLII rather than authorised legislation.
-The outcome of the 21 October appearance (bail or remand) was **not retrieved** — check later
-reports before using the case for anything after the charge. Do not describe the attack as
-terrorism or politically motivated: no motive has been alleged by police.
+A **class-made summary** of **live news written within 72 hours of the incident**. All facts are
+allegations; no plea has been entered; the neurological-condition claim is a defence submission;
+the Victorian penalties and the s 147.1 elements come from AustLII and practitioner summaries rather
+than authorised legislation; the prison transfer was the ABC's understanding, not a court order.
+Threat statistics are government figures. Do not describe the attack as terrorism or politically
+motivated: no motive has been alleged by police. Check reports after the February committal
+mention before using anything beyond the charges.

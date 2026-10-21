@@ -12,7 +12,7 @@ themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform, fam.t.values, hr.t.
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, justice
 document: Family/Evidence Summaries/Remote NT women's safety report (Evidence summary 16Oct26).pdf
 source: https://www.abc.net.au/news/2026-10-15/remote-nt-communities-work-to-break-domestic-violence-cycle/107262158
-related: crimes-domestic-personal-violence-act-2007, conversation-2026-dv-prevention-funding, smh-2026-fairleigh-coercive-control, nit-2024-family-is-culture, atsi-customary-law, violence-against-women-media-campaigns
+related: alpurrurulam-remote-nt-violence-2026, crimes-domestic-personal-violence-act-2007, conversation-2026-dv-prevention-funding, smh-2026-fairleigh-coercive-control, nit-2024-family-is-culture, atsi-customary-law, violence-against-women-media-campaigns
 added: 2026-10-16
 ---
 

@@ -3493,6 +3493,22 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Alpurrurulam - remote NT family violence after a girl's death (Evidence summary 22Oct26).pdf",
+   "name": "Alpurrurulam - remote NT family violence after a girl's death (Evidence summary 22Oct26)",
+   "file": "Alpurrurulam - remote NT family violence after a girl's death (Evidence summary 22Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 36761,
+   "mtime": 1792612752,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.2.4"
+   ],
+   "dupe": "alpurrurulamremotentfamilyviolenceafteragirlsdeathevidencesummary22oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Baby broker: The ‘crazy car salesman’ brokering babies and holding embryos ‘hostage’.pdf",
    "name": "Baby broker: The ‘crazy car salesman’ brokering babies and holding embryos ‘hostage’",
    "file": "Baby broker: The ‘crazy car salesman’ brokering babies and holding embryos ‘hostage’.pdf",
@@ -3578,6 +3594,22 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/NSW break and enter and covert stalking DV reforms (Evidence summary 22Oct26).pdf",
+   "name": "NSW break and enter and covert stalking DV reforms (Evidence summary 22Oct26)",
+   "file": "NSW break and enter and covert stalking DV reforms (Evidence summary 22Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 33854,
+   "mtime": 1792612751,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.4"
+   ],
+   "dupe": "nswbreakandenterandcovertstalkingdvreformsevidencesummary22oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Regional IVF ABC News CNOPR SBT.pdf",
    "name": "Regional IVF ABC News CNOPR SBT",
    "file": "Regional IVF ABC News CNOPR SBT.pdf",
@@ -3628,18 +3660,18 @@
    "primary": true
   },
   {
-   "path": "Family/Evidence Summaries/Temporary visas and family violence (Evidence summary 20Oct26 v2).pdf",
-   "name": "Temporary visas and family violence (Evidence summary 20Oct26 v2)",
-   "file": "Temporary visas and family violence (Evidence summary 20Oct26 v2).pdf",
+   "path": "Family/Evidence Summaries/Temporary visas and family violence (Evidence summary 22Oct26 v3).pdf",
+   "name": "Temporary visas and family violence (Evidence summary 22Oct26 v3)",
+   "file": "Temporary visas and family violence (Evidence summary 22Oct26 v3).pdf",
    "ext": "pdf",
-   "bytes": 31439,
-   "mtime": 1792439077,
+   "bytes": 35025,
+   "mtime": 1792612752,
    "bucket": "evidence",
    "kind": "document",
    "tags": [
     "fam.2.4"
    ],
-   "dupe": "temporaryvisasandfamilyviolenceevidencesummary20oct26v2",
+   "dupe": "temporaryvisasandfamilyviolenceevidencesummary22oct26v3",
    "copyOf": null,
    "primary": true
   },
@@ -5431,6 +5463,23 @@
    "primary": true
   },
   {
+   "path": "Human Rights/AHRC commissioners on the Darwin YiSSA shelter closure (Evidence summary 22Oct26).pdf",
+   "name": "AHRC commissioners on the Darwin YiSSA shelter closure (Evidence summary 22Oct26)",
+   "file": "AHRC commissioners on the Darwin YiSSA shelter closure (Evidence summary 22Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 34798,
+   "mtime": 1792612750,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.4",
+    "shel.3.3"
+   ],
+   "dupe": "ahrccommissionersonthedarwinyissashelterclosureevidencesummary22oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/Child Soldiers in Modern Conflicts.pdf",
    "name": "Child Soldiers in Modern Conflicts",
    "file": "Child Soldiers in Modern Conflicts.pdf",
@@ -5672,6 +5721,23 @@
     "humanrights"
    ],
    "dupe": "kmartcameraglassesprivacyandsurveillancehscevidencesummary7oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/National Student Ombudsman - UTS Jewish student complaints (Evidence summary 22Oct26).pdf",
+   "name": "National Student Ombudsman - UTS Jewish student complaints (Evidence summary 22Oct26)",
+   "file": "National Student Ombudsman - UTS Jewish student complaints (Evidence summary 22Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 32253,
+   "mtime": 1792612750,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.4",
+    "hr.3.1"
+   ],
+   "dupe": "nationalstudentombudsmanutsjewishstudentcomplaintsevidencesummary22oct26",
    "copyOf": null,
    "primary": true
   },
@@ -8660,34 +8726,34 @@
    "primary": true
   },
   {
-   "path": "Shelter/Evidence Sheets/Evidence Sheet - Brooms Head over-55s rule set aside by NCAT (20Oct26).pdf",
-   "name": "Evidence Sheet - Brooms Head over-55s rule set aside by NCAT (20Oct26)",
-   "file": "Evidence Sheet - Brooms Head over-55s rule set aside by NCAT (20Oct26).pdf",
+   "path": "Shelter/Evidence Sheets/Evidence Sheet - Brooms Head over-55s rule set aside by NCAT (22Oct26 v2).pdf",
+   "name": "Evidence Sheet - Brooms Head over-55s rule set aside by NCAT (22Oct26 v2)",
+   "file": "Evidence Sheet - Brooms Head over-55s rule set aside by NCAT (22Oct26 v2).pdf",
    "ext": "pdf",
-   "bytes": 30427,
-   "mtime": 1792439076,
+   "bytes": 31007,
+   "mtime": 1792612751,
    "bucket": "evidence",
    "kind": "document",
    "tags": [
     "shel.2.4"
    ],
-   "dupe": "evidencesheetbroomsheadover55srulesetasidebyncat20oct26",
+   "dupe": "evidencesheetbroomsheadover55srulesetasidebyncat22oct26v2",
    "copyOf": null,
    "primary": true
   },
   {
-   "path": "Shelter/Evidence Sheets/Evidence Sheet - Group renting and co-tenancy (20Oct26 v2).pdf",
-   "name": "Evidence Sheet - Group renting and co-tenancy (20Oct26 v2)",
-   "file": "Evidence Sheet - Group renting and co-tenancy (20Oct26 v2).pdf",
+   "path": "Shelter/Evidence Sheets/Evidence Sheet - Group renting and co-tenancy (22Oct26 v3).pdf",
+   "name": "Evidence Sheet - Group renting and co-tenancy (22Oct26 v3)",
+   "file": "Evidence Sheet - Group renting and co-tenancy (22Oct26 v3).pdf",
    "ext": "pdf",
-   "bytes": 30793,
-   "mtime": 1792439076,
+   "bytes": 34646,
+   "mtime": 1792612751,
    "bucket": "evidence",
    "kind": "document",
    "tags": [
     "shel.2.2"
    ],
-   "dupe": "evidencesheetgrouprentingandcotenancy20oct26v2",
+   "dupe": "evidencesheetgrouprentingandcotenancy22oct26v3",
    "copyOf": null,
    "primary": true
   },
@@ -9885,19 +9951,20 @@
    "primary": true
   },
   {
-   "path": "Crime/Haines attack - state and federal charges (Evidence summary 21Oct26).pdf",
-   "name": "Haines attack - state and federal charges (Evidence summary 21Oct26)",
-   "file": "Haines attack - state and federal charges (Evidence summary 21Oct26).pdf",
+   "path": "Crime/Haines attack - charges and first court appearance (Evidence summary 22Oct26).pdf",
+   "name": "Haines attack - charges and first court appearance (Evidence summary 22Oct26)",
+   "file": "Haines attack - charges and first court appearance (Evidence summary 22Oct26).pdf",
    "ext": "pdf",
-   "bytes": 31377,
-   "mtime": 1792533855,
+   "bytes": 33529,
+   "mtime": 1792612748,
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "crime.1.5",
-    "crime.2.4"
+    "crime.2.4",
+    "crime.2.5",
+    "crime.3.1"
    ],
-   "dupe": "hainesattackstateandfederalchargesevidencesummary21oct26",
+   "dupe": "hainesattackchargesandfirstcourtappearanceevidencesummary22oct26",
    "copyOf": null,
    "primary": true
   },
@@ -10045,6 +10112,23 @@
     "crime.2"
    ],
    "dupe": "nswpolicepowerstwopagesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/NSW Workplace Protection Orders bill (Evidence summary 22Oct26).pdf",
+   "name": "NSW Workplace Protection Orders bill (Evidence summary 22Oct26)",
+   "file": "NSW Workplace Protection Orders bill (Evidence summary 22Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 31977,
+   "mtime": 1792612749,
+   "bucket": "evidence",
+   "kind": "legislation",
+   "tags": [
+    "crime.1.9",
+    "crime.4.6"
+   ],
+   "dupe": "nswworkplaceprotectionordersbillevidencesummary22oct26",
    "copyOf": null,
    "primary": true
   },
@@ -10669,18 +10753,18 @@
    "primary": true
   },
   {
-   "path": "Crime/Criminal Trial Process/Town Hall protest CCTV subpoena ruling (Evidence summary 21Oct26).pdf",
-   "name": "Town Hall protest CCTV subpoena ruling (Evidence summary 21Oct26)",
-   "file": "Town Hall protest CCTV subpoena ruling (Evidence summary 21Oct26).pdf",
+   "path": "Crime/Criminal Trial Process/Town Hall protest CCTV subpoena ruling (Evidence summary 22Oct26 v2).pdf",
+   "name": "Town Hall protest CCTV subpoena ruling (Evidence summary 22Oct26 v2)",
+   "file": "Town Hall protest CCTV subpoena ruling (Evidence summary 22Oct26 v2).pdf",
    "ext": "pdf",
-   "bytes": 34696,
-   "mtime": 1792533854,
+   "bytes": 32869,
+   "mtime": 1792612749,
    "bucket": "evidence",
    "kind": "case",
    "tags": [
     "crime.3.7"
    ],
-   "dupe": "townhallprotestcctvsubpoenarulingevidencesummary21oct26",
+   "dupe": "townhallprotestcctvsubpoenarulingevidencesummary22oct26v2",
    "copyOf": null,
    "primary": true
   },

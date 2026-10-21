@@ -2,7 +2,7 @@
 type: case
 title: Brooms Head Holiday Park — NCAT sets aside Clarence Valley Council's over-55s residency rule (2026)
 short: Brooms Head over-55s rule
-citation: NCAT Consumer and Commercial Division, decision of 12 October 2026 (unreported; no neutral citation found); ABC News, 19 October 2026; Clarence Valley Independent, 20 October 2026
+citation: NCAT Consumer and Commercial Division (Senior Member Katherine Merrick, as reported), decision of 12 October 2026 (unreported; no neutral citation found); ABC News, 19 October 2026; Clarence Valley Independent, 20 October 2026
 date: 2026-10-12
 jurisdiction: NSW Civil and Administrative Tribunal; Clarence Valley Council as operator of a Crown land park
 significance: A council could not bar under-55s from a residential park by rewriting the community rules — s 86 of the land lease Act requires rules to be fair and reasonable, and NCAT found no coherent purpose for this one.
@@ -10,7 +10,7 @@ core: shel.2.4, shel.2.6, shel.2.3
 support: shel.2.5, shel.2.8, shel.2.10, shel.1.4, shel.3.1, shel.3.2, ind.2.3, ls.2.5, lip.1.1, lip.2.1, lip.2.3
 themes: shel.t.effectiveness, shel.t.compliance, shel.t.cooperation, shel.t.values
 criteria: accessibility, enforceability, rights, justice, responsiveness
-document: Shelter/Evidence Sheets/Evidence Sheet - Brooms Head over-55s rule set aside by NCAT (20Oct26).pdf
+document: Shelter/Evidence Sheets/Evidence Sheet - Brooms Head over-55s rule set aside by NCAT (22Oct26 v2).pdf
 source: https://www.abc.net.au/news/2026-10-19/brooms-head-holiday-park-permanent-residents-win-case/107271462
 related: ncat-act-2013, ncat-annual-report-2024-25, shelter-dispute-resolution-map, strata-schemes-management-act-2015, cooper-2020, shelter-discrimination-evidence-sheet
 added: 2026-10-21
@@ -40,16 +40,25 @@ Heard **3 September**; decided **12 October 2026**.
 2. 30 days' written notice; residents committee consulted first (**s 90**).
 3. Resident or operator applies to NCAT (**s 95(1)**).
 4. NCAT may set aside, amend, modify or uphold the rule, or stay its start (**s 95(2)–(3)**).
-5. Internal appeal to the Appeal Panel — as of right on a question of law, otherwise with leave.
+5. Internal appeal to the Appeal Panel — as of right on a question of law, otherwise with leave
+   (usually 28 days; 14 in residential proceedings); beyond that, only the Supreme Court.
+
+**Age rules are not automatically invalid.** In March 2020 NCAT set aside a 55+ rule at Tweed
+Billabong as unfair and discriminatory, and in December 2020 the **Appeal Panel reinstated it** for
+new residents. Brooms Head therefore turns on its facts — the shifting purpose and the missed
+consultation — and could be appealed.
 
 ## The wider dispute
 
-This is one of two fights at the Clarence Valley parks. In **March 2025** council gave **136**
-holiday-van owners across four parks termination notices (vacate by 30 June 2025), saying tourist
-demand had grown and the sites are public land; owners said some had lived there full-time for years
-and feared homelessness. **About 80** of those cases were still before NCAT at October 2026 (seven
+This is one of two fights at the Clarence Valley parks, under two different Acts. In **March 2025**
+council gave **136** holiday-van owners across four parks termination notices under the *Holiday
+Parks (Long-term Casual Occupation) Act 2002*, which requires a primary residence elsewhere (vacate
+by 30 June 2025), saying tourist demand had grown and the sites are public land; owners said some
+had lived there full-time for years and feared homelessness; a council motion for a full compliance
+audit was defeated 6–3. **About 80** of those cases were still before NCAT at October 2026 (seven
 resolved). Land lease communities house **over 40,000** people in NSW and are promoted as low-cost
-housing for older people.
+housing for older people; the Tenants' Union argues mixed parks should have rules that bind
+everyone, not only residents.
 
 ## Use it for
 

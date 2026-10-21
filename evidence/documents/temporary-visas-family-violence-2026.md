@@ -2,7 +2,7 @@
 type: document
 title: Women on temporary visas fleeing violence fall through the cracks (2026)
 short: Temporary visas and family violence
-citation: HSC Legal Studies evidence summaries, 19 and 20 October 2026; built on ABC News of 19 October 2026, the Migration Regulations 1994 family violence provisions as expanded in 2024, Home Affairs guidance, ALRC Report 117 (2011), the Red Cross pilot evaluation (2024) and the 2026 Blueprint for Reform
+citation: HSC Legal Studies evidence summaries, 19, 20 and 22 October 2026; built on ABC News of 19 October 2026, the Migration Regulations 1994 family violence provisions as expanded in three stages in 2024 (F2024L00751, F2024L01652), Home Affairs guidance, ALRC Report 117 (2011), the Red Cross pilot evaluation (2024) and the 2026 Blueprint for Reform
 date: 2026-10-19
 jurisdiction: Commonwealth, with Tasmanian services
 significance: Whether a woman can leave a violent partner without losing her right to stay depends on her visa subclass, not on how serious the violence was.
@@ -10,7 +10,7 @@ core: fam.2.4, fam.1.4, fam.2.6
 support: fam.1.5, fam.2.5, fam.2.7, fam.3.4, hr.3.1, hr.2.9, hr.2.12, hr.2.4, shel.3.3, shel.2.9, ls.1.5, ls.4.1, ls.4.2, ind.2.6, lip.1.1, lip.2.1, lip.2.3
 themes: fam.t.effectiveness, fam.t.reform, fam.t.values, fam.t.compliance, hr.t.effectiveness, lip.t.justice
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, justice
-document: Family/Evidence Summaries/Temporary visas and family violence (Evidence summary 20Oct26 v2).pdf
+document: Family/Evidence Summaries/Temporary visas and family violence (Evidence summary 22Oct26 v3).pdf
 source: https://www.abc.net.au/news/2026-10-19/migrant-temporary-visas-family-violence-risk/106737340
 related: conversation-2026-migration-dfv, crimes-act-1900-s54d, crimes-domestic-personal-violence-act-2007, remote-nt-womens-safety-2026, good-weekend-2025-forced-marriage, conversation-2026-dv-prevention-funding
 added: 2026-10-19
@@ -27,7 +27,7 @@ violence.
 | | Covered (partner, prospective marriage, some skilled and family secondary applicants) | Not covered (student, visitor, seasonal worker) |
 |---|---|---|
 | Permanent residence | Can still be granted after the relationship ends | No family violence pathway; often only a **protection (asylum)** claim |
-| Which visas | Partner (820, 309), prospective marriage (300, since 1 July 2024) and secondary applicants on listed subclasses | Student (500) and other temporary visas are not listed; abuse by other relatives is never covered |
+| Which visas | Partner (820, 309), prospective marriage (300, since 1 July 2024); secondary applicants on seven skilled visas (from 15 Oct 2024) and eleven more permanent visas including parent, carer and business (from 17 Dec 2024) | Student (500), seasonal worker and other temporary visas are not listed; abuse by other relatives is never covered; family visas where the violence is by an Australian sponsor are excluded |
 | Proof | Family violence shown by a protection order made after the perpetrator was heard, a conviction, a *Family Law Act* s 114 injunction, or other evidence | A real chance of serious harm if returned home |
 | Waiting time | Home Affairs prioritises at-risk applications | A protection claim can take **up to five years**, one lawyer says; the Tasmanian case took about two years including a tribunal appeal; bridging visas may lack work rights |
 | Centrelink, Medicare | Wider access once permanent, subject to waiting periods | Often no Centrelink; Medicare only via ministerial orders |
@@ -61,7 +61,12 @@ protection order (an ADVO in NSW) remain available whatever the visa.
   15 October, 17 December) with $8.9m funding, adding **20 subclasses**, and Home Affairs says further
   changes are in development. This matters because it is the government's answer to the article.
 - **ind.2.6 / administrative review** — a refusal goes to the **Administrative Review Tribunal**,
-  which replaced the AAT on 14 October 2024.
+  which replaced the AAT on 14 October 2024. The featured survivor, a PNG seasonal worker, used
+  **asylum, not the family violence provisions**: refused, then granted on review after about two
+  years — the route advocates say a dedicated visa would make unnecessary.
+- **The government's counter-argument** — Home Affairs has warned that opening the provisions to
+  temporary visas could create an incentive for false claims; the ALRC in 2011 suggested any new
+  visa be strictly temporary. Useful for a balanced evaluation rather than a one-sided one.
 
 ## Caution
 
