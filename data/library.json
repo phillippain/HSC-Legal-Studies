@@ -7390,6 +7390,22 @@
    "primary": true
   },
   {
+   "path": "Shelter/AHURI Final Report 347 - Ending homelessness in Australia (2020).pdf",
+   "name": "AHURI Final Report 347 - Ending homelessness in Australia (2020)",
+   "file": "AHURI Final Report 347 - Ending homelessness in Australia (2020).pdf",
+   "ext": "pdf",
+   "bytes": 2676454,
+   "mtime": 1792628319,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "shel.3.3"
+   ],
+   "dupe": "ahurifinalreport347endinghomelessnessinaustralia2020",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Adverse Possession - The lawyer who lost a squatter’s rights fight over a Rozelle home.pdf",
    "name": "Adverse Possession - The lawyer who lost a squatter’s rights fight over a Rozelle home",
    "file": "Adverse Possession - The lawyer who lost a squatter’s rights fight over a Rozelle home.pdf",
@@ -7846,6 +7862,22 @@
    "primary": true
   },
   {
+   "path": "Shelter/Guardian 2025 - Pari rough sleeper moved on by police (application sheet).pdf",
+   "name": "Guardian 2025 - Pari rough sleeper moved on by police (application sheet)",
+   "file": "Guardian 2025 - Pari rough sleeper moved on by police (application sheet).pdf",
+   "ext": "pdf",
+   "bytes": 75850,
+   "mtime": 1792628319,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "shel.3.3"
+   ],
+   "dupe": "guardian2025pariroughsleepermovedonbypoliceapplicationsheet",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Guidetopurchaseyourhome.pdf",
    "name": "Guidetopurchaseyourhome",
    "file": "Guidetopurchaseyourhome.pdf",
@@ -7874,6 +7906,22 @@
     "shelter"
    ],
    "dupe": "hilda2026shelterevidencebrief",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/HILDA 2026 housing data - full Statistical Report (Melbourne Institute).pdf",
+   "name": "HILDA 2026 housing data - full Statistical Report (Melbourne Institute)",
+   "file": "HILDA 2026 housing data - full Statistical Report (Melbourne Institute).pdf",
+   "ext": "pdf",
+   "bytes": 18725091,
+   "mtime": 1792628319,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "shel.3.1"
+   ],
+   "dupe": "hilda2026housingdatafullstatisticalreportmelbourneinstitute",
    "copyOf": null,
    "primary": true
   },
@@ -7908,6 +7956,22 @@
     "shel.3.3"
    ],
    "dupe": "homelessnessevidencesheet",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Homelessness NSW - A place to call home (Dec 2025).pdf",
+   "name": "Homelessness NSW - A place to call home (Dec 2025)",
+   "file": "Homelessness NSW - A place to call home (Dec 2025).pdf",
+   "ext": "pdf",
+   "bytes": 10756737,
+   "mtime": 1792628319,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.3"
+   ],
+   "dupe": "homelessnessnswaplacetocallhomedec2025",
    "copyOf": null,
    "primary": true
   },
@@ -8217,6 +8281,38 @@
     "shelter"
    ],
    "dupe": "purchserprotectionsessayparagraphexample",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Renovation eviction evidence rollback - LSJ 31 July 2025.pdf",
+   "name": "Renovation eviction evidence rollback - LSJ 31 July 2025",
+   "file": "Renovation eviction evidence rollback - LSJ 31 July 2025.pdf",
+   "ext": "pdf",
+   "bytes": 525547,
+   "mtime": 1792628319,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.3"
+   ],
+   "dupe": "renovationevictionevidencerollbacklsj31july2025",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Renovation eviction evidence rollback - SMH 2 Sept 2025 (evidence summary table).pdf",
+   "name": "Renovation eviction evidence rollback - SMH 2 Sept 2025 (evidence summary table)",
+   "file": "Renovation eviction evidence rollback - SMH 2 Sept 2025 (evidence summary table).pdf",
+   "ext": "pdf",
+   "bytes": 108441,
+   "mtime": 1792628319,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "shel.2.3"
+   ],
+   "dupe": "renovationevictionevidencerollbacksmh2sept2025evidencesummarytable",
    "copyOf": null,
    "primary": true
   },

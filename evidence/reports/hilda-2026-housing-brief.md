@@ -61,4 +61,6 @@ below its 2021 level.
 Survey data, self-reported, and to 2024 — it cannot capture 2025–26 changes. Chart values in the
 brief were read off the report's figures, so quote them as approximate; the exact tables are in
 chapters 11 (affordability and adequacy), 8 (housing stress), 3 (single parents) and 9 (food
-insecurity). "Housing stress" is a defined measure: use it precisely or not at all.
+insecurity). The **full 188-page Statistical Report** (*The 21st Annual Statistical Report of the
+HILDA Survey*) is in the library beside this brief as "HILDA 2026 housing data - full Statistical
+Report (Melbourne Institute).pdf" — use it to check any figure before quoting it. "Housing stress" is a defined measure: use it precisely or not at all.
