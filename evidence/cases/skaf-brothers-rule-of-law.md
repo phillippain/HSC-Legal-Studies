@@ -1,8 +1,8 @@
 ---
 type: case
 title: R v Bilal Skaf; R v Mohammed Skaf — juror misconduct, totality and parole (2001–2026)
-short: The Skaf brothers
-citation: "R v Skaf [2004] NSWCCA 37; [2006] NSWSC 394; R v Skaf [2008] NSWCCA 303"
+short: Skaf brothers
+citation: "R v Skaf [2004] NSWCCA 37; (2004) 60 NSWLR 86; [2006] NSWSC 394; R v Skaf [2008] NSWCCA 303"
 date: 2008
 jurisdiction: District Court of NSW, Supreme Court of NSW and the NSW Court of Criminal Appeal
 significance: Two jurors visited the park at night to test the lighting — and the most serious offences of their time had to be retried, because a verdict may rest only on evidence tested in court.
@@ -10,9 +10,9 @@ core: crime.3.9, crime.4.3, crime.4.5
 support: crime.3.1, crime.3.2, crime.3.6, crime.3.7, crime.4.1, crime.4.2, crime.4.4, crime.4.8, crime.1.5, ls.1.5, ls.1.7, ls.4.1, lip.1.4
 themes: crime.t.discretion, crime.t.balance, crime.t.effectiveness, crime.t.reform, crime.t.moral
 criteria: justice, rights, ruleoflaw, enforceability, society, accessibility
-document: Cases/Crime/R v Skaf brothers - Rule of Law case note.pdf
+document: Cases/Crime/R v Skaf [2004] NSWCCA 37 - Case Summary.pdf
 source: https://www.ruleoflaw.org.au
-related: role-of-juries, crimes-sentencing-procedure-act-1999, use-of-evidence-and-witnesses, r-v-lodhi-2006
+related: hoang-v-the-queen-2022, jury-act-1977, role-of-juries, crimes-sentencing-procedure-act-1999, use-of-evidence-and-witnesses, r-v-lodhi-2006
 added: 2026-10-13
 ---
 
@@ -50,6 +50,14 @@ have returned the same verdict if the irregularity had not occurred". The observ
 evidence, were not the subject of directions, and could not be tested — "procedural unfairness (denial
 of natural justice) as the accused were unable to test the material in any way."
 
+**The 2004 judgment** (Mason P, Wood CJ at CL and Sully J, 6 May 2004) held a juror's account of a
+visit made *outside* the jury room is not protected as "deliberations", and that an unauthorised view
+on the central issue of identification meant a new trial unless the Court could be satisfied the
+irregularity did not affect the verdict (*R v K* [2003] NSWCCA 406). It also upheld grounds on the
+use of Mohammed's lie as "a tendency to deceit" (*Evidence Act* ss 95, 97, 101) and on his selective
+silence (s 89), and called for a Jury Act offence — which became **s 68C**. *Hoang v The Queen* (2022)
+is the High Court enforcing that section.
+
 ## Use it for
 
 - **crime.3.9 (juries)** — the strongest Australian example of what jury directions are *for*, and of
@@ -68,8 +76,8 @@ of natural justice) as the accused were unable to test the material in any way."
 
 ## Caution
 
-A **Rule of Law Education Centre** teaching resource, not a judgment: it is written to explain
+The card now links to a case summary of the **2004 judgment** itself. The broader story above comes
+from a **Rule of Law Education Centre** teaching resource (filed beside it), not a judgment: it is written to explain
 principles and reads sympathetically to the courts, so quote the *principles* from it and the
 *findings* from the judgments it cites. Sentences changed six times — always say which year's figure
-you are using. The 2026 charges against Mohammed Skaf are **allegations**, untested. A one-page case
-brief of the same material is filed beside it in the library.
+you are using. The 2026 charges against Mohammed Skaf are **allegations**, untested. The Rule of Law case note and a one-page brief of it are filed beside the summary in the library.

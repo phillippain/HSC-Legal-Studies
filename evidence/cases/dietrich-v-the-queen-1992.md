@@ -2,37 +2,46 @@
 type: case
 title: Dietrich v The Queen (1992) 177 CLR 292
 short: Dietrich v The Queen
-citation: (1992) 177 CLR 292
-date: 1992
-jurisdiction: High Court of Australia
+citation: (1992) 177 CLR 292; [1992] HCA 57 (13 November 1992)
+date: 1992-11-13
+jurisdiction: High Court of Australia (5–2)
 significance: There is no right to be provided with a lawyer, but a serious trial that proceeds without one may be stayed because it cannot be fair.
 core: crime.3.5
-support: crime.3.2, crime.3.6, ls.1.6, ls.2.2, ind.1.1, hr.2.9
+support: crime.3.2, crime.3.6, crime.4.5, ls.1.5, ls.1.6, ls.2.2, ind.1.1, hr.2.9
 themes: crime.t.balance, crime.t.effectiveness, crime.t.moral
 criteria: accessibility, rights, ruleoflaw, justice
-document: Crime/Criminal Trial Process/3c. Legal representation & Standard and burden of Proof.docx
-related: legal-representation-and-legal-aid, iccpr-1966
+document: Cases/Crime/Dietrich v The Queen (1992) 177 CLR 292 - Case Summary.pdf
+related: legal-representation-and-legal-aid, iccpr-1966, legal-aid-commission-act-1979, symons-v-r-2024, lawyer-magazine-2026-legal-aid-nsw
 added: 2026-09-19
 ---
 
-Dietrich was tried on serious drug charges without counsel after legal aid was refused except on
-condition he plead guilty. He was convicted, and appealed on the ground that the trial was unfair.
+Olaf Dietrich was arrested at Melbourne Airport in December 1986 with heroin concealed in his body
+and charged with importing a trafficable quantity. Legal Aid would fund him **only if he pleaded
+guilty**; every other avenue to a lawyer failed. His request for an adjournment was refused, and he
+ran a **forty-day jury trial unrepresented**. He was convicted and sentenced to seven years.
 
-## Held
+## Held — 5–2 (Mason CJ and McHugh J jointly; Deane, Toohey and Gaudron JJ)
 
-The High Court held there is **no constitutional or common law right to publicly funded legal
-representation**. But an accused charged with a **serious offence** who, through no fault of their own,
-is unrepresented, has a right to a **fair trial** — and a trial that proceeds in those circumstances
-will ordinarily be unfair. The remedy is an **adjournment or a stay** until representation is arranged.
+- There is **no common law, statutory or constitutional right to counsel at public expense**. The
+  *Crimes Act 1958* (Vic) s 397 gives a right to be represented by counsel you can obtain, not counsel
+  provided; ICCPR art 14(3)(d) is not part of Australian law.
+- But there is a right **not to be tried unfairly**, enforced by the court's power over its own
+  process. An accused charged with a **serious offence** who, through no fault of their own, is
+  unrepresented should ordinarily have the trial **adjourned or stayed** until representation is
+  available.
+- A trial that goes ahead regardless will ordinarily be unfair: the conviction was **quashed** and a
+  new trial ordered. Brennan and Dawson JJ dissented.
 
 ## Use it for
 
-- **Legal representation and legal aid** — the case establishes a *limited and indirect* right: the
-  court cannot order funding, it can only stop the trial. That gap between a right and a remedy is
-  the sharpest thing to write about here.
-- **Accessibility** — read it against Legal Aid's means, merits and jurisdiction tests and the
-  estimated 500,000 Australians a year missing out on legal assistance. *Dietrich* protects the
-  seriously charged; it does nothing for the summary matter or the civil dispute.
-- Compare with **ICCPR art 14(3)(d)**, which does require legal assistance assigned without payment
-  where the interests of justice require it and the accused lacks means — a good illustration of an
-  international standard that Australian domestic law only partly reaches.
+- **crime.3.5** — a *limited and indirect* right: the court cannot order funding, it can only stop the
+  trial. That gap between a right and a remedy is the sharpest thing to write about here.
+- **Accessibility** — read against Legal Aid's means, merit and policy tests. *Dietrich* protects the
+  seriously charged; it does nothing for the summary matter or the civil dispute. *Symons* (2024)
+  shows legal aid delays still shaping appeals.
+- **ICCPR art 14(3)(d)** — an international standard that domestic law only partly reaches.
+
+## Caution
+
+*Dietrich* concerns **serious** charges; courts decide case by case what counts. The stay is a power,
+not an entitlement, and does not apply where the accused is responsible for being unrepresented.

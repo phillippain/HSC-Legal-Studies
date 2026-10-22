@@ -5411,6 +5411,86 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Dietrich v The Queen (1992) 177 CLR 292 - Case Summary.pdf",
+   "name": "Dietrich v The Queen (1992) 177 CLR 292 - Case Summary",
+   "file": "Dietrich v The Queen (1992) 177 CLR 292 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 870201,
+   "mtime": 1792649472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.5"
+   ],
+   "dupe": "dietrichvthequeen1992177clr292casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Hoang v The Queen [2022] HCA 14 - Case Summary.pdf",
+   "name": "Hoang v The Queen [2022] HCA 14 - Case Summary",
+   "file": "Hoang v The Queen [2022] HCA 14 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 837060,
+   "mtime": 1792649472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.9"
+   ],
+   "dupe": "hoangvthequeen2022hca14casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Billings [2026] NSWSC 1088 - Case Summary.pdf",
+   "name": "R v Billings [2026] NSWSC 1088 - Case Summary",
+   "file": "R v Billings [2026] NSWSC 1088 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 879796,
+   "mtime": 1792649472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.4"
+   ],
+   "dupe": "rvbillings2026nswsc1088casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Dawson [2022] NSWSC 1131 - Case Summary.pdf",
+   "name": "R v Dawson [2022] NSWSC 1131 - Case Summary",
+   "file": "R v Dawson [2022] NSWSC 1131 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 867780,
+   "mtime": 1792649472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.9"
+   ],
+   "dupe": "rvdawson2022nswsc1131casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v KL [2025] NSWSC 1414 - Case Summary.pdf",
+   "name": "R v KL [2025] NSWSC 1414 - Case Summary",
+   "file": "R v KL [2025] NSWSC 1414 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 872483,
+   "mtime": 1792649472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.8"
+   ],
+   "dupe": "rvkl2025nswsc1414casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/R v Lodhi [2006] NSWSC 691 - Case Summary.pdf",
    "name": "R v Lodhi [2006] NSWSC 691 - Case Summary",
    "file": "R v Lodhi [2006] NSWSC 691 - Case Summary.pdf",
@@ -5423,6 +5503,54 @@
     "crime"
    ],
    "dupe": "rvlodhi2006nswsc691casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Porter (1933) 55 CLR 182 - Case Summary.pdf",
+   "name": "R v Porter (1933) 55 CLR 182 - Case Summary",
+   "file": "R v Porter (1933) 55 CLR 182 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 856113,
+   "mtime": 1792649472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.8"
+   ],
+   "dupe": "rvporter193355clr182casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Singh [2012] NSWSC 637 - Case Summary.pdf",
+   "name": "R v Singh [2012] NSWSC 637 - Case Summary",
+   "file": "R v Singh [2012] NSWSC 637 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 817967,
+   "mtime": 1792649472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.8"
+   ],
+   "dupe": "rvsingh2012nswsc637casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Skaf [2004] NSWCCA 37 - Case Summary.pdf",
+   "name": "R v Skaf [2004] NSWCCA 37 - Case Summary",
+   "file": "R v Skaf [2004] NSWCCA 37 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 872154,
+   "mtime": 1792649472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.9"
+   ],
+   "dupe": "rvskaf2004nswcca37casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5457,6 +5585,86 @@
     "crime.4.5"
    ],
    "dupe": "rvskafbrothersonepagecasebrief",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Shine v R [2016] NSWCCA 149 - Case Summary.pdf",
+   "name": "Shine v R [2016] NSWCCA 149 - Case Summary",
+   "file": "Shine v R [2016] NSWCCA 149 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 824300,
+   "mtime": 1792649472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.4"
+   ],
+   "dupe": "shinevr2016nswcca149casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Symons v R; McDonald v R [2024] NSWCCA 212 - Case Summary.pdf",
+   "name": "Symons v R; McDonald v R [2024] NSWCCA 212 - Case Summary",
+   "file": "Symons v R; McDonald v R [2024] NSWCCA 212 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 843757,
+   "mtime": 1792649472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.8"
+   ],
+   "dupe": "symonsvrmcdonaldvr2024nswcca212casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/The King v Rowan [2024] HCA 9 - Case Summary.pdf",
+   "name": "The King v Rowan [2024] HCA 9 - Case Summary",
+   "file": "The King v Rowan [2024] HCA 9 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 871091,
+   "mtime": 1792649472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.8"
+   ],
+   "dupe": "thekingvrowan2024hca9casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Woolmington v DPP [1935] AC 462 - Case Summary.pdf",
+   "name": "Woolmington v DPP [1935] AC 462 - Case Summary",
+   "file": "Woolmington v DPP [1935] AC 462 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 868353,
+   "mtime": 1792649472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.6"
+   ],
+   "dupe": "woolmingtonvdpp1935ac462casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Zecevic v DPP (Vic) (1987) 162 CLR 645 - Case Summary.pdf",
+   "name": "Zecevic v DPP (Vic) (1987) 162 CLR 645 - Case Summary",
+   "file": "Zecevic v DPP (Vic) (1987) 162 CLR 645 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 857073,
+   "mtime": 1792649472,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.8"
+   ],
+   "dupe": "zecevicvdppvic1987162clr645casesummary",
    "copyOf": null,
    "primary": true
   },
