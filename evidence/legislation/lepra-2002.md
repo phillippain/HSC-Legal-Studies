@@ -7,7 +7,7 @@ date: 2002
 jurisdiction: NSW
 significance: One statute holds almost every police power in NSW, and the responsibilities that are meant to check them.
 core: crime.2.1
-support: crime.2.3, crime.2.4, crime.2.6, crime.5.2, hr.2.10, ls.1.7
+support: crime.2.3, crime.2.4, crime.2.6, crime.5.2, hr.2.10, ls.1.7, shel.3.3, shel.2.8
 themes: crime.t.discretion, crime.t.balance, crime.t.compliance
 criteria: rights, enforceability, ruleoflaw, justice
 document: Crime/NSW Police Powers - Two-Page Summary.pdf
@@ -35,6 +35,7 @@ LEPRA consolidated police powers that had been spread across many Acts and the c
 
 - **crime.2.1** — powers and their limits in one place; most need reasonable suspicion about the person.
 - The exceptions (knife scanning, drug dogs) attach the threshold to a **place**, which is why they are contested.
+- **shel.3.3 (homelessness)** — the **move-on direction** (ss 197–199) is the power used daily against rough sleepers; the *NSW Protocol for Homeless People in Public Places* says homelessness alone is not a ground. See the Pari record and the *Sydney Public Reserves (Public Safety) Act 2017*.
 
 ## Caution
 
