@@ -3560,6 +3560,38 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - Family Court Data Breach Evidence Summary.pdf",
+   "name": "Family - Family Court Data Breach Evidence Summary",
+   "file": "Family - Family Court Data Breach Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 32745,
+   "mtime": 1792700046,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "fam.2.5"
+   ],
+   "dupe": "familyfamilycourtdatabreachevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Family/Evidence Summaries/Family - NT Child Protection Review Kumanjayi Little Baby Evidence Summary.pdf",
+   "name": "Family - NT Child Protection Review Kumanjayi Little Baby Evidence Summary",
+   "file": "Family - NT Child Protection Review Kumanjayi Little Baby Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 35862,
+   "mtime": 1792700047,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.3.4"
+   ],
+   "dupe": "familyntchildprotectionreviewkumanjayilittlebabyevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Homeless Birth - Evidence Summary Table.docx",
    "name": "Homeless Birth - Evidence Summary Table",
    "file": "Homeless Birth - Evidence Summary Table.docx",
@@ -5411,6 +5443,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Bugmy v The Queen [2013] HCA 37 - Case Summary.pdf",
+   "name": "Bugmy v The Queen [2013] HCA 37 - Case Summary",
+   "file": "Bugmy v The Queen [2013] HCA 37 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 819468,
+   "mtime": 1792653648,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3"
+   ],
+   "dupe": "bugmyvthequeen2013hca37casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Dietrich v The Queen (1992) 177 CLR 292 - Case Summary.pdf",
    "name": "Dietrich v The Queen (1992) 177 CLR 292 - Case Summary",
    "file": "Dietrich v The Queen (1992) 177 CLR 292 - Case Summary.pdf",
@@ -5427,6 +5475,38 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Fardon v Attorney-General (Qld) [2004] HCA 46 - Case Summary.pdf",
+   "name": "Fardon v Attorney-General (Qld) [2004] HCA 46 - Case Summary",
+   "file": "Fardon v Attorney-General (Qld) [2004] HCA 46 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 838801,
+   "mtime": 1792653648,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.8"
+   ],
+   "dupe": "fardonvattorneygeneralqld2004hca46casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Hamzy v Commissioner of Corrective Services [2026] NSWCA 140 - Case Summary.pdf",
+   "name": "Hamzy v Commissioner of Corrective Services [2026] NSWCA 140 - Case Summary",
+   "file": "Hamzy v Commissioner of Corrective Services [2026] NSWCA 140 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 777363,
+   "mtime": 1792653648,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.8"
+   ],
+   "dupe": "hamzyvcommissionerofcorrectiveservices2026nswca140casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Hoang v The Queen [2022] HCA 14 - Case Summary.pdf",
    "name": "Hoang v The Queen [2022] HCA 14 - Case Summary",
    "file": "Hoang v The Queen [2022] HCA 14 - Case Summary.pdf",
@@ -5439,6 +5519,86 @@
     "crime.3.9"
    ],
    "dupe": "hoangvthequeen2022hca14casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Hurt v The King; Delzotto v The King [2024] HCA 8 - Case Summary.pdf",
+   "name": "Hurt v The King; Delzotto v The King [2024] HCA 8 - Case Summary",
+   "file": "Hurt v The King; Delzotto v The King [2024] HCA 8 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 814177,
+   "mtime": 1792653648,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.1"
+   ],
+   "dupe": "hurtvthekingdelzottovtheking2024hca8casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Kable v DPP (NSW) (1996) 189 CLR 51 - Case Summary.pdf",
+   "name": "Kable v DPP (NSW) (1996) 189 CLR 51 - Case Summary",
+   "file": "Kable v DPP (NSW) (1996) 189 CLR 51 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 789014,
+   "mtime": 1792653648,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.8"
+   ],
+   "dupe": "kablevdppnsw1996189clr51casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Markarian v The Queen [2005] HCA 25 - Case Summary.pdf",
+   "name": "Markarian v The Queen [2005] HCA 25 - Case Summary",
+   "file": "Markarian v The Queen [2005] HCA 25 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 783572,
+   "mtime": 1792653648,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.1"
+   ],
+   "dupe": "markarianvthequeen2005hca25casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Muldrock v The Queen [2011] HCA 39 - Case Summary.pdf",
+   "name": "Muldrock v The Queen [2011] HCA 39 - Case Summary",
+   "file": "Muldrock v The Queen [2011] HCA 39 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 803226,
+   "mtime": 1792653648,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.1"
+   ],
+   "dupe": "muldrockvthequeen2011hca39casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Proudman v Dayman [1941] HCA 28 - Case Summary.pdf",
+   "name": "Proudman v Dayman [1941] HCA 28 - Case Summary",
+   "file": "Proudman v Dayman [1941] HCA 28 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 778888,
+   "mtime": 1792703648,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.1.3"
+   ],
+   "dupe": "proudmanvdayman1941hca28casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5475,6 +5635,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/R v John [2023] NSWChC 6 - Case Summary.pdf",
+   "name": "R v John [2023] NSWChC 6 - Case Summary",
+   "file": "R v John [2023] NSWChC 6 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 784978,
+   "mtime": 1792703312,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.5.5"
+   ],
+   "dupe": "rvjohn2023nswchc6casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/R v KL [2025] NSWSC 1414 - Case Summary.pdf",
    "name": "R v KL [2025] NSWSC 1414 - Case Summary",
    "file": "R v KL [2025] NSWSC 1414 - Case Summary.pdf",
@@ -5507,6 +5683,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/R v Loveridge [2014] NSWCCA 120 - Case Summary.pdf",
+   "name": "R v Loveridge [2014] NSWCCA 120 - Case Summary",
+   "file": "R v Loveridge [2014] NSWCCA 120 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 816535,
+   "mtime": 1792653648,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.2"
+   ],
+   "dupe": "rvloveridge2014nswcca120casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/R v Porter (1933) 55 CLR 182 - Case Summary.pdf",
    "name": "R v Porter (1933) 55 CLR 182 - Case Summary",
    "file": "R v Porter (1933) 55 CLR 182 - Case Summary.pdf",
@@ -5519,6 +5711,22 @@
     "crime.3.8"
    ],
    "dupe": "rvporter193355clr182casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Pullen [2018] NSWCCA 264 - Case Summary.pdf",
+   "name": "R v Pullen [2018] NSWCCA 264 - Case Summary",
+   "file": "R v Pullen [2018] NSWCCA 264 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 803720,
+   "mtime": 1792653648,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.6"
+   ],
+   "dupe": "rvpullen2018nswcca264casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5589,6 +5797,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/R v White [2025] NSWSC 243 - Case Summary.pdf",
+   "name": "R v White [2025] NSWSC 243 - Case Summary",
+   "file": "R v White [2025] NSWSC 243 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 778848,
+   "mtime": 1792653648,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.4"
+   ],
+   "dupe": "rvwhite2025nswsc243casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Shine v R [2016] NSWCCA 149 - Case Summary.pdf",
    "name": "Shine v R [2016] NSWCCA 149 - Case Summary",
    "file": "Shine v R [2016] NSWCCA 149 - Case Summary.pdf",
@@ -5633,6 +5857,22 @@
     "crime.3.8"
    ],
    "dupe": "thekingvrowan2024hca9casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Veen v The Queen (No 2) (1988) 164 CLR 465 - Case Summary.pdf",
+   "name": "Veen v The Queen (No 2) (1988) 164 CLR 465 - Case Summary",
+   "file": "Veen v The Queen (No 2) (1988) 164 CLR 465 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 802948,
+   "mtime": 1792653648,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.2"
+   ],
+   "dupe": "veenvthequeenno21988164clr465casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5927,6 +6167,22 @@
     "humanrights"
    ],
    "dupe": "globalslaveryindex2023",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - Under-16 Social Media Ban Lawsuit Evidence Summary.pdf",
+   "name": "HR - Under-16 Social Media Ban Lawsuit Evidence Summary",
+   "file": "HR - Under-16 Social Media Ban Lawsuit Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 33647,
+   "mtime": 1792700045,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.3.1"
+   ],
+   "dupe": "hrunder16socialmediabanlawsuitevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8652,6 +8908,22 @@
     "shelter"
    ],
    "dupe": "shelteractivities",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Shelter - Renting a Room Boarders and Lodgers Evidence Summary.pdf",
+   "name": "Shelter - Renting a Room Boarders and Lodgers Evidence Summary",
+   "file": "Shelter - Renting a Room Boarders and Lodgers Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 34449,
+   "mtime": 1792700045,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.4"
+   ],
+   "dupe": "shelterrentingaroomboardersandlodgersevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -12182,6 +12454,22 @@
     "crime"
    ],
    "dupe": "chagosislandsdealendsbritainslastclaimtoasunlitempire",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Tonga Comancheros Deportee Sentence Evidence Summary.pdf",
+   "name": "Crime - Tonga Comancheros Deportee Sentence Evidence Summary",
+   "file": "Crime - Tonga Comancheros Deportee Sentence Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 32111,
+   "mtime": 1792700044,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.6.2"
+   ],
+   "dupe": "crimetongacomancherosdeporteesentenceevidencesummary",
    "copyOf": null,
    "primary": true
   },

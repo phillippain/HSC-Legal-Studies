@@ -93,3 +93,21 @@ Cases/Crime/Symons v R; McDonald v R [2024] NSWCCA 212 - Case Summary.pdf | crim
 Cases/Crime/The King v Rowan [2024] HCA 9 - Case Summary.pdf | crime.3.8
 Cases/Crime/Shine v R [2016] NSWCCA 149 - Case Summary.pdf | crime.3.4
 Cases/Crime/R v Billings [2026] NSWSC 1088 - Case Summary.pdf | crime.3.4
+Cases/Crime/Proudman v Dayman [1941] HCA 28 - Case Summary.pdf | crime.1.3
+Cases/Crime/Markarian v The Queen [2005] HCA 25 - Case Summary.pdf | crime.4.1
+Cases/Crime/Muldrock v The Queen [2011] HCA 39 - Case Summary.pdf | crime.4.1
+Cases/Crime/Hurt v The King; Delzotto v The King [2024] HCA 8 - Case Summary.pdf | crime.4.1
+Cases/Crime/Veen v The Queen (No 2) (1988) 164 CLR 465 - Case Summary.pdf | crime.4.2
+Cases/Crime/R v Loveridge [2014] NSWCCA 120 - Case Summary.pdf | crime.4.2
+Cases/Crime/Bugmy v The Queen [2013] HCA 37 - Case Summary.pdf | crime.4.3
+Cases/Crime/R v White [2025] NSWSC 243 - Case Summary.pdf | crime.4.4
+Cases/Crime/R v Pullen [2018] NSWCCA 264 - Case Summary.pdf | crime.4.6
+Cases/Crime/Kable v DPP (NSW) (1996) 189 CLR 51 - Case Summary.pdf | crime.4.8
+Cases/Crime/Fardon v Attorney-General (Qld) [2004] HCA 46 - Case Summary.pdf | crime.4.8
+Cases/Crime/Hamzy v Commissioner of Corrective Services [2026] NSWCA 140 - Case Summary.pdf | crime.4.8
+Cases/Crime/R v John [2023] NSWChC 6 - Case Summary.pdf | crime.5.5
+Crime/Media/Crime - Tonga Comancheros Deportee Sentence Evidence Summary.pdf | crime.6.2
+Family/Evidence Summaries/Family - Family Court Data Breach Evidence Summary.pdf | fam.2.5
+Family/Evidence Summaries/Family - NT Child Protection Review Kumanjayi Little Baby Evidence Summary.pdf | fam.3.4
+Human Rights/HR - Under-16 Social Media Ban Lawsuit Evidence Summary.pdf | hr.3.1
+Shelter/Shelter - Renting a Room Boarders and Lodgers Evidence Summary.pdf | shel.2.4
