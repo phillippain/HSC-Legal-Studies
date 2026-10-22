@@ -7,7 +7,7 @@ date: 2012
 jurisdiction: NSW (national scheme)
 significance: Registers and regulates the not-for-profit providers that now manage close to half of NSW social housing — tiered registration, performance standards and a Registrar who can intervene.
 core: shel.3.4, shel.2.9, shel.2.8
-support: shel.1.3, shel.2.2, shel.3.3, shel.3.1, ls.2.9, ls.4.2, lip.2.3
+support: shel.1.3, shel.2.2, shel.3.3, shel.3.1, ls.2.6, ls.4.2, lip.2.3
 themes: shel.t.cooperation, shel.t.effectiveness, shel.t.reform, shel.t.values
 criteria: resource, accessibility, enforceability, responsiveness, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2012-059
@@ -45,7 +45,7 @@ regulates them.
   registered providers, so this registration is the gateway to Commonwealth money.
 - **shel.2.9 (NGOs)** — housing NGOs as *regulated providers*, not just advocates: the Act is the
   accountability side of outsourcing.
-- **shel.2.8 / ls.2.9** — a national scheme hosted by NSW: cooperative federalism without a
+- **shel.2.8 / ls.2.6** — a national scheme hosted by NSW: cooperative federalism without a
   Commonwealth Act.
 - **Evaluation** — the "transfer" of 14,000 public tenancies to providers in 2018–19 was justified
   by better management and Rent Assistance; tenant advocates point to the loss of a direct

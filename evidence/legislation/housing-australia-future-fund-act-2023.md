@@ -7,7 +7,7 @@ date: 2023-09
 jurisdiction: Commonwealth
 significance: A $10 billion fund whose earnings — at least $500 million a year — pay for social and affordable housing through Housing Australia, targeting 30,000 homes in five years; passed only after a Senate deal with the Greens.
 core: shel.3.4, shel.3.1, shel.2.8
-support: shel.1.3, shel.2.10, shel.3.3, ls.2.4, ls.4.3, ls.2.9, lip.2.1, lip.2.3
+support: shel.1.3, shel.2.10, shel.3.3, ls.2.4, ls.4.3, ls.2.6, lip.2.1, lip.2.3
 themes: shel.t.reform, shel.t.effectiveness, shel.t.cooperation, shel.t.values
 criteria: resource, responsiveness, enforceability, society
 source: https://www.legislation.gov.au/C2023A00056/latest/text
@@ -37,7 +37,7 @@ mechanism: rather than appropriating money for housing each year, Parliament cre
   ANAO audit and *Four Corners* (2026).
 - **ls.2.4 / ls.4.3** — a bill held up by a hostile Senate, changed by negotiation with a minor
   party: the mechanics of Commonwealth law-making on display.
-- **ls.2.9 (division of powers)** — the Commonwealth cannot build or zone; it funds states and
+- **ls.2.6 (division of powers)** — the Commonwealth cannot build or zone; it funds states and
   community providers. The HAFF is federalism in housing form.
 - **Evaluation** — resource efficiency (a fund that earns money versus a grant that is spent),
   responsiveness (two years from Act to first contracts), effectiveness (homes delivered v

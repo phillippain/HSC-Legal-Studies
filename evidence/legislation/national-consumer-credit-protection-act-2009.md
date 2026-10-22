@@ -7,7 +7,7 @@ date: 2009
 jurisdiction: Commonwealth
 significance: The law of the mortgage: licensed lenders must lend responsibly, borrowers in hardship can demand a variation, and no lender can take the house without a 30-day default notice.
 core: shel.2.1
-support: shel.1.4, shel.2.5, shel.2.6, shel.3.1, shel.3.3, ls.2.9, lip.2.3
+support: shel.1.4, shel.2.5, shel.2.6, shel.3.1, shel.3.3, ls.2.6, lip.2.3
 themes: shel.t.compliance, shel.t.effectiveness, shel.t.values, shel.t.reform
 criteria: rights, enforceability, accessibility, responsiveness, resource
 source: https://www.legislation.gov.au/C2009A00134/latest/text
@@ -39,7 +39,7 @@ regulated too.
 - **shel.3.1 / shel.3.3** — HILDA's mortgage-stress figures (median capital-city mortgage costs
   $705 a week in 2024) are the demand for the hardship provisions; repossession is a route into
   homelessness the Code is meant to slow.
-- **ls.2.9 (division of powers)** — a **referral of power** by the states under s 51(xxxvii) of the
+- **ls.2.6 (division of powers)** — a **referral of power** by the states under s 51(xxxvii) of the
   Constitution: how the Commonwealth came to regulate mortgages at all.
 - **Evaluation** — responsible lending was weakened in 2020–21 proposals (ultimately not passed)
   and the Banking Royal Commission (2019) found lenders had breached it; AFCA data on hardship

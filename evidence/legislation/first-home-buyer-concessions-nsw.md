@@ -7,7 +7,7 @@ date: 2000
 jurisdiction: NSW and Commonwealth
 significance: The four demand-side subsidies for first-home buyers — stamp-duty exemption to $800,000, a $10,000 new-home grant, a 5% deposit guarantee and Help to Buy — which economists say lift prices about as much as they help.
 core: shel.3.1, shel.2.1
-support: shel.1.3, shel.2.8, shel.3.4, ls.2.9, ls.4.1, lip.2.1, lip.2.3
+support: shel.1.3, shel.2.8, shel.3.4, ls.2.6, ls.4.1, lip.2.1, lip.2.3
 themes: shel.t.reform, shel.t.effectiveness, shel.t.values, shel.t.cooperation
 criteria: resource, accessibility, responsiveness, society
 source: https://www.revenue.nsw.gov.au/grants-schemes/first-home-buyer
@@ -34,7 +34,7 @@ side for first-home buyers, and they are the measures politicians announce most 
   the bar for the next.
 - **shel.2.1** — the concessions are claimed at settlement through the conveyancer; a buyer's
   eligibility affects the price they can pay.
-- **ls.2.9** — NSW controls duty and the grant; the Commonwealth, with no property power, uses its
+- **ls.2.6** — NSW controls duty and the grant; the Commonwealth, with no property power, uses its
   spending power and a statutory corporation.
 - **lip.2.1 / ls.4.1** — the 2022–23 NSW election fought over duty v land tax, and the 2024 Senate
   deal on Help to Buy: competing interests and the conditions for reform.
