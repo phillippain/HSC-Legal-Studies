@@ -8653,10 +8653,9 @@
    "ext": "docx",
    "bytes": 15263,
    "mtime": 1789944779,
-   "bucket": "evidence",
-   "kind": "legislation",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "shelter",
     "shel.2.2"
    ],
    "dupe": "evaluatetheeffectivenessofthenswtenancyactchangesusingpearrjam",
@@ -8687,10 +8686,9 @@
    "ext": "pdf",
    "bytes": 56917,
    "mtime": 1789944779,
-   "bucket": "evidence",
-   "kind": "report",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "shelter",
     "shel.2.2"
    ],
    "dupe": "evaluationoftheeffectivenessofnswtenancyactchanges",
@@ -9475,8 +9473,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shel.2.2",
-    "shel.2.3"
+    "shel.3.1",
+    "shel.2.8"
    ],
    "dupe": "shelter17sept2025reformsupdate",
    "copyOf": null,
@@ -9617,11 +9615,11 @@
    "ext": "pdf",
    "bytes": 80014,
    "mtime": 1789944781,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "shel.2.2",
-    "shel.2.3"
+    "shel.3.1",
+    "shel.2.8"
    ],
    "dupe": "sheltersept25reformsupdate",
    "copyOf": null,

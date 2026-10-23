@@ -307,3 +307,13 @@ Family/Evidence Summaries/Regional IVF ABC News CNOPR SBT.pdf | @resource, fam.3
 Family/Evidence Summaries/Surrogacy_crazy car salesman_Evidence_Summary_With_Paragraphs.pdf | @resource, fam.3.3
 Family/Surrogacy-Annika Rees.pdf | @resource, fam.3.3
 Family/What Is Surrogacy.pdf | @resource, fam.3.3, fam.3.1
+# ------------------------------------------- 24 Oct 2026 — shelter, renting --
+# PEARRJAM evaluations of the 2024 tenancy changes are the teaching exercise,
+# not the evidence; the Act itself is at residential-tenancies-amendment-act-2024.
+Shelter/Evaluation of the Effectiveness of NSW Tenancy Act Changes.pdf | @resource, shel.2.2
+Shelter/Evaluate the effectiveness of the NSW tenancy Act Changes using PEARRJAM.docx | @resource, shel.2.2
+# The two September 2025 "Reforms Update" sheets are about planning law, not
+# tenancy. The fuller one is named by planning-system-reforms-act-2025; the other
+# is the same text laid out as a table.
+Shelter/Shelter 17Sept 2025 Reforms Update.pdf | shel.3.1, shel.2.8
+Shelter/Shelter Sept 25 Reforms Update.pdf | @resource, shel.3.1, shel.2.8

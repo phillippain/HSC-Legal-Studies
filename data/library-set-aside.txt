@@ -61,3 +61,4 @@ Cases/HGY v Secretary, Ministry of Health in respect of Northern NSW Local Healt
 # ------------------------------------------------------- broken captures --
 Family/SURROGACY IS NEVER IN A CHILD’S ‘BEST INTERESTS’.pdf | web capture that saved only the site navigation; the article text is not in the file
 Human Rights/Protecting yourself from exploitation.pdf | A two-page Red Cross Work Right Hub tip sheet for job seekers, with a 2022 minimum wage; the NGO response to modern slavery is covered by the My Blue Sky frontline guide and the AMWCHR referral sheet.
+Shelter/NSW Changes to rental laws.pdf | a second NSW Fair Trading explainer of the same 2024 changes, printed 22 October 2024 before most of them commenced; the Act is written up at residential-tenancies-amendment-act-2024 from “NSW rental laws What are the changes?”
