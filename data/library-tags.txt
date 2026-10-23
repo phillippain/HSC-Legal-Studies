@@ -264,7 +264,9 @@ Shelter/Shelter 17Sept 2025 Reforms Update.pdf | shel.2.2, shel.2.3
 Shelter/Shelter Sept 25 Reforms Update.pdf | shel.2.2, shel.2.3
 Shelter/Shoddy Sydney: Home defects crisis collides with the need to build housing.pdf | shel.2.4
 Shelter/Sydney’s building defects cost $700m a year, but what is being done to fix the problem?.pdf | shel.2.4
-Shelter/Tax on the Family Home.pdf | shel.2.1, shel.3.1
+# The evidence table on the family home tax break is the teaching exercise; the
+# AFR article it summarises is at afr-2025-family-home-tax-break.
+Shelter/Tax on the Family Home.pdf | @resource, shel.2.1, shel.3.1
 Shelter/Tax on the family home is ‘elephant in the room’ of reform.pdf | shel.2.1, shel.3.1
 Shelter/The end of the NRAS & what's next.pdf | shel.3.4
 Shelter/Torrens Title Example Contract of Sale.pdf | shel.2.1

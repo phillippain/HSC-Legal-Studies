@@ -9793,8 +9793,8 @@
    "ext": "pdf",
    "bytes": 74509,
    "mtime": 1789944781,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "shel.2.1",
     "shel.3.1"
