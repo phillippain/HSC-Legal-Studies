@@ -7,7 +7,7 @@ date: 2026-09-01
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Behrens J, Sydney
 significance: Parental responsibility taken from both parents and given to the grandparents — after six findings of family violence and a father who swore he was in a behaviour change program he had never joined.
 core: fam.3.2, fam.2.4, fam.3.4
-support: fam.1.5, fam.2.2, fam.2.5, fam.2.6, crime.3.7, hr.3.1, shel.1.1, ls.1.6, lip.1.1, lip.2.1, lip.2.2, lip.2.3
+support: fam.1.5, fam.2.2, fam.2.5, fam.2.6, crime.3.7, hr.3.1, shel.1.1, inv.1.6, exp.4, exp.5, exp.5.5, exp.6
 themes: fam.t.compliance, fam.t.effectiveness, fam.t.values, fam.t.cooperation
 criteria: enforceability, rights, justice, resource, responsiveness
 document: Cases/Family/Kegler & Mansons [2026] FedCFamC1F 587 - Case Summary.pdf

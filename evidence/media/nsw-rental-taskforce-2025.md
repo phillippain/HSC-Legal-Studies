@@ -7,7 +7,7 @@ date: 2025-02-07
 jurisdiction: NSW
 significance: An $8.4 million taskforce inside Fair Trading, created because the 2024 rental reforms needed someone to enforce them — and it recovered $166,000 in its first six months.
 core: shel.2.8
-support: shel.2.2, shel.2.3, shel.2.5, shel.3.1, lip.2.1, lip.2.3
+support: shel.2.2, shel.2.3, shel.2.5, shel.3.1, exp.5, exp.6
 themes: shel.t.compliance, shel.t.reform, shel.t.effectiveness, shel.t.cooperation
 criteria: enforceability, responsiveness, resource, rights, justice
 document: Shelter/NSW Rental Taskforce to tackle fairness in rental market.pdf

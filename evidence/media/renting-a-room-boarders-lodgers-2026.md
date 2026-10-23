@@ -7,7 +7,7 @@ date: 2026-10-22
 jurisdiction: NSW (Residential Tenancies Act 2010 s 8(1)(c), ss 74–75; Boarding Houses Act 2012); the article itself covers Queensland
 significance: As cost pressures push people into renting rooms, the label decides the law: a sub-tenant gets the 2024 reforms, but a boarder or lodger in a private home is excluded from the tenancy Act and has only the agreement.
 core: shel.2.4, shel.2.2
-support: shel.2.3, shel.2.5, shel.2.6, shel.3.1, shel.3.2, shel.3.3, shel.1.4, lip.2.3
+support: shel.2.3, shel.2.5, shel.2.6, shel.3.1, shel.3.2, shel.3.3, shel.1.4, exp.6
 themes: shel.t.effectiveness, shel.t.values, shel.t.reform, shel.t.compliance
 criteria: rights, accessibility, enforceability, responsiveness
 document: Shelter/Shelter - Renting a Room Boarders and Lodgers Evidence Summary.pdf

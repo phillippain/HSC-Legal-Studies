@@ -7,7 +7,7 @@ date: 2025-08-13
 jurisdiction: Commonwealth (tax and transfer system)
 significance: Count the untaxed income a home gives its owner and outright owners' disposable income is 86% above renters', not 34% — the $50 billion-a-year family-home exemption is itself a driver of housing inequality.
 core: shel.3.1, shel.1.3, shel.3.2
-support: shel.1.2, shel.3.4, shel.2.8, ls.1.5, ls.4.1, lip.1.1, lip.2.3
+support: shel.1.2, shel.3.4, shel.2.8, inv.1.4, chg.1, exp.4, exp.6
 themes: shel.t.values, shel.t.reform, shel.t.effectiveness
 criteria: resource, society, rights, responsiveness, justice
 document: Shelter/Australia is now a 'home owners' welfare state', and income inequality is worse than we think - ABC News.pdf

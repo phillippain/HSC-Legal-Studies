@@ -7,7 +7,7 @@ date: 2026-07-31
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Judge Taglieri, Hobart; heard 25–29 May and 23 June 2026
 significance: Where risk is real but not disqualifying, the court does not choose between contact and safety — it builds a staircase, with a hair test that can send the father back to the bottom of it.
 core: fam.2.4, fam.3.2, fam.2.2
-support: fam.2.5, fam.1.5, fam.2.6, fam.3.4, shel.1.1, ls.1.6
+support: fam.2.5, fam.1.5, fam.2.6, fam.3.4, shel.1.1, inv.1.6
 themes: fam.t.compliance, fam.t.effectiveness, fam.t.values, fam.t.reform, fam.t.cooperation
 criteria: enforceability, rights, responsiveness, justice, accessibility
 document: Cases/Family/Selley & Dorner [2026] FedCFamC2F 1161 - Case Summary (v2).pdf

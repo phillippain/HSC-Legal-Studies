@@ -7,7 +7,7 @@ date: 2001
 jurisdiction: NSW
 significance: The routes for correcting a wrong verdict — and the narrow exception that lets an acquitted person be tried again.
 core: crime.3.1, crime.4.5
-support: crime.3.6, crime.4.8, ls.1.7
+support: crime.3.6, crime.4.8, inv.1.7
 themes: crime.t.effectiveness, crime.t.balance, crime.t.reform
 criteria: justice, rights, ruleoflaw
 added: 2026-10-20

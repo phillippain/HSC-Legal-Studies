@@ -7,8 +7,8 @@ date: 2026-07-21
 jurisdiction: NSW Court of Appeal — Ball JA (Bell CJ and Payne JA agreeing)
 significance: Even the state's highest-security prisoners retain access to the courts — the question is whether access is materially impaired, not merely less convenient.
 core: crime.4.8, hr.2.8
-support: crime.3.5, hr.2.10, hr.2.4, hr.2.9, ind.2.6, ls.1.6, ls.1.7, ls.2.7, crime.2.6, crime.3.3
-themes: crime.t.balance, crime.t.effectiveness, hr.t.compliance, ind.t.balance
+support: crime.3.5, hr.2.10, hr.2.4, hr.2.9, dis.3.4, inv.1.6, inv.1.7, inv.5.3, crime.2.6, crime.3.3
+themes: crime.t.balance, crime.t.effectiveness, hr.t.compliance, dis.t.justice
 criteria: rights, ruleoflaw, accessibility, justice
 document: Cases/Crime/Hamzy v Commissioner of Corrective Services [2026] NSWCA 140 - Case Summary.pdf
 related: kable-v-dpp-1996, crimes-administration-of-sentences-act-1999, fardon-v-ag-qld-2004, dietrich-v-the-queen-1992

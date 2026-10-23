@@ -7,7 +7,7 @@ date: 2025-08-08
 jurisdiction: NSW — Law Enforcement (Powers and Responsibilities) Act 2002, Part 14 (move-on directions)
 significance: A New Zealand citizen sleeping rough at Central Station, ineligible for most housing help, woken daily by police move-on directions under LEPRA — the clearest small case of enforcement outrunning the right to shelter.
 core: shel.3.3, shel.3.2, shel.2.8
-support: shel.1.3, shel.1.4, shel.2.9, shel.2.10, ls.1.5, hr.2.12, lip.1.1, lip.2.3
+support: shel.1.3, shel.1.4, shel.2.9, shel.2.10, inv.1.4, hr.2.12, exp.4, exp.6
 themes: shel.t.values, shel.t.effectiveness, shel.t.compliance
 criteria: accessibility, enforceability, responsiveness, justice, rights
 document: Shelter/Guardian 2025 - Pari rough sleeper moved on by police (application sheet).pdf

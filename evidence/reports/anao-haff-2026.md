@@ -7,8 +7,8 @@ date: 2026-07
 jurisdiction: Australia
 significance: 1,432 homes delivered against a target of 40,000 — under 4%.
 core: shel.3.4, shel.3.1
-support: shel.1.3, shel.3.3, ind.2.7, lip.2.3
-themes: shel.t.effectiveness, shel.t.reform, ind.t.effectiveness
+support: shel.1.3, shel.3.3, dis.3.5, dis.3.6, exp.6
+themes: shel.t.effectiveness, shel.t.reform, dis.t.effectiveness
 criteria: resource, responsiveness, society, enforceability
 related: anglicare-rental-affordability-2026
 document: Shelter/Housing Australia Future Fund.pdf

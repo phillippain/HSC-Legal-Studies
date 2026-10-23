@@ -6,9 +6,9 @@ citation: National Student Ombudsman, Procedurally unfair: What happens when an 
 date: 2026-10-20
 jurisdiction: Commonwealth (National Student Ombudsman, within the Office of the Commonwealth Ombudsman) over a NSW public university
 significance: A watchdog less than two years old found UTS broke its own complaints policy and denied a Jewish student body procedural fairness — and could do nothing more than publish and recommend; UTS accepted six of seven.
-core: hr.2.4, hr.3.1, ind.2.7
-support: hr.2.9, hr.2.12, hr.2.13, hr.1.1, hr.2.10, hr.2.14, ind.2.5, ind.2.6, ls.1.6, ls.1.5, ls.4.2, lip.1.1, lip.2.1, lip.2.2, lip.2.3
-themes: hr.t.effectiveness, hr.t.values, hr.t.compliance, ind.t.rights, ind.t.effectiveness, lip.t.justice
+core: hr.2.4, hr.3.1, dis.3.5, dis.3.6
+support: hr.2.9, hr.2.12, hr.2.13, hr.1.1, hr.2.10, hr.2.14, dis.3.4, inv.1.6, inv.1.4, chg.2, exp.4, exp.5, exp.5.5, exp.6
+themes: hr.t.effectiveness, hr.t.values, hr.t.compliance, dis.t.justice, dis.t.effectiveness
 criteria: accessibility, enforceability, rights, justice, responsiveness, society
 document: Human Rights/National Student Ombudsman - UTS Jewish student complaints (Evidence summary 22Oct26).pdf
 source: https://www.nso.gov.au/__data/assets/pdf_file/0025/331099/Procedurally-unfair.pdf

@@ -6,9 +6,9 @@ citation: Preliminary Part II reference note
 date: 2026
 jurisdiction: NSW and Commonwealth
 significance: Merits review asks whether the decision was right; judicial review asks only whether it was made lawfully — and a court that quashes a decision usually sends it back to be made again.
-core: ind.2.5, ind.2.6
-support: ind.2.3, ind.2.7, ind.1.1, hr.2.4, ls.1.6, ls.2.7, ls.3.1, lip.2.3
-themes: ls.t.ruleoflaw, ls.t.institutions, ls.t.need
+core: dis.3.4
+support: dis.2.5, dis.3.5, dis.3.6, inv.7.2, inv.7.3, hr.2.4, inv.1.6, inv.5.3, inv.1.3, dis.3.1, exp.6
+themes: dis.t.justice
 criteria: accessibility, rights, ruleoflaw, resource, justice
 related: kioa-v-west-1985, da-silva-v-minister-2026, ombudsman-and-statutory-bodies
 added: 2026-09-20

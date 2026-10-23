@@ -6,9 +6,9 @@ citation: Commonwealth of Australia Constitution Act 1900 (Imp), ss 1, 51, 61, 7
 date: 1901-01-01
 jurisdiction: Commonwealth
 significance: Divides law-making between Commonwealth and states, separates Parliament, executive and judiciary, makes the High Court final — and protects only five express rights, which is the whole Charter debate.
-core: ls.2.6, ls.2.7, ls.2.8, hr.2.8
-support: hr.2.7, hr.2.14, hr.2.10, ind.1.1, ind.2.6, fam.1.2, ls.2.14, ls.5.2, ls.1.7, lip.1.3
-themes: ls.t.institutions, ls.t.ruleoflaw, hr.t.effectiveness, hr.t.values
+core: inv.5.1, inv.5.2, inv.5.3, inv.5.4, hr.2.8
+support: hr.2.7, hr.2.14, hr.2.10, inv.7.2, inv.7.3, dis.3.4, fam.1.2, inv.6.3, chg.5.4, inv.1.7, dis.3.2
+themes: inv.t.justice, hr.t.effectiveness, hr.t.values
 criteria: rights, ruleoflaw, enforceability, justice
 source: https://www.legislation.gov.au/C2004Q00685/latest/text
 related: australian-communist-party-1951, commonwealth-v-tasmania-1983, kable-v-dpp-1996, commonwealth-v-act-2013, mabo-no2-1992, human-rights-in-australia-common-law-courts-media-charter, charters-of-rights-act-vic-qld, marriage-act-1961, international-law-and-australian-law

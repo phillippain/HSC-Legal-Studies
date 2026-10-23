@@ -7,8 +7,8 @@ date: 2026
 jurisdiction: NSW
 significance: Police put children on a target list and waited for them to reoffend — which removes the presumption of innocence, and the practice was discontinued.
 core: crime.5.2, crime.2.1
-support: crime.5.3, crime.5.5, crime.4.7, crime.2.3, crime.2.5, crime.3.6, ls.1.7, lip.1.1, hr.3.1
-themes: crime.t.discretion, crime.t.balance, crime.t.effectiveness, ls.t.ruleoflaw
+support: crime.5.3, crime.5.5, crime.4.7, crime.2.3, crime.2.5, crime.3.6, inv.1.7, exp.4, hr.3.1, exp.2.3, exp.2.4
+themes: crime.t.discretion, crime.t.balance, crime.t.effectiveness, inv.t.justice
 criteria: rights, ruleoflaw, accessibility, justice
 document: Crime/Young Offenders/Young Offenders in the CJS.pdf
 related: young-offenders-act-1997, children-criminal-proceedings-act-1987, bocsar-circle-sentencing

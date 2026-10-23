@@ -6,9 +6,9 @@ citation: Preliminary Part II reference note
 date: 2026
 jurisdiction: NSW and Commonwealth
 significance: The hierarchy exists for two reasons that pull together — precedent needs a court whose decisions bind, and appeals need a court above the one that erred.
-core: ls.2.3, ls.3.3
-support: ls.2.1, ls.2.8, ls.3.1, ls.3.2, crime.3.1, crime.4.5, fam.2.5, shel.2.6, ind.2.3
-themes: ls.t.institutions, ls.t.ruleoflaw
+core: inv.4.1, dis.1.5, dis.2.5
+support: inv.3.1, inv.3.2, inv.5.4, inv.1.3, dis.3.1, dis.2.3, crime.3.1, crime.4.5, fam.2.5, shel.2.6
+themes: inv.t.justice
 criteria: accessibility, resource, ruleoflaw, justice
 related: donoghue-v-stevenson-1932, the-adversary-system-and-court-jurisdiction
 added: 2026-09-19

@@ -6,9 +6,9 @@ citation: (1996) 189 CLR 51; [1996] HCA 24 (12 September 1996, 4:2)
 date: 1996-09-12
 jurisdiction: High Court of Australia
 significance: A NSW Act that told the Supreme Court to detain one named man on the balance of probabilities was invalid, because a state court cannot be made to act in a way that damages its integrity.
-core: ls.2.7, crime.4.8
-support: ls.2.3, ls.2.6, ls.2.8, ls.1.4, ls.1.7, ls.3.1, crime.4.1, crime.4.2, hr.2.8
-themes: ls.t.ruleoflaw, ls.t.institutions, ls.t.reflection, crime.t.balance
+core: inv.5.3, crime.4.8
+support: inv.4.1, inv.5.1, inv.5.2, inv.5.4, inv.1.2, inv.1.7, inv.1.3, dis.3.1, crime.4.1, crime.4.2, hr.2.8
+themes: inv.t.justice, inv.t.values, crime.t.balance
 criteria: ruleoflaw, rights, justice, society
 document: Cases/Crime/Kable v DPP (NSW) (1996) 189 CLR 51 - Case Summary.pdf
 related: australian-communist-party-1951, hamzy-v-commissioner-2026, fardon-v-ag-qld-2004, crimes-high-risk-offenders-act-2006, australian-constitution-rights-and-powers, veen-v-the-queen-no2-1988

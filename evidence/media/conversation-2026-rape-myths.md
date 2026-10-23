@@ -7,7 +7,7 @@ date: 2026-09-23
 jurisdiction: NSW
 significance: The "real rape" script — a young, blameless stranger-victim who fights back and reports at once — decides who is believed, and NSW is now piloting limits on rape myth questions at trial.
 core: crime.3.7
-support: crime.3.2, crime.2.2, crime.3.9, crime.1.5, crime.4.4, ls.4.3, lip.1.2
+support: crime.3.2, crime.2.2, crime.3.9, crime.1.5, crime.4.4, chg.3, chg.2.1
 themes: crime.t.balance, crime.t.reform, crime.t.moral, crime.t.effectiveness
 criteria: rights, society, justice, responsiveness
 document: News Articles/Crime/The Conversation 23Sept26 - Rape myths and sexual assault trials.pdf

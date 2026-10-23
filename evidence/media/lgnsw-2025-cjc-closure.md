@@ -7,7 +7,7 @@ date: 2025-06-30
 jurisdiction: NSW
 significance: NSW closed its only free general mediation service on 30 June 2025, after resolving 79% of the neighbourhood disputes it mediated in 2022–23.
 core: shel.2.7
-support: shel.2.5, shel.2.6, shel.2.9, ind.2.2, fam.2.5, ls.3.3, lip.2.3
+support: shel.2.5, shel.2.6, shel.2.9, dis.2.5, fam.2.5, dis.1.5, exp.6
 themes: shel.t.cooperation, shel.t.effectiveness, shel.t.reform
 criteria: accessibility, resource, justice, responsiveness, rights
 document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx

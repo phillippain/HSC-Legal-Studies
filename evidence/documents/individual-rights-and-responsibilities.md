@@ -6,9 +6,9 @@ citation: Preliminary Part II reference note
 date: 2026
 jurisdiction: Australia
 significance: Australia has no national bill of rights, so an individual's rights sit in scattered statutes, a handful of implied constitutional freedoms, and the common law.
-core: ind.1.1, ind.1.2
-support: ind.2.4, ind.2.7, hr.2.7, hr.2.8, hr.2.9, ls.1.5, ls.1.7, ls.2.6, lip.1.3
-themes: ls.t.ruleoflaw, ls.t.need, ls.t.reflection
+core: inv.7.2, inv.7.3, inv.7.1
+support: dis.3.3, dis.3.5, dis.3.6, hr.2.7, hr.2.8, hr.2.9, inv.1.4, inv.1.7, inv.5.1, inv.5.2, dis.3.2
+themes: inv.t.justice, inv.t.values
 criteria: rights, enforceability, ruleoflaw, accessibility, justice
 related: international-law-and-australian-law, australian-communist-party-1951, kioa-v-west-1985
 added: 2026-09-20

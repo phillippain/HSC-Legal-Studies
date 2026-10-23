@@ -7,7 +7,7 @@ date: 2026-07-01
 jurisdiction: Australia (Commonwealth)
 significance: From 1 July 2026 about 90,000 lawyers, accountants and real estate agents must report suspicious clients, closing a gap the FATF had criticised for years.
 core: crime.6.2
-support: crime.1.5, crime.2.1, ls.3.1
+support: crime.1.5, crime.2.1, inv.1.3, dis.3.1
 themes: crime.t.reform, crime.t.effectiveness, crime.t.compliance
 criteria: responsiveness, enforceability, resource, society
 source: https://www.legislation.gov.au/C2024A00110/asmade

@@ -7,7 +7,7 @@ date: 2019
 jurisdiction: Australia
 significance: A federal campaign was viewed about 43 million times, reporting rose, and about one woman a week still dies — awareness is not enforcement.
 core: fam.2.7
-support: fam.2.4, fam.2.6, fam.3.4, crime.2.2, hr.2.6, ls.1.3, lip.2.2, lip.2.3
+support: fam.2.4, fam.2.6, fam.3.4, crime.2.2, hr.2.6, inv.1.5, exp.5.5, exp.6
 themes: fam.t.values, fam.t.effectiveness, fam.t.compliance
 criteria: society, responsiveness, enforceability, rights, justice
 document: Family/Cases/2.4.3 Family law cases.pdf

@@ -7,7 +7,7 @@ date: 2016-08-03
 jurisdiction: NSW Court of Criminal Appeal
 significance: The full 25% guilty plea discount was restored because the plea was delayed only while a psychiatric report was awaited, and the mental illness itself reduced culpability.
 core: crime.3.4
-support: crime.3.8, crime.4.1, crime.4.3, crime.4.5, crime.2.6, ls.1.5
+support: crime.3.8, crime.4.1, crime.4.3, crime.4.5, crime.2.6, inv.1.4
 themes: crime.t.discretion, crime.t.balance, crime.t.effectiveness
 criteria: resource, rights, justice, ruleoflaw
 document: Cases/Crime/Shine v R [2016] NSWCCA 149 - Case Summary.pdf

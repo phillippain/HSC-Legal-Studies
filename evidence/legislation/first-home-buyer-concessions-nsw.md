@@ -7,7 +7,7 @@ date: 2000
 jurisdiction: NSW and Commonwealth
 significance: The four demand-side subsidies for first-home buyers — stamp-duty exemption to $800,000, a $10,000 new-home grant, a 5% deposit guarantee and Help to Buy — which economists say lift prices about as much as they help.
 core: shel.3.1, shel.2.1
-support: shel.1.3, shel.2.8, shel.3.4, ls.2.6, ls.4.1, lip.2.1, lip.2.3
+support: shel.1.3, shel.2.8, shel.3.4, inv.5.1, inv.5.2, chg.1, exp.5, exp.6
 themes: shel.t.reform, shel.t.effectiveness, shel.t.values, shel.t.cooperation
 criteria: resource, accessibility, responsiveness, society
 source: https://www.revenue.nsw.gov.au/grants-schemes/first-home-buyer

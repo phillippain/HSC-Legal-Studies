@@ -7,7 +7,7 @@ date: 2006-08-23
 jurisdiction: Supreme Court of NSW, Common Law Division — Whealy J
 significance: Twenty years for planning that had settled no target, bomber or method — the clearest Australian example of an offence where the act is innocuous and the intention does all the work.
 core: crime.4.3, crime.1.2, hr.3.1
-support: crime.1.1, crime.1.5, crime.2.3, crime.2.6, crime.3.6, crime.3.9, crime.4.1, crime.4.2, crime.4.8, crime.6.1, crime.6.2, hr.2.7, hr.2.9, ls.4.1
+support: crime.1.1, crime.1.5, crime.2.3, crime.2.6, crime.3.6, crime.3.9, crime.4.1, crime.4.2, crime.4.8, crime.6.1, crime.6.2, hr.2.7, hr.2.9, chg.1
 themes: crime.t.discretion, crime.t.balance, crime.t.reform, crime.t.moral, crime.t.effectiveness, hr.t.sovereignty
 criteria: rights, justice, ruleoflaw, enforceability, responsiveness, society
 document: Cases/Crime/R v Lodhi [2006] NSWSC 691 - Case Summary.pdf

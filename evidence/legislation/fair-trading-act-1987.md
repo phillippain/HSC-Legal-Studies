@@ -7,7 +7,7 @@ date: 1987
 jurisdiction: NSW
 significance: Creates the Commissioner for Fair Trading and the investigation, penalty-notice and prosecution powers used against landlords, agents and builders — the enforcement arm behind the Shelter Acts.
 core: shel.2.8, shel.2.5
-support: shel.2.2, shel.2.3, shel.2.4, shel.2.1, shel.2.9, shel.3.2, ls.3.2, lip.2.3
+support: shel.2.2, shel.2.3, shel.2.4, shel.2.1, shel.2.9, shel.3.2, inv.1.3, dis.2.3, exp.6
 themes: shel.t.compliance, shel.t.effectiveness, shel.t.cooperation, shel.t.reform
 criteria: enforceability, accessibility, responsiveness, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1987-068

@@ -7,7 +7,7 @@ date: 1983
 jurisdiction: High Court of Australia
 significance: A bank cannot enforce a guarantee it obtained from people it knew were at a special disadvantage — unconscionable dealing, made concrete over a family home.
 core: shel.2.1
-support: shel.1.4, ls.3.2, ls.1.4, ls.1.5, ind.1.1, ind.2.3
+support: shel.1.4, inv.1.3, dis.2.3, inv.1.2, inv.1.4, inv.7.2, inv.7.3, dis.2.5
 themes: shel.t.values, shel.t.compliance, shel.t.effectiveness
 criteria: rights, justice, ruleoflaw, society
 document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx

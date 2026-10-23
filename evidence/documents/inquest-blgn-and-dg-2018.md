@@ -7,7 +7,7 @@ date: 2018-06
 jurisdiction: NSW
 significance: Two infant sisters died five years apart after years of reports to FACS about their mother's ice addiction and neglect — none of the reports were acted on, because of caseload.
 core: fam.3.4
-support: fam.1.5, fam.2.4, crime.1.8, ls.3.3, ind.2.7, lip.1.1, lip.2.3
+support: fam.1.5, fam.2.4, crime.1.8, dis.1.5, dis.2.5, dis.3.5, dis.3.6, exp.4, exp.6
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform
 criteria: enforceability, resource, rights, society, justice
 document: Family/Cases/3.4 Family law cases.pdf

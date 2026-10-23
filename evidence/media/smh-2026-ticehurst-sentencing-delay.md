@@ -7,7 +7,7 @@ date: 2026-05-23
 jurisdiction: NSW
 significance: Two years after the murder, sentencing was pushed back again — the victim's family has standing to be heard and no power to be heard sooner.
 core: crime.4.4, crime.4.3
-support: crime.3.4, crime.4.1, crime.4.5, crime.4.2, fam.2.4, ind.2.4, lip.1.2, lip.2.3
+support: crime.3.4, crime.4.1, crime.4.5, crime.4.2, fam.2.4, dis.3.3, chg.2.1, exp.6
 themes: crime.t.balance, crime.t.effectiveness, crime.t.moral, fam.t.effectiveness
 criteria: rights, responsiveness, resource, justice
 document: Family/Evidence Summaries/Daniel Billings trial: Molly Ticehurst’s family face another nightmare as sentencing delayed.pdf

@@ -7,7 +7,7 @@ date: 2025-02-20
 jurisdiction: Commonwealth — Housing Australia Future Fund Act 2023
 significance: Eighteen months after the $10 billion fund was legislated, contracts for 800 homes and none completed, against a promise of 30,000 in five years — the HAFF as a case study in the gap between a law and a house.
 core: shel.3.4, shel.2.10, shel.3.1
-support: shel.1.3, shel.2.8, ls.2.4, ls.4.3, lip.2.1, lip.2.3
+support: shel.1.3, shel.2.8, inv.3.3, inv.4.4, chg.3, exp.5, exp.6
 themes: shel.t.effectiveness, shel.t.reform, shel.t.values
 criteria: resource, responsiveness, enforceability, society
 document: Shelter/Housing Australia Future Fund (HAFF) Daily Telegraph.pdf

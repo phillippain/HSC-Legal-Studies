@@ -7,7 +7,7 @@ date: 1941-09-22
 jurisdiction: High Court of Australia (application for special leave to appeal from South Australia)
 significance: For a strict liability offence the prosecution need not prove knowledge, but an honest and reasonable mistake of fact is a defence — and the accused must first point to it.
 core: crime.1.3, crime.1.2
-support: crime.3.6, crime.3.8, crime.1.6, ls.2.1
+support: crime.3.6, crime.3.8, crime.1.6, inv.3.1, inv.3.2
 themes: crime.t.moral, crime.t.balance, crime.t.compliance
 criteria: justice, rights, enforceability
 document: Cases/Crime/Proudman v Dayman [1941] HCA 28 - Case Summary.pdf

@@ -6,9 +6,9 @@ citation: (1951) 83 CLR 1
 date: 1951
 jurisdiction: High Court of Australia
 significance: Parliament cannot give itself power by reciting that it has it — the rule of law is an assumption on which the Constitution is built.
-core: ls.1.7
-support: ls.2.6, ls.2.7, ls.2.8, ls.3.1, ls.1.4, hr.2.8, ind.1.1
-themes: ls.t.ruleoflaw, ls.t.institutions, ls.t.need
+core: inv.1.7
+support: inv.5.1, inv.5.2, inv.5.3, inv.5.4, inv.1.3, dis.3.1, inv.1.2, hr.2.8, inv.7.2, inv.7.3
+themes: inv.t.justice
 criteria: ruleoflaw, rights, justice, society
 related: kable-v-dpp-1996, kioa-v-west-1985, basic-legal-concepts
 added: 2026-09-19

@@ -7,7 +7,7 @@ date: 2016
 jurisdiction: NSW
 significance: A phone call the law now requires: when an Aboriginal person is taken into custody, the Aboriginal Legal Service must be told.
 core: crime.2.6
-support: crime.5.2, hr.2.10, hr.2.4
+support: crime.5.2, hr.2.10, hr.2.4, exp.2.3
 themes: crime.t.reform, crime.t.balance
 criteria: rights, accessibility, justice
 added: 2026-10-20

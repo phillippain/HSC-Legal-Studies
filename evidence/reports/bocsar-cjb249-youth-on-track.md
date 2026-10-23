@@ -7,7 +7,7 @@ date: 2022-07-01
 jurisdiction: NSW
 significance: A randomised trial of NSW's early intervention program found no significant fall in reoffending, though participants were more likely to be employed.
 core: crime.5.5
-support: crime.1.9, lip.1.1
+support: crime.1.9, exp.4, exp.2.4
 themes: crime.t.effectiveness
 criteria: society, resource
 source: https://bocsar.nsw.gov.au/research-evaluations/2022/cjb249-summary-youth-on-track.html

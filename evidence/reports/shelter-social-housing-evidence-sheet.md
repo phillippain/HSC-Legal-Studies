@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Social housing has fallen from about 5% of housing stock to about 4%, while more than 57,000 households wait — some for over a decade.
 core: shel.3.4, shel.1.3
-support: shel.3.3, shel.3.1, shel.2.2, shel.2.8, shel.2.9, shel.1.2, lip.2.2
+support: shel.3.3, shel.3.1, shel.2.2, shel.2.8, shel.2.9, shel.1.2, exp.5.5
 themes: shel.t.effectiveness, shel.t.values, shel.t.reform, shel.t.cooperation
 criteria: accessibility, resource, society, rights, justice
 document: Shelter/Social Housing Evidence Sheet.docx

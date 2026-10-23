@@ -7,7 +7,7 @@ date: 2026-07-16
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1), Alstergren CJ
 significance: Living in the same house is not a de facto relationship — cohabitation "of convenience rather than a resumption".
 core: fam.1.4, fam.2.3
-support: fam.1.3, fam.2.4, fam.2.5, fam.2.1, ls.1.5
+support: fam.1.3, fam.2.4, fam.2.5, fam.2.1, inv.1.4
 themes: fam.t.values, fam.t.compliance, fam.t.reform
 criteria: accessibility, rights, justice
 related: burke-morgan-no3-2026

@@ -6,9 +6,9 @@ citation: Police Act 1990 (NSW); Australian Federal Police Act 1979 (Cth); Law E
 date: 1990
 jurisdiction: NSW and Commonwealth
 significance: The Acts that constitute the NSW Police Force (one Commissioner, an oath to serve "without favour or affection") and the AFP (Commonwealth offences, the ACT, overseas liaison) — and the oversight that disciplines them.
-core: ind.2.1
-support: ind.2.4, ind.2.7, ind.3.3, crime.2.1, crime.2.2, crime.6.2, ls.3.1, lip.1.3
-themes: ind.t.balance, ind.t.rights, ind.t.effectiveness, crime.t.balance
+core: dis.3.2
+support: dis.3.3, dis.3.5, dis.3.6, chg.6.5, crime.2.1, crime.2.2, crime.6.2, inv.1.3, dis.3.1
+themes: dis.t.justice, dis.t.effectiveness, crime.t.balance
 criteria: enforceability, accessibility, ruleoflaw, rights, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1990-047
 related: police-and-law-enforcement-agencies, lepra-2002, lecc-act-2016, lecc-operation-makalu-2026, lecc-strip-search-inquiry-2020, jones-v-commissioner-of-police-2026, hamzy-v-commissioner-2026, reporting-and-investigating-crime

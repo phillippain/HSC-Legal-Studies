@@ -78,6 +78,7 @@ FOLDER_TAG = {
     "news articles/shelter": "shelter",
     "legal briefs": None,
     "tiktok videos": None,
+    "preliminary": None,            # Year 11 (2025) — decided per file
 }
 
 # A case citation says which jurisdiction heard it, which is often the whole answer.
@@ -93,7 +94,7 @@ CITATION_TAG = [
 NAME_TAG = [
     (r"refugee|asylum|migration|minister for immigration|citizenship|samuelu|da silva", "hr.3.1"),
     (r"modern slavery|forced marriage|servitude|child soldier|trafficking", "hr.3.1"),
-    (r"native title|eastern maar|lalc|land council|terra nullius|mabo|wik", "ls.5.3"),
+    (r"native title|eastern maar|lalc|land council|terra nullius|mabo|wik", "chg.5.4"),
     (r"child ?support", "fam.1.5"),
     (r"surrogacy|embryo|ivf|birth tech|donor", "fam.3.3"),
     (r"domestic violence|dfv|coercive control|advo|apprehended", "fam.2.4"),
@@ -102,12 +103,13 @@ NAME_TAG = [
     (r"sentenc|parole|diversion|custody trend|punishment", "crime.4"),
     (r"bail|remand|arrest|detention|interrogation|police power|search", "crime.2"),
     (r"charge negotiation|jury|trial process|plea", "crime.3"),
-    (r"austin v state of victoria|eastern maar", "ls.5.3"),
+    (r"austin v state of victoria|eastern maar", "chg.5.4"),
     (r"clare.s law", "fam.2.4"),
     (r"empty propert|vacan(cy|t) (rate|propert)", "shel.3.1"),
     (r"eviction|evicted", "shel.2.2"),
     (r"aged care", "shel.2.4"),
-    (r"sharia|civil law system", "ls.3.4"),
+    (r"sharia|civil law system", "inv.1.3"),
+    (r"kmart camera glasses|law reform lag", "chg.6"),
     (r"adoption", "fam.1.6"),
     (r"homeless", "shel.3.3"),
     (r"\btenan|\brental|\bleas(e|ing)|\brenting|landlord", "shel.2.2"),

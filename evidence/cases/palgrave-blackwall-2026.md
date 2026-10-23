@@ -7,8 +7,8 @@ date: 2026-07-15
 jurisdiction: Administrative Review Tribunal — General Member S Hoffman
 significance: Two years of nil assessment flowed from a single uncorroborated phone call — and documents and attendance reversed it.
 core: fam.1.5
-support: fam.2.2, fam.2.5, ind.2.6, ind.2.7, ls.1.6, lip.1.1, lip.2.1, crime.3.7, ind.2.5
-themes: fam.t.effectiveness, ind.t.justice, lip.t.responsiveness, ls.t.ruleoflaw
+support: fam.2.2, fam.2.5, dis.3.4, dis.3.5, dis.3.6, inv.1.6, exp.4, exp.5, crime.3.7
+themes: fam.t.effectiveness, dis.t.justice, dis.t.effectiveness
 criteria: rights, responsiveness, accessibility, justice
 document: Cases/Family/Palgrave and Blackwall 2026 ARTA 1947 - Case Summary.pdf
 related: devine-kitson-2026, glancey-glancey-2026

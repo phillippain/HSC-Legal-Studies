@@ -7,7 +7,7 @@ date: 2018
 jurisdiction: Supreme Court of New South Wales
 significance: The court dispensed with a birth mother's consent and allowed her children's long-term carers to adopt them, because adoption was in the children's best interests.
 core: fam.1.6
-support: fam.3.4, fam.1.5, fam.2.4, hr.3.1, ls.1.5, lip.1.1
+support: fam.3.4, fam.1.5, fam.2.4, hr.3.1, inv.1.4, exp.4
 themes: fam.t.values, fam.t.effectiveness, fam.t.cooperation
 criteria: rights, justice, society, responsiveness
 document: Family/Cases/1.5 Family law cases.pdf

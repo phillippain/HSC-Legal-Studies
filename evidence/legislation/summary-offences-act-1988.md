@@ -7,7 +7,7 @@ date: 1988
 jurisdiction: NSW
 significance: The home of minor public order offences, heard by magistrates in the Local Court, where police discretion decides what counts as 'offensive'.
 core: crime.1.6, crime.1.5
-support: crime.2.1, crime.3.1, ls.3.1
+support: crime.2.1, crime.3.1, inv.1.3, dis.3.1
 themes: crime.t.discretion, crime.t.balance, crime.t.moral
 criteria: rights, accessibility, resource, enforceability
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1988-025

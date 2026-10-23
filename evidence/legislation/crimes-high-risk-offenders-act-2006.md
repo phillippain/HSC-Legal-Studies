@@ -7,7 +7,7 @@ date: 2006
 jurisdiction: NSW
 significance: The Supreme Court can supervise or keep detaining a high-risk sex or violent offender after the sentence ends, for up to five years at a time.
 core: crime.4.8
-support: hr.3.1, ls.2.7
+support: hr.3.1, inv.5.3
 themes: crime.t.balance, crime.t.moral, crime.t.effectiveness
 criteria: rights, society, ruleoflaw, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2006-007

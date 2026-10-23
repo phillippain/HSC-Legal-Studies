@@ -7,7 +7,7 @@ date: 2025-10-29
 jurisdiction: NSW
 significance: The government supported 51 of 56 recommendations, including drug checking and wider diversion, but kept drug dogs and strip searches: drug use treated partly as a health issue, partly still as crime.
 core: crime.1.5
-support: crime.1.8, crime.1.9, crime.2.3, crime.4.5, ls.4.1
+support: crime.1.8, crime.1.9, crime.2.3, crime.4.5, chg.1
 themes: crime.t.reform, crime.t.moral, crime.t.discretion
 criteria: responsiveness, society, rights
 source: https://thedailyaus.com.au/news/nsw-government-responds-to-2024-drug-summit-findings

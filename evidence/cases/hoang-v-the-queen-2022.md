@@ -7,7 +7,7 @@ date: 2022-04-13
 jurisdiction: High Court of Australia
 significance: A juror who Googled the Working with Children Check out of curiosity committed an offence under the Jury Act, and eight convictions taken while she still sat had to be set aside.
 core: crime.3.9
-support: crime.3.7, crime.3.2, crime.4.5, ind.3.2, ls.1.6, ls.4.1, ls.4.3
+support: crime.3.7, crime.3.2, crime.4.5, chg.1.3, chg.6.1, inv.1.6, chg.1, chg.3
 themes: crime.t.compliance, crime.t.reform, crime.t.balance, crime.t.effectiveness
 criteria: rights, ruleoflaw, justice, enforceability
 document: Cases/Crime/Hoang v The Queen [2022] HCA 14 - Case Summary.pdf

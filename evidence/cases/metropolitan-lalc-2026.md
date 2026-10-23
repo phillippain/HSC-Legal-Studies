@@ -6,9 +6,9 @@ citation: "[2026] FCA 1074"
 date: 2026-08-05
 jurisdiction: Federal Court of Australia — Raper J
 significance: A Land Council owned eight tennis courts in suburban Sydney and had to ask a court to prove native title does not exist before it could use them.
-core: ls.5.4, shel.2.1, ls.5.5
-support: ls.5.2, ls.5.3, ls.2.9, ls.2.10, ls.3.2, shel.1.4, shel.2.8, shel.3.4, lip.1.1, hr.3.1
-themes: ls.t.reflection, ls.t.institutions, shel.t.effectiveness, shel.t.reform
+core: chg.5.4, chg.5.5, shel.2.1, chg.6
+support: inv.2.1, inv.2.2, inv.1.3, dis.2.3, shel.1.4, shel.2.8, shel.3.4, exp.4, hr.3.1
+themes: chg.t.values, chg.t.justice, shel.t.effectiveness, shel.t.reform
 criteria: accessibility, resource, rights, justice
 document: Cases/Shelter/12_Metropolitan_LALC_4_v_Attorney_General_NSW_2026_FCA_1074.pdf
 related: mabo-no2-1992, wik-1996, native-title-act-1993, austin-eastern-maar-no3-2026

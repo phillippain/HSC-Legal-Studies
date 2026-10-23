@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Most shelter disputes are resolved before any institution is involved, and the law's role there is not to adjudicate but to set the bargaining position each party starts from.
 core: shel.2.5, shel.2.8, shel.2.10
-support: shel.2.6, shel.2.7, shel.2.9, shel.2.2, shel.2.3, shel.3.4, ind.2.2, ind.2.5, lip.2.1, lip.2.2, lip.2.3
+support: shel.2.6, shel.2.7, shel.2.9, shel.2.2, shel.2.3, shel.3.4, dis.2.5, dis.3.4, exp.5, exp.5.5, exp.6
 themes: shel.t.cooperation, shel.t.effectiveness, shel.t.compliance
 criteria: accessibility, resource, enforceability, rights, justice, responsiveness
 document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx

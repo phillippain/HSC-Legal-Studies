@@ -6,9 +6,9 @@ citation: Surveillance Devices Act 2007 (NSW); Telecommunications (Interception 
 date: 2007
 jurisdiction: NSW and Commonwealth
 significance: An offence for anyone to record a private conversation, track a person or film a private activity without consent — and the warrant regime under which police do exactly that, plus phone interception and metadata.
-core: ind.3.2, ind.3.1, crime.2.2
-support: ind.1.2, ind.3.3, ind.3.4, crime.2.1, crime.3.5, hr.2.9, ls.3.1, lip.2.1, lip.2.3
-themes: ind.t.technology, ind.t.balance, ind.t.rights, crime.t.balance
+core: chg.1.3, chg.6.1, crime.2.2
+support: inv.7.1, chg.6.5, chg.6, crime.2.1, crime.3.5, hr.2.9, inv.1.3, dis.3.1, exp.5, exp.6
+themes: chg.t.values, chg.t.justice, crime.t.balance
 criteria: rights, enforceability, ruleoflaw, responsiveness, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2007-064
 related: technology-and-the-individual, guardian-2026-gps-tracking, kmart-camera-glasses-2026, nsw-mobile-phone-detection-cameras, privacy-act-1988-and-2024-reforms, lepra-2002, cd-v-commonwealth-2025-anom, nsw-break-and-enter-and-covert-stalking-reforms-2026, lecc-act-2016

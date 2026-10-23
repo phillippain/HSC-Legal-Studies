@@ -7,7 +7,7 @@ date: 2022-04
 jurisdiction: NSW
 significance: Youth Koori Court participants were 40% less likely to be given custody, but there was no significant reduction in reoffending.
 core: crime.5.3
-support: crime.5.4, crime.4.7, hr.3.1, lip.1.1
+support: crime.5.4, crime.4.7, hr.3.1, exp.4, exp.2.3, exp.2.4
 themes: crime.t.effectiveness, crime.t.balance, crime.t.reform
 criteria: justice, accessibility, society, resource
 related: young-offenders-in-the-cjs, circle-sentencing-and-walama, children-criminal-proceedings-act-1987

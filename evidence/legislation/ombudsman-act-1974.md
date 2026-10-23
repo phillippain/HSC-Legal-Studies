@@ -6,9 +6,9 @@ citation: Ombudsman Act 1974 (NSW); Ombudsman Act 1976 (Cth)
 date: 1974
 jurisdiction: NSW (and Commonwealth)
 significance: Lets anyone complain, free, about the conduct of a NSW public authority — unlawful, unreasonable, unjust or discriminatory decisions — with royal-commission powers to investigate and report, but no power to overturn.
-core: ind.2.7, ind.2.5
-support: ind.2.4, ind.2.6, ind.3.3, hr.2.4, ls.3.1, ls.1.6, lip.1.3, lip.2.3, crime.4.5
-themes: ind.t.rights, ind.t.effectiveness, ind.t.justice, ls.t.institutions
+core: dis.3.5, dis.3.6, dis.3.4
+support: dis.3.3, chg.6.5, hr.2.4, inv.1.3, dis.3.1, inv.1.6, dis.3.2, exp.6, crime.4.5
+themes: dis.t.justice, dis.t.effectiveness
 criteria: accessibility, enforceability, responsiveness, resource, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1974-068
 related: ombudsman-and-statutory-bodies, ombudsman-wrongful-detention-2026, disputes-with-the-state-review, non-legal-methods-disputes-with-the-state, icac-act-1988, lecc-act-2016, australian-human-rights-commission-act-1986, administrative-decisions-review-act-1997

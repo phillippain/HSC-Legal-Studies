@@ -7,7 +7,7 @@ date: 2018
 jurisdiction: Family Court of Australia
 significance: A mother's coaching of her daughter to believe false allegations against the father was itself an unacceptable risk of psychological harm, and he was given sole parental responsibility.
 core: fam.3.2
-support: fam.2.2, fam.2.4, fam.1.5, fam.3.4, ls.1.5, ls.4.1
+support: fam.2.2, fam.2.4, fam.1.5, fam.3.4, inv.1.4, chg.1
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness
 criteria: rights, justice, society, responsiveness
 document: Family/Cases/3.2 Family law cases.pdf

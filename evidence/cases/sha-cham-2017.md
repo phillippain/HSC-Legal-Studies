@@ -7,7 +7,7 @@ date: 2017
 jurisdiction: Full Court of the Family Court of Australia
 significance: A de facto relationship was found to exist between a married man and his partner of about eighteen months, on the s 4AA factors rather than on living together full time.
 core: fam.1.4
-support: fam.1.3, fam.2.3, fam.1.5, fam.3.3, fam.2.5, ls.1.3, ls.4.1
+support: fam.1.3, fam.2.3, fam.1.5, fam.3.3, fam.2.5, inv.1.5, chg.1
 themes: fam.t.values, fam.t.reform, fam.t.cooperation
 criteria: rights, accessibility, society, justice, ruleoflaw
 document: Family/Cases/1.3 Family law cases.pdf

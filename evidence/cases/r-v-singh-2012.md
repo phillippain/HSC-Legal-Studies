@@ -7,7 +7,7 @@ date: 2012-06-07
 jurisdiction: Supreme Court of New South Wales
 significance: A man who cut his wife's throat after she said she would leave him had murder reduced to manslaughter by provocation, and served six years.
 core: crime.3.8
-support: crime.1.5, crime.3.4, crime.4.1, crime.4.2, crime.4.3, crime.3.9, ls.1.4, ls.4.1
+support: crime.1.5, crime.3.4, crime.4.1, crime.4.2, crime.4.3, crime.3.9, inv.1.2, chg.1
 themes: crime.t.moral, crime.t.reform, crime.t.effectiveness
 criteria: society, justice, responsiveness, rights
 document: Cases/Crime/R v Singh [2012] NSWSC 637 - Case Summary.pdf

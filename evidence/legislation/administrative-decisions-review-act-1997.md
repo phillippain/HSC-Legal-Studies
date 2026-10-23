@@ -6,9 +6,9 @@ citation: Administrative Decisions Review Act 1997 (NSW); Civil and Administrati
 date: 1997
 jurisdiction: NSW
 significance: A right to written reasons, a mandatory internal review, then merits review in NCAT for NSW government decisions — with judicial review of legality in the Supreme Court as the backstop.
-core: ind.2.6, ind.2.5
-support: ind.2.3, ind.2.7, ind.3.3, ls.2.3, ls.2.7, ls.3.1, ls.1.6, shel.3.4, lip.2.3
-themes: ind.t.justice, ind.t.rights, ind.t.effectiveness, ls.t.institutions
+core: dis.3.4
+support: dis.2.5, dis.3.5, dis.3.6, chg.6.5, inv.4.1, inv.5.3, inv.1.3, dis.3.1, inv.1.6, shel.3.4, exp.6
+themes: dis.t.justice, dis.t.effectiveness
 criteria: accessibility, enforceability, ruleoflaw, justice, responsiveness
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1997-076
 related: disputes-with-the-state-review, ncat-act-2013, administrative-review-tribunal-act-2024, ombudsman-act-1974, hgy-v-secretary-ministry-of-health-2026, goldman-v-inner-west-council-2026, housing-act-2001, kioa-v-west-1985

@@ -7,7 +7,7 @@ date: 2019
 jurisdiction: Commonwealth
 significance: Mediation at a Family Relationship Centre costs $30 an hour after the first free hour; a contested case in the Family Court was reported at about $110,000.
 core: fam.2.5
-support: fam.2.1, fam.2.2, fam.2.3, fam.1.2, ind.2.2, ind.2.3, ls.2.3, ls.3.3, lip.2.3
+support: fam.2.1, fam.2.2, fam.2.3, fam.1.2, dis.2.5, inv.4.1, dis.1.5, exp.6
 themes: fam.t.cooperation, fam.t.effectiveness, fam.t.reform
 criteria: accessibility, resource, responsiveness, justice, rights
 document: Family/Cases/2.4.1 Family law cases.pdf

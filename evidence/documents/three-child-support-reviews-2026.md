@@ -6,9 +6,9 @@ citation: Devine and Kitson [2026] ARTA 1944; Glancey and Glancey [2026] ARTA 19
 date: 2026-07
 jurisdiction: Administrative Review Tribunal, Perth — all three decided by General Member S Hoffman within eight days
 significance: Tens of thousands of dollars in obligations created, contested and enforced, and no court appears anywhere.
-core: fam.1.5, ind.2.6
-support: fam.2.5, ind.2.3, ind.2.7, ls.3.1, ls.3.3, lip.2.1, lip.2.3, ind.2.5, ind.1.2
-themes: fam.t.effectiveness, ind.t.effectiveness, lip.t.responsiveness, ls.t.institutions
+core: fam.1.5, dis.3.4
+support: fam.2.5, dis.2.5, dis.3.5, dis.3.6, inv.1.3, dis.3.1, dis.1.5, exp.5, exp.6, inv.7.1
+themes: fam.t.effectiveness, dis.t.effectiveness, dis.t.justice
 criteria: accessibility, resource, enforceability, ruleoflaw, justice
 document: Cases/Family/Three child support reviews - comparison sheet.pdf
 related: devine-kitson-2026, glancey-glancey-2026, palgrave-blackwall-2026

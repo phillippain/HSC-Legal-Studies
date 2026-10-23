@@ -7,7 +7,7 @@ date: 1979
 jurisdiction: NSW
 significance: Establishes Legal Aid NSW and the means, merit and policy tests that ration it — the gate through which almost 4,500 people a year now seek housing help, most of them for advice rather than representation.
 core: shel.2.7
-support: shel.2.5, shel.2.6, shel.2.8, shel.2.9, shel.3.2, shel.3.3, ls.1.5, ls.3.1, lip.2.2
+support: shel.2.5, shel.2.6, shel.2.8, shel.2.9, shel.3.2, shel.3.3, inv.1.4, inv.1.3, dis.3.1, exp.5.5
 themes: shel.t.effectiveness, shel.t.cooperation, shel.t.values
 criteria: accessibility, resource, justice, responsiveness
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1979-078

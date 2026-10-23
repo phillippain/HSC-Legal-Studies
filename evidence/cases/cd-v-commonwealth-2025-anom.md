@@ -7,7 +7,7 @@ date: 2025-10-08
 jurisdiction: Australia (High Court)
 significance: The High Court upheld a 2024 law confirming that ANOM messages were lawfully obtained, protecting hundreds of prosecutions built on an AFP–FBI sting.
 core: crime.6.2
-support: crime.2.3, crime.3.5, ls.2.6
+support: crime.2.3, crime.3.5, inv.5.1, inv.5.2
 themes: crime.t.balance, crime.t.effectiveness, crime.t.reform
 criteria: enforceability, rights, ruleoflaw
 document: Cases/Crime/CD v Commonwealth [2025] HCA 37 - Case Summary.pdf

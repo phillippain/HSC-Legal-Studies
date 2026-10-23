@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Australia
 significance: One rental listing nationally was affordable on JobSeeker, out of about 49,000 surveyed.
 core: shel.3.1, shel.3.3
-support: shel.2.2, shel.3.4, shel.1.2, lip.1.1, hr.3.1, hr.2.12, shel.2.9
+support: shel.2.2, shel.3.4, shel.1.2, exp.4, hr.3.1, hr.2.12, shel.2.9
 themes: shel.t.effectiveness, shel.t.values, shel.t.reform
 criteria: accessibility, society, rights, justice
 related: icescr-1966, anao-haff-2026

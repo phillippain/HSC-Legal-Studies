@@ -7,7 +7,7 @@ date: 2000
 jurisdiction: NSW
 significance: The child's best interests are paramount, consent is required or dispensed with by the Supreme Court, adoption is open, and since 2010 same-sex couples can adopt — the statute behind every NSW adoption.
 core: fam.1.6
-support: fam.1.5, fam.3.2, fam.3.4, fam.1.4, fam.3.1, hr.2.9, ls.2.14, lip.1.1
+support: fam.1.5, fam.3.2, fam.3.4, fam.1.4, fam.3.1, hr.2.9, inv.6.3, inv.7.2, exp.4
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness
 criteria: rights, responsiveness, accessibility, justice, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2000-075

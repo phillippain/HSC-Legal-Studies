@@ -7,8 +7,8 @@ date: 2026-10-19
 jurisdiction: NSW Supreme Court (Justice Edward Muston); Commonwealth AFP conduct overseas
 significance: A court is asked to refuse to try two murder charges because of how the accused was brought before it — the integrity of the court set against the public interest in a trial.
 core: crime.3.1, crime.2.1, crime.3.6
-support: crime.2.3, crime.2.4, crime.2.6, crime.3.3, crime.3.5, crime.3.7, crime.6.2, hr.2.4, hr.2.10, ls.1.6, ls.1.7, ls.2.1, ls.2.11, ind.1.2, lip.1.3, lip.2.1, lip.2.3
-themes: crime.t.discretion, crime.t.balance, crime.t.compliance, crime.t.effectiveness, ls.t.ruleoflaw, lip.t.ruleoflaw
+support: crime.2.3, crime.2.4, crime.2.6, crime.3.3, crime.3.5, crime.3.7, crime.6.2, hr.2.4, hr.2.10, inv.1.6, inv.1.7, inv.3.1, inv.3.2, inv.6.2, inv.7.1, dis.3.2, exp.5, exp.6
+themes: crime.t.discretion, crime.t.balance, crime.t.compliance, crime.t.effectiveness, inv.t.justice
 criteria: accessibility, enforceability, responsiveness, rights, ruleoflaw, justice
 document: Crime/Criminal Trial Process/Zakaria stay hearing day one (Evidence summary 21Oct26).pdf
 source: https://www.abc.net.au/news/2026-10-19/nsw-masood-zakaria-court-challenge-against-afp-deportation/107282964

@@ -7,7 +7,7 @@ date: 2023-12-14
 jurisdiction: NSW Supreme Court; NSW Court of Criminal Appeal; inquiry under Crimes (Appeal and Review) Act 2001 Part 7
 significance: Twenty years in prison on circumstantial evidence, corrected not by an ordinary appeal but by an inquiry and new genetic science.
 core: crime.3.9, crime.4.5
-support: crime.3.6, crime.3.7, crime.4.8, hr.2.10, ls.1.7
+support: crime.3.6, crime.3.7, crime.4.8, hr.2.10, inv.1.7
 themes: crime.t.effectiveness, crime.t.reform, crime.t.moral
 criteria: justice, rights, responsiveness, ruleoflaw
 source: https://www.ruleoflaw.org.au/case-note-kathleen-folbigg

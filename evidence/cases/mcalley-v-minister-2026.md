@@ -6,9 +6,9 @@ citation: "[2026] ARTA 1492"
 date: 2026-08-03
 jurisdiction: Administrative Review Tribunal (Citizenship) — Senior Member T Tavoularis
 significance: Decades of Australian passports, and no notice confirming citizenship, because two documents disagreed about a year of birth.
-core: ind.2.6, hr.2.4
-support: hr.2.9, hr.3.1, ls.1.6, ls.3.1, ls.3.3, ind.2.7, lip.1.1, lip.1.5, ind.2.5
-themes: ind.t.justice, ind.t.balance, hr.t.compliance, ls.t.institutions
+core: dis.3.4, hr.2.4
+support: hr.2.9, hr.3.1, inv.1.6, inv.1.3, dis.3.1, dis.1.5, dis.2.5, dis.3.5, dis.3.6, exp.4, inv.6.2
+themes: dis.t.justice, hr.t.compliance
 criteria: accessibility, rights, ruleoflaw, justice
 document: Jade Cases/Completed Case Summaries/07_McAlley_and_Minister_2026_ARTA_1492.pdf
 related: plaintiff-m98-2026-hca-26

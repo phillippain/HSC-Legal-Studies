@@ -7,8 +7,8 @@ date: 2026-10-19
 jurisdiction: Northern Territory Government; Commonwealth statutory body
 significance: Darwin's largest shelter closed and its mostly Aboriginal residents were bussed 100 km to a half-size facility — and the national rights body could only write a letter: its complaint power stops at the Commonwealth.
 core: hr.2.4, shel.3.3, hr.3.1
-support: hr.1.3, hr.2.7, hr.2.9, hr.2.12, hr.2.13, hr.2.14, shel.1.2, shel.1.3, shel.2.8, shel.2.9, shel.3.4, ls.2.9, ls.2.14, ind.2.7, lip.1.1, lip.2.1, lip.2.3
-themes: hr.t.effectiveness, hr.t.compliance, hr.t.sovereignty, shel.t.effectiveness, shel.t.values, shel.t.cooperation, lip.t.justice
+support: hr.1.3, hr.2.7, hr.2.9, hr.2.12, hr.2.13, hr.2.14, shel.1.2, shel.1.3, shel.2.8, shel.2.9, shel.3.4, inv.2.1, inv.6.3, inv.7.2, dis.3.5, dis.3.6, exp.4, exp.5, exp.6
+themes: hr.t.effectiveness, hr.t.compliance, hr.t.sovereignty, shel.t.effectiveness, shel.t.values, shel.t.cooperation, inv.t.justice
 criteria: resource, accessibility, enforceability, rights, society, justice, responsiveness
 document: Human Rights/AHRC commissioners on the Darwin YiSSA shelter closure (Evidence summary 22Oct26).pdf
 source: https://humanrights.gov.au/about-us/media-centre/media-releases/aboriginal-and-torres-strait-islander-peoples/commissioners-seek-urgent-talks-with-nt-government-over-homeless-shelter-closure

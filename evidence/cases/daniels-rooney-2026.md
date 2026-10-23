@@ -7,8 +7,8 @@ date: 2026-06-19
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2), Judge Shoebridge
 significance: A surplus embryo is property under Pt VIIIAB — "no financial value yet high personal importance" — because no statute says what it is.
 core: fam.3.3, fam.3.1
-support: fam.2.3, fam.1.4, fam.2.5, ind.3.2, ind.3.4
-themes: fam.t.values, fam.t.reform, ind.t.technology
+support: fam.2.3, fam.1.4, fam.2.5, chg.1.3, chg.6.1, chg.6
+themes: fam.t.values, fam.t.reform, chg.t.values
 criteria: responsiveness, rights, justice
 document: Jade Cases/Raw Cases/Daniels & Rooney [2026] FedCFamC2F 896.rtf
 added: 2026-09-19

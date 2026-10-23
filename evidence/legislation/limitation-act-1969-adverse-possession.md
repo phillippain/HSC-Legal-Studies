@@ -7,7 +7,7 @@ date: 1969
 jurisdiction: NSW
 significance: An owner who does nothing for 12 years while someone else possesses the land openly, continuously and without permission loses the right to recover it — and the possessor can apply to be registered as owner.
 core: shel.1.4, shel.2.4
-support: shel.2.1, shel.1.1, shel.3.3, shel.2.6, ls.1.4, ls.3.2
+support: shel.2.1, shel.1.1, shel.3.3, shel.2.6, inv.1.2, inv.1.3, dis.2.3
 themes: shel.t.values, shel.t.compliance, shel.t.effectiveness
 criteria: enforceability, rights, ruleoflaw, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1969-031

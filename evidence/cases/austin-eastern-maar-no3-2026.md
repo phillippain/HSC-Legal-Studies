@@ -6,9 +6,9 @@ citation: "[2026] FCA 1054"
 date: 2026-07-30
 jurisdiction: Federal Court of Australia — Murphy J
 significance: Two Aboriginal groups from the same language society claimed the same country, and the claim failed because the case argued was not the case the witnesses gave.
-core: ls.5.3, ls.5.4
-support: ls.5.1, ls.5.2, ls.2.9, ls.2.10, ls.4.3, ls.3.3, lip.1.1, lip.1.4, hr.3.1
-themes: ls.t.reflection, ls.t.institutions, ls.t.ruleoflaw, lip.t.justice
+core: chg.5.4, chg.5.5
+support: chg.5.2, inv.2.1, inv.2.2, chg.3, dis.1.5, dis.2.5, exp.4, dis.1.8, dis.2.8, hr.3.1
+themes: chg.t.values, chg.t.justice
 criteria: accessibility, resource, rights, justice
 document: Jade Cases/Completed Case Summaries/11_Austin_Eastern_Maar_No_3_2026_FCA_1054.pdf
 related: mabo-no2-1992, wik-1996, native-title-act-1993

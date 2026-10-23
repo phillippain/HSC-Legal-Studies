@@ -7,7 +7,7 @@ date: 2012
 jurisdiction: NSW (national scheme)
 significance: Registers and regulates the not-for-profit providers that now manage close to half of NSW social housing — tiered registration, performance standards and a Registrar who can intervene.
 core: shel.3.4, shel.2.9, shel.2.8
-support: shel.1.3, shel.2.2, shel.3.3, shel.3.1, ls.2.6, ls.4.2, lip.2.3
+support: shel.1.3, shel.2.2, shel.3.3, shel.3.1, inv.5.1, inv.5.2, chg.2, exp.6
 themes: shel.t.cooperation, shel.t.effectiveness, shel.t.reform, shel.t.values
 criteria: resource, accessibility, enforceability, responsiveness, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2012-059

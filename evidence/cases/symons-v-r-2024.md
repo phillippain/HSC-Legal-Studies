@@ -7,7 +7,7 @@ date: 2024-11-29
 jurisdiction: NSW Court of Criminal Appeal
 significance: Two murder convictions were quashed because the trial judge refused to leave excessive self-defence — and so manslaughter — to the jury, and a co-accused had already won on the same ground.
 core: crime.3.8, crime.4.5
-support: crime.3.9, crime.3.5, crime.3.6, crime.1.7, ls.1.5, ls.1.7
+support: crime.3.9, crime.3.5, crime.3.6, crime.1.7, inv.1.4, inv.1.7
 themes: crime.t.balance, crime.t.discretion, crime.t.effectiveness
 criteria: justice, rights, ruleoflaw, accessibility
 document: Cases/Crime/Symons v R; McDonald v R [2024] NSWCCA 212 - Case Summary.pdf

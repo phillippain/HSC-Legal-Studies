@@ -7,7 +7,7 @@ date: 2024-03
 jurisdiction: NSW
 significance: Judge-alone trials are associated with a nine-point higher chance of acquittal and sentences 7.6 months shorter, but BOCSAR cannot say whether judges or the cases explain it.
 core: crime.3.9
-support: crime.3.6, crime.3.2, crime.3.5, crime.4.3, ls.2.2
+support: crime.3.6, crime.3.2, crime.3.5, crime.4.3, inv.4.3
 themes: crime.t.balance, crime.t.effectiveness, crime.t.reform
 criteria: rights, justice, resource, society
 document: Cases/BOCSAR/BOCSAR CJB264 - Effect of judge-alone trials (2024).pdf

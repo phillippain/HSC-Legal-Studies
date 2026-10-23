@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: The law protects tenure, not need — so how far its protection reaches is decided by which kind of shelter a person has, not by how badly they need it.
 core: shel.1.1
-support: shel.1.2, shel.1.3, shel.1.4, shel.2.3, shel.3.3, hr.2.9, ls.1.5, lip.1.1
+support: shel.1.2, shel.1.3, shel.1.4, shel.2.3, shel.3.3, hr.2.9, inv.1.4, exp.4
 themes: shel.t.values, shel.t.effectiveness, shel.t.cooperation
 criteria: rights, accessibility, enforceability, society, justice
 related: residential-tenancies-act-2010, shelter-homelessness-evidence-sheet, right-to-housing-comparative

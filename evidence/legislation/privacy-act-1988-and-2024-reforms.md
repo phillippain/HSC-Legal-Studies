@@ -6,9 +6,9 @@ citation: Privacy Act 1988 (Cth), Schedule 1 (Australian Privacy Principles); Pr
 date: 1988
 jurisdiction: Commonwealth (and NSW public sector)
 significance: Thirteen Australian Privacy Principles bind agencies and businesses over $3 million, with penalties to $50 million — and from June 2025 a statutory tort lets an individual sue for serious invasion of privacy.
-core: ind.3.1, ind.3.2, ind.3.4
-support: ind.1.1, ind.1.2, ind.2.7, ind.3.3, hr.2.9, hr.2.10, ls.4.1, ls.4.2, lip.2.1, lip.2.3
-themes: ind.t.technology, ind.t.rights, ind.t.balance, ind.t.effectiveness
+core: chg.1.3, chg.6.1, chg.6
+support: inv.7.2, inv.7.3, inv.7.1, dis.3.5, dis.3.6, chg.6.5, hr.2.9, hr.2.10, chg.1, chg.2, exp.5, exp.6
+themes: chg.t.values, chg.t.justice, chg.t.effectiveness
 criteria: rights, enforceability, accessibility, responsiveness, society
 source: https://www.legislation.gov.au/C2004A03712/latest/text
 related: technology-and-the-individual, kmart-camera-glasses-2026, cyber-sanctions-medibank, online-safety-act-2021-and-social-media-minimum-age, surveillance-devices-act-2007-and-tia-act-1979, guardian-2026-gps-tracking, digital-duty-of-care-bill-2026, australian-human-rights-commission-act-1986

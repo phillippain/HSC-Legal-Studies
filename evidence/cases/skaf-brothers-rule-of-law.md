@@ -7,7 +7,7 @@ date: 2008
 jurisdiction: District Court of NSW, Supreme Court of NSW and the NSW Court of Criminal Appeal
 significance: Two jurors visited the park at night to test the lighting — and the most serious offences of their time had to be retried, because a verdict may rest only on evidence tested in court.
 core: crime.3.9, crime.4.3, crime.4.5
-support: crime.3.1, crime.3.2, crime.3.6, crime.3.7, crime.4.1, crime.4.2, crime.4.4, crime.4.8, crime.1.5, ls.1.5, ls.1.7, ls.4.1, lip.1.4
+support: crime.3.1, crime.3.2, crime.3.6, crime.3.7, crime.4.1, crime.4.2, crime.4.4, crime.4.8, crime.1.5, inv.1.4, inv.1.7, chg.1, dis.1.8, dis.2.8
 themes: crime.t.discretion, crime.t.balance, crime.t.effectiveness, crime.t.reform, crime.t.moral
 criteria: justice, rights, ruleoflaw, enforceability, society, accessibility
 document: Cases/Crime/R v Skaf [2004] NSWCCA 37 - Case Summary.pdf

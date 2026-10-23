@@ -7,8 +7,8 @@ date: 2026
 jurisdiction: Australia
 significance: Australia protects rights through the common law, statute and the courts — and is the only liberal democracy with no national bill or charter of rights.
 core: hr.2.10, hr.2.11, hr.2.12, hr.2.13, hr.2.14
-support: hr.2.7, hr.2.8, hr.2.9, hr.2.4, ind.1.1, ind.2.7, ls.2.1, ls.2.8, lip.2.3
-themes: ls.t.ruleoflaw, ls.t.reflection, ls.t.institutions
+support: hr.2.7, hr.2.8, hr.2.9, hr.2.4, inv.7.2, inv.7.3, dis.3.5, dis.3.6, inv.3.1, inv.3.2, inv.5.4, exp.6
+themes: inv.t.justice, inv.t.values
 criteria: rights, enforceability, accessibility, ruleoflaw, society, justice
 related: individual-rights-and-responsibilities, kioa-v-west-1985, australian-communist-party-1951, ombudsman-and-statutory-bodies
 added: 2026-09-20

@@ -7,7 +7,7 @@ date: 2025
 jurisdiction: Queensland (with ACT, Victoria and NT comparisons)
 significance: Queensland applied adult penalties to children for 33 offences and overrode its own Human Rights Act, while the ACT raised its minimum age to 14.
 core: crime.5.1, crime.5.4
-support: hr.3.1, hr.2.9, crime.1.5, lip.1.1
+support: hr.3.1, hr.2.9, crime.1.5, exp.4, exp.1.3, exp.2.4
 themes: crime.t.reform, crime.t.moral, crime.t.balance
 criteria: rights, responsiveness, society, justice
 related: croc-1989, senate-youth-justice-inquiry-2026, children-criminal-proceedings-act-1987

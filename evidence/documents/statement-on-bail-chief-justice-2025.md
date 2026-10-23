@@ -7,7 +7,7 @@ date: 2025-05-27
 jurisdiction: NSW
 significance: The Chief Justice publicly defended bail decision-makers: blaming the judge when someone on bail offends is 'wrong and unfair'.
 core: crime.2.5
-support: crime.3.3, ls.1.7, crime.1.5
+support: crime.3.3, inv.1.7, crime.1.5
 themes: crime.t.balance, crime.t.discretion, crime.t.reform
 criteria: rights, ruleoflaw, resource, society
 document: Crime/Statement on Bail by Chief Justice of New South Wales.pdf

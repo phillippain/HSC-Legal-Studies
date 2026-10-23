@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Comparative — South Africa, Canada, Europe
 significance: South Africa's constitutional court ordered a housing programme to be made reasonable; an Australian court has no comparable power, and that is a choice of legal architecture.
 core: shel.1.2, shel.1.3
-support: shel.3.3, shel.3.1, shel.2.6, hr.2.7, hr.2.1, ls.2.11, ls.2.14, lip.2.3
+support: shel.3.3, shel.3.1, shel.2.6, hr.2.7, hr.2.1, inv.6.2, inv.6.3, inv.7.2, exp.6
 themes: shel.t.values, shel.t.effectiveness, shel.t.reform
 criteria: rights, enforceability, justice, society, accessibility
 document: Shelter/12LS 2026 AT4 Q30b Response Structure.docx

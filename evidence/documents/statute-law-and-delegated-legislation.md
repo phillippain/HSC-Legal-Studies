@@ -6,9 +6,9 @@ citation: Preliminary Part II reference note
 date: 2026
 jurisdiction: NSW and Commonwealth
 significance: Most law that affects people day to day is not made by parliament but under authority parliament handed over, and scrutinised only if someone notices.
-core: ls.2.4, ls.2.5
-support: ls.2.6, ls.2.7, ls.4.1, ls.4.3, ind.2.5, shel.2.8, crime.2.1
-themes: ls.t.institutions, ls.t.ruleoflaw, ls.t.reflection
+core: inv.3.3, inv.4.4, inv.3.4
+support: inv.5.1, inv.5.2, inv.5.3, chg.1, chg.3, dis.3.4, shel.2.8, crime.2.1
+themes: inv.t.justice, inv.t.values
 criteria: responsiveness, resource, ruleoflaw, enforceability, society
 related: court-hierarchy-and-jurisdiction, law-reform-conditions-agencies-mechanisms
 added: 2026-09-19

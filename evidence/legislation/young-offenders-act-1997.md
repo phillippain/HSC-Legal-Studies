@@ -7,7 +7,7 @@ date: 1997
 jurisdiction: NSW
 significance: The diversionary ladder — warning, caution, youth justice conference — that diverts 45.6% of young people, against 3.9% of adults.
 core: crime.5.5, crime.5.4
-support: crime.1.9, crime.4.7, crime.2.1
+support: crime.1.9, crime.4.7, crime.2.1, exp.2.4
 themes: crime.t.discretion, crime.t.effectiveness, crime.t.balance
 criteria: resource, rights, society, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1997-054

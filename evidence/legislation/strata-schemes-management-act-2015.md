@@ -7,7 +7,7 @@ date: 2015
 jurisdiction: NSW
 significance: Strata is the tenure where the rules are made by the neighbours — and s 137B exists because a court had to strike one of those rules down first.
 core: shel.2.4, shel.2.3
-support: shel.2.1, shel.2.5, shel.2.6, shel.2.7, shel.1.4, ls.2.5, ls.4.3
+support: shel.2.1, shel.2.5, shel.2.6, shel.2.7, shel.1.4, inv.3.4, chg.3
 themes: shel.t.cooperation, shel.t.reform, shel.t.values, shel.t.compliance
 criteria: enforceability, rights, accessibility, responsiveness, justice
 document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx

@@ -7,7 +7,7 @@ date: 2012
 jurisdiction: NSW
 significance: The first NSW law to give boarders and lodgers any statutory rights — registration with council, "occupancy principles", NCAT jurisdiction — for people the Residential Tenancies Act expressly excludes.
 core: shel.2.4, shel.3.2
-support: shel.1.2, shel.2.2, shel.2.3, shel.2.5, shel.2.8, shel.3.3, shel.3.4, lip.2.3
+support: shel.1.2, shel.2.2, shel.2.3, shel.2.5, shel.2.8, shel.3.3, shel.3.4, exp.6
 themes: shel.t.values, shel.t.effectiveness, shel.t.reform, shel.t.compliance
 criteria: accessibility, enforceability, rights, responsiveness, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2012-074

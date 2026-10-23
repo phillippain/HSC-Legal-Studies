@@ -6,9 +6,9 @@ citation: "[2026] FCA 1277"
 date: 2026-08-31
 jurisdiction: Federal Court of Australia — Thawley J
 significance: A power that switches off natural justice, allows no merits review, and was still quashed — because the Minister assumed nothing had changed in five and a half years.
-core: hr.2.4, hr.3.1, ls.2.7
-support: hr.2.7, hr.2.9, hr.2.14, ind.2.6, ind.2.7, ls.2.5, ls.2.8, ls.1.6, crime.4.8, fam.1.5, lip.1.3, hr.2.6, hr.2.13, ind.2.4
-themes: hr.t.compliance, hr.t.sovereignty, ind.t.balance, ls.t.institutions, ls.t.ruleoflaw
+core: hr.2.4, hr.3.1, inv.5.3
+support: hr.2.7, hr.2.9, hr.2.14, dis.3.4, dis.3.5, dis.3.6, inv.3.4, inv.5.4, inv.1.6, crime.4.8, fam.1.5, dis.3.2, hr.2.6, hr.2.13, dis.3.3
+themes: hr.t.compliance, hr.t.sovereignty, inv.t.justice
 criteria: rights, ruleoflaw, accessibility, responsiveness, justice
 document: Jade Cases/Completed Case Summaries/Da Silva v Minister Case Summary.pdf
 related: samuelu-v-minister-2026, croc-1989

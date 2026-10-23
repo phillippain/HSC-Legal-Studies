@@ -7,7 +7,7 @@ date: 2024-05-06
 jurisdiction: Commonwealth
 significance: Repealed the presumption of equal shared parental responsibility and rebuilt the best-interests test around safety.
 core: fam.3.2, fam.2.2
-support: fam.2.4, fam.3.4, fam.1.5, ls.4.1, ls.4.3
+support: fam.2.4, fam.3.4, fam.1.5, chg.1, chg.3
 themes: fam.t.reform, fam.t.values, fam.t.effectiveness
 criteria: responsiveness, rights, society, justice
 related: bergsma-hyde-2026, billings-clowes-no2-2026

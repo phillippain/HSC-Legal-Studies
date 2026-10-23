@@ -7,7 +7,7 @@ date: 2014
 jurisdiction: NSW
 significance: A man kneeling with his hands behind his head for over a minute was tasered; every charge against him was dismissed, he had spent seven months on remand, and no officer faced any consequence.
 core: crime.2.1, crime.3.7
-support: crime.2.4, crime.2.5, crime.2.6, crime.3.6, crime.3.8, crime.4.4, ind.2.1, ind.2.7, ls.1.5, ls.1.6, ls.2.9, hr.3.1, lip.1.1, lip.2.1, lip.2.3
+support: crime.2.4, crime.2.5, crime.2.6, crime.3.6, crime.3.8, crime.4.4, dis.3.2, dis.3.5, dis.3.6, inv.1.4, inv.1.6, inv.2.1, hr.3.1, exp.4, exp.5, exp.6
 themes: crime.t.discretion, crime.t.balance, crime.t.compliance, crime.t.effectiveness, crime.t.moral
 criteria: accessibility, enforceability, rights, ruleoflaw, society, justice
 document: Crime/Taser_Taser_Taser__A_Case_Study_on_Law_and_Procedure_Pertaining_To_Police_Tasers__Felicity_Graham.pdf

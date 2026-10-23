@@ -7,7 +7,7 @@ date: 2013
 jurisdiction: NSW
 significance: A full review of NSW sentencing law: simplify the Act and its long lists of factors, and rebuild the community-based penalties, many of which the 2018 reforms then did.
 core: crime.4.1, crime.4.6
-support: crime.4.2, crime.4.3, ls.1.8
+support: crime.4.2, crime.4.3, inv.1.8
 themes: crime.t.reform, crime.t.discretion, crime.t.effectiveness
 criteria: responsiveness, resource, justice
 source: https://lawreform.nsw.gov.au

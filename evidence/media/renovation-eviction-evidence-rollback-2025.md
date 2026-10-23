@@ -7,7 +7,7 @@ date: 2025-07-31
 jurisdiction: NSW — Residential Tenancies Act 2010; Residential Tenancies Amendment Regulation 2025
 significance: Five weeks after no-grounds evictions ended, the Government dropped the rule that landlords evicting for renovations show quotes or receipts — a written statement now suffices; 28 tenant groups called it a loophole.
 core: shel.2.3, shel.2.2, shel.2.9, shel.2.10
-support: shel.2.5, shel.2.8, shel.1.3, ls.2.4, ls.4.1, ls.4.2, lip.2.1, lip.2.3
+support: shel.2.5, shel.2.8, shel.1.3, inv.3.3, inv.4.4, chg.1, chg.2, exp.5, exp.6
 themes: shel.t.reform, shel.t.effectiveness, shel.t.compliance, shel.t.values
 criteria: enforceability, responsiveness, rights, society, ruleoflaw
 document: Shelter/Renovation eviction evidence rollback - LSJ 31 July 2025.pdf

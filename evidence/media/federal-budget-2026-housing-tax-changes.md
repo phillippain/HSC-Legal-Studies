@@ -7,7 +7,7 @@ date: 2026-05
 jurisdiction: Commonwealth — Income Tax Assessment Act 1997 (negative gearing and CGT discount)
 significance: From 1 July 2027 losses on newly bought established homes cannot be deducted from wages and the 50% CGT discount gives way to indexation — Treasury: 75,000 homes to first-home buyers, 35,000 fewer built.
 core: shel.3.1, shel.2.8, shel.1.3
-support: shel.3.3, shel.3.4, shel.2.10, ls.4.1, ls.4.2, ls.2.4, lip.2.1, lip.2.3
+support: shel.3.3, shel.3.4, shel.2.10, chg.1, chg.2, inv.3.3, inv.4.4, exp.5, exp.6
 themes: shel.t.reform, shel.t.values, shel.t.effectiveness, shel.t.cooperation
 criteria: responsiveness, society, resource, accessibility, justice
 document: Shelter/2026 LS Shelter Federal Budget Update.pdf

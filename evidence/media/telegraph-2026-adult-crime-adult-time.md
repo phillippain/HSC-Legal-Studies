@@ -7,8 +7,8 @@ date: 2026-09-08
 jurisdiction: NSW
 significance: A near-perfect worked example of the law reform chain — media reporting, police pressure, ministerial announcement — stopped one step short of an Act.
 core: crime.5.1, crime.5.3, crime.5.4, crime.5.5
-support: crime.3.1, crime.3.4, crime.4.1, crime.4.2, crime.1.7, crime.1.8, crime.2.1, ls.4.1, ls.4.2, crime.1.6, crime.2.4, ls.5.5
-themes: crime.t.reform, crime.t.discretion, crime.t.balance, crime.t.moral, ls.t.reflection
+support: crime.3.1, crime.3.4, crime.4.1, crime.4.2, crime.1.7, crime.1.8, crime.2.1, chg.1, chg.2, crime.1.6, crime.2.4, chg.6, exp.1.3, exp.2.3, exp.2.4
+themes: crime.t.reform, crime.t.discretion, crime.t.balance, crime.t.moral, chg.t.values
 criteria: responsiveness, rights, society, ruleoflaw, justice
 related: children-criminal-proceedings-act-1987, young-offenders-act-1997, bocsar-cjb279-jas-diversion
 document: News Articles/NSW Adult Crime Adult Time Daily 8Sept26.pdf

@@ -7,7 +7,7 @@ date: 2025
 jurisdiction: NSW
 significance: Three amendments in seven years moved renting from a contract between equals to a regulated relationship with minimum standards and reasons for eviction.
 core: shel.2.2
-support: shel.2.3, shel.2.5, shel.3.1, fam.2.4, ls.4.1, ls.4.3, lip.2.3
+support: shel.2.3, shel.2.5, shel.3.1, fam.2.4, chg.1, chg.3, exp.6
 themes: shel.t.reform, shel.t.effectiveness, shel.t.values, shel.t.cooperation
 criteria: responsiveness, rights, enforceability, society, justice
 document: Shelter/Main Changes to NSW tenancy Law Last 10 Years.pdf

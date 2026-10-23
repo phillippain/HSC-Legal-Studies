@@ -7,7 +7,7 @@ date: 2026-09-22
 jurisdiction: NSW
 significance: NSW lets adult sexual assault complainants give evidence-in-chief by recorded police interview, but still requires live cross-examination — reform that goes part of the way advocates asked.
 core: crime.3.7
-support: crime.3.2, crime.2.3, crime.3.9, crime.1.5, ls.4.3, lip.1.2
+support: crime.3.2, crime.2.3, crime.3.9, crime.1.5, chg.3, chg.2.1
 themes: crime.t.balance, crime.t.reform, crime.t.effectiveness, crime.t.moral
 criteria: rights, responsiveness, justice, society
 document: News Articles/Crime/ABC 22Sept26 - NSW sexual assault pre-recorded evidence reforms.pdf

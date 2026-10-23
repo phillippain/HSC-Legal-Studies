@@ -7,7 +7,7 @@ date: 2026-09-22
 jurisdiction: NSW
 significance: Would let adult sexual assault complainants give evidence by recorded interview and pilot limits on questioning — but keeps live cross-examination.
 core: crime.3.7
-support: crime.3.2, crime.4.4, fam.3.4, ls.4.3
+support: crime.3.2, crime.4.4, fam.3.4, chg.3
 themes: crime.t.reform, crime.t.balance, crime.t.moral
 criteria: rights, responsiveness, justice
 source: https://nswcourts.com.au/articles/the-proposed-victim-experience-sexual-assault-prosecution-reforms-explained/

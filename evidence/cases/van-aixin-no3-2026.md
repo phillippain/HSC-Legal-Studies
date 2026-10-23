@@ -7,7 +7,7 @@ date: 2026-09-04
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — McNab J, Melbourne
 significance: About a million dollars in projected legal costs to win $2,000 a month — interim maintenance meets need, not the lifestyle a mother-in-law had been funding.
 core: fam.2.3, fam.2.5, shel.3.1
-support: fam.1.1, fam.1.5, fam.2.2, fam.3.2, shel.1.1, shel.2.2, shel.2.5, ls.1.5, lip.2.3
+support: fam.1.1, fam.1.5, fam.2.2, fam.3.2, shel.1.1, shel.2.2, shel.2.5, inv.1.4, exp.6
 themes: fam.t.effectiveness, fam.t.cooperation, fam.t.compliance, shel.t.effectiveness
 criteria: accessibility, resource, justice, responsiveness, enforceability
 document: Cases/Family/Van & Aixin (No 3) [2026] FedCFamC1F 601 - Case Summary.pdf

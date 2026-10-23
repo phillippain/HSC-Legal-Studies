@@ -7,8 +7,8 @@ date: 2025-05-02
 jurisdiction: Queensland and Commonwealth
 significance: A court refused a parenting order to a couple who paid about $140,000 for a commercial surrogacy abroad, and referred their own evidence to the DPP to consider charging them.
 core: fam.3.3
-support: fam.1.1, fam.1.2, fam.1.5, fam.2.2, fam.2.7, fam.3.2, crime.1.5, ls.2.6, ls.4.1, ls.4.2, lip.1.2, lip.2.1, lip.2.3
-themes: fam.t.reform, fam.t.values, fam.t.compliance, fam.t.effectiveness, ls.t.reflection
+support: fam.1.1, fam.1.2, fam.1.5, fam.2.2, fam.2.7, fam.3.2, crime.1.5, inv.5.1, inv.5.2, chg.1, chg.2, chg.2.1, exp.5, exp.6
+themes: fam.t.reform, fam.t.values, fam.t.compliance, fam.t.effectiveness, inv.t.values
 criteria: accessibility, enforceability, responsiveness, rights, society, justice
 document: Family/Australia's complex patchwork of surrogacy laws is leaving some children in legal limbo - ABC News.pdf
 source: https://www.abc.net.au/news/

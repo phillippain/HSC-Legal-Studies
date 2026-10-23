@@ -6,9 +6,9 @@ citation: Evidence summary of Heidi Davoren, ABC Specialist Reporting Team, "Att
 date: 2026-10-23
 jurisdiction: Commonwealth — Federal Circuit and Family Court of Australia; Federal Court of Australia
 significance: Family court transcripts holding abuse and family violence evidence were accessed offshore in India in 2014 and again by 2026, despite contracts banning it — and a 2014 whistleblower waited two years for a reply.
-core: fam.2.5, ind.3.2
-support: fam.2.4, fam.3.4, fam.1.5, ind.2.7, ind.3.1, ind.3.3, hr.2.9, ls.2.7, lip.2.3
-themes: fam.t.effectiveness, fam.t.compliance, ind.t.technology, ind.t.rights
+core: fam.2.5, chg.1.3, chg.6.1
+support: fam.2.4, fam.3.4, fam.1.5, dis.3.5, dis.3.6, chg.6.5, hr.2.9, inv.5.3, exp.6
+themes: fam.t.effectiveness, fam.t.compliance, chg.t.values, chg.t.justice
 criteria: rights, enforceability, accessibility, responsiveness
 document: Family/Evidence Summaries/Family - Family Court Data Breach Evidence Summary.pdf
 related: federal-circuit-and-family-court-act-2021, privacy-act-1988-and-2024-reforms, family-law-act-1975, family-courts-and-dispute-resolution, technology-and-the-individual, ombudsman-act-1974

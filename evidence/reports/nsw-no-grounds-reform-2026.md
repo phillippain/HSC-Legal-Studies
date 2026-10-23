@@ -7,7 +7,7 @@ date: 2026-05
 jurisdiction: NSW
 significance: 45% of leases once ended with no reason given; a year after the ban, 84% of tenancies ended at the renter's choice.
 core: shel.2.2, shel.2.3
-support: shel.3.1, shel.3.3, ls.4.1, lip.2.3
+support: shel.3.1, shel.3.3, chg.1, exp.6
 themes: shel.t.reform, shel.t.effectiveness, shel.t.cooperation
 criteria: responsiveness, rights, enforceability, justice
 related: residential-tenancies-act-2010

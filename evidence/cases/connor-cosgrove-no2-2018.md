@@ -7,7 +7,7 @@ date: 2018
 jurisdiction: Family Court of Australia
 significance: An 80/20 split of the property pool, because non-financial contributions at home had enabled the husband's career and he was found to be avoiding child support.
 core: fam.2.3
-support: fam.2.2, fam.1.5, fam.2.1, fam.2.5, ls.1.5, ls.3.2
+support: fam.2.2, fam.1.5, fam.2.1, fam.2.5, inv.1.4, inv.1.3, dis.2.3
 themes: fam.t.values, fam.t.effectiveness, fam.t.compliance
 criteria: justice, rights, society, enforceability
 document: Family/Cases/2.2.2 Family law cases.pdf

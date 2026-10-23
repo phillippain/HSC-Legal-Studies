@@ -7,7 +7,7 @@ date: 1975
 jurisdiction: Commonwealth
 significance: Four Acts, each with an "accommodation" section, make it unlawful to refuse housing or offer it on worse terms because of race, sex, disability or age — enforced through AHRC conciliation and then the federal courts.
 core: shel.3.2
-support: shel.1.3, shel.2.2, shel.2.4, shel.2.8, hr.2.7, hr.2.9, ls.2.12, lip.1.4
+support: shel.1.3, shel.2.2, shel.2.4, shel.2.8, hr.2.7, hr.2.9, inv.6.1, dis.1.8, dis.2.8
 themes: shel.t.values, shel.t.effectiveness, shel.t.cooperation
 criteria: accessibility, enforceability, rights, justice
 source: https://www.legislation.gov.au/C2004A00274/latest/text

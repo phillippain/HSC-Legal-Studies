@@ -7,7 +7,7 @@ date: 2024-12-11
 jurisdiction: High Court of Australia
 significance: The s 37 duty is non-delegable, so a developer cannot apportion its way out of a defective building.
 core: shel.2.1, shel.2.5
-support: shel.1.3, shel.3.4, ls.2.8, ls.3.2
+support: shel.1.3, shel.3.4, inv.5.4, inv.1.3, dis.2.3
 themes: shel.t.compliance, shel.t.effectiveness, shel.t.reform
 criteria: enforceability, rights, resource, justice
 related: design-building-practitioners-act-2020, brookfield-multiplex-2014

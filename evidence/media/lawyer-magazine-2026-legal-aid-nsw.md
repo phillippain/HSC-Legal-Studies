@@ -7,7 +7,7 @@ date: 2026-05-18
 jurisdiction: NSW
 significance: Legal Aid NSW said its funding had reached 'crisis levels' and cut family law representation to DV victims and Aboriginal people.
 core: crime.3.5
-support: fam.3.4, ls.2.2, hr.2.10
+support: fam.3.4, inv.4.3, hr.2.10
 themes: crime.t.balance, crime.t.effectiveness
 criteria: accessibility, resource, justice
 source: https://www.thelawyermag.com/au/news/general/legal-aid-nsw-to-tighten-family-law-representation-services-amid-funding-shortfall/575571

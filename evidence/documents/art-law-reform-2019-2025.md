@@ -6,9 +6,9 @@ citation: Class summary of ART and reproductive law reform; compiled from the Ac
 date: 2025
 jurisdiction: ACT, Queensland, Western Australia, NSW and Commonwealth
 significance: Five years of reform moved ART regulation from clinic self-governance towards licensing and donor-conceived people's right to know their origins, state by state.
-core: fam.3.3, ls.4.1
-support: fam.1.1, fam.1.4, fam.1.5, fam.1.6, fam.3.2, ls.4.2, ls.4.3, ls.2.4, ls.2.6, hr.2.9, lip.2.1, lip.2.3
-themes: fam.t.reform, fam.t.values, fam.t.effectiveness, ls.t.reflection, ls.t.influences
+core: fam.3.3, chg.1
+support: fam.1.1, fam.1.4, fam.1.5, fam.1.6, fam.3.2, chg.2, chg.3, inv.3.3, inv.4.4, inv.5.1, inv.5.2, hr.2.9, exp.5, exp.6
+themes: fam.t.reform, fam.t.values, fam.t.effectiveness, chg.t.values
 criteria: accessibility, enforceability, responsiveness, rights, society, justice
 document: Family/Assisted Reproductive Technology in past five years.pdf
 related: surrogacy-birth-technology-evidence-file, masson-v-parsons-2019, heraldsun-2025-ivf-medicare-definition, telegraph-2025-monash-ivf-mixup, abc-2025-surrogacy-patchwork

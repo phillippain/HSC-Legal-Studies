@@ -7,7 +7,7 @@ date: 2025-08
 jurisdiction: NSW
 significance: Three months into the 2024 reforms, the sector's press digest shows what the Act did not touch — $330 "not home for the tradie" fees, a $550 listing with a leaking ceiling, a court challenge to upzoning.
 core: shel.2.9, shel.2.10, shel.2.2
-support: shel.2.3, shel.2.5, shel.2.8, shel.3.1, shel.3.4, ls.4.2, lip.2.1
+support: shel.2.3, shel.2.5, shel.2.8, shel.3.1, shel.3.4, chg.2, exp.5
 themes: shel.t.effectiveness, shel.t.compliance, shel.t.reform, shel.t.values
 criteria: enforceability, accessibility, resource, responsiveness
 document: Shelter/Tenants Union August Housing News Digest.pdf

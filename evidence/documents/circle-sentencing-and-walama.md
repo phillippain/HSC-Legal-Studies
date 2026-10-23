@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Elders at the sentencing table: fewer prison sentences and possibly less reoffending, but places are limited and the evidence on reoffending is mixed.
 core: crime.4.7
-support: crime.4.2, crime.4.6, crime.5.5, hr.3.1, ls.1.5
+support: crime.4.2, crime.4.6, crime.5.5, hr.3.1, inv.1.4, exp.2.4
 themes: crime.t.effectiveness, crime.t.balance, crime.t.reform
 criteria: accessibility, justice, society, responsiveness
 document: Crime/Sentencing and Punishment/Circle Sentencing Case.docx

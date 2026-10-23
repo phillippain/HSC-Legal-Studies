@@ -7,7 +7,7 @@ date: 1919
 jurisdiction: NSW
 significance: Sets the rules of the purchase itself — a written contract, vendor disclosure of title and planning documents, a five-business-day cooling-off period and the 0.25% forfeit for walking away.
 core: shel.2.1
-support: shel.1.4, shel.2.5, shel.2.6, shel.3.1, ls.3.2, lip.1.4
+support: shel.1.4, shel.2.5, shel.2.6, shel.3.1, inv.1.3, dis.2.3, dis.1.8, dis.2.8
 themes: shel.t.compliance, shel.t.cooperation, shel.t.effectiveness
 criteria: accessibility, enforceability, rights, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1919-006

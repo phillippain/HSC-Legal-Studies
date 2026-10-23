@@ -7,7 +7,7 @@ date: 2026-08-27
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Brasch J, Critical Incident List, ex tempore by video
 significance: Their mother killed, their father charged with her murder — a state department and two overseas relatives got final orders in 38 days, and the last obstacle was a passport office, not a court.
 core: fam.3.4, fam.3.2, fam.1.2
-support: fam.1.1, fam.1.5, fam.2.4, fam.2.5, hr.2.7, hr.3.1, shel.3.3, ls.1.6, ls.2.6, ls.2.14, lip.1.1, lip.2.1, lip.2.3
+support: fam.1.1, fam.1.5, fam.2.4, fam.2.5, hr.2.7, hr.3.1, shel.3.3, inv.1.6, inv.5.1, inv.5.2, inv.6.3, inv.7.2, exp.4, exp.5, exp.6
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.cooperation, hr.t.compliance, hr.t.effectiveness
 criteria: responsiveness, accessibility, enforceability, rights, resource, justice
 document: Cases/Family/DFFH & Haraldson [2026] FedCFamC1F 598 - Case Summary.pdf

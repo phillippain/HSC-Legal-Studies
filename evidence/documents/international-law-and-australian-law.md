@@ -6,9 +6,9 @@ citation: Preliminary Part II reference note
 date: 2026
 jurisdiction: International and Australia
 significance: International law binds states that consent to it and reaches Australians only when Parliament legislates — which is why ratification and protection are different things.
-core: ls.2.11, ls.2.12, ls.2.13, ls.2.14
-support: hr.2.1, hr.2.9, hr.2.3, ls.4.3, ls.2.6, ind.1.1, fam.3.4
-themes: ls.t.influences, ls.t.institutions, ls.t.need
+core: inv.6.2, inv.6.1, inv.6.4, inv.6.6, inv.6.7, inv.6.3, inv.7.2
+support: hr.2.1, hr.2.9, hr.2.3, chg.3, inv.5.1, inv.5.2, inv.7.3, fam.3.4
+themes: inv.t.values, inv.t.justice
 criteria: enforceability, rights, responsiveness, society, ruleoflaw
 related: commonwealth-v-tasmania-1983, iccpr-1966, croc-1989
 added: 2026-09-19

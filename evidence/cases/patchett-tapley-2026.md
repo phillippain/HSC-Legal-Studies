@@ -7,7 +7,7 @@ date: 2026-08-03
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — McNab J
 significance: A father who coached his children's abuse allegations still kept them — and was restrained by injunction from denigrating their Aboriginality under the new cultural right.
 core: fam.2.4, fam.3.2, fam.3.4
-support: fam.1.5, fam.2.5, fam.2.2, hr.3.1, ls.1.5
+support: fam.1.5, fam.2.5, fam.2.2, hr.3.1, inv.1.4
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness, fam.t.compliance
 criteria: rights, justice, society, responsiveness
 document: Cases/Family/Patchett & Tapley [2026] FedCFamC1F 504 - Case Summary.pdf

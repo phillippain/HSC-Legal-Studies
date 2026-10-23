@@ -7,7 +7,7 @@ date: 2025-02-18
 jurisdiction: NSW
 significance: Youth custody rose 32% in a year while youth crime rates stayed steady, because more children were refused bail — the increase is a bail decision, not a crime wave.
 core: crime.2.5, crime.5.4
-support: crime.5.1, crime.5.3, crime.5.5, crime.4.6, crime.4.2, crime.1.8, crime.1.9, crime.2.3, ls.4.1, ls.4.2, hr.3.1, lip.1.1, lip.2.1, lip.2.3
+support: crime.5.1, crime.5.3, crime.5.5, crime.4.6, crime.4.2, crime.1.8, crime.1.9, crime.2.3, chg.1, chg.2, hr.3.1, exp.4, exp.5, exp.6, exp.2.4, exp.1.3, exp.2.3
 themes: crime.t.effectiveness, crime.t.balance, crime.t.reform, crime.t.compliance
 criteria: resource, accessibility, responsiveness, rights, society, justice
 document: News Articles/Crime/Number of NSW children in youth detention up by one third, new data shows | New South Wales | The Guardian.pdf

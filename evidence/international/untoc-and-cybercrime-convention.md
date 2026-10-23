@@ -7,7 +7,7 @@ date: 2000-11-15
 jurisdiction: International
 significance: The treaty that defines transnational crime, and a new one for cybercrime that Australia has signed but that is not yet in force.
 core: crime.6.1, crime.6.2
-support: hr.3.1, ls.2.12
+support: hr.3.1, inv.6.1
 themes: crime.t.compliance, crime.t.effectiveness, crime.t.reform
 criteria: enforceability, responsiveness, ruleoflaw
 source: https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html

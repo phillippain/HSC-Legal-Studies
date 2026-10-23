@@ -7,7 +7,7 @@ date: 2002
 jurisdiction: Supreme Court of New South Wales, Smart AJ
 significance: Arrest is a measure of last resort — where a summons or court attendance notice will do, arresting instead is an improper exercise of the power.
 core: crime.2.4
-support: crime.2.1, crime.2.6, crime.3.7, ls.1.6
+support: crime.2.1, crime.2.6, crime.3.7, inv.1.6
 themes: crime.t.discretion, crime.t.balance, crime.t.compliance
 criteria: rights, ruleoflaw, justice, resource
 document: Crime/NSW Police Powers - Two-Page Summary.pdf

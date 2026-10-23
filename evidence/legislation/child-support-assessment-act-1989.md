@@ -7,7 +7,7 @@ date: 1989
 jurisdiction: Commonwealth
 significance: Replaced court-ordered maintenance with an administrative formula — both incomes, the costs of children and the care percentage — assessed by Services Australia and reviewed by the ART, not a court.
 core: fam.1.5, fam.2.2
-support: fam.1.1, fam.1.4, fam.2.5, fam.3.2, ind.2.6, ls.4.1, lip.2.3
+support: fam.1.1, fam.1.4, fam.2.5, fam.3.2, dis.3.4, chg.1, exp.6
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform, fam.t.cooperation
 criteria: enforceability, accessibility, resource, responsiveness, justice
 source: https://www.legislation.gov.au/C2004A03854/latest/text

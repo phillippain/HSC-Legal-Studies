@@ -7,7 +7,7 @@ date: 2025-02-24
 jurisdiction: NSW
 significance: Between the 2024 Act passing and commencing, the Tenants' Union reported no-grounds notices still being served — "possibly increasing" — while welcoming the $8.4 million Rental Taskforce.
 core: shel.2.9, shel.2.3, shel.2.8
-support: shel.2.2, shel.2.4, shel.3.3, shel.3.4, shel.2.10, ls.4.2, lip.2.1
+support: shel.2.2, shel.2.4, shel.3.3, shel.3.4, shel.2.10, chg.2, exp.5
 themes: shel.t.reform, shel.t.effectiveness, shel.t.cooperation, shel.t.compliance
 criteria: responsiveness, enforceability, accessibility, resource
 document: Shelter/Tenant ENews 24 Feb 2025.pdf

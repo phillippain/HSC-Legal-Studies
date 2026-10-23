@@ -7,7 +7,7 @@ date: 2026-09
 jurisdiction: NSW
 significance: Two years of s 54D produced 682 recorded incidents, 42 people charged and 4 charges proven — the gap between creating an offence and enforcing it, measured.
 core: fam.2.4, crime.2.2
-support: crime.1.1, crime.1.2, crime.1.5, crime.1.8, crime.2.1, crime.2.4, crime.3.4, crime.4.3, crime.4.6, hr.3.1, ls.4.3, lip.1.2
+support: crime.1.1, crime.1.2, crime.1.5, crime.1.8, crime.2.1, crime.2.4, crime.3.4, crime.4.3, crime.4.6, hr.3.1, chg.3, chg.2.1
 themes: crime.t.effectiveness, crime.t.reform, crime.t.compliance, fam.t.effectiveness, fam.t.reform
 criteria: enforceability, responsiveness, accessibility, justice, society
 document: Cases/BOCSAR/BOCSAR Coercive Control Monitoring June 2026 - Summary.pdf

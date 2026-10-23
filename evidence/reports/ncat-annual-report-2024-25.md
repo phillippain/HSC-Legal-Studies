@@ -7,7 +7,7 @@ date: 2025
 jurisdiction: NSW
 significance: Shelter matters are not a slice of NCAT's work — tenancy, social housing, strata and home building are the majority of the Tribunal's entire caseload.
 core: shel.2.6, shel.2.5
-support: shel.2.2, shel.2.3, shel.3.4, shel.2.8, ind.2.3, ls.2.3, ls.3.3, lip.2.3
+support: shel.2.2, shel.2.3, shel.3.4, shel.2.8, dis.2.5, inv.4.1, dis.1.5, exp.6
 themes: shel.t.effectiveness, shel.t.cooperation, shel.t.compliance
 criteria: accessibility, resource, enforceability, justice, rights
 document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx

@@ -7,7 +7,7 @@ date: 1979
 jurisdiction: NSW
 significance: The Act that decides what can be built where — zoning, development consent and the s 4.15 test — and so, according to Grattan and the Productivity Commission, the biggest legal constraint on housing supply in Sydney.
 core: shel.3.1, shel.2.1, shel.2.8
-support: shel.3.4, shel.2.4, shel.2.9, shel.2.10, ls.2.4, ls.4.1, lip.2.1, lip.2.3
+support: shel.3.4, shel.2.4, shel.2.9, shel.2.10, inv.3.3, inv.4.4, chg.1, exp.5, exp.6
 themes: shel.t.reform, shel.t.effectiveness, shel.t.values, shel.t.cooperation
 criteria: resource, responsiveness, society, accessibility, enforceability
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1979-203

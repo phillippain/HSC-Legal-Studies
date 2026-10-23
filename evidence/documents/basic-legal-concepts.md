@@ -6,9 +6,9 @@ citation: Preliminary Part I reference note, NSW Legal Studies Stage 6 syllabus
 date: 2026
 jurisdiction: Australia
 significance: A rule becomes law when a recognised authority can enforce it against you whether you agreed to it or not — everything else in Part I follows from that.
-core: ls.1.1, ls.1.2, ls.1.3, ls.1.8
-support: ls.1.4, ls.1.5, ls.1.7, ls.2.9, ls.2.10, ls.3.1, ls.3.2, ind.1.2
-themes: ls.t.need, ls.t.ruleoflaw, ls.t.reflection
+core: inv.1.1, inv.1.5, inv.1.8
+support: inv.1.2, inv.1.4, inv.1.7, inv.2.1, inv.2.2, inv.1.3, dis.3.1, dis.2.3, inv.7.1
+themes: inv.t.justice, inv.t.values
 criteria: society, ruleoflaw, justice, rights
 related: australian-communist-party-1951, kioa-v-west-1985
 added: 2026-09-19

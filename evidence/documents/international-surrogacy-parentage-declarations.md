@@ -7,8 +7,8 @@ date: 2018
 jurisdiction: Commonwealth (Family Court of Australia, Full Court)
 significance: Three couples in near-identical positions asked to be declared parents of their own biological children and got three different answers, until the Full Court closed the door on all of them.
 core: fam.3.3, fam.1.2
-support: fam.1.1, fam.1.5, fam.2.5, fam.3.2, ls.2.6, ls.2.3, ls.2.4, ls.1.4, ls.1.5, ls.4.1, ls.4.3, lip.1.1, lip.2.1, lip.2.3
-themes: fam.t.reform, fam.t.values, fam.t.effectiveness, fam.t.compliance, ls.t.institutions, lip.t.reform
+support: fam.1.1, fam.1.5, fam.2.5, fam.3.2, inv.5.1, inv.5.2, inv.4.1, inv.3.3, inv.4.4, inv.1.2, inv.1.4, chg.1, chg.3, exp.4, exp.5, exp.6
+themes: fam.t.reform, fam.t.values, fam.t.effectiveness, fam.t.compliance, inv.t.justice, inv.t.values
 criteria: accessibility, enforceability, responsiveness, rights, ruleoflaw, justice
 document: Family/Surrogacy - When is a Parent not a Parent.pdf
 related: masson-v-parsons-2019, abc-2025-surrogacy-patchwork, farnell-chanbua-2016, surrogacy-birth-technology-evidence-file, family-law-act-1975

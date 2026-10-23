@@ -7,7 +7,7 @@ date: 2004
 jurisdiction: ACT, Victoria, Queensland
 significance: Three jurisdictions have a statutory "dialogue model" charter — courts interpret laws compatibly and can declare incompatibility but not strike down; Parliament keeps the last word — Australia's live Charter evidence.
 core: hr.2.14
-support: hr.2.8, hr.2.9, hr.2.10, hr.2.11, hr.2.7, ind.1.1, ind.3.3, ls.4.1, ls.2.4, lip.2.1
+support: hr.2.8, hr.2.9, hr.2.10, hr.2.11, hr.2.7, inv.7.2, inv.7.3, chg.6.5, chg.1, inv.3.3, inv.4.4, exp.5
 themes: hr.t.effectiveness, hr.t.values, hr.t.reform, hr.t.sovereignty
 criteria: rights, enforceability, accessibility, responsiveness, ruleoflaw
 source: https://www.legislation.qld.gov.au/view/html/inforce/current/act-2019-005

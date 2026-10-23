@@ -7,7 +7,7 @@ date: 2026-07-16
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2), Judge Taglieri
 significance: A contested de facto jurisdiction, then a four-step property division of a $2.67m pool — the process shown end to end.
 core: fam.2.3, fam.1.4
-support: fam.2.1, fam.1.2, fam.2.5, ls.2.3
+support: fam.2.1, fam.1.2, fam.2.5, inv.4.1
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness
 criteria: accessibility, resource, justice
 document: Jade Cases/Raw Cases/Duff & Horner [2026] FedCFamC2F 1077.rtf

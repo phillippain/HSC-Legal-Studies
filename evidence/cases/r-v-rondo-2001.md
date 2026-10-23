@@ -7,7 +7,7 @@ date: 2001
 jurisdiction: NSW Court of Criminal Appeal
 significance: Reasonable suspicion is less than belief and more than a possibility — it must rest on some factual basis, judged at the time and not by what the search found.
 core: crime.2.1
-support: crime.2.3, crime.2.4, crime.2.6, crime.3.7, ls.1.6
+support: crime.2.3, crime.2.4, crime.2.6, crime.3.7, inv.1.6
 themes: crime.t.discretion, crime.t.balance, crime.t.compliance
 criteria: rights, ruleoflaw, enforceability, justice
 document: Crime/NSW Police Powers - Two-Page Summary.pdf

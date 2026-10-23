@@ -6,9 +6,9 @@ citation: Administrative Review Tribunal Act 2024 (Cth) (commenced 14 October 20
 date: 2024-10-14
 jurisdiction: Commonwealth
 significance: Merits review of Centrelink, child support, visa and NDIS decisions now goes to the ART, created after the AAT was abolished over political appointments; judicial review of legality stays with the Federal Court.
-core: ind.2.6, ind.2.5
-support: ind.2.7, ind.3.3, ls.2.7, ls.2.8, ls.3.1, ls.1.6, hr.2.4, hr.2.11, fam.1.5, lip.2.3
-themes: ind.t.justice, ind.t.rights, ind.t.effectiveness, ls.t.institutions
+core: dis.3.4
+support: dis.3.5, dis.3.6, chg.6.5, inv.5.3, inv.5.4, inv.1.3, dis.3.1, inv.1.6, hr.2.4, hr.2.11, fam.1.5, exp.6
+themes: dis.t.justice, dis.t.effectiveness
 criteria: accessibility, enforceability, ruleoflaw, justice, resource, responsiveness
 source: https://www.legislation.gov.au/C2024A00039/latest/text
 related: disputes-with-the-state-review, administrative-decisions-review-act-1997, wnzp-child-support-2026, xtxd-child-support-2026, refugee-2534313-2026-arta-1501, da-silva-v-minister-2026, plaintiff-m98-2026-hca-26, kioa-v-west-1985, australian-constitution-rights-and-powers, ombudsman-act-1974

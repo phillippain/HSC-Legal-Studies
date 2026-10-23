@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Australia
 significance: An advocacy group helped write the 2006 presumption of equal shared parental responsibility into the Act — and in 2023 Parliament removed it.
 core: fam.2.6
-support: fam.2.2, fam.1.5, fam.3.2, fam.2.4, ls.4.1, ls.4.2, ind.2.4, lip.2.2, lip.2.3
+support: fam.2.2, fam.1.5, fam.3.2, fam.2.4, chg.1, chg.2, dis.3.3, exp.5.5, exp.6
 themes: fam.t.reform, fam.t.effectiveness, fam.t.values, fam.t.cooperation
 criteria: responsiveness, rights, society, justice, accessibility
 document: Family/Cases/2.4.2 Family law cases.pdf

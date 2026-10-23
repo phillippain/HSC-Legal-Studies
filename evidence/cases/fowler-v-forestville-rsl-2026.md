@@ -7,8 +7,8 @@ date: 2026-08-11
 jurisdiction: NSW Civil and Administrative Tribunal, Administrative and Equal Opportunity Division — D Ziegler, Senior Member
 significance: A victimisation complaint after a settled sexual harassment claim, refused leave to proceed — so it was never heard.
 core: hr.2.9, hr.2.4
-support: hr.2.11, hr.2.7, hr.3.1, ind.2.3, ind.2.6, ind.2.7, ls.3.3, lip.1.1, lip.2.1
-themes: hr.t.compliance, hr.t.effectiveness, ind.t.justice, ind.t.effectiveness
+support: hr.2.11, hr.2.7, hr.3.1, dis.2.5, dis.3.4, dis.3.5, dis.3.6, dis.1.5, exp.4, exp.5
+themes: hr.t.compliance, hr.t.effectiveness, dis.t.justice, dis.t.effectiveness
 criteria: accessibility, enforceability, rights, justice
 document: Jade Cases/Raw Cases/Fowler v Forestville RSL Club Ltd - NSW Caselaw.pdf
 related: haji-zadeh-v-woolworths-2026, jones-v-commissioner-of-police-2026, shelter-discrimination-evidence-sheet

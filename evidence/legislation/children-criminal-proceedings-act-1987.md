@@ -7,7 +7,7 @@ date: 1987
 jurisdiction: NSW
 significance: The Act that makes young offenders a separate jurisdiction — and the source of almost every statistic used to argue the system is too soft.
 core: crime.5.1, crime.5.3, crime.5.4
-support: crime.3.1, crime.4.6, crime.5.2, crime.5.5, hr.2.9
+support: crime.3.1, crime.4.6, crime.5.2, crime.5.5, hr.2.9, exp.1.3, exp.2.3, exp.2.4
 themes: crime.t.discretion, crime.t.balance, crime.t.reform
 criteria: rights, society, enforceability
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1987-055

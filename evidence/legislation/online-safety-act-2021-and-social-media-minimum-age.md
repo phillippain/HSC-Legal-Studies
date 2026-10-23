@@ -6,9 +6,9 @@ citation: Online Safety Act 2021 (Cth); Online Safety Amendment (Social Media Mi
 date: 2022-01-23
 jurisdiction: Commonwealth (and NSW offences)
 significance: The eSafety Commissioner can order removal of cyberbullying, cyber-abuse and intimate images within 24 hours — and from 10 December 2025 platforms must keep under-16s off social media, a world first.
-core: ind.3.2, ind.3.1, ind.3.4
-support: ind.1.2, ind.2.7, ind.3.3, crime.1.5, crime.6.1, hr.2.9, ls.4.1, ls.4.3, lip.2.1, lip.2.3, fam.1.5
-themes: ind.t.technology, ind.t.balance, ind.t.rights, ind.t.effectiveness
+core: chg.1.3, chg.6.1, chg.6
+support: inv.7.1, dis.3.5, dis.3.6, chg.6.5, crime.1.5, crime.6.1, hr.2.9, chg.1, chg.3, exp.5, exp.6, fam.1.5
+themes: chg.t.values, chg.t.justice, chg.t.effectiveness
 criteria: enforceability, responsiveness, rights, society, accessibility
 source: https://www.legislation.gov.au/C2021A00076/latest/text
 related: technology-and-the-individual, digital-duty-of-care-bill-2026, privacy-act-1988-and-2024-reforms, surveillance-devices-act-2007-and-tia-act-1979, untoc-and-cybercrime-convention, kmart-camera-glasses-2026, abc-2026-nsw-sexual-assault-prerecorded-evidence

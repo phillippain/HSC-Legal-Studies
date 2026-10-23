@@ -7,8 +7,8 @@ date: 2026-10-19
 jurisdiction: Commonwealth, with Tasmanian services
 significance: Whether a woman can leave a violent partner without losing her right to stay depends on her visa subclass, not on how serious the violence was.
 core: fam.2.4, fam.1.4, fam.2.6
-support: fam.1.5, fam.2.5, fam.2.7, fam.3.4, hr.3.1, hr.2.9, hr.2.12, hr.2.4, shel.3.3, shel.2.9, ls.1.5, ls.4.1, ls.4.2, ind.2.6, lip.1.1, lip.2.1, lip.2.3
-themes: fam.t.effectiveness, fam.t.reform, fam.t.values, fam.t.compliance, hr.t.effectiveness, lip.t.justice
+support: fam.1.5, fam.2.5, fam.2.7, fam.3.4, hr.3.1, hr.2.9, hr.2.12, hr.2.4, shel.3.3, shel.2.9, inv.1.4, chg.1, chg.2, dis.3.4, exp.4, exp.5, exp.6
+themes: fam.t.effectiveness, fam.t.reform, fam.t.values, fam.t.compliance, hr.t.effectiveness, inv.t.justice
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, justice
 document: Family/Evidence Summaries/Temporary visas and family violence (Evidence summary 22Oct26 v3).pdf
 source: https://www.abc.net.au/news/2026-10-19/migrant-temporary-visas-family-violence-risk/106737340

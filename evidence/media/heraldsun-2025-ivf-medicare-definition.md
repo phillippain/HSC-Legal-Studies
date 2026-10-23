@@ -7,7 +7,7 @@ date: 2025-04-30
 jurisdiction: Commonwealth
 significance: Redefining infertility so it no longer depends on heterosexual sex opened the IVF rebate to solo and same-sex parents — and left male couples out, because surrogacy was not included.
 core: fam.3.3, fam.3.1
-support: fam.1.4, fam.1.5, hr.3.1, ls.1.3, ls.4.1, ls.4.2, lip.2.1, lip.2.3
+support: fam.1.4, fam.1.5, hr.3.1, inv.1.5, chg.1, chg.2, exp.5, exp.6
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness
 criteria: accessibility, rights, responsiveness, society, justice
 document: Family/Single women, same-sex couples to get Medicare rebate for IVF | Herald Sun.pdf

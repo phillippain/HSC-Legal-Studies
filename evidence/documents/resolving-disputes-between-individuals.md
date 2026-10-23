@@ -6,9 +6,9 @@ citation: Preliminary Part II reference note
 date: 2026
 jurisdiction: NSW
 significance: Almost every civil dispute is resolved before a hearing, and the forum a person can reach is decided by how much money is in issue.
-core: ind.2.2, ind.2.3
-support: ind.2.6, shel.2.5, shel.2.6, shel.2.7, fam.2.5, ls.2.3, ls.3.2, ls.3.3, lip.2.3
-themes: ls.t.institutions, ls.t.ruleoflaw, ls.t.reflection
+core: dis.2.5
+support: dis.3.4, shel.2.5, shel.2.6, shel.2.7, fam.2.5, inv.4.1, inv.1.3, dis.2.3, dis.1.5, exp.6
+themes: dis.t.justice, dis.t.values
 criteria: accessibility, resource, enforceability, justice, rights
 related: shelter-dispute-resolution-map, ncat-annual-report-2024-25, lgnsw-2025-cjc-closure
 added: 2026-09-20

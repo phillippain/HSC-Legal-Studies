@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Custody is the one stage where the suspect's rights are written down as a checklist, and where breaking the checklist costs the prosecution its evidence.
 core: crime.2.6
-support: crime.2.1, crime.2.3, crime.2.4, crime.3.7, crime.5.2, ls.1.6, ind.2.1
+support: crime.2.1, crime.2.3, crime.2.4, crime.3.7, crime.5.2, inv.1.6, dis.3.2, exp.2.3
 themes: crime.t.balance, crime.t.discretion, crime.t.compliance
 criteria: rights, ruleoflaw, enforceability, justice
 document: Crime/NSW Police Powers - Two-Page Summary.pdf

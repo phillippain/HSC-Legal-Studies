@@ -7,7 +7,7 @@ date: 2026-06
 jurisdiction: NSW
 significance: Growth in NSW imprisonment is now driven almost entirely by people who have not been found guilty.
 core: crime.2.5, crime.4.6
-support: crime.4.2, crime.4.8, crime.5.3, crime.3.6, lip.1.1, ls.1.5, hr.3.1
+support: crime.4.2, crime.4.8, crime.5.3, crime.3.6, exp.4, inv.1.4, hr.3.1, exp.2.3
 themes: crime.t.balance, crime.t.effectiveness, crime.t.discretion
 criteria: rights, justice, society, resource
 document: Cases/BOCSAR/BOCSAR June 2026 Custody Trends.pdf

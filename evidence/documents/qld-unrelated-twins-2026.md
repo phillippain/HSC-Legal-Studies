@@ -7,8 +7,8 @@ date: 2026-08
 jurisdiction: Queensland (Children's Court)
 significance: A surrogate carrying another couple's embryo conceived naturally as well and delivered two unrelated babies, and the case turned on whether they were "birth siblings" under s 24 of the Surrogacy Act.
 core: fam.3.3, fam.1.1
-support: fam.1.5, fam.1.2, fam.2.2, fam.3.2, ls.2.4, ls.1.4, ls.4.1, lip.1.4, lip.2.1
-themes: fam.t.values, fam.t.reform, fam.t.cooperation, ls.t.reflection
+support: fam.1.5, fam.1.2, fam.2.2, fam.3.2, inv.3.3, inv.4.4, inv.1.2, chg.1, dis.1.8, dis.2.8, exp.5
+themes: fam.t.values, fam.t.reform, fam.t.cooperation, inv.t.values
 criteria: accessibility, responsiveness, rights, justice
 document: Cases/Family/One birth, two pregnancies, two sets of parents.pdf
 source: https://www.abc.net.au/news/2026-08-27/qld-mother-births-biologically-unrelated-twins/107083918

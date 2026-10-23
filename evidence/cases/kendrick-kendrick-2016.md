@@ -7,7 +7,7 @@ date: 2016
 jurisdiction: Family Court of Australia
 significance: Sole parental responsibility went to the mother and the father's time was made subject to an injunction, because the risk to the child came from his stepson, who was under the age of criminal responsibility.
 core: fam.2.2
-support: fam.1.5, fam.3.2, fam.3.4, fam.2.4, crime.5.1, ls.1.5
+support: fam.1.5, fam.3.2, fam.3.4, fam.2.4, crime.5.1, inv.1.4, exp.1.3
 themes: fam.t.cooperation, fam.t.effectiveness, fam.t.values
 criteria: rights, society, justice, enforceability
 document: Family/Cases/2.2 Family law cases.pdf

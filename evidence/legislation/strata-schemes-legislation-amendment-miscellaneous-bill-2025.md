@@ -7,7 +7,7 @@ date: 2026-10-15
 jurisdiction: NSW
 significance: The last of four strata bills since 2023 rebalances power inside a scheme: duplexes freed from committees, building managers cut to 3-year terms, and an EV-charger right that silence cannot block.
 core: shel.2.4, shel.2.3
-support: shel.2.1, shel.2.5, shel.2.6, shel.2.7, shel.2.8, shel.1.4, ls.2.4, ls.2.5, ls.4.1, ls.4.2, ls.4.3, lip.2.1, lip.2.3
+support: shel.2.1, shel.2.5, shel.2.6, shel.2.7, shel.2.8, shel.1.4, inv.3.3, inv.4.4, inv.3.4, chg.1, chg.2, chg.3, exp.5, exp.6
 themes: shel.t.reform, shel.t.cooperation, shel.t.compliance, shel.t.values, shel.t.effectiveness
 criteria: responsiveness, enforceability, rights, accessibility, resource
 document: Shelter/Evidence Sheets/Evidence Sheet - Strata reforms fourth tranche 2026 (20Oct26).pdf

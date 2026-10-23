@@ -7,7 +7,7 @@ date: 2018-11
 jurisdiction: NSW (Bourke)
 significance: A community-led social prevention program cut police-recorded domestic violence by 23% and custody days by 42% in a year, worth $3.1 million to the economy.
 core: crime.1.9
-support: crime.1.8, crime.5.5, crime.4.7, hr.3.1, lip.2.3
+support: crime.1.8, crime.5.5, crime.4.7, hr.3.1, exp.6, exp.2.4
 themes: crime.t.effectiveness, crime.t.balance, crime.t.reform
 criteria: society, resource, accessibility, justice
 source: https://www.justreinvest.org.au/community/bourke-maranguka/

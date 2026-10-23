@@ -7,7 +7,7 @@ date: 2026-08-03
 jurisdiction: Australia and Ghana
 significance: The same exploitation runs through Ghanaian cocoa and Australian horticulture — the rights are recognised in both, and enforceable against the profiting entity in neither.
 core: hr.3.1
-support: hr.2.1, hr.2.5, hr.2.6, hr.2.9, hr.1.3, crime.6.1, crime.6.2, ls.2.11, ls.2.13, lip.1.1, lip.2.3
+support: hr.2.1, hr.2.5, hr.2.6, hr.2.9, hr.1.3, crime.6.1, crime.6.2, inv.6.2, inv.6.4, inv.6.6, inv.6.7, exp.4, exp.6
 themes: crime.t.effectiveness, crime.t.compliance, crime.t.moral
 criteria: enforceability, rights, society, accessibility, justice
 document: Human Rights/Modern Slavery/Four Corners - Modern Slavery in the Food Supply Chain (handout).pdf

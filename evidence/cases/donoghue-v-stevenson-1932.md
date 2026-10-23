@@ -6,9 +6,9 @@ citation: "[1932] AC 562"
 date: 1932
 jurisdiction: House of Lords (United Kingdom)
 significance: The snail in the bottle — a new legal duty made by judges rather than parliament, and the case that shows how precedent both binds and moves.
-core: ls.2.1
-support: ls.3.2, ls.3.3, ls.2.8, ls.1.1, ind.2.3, shel.2.1
-themes: ls.t.reflection, ls.t.institutions, ls.t.influences
+core: inv.3.1, inv.3.2
+support: inv.1.3, dis.2.3, dis.1.5, dis.2.5, inv.5.4, inv.1.1, shel.2.1
+themes: inv.t.values, inv.t.justice
 criteria: responsiveness, accessibility, justice, society
 related: basic-legal-concepts, court-hierarchy-and-jurisdiction
 added: 2026-09-19

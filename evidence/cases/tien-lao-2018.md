@@ -7,7 +7,7 @@ date: 2018
 jurisdiction: Family Court of Australia
 significance: A couple who wanted their marriage annulled so they could remarry as a same-sex couple were refused — the marriage was valid when made and a later transition does not void it.
 core: fam.3.1
-support: fam.1.3, fam.1.4, fam.2.1, hr.3.1, ls.1.3, ls.4.1, ls.4.3
+support: fam.1.3, fam.1.4, fam.2.1, hr.3.1, inv.1.5, chg.1, chg.3
 themes: fam.t.values, fam.t.reform, fam.t.cooperation
 criteria: rights, society, justice, ruleoflaw, responsiveness
 document: Family/Cases/3.1 Family law cases.pdf

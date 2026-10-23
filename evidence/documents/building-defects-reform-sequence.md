@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Two evacuations and a fire produced in eighteen months what a decade of defect litigation had not — a statutory duty of care and a regulator with power to stop the sale.
 core: shel.2.1
-support: shel.2.3, shel.2.4, shel.2.6, shel.2.10, shel.1.4, ls.4.1, ls.4.2, ls.4.3, lip.1.2
+support: shel.2.3, shel.2.4, shel.2.6, shel.2.10, shel.1.4, chg.1, chg.2, chg.3, chg.2.1
 themes: shel.t.reform, shel.t.compliance, shel.t.effectiveness, shel.t.values
 criteria: responsiveness, enforceability, rights, society, justice
 document: Shelter/12LS 2026 AT4 Q30b Response Structure.docx

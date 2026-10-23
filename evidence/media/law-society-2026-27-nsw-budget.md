@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Billions for infrastructure and $108.8m for police technology, $3m for court technology — the Law Society called the courts' share 'meagre'.
 core: crime.3.5
-support: crime.3.1, ls.2.2
+support: crime.3.1, inv.4.3
 themes: crime.t.effectiveness
 criteria: resource, accessibility, justice
 source: https://www.thelawyermag.com/au/news/general/nsw-law-soc-flags-limited-courts-investment-in-2026-27-state-budget/580088

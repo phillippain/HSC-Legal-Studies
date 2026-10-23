@@ -7,7 +7,7 @@ date: 2011-10-05
 jurisdiction: High Court of Australia
 significance: The High Court held that a standard non-parole period is a guidepost, not a starting point: the judge still weighs every factor together.
 core: crime.4.1
-support: crime.4.3, crime.4.5, crime.4.2, ls.1.5
+support: crime.4.3, crime.4.5, crime.4.2, inv.1.4
 themes: crime.t.discretion, crime.t.balance
 criteria: justice, rights, ruleoflaw
 document: Cases/Crime/Muldrock v The Queen [2011] HCA 39 - Case Summary.pdf

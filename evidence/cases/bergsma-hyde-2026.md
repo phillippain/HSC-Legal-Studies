@@ -7,7 +7,7 @@ date: 2026-08-28
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1, appellate) — Campton, Christie and Schonell JJ
 significance: There is no "unacceptable risk test" in the Act, and indefinite supervision has never been prohibited.
 core: fam.2.2, fam.3.2, fam.2.4
-support: fam.2.3, fam.1.4, fam.1.5, fam.2.5, fam.3.4, crime.4.5, ls.2.1
+support: fam.2.3, fam.1.4, fam.1.5, fam.2.5, fam.3.4, crime.4.5, inv.3.1, inv.3.2
 themes: fam.t.effectiveness, fam.t.reform, fam.t.values
 criteria: rights, enforceability, resource, justice
 document: Jade Cases/Completed Case Summaries/Bergsma_and_Hyde_2026_FedCFamC1A_148_Case_Summary.pdf

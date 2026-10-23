@@ -7,7 +7,7 @@ date: 2013
 jurisdiction: NSW
 significance: The Act tells NCAT to resolve disputes justly, quickly and cheaply — and Part 3A exists because the Constitution says it cannot resolve some of them at all.
 core: shel.2.6
-support: shel.2.5, shel.2.2, shel.2.3, shel.3.4, ls.2.3, ls.2.7, ind.2.3, ind.2.6
+support: shel.2.5, shel.2.2, shel.2.3, shel.3.4, inv.4.1, inv.5.3, dis.2.5, dis.3.4
 themes: shel.t.effectiveness, shel.t.cooperation, shel.t.reform
 criteria: accessibility, resource, ruleoflaw, enforceability, justice
 document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx

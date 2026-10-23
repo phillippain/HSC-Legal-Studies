@@ -6,9 +6,9 @@ citation: Civil Procedure Act 2005 (NSW), esp ss 56–60 (overriding purpose), P
 date: 2005
 jurisdiction: NSW
 significance: One Act and one set of rules for the Local, District and Supreme Courts — an overriding purpose of just, quick and cheap resolution, a power to send any case to mediation, costs rules and enforcement.
-core: ind.2.2, ind.2.3, ls.3.3
-support: ind.3.3, ls.2.2, ls.2.3, ls.1.5, ls.1.6, ls.3.2, shel.2.5, shel.2.6, lip.2.2, lip.2.3
-themes: ind.t.justice, ind.t.effectiveness, ls.t.institutions, ls.t.need
+core: dis.2.5, dis.1.5
+support: chg.6.5, inv.4.3, inv.4.1, inv.1.4, inv.1.6, inv.1.3, dis.2.3, shel.2.5, shel.2.6, exp.5.5, exp.6
+themes: dis.t.justice, dis.t.effectiveness
 criteria: accessibility, resource, responsiveness, enforceability, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2005-028
 related: resolving-disputes-between-individuals, the-adversary-system-and-court-jurisdiction, court-hierarchy-and-jurisdiction, community-justice-centres-act-1983, ncat-act-2013, local-court-act-2007, donoghue-v-stevenson-1932, amadio-1983, sun-v-chen-2026

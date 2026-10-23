@@ -7,7 +7,7 @@ date: 2002
 jurisdiction: NSW Supreme Court
 significance: A 13-year-old who killed a three-year-old received 20 years in an adult court, and the judge proposed resentencing children at about 21, which NSW never adopted.
 core: crime.5.4, crime.5.3
-support: crime.4.2, crime.4.3, hr.3.1
+support: crime.4.2, crime.4.3, hr.3.1, exp.2.4, exp.2.3
 themes: crime.t.moral, crime.t.balance, crime.t.discretion
 criteria: justice, society, rights
 related: children-criminal-proceedings-act-1987, sentencing-young-offenders-gdp-kt, bugmy-v-the-queen-2013

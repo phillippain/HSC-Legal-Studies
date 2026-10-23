@@ -7,7 +7,7 @@ date: 2026-09-10
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Christie J, Sydney
 significance: An eleven-year-old said he wanted to go home to his father in China; the Court heard him carefully and said no — a child is heard, not obeyed, and the sibling bond tipped a finely balanced case.
 core: fam.1.5, fam.3.2, fam.2.2
-support: fam.1.1, fam.1.2, fam.2.4, fam.2.5, hr.2.7, hr.3.1, ls.2.11, ls.2.14, ind.2.1, lip.1.5, lip.2.3
+support: fam.1.1, fam.1.2, fam.2.4, fam.2.5, hr.2.7, hr.3.1, inv.6.2, inv.6.3, inv.7.2, dis.3.2, exp.6
 themes: fam.t.effectiveness, fam.t.cooperation, fam.t.values, hr.t.sovereignty
 criteria: rights, enforceability, responsiveness, accessibility, justice
 document: Cases/Family/Shung & Khun [2026] FedCFamC1F 613 - Case Summary.pdf

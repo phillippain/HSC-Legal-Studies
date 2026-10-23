@@ -6,9 +6,9 @@ citation: (1983) 152 CLR 1
 date: 1983
 jurisdiction: High Court of Australia
 significance: A treaty obligation let the Commonwealth stop a state dam — the external affairs power turned international law into a source of federal legislative power.
-core: ls.2.6, ls.2.14
-support: ls.2.11, ls.2.12, ls.2.8, ls.4.3, hr.2.9, hr.2.8, ind.1.1
-themes: ls.t.institutions, ls.t.influences, ls.t.reflection
+core: inv.5.1, inv.5.2, inv.6.3, inv.7.2
+support: inv.6.2, inv.6.1, inv.5.4, chg.3, hr.2.9, hr.2.8, inv.7.3
+themes: inv.t.justice, inv.t.values
 criteria: enforceability, responsiveness, society, ruleoflaw
 related: international-law-and-australian-law, commonwealth-v-act-2013
 added: 2026-09-19

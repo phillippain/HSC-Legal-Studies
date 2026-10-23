@@ -6,9 +6,9 @@ citation: Charter of the United Nations, signed San Francisco 26 June 1945, in f
 date: 1945-10-24
 jurisdiction: International
 significance: The treaty that creates the UN and its organs, commits members to human rights (arts 55–56) and in art 2(7) forbids intervention in a state's domestic jurisdiction: sovereignty and human rights in one document.
-core: hr.2.2, hr.2.1, hr.2.3, ls.2.13
-support: hr.1.2, hr.1.3, hr.2.7, ls.2.11, ls.2.12, ls.2.14, ls.4.3, crime.6.2, lip.1.5
-themes: hr.t.sovereignty, hr.t.effectiveness, hr.t.compliance, ls.t.institutions
+core: hr.2.2, hr.2.1, hr.2.3, inv.6.4, inv.6.6, inv.6.7
+support: hr.1.2, hr.1.3, hr.2.7, inv.6.2, inv.6.1, inv.6.3, inv.7.2, chg.3, crime.6.2
+themes: hr.t.sovereignty, hr.t.effectiveness, hr.t.compliance, inv.t.justice
 criteria: enforceability, rights, responsiveness, ruleoflaw
 source: https://www.un.org/en/about-us/un-charter/full-text
 related: udhr-1948, iccpr-1966, icescr-1966, rome-statute-1998, south-africa-v-israel-icj, human-rights-promotion-and-enforcement-international, international-law-and-australian-law, icc-under-pressure-2025-26

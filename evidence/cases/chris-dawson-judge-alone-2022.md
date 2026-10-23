@@ -7,7 +7,7 @@ date: 2022-08-30
 jurisdiction: NSW Supreme Court; NSW Court of Criminal Appeal
 significance: Forty years after his wife vanished, a judge sitting alone convicted Dawson of murder on circumstantial evidence, because podcast publicity threatened a fair jury.
 core: crime.3.9, crime.3.7, crime.3.6
-support: crime.3.1, crime.4.3, crime.4.5, crime.4.8, ls.1.7
+support: crime.3.1, crime.4.3, crime.4.5, crime.4.8, inv.1.7
 themes: crime.t.balance, crime.t.effectiveness, crime.t.reform
 criteria: rights, justice, ruleoflaw, society
 document: Cases/Crime/R v Dawson [2022] NSWSC 1131 - Case Summary.pdf

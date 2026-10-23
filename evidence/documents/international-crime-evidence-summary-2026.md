@@ -7,8 +7,8 @@ date: 2026
 jurisdiction: International and Australia
 significance: International criminal law is strongest at setting standards and weakest at enforcing them, because its courts depend on the states they judge.
 core: crime.6.1, crime.6.2
-support: crime.1.5, hr.2.2, hr.2.3, hr.2.4, hr.3.1, ls.2.11, ls.2.12, ls.2.13, ls.2.14
-themes: crime.t.effectiveness, crime.t.compliance, hr.t.sovereignty, ls.t.influences
+support: crime.1.5, hr.2.2, hr.2.3, hr.2.4, hr.3.1, inv.6.2, inv.6.1, inv.6.4, inv.6.6, inv.6.7, inv.6.3, inv.7.2
+themes: crime.t.effectiveness, crime.t.compliance, hr.t.sovereignty, inv.t.values
 criteria: enforceability, ruleoflaw, society, responsiveness, justice
 document: Human Rights/12LEG3 2026 International Crime Evidence Summary.pdf
 added: 2026-09-19

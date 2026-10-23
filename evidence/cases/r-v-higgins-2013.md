@@ -7,7 +7,7 @@ date: 2013
 jurisdiction: District Court of New South Wales (appeal from the Local Court)
 significance: Three assault convictions were overturned because the gaps in the evidence left a reasonable doubt, whatever the magistrate had been satisfied of.
 core: crime.3.6
-support: crime.3.7, crime.4.5, crime.3.1, crime.2.2, ls.1.5
+support: crime.3.7, crime.4.5, crime.3.1, crime.2.2, inv.1.4
 themes: crime.t.balance, crime.t.effectiveness, crime.t.moral
 criteria: rights, ruleoflaw, justice, enforceability
 document: Crime/Criminal Trial Process/3c. Legal representation & Standard and burden of Proof.docx

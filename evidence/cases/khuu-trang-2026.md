@@ -7,7 +7,7 @@ date: 2026-04-23
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1), Campton J
 significance: A $500,000 car sold in breach of a restraint, and the proceeds sent overseas — economic abuse as family violence, with no physical violence alleged.
 core: fam.2.3, fam.2.4
-support: fam.2.1, fam.2.5, fam.3.2, ls.3.2, crime.1.5
+support: fam.2.1, fam.2.5, fam.3.2, inv.1.3, dis.2.3, crime.1.5
 themes: fam.t.compliance, fam.t.reform, fam.t.effectiveness, fam.t.values
 criteria: enforceability, rights, responsiveness, justice
 document: Cases/Family/Khuu&Trang_Case_Summary.pdf

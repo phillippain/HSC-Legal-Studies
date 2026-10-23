@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: How an offence is classified decides what the prosecution must prove, which court hears it, and who else can be convicted of it.
 core: crime.1.3, crime.1.6, crime.1.7
-support: crime.1.1, crime.1.2, crime.1.5, crime.3.1, crime.3.6, crime.3.8, ls.3.1, ls.3.3
+support: crime.1.1, crime.1.2, crime.1.5, crime.3.1, crime.3.6, crime.3.8, inv.1.3, dis.3.1, dis.1.5, dis.2.5
 themes: crime.t.balance, crime.t.moral, crime.t.effectiveness
 criteria: ruleoflaw, resource, rights, justice, enforceability
 related: defences-to-criminal-charges, the-adversary-system-and-court-jurisdiction, royall-v-the-queen-1991, crimes-act-1900-key-offences, nsw-mobile-phone-detection-cameras, miller-v-the-queen-2016, summary-offences-act-1988

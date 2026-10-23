@@ -7,7 +7,7 @@ date: 2026-08
 jurisdiction: NSW
 significance: People who commit domestic violence are not one group — and what separates men from one another is not what separates women.
 core: crime.1.8, fam.2.4
-support: crime.1.9, crime.4.7, crime.4.2, fam.2.6, lip.1.1, hr.3.1
+support: crime.1.9, crime.4.7, crime.4.2, fam.2.6, exp.4, hr.3.1
 themes: crime.t.moral, crime.t.effectiveness, crime.t.balance, fam.t.effectiveness
 criteria: society, responsiveness, resource, justice
 document: Cases/BOCSAR/BOCSAR_CJB278_DFV_Typology_Infographic.pdf

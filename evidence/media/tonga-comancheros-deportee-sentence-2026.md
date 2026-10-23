@@ -7,7 +7,7 @@ date: 2026-10-22
 jurisdiction: Kingdom of Tonga (offence and sentence); Commonwealth (deportation under the Migration Act 1958)
 significance: A man deported from Australia in 2022 was jailed 12 years in Tonga for trying to set up a Comancheros chapter, on top of life for importing meth — does deportation control crime or relocate it?
 core: crime.6.1, crime.6.2
-support: crime.1.5, crime.1.9, crime.4.6, hr.2.1, ls.2.11, lip.1.5
+support: crime.1.5, crime.1.9, crime.4.6, hr.2.1, inv.6.2
 themes: crime.t.effectiveness, crime.t.balance, hr.t.sovereignty
 criteria: enforceability, society, responsiveness, justice
 document: Crime/Media/Crime - Tonga Comancheros Deportee Sentence Evidence Summary.pdf

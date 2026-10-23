@@ -7,8 +7,8 @@ date: 2026-02
 jurisdiction: NSW
 significance: Sydney house prices have risen about twelvefold since the early 1980s, and most residential land is still zoned for detached houses.
 core: shel.3.1, shel.2.1
-support: shel.3.3, shel.3.4, shel.2.8, shel.1.3, ls.4.1, ls.4.2, ls.2.5
-themes: shel.t.reform, shel.t.effectiveness, shel.t.values, ls.t.reflection
+support: shel.3.3, shel.3.4, shel.2.8, shel.1.3, chg.1, chg.2, inv.3.4
+themes: shel.t.reform, shel.t.effectiveness, shel.t.values, chg.t.values
 criteria: resource, accessibility, society, responsiveness
 document: Shelter/Evidence Sheets/Evidence Sheet - Insights from the Grattan Institute.pdf
 source: https://grattan.edu.au/wp-content/uploads/2026/02/Grattan-Institute-How-to-Tackle-Sydneys-Housing-Crisis.pdf

@@ -7,7 +7,7 @@ date: 2026-10-13
 jurisdiction: NSW Supreme Court (Orange)
 significance: The man whose crime on bail rewrote NSW's DV bail laws got 28 years after a guilty plea — and the victim's father learned of his appeal from the media.
 core: crime.2.5, crime.4.4
-support: crime.3.4, crime.4.1, crime.4.3, crime.4.5, fam.3.4, ls.4.1
+support: crime.3.4, crime.4.1, crime.4.3, crime.4.5, fam.3.4, chg.1
 themes: crime.t.reform, crime.t.balance, crime.t.moral
 criteria: rights, justice, responsiveness, society
 source: https://www.abc.net.au/news/2026-09-11/daniel-billings-sentenced-for-murder-of-molly-ticehurst/107137504

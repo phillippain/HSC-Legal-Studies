@@ -7,7 +7,7 @@ date: 2014-07-04
 jurisdiction: NSW Court of Criminal Appeal (Crown appeal)
 significance: A one-punch manslaughter sentence was almost doubled on a Crown appeal because general deterrence and denunciation had been given only passing weight — and there is no "one-punch" tariff.
 core: crime.4.2, crime.4.5
-support: crime.4.1, crime.4.3, crime.4.4, crime.1.8, ls.4.1, lip.1.2
+support: crime.4.1, crime.4.3, crime.4.4, crime.1.8, chg.1, chg.2.1
 themes: crime.t.reform, crime.t.balance, crime.t.discretion, crime.t.moral
 criteria: justice, society, responsiveness
 document: Cases/Crime/R v Loveridge [2014] NSWCCA 120 - Case Summary.pdf

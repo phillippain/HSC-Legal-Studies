@@ -7,8 +7,8 @@ date: 2026-10-15
 jurisdiction: Northern Territory and Commonwealth
 significance: Wadeye and Peppimenarti women set out why protection orders fail where there is no safe house and police are an hour away — a protection order is only as good as the services behind it.
 core: fam.2.4, fam.2.6
-support: fam.2.5, fam.2.7, fam.3.4, fam.1.5, hr.3.1, hr.2.12, hr.2.5, shel.3.3, ls.1.5, ls.2.9, ls.4.1, ls.4.2, lip.1.1, lip.2.1, lip.2.2, lip.2.3
-themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform, fam.t.values, hr.t.effectiveness, lip.t.justice
+support: fam.2.5, fam.2.7, fam.3.4, fam.1.5, hr.3.1, hr.2.12, hr.2.5, shel.3.3, inv.1.4, inv.2.1, chg.1, chg.2, exp.4, exp.5, exp.5.5, exp.6
+themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform, fam.t.values, hr.t.effectiveness, inv.t.justice
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, justice
 document: Family/Evidence Summaries/Remote NT women's safety report (Evidence summary 16Oct26).pdf
 source: https://www.abc.net.au/news/2026-10-15/remote-nt-communities-work-to-break-domestic-violence-cycle/107262158

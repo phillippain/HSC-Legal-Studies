@@ -7,7 +7,7 @@ date: 2018-04-18
 jurisdiction: High Court of Australia
 significance: A state tribunal that is not a court cannot exercise federal jurisdiction — so NCAT cannot hear a tenancy dispute between residents of different states.
 core: shel.2.6
-support: shel.2.5, shel.2.2, shel.3.2, ls.2.3, ls.2.7, ls.2.6, ind.2.3
+support: shel.2.5, shel.2.2, shel.3.2, inv.4.1, inv.5.3, inv.5.1, inv.5.2, dis.2.5
 themes: shel.t.effectiveness, shel.t.reform, shel.t.compliance
 criteria: accessibility, ruleoflaw, enforceability, justice
 document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx

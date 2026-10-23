@@ -6,9 +6,9 @@ citation: Preliminary Part I/II reference note
 date: 2026
 jurisdiction: Australia
 significance: Customary law is a legal system in its own right, and Australian law recognises it only where a statute or a common law doctrine lets it in.
-core: ls.2.9, ls.2.10
-support: ls.1.2, ls.5.1, ls.5.3, crime.4.7, crime.5.5, fam.3.4, hr.3.1, lip.1.1
-themes: ls.t.reflection, ls.t.influences, ls.t.need
+core: inv.2.1, inv.2.2
+support: inv.1.1, chg.5.2, chg.5.4, crime.4.7, crime.5.5, fam.3.4, hr.3.1, exp.4, exp.2.4
+themes: inv.t.values, inv.t.justice
 criteria: rights, society, justice, responsiveness, accessibility
 related: mabo-no2-1992, wik-1996, bocsar-circle-sentencing, nit-2024-family-is-culture
 added: 2026-09-20

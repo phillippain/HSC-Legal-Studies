@@ -7,7 +7,7 @@ date: 2025-02-05
 jurisdiction: NSW — Legal Aid NSW
 significance: A record 19% jump in demand for housing legal help — almost 4,500 people a year — with Legal Aid restricting eligibility to the most vulnerable: the access-to-justice figure for tenancy.
 core: shel.2.5, shel.2.9, shel.2.8
-support: shel.2.2, shel.2.3, shel.2.6, shel.3.1, shel.3.3, ls.1.5, ind.2.3, lip.2.2, lip.2.3
+support: shel.2.2, shel.2.3, shel.2.6, shel.3.1, shel.3.3, inv.1.4, dis.2.5, exp.5.5, exp.6
 themes: shel.t.effectiveness, shel.t.cooperation, shel.t.reform
 criteria: accessibility, resource, responsiveness, justice
 document: Shelter/Cost of living pressures drive record demand for housing legal assistance.pdf

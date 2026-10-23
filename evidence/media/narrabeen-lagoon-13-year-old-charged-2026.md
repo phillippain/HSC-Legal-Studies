@@ -7,7 +7,7 @@ date: 2026-10-17
 jurisdiction: NSW — NSW Police (Strike Force Mexvo, Sex Crimes Squad); Children's Court of NSW
 significance: The same 11 charges that would send an adult to the District Court send a 13-year-old to a closed Children's Court where he cannot be named and the Crown must first rebut doli incapax.
 core: crime.5.1, crime.5.3, crime.5.2
-support: crime.5.4, crime.5.5, crime.2.4, crime.2.5, crime.1.6, crime.3.6, hr.2.13, ls.4.1, ls.4.2, lip.1.4, lip.2.3
+support: crime.5.4, crime.5.5, crime.2.4, crime.2.5, crime.1.6, crime.3.6, hr.2.13, chg.1, chg.2, dis.1.8, dis.2.8, exp.6, exp.1.3, exp.2.3, exp.2.4
 themes: crime.t.balance, crime.t.reform, crime.t.moral, crime.t.effectiveness
 criteria: rights, justice, responsiveness, society, enforceability
 document: Crime/Young Offenders/Narrabeen Lagoon 13-year-old charged (Evidence summary 20Oct26).pdf

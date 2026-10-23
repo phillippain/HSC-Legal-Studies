@@ -7,7 +7,7 @@ date: 2026-06-29
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Judge Cope
 significance: A father absent for five years must pay $1,300 a month until 2041 for his severely disabled son — the parental duty to maintain does not end at 18.
 core: fam.1.5
-support: fam.3.2, fam.2.2, fam.2.5, fam.3.4, shel.1.1, ls.1.5
+support: fam.3.2, fam.2.2, fam.2.5, fam.3.4, shel.1.1, inv.1.4
 themes: fam.t.compliance, fam.t.effectiveness, fam.t.values, fam.t.reform
 criteria: enforceability, justice, rights, resource
 document: Cases/Family/Fernley & Masson [2026] FedCFamC2F 958 - Case Summary.pdf

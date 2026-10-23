@@ -7,7 +7,7 @@ date: 2016-08-31
 jurisdiction: High Court of Australia
 significance: The High Court refused to abolish extended joint criminal enterprise, so a person can still be guilty of murder for a killing they foresaw as possible but did not intend.
 core: crime.1.7
-support: crime.1.2, crime.3.8, crime.5.1
+support: crime.1.2, crime.3.8, crime.5.1, exp.1.3
 themes: crime.t.balance, crime.t.moral
 criteria: justice, rights, society
 source: https://www.hcourt.gov.au/

@@ -6,9 +6,9 @@ citation: Class summary document, Crime topic; built on LEPRA and the amending A
 date: 2017
 jurisdiction: NSW
 significance: LEPRA was meant to consolidate police powers after the Wood Royal Commission, and every amendment since has added to them — the consolidation became a platform.
-core: crime.2.1, ls.4.1
-support: crime.2.3, crime.2.4, crime.2.6, crime.1.3, crime.1.9, crime.4.6, ls.4.3, ls.1.7, ls.2.4, ind.1.2, ind.2.1, ind.2.7, lip.2.1, lip.2.3
-themes: crime.t.discretion, crime.t.balance, crime.t.reform, crime.t.compliance, ls.t.ruleoflaw, ls.t.reflection
+core: crime.2.1, chg.1
+support: crime.2.3, crime.2.4, crime.2.6, crime.1.3, crime.1.9, crime.4.6, chg.3, inv.1.7, inv.3.3, inv.4.4, inv.7.1, dis.3.2, dis.3.5, dis.3.6, exp.5, exp.6
+themes: crime.t.discretion, crime.t.balance, crime.t.reform, crime.t.compliance, chg.t.justice, chg.t.values
 criteria: enforceability, responsiveness, rights, ruleoflaw, society, justice
 document: Crime/Police Powers Summary.pdf
 related: police-and-law-enforcement-agencies, detention-and-interrogation-rights, r-v-rondo-2001, dpp-v-carr-2002, lepra-reasonable-suspicion-authorities-2020, nsw-knife-scanning-2026, balzan-inquest-2025

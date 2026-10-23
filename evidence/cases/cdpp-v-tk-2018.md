@@ -7,7 +7,7 @@ date: 2018-09-27
 jurisdiction: Children's Court of Victoria
 significance: A child who hacked a US corporation from Melbourne was sentenced under Victorian youth law, with no conviction, because s 20C lets the court choose the child-focused regime.
 core: crime.6.1, crime.5.4
-support: crime.6.2, crime.4.1, crime.4.2, crime.5.3, hr.3.1
+support: crime.6.2, crime.4.1, crime.4.2, crime.5.3, hr.3.1, exp.2.4, exp.2.3
 themes: crime.t.balance, crime.t.discretion, crime.t.reform
 criteria: justice, rights, society
 document: Cases/Crime/CDPP v TK (a child) [2018] VChC 4 - Case Summary.pdf

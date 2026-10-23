@@ -7,7 +7,7 @@ date: 2021
 jurisdiction: Australia
 significance: 122,494 people were experiencing homelessness on Census night 2021; about 289,000 people used specialist homelessness services in 2024–25.
 core: shel.3.3, shel.1.2
-support: shel.3.1, shel.3.4, shel.1.4, shel.2.9, lip.1.1
+support: shel.3.1, shel.3.4, shel.1.4, shel.2.9, exp.4
 themes: shel.t.effectiveness, shel.t.values
 criteria: accessibility, society, rights, justice
 related: anglicare-rental-affordability-2026, icescr-1966

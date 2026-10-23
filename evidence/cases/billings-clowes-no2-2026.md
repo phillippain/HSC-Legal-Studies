@@ -7,7 +7,7 @@ date: 2026-09-01
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2), Judge Murdoch
 significance: A change of residence ordered where every option harmed the child — and the child was never once interviewed.
 core: fam.2.2, fam.2.4, fam.3.2
-support: fam.2.5, fam.3.4, fam.1.5, hr.2.4, lip.1.4, crime.3.3, crime.3.7
+support: fam.2.5, fam.3.4, fam.1.5, hr.2.4, dis.1.8, dis.2.8, crime.3.3, crime.3.7
 themes: fam.t.effectiveness, fam.t.cooperation, fam.t.compliance, hr.t.compliance
 criteria: enforceability, accessibility, rights, resource, justice
 document: Cases/Family/Billings and Clowes (No 2) 2026 FedCFamC2F 1367 - Case Summary.pdf

@@ -7,7 +7,7 @@ date: 1997
 jurisdiction: Commonwealth
 significance: Three tax settings — rental losses deductible against wages, half of capital gains tax-free, the family home exempt entirely — that most economists say push prices up; the first two were cut back in the 2026 Budget.
 core: shel.3.1, shel.1.3
-support: shel.3.4, shel.3.3, shel.2.8, ls.2.4, ls.4.1, ls.4.3, lip.2.1, lip.2.3
+support: shel.3.4, shel.3.3, shel.2.8, inv.3.3, inv.4.4, chg.1, chg.3, exp.5, exp.6
 themes: shel.t.values, shel.t.reform, shel.t.effectiveness
 criteria: resource, society, responsiveness, justice
 source: https://www.legislation.gov.au/C2004A05138/latest/text

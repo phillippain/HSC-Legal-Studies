@@ -7,7 +7,7 @@ date: 2022
 jurisdiction: NSW Supreme Court
 significance: Three children, three times a court refused to let police shortcuts stand — the safeguards bite only when a court enforces them.
 core: crime.2.4, crime.2.6
-support: crime.3.7, crime.5.2, hr.2.10
+support: crime.3.7, crime.5.2, hr.2.10, exp.2.3
 themes: crime.t.compliance, crime.t.balance, crime.t.effectiveness
 criteria: rights, enforceability, ruleoflaw
 added: 2026-10-20

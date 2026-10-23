@@ -7,7 +7,7 @@ date: 2024-09-25
 jurisdiction: NSW
 significance: The first 21 of 48 statutory-review recommendations for people who own the home but rent the land — electricity capped at the IPART median, no entry or exit fees, 120 days' notice if a site becomes unlawful.
 core: shel.2.4, shel.2.9, shel.2.5
-support: shel.2.2, shel.2.3, shel.3.1, shel.3.2, shel.2.8, ls.2.4, ls.4.1, lip.2.1
+support: shel.2.2, shel.2.3, shel.3.1, shel.3.2, shel.2.8, inv.3.3, inv.4.4, chg.1, exp.5
 themes: shel.t.reform, shel.t.effectiveness, shel.t.values, shel.t.compliance
 criteria: responsiveness, enforceability, rights, resource, accessibility
 document: Shelter/Residential Land Lease Community Laws Get Updated.pdf

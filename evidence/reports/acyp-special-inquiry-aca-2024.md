@@ -7,8 +7,8 @@ date: 2024-08
 jurisdiction: NSW
 significance: Children in state care were being kept in hotels and caravan parks by shift workers from unaccredited agencies, at $965,000 a year each, some for more than 600 days.
 core: fam.3.4
-support: fam.1.5, fam.2.6, fam.3.2, hr.3.1, hr.2.4, hr.2.12, shel.3.3, shel.3.4, ind.2.7, ls.1.5, ls.4.1, ls.4.2, lip.1.1, lip.2.1, lip.2.3
-themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform, fam.t.values, hr.t.effectiveness, lip.t.justice
+support: fam.1.5, fam.2.6, fam.3.2, hr.3.1, hr.2.4, hr.2.12, shel.3.3, shel.3.4, dis.3.5, dis.3.6, inv.1.4, chg.1, chg.2, exp.4, exp.5, exp.6
+themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform, fam.t.values, hr.t.effectiveness, dis.t.justice
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, justice
 document: Family/Final Report of the Special Inquiry into Children and Young People in Alternative Care Arrangements August 2024.pdf
 source: https://www.acyp.nsw.gov.au/

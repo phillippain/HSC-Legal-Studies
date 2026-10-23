@@ -7,7 +7,7 @@ date: 2020-10-12
 jurisdiction: NSW Court of Appeal
 significance: A blanket by-law banning pets was harsh, unconscionable and oppressive — and Parliament then wrote the result into the Act.
 core: shel.2.4, shel.2.5
-support: shel.2.3, shel.1.4, shel.3.2, ls.2.1, ls.3.2
+support: shel.2.3, shel.1.4, shel.3.2, inv.3.1, inv.3.2, inv.1.3, dis.2.3
 themes: shel.t.values, shel.t.reform, shel.t.cooperation
 criteria: rights, responsiveness, justice
 related: residential-tenancies-act-2010

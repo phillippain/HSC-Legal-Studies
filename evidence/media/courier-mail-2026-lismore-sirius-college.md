@@ -7,7 +7,7 @@ date: 2026-01-30
 jurisdiction: NSW — Northern Rivers
 significance: Regional NSW median rent hit a record $600 a week as Lismore's 27-unit Sirius College, gutted in the 2022 floods, was rebuilt flood-resilient — a small supply response where disaster and the rental crisis compound.
 core: shel.3.1, shel.3.3, shel.2.8
-support: shel.1.3, shel.3.4, shel.2.2, shel.2.10, lip.2.3
+support: shel.1.3, shel.3.4, shel.2.2, shel.2.10, exp.6
 themes: shel.t.effectiveness, shel.t.cooperation, shel.t.values
 criteria: resource, accessibility, responsiveness, society
 document: Shelter/Flood-proof Sirius College set to reopen, ease Lismore rents | The Courier Mail.pdf

@@ -6,9 +6,9 @@ citation: Independent Commission Against Corruption Act 1988 (NSW), esp ss 7–9
 date: 1988
 jurisdiction: NSW (and Commonwealth)
 significance: The model Australian anti-corruption body — public hearings, coercive powers and findings of corrupt conduct against ministers and officials; two Premiers have resigned — but it cannot prosecute.
-core: ind.2.7
-support: ind.2.4, ind.3.3, ls.1.7, ls.3.1, ls.4.2, hr.2.4, lip.1.3, lip.2.3, crime.1.5
-themes: ind.t.rights, ind.t.effectiveness, ls.t.ruleoflaw, ls.t.institutions
+core: dis.3.5, dis.3.6
+support: dis.3.3, chg.6.5, inv.1.7, inv.1.3, dis.3.1, chg.2, hr.2.4, dis.3.2, exp.6, crime.1.5
+themes: dis.t.justice, dis.t.effectiveness
 criteria: enforceability, ruleoflaw, accessibility, responsiveness, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1988-035
 related: ombudsman-and-statutory-bodies, ombudsman-act-1974, lecc-act-2016, royal-commissions-acts, police-act-1990-and-afp-act-1979, australian-human-rights-commission-act-1986

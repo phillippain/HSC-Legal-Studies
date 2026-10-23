@@ -7,7 +7,7 @@ date: 2009
 jurisdiction: NSW
 significance: An attempted murder charge was negotiated down to malicious injury without intent, and a four-year sentence, without the victim being consulted at all.
 core: crime.3.4
-support: crime.4.4, crime.4.1, crime.4.3, crime.2.4, fam.3.4, ls.4.3
+support: crime.4.4, crime.4.1, crime.4.3, crime.2.4, fam.3.4, chg.3
 themes: crime.t.discretion, crime.t.reform, crime.t.effectiveness
 criteria: rights, justice, responsiveness, accessibility
 document: Crime/Criminal Trial Process/3b. Pleas & Charge negotiation.docx

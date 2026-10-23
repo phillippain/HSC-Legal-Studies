@@ -7,7 +7,7 @@ date: 2026-07-31
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Strum J
 significance: Six years of litigation about one child, ended by her turning 18 — and a recusal application refused, with vexatious proceedings orders still on foot.
 core: fam.2.5
-support: fam.1.1, fam.1.5, fam.3.2, ls.3.2, ls.1.5, lip.1.2
+support: fam.1.1, fam.1.5, fam.3.2, inv.1.3, dis.2.3, inv.1.4, chg.2.1
 themes: fam.t.cooperation, fam.t.effectiveness, fam.t.values
 criteria: accessibility, justice, resource, ruleoflaw
 document: Cases/Family/Fierro & Bien (No 3) [2026] FedCFamC1F 541 - Case Summary.pdf

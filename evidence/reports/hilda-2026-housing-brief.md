@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Australia
 significance: Housing stress reached 11.2% in 2024, a record in 24 years of data — the strongest evidence that legal and policy responses have not kept shelter affordable.
 core: shel.3.1
-support: shel.3.3, shel.3.4, shel.2.2, shel.1.4, shel.1.1, ls.1.5
+support: shel.3.3, shel.3.4, shel.2.2, shel.1.4, shel.1.1, inv.1.4
 themes: shel.t.effectiveness, shel.t.values, shel.t.reform
 criteria: resource, accessibility, society, responsiveness
 document: Shelter/HILDA 2026 Shelter Evidence Brief.pdf

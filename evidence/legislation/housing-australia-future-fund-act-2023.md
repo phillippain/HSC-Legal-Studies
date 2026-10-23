@@ -7,7 +7,7 @@ date: 2023-09
 jurisdiction: Commonwealth
 significance: A $10 billion fund whose earnings — at least $500 million a year — pay for social and affordable housing through Housing Australia, targeting 30,000 homes in five years; passed only after a Senate deal with the Greens.
 core: shel.3.4, shel.3.1, shel.2.8
-support: shel.1.3, shel.2.10, shel.3.3, ls.2.4, ls.4.3, ls.2.6, lip.2.1, lip.2.3
+support: shel.1.3, shel.2.10, shel.3.3, inv.3.3, inv.4.4, chg.3, inv.5.1, inv.5.2, exp.5, exp.6
 themes: shel.t.reform, shel.t.effectiveness, shel.t.cooperation, shel.t.values
 criteria: resource, responsiveness, enforceability, society
 source: https://www.legislation.gov.au/C2023A00056/latest/text

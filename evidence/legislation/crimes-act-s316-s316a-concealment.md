@@ -7,7 +7,7 @@ date: 2018
 jurisdiction: NSW
 significance: Most crime depends on voluntary reporting, but for serious offences and child abuse NSW makes silence itself an offence.
 core: crime.2.2
-support: crime.1.1, fam.3.4, ls.4.3
+support: crime.1.1, fam.3.4, chg.3
 themes: crime.t.compliance, crime.t.reform, crime.t.moral
 criteria: enforceability, society, responsiveness
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1900-040

@@ -7,7 +7,7 @@ date: 2025-04-11
 jurisdiction: Australia (incident in Brisbane)
 significance: An embryo was transferred to the wrong patient and a child was born to parents it was not conceived for — discovered only because the other family moved clinics.
 core: fam.3.3
-support: fam.1.5, fam.3.4, fam.2.6, fam.2.7, ls.3.2, ind.2.3, ind.3.2, lip.1.4, lip.2.3
+support: fam.1.5, fam.3.4, fam.2.6, fam.2.7, inv.1.3, dis.2.3, dis.2.5, chg.1.3, chg.6.1, dis.1.8, dis.2.8, exp.6
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness, fam.t.compliance
 criteria: enforceability, rights, responsiveness, justice, society
 document: Family/Woman gives birth to stranger’s baby after horror Monash IVF mix-up | Daily Telegraph.pdf

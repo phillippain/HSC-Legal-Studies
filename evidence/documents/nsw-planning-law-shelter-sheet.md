@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: The law that decides what can be built where is the law that decides who gets housed — and it is barely mentioned in most Shelter answers.
 core: shel.3.1, shel.2.8
-support: shel.3.2, shel.3.3, shel.3.4, shel.2.4, shel.2.6, shel.1.3, ls.2.5, ls.3.1, ls.4.3
+support: shel.3.2, shel.3.3, shel.3.4, shel.2.4, shel.2.6, shel.1.3, inv.3.4, inv.1.3, dis.3.1, chg.3
 themes: shel.t.reform, shel.t.cooperation, shel.t.effectiveness, shel.t.values
 criteria: accessibility, resource, society, responsiveness, justice
 document: Shelter/Evidence Sheets/Evidence Sheet - NSW Planning laws & policy.pdf

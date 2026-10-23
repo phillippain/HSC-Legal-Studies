@@ -7,7 +7,7 @@ date: 2020
 jurisdiction: NSW
 significance: The Building Commissioner can stop an occupation certificate and order rectification — a remedy that arrives before the purchaser, not years after.
 core: shel.2.1
-support: shel.2.3, shel.2.8, shel.2.6, ls.2.5, lip.2.1
+support: shel.2.3, shel.2.8, shel.2.6, inv.3.4, exp.5
 themes: shel.t.compliance, shel.t.reform, shel.t.effectiveness
 criteria: enforceability, responsiveness, rights, resource, justice
 document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx

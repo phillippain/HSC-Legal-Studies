@@ -7,7 +7,7 @@ date: 2016
 jurisdiction: Family Court of Western Australia
 significance: The twin girl stayed with the Australian couple who had left her brother in Thailand, because that was the least unsatisfactory option for her — not because their conduct was approved.
 core: fam.3.3
-support: fam.1.5, fam.3.4, fam.1.6, fam.2.7, hr.3.1, crime.6.1, ls.2.11, lip.1.5, lip.2.3
+support: fam.1.5, fam.3.4, fam.1.6, fam.2.7, hr.3.1, crime.6.1, inv.6.2, exp.6
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness, fam.t.compliance
 criteria: rights, enforceability, society, justice, responsiveness
 document: Family/Cases/3.3 Family law cases.pdf

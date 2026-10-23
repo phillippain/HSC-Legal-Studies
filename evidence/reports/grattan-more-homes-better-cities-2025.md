@@ -7,7 +7,7 @@ date: 2025-11
 jurisdiction: Australia (state planning systems; NSW and Victoria compared)
 significance: Australia's homes per adult have gone backwards since 2000 and Sydney is among the least dense big cities in the rich world — Grattan's case that planning law, not just money, is what keeps shelter scarce.
 core: shel.3.1, shel.2.8, shel.2.10
-support: shel.1.3, shel.3.4, shel.2.9, ls.4.1, ls.4.2, ls.2.5, lip.2.3
+support: shel.1.3, shel.3.4, shel.2.9, chg.1, chg.2, inv.3.4, exp.6
 themes: shel.t.reform, shel.t.effectiveness, shel.t.values, shel.t.cooperation
 criteria: resource, accessibility, responsiveness, society
 document: Shelter/More-homes-better-cities-Grattan-2025-briefing-pack.pdf

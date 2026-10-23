@@ -7,7 +7,7 @@ date: 2015-05-28
 jurisdiction: NSW
 significance: After antisemitic abuse of primary school children on a Sydney bus, a youth justice conference produced an outcome plan no sentencing scale could have.
 core: crime.5.5
-support: crime.4.7, hr.3.1, lip.1.1
+support: crime.4.7, hr.3.1, exp.4, exp.2.4
 themes: crime.t.effectiveness, crime.t.moral
 criteria: justice, society
 source: https://www.australianjewishnews.com/a-lesson-in-respect-for-bus-abuser/

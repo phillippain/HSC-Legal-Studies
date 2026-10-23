@@ -7,7 +7,7 @@ date: 2020-12
 jurisdiction: Australia (national; state and territory strategies compared)
 significance: Peer-reviewed inquiry finding homelessness "is a solvable problem" — if Australia's 1,500-plus crisis-driven services are redesigned around prevention, a "duty to assist" and Housing First.
 core: shel.3.3, shel.2.9, shel.2.8
-support: shel.1.3, shel.3.4, shel.2.5, ls.4.1, ls.4.2, hr.2.12, lip.2.2, lip.2.3
+support: shel.1.3, shel.3.4, shel.2.5, chg.1, chg.2, hr.2.12, exp.5.5, exp.6
 themes: shel.t.effectiveness, shel.t.reform, shel.t.cooperation, shel.t.values
 criteria: responsiveness, accessibility, resource, society, justice
 document: Shelter/AHURI Final Report 347 - Ending homelessness in Australia (2020).pdf

@@ -7,7 +7,7 @@ date: 2013
 jurisdiction: Family Court of Australia
 significance: A divorce order was set aside because the couple had reconciled — twelve months of separation means twelve months, and a resumed cohabitation restarts the clock.
 core: fam.2.1
-support: fam.1.3, fam.2.2, fam.2.3, fam.2.5, fam.1.1, ls.3.3
+support: fam.1.3, fam.2.2, fam.2.3, fam.2.5, fam.1.1, dis.1.5, dis.2.5
 themes: fam.t.cooperation, fam.t.compliance, fam.t.values
 criteria: ruleoflaw, accessibility, justice, rights
 document: Family/Cases/2.1 Family law cases.pdf

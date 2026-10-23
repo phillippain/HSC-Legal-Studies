@@ -7,7 +7,7 @@ date: 1999
 jurisdiction: NSW
 significance: Regulates contracts, fees, exit entitlements and disputes for NSW retirement village residents — and since 2021 makes operators pay exit entitlements within six months in metropolitan areas even if the unit is unsold.
 core: shel.2.4, shel.3.2
-support: shel.1.2, shel.1.4, shel.2.1, shel.2.5, shel.2.6, shel.2.8, lip.2.3
+support: shel.1.2, shel.1.4, shel.2.1, shel.2.5, shel.2.6, shel.2.8, exp.6
 themes: shel.t.values, shel.t.reform, shel.t.effectiveness, shel.t.compliance
 criteria: rights, accessibility, enforceability, responsiveness, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1999-081

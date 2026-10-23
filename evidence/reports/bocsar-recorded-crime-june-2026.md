@@ -7,7 +7,7 @@ date: 2026-09
 jurisdiction: NSW
 significance: Violence against the person is rising while property crime falls — nine of the ten significant ten-year trends split that way.
 core: crime.1.1, crime.1.5, crime.2.1, crime.4.7, crime.5.5
-support: crime.2.2, crime.2.3, crime.3.1, crime.4.6, crime.1.8, fam.2.4
+support: crime.2.2, crime.2.3, crime.3.1, crime.4.6, crime.1.8, fam.2.4, exp.2.4
 themes: crime.t.discretion, crime.t.compliance, crime.t.effectiveness, crime.t.balance
 criteria: enforceability, responsiveness, society, justice
 source: https://bocsar.nsw.gov.au

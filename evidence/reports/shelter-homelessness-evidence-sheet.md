@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Visible homelessness fell between 2016 and 2021 while severe overcrowding rose — the hidden kind grew as the countable kind shrank.
 core: shel.3.3, shel.1.2
-support: shel.1.4, shel.3.1, shel.3.4, shel.2.9, shel.1.3, lip.1.1, hr.3.1, shel.1.1
+support: shel.1.4, shel.3.1, shel.3.4, shel.2.9, shel.1.3, exp.4, hr.3.1, shel.1.1
 themes: shel.t.effectiveness, shel.t.values, shel.t.reform
 criteria: accessibility, society, rights, responsiveness, justice
 document: Shelter/Homelessness Evidence Sheet.pdf

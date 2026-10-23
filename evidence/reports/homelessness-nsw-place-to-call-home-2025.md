@@ -7,7 +7,7 @@ date: 2025-12
 jurisdiction: NSW
 significance: The peak body's costed case — up to 80,000 people homeless, 67,721 households waiting for social housing, only 36% of those needing emergency housing getting it — for a 50% funding uplift and 10,000 social homes a year.
 core: shel.3.3, shel.2.9, shel.3.4
-support: shel.1.2, shel.1.3, shel.2.8, shel.3.1, ls.4.1, ls.4.2, hr.2.12, lip.1.1, lip.2.2, lip.2.3
+support: shel.1.2, shel.1.3, shel.2.8, shel.3.1, chg.1, chg.2, hr.2.12, exp.4, exp.5.5, exp.6
 themes: shel.t.effectiveness, shel.t.reform, shel.t.values, shel.t.cooperation
 criteria: resource, accessibility, responsiveness, society, justice
 document: Shelter/Homelessness NSW - A place to call home (Dec 2025).pdf

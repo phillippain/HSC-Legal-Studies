@@ -7,7 +7,7 @@ date: 2015
 jurisdiction: NSW
 significance: The companion to the Management Act — how a strata scheme is created and ended — and, since 2016, the law that lets 75% of owners force the sale or redevelopment of the whole building over the objection of the rest.
 core: shel.2.4, shel.1.4
-support: shel.2.1, shel.2.3, shel.2.5, shel.2.6, shel.3.1, shel.3.2, lip.1.4, lip.2.1
+support: shel.2.1, shel.2.3, shel.2.5, shel.2.6, shel.3.1, shel.3.2, dis.1.8, dis.2.8, exp.5
 themes: shel.t.values, shel.t.reform, shel.t.effectiveness
 criteria: rights, enforceability, justice, society, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2015-051

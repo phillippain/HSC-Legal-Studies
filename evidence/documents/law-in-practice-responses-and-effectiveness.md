@@ -6,9 +6,9 @@ citation: Preliminary Part III reference note
 date: 2026
 jurisdiction: Australia
 significance: A response is legal if a court or regulator can enforce it; most of what actually changes an issue is not, and a good evaluation says which did what.
-core: lip.2.1, lip.2.2, lip.2.3
-support: lip.1.1, lip.1.2, ls.4.3, ind.2.4, hr.3.1, shel.2.9, fam.2.6
-themes: ls.t.reflection, ls.t.institutions, ls.t.need
+core: exp.5, exp.5.5, exp.6
+support: exp.4, chg.2.1, chg.3, dis.3.3, hr.3.1, shel.2.9, fam.2.6
+themes: exp.t.values, exp.t.justice
 criteria: enforceability, responsiveness, accessibility, resource, rights, society, ruleoflaw, justice
 related: law-in-practice-choosing-an-issue, shelter-dispute-resolution-map, ombudsman-and-statutory-bodies
 added: 2026-09-20

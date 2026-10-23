@@ -7,7 +7,7 @@ date: 2017
 jurisdiction: Family Court of Australia
 significance: A mother lost shared parental responsibility because her new partner posed an unacceptable risk to the children and she could not protect them from him.
 core: fam.2.4
-support: fam.2.2, fam.3.4, fam.1.5, crime.1.5, ls.1.5
+support: fam.2.2, fam.3.4, fam.1.5, crime.1.5, inv.1.4
 themes: fam.t.effectiveness, fam.t.values, fam.t.compliance
 criteria: rights, society, justice, responsiveness
 document: Family/Cases/2.3 Family law cases.pdf

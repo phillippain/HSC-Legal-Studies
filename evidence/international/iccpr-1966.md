@@ -7,8 +7,8 @@ date: 1966-12-16
 jurisdiction: International
 significance: Binding, ratified by Australia in 1980 — and still not directly enforceable in an Australian court.
 core: hr.1.3, hr.2.7
-support: hr.2.1, hr.2.2, hr.2.9, ls.2.11, ls.2.14, ind.1.1
-themes: hr.t.sovereignty, hr.t.compliance, ls.t.influences, ind.t.rights
+support: hr.2.1, hr.2.2, hr.2.9, inv.6.2, inv.6.3, inv.7.2, inv.7.3
+themes: hr.t.sovereignty, hr.t.compliance, inv.t.values, inv.t.justice
 criteria: enforceability, rights, ruleoflaw
 added: 2026-09-19
 ---

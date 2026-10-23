@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Most crime is never reported, and most of what is reported is never solved — so the criminal justice system acts on a fraction of what happens.
 core: crime.2.2, crime.2.3
-support: crime.2.1, crime.2.4, crime.2.6, crime.3.7, crime.1.9, fam.2.4, lip.2.3
+support: crime.2.1, crime.2.4, crime.2.6, crime.3.7, crime.1.9, fam.2.4, exp.6
 themes: crime.t.discretion, crime.t.compliance, crime.t.effectiveness
 criteria: enforceability, resource, rights, accessibility, justice
 related: detention-and-interrogation-rights, r-v-rondo-2001, r-v-white-2005, bocsar-recorded-crime-june-2026

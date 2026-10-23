@@ -18,7 +18,7 @@ import { fileURLToPath } from 'node:url';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const FILE = pathToFileURL(resolve(process.argv[2] || resolve(HERE, '..', 'evidence.html'))).href;
-const POINTS = Number(process.argv[3] || 147);
+const POINTS = Number(process.argv[3] || 197);
 
 const fails = [];
 const ok = (c, m) => { if (!c) fails.push(m); };
@@ -244,18 +244,18 @@ for (const scheme of ['light', 'dark']) {
   await page.locator('#courseswitch button[data-course="preliminary"]').click();
   await page.waitForTimeout(150);
   const prelimCells = await page.locator('.cell[data-act="point"]').count();
-  ok(prelimCells === 55, scheme + ': Preliminary shows ' + prelimCells + ' cells, expected 55');
+  ok(prelimCells === 105, scheme + ': Preliminary shows ' + prelimCells + ' cells, expected 105');
   ok((await page.locator('.covband').count()) === 0, scheme + ': bands should go when scoped');
   ok(await page.locator('#covnote').isVisible(), scheme + ': the scope note is missing');
   ok(Number(await page.locator('#m-records').textContent()) < allRecords,
      scheme + ': the record count did not shrink when scoped');
   ok((await page.locator('.row[data-id="crime"]').count()) === 0, scheme + ': an HSC topic is still in the tree');
-  ok((await page.locator('.row[data-id="legalsystem"]').count()) === 1, scheme + ': a Preliminary topic is missing');
+  ok((await page.locator('.row[data-id="investigating"]').count()) === 1, scheme + ': a Preliminary topic is missing');
 
   /* cross-course evidence stays, and says which course it is really about */
-  await page.locator('.cell[data-act="point"][data-id="ls.2.7"]').click();
+  await page.locator('.cell[data-act="point"][data-id="inv.5.3"]').click();
   await page.waitForTimeout(120);
-  ok((await page.locator('#list .ev').count()) > 0, scheme + ': no evidence at ls.2.7 in Preliminary');
+  ok((await page.locator('#list .ev').count()) > 0, scheme + ': no evidence at inv.5.3 in Preliminary');
   ok((await page.locator('#list .chip.xcourse').count()) > 0, scheme + ': no cross-course mark');
   ok(/HSC evidence/.test(await page.locator('#list .chip.xcourse').first().textContent()),
      scheme + ': the cross-course mark names the wrong course');
@@ -268,7 +268,7 @@ for (const scheme of ['light', 'dark']) {
   ok(hscCells === 92, scheme + ': HSC shows ' + hscCells + ' cells, expected 92');
   await page.locator('#courseswitch button[data-course="all"]').click();
   await page.waitForTimeout(120);
-  ok((await page.locator('.cell[data-act="point"]').count()) === 147, scheme + ': "Both" is not 147 cells');
+  ok((await page.locator('.cell[data-act="point"]').count()) === 197, scheme + ': "Both" is not 197 cells');
 
   await page.setViewportSize({ width: 390, height: 844 });
   await page.waitForTimeout(150);

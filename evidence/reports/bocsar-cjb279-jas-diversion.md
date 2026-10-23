@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: A non-legal service attached to an existing legal right cut reoffending 16% — the best evidence in the course that legal and non-legal measures work together, not in competition.
 core: crime.4.7, crime.4.6, crime.1.8
-support: crime.2.5, crime.3.1, crime.3.5, crime.5.5, hr.2.5, lip.1.1, lip.2.2, hr.2.12, ind.2.7
+support: crime.2.5, crime.3.1, crime.3.5, crime.5.5, hr.2.5, exp.4, exp.5.5, hr.2.12, dis.3.5, dis.3.6, exp.2.4
 themes: crime.t.discretion, crime.t.moral, crime.t.effectiveness, crime.t.reform
 criteria: rights, accessibility, resource, responsiveness, justice
 source: https://bocsar.nsw.gov.au/documents/publications/cjb/cjb251-300/CJB279-Report-Justice-Advocacy-Service.pdf

@@ -7,7 +7,7 @@ date: 2024-10
 jurisdiction: NSW
 significance: The biggest change to NSW renting in a decade — no-grounds evictions abolished, pets presumed in, application fees banned, and a taskforce to enforce it.
 core: shel.2.2, shel.2.3
-support: shel.2.8, shel.3.1, shel.3.3, ls.4.1, ls.4.3, lip.2.1
+support: shel.2.8, shel.3.1, shel.3.3, chg.1, chg.3, exp.5
 themes: shel.t.reform, shel.t.cooperation, shel.t.effectiveness, shel.t.compliance
 criteria: responsiveness, rights, enforceability, society, justice
 document: Shelter/NSW rental laws What are the changes?.pdf

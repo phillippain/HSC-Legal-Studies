@@ -7,9 +7,9 @@
 # starting with # are ignored.
 
 # The LSA journal — tagged from each edition's own contents table.
-Legal Briefs/2025 - Volume 36 - Ed 1 - Full Edition for Publication.pdf | ls.4.1, ls.4.2, ls.4.3, hr.2.6, ind.2.4
-Legal Briefs/Legal_Briefs_2025_Edition_3.pdf | shel.2.1, crime.4.8, crime.3.1, ind.3.2, lip.1.3
-Legal Briefs/2025-Volume36-Ed4 LS.pdf | crime.2.1, crime.2.5, crime.3.8, crime.4.6, crime.4.7, crime.4.8, hr.1.2, hr.3.1, ind.3.2
+Legal Briefs/2025 - Volume 36 - Ed 1 - Full Edition for Publication.pdf | chg.1, chg.2, chg.3, hr.2.6, dis.3.3
+Legal Briefs/Legal_Briefs_2025_Edition_3.pdf | shel.2.1, crime.4.8, crime.3.1, chg.1.3, chg.6.1, dis.3.2
+Legal Briefs/2025-Volume36-Ed4 LS.pdf | crime.2.1, crime.2.5, crime.3.8, crime.4.6, crime.4.7, crime.4.8, hr.1.2, hr.3.1, chg.1.3, chg.6.1
 
 # Videos whose filename says what they are. Three TikToks keep their upload hash
 # (v14044g5...) and cannot be placed without watching them; "NSWCA Harris Case" and
@@ -152,20 +152,20 @@ Cases/Shelter/Jobema v Zhu [2016] NSWSC 3 - Case Summary.pdf | shel.2.1, shel.2.
 # ===========================================================================
 
 # ------------------------------------------------------------------ Crime --
-Crime/Inquest_into_the_death_of_Bradley_Vincent_Balzan.pdf | crime.2, crime.4.8, ls.4.2
+Crime/Inquest_into_the_death_of_Bradley_Vincent_Balzan.pdf | crime.2, crime.4.8, chg.2
 Crime/Media/The great crime paradox.pdf | crime.1.8, crime.1.9
 Crime/NSW Adult Crime Adult Time - Summary.pdf | crime.5.1, crime.5.4
 Crime/PREVENTION ORDERS NSW and Commonwealth.docx | crime.4.8
 Crime/Taser_Taser_Taser__A_Case_Study_on_Law_and_Procedure_Pertaining_To_Police_Tasers__Felicity_Graham.pdf | crime.2.1
 Crime/Win Against Unlawful Detainee Risk Management Plans (DRMPs).pdf | crime.4.8
-Crime/Media/Chagos Islands deal ends Britain’s last claim to a sunlit empire.pdf | ls.2.11, ls.2.13
+Crime/Media/Chagos Islands deal ends Britain’s last claim to a sunlit empire.pdf | inv.6.2, inv.6.4, inv.6.6, inv.6.7
 
 # ----------------------------------------------------------------- Family --
 Cases/Family/01_Cerinza_and_Moreau_2026_FedCFamC2F_785.pdf | fam.2
 Cases/Family/One birth, two pregnancies, two sets of parents.pdf | fam.3.3
 Cases/Family/Taggart & Gowden [2026] FedCFamC2F 673 (Summary).pdf | fam.2
 Family/3b. Changing nature of parental responsibility.pdf | fam.3.2
-Family/ALRC Report (2019).pdf | fam.2.5, fam.3.2, ls.4.2
+Family/ALRC Report (2019).pdf | fam.2.5, fam.3.2, chg.2
 Family/Alberdingk_Family_CaseStudy.pdf | fam.2
 Family/Assisted Reproductive Technology in past five years.pdf | fam.3.3
 Family/Baulkham Hills stabbing Mother charged, three children hurt in Sydney’s Hills District.pdf | fam.2.4, fam.3.4
@@ -202,7 +202,7 @@ Family/Two of Us: Marita and Ashlee McNamara.pdf | fam.1.4
 Family/Updates to Family Law in Australia in the Past Year.pdf | fam.3
 Family/disincentives-to-disclosing-family-violence-Family Law Council Report.PDF | fam.2.4, fam.2.5
 Family/‘Surrogate Grans’ Offer GIft of Life.pdf | fam.3.3
-News Articles/Family/Tracking Elderly Parents for Safety: How Life360 and GPS Devices Help Caregivers.pdf | ind.3.1, ind.3.2, fam.1.5
+News Articles/Family/Tracking Elderly Parents for Safety: How Life360 and GPS Devices Help Caregivers.pdf | chg.1.3, chg.6.1, fam.1.5
 News Articles/Family/‘This is a man who couldn’t cope’- Experts grapple with murder of Lilie James.pdf | fam.2.4, crime.1.8
 
 # The 2026 judgments waiting to be summarised. Division 1 and Division 2 of the
@@ -234,7 +234,7 @@ Human Rights/School cleaners are 'modern slaves' and taxpayers foot bill.pdf | h
 Human Rights/UN criticises Australia’s anti-slavery laws: Inside nation’s ‘alarming’ labour scheme.pdf | hr.3.1, hr.2.2
 Human Rights/mybluesky.org.au-Frontline Worker Guide.pdf | hr.2.12, hr.3.1
 Human Rights/rightsED_understanding_human_rights.doc | hr.2.12, hr.1.1
-News Articles/Human Rights/Antisemitism Law reform.pdf | hr.2.9, ls.4.1, ls.4.3
+News Articles/Human Rights/Antisemitism Law reform.pdf | hr.2.9, chg.1, chg.3
 News Articles/Human Rights/Hate speech laws: NSW Labor’s ‘cruel’ new laws do not protect LGBTIQ community.pdf | hr.2.9, hr.2.13, hr.3.1
 News Articles/Human Rights/Men charged in Sydney after alleged display of swastika flag.pdf | hr.2.9
 
@@ -245,7 +245,7 @@ Shelter/Australia housing crisis: Planned 100,000 new homes in NSW still not del
 Shelter/Changes to First Home Guarantee Scheme.pdf | shel.2.1, shel.3.1
 Shelter/Commonwealth and NSW Build to Rent.pdf | shel.2.4, shel.3.4
 Shelter/Contract_of_Sale House.pdf | shel.2.1
-Shelter/Distinction Between State and Federal Governments in Shelter Policy.pdf | shel.2.8, ls.2.6
+Shelter/Distinction Between State and Federal Governments in Shelter Policy.pdf | shel.2.8, inv.5.1, inv.5.2
 Shelter/Example Strata Contract.pdf | shel.2.4
 Shelter/First Home Guarantee scheme - Sydney property: Help to Buy first home buyer scheme to offer buyers a choice.pdf | shel.2.1, shel.3.1
 Shelter/Grattan Institute Report Summary.pdf | shel.3.1
@@ -282,9 +282,15 @@ News Articles/Crime/Number of NSW children in youth detention up by one third, n
 
 # --------------------------------- 23 Oct 2026 — surrogacy and birth tech --
 Family/SSC Blackwattle Bay Family- Surrogacy and Birth Technologies.pdf | @resource, fam.3.3
-Family/Re Z Surrogacy arrangements overseas | Law Gazette.pdf | fam.3.3, fam.1.2, ls.3.4
+Family/Re Z Surrogacy arrangements overseas | Law Gazette.pdf | fam.3.3, fam.1.2, inv.1.3
 Family/Melbourne couple’s Colombian IVF surrogacy nightmare | Daily Telegraph.pdf | fam.3.3, fam.2.3
 Family/Gender Selection.pdf | fam.3.3, fam.1.5
 Family/‘Surrogate Grans’ Offer GIft of Life.pdf | fam.3.3, fam.1.4
 Family/Surrogacy and Birth Tech/When is a Sperm Donor A Parent.docx | fam.3.3, fam.1.5
-Family/Why Surrogacy is a Cth Govt Issue .pdf | fam.3.3, fam.1.2, ls.2.6
+Family/Why Surrogacy is a Cth Govt Issue .pdf | fam.3.3, fam.1.2, inv.5.1, inv.5.2
+
+# ------------------------------------- 24 Oct 2026 — building defects --
+Shelter/Mascot Towers Background and application.pdf | @resource, shel.2.4
+
+# ------------------------------- 24 Oct 2026 — human rights contemporary issue --
+Human Rights/Wertheim v Haddad (Federal Court) Case Study.docx | @resource, hr.3.1

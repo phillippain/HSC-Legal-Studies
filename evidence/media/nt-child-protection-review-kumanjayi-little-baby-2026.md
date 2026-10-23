@@ -7,7 +7,7 @@ date: 2026-10-20
 jurisdiction: Northern Territory — Care and Protection of Children Act 2007 (NT)
 significance: Fourteen notifications over six years, a family-violence risk assessment never done and a case left open 229 days: the review blamed system design, not a lack of legal powers — and all 45 recommendations were accepted.
 core: fam.3.4, fam.2.4
-support: fam.1.5, fam.2.6, fam.2.7, hr.3.1, lip.1.1, lip.2.1, lip.2.3, ls.4.2, crime.2.2
+support: fam.1.5, fam.2.6, fam.2.7, hr.3.1, exp.4, exp.5, exp.6, chg.2, crime.2.2
 themes: fam.t.effectiveness, fam.t.values, fam.t.reform, fam.t.cooperation
 criteria: responsiveness, resource, rights, enforceability, society
 document: Family/Evidence Summaries/Family - NT Child Protection Review Kumanjayi Little Baby Evidence Summary.pdf

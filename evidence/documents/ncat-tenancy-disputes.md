@@ -7,7 +7,7 @@ date: 2025-10-14
 jurisdiction: NSW
 significance: Every tenancy right in NSW ends at NCAT, and renters fund that tribunal themselves through the interest earned on their bonds.
 core: shel.2.5, shel.2.6
-support: shel.2.2, shel.2.3, shel.2.9, ind.2.3, ls.3.2, lip.2.3
+support: shel.2.2, shel.2.3, shel.2.9, dis.2.5, inv.1.3, dis.2.3, exp.6
 themes: shel.t.effectiveness, shel.t.cooperation, shel.t.compliance
 criteria: accessibility, resource, enforceability, rights, justice
 document: Shelter/Going to NCAT from Tenants Union.pdf

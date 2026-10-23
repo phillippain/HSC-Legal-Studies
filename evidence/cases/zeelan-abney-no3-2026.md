@@ -7,7 +7,7 @@ date: 2026-09-09
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Christie J, Sydney
 significance: Eighteen months together, $12.5 million on the balance sheet, family violence found on both sides — and a $600,000 lump sum, because no formula exists and the violence could not be linked to her contributions.
 core: fam.2.3, fam.1.4, fam.2.4
-support: fam.1.1, fam.2.1, fam.2.2, fam.2.5, fam.3.2, shel.1.1, shel.2.1, ls.2.1, ls.4.1, lip.1.4, lip.2.3
+support: fam.1.1, fam.2.1, fam.2.2, fam.2.5, fam.3.2, shel.1.1, shel.2.1, inv.3.1, inv.3.2, chg.1, dis.1.8, dis.2.8, exp.6
 themes: fam.t.effectiveness, fam.t.reform, fam.t.values, fam.t.compliance, shel.t.values
 criteria: justice, enforceability, responsiveness, rights, resource
 document: Cases/Family/Zeelan & Abney (No 3) [2026] FedCFamC1F 605 - Case Summary.pdf

@@ -7,7 +7,7 @@ date: 1961
 jurisdiction: Commonwealth
 significance: Defines marriage as "the union of 2 people to the exclusion of all others, voluntarily entered into for life" and sets the requirements — age, not already married, not closely related, real consent, notice, celebrant.
 core: fam.1.3, fam.3.1
-support: fam.1.1, fam.1.2, fam.1.4, fam.2.1, ls.2.6, ls.4.1, hr.2.9
+support: fam.1.1, fam.1.2, fam.1.4, fam.2.1, inv.5.1, inv.5.2, chg.1, hr.2.9
 themes: fam.t.values, fam.t.reform, fam.t.compliance
 criteria: rights, enforceability, responsiveness, society
 source: https://www.legislation.gov.au/C2004A07352/latest/text

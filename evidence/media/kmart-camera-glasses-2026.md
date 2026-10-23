@@ -6,9 +6,9 @@ citation: Preliminary Legal Studies evidence summary, 7 October 2026; facts draw
 date: 2026-10-07
 jurisdiction: Commonwealth and NSW
 significance: The glasses went on sale, sold out and were pulled before Parliament changed a single law — a contemporary issue where every response works around the gap rather than closing it.
-core: ls.4.1, ls.4.3, ls.5.5, ind.3.4
-support: ls.4.2, ind.3.1, ind.3.2, ind.3.3, ind.1.1, ind.2.7, ls.2.6, ls.2.11, ls.3.2, lip.1.2, lip.2.1, lip.2.2, lip.2.3
-themes: ls.t.reflection, ls.t.influences, ind.t.technology, ind.t.rights, lip.t.reform, lip.t.responsiveness
+core: chg.1, chg.3, chg.6
+support: chg.2, chg.1.3, chg.6.1, chg.6.5, inv.7.2, inv.7.3, dis.3.5, dis.3.6, inv.5.1, inv.5.2, inv.6.2, inv.1.3, dis.2.3, chg.2.1, exp.5, exp.5.5, exp.6
+themes: chg.t.values, chg.t.justice, chg.t.effectiveness
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, ruleoflaw, justice
 document: Preliminary/Kmart camera glasses - law reform lag (Preliminary evidence summary 7Oct26).pdf
 source: https://www.smartcompany.com.au/technology/privacy-watchdog-investigates-software-company-behind-89-kmart-smart-glasses/

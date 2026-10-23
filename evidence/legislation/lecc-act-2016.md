@@ -6,9 +6,9 @@ citation: Law Enforcement Conduct Commission Act 2016 (NSW)
 date: 2017-07-01
 jurisdiction: NSW
 significance: Replaced the Police Integrity Commission and the Ombudsman's police role with one body that can investigate serious police misconduct with royal-commission powers and public hearings — but cannot discipline or prosecute.
-core: ind.2.7, crime.2.1
-support: ind.2.1, ind.2.4, ind.2.6, ind.3.3, crime.2.2, hr.2.4, ls.1.7, lip.1.3, lip.2.3
-themes: ind.t.rights, ind.t.effectiveness, crime.t.balance, crime.t.discretion
+core: dis.3.5, dis.3.6, crime.2.1
+support: dis.3.2, dis.3.3, dis.3.4, chg.6.5, crime.2.2, hr.2.4, inv.1.7, exp.6
+themes: dis.t.justice, dis.t.effectiveness, crime.t.balance, crime.t.discretion
 criteria: enforceability, accessibility, ruleoflaw, rights, responsiveness
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2016-061
 related: lecc-operation-makalu-2026, lecc-strip-search-inquiry-2020, police-act-1990-and-afp-act-1979, lepra-2002, ombudsman-and-statutory-bodies, ombudsman-act-1974, icac-act-1988, telegraph-2022-kempsey-baby-strip-search, kristian-white-clare-nowland

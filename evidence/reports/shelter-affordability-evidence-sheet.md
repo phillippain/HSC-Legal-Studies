@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Sydney house prices have gone from 9.6 times income to over 16 — the benchmark for affordable is three.
 core: shel.3.1, shel.2.1
-support: shel.2.2, shel.1.2, shel.3.3, shel.3.4, lip.2.3, shel.1.1
+support: shel.2.2, shel.1.2, shel.3.3, shel.3.4, exp.6, shel.1.1
 themes: shel.t.effectiveness, shel.t.values, shel.t.reform
 criteria: accessibility, society, rights, justice
 document: Shelter/Affordability Evidence Sheet.docx

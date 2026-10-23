@@ -7,8 +7,8 @@ date: 2026-10-19
 jurisdiction: NSW
 significance: Ten manslaughter charges became ten dangerous driving charges by plea deal, the driver still got 32 years, and the families still felt the system chose what was easy.
 core: crime.3.4, crime.4.4, crime.4.3
-support: crime.4.1, crime.4.5, crime.4.2, crime.4.6, crime.3.3, crime.3.1, crime.3.6, crime.1.2, crime.1.3, crime.1.5, ls.3.2, ls.4.1, ls.4.2, lip.1.2, lip.1.4, lip.2.1, lip.2.3
-themes: crime.t.discretion, crime.t.balance, crime.t.effectiveness, crime.t.reform, crime.t.moral, lip.t.justice
+support: crime.4.1, crime.4.5, crime.4.2, crime.4.6, crime.3.3, crime.3.1, crime.3.6, crime.1.2, crime.1.3, crime.1.5, inv.1.3, dis.2.3, chg.1, chg.2, chg.2.1, dis.1.8, dis.2.8, exp.5, exp.6
+themes: crime.t.discretion, crime.t.balance, crime.t.effectiveness, crime.t.reform, crime.t.moral, inv.t.justice
 criteria: accessibility, enforceability, responsiveness, rights, society, ruleoflaw, justice
 document: Crime/Greta bus crash - charge negotiation to reform (Evidence summary 19Oct26).pdf
 source: https://www.abc.net.au/news/2026-10-19/hunter-valley-wedding-bus-crash-survivors-recall-chaotic-night/107163850

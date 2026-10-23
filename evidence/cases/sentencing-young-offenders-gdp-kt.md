@@ -7,7 +7,7 @@ date: 2008
 jurisdiction: NSW Court of Criminal Appeal
 significance: Rehabilitation comes first for young offenders, but 'adult behaviour' such as weapons and planning shifts the balance back to protecting the community.
 core: crime.5.4
-support: crime.4.2, crime.4.3, crime.5.3
+support: crime.4.2, crime.4.3, crime.5.3, exp.2.4, exp.2.3
 themes: crime.t.discretion, crime.t.balance, crime.t.moral
 criteria: justice, society, rights
 source: https://www.judcom.nsw.gov.au/publications/benchbks/children/CM_Sentencing_juvenile_offenders_on_indictment.html

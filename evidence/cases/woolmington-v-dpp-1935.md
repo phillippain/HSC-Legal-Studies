@@ -7,7 +7,7 @@ date: 1935-05-23
 jurisdiction: United Kingdom (House of Lords) — Viscount Sankey LC; Lords Hewart, Atkin, Tomlin and Wright concurring
 significance: The prosecution must prove guilt: the accused never has to prove innocence.
 core: crime.3.6
-support: crime.3.8, crime.3.9, crime.4.5, hr.2.10, ls.1.7, ls.2.1
+support: crime.3.8, crime.3.9, crime.4.5, hr.2.10, inv.1.7, inv.3.1, inv.3.2
 themes: crime.t.balance, crime.t.moral
 criteria: rights, ruleoflaw, justice
 document: Cases/Crime/Woolmington v DPP [1935] AC 462 - Case Summary.pdf

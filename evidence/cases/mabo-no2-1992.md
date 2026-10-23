@@ -6,9 +6,9 @@ citation: Mabo v Queensland (No 2) (1992) 175 CLR 1
 date: 1992-06-03
 jurisdiction: High Court of Australia
 significance: Terra nullius rejected; native title recognised at common law — the mandatory law reform example in the Preliminary course.
-core: ls.5.1, ls.5.2, ls.5.3
-support: ls.2.1, ls.2.8, ls.2.9, ls.2.10, ls.4.3, lip.1.1
-themes: ls.t.reflection, ls.t.influences, ls.t.ruleoflaw, lip.t.reform
+core: chg.5.2, chg.5.4
+support: inv.3.1, inv.3.2, inv.5.4, inv.2.1, inv.2.2, chg.3, exp.4
+themes: chg.t.values, chg.t.justice
 criteria: responsiveness, rights, justice, ruleoflaw
 related: native-title-act-1993, wik-1996
 added: 2026-09-19

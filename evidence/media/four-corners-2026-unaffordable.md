@@ -7,7 +7,7 @@ date: 2026-07-13
 jurisdiction: Australia, with NSW findings
 significance: Almost half the NSW "affordable" listings analysed were not 20% below the local median — and some were priced above it.
 core: shel.3.1, shel.3.4
-support: shel.2.1, shel.2.4, shel.2.6, shel.2.8, shel.2.10, shel.3.3, shel.1.3, ls.4.2, ind.2.4, lip.2.3, hr.2.13, lip.1.2
+support: shel.2.1, shel.2.4, shel.2.6, shel.2.8, shel.2.10, shel.3.3, shel.1.3, chg.2, dis.3.3, exp.6, hr.2.13, chg.2.1
 themes: shel.t.effectiveness, shel.t.compliance, shel.t.reform, shel.t.values
 criteria: accessibility, enforceability, resource, responsiveness, justice
 document: Shelter/Unaffordable - LCMID Evidence Bank and Analysis.docx

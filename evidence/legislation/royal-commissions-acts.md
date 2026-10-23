@@ -6,9 +6,9 @@ citation: Royal Commissions Act 1923 (NSW); Royal Commissions Act 1902 (Cth); Sp
 date: 1902
 jurisdiction: NSW and Commonwealth
 significance: Give a royal commission power to compel witnesses, override privilege and hold public hearings — used for child sexual abuse, aged care, disability, Robodebt and NSW's "Ice" inquiry — producing only recommendations.
-core: ind.2.7
-support: ind.2.4, ls.4.1, ls.4.2, hr.2.4, hr.2.12, lip.1.3, lip.2.1, lip.2.3, fam.3.4, shel.2.4
-themes: ind.t.rights, ls.t.influences, ls.t.institutions, lip.t.reform
+core: dis.3.5, dis.3.6
+support: dis.3.3, chg.1, chg.2, hr.2.4, hr.2.12, dis.3.2, exp.5, exp.6, fam.3.4, shel.2.4
+themes: dis.t.justice, dis.t.values
 criteria: responsiveness, accessibility, resource, enforceability, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1923-029
 related: ombudsman-and-statutory-bodies, law-reform-conditions-agencies-mechanisms, icac-act-1988, ombudsman-act-1974, aged-care-act-2024, nsw-drug-summit-response-2025, child-protection-offenders-registration-act-2000, greta-bus-crash-reform-2026

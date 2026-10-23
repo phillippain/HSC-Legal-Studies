@@ -40,14 +40,14 @@ except FileNotFoundError:
 # ------------------------------------------------------------- the topics ----
 # Colour is carried by the topic within the HSC course, where four hues were
 # validated against each other; the Preliminary course is one further validated
-# hue and its three parts are told apart by their icons, because seven
+# hue and its four focus areas are told apart by their icons, because seven
 # categorical hues cannot be separated for colour-vision deficiency in one band.
 SLOT = {"crime": 1, "humanrights": 2, "family": 3, "shelter": 4,
-        "legalsystem": 5, "individual": 5, "lawinpractice": 5}
+        "investigating": 5, "disputes": 5, "changing": 5, "experiences": 5}
 ICON = {"crime": "g-scales", "humanrights": "g-globe", "family": "g-family",
-        "shelter": "g-shelter", "legalsystem": "g-columns", "individual": "g-person",
-        "lawinpractice": "g-target"}
-COURSE = {"preliminary": {"label": "Preliminary", "note": "Year 11 — the legal system, the individual, law in practice"},
+        "shelter": "g-shelter", "investigating": "g-columns", "disputes": "g-gavel",
+        "changing": "g-route", "experiences": "g-group"}
+COURSE = {"preliminary": {"label": "Preliminary", "note": "Year 11 (2025 syllabus) — investigating, disputes, changing, experiences"},
           "hsc": {"label": "HSC", "note": "Year 12 — the core, and the two options this school teaches"}}
 
 topics = []

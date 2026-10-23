@@ -7,7 +7,7 @@ date: 2026-05-17
 jurisdiction: NSW
 significance: An Aboriginal man is suing the State of NSW over 1700 pages of ignored reports, in a test of whether a department can outsource its duty of care with the placement.
 core: fam.3.4
-support: fam.1.5, fam.2.6, fam.2.7, hr.3.1, ind.2.3, ls.3.2, lip.1.1
+support: fam.1.5, fam.2.6, fam.2.7, hr.3.1, dis.2.5, inv.1.3, dis.2.3, exp.4
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform, fam.t.values
 criteria: enforceability, rights, accessibility, justice, resource
 document: Family/CPOC/When the system failed Marcus Article (SMH 17May26).pdf

@@ -7,7 +7,7 @@ date: 2002
 jurisdiction: NSW
 significance: Gives the owners of holiday vans and cabins kept on a park site — but not lived in — a written occupation agreement, limits on fee increases and NCAT access, so that "casual" occupants are no longer at the park's mercy.
 core: shel.2.4
-support: shel.1.2, shel.1.4, shel.2.2, shel.2.5, shel.2.6, shel.3.3, lip.2.3
+support: shel.1.2, shel.1.4, shel.2.2, shel.2.5, shel.2.6, shel.3.3, exp.6
 themes: shel.t.values, shel.t.effectiveness, shel.t.compliance
 criteria: rights, enforceability, accessibility, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2002-088

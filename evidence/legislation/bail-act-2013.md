@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Each bail reform has followed a case that outraged the public, and each has made bail harder to get.
 core: crime.2.5
-support: crime.5.2, crime.1.5, fam.3.4, hr.2.10
+support: crime.5.2, crime.1.5, fam.3.4, hr.2.10, exp.2.3
 themes: crime.t.reform, crime.t.balance, crime.t.discretion
 criteria: rights, responsiveness, justice, society
 document: Crime/Bail or Remand & the presumption of innocence.pdf

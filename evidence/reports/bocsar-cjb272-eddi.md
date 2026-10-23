@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Parliament created a drug diversion option and police discretion decided who got it — so where you were caught mattered more than what you had.
 core: crime.2.4
-support: crime.1.5, crime.4.6, crime.5.3
+support: crime.1.5, crime.4.6, crime.5.3, exp.2.3
 themes: crime.t.discretion, crime.t.effectiveness, crime.t.balance
 criteria: justice, accessibility, resource, rights
 document: Crime/12LS Application in Action - Drug diversion.pdf

@@ -7,7 +7,7 @@ date: 2025-03
 jurisdiction: Supreme Court of NSW
 significance: A lawyer who stored boxes in an empty Rozelle house from 2011, left the broken window unrepaired and claimed the owner's permission could not win adverse possession — possession must be residential, open and unconsented.
 core: shel.2.4, shel.1.4, shel.2.1
-support: shel.2.6, shel.1.1, shel.3.3, ls.2.1, ls.3.2, ind.2.3, lip.1.4
+support: shel.2.6, shel.1.1, shel.3.3, inv.3.1, inv.3.2, inv.1.3, dis.2.3, dis.2.5, dis.1.8, dis.2.8
 themes: shel.t.compliance, shel.t.values, shel.t.effectiveness
 criteria: enforceability, justice, rights, ruleoflaw
 document: Shelter/Adverse Possession - The lawyer who lost a squatter’s rights fight over a Rozelle home.pdf

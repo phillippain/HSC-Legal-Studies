@@ -7,8 +7,8 @@ date: 2026-07-21
 jurisdiction: Administrative Review Tribunal — General Member S Hoffman
 significance: A rule that operates in one direction only — late tax returns can raise a child support assessment retrospectively, but cannot lower it.
 core: fam.1.5
-support: fam.2.3, fam.2.5, ind.2.6, ind.2.7, lip.2.1, ls.3.1, ind.2.5
-themes: fam.t.compliance, fam.t.effectiveness, ind.t.effectiveness, ls.t.institutions
+support: fam.2.3, fam.2.5, dis.3.4, dis.3.5, dis.3.6, exp.5, inv.1.3, dis.3.1
+themes: fam.t.compliance, fam.t.effectiveness, dis.t.effectiveness, dis.t.justice
 criteria: enforceability, accessibility, ruleoflaw, justice
 document: Cases/Family/Devine and Kitson 2026 ARTA 1944 - Case Summary.pdf
 related: glancey-glancey-2026, palgrave-blackwall-2026

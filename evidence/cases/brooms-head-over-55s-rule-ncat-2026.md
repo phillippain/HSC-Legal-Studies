@@ -7,7 +7,7 @@ date: 2026-10-12
 jurisdiction: NSW Civil and Administrative Tribunal; Clarence Valley Council as operator of a Crown land park
 significance: A council could not bar under-55s from a residential park by rewriting the community rules — s 86 of the land lease Act requires rules to be fair and reasonable, and NCAT found no coherent purpose for this one.
 core: shel.2.4, shel.2.6, shel.2.3
-support: shel.2.5, shel.2.8, shel.2.10, shel.1.4, shel.3.1, shel.3.2, ind.2.3, ls.2.5, lip.1.1, lip.2.1, lip.2.3
+support: shel.2.5, shel.2.8, shel.2.10, shel.1.4, shel.3.1, shel.3.2, dis.2.5, inv.3.4, exp.4, exp.5, exp.6
 themes: shel.t.effectiveness, shel.t.compliance, shel.t.cooperation, shel.t.values
 criteria: accessibility, enforceability, rights, justice, responsiveness
 document: Shelter/Evidence Sheets/Evidence Sheet - Brooms Head over-55s rule set aside by NCAT (22Oct26 v2).pdf

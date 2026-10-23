@@ -7,7 +7,7 @@ date: 2025
 jurisdiction: Commonwealth and NSW
 significance: Parenting moved from rights to responsibilities in the Commonwealth statute, while the enforcement that matters sits with under-resourced state departments.
 core: fam.3.4, fam.3.2
-support: fam.1.5, fam.2.2, fam.2.4, fam.2.6, fam.1.2, hr.3.1, ls.2.6, lip.2.3
+support: fam.1.5, fam.2.2, fam.2.4, fam.2.6, fam.1.2, hr.3.1, inv.5.1, inv.5.2, exp.6
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness, fam.t.compliance
 criteria: responsiveness, rights, enforceability, resource, society, justice
 document: Family/CPOC/Care_Protection_Children_Notes.pdf

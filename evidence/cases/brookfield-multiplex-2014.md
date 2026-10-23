@@ -7,7 +7,7 @@ date: 2014-10-08
 jurisdiction: High Court of Australia
 significance: No duty of care for defects in a serviced-apartment building — the gap that made s 37 necessary.
 core: shel.2.1
-support: shel.2.5, shel.1.3, ls.3.2, ls.2.1
+support: shel.2.5, shel.1.3, inv.1.3, dis.2.3, inv.3.1, inv.3.2
 themes: shel.t.effectiveness, shel.t.reform
 criteria: rights, enforceability, justice
 related: design-building-practitioners-act-2020, pafburn-2024

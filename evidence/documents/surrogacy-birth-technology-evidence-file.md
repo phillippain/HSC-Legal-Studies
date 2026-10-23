@@ -7,8 +7,8 @@ date: 2026
 jurisdiction: NSW, Commonwealth and international
 significance: Eight state and territory frameworks, one federal parentage provision, and a child's right to identity that no Australian court can enforce directly.
 core: fam.3.3, fam.1.5
-support: fam.1.4, fam.3.1, fam.3.2, fam.1.6, hr.2.7, hr.1.3, ls.2.6, ls.2.14, ind.3.2, ind.3.4
-themes: fam.t.values, fam.t.reform, ind.t.technology, hr.t.compliance, ls.t.institutions
+support: fam.1.4, fam.3.1, fam.3.2, fam.1.6, hr.2.7, hr.1.3, inv.5.1, inv.5.2, inv.6.3, inv.7.2, chg.1.3, chg.6.1, chg.6
+themes: fam.t.values, fam.t.reform, inv.t.values, hr.t.compliance, inv.t.justice
 criteria: accessibility, responsiveness, rights, enforceability, justice
 document: Family/Surrogacy and Birth Tech/Surrogacy_Birth_Technology_Evidence_File (2).docx
 related: smh-2026-surrogacy-baby-broker, daniels-rooney-2026, wilkerson-croxford-2026, croc-1989

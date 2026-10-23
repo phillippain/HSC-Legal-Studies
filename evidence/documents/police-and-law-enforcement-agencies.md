@@ -6,9 +6,9 @@ citation: Preliminary Part II reference note
 date: 2026
 jurisdiction: NSW and Commonwealth
 significance: Policing is a state responsibility, federal agencies handle crime that crosses a border, and the only external check on NSW police conduct is a commission with no power to prosecute.
-core: ind.2.1
-support: ind.2.7, ind.2.5, crime.2.1, crime.2.3, crime.6.2, ls.2.6, ls.3.1, lip.1.3
-themes: ls.t.institutions, ls.t.ruleoflaw, crime.t.discretion
+core: dis.3.2
+support: dis.3.5, dis.3.6, dis.3.4, crime.2.1, crime.2.3, crime.6.2, inv.5.1, inv.5.2, inv.1.3, dis.3.1
+themes: dis.t.justice, crime.t.discretion
 criteria: enforceability, rights, ruleoflaw, resource, accessibility
 related: detention-and-interrogation-rights, r-v-rondo-2001, ombudsman-and-statutory-bodies
 added: 2026-09-20

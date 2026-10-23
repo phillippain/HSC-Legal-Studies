@@ -7,7 +7,7 @@ date: 2026-06-02
 jurisdiction: NSW
 significance: Three rounds of law in twelve months turned hate speech, terror symbols and luring into crimes, and one part was struck down by the Court of Appeal.
 core: crime.1.5
-support: crime.1.1, crime.1.2, crime.2.1, hr.2.10, hr.3.1, ls.4.1, ls.2.6
+support: crime.1.1, crime.1.2, crime.2.1, hr.2.10, hr.3.1, chg.1, inv.5.1, inv.5.2
 themes: crime.t.reform, crime.t.balance, crime.t.moral
 criteria: rights, responsiveness, ruleoflaw, society
 source: https://www.nsw.gov.au/ministerial-releases/stronger-protections-for-lgbtqia-community-pass-parliament

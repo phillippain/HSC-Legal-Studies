@@ -7,7 +7,7 @@ date: 2024-12
 jurisdiction: NSW
 significance: The tenant advice sector is paid for out of interest on renters' own bonds, and that funding now buys 12.5 minutes of help per bond, down from 20 in 2008.
 core: shel.2.9
-support: shel.2.5, shel.2.6, shel.2.2, shel.2.3, shel.3.1, ls.1.5, ind.2.4, lip.2.2
+support: shel.2.5, shel.2.6, shel.2.2, shel.2.3, shel.3.1, inv.1.4, dis.3.3, exp.5.5
 themes: shel.t.effectiveness, shel.t.cooperation, shel.t.values
 criteria: accessibility, resource, rights, justice, responsiveness
 document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx

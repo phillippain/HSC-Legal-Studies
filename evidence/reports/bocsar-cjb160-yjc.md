@@ -7,7 +7,7 @@ date: 2012-02-01
 jurisdiction: NSW
 significance: Matched young people sent to a conference were no less likely to reoffend than those dealt with in the Children's Court.
 core: crime.5.5
-support: crime.4.7, crime.5.4
+support: crime.4.7, crime.5.4, exp.2.4
 themes: crime.t.effectiveness
 criteria: society, resource, justice
 source: https://bocsar.nsw.gov.au/research-evaluations/2012/cjb160-youth-justice-conferences-versus-childrens-court-a-comparison-of-re-offending.html

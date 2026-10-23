@@ -7,7 +7,7 @@ date: 2001
 jurisdiction: NSW
 significance: The Act that constitutes the NSW Land and Housing Corporation and sets public housing's objects — a statutory landlord and policy framework, not an entitlement anyone can enforce.
 core: shel.3.4, shel.1.3, shel.2.8
-support: shel.1.2, shel.3.3, shel.3.2, shel.2.2, shel.2.9, ls.2.4, lip.2.3
+support: shel.1.2, shel.3.3, shel.3.2, shel.2.2, shel.2.9, inv.3.3, inv.4.4, exp.6
 themes: shel.t.values, shel.t.effectiveness, shel.t.reform
 criteria: resource, accessibility, responsiveness, rights, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2001-052

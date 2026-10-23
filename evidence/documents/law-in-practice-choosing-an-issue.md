@@ -6,9 +6,9 @@ citation: Preliminary Part III reference note, worked against the evidence in th
 date: 2026
 jurisdiction: Australia
 significance: Part III is not a topic but a method — pick an issue where the law is contested, then show what legal and non-legal responses have actually done about it.
-core: lip.1.1, lip.1.2, lip.1.3, lip.1.4, lip.1.5
-support: lip.2.1, lip.2.2, lip.2.3, ls.4.1, ls.4.2, ind.2.4, hr.3.1
-themes: ls.t.reflection, ls.t.influences, ls.t.need
+core: exp.4, chg.2.1, dis.3.2, dis.1.8, dis.2.8, inv.6.2
+support: exp.5, exp.5.5, exp.6, chg.1, chg.2, dis.3.3, hr.3.1
+themes: exp.t.values, exp.t.justice
 criteria: society, rights, justice, responsiveness, accessibility
 related: law-in-practice-responses-and-effectiveness, law-reform-conditions-agencies-mechanisms
 added: 2026-09-20

@@ -7,7 +7,7 @@ date: 2026-08-20
 jurisdiction: International
 significance: In eighteen months the ICC had half its judges under US sanctions, lost its Prosecutor to a misconduct finding and received four withdrawal notices, and still held 125 states parties.
 core: crime.6.2
-support: hr.2.4, hr.3.1, ls.2.12
+support: hr.2.4, hr.3.1, inv.6.1
 themes: crime.t.compliance, crime.t.effectiveness, hr.t.sovereignty
 criteria: enforceability, ruleoflaw, justice, responsiveness
 source: https://www.justsecurity.org/
