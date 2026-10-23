@@ -6,9 +6,9 @@ citation: [2026] NSWCATAP 214
 date: 2026-07-07
 jurisdiction: NCAT Appeal Panel (NSW), Sarginson DP
 significance: An 87-year-old social housing tenant could not undo a consent termination, but her age and 22 years in the home won her time to leave.
-core: shel.3.4, shel.2.2
-support: shel.2.3, shel.2.5, shel.2.6, shel.2.7, shel.3.1, shel.3.3
-themes: shel.t.compliance, shel.t.effectiveness, shel.t.cooperation
+core: shel.3.4, shel.2.2, dis.2.5, dis.2.7
+support: shel.2.3, shel.2.5, shel.2.6, shel.2.7, shel.3.1, shel.3.3, dis.2.8, inv.7.1
+themes: shel.t.compliance, shel.t.effectiveness, shel.t.cooperation, dis.t.justice, dis.t.effectiveness
 criteria: accessibility, responsiveness, rights, justice
 document: Cases/Shelter/Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf
 source: https://www.caselaw.nsw.gov.au/

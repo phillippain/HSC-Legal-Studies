@@ -28,12 +28,12 @@ circumstances**, but at a minimum a person must know the substance of what is sa
 
 ## Use it for
 
-- **Procedural fairness** (`ls.1.6`), which the syllabus asks about directly and which most answers
+- **Procedural fairness** (`inv.1.6`), which the syllabus asks about directly and which most answers
   can only define. This is the case that makes it a legal rule rather than a principle.
 - The **two rules stated separately**: no one may be a judge in their own cause (*nemo iudex*), and
   both sides must be heard (*audi alteram partem*). Naming them, then showing the hearing rule
   operating on an adverse report, is the difference between a definition and an application.
-- **Administrative review** (`ind.2.5`, `ind.2.6`) — procedural fairness is the main ground on which
+- **Administrative review** (`dis.3.4`, `dis.3.4`) — procedural fairness is the main ground on which
   a government decision is judicially reviewed, so this case sits underneath the whole external
   review topic.
 - As a contrast to **custody safeguards** in Crime: the same idea — you must be told what is alleged

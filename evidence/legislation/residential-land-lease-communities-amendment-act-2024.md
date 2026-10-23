@@ -41,7 +41,7 @@ meeting National Energy Rules standards. The remaining **27 recommendations** we
 
 - **shel.2.4** — the only current, specific evidence on the land-lease tenure; most students know
   only caravan parks. The Brooms Head NCAT record shows the same Act applied to an over-55s rule.
-- **shel.2.9 / ls.4.1 (agencies of reform)** — "the result of many years of advocacy and law reform
+- **shel.2.9 / chg.1 (agencies of reform)** — "the result of many years of advocacy and law reform
   engagement by residents and supporters": a statutory review, an NGO campaign, then an Act — the
   textbook reform pathway, delivered in instalments.
 - **shel.2.5** — NCAT's role in site-fee disputes and the 2018–20 electricity cases that drove the

@@ -6,9 +6,9 @@ citation: "[2026] FedCFamC2F 830"
 date: 2026-07-01
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Judge Turnbull
 significance: A judge refused to accept what both parties had agreed because the self-represented wife did not understand it — 55.5/44.5 of $947,735, an equal super split, and a first option on the home.
-core: fam.2.3
-support: fam.2.4, fam.1.3, fam.2.5, shel.2.1, shel.3.1, shel.3.3
-themes: fam.t.values, fam.t.reform, fam.t.effectiveness, fam.t.compliance
+core: fam.2.3, dis.2.8, dis.2.5
+support: fam.2.4, fam.1.3, fam.2.5, shel.2.1, shel.3.1, shel.3.3, inv.1.4, dis.2.7
+themes: fam.t.values, fam.t.reform, fam.t.effectiveness, fam.t.compliance, dis.t.justice
 criteria: justice, rights, accessibility, resource
 document: Cases/Family/Daalman & Daalman (No 2) [2026] FedCFamC2F 830 - Case Summary.pdf
 related: olmstead-olmstead-2026, connor-cosgrove-no2-2018, family-law-amendment-act-2023

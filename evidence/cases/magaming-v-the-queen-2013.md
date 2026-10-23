@@ -6,9 +6,9 @@ citation: [2013] HCA 40 (High Court of Australia, 11 October 2013)
 date: 2013-10-11
 jurisdiction: High Court of Australia
 significance: A prosecutor's choice between people smuggling charges does not fix the sentence in a way that breaches Chapter III, so the five-year mandatory minimum for an Indonesian crew member stood.
-core: crime.6.1, crime.4.1
-support: crime.6.2, crime.4.2, crime.2.3, crime.3.1, hr.3.1
-themes: crime.t.discretion, crime.t.balance, crime.t.effectiveness
+core: crime.6.1, crime.4.1, inv.5.3, inv.5.4
+support: crime.6.2, crime.4.2, crime.2.3, crime.3.1, hr.3.1, dis.1.7, inv.4.5
+themes: crime.t.discretion, crime.t.balance, crime.t.effectiveness, inv.t.justice
 criteria: ruleoflaw, justice, rights, enforceability
 document: Cases/Crime/Magaming v The Queen [2013] HCA 40 - Case Summary.pdf
 related: criminal-code-cth-transnational-offences, crimes-sentencing-procedure-act-1999

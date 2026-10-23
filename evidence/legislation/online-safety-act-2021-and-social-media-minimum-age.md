@@ -54,11 +54,11 @@ Commonwealth), a civil **takedown** regulator for content (eSafety, since 2015),
 
 ## Use it for
 
-- **ind.3.2** — the regulatory model: a Commissioner with takedown powers over foreign platforms,
+- **chg.1.3 / chg.6.1** — the regulatory model: a Commissioner with takedown powers over foreign platforms,
   and the enforceability question (*X Corp*).
-- **ind.3.4 / ls.4.1** — the minimum-age law as reform driven by media campaign and parental
+- **chg.6 / chg.1** — the minimum-age law as reform driven by media campaign and parental
   pressure, against expert division; the 2026 "digital duty of care" bill is the next step.
-- **ind.1.2 / hr.2.9** — balancing children's protection against their rights to information and
+- **inv.7.1 / hr.2.9** — balancing children's protection against their rights to information and
   participation (CROC).
 - **crime.6.1** — cybercrime as a transnational crime; the UNTOC/cybercrime record for the
   international side.

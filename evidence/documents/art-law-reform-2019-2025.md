@@ -38,12 +38,12 @@ rewards **naming an instrument and a date** rather than saying the law lags behi
   back **50 years**, are the clearest evidence that the law now treats the **donor-conceived
   person's** interest as outweighing donor anonymity. That is a changing-values argument with a
   statute attached, and it pairs with *Masson v Parsons* on what a donor is.
-- **ls.4.1 / ls.4.3 (conditions and mechanisms of reform)** — technology as the condition, and three
+- **chg.1 / chg.3 (conditions and mechanisms of reform)** — technology as the condition, and three
   different mechanisms visible at once: state Parliaments legislating, a **ministerial expert panel**
   reviewing, and the Commonwealth moving by **changing a definition** rather than passing an Act.
 - **Access as a measure of effectiveness** — the Medicare redefinition shows a rule that excluded
   people by defining the problem narrowly, and the fix being definitional.
-- **ls.2.6 (division of powers)** — ART is state-regulated, Medicare and mitochondrial donation are
+- **inv.5.1 / inv.5.2 (division of powers)** — ART is state-regulated, Medicare and mitochondrial donation are
   Commonwealth. Same field, two legislatures, and the patchwork that follows.
 
 ## Caution

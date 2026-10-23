@@ -33,7 +33,7 @@ to have a baby pre-transition I wouldn't have gotten the rebate, that doesn't se
 
 - **Reform by definition rather than by statute.** No Act was amended; a clinical definition inside a
   benefits schedule was rewritten, and access changed for a whole class of people. It is a precise
-  example of how much law sits below the level of legislation (`ls.2.5`, `ls.4.3`).
+  example of how much law sits below the level of legislation (`inv.3.4`, `chg.3`).
 - **Changing community values** (`fam.t.values`) — the law catching up with who is understood to be a
   family, and doing it through the health system.
 - **The gap that remains**: the exclusion of surrogacy means the reform equalises access for those who

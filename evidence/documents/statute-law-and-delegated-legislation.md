@@ -2,7 +2,7 @@
 type: document
 title: Statute law and delegated legislation — how a law is made
 short: Statute law and delegated legislation
-citation: Preliminary Part II reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part II
 date: 2026
 jurisdiction: NSW and Commonwealth
 significance: Most law that affects people day to day is not made by parliament but under authority parliament handed over, and scrutinised only if someone notices.
@@ -42,7 +42,7 @@ The controls are real but thin:
 ## Use it for
 
 - **Volume versus visibility**: delegated legislation makes up the great majority of law made each
-  year, and almost none of it is debated. That single comparison answers most questions on `ls.2.5`.
+  year, and almost none of it is debated. That single comparison answers most questions on `inv.3.4`.
 - **Responsiveness versus the rule of law** — the trade is speed and expertise against law made by
   people no one elected, reviewed only if a committee or a litigant raises it.
 - Concrete instances elsewhere in this finder: rental law detail carried in regulations after the

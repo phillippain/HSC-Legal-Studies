@@ -41,9 +41,9 @@ identifying family law material.
 
 - **fam.2.5 (courts)** — confidentiality as a condition of a family court's effectiveness: victims of
   family violence give evidence on the assumption it stays private.
-- **ind.3.2 (technology)** — outsourcing and offshore data handling; the *Privacy Act* and
+- **chg.1.3 / chg.6.1 (technology)** — outsourcing and offshore data handling; the *Privacy Act* and
   whistleblower protections tested.
-- **ls.2.7** — who holds a court to account when it runs its own administration.
+- **inv.5.3** — who holds a court to account when it runs its own administration.
 
 ## Caution
 

@@ -33,5 +33,5 @@ travel to Sydney because even blood test results are slow in the bush.
   inheritance all sit with the wrong person for a year.
 - **Accessibility as geography** — regional access to ART is a resource question the syllabus criteria
   ask about, and this is a concrete instance.
-- **Reform in motion**: a parliamentary inquiry is an agency of reform (`ls.4.2`) with a named
+- **Reform in motion**: a parliamentary inquiry is an agency of reform (`chg.2`) with a named
   subject, so it pairs with the law reform record rather than sitting alone.

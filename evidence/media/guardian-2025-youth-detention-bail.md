@@ -53,10 +53,10 @@ extension but "it's not actually going to change the long-term outcomes."
 - **crime.5.4 / crime.5.1 (penalties for children, age of responsibility)** — most of these children
   are **unsentenced**. An answer that treats youth detention as punishment misses that remand is the
   larger part of it.
-- **Law reform as signalling (ls.4.1)** — Fitzgerald's point that a narrow amendment moved decisions
+- **Law reform as signalling (chg.1)** — Fitzgerald's point that a narrow amendment moved decisions
   across unrelated offences is a sophisticated, quotable argument about how law reform actually
   works on discretion. Far better than "the law was changed and numbers went up".
-- **Evaluating effectiveness (lip.2.3)** — punitive and diversionary responses running at once, with
+- **Evaluating effectiveness (exp.6)** — punitive and diversionary responses running at once, with
   $2m for diversion against an extension of the bail restrictions to 2028, and a former police
   administrator saying the punitive half will not change outcomes.
 - **Aboriginal over-representation** — 129 of 225. Pair with circle sentencing, the Aboriginal-run

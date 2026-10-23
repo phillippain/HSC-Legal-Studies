@@ -6,9 +6,9 @@ citation: "[2026] FedCFamC1F 389"
 date: 2026-06-11
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1), Hartnett J
 significance: A co-mother declared a legal parent on function and intention, not on a birth certificate she was deliberately left off.
-core: fam.1.5, fam.3.1, fam.3.3
-support: fam.1.4, fam.2.2, fam.3.2, fam.3.4, shel.3.3, hr.2.7
-themes: fam.t.values, fam.t.effectiveness, fam.t.reform, shel.t.values
+core: fam.1.5, fam.3.1, fam.3.3, dis.2.8, inv.1.4
+support: fam.1.4, fam.2.2, fam.3.2, fam.3.4, shel.3.3, hr.2.7, dis.2.5, exp.1.1, chg.1.1
+themes: fam.t.values, fam.t.effectiveness, fam.t.reform, shel.t.values, dis.t.values, dis.t.justice
 criteria: rights, responsiveness, society, justice
 document: Cases/Family/12LS_Ashtoreth_and_Valeria_case_study_card.pdf
 related: wilkerson-croxford-2026, daniels-rooney-2026

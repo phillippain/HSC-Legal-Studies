@@ -41,7 +41,7 @@ exposed exit-fee practices in one major operator's villages.
   reform history shows how vulnerable residents and complex contracts combine.
 - **shel.1.4** — "ownership" in a village may be a lease or licence: what the resident has bought is
   a right, not a title.
-- **shel.2.10 / ls.4.2** — media investigation → inquiry → amendment Act in four years: a clean
+- **shel.2.10 / chg.2** — media investigation → inquiry → amendment Act in four years: a clean
   reform chain.
 - **Evaluation** — the 6/12-month buy-back is enforceable and specific; compare the Commonwealth's
   rights-based but harder-to-enforce *Aged Care Act 2024*.

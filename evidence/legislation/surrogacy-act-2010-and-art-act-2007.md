@@ -49,10 +49,10 @@ Commonwealth *Family Law Act* s 60H mirrors them for parenting orders.
   court order, donor identification.
 - **fam.1.5 / fam.3.2** — legal parentage as a status conferred by statute, not biology (*Farnell
   v Chanbua*, the Baby Gammy case, is the cautionary example of commercial surrogacy abroad).
-- **ls.4.1 / ls.4.2** — the 2025 NSW parliamentary inquiry into surrogacy and the proposals to
+- **chg.1 / chg.2** — the 2025 NSW parliamentary inquiry into surrogacy and the proposals to
   lift the extraterritorial ban or allow regulated compensation; the 2026 "baby broker" record is
   the enforcement story.
-- **lip.2.3** — an unenforced extraterritorial offence (no NSW prosecution to date) as a test of
+- **exp.6** — an unenforced extraterritorial offence (no NSW prosecution to date) as a test of
   enforceability.
 
 ## Caution

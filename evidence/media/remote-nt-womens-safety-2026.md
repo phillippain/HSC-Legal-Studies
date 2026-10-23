@@ -50,13 +50,13 @@ fighting slows response further. A DVO then assumes somewhere safe to be while i
   researching and publishing their own findings, then using them to lobby two governments. The 2026
   national First Nations plan *Our Ways – Strong Ways – Our Voices* (2026–2036) funds up to 40
   community-controlled organisations and endorses exactly this model.
-- **ls.4.1 / ls.4.2 (conditions and agencies of reform)** — a **coronial inquest** as a reform
+- **chg.1 / chg.2 (conditions and agencies of reform)** — a **coronial inquest** as a reform
   agency: Coroner Elisabeth Armitage's November 2024 findings into four Aboriginal women's deaths made
   **35 recommendations**, including more safe house beds and men's programs. NT supported 21,
   accepted 11 only "in principle" and rejected three, including a DFSV peak body. The ALRC's
   *Pathways to Justice* (2017) Rec 11-2 had already called for police training in prompt family
   violence response in Aboriginal communities.
-- **Access to justice (ls.1.5)** — distance, not eligibility, is the barrier. Closing the Gap Target
+- **Access to justice (inv.1.4)** — distance, not eligibility, is the barrier. Closing the Gap Target
   13 seeks a 50% cut in family violence by 2031.
 - **Federalism** — the two governments blame each other: the Commonwealth says it funds Wadeye
   services including the safe house; the NT points to a record $36m a year while its own budget fell.

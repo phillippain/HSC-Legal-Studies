@@ -6,9 +6,9 @@ citation: "[2025] ARTA 3315"
 date: 2025-11-18
 jurisdiction: Administrative Review Tribunal — General Member S Hoffman
 significance: $409.38 of school fees credited as child support even though the other parent refused to agree — s 71C works on arithmetic, not consent.
-core: fam.1.5, fam.3.2
-support: fam.2.2, fam.2.5, fam.2.4, shel.3.1, shel.1.1, hr.3.1
-themes: fam.t.compliance, fam.t.cooperation, fam.t.effectiveness, fam.t.reform
+core: fam.1.5, fam.3.2, dis.3.4, dis.3.1
+support: fam.2.2, fam.2.5, fam.2.4, shel.3.1, shel.1.1, hr.3.1, dis.3.8
+themes: fam.t.compliance, fam.t.cooperation, fam.t.effectiveness, fam.t.reform, dis.t.justice, dis.t.effectiveness
 criteria: accessibility, enforceability, justice, resource, rights
 document: Cases/Family/Copeland and Masters [2025] ARTA 3315 - Case Summary.pdf
 related: brigham-hibler-2026, swynnerton-swynnerton-2026, three-child-support-reviews-2026

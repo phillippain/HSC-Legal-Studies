@@ -51,7 +51,7 @@ statutes do the work.
   move-on) that the *Protocol for Homeless People in Public Places* is meant to soften.
 - **shel.1.4** — the legal nature of shelter as **exclusion**: ownership is largely the right to
   keep others out, and these Acts are how the state enforces that right.
-- **lip.2.1** — property rights v the need for shelter, in the plainest form.
+- **exp.5** — property rights v the need for shelter, in the plainest form.
 
 ## Caution
 

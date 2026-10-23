@@ -30,11 +30,11 @@ did.
 
 ## Use it for
 
-- **Inconsistency and the division of powers** (`ls.2.6`) — a clean modern illustration of a federal
+- **Inconsistency and the division of powers** (`inv.5.1 / inv.5.2`) — a clean modern illustration of a federal
   law covering the field, with real human consequences attached (marriages valid one week, void the
   next).
 - **Same-sex relationships** (`fam.3.1`) — the case is the hinge between the 2004 amendment defining
   marriage as between a man and a woman and the 2017 amendment removing that definition. It shows the
   courts clearing a constitutional path and leaving the moral choice to Parliament.
-- **Mechanisms of law reform** (`ls.4.3`): the High Court settled *who could act*; a non-binding
+- **Mechanisms of law reform** (`chg.3`): the High Court settled *who could act*; a non-binding
   national vote settled *whether they would*. Two different mechanisms, sequentially, on one issue.

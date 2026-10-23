@@ -6,9 +6,9 @@ citation: (1959) 101 CLR 209; [1959] HCA 45
 date: 1959-09-07
 jurisdiction: High Court of Australia
 significance: A deed calling itself a licence created a lease because it gave exclusive possession for a term, so the label cannot defeat tenant protections.
-core: shel.2.2
-support: shel.2.3, shel.2.6
-themes: shel.t.compliance, shel.t.effectiveness
+core: shel.2.2, dis.2.3, inv.3.2
+support: shel.2.3, shel.2.6, inv.3.1, dis.2.8
+themes: shel.t.compliance, shel.t.effectiveness, dis.t.justice
 criteria: rights, ruleoflaw, justice
 document: Cases/Shelter/Radaich v Smith (1959) 101 CLR 209 - Case Summary.pdf
 source: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1959/45.html

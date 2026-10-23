@@ -6,9 +6,9 @@ citation: [2020] HCA 1 (High Court of Australia, joint judgment, 5 February 2020
 date: 2020-02-05
 jurisdiction: High Court of Australia
 significance: Section 138 applies to private as well as police illegality, and difficulty in getting evidence lawfully does not favour admitting evidence got in deliberate defiance of the law.
-core: crime.2.3
-support: crime.2.1, crime.3.1, hr.3.1
-themes: crime.t.balance, crime.t.compliance, crime.t.moral
+core: crime.2.3, dis.1.5, dis.1.8
+support: crime.2.1, crime.3.1, hr.3.1, inv.3.2, inv.1.7
+themes: crime.t.balance, crime.t.compliance, crime.t.moral, dis.t.justice
 criteria: ruleoflaw, justice, rights, society
 document: Cases/Crime/Kadir v The Queen; Grech v The Queen [2020] HCA 1 - Case Summary.pdf
 related: evidence-act-1995, ridgeway-v-the-queen-1995

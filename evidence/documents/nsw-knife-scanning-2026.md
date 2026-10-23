@@ -48,15 +48,15 @@ One legal commentary reports 308 weapons rather than 380.
 - **crime.1.9 / crime.2.3** — situational crime prevention measured by detection, not deterrence.
   Griffith University's review of Queensland's *Jack's Law*, the model for the NSW scheme, found
   wanding may aid detection but found **no evidence it deters carrying or reduces violent crime**.
-- **ls.4.1 / ls.4.3 (law reform)** — a tidy reform sequence: the 2024 Bondi Junction attack, the
+- **chg.1 / chg.3 (law reform)** — a tidy reform sequence: the 2024 Bondi Junction attack, the
   2024 Act, a DCJ statutory review reporting 23 June 2026, a coronial recommendation in February
   2026 to monitor the trial, then permanence. Useful for whether reform followed the evidence or the
   event.
-- **Rights and the rule of law (ls.1.6, ls.1.7)** — declarations cannot be challenged, the threshold
+- **Rights and the rule of law (inv.1.6, inv.1.7)** — declarations cannot be challenged, the threshold
   is unchanged, and as at September 2025 NSW Police did not record demographic data on who was
   scanned, so discriminatory impact cannot be measured. The ALS and the Justice and Equity Centre
   argue the risk falls on Aboriginal people and young people.
-- **lip.2.3 (evaluating responses)** — set the seizure figures against the sub-1% hit rate and the
+- **exp.6 (evaluating responses)** — set the seizure figures against the sub-1% hit rate and the
   absent crime-trend evidence.
 
 ## Caution

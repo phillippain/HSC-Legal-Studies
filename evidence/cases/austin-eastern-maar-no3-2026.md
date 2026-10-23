@@ -50,4 +50,4 @@ abandonment is not**.
   it rather than the usual assertion that claims are slow and expensive.
 - **The burden of proof falls on the claimants**, and the "substantially uninterrupted" requirement
   asks them to prove continuity through the very dispossession the law is meant to answer. That is
-  the strongest critical point available at ls.5.
+  the strongest critical point available at chg.5.

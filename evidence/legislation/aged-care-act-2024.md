@@ -40,7 +40,7 @@ commencement was deferred from 1 July 2025 to **1 November 2025**.
   **rights-based** law: the Statement of Rights is enforceable through complaints, not the courts.
 - **shel.3.2 (older people)** — the Royal Commission's evidence of neglect is the discrimination
   dot point's hardest material; the Act is the legal response.
-- **ls.4.1** — reform driven by a Royal Commission and media (*Four Corners*, 2018), and delayed
+- **chg.1** — reform driven by a Royal Commission and media (*Four Corners*, 2018), and delayed
   by the scale of change: responsiveness measured in years.
 - **shel.1.3** — the obligation to provide shelter for people who cannot provide it themselves,
   funded by the Commonwealth and delivered by (mostly) private and not-for-profit providers.

@@ -6,9 +6,9 @@ citation: [2007] HCA 33 (High Court of Australia, 2 August 2007)
 date: 2007-08-02
 jurisdiction: High Court of Australia
 significance: Division 104 control orders are valid: Parliament may restrain a person to prevent a terrorist act, and a court can issue the order without breaching Chapter III.
-core: crime.6.2, crime.1.5
-support: crime.6.1, crime.2.1, crime.3.1, hr.3.1, hr.2.9
-themes: crime.t.balance, crime.t.reform, crime.t.effectiveness
+core: crime.6.2, crime.1.5, inv.5.2, inv.5.3, inv.5.4
+support: crime.6.1, crime.2.1, crime.3.1, hr.3.1, hr.2.9, inv.7.4, dis.1.1
+themes: crime.t.balance, crime.t.reform, crime.t.effectiveness, inv.t.justice
 criteria: rights, ruleoflaw, enforceability, society
 document: Cases/Crime/Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf
 related: r-v-lodhi-2006, terrorism-police-powers-act-2002, criminal-code-cth-transnational-offences

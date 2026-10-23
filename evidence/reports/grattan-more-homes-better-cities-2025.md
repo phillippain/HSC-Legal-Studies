@@ -49,7 +49,7 @@ existing residents and is biased against change".
 - **shel.2.8 / nsw-planning-law-shelter-sheet** — planning law as a *legal* mechanism that shapes
   shelter: zoning under the *Environmental Planning and Assessment Act 1979* (NSW) and the state's
   2024–25 low- and mid-rise reforms are what Grattan is assessing.
-- **shel.2.9 / shel.2.10 / ls.4.2** — a think tank as an agency of reform, releasing a briefing pack and
+- **shel.2.9 / shel.2.10 / chg.2** — a think tank as an agency of reform, releasing a briefing pack and
   data designed for media and parliamentary use.
 - **Evaluation** — a clear benchmark: has NSW's upzoning gone far enough? Grattan says no.
 

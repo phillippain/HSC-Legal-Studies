@@ -2,7 +2,7 @@
 type: document
 title: Non-legal methods in disputes with the state — media, MPs, unions, interest groups and NGOs
 short: Non-legal methods against the state
-citation: Preliminary Part II reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part II
 date: 2026
 jurisdiction: Australia
 significance: When a person has no standing, no money and no remedy, the routes that remain are political and public — and they are often the ones that work.

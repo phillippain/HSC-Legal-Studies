@@ -55,12 +55,12 @@ and sends it back.
 
 ## Use it for
 
-- **ind.2.6 (external review)** — the merits/judicial distinction with the right body for each,
+- **dis.3.4 (external review)** — the merits/judicial distinction with the right body for each,
   and the 2024 reform as the current story.
-- **ind.2.5 (internal review)** — the mandatory first step before the ART in most schemes.
-- **ls.2.7 / ls.2.8** — a tribunal is not a court (Chapter III); why the ART cannot decide
+- **dis.3.4 (internal review)** — the mandatory first step before the ART in most schemes.
+- **inv.5.3 / inv.5.4** — a tribunal is not a court (Chapter III); why the ART cannot decide
   questions of law finally, and why s 75(v) matters.
-- **ind.3.3** — accessibility: free and informal, but a 2024 backlog of tens of thousands of
+- **chg.6.5** — accessibility: free and informal, but a 2024 backlog of tens of thousands of
   migration cases inherited from the AAT.
 
 ## Caution

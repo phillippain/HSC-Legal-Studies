@@ -33,12 +33,12 @@ executive's purpose.
 
 ## Use it for
 
-- **Separation of powers** (ls.2.7) with a state twist — the doctrine is not written into state
+- **Separation of powers** (inv.5.3) with a state twist — the doctrine is not written into state
   constitutions, and the *Kable* principle is how it reaches them anyway.
 - **Post-sentencing considerations** (crime.4.8) — preventive detention did not disappear after
   *Kable*; it was rewritten as **general** schemes for classes of offender, which survived in *Fardon*
   (2004) and underlie NSW's *Crimes (High Risk Offenders) Act 2006*. The comparison is the analysis.
-- **Just laws** (ls.1.4) — a law directed at a single person, applied to his liberty after his
+- **Just laws** (inv.1.2) — a law directed at a single person, applied to his liberty after his
   sentence, fails almost every characteristic the syllabus lists.
 
 ## Caution

@@ -38,7 +38,7 @@ total, non-parole 5 years 2 months.
 
 - **crime.4.2 (purposes)** — general deterrence and denunciation applied, with the purposes in s 3A.
 - **crime.4.5 (Crown appeals)** — what "manifestly inadequate" looks like.
-- **ls.4.1 / law reform** — the sentence came amid public anger at "coward punch" deaths (Thomas Kelly,
+- **chg.1 / law reform** — the sentence came amid public anger at "coward punch" deaths (Thomas Kelly,
   then Daniel Christie) that led to the 2014 one-punch offence, its 8-year mandatory minimum and the
   lockout laws — all of which came **after** this judgment.
 

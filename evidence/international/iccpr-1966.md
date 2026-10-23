@@ -22,7 +22,7 @@ Art 18 (freedom of thought, conscience and religion) is the provision in tension
 
 ## Use it for
 
-- **How international law is incorporated into Australian law** (Preliminary ls.2.14 as well as
+- **How international law is incorporated into Australian law** (Year 11 inv.6.3 / inv.7.2 as well as
   hr.2.7): ratification, then incorporation — or not.
 - **A Charter of Rights**: the argument that Australia has accepted obligations it has given its own
   citizens no way to enforce. The counter-argument is parliamentary sovereignty.

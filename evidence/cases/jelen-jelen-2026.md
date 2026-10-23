@@ -6,9 +6,9 @@ citation: "[2026] FedCFamC1F 532"
 date: 2026-08-10
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Campton J
 significance: A spousal maintenance claim dismissed because the applicant's own non-disclosure meant the court could make no findings about his finances at all.
-core: fam.2.3
-support: fam.2.1, fam.2.5, fam.3.2, fam.2.4, shel.1.1, shel.3.1
-themes: fam.t.compliance, fam.t.effectiveness, fam.t.reform, fam.t.values
+core: fam.2.3, dis.2.5
+support: fam.2.1, fam.2.5, fam.3.2, fam.2.4, shel.1.1, shel.3.1, dis.2.8
+themes: fam.t.compliance, fam.t.effectiveness, fam.t.reform, fam.t.values, dis.t.effectiveness
 criteria: enforceability, justice, resource, accessibility
 document: Cases/Family/Jelen & Jelen [2026] FedCFamC1F 532 - Case Summary.pdf
 related: family-law-act-1975, vacek-novosel-no7-2026, tanvil-batta-2026

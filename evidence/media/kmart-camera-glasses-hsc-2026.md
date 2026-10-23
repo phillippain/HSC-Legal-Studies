@@ -16,7 +16,7 @@ related: kmart-camera-glasses-2026, crimes-act-1900-s54d, smh-2026-fairleigh-coe
 added: 2026-10-12
 ---
 
-The HSC companion to the Preliminary summary of the same story, and a different argument: not
+The HSC companion to the Year 11 summary of the same story, and a different argument: not
 *why law reform is hard*, but **which law is supposed to protect you, and why none of it does**.
 Three topics meet on one $89 product.
 

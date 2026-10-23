@@ -45,7 +45,7 @@ regulates them.
   registered providers, so this registration is the gateway to Commonwealth money.
 - **shel.2.9 (NGOs)** — housing NGOs as *regulated providers*, not just advocates: the Act is the
   accountability side of outsourcing.
-- **shel.2.8 / ls.2.6** — a national scheme hosted by NSW: cooperative federalism without a
+- **shel.2.8 / inv.5.1 / inv.5.2** — a national scheme hosted by NSW: cooperative federalism without a
   Commonwealth Act.
 - **Evaluation** — the "transfer" of 14,000 public tenancies to providers in 2018–19 was justified
   by better management and Rent Assistance; tenant advocates point to the loss of a direct

@@ -52,7 +52,7 @@ compliance. Most duty provisions would start 12 months after Royal Assent.
   Coalition says vague tests could capture political and religious debate and push platforms to
   over-remove; the AHRC, which **supports** the duty, warns about the same vagueness, broad
   ministerial rule-making and privacy risks from age assurance.
-- **ls.4.2 / ls.4.3 (law reform)** — the full Commonwealth sequence: the Rickard statutory review
+- **chg.2 / chg.3 (law reform)** — the full Commonwealth sequence: the Rickard statutory review
   (67 recommendations, tabled February 2025), a government response in April 2026, an issues paper,
   an exposure draft, submissions, introduction, a Senate inquiry due to report before Parliament
   rises in late November, then a Senate vote Labor can only win with the Greens or the Coalition.

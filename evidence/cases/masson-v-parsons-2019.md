@@ -38,7 +38,7 @@ the facts of the relationship rather than by a label like "sperm donor".
 - **fam.1.5 (rights and obligations of parents and children)** — the practical stakes: parental
   responsibility, and in this case the mother and her partner could not simply relocate the child to
   New Zealand.
-- **ls.2.6 / ls.2.3 (division of powers, court hierarchy)** — an unusually clean illustration of
+- **inv.5.1 / inv.5.2 / inv.4.1 (division of powers, court hierarchy)** — an unusually clean illustration of
   Commonwealth and state law meeting on the same question and the Commonwealth Act prevailing in
   federal proceedings. Pairs with the international surrogacy line, where the same relationship
   between ss 60H and 60HB and state surrogacy Acts produces the **opposite** result for intended

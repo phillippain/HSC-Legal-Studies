@@ -6,9 +6,9 @@ citation: [1999] FCA 1192 (Full Federal Court, Wilcox, Whitlam and Merkel JJ, 1 
 date: 1999-09-01
 jurisdiction: Federal Court of Australia (Full Court)
 significance: Genocide is a peremptory norm of international law, but two of three judges held it is not an Australian crime until Parliament legislates.
-core: crime.6.1
-support: crime.6.2, crime.1.5, hr.2.7, hr.2.9, hr.3.1
-themes: crime.t.reform, crime.t.moral, crime.t.effectiveness
+core: crime.6.1, inv.6.1, inv.6.2, inv.4.5
+support: crime.6.2, crime.1.5, hr.2.7, hr.2.9, hr.3.1, inv.3.3
+themes: crime.t.reform, crime.t.moral, crime.t.effectiveness, inv.t.effectiveness, inv.t.justice
 criteria: ruleoflaw, justice, enforceability, rights
 document: Cases/Crime/Nulyarimma v Thompson [1999] FCA 1192 - Case Summary.pdf
 related: international-law-and-australian-law, rome-statute-1998, international-crime-evidence-summary-2026

@@ -2,7 +2,7 @@
 type: document
 title: Disputes with the state — internal review, merits review, judicial review
 short: Reviewing government decisions
-citation: Preliminary Part II reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part II
 date: 2026
 jurisdiction: NSW and Commonwealth
 significance: Merits review asks whether the decision was right; judicial review asks only whether it was made lawfully — and a court that quashes a decision usually sends it back to be made again.
@@ -39,7 +39,7 @@ department, lawfully this time, and possibly to the same result.
 - **The distinction that carries the dot point**: merits review asks *was it right*, judicial review
   asks *was it lawful*. Everything else — who can apply, what remedies exist, how long it takes —
   follows from that.
-- **The separation of powers is the reason for the limit** (`ls.2.7`). A court substituting its own
+- **The separation of powers is the reason for the limit** (`inv.5.3`). A court substituting its own
   view of a visa or a licence would be exercising executive power. So the narrowness of judicial
   review is a feature, and its cost to the individual is real.
 - **Access in practice** — internal review is free, merits review costs a modest fee, judicial review

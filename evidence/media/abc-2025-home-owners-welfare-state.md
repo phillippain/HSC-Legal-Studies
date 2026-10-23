@@ -40,7 +40,7 @@ taxes neither, is "a major driver of inequality, undermining the redistributive 
   and lifts prices, "which makes it harder for younger people to break into home ownership".
 - **shel.3.2 / shel.1.3** — discrimination by wealth rather than by attribute: a legal system that
   rewards those who already own, and an obligation to provide shelter met unevenly.
-- **ls.4.1 / shel.t.reform** — the reform nobody proposes: "owner-occupied housing is the elephant in
+- **chg.1 / shel.t.reform** — the reform nobody proposes: "owner-occupied housing is the elephant in
   the room in current debates" (Siminski). Set against the 2026 Budget, which touched negative
   gearing and the CGT discount but not the family home.
 - **Media as agenda-setter (shel.2.10)** — academic research reaching the public through the ABC on

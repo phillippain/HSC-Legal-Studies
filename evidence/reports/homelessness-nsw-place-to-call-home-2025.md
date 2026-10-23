@@ -45,11 +45,11 @@ campaign.
 
 - **shel.3.3 (homelessness)** — the most current NSW-wide figures, and the sector's own account of
   "dangerous service gaps" and frontline rationing.
-- **shel.2.9 / ls.4.2 (NGOs as agencies of reform)** — a peak body commissioning economic modelling,
+- **shel.2.9 / chg.2 (NGOs as agencies of reform)** — a peak body commissioning economic modelling,
   surveying its members and running a petition campaign: non-legal response as reform pressure.
 - **shel.3.4** — the waitlist and 4.6% stock figures, set against the NSW Government's record-spend
   claims and the HAFF.
-- **shel.1.3 / lip.2.3** — the obligation to provide shelter measured by whether help arrives: 36%.
+- **shel.1.3 / exp.6** — the obligation to provide shelter measured by whether help arrives: 36%.
 
 ## Caution
 

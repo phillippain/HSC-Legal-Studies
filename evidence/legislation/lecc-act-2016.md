@@ -32,15 +32,15 @@ Commission** and everything else to the **NSW Ombudsman**. After the Tink review
 
 ## Use it for
 
-- **ind.2.7** — the NSW model of a "statutory body": independent, powerful in inquiry, weak in
+- **dis.3.5 / dis.3.6** — the NSW model of a "statutory body": independent, powerful in inquiry, weak in
   outcome; the standard comparison is with ICAC (which can make corrupt-conduct findings) and the
   Ombudsman (which cannot investigate police at all since 2017).
 - **crime.2.1 / crime.2.2** — the body that polices police powers; the strip-search inquiry
   found widespread unlawful searches of young people, and the Kempsey and Nowland records show what
   follows.
-- **ind.3.3 (enforcing rights)** — a complainant gets an investigation and a report, not a remedy;
+- **chg.6.5 (enforcing rights)** — a complainant gets an investigation and a report, not a remedy;
   compensation requires a separate civil action.
-- **ls.1.7 / lip.1.3** — the rule of law applied to the police themselves.
+- **inv.1.7 / dis.3.2** — the rule of law applied to the police themselves.
 
 ## Caution
 

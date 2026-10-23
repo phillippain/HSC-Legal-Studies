@@ -40,7 +40,7 @@ case that drove legislative reform of juror conduct.
   jury is not in fact representative of it.
 - **Law reform with a trigger**: *R v Skaf* is a short, memorable chain from misconduct to
   amendment.
-- The **adversary system** (crime.3.2, and Preliminary ls.2.2) — the jury is what the adversarial
+- The **adversary system** (crime.3.2, and Year 11 inv.4.3) — the jury is what the adversarial
   contest is staged for.
 
 ## Caution

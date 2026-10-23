@@ -39,7 +39,7 @@ guilty) and only then discharged the juror; the remaining jurors convicted on tw
 
 - **crime.3.9 (juries and verdicts)** — the modern companion to *Skaf*: *Skaf* (2004) produced
   s 68C, and *Hoang* shows the High Court enforcing it strictly. A complete law-reform arc in two cases.
-- **ind.3.2 (technology)** — how the internet tests the rule that a verdict may rest only on evidence
+- **chg.1.3 / chg.6.1 (technology)** — how the internet tests the rule that a verdict may rest only on evidence
   tested in court.
 - **crime.4.5 (appeals)** — a procedural error that no "proviso" can cure.
 

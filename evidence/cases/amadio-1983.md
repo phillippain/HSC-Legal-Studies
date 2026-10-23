@@ -34,6 +34,6 @@ unconscionable and the transaction may be set aside.
   and this is the doctrine that limits what a lender may enforce against the home.
 - **The equity/statute pairing**: *Amadio* is the common law standard; the *Contracts Review Act 1980*
   (NSW), applied in *Khoshaba*, is the statutory one. Showing that Parliament legislated a wider
-  version of a judge-made rule is a Preliminary point (`ls.2.1`, `ls.4.3`) made with a shelter case.
+  version of a judge-made rule is a Year 11 point (`inv.3.1 / inv.3.2`, `chg.3`) made with a shelter case.
 - **Just laws** — the case is a clean illustration of formal equality (both parties signed) against
   substantive fairness (only one understood).

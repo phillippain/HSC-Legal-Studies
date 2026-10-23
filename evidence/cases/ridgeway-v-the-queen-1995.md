@@ -6,9 +6,9 @@ citation: [1995] HCA 66; (1995) 129 ALR 41 (also 184 CLR 19) (High Court of Aust
 date: 1995-04-19
 jurisdiction: High Court of Australia
 significance: Entrapment is no defence, but a conviction built on police committing the offence themselves can be stayed: courts will not benefit from serious police illegality.
-core: crime.2.3
-support: crime.2.1, crime.3.1, crime.1.5, hr.3.1
-themes: crime.t.balance, crime.t.compliance, crime.t.moral
+core: crime.2.3, dis.1.5, dis.1.8, inv.1.7
+support: crime.2.1, crime.3.1, crime.1.5, hr.3.1, inv.3.2
+themes: crime.t.balance, crime.t.compliance, crime.t.moral, dis.t.justice
 criteria: ruleoflaw, justice, rights, enforceability
 document: Cases/Crime/Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf
 related: evidence-act-1995, kadir-grech-v-the-queen-2020

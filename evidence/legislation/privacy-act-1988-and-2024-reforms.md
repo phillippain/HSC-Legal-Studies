@@ -54,11 +54,11 @@ mandatory data-breach scheme began in November 2023.
 
 ## Use it for
 
-- **ind.3.1 / ind.3.2** — the central technology statute: what it covers, who it leaves out, and
+- **chg.1.3 / chg.1.3 / chg.6.1** — the central technology statute: what it covers, who it leaves out, and
   the Optus/Medibank/Kmart records as the breaches and surveillance that test it.
-- **ind.3.4 (law reform)** — a live reform in two tranches; the tort is the first new individual
+- **chg.6 (law reform)** — a live reform in two tranches; the tort is the first new individual
   privacy right in Australian law.
-- **ind.3.3** — enforcement by complaint and regulator, no private right of action under the APPs
+- **chg.6.5** — enforcement by complaint and regulator, no private right of action under the APPs
   themselves — hence the tort.
 - **hr.2.9 / hr.2.10** — ICCPR art 17 given effect by statute because the common law would not.
 

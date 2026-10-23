@@ -33,7 +33,7 @@ least clear.
 
 ## Use it for
 
-- **Law regulating technology** (Preliminary ind.3) and **domestic violence** (fam.2.4) in the same
+- **Law regulating technology** (Year 11 chg.6) and **domestic violence** (fam.2.4) in the same
   piece of evidence — one of very few that sit cleanly in both courses.
 - **The pattern worth naming**: the law now recognises abuse that is a *course of conduct* rather
   than an incident — coercive control in 2024, surveillance in 2026. Both are responsive, and both

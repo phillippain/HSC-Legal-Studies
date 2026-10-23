@@ -6,9 +6,9 @@ citation: [2019] NSWCCA 61 (NSW Court of Criminal Appeal, Bellew J, Payne JA and
 date: 2019-03-29
 jurisdiction: NSW Court of Criminal Appeal
 significance: A courier who carried 4.653 kg of pure cocaine to Sydney lost his parity and manifest excess grounds: "courier" does not lessen the seriousness of importation.
-core: crime.6.1, crime.4.3
-support: crime.4.2, crime.4.5, crime.1.5, crime.6.2
-themes: crime.t.balance, crime.t.discretion, crime.t.effectiveness
+core: crime.6.1, crime.4.3, dis.1.7
+support: crime.4.2, crime.4.5, crime.1.5, crime.6.2, dis.1.8, inv.4.1
+themes: crime.t.balance, crime.t.discretion, crime.t.effectiveness, dis.t.justice
 criteria: justice, ruleoflaw, enforceability
 document: Cases/Crime/Klomfar v R [2019] NSWCCA 61 - Case Summary.pdf
 related: flower-mafiti-v-r-2024, criminal-code-cth-transnational-offences

@@ -26,5 +26,5 @@ roughly **2.3 million** individual investors, about 70% of whom own a single pro
 
 - **Social housing** and the **obligation to provide shelter** — a commitment, a target and an
   audited result, which is exactly the shape of evidence an effectiveness question wants.
-- The **ANAO** itself as a mechanism of accountability (Preliminary ind.2.7, statutory bodies) —
+- The **ANAO** itself as a mechanism of accountability (Year 11 dis.3.5 / dis.3.6, statutory bodies) —
   an independent auditor publishing a number the government would not have chosen to publish.

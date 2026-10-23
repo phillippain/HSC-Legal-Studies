@@ -46,7 +46,7 @@ article.**
   February 2026**, and was urged to adopt a human rights-based national housing strategy, build more
   social housing, strengthen tenant protections and enact a national Human Rights Act, with a
   24-month report-back. Concluding observations are **recommendations, not binding judgments**.
-- **ls.2.11 / ls.2.14 (international law into domestic law)** — a clean demonstration that a treaty
+- **inv.6.2 / inv.6.3 / inv.7.2 (international law into domestic law)** — a clean demonstration that a treaty
   binds Australia in international law but binds no Australian court until Parliament implements it.
   Implementation here is **piecemeal**: tenancy law, supply targets, and one territory-level right.
 - **The ACT model** — from January 2027, ACT authorities must **consider** the right in decisions and
@@ -54,7 +54,7 @@ article.**
   right does not itself build houses (progressive realisation).
 - **shel.2.2 / shel.2.3 (tenants)** — the article is about borrowers; renters are the sharper case,
   and NSW's valid-reason evictions and yearly rent-increase limit are the legal response to measure.
-- **lip.2.3 (evaluating responses)** — competing frames: the AHRC and the UN Committee on one side;
+- **exp.6 (evaluating responses)** — competing frames: the AHRC and the UN Committee on one side;
   the Property Council arguing the 2026 tax changes will cost 35,000 homes and that about 40% of a
   new home's cost is taxes and charges on the other.
 

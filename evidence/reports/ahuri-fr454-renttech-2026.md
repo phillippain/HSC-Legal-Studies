@@ -41,7 +41,7 @@ and full delivery of National Cabinet's **"A Better Deal for Renters"** commitme
 ## Use it for
 
 - **The contemporary issue the syllabus keeps asking for**, and one almost no student has: shelter
-  law meeting technology. It pairs directly with Preliminary `ind.3.1`–`ind.3.4` (the individual and
+  law meeting technology. It pairs directly with Year 11 `chg.1.3`–`chg.6` (the individual and
   technology, difficulties enforcing rights, future directions).
 - **Discrimination without a discriminator** — anti-discrimination law attaches to grounds and to
   decisions a person makes. A weighting inside a scoring model is neither, which is the enforceability

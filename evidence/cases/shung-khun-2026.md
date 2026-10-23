@@ -51,9 +51,9 @@ extremely severe and he had messaged that he wanted to die.
   seriously and explained why the order went the other way.
 - **fam.3.2** — sole parental responsibility with a built-in consultation process: responsibility
   reshaped, not simply shared or removed.
-- **hr.2.7 / ls.2.14** — a child's right to be heard applied without CROC being mentioned once: an
+- **hr.2.7 / inv.6.3 / inv.7.2** — a child's right to be heard applied without CROC being mentioned once: an
   unincorporated treaty reaching Australian law through the statutory best-interests test.
-- **ls.2.11 / hr.t.sovereignty** — cross-border family law: Australian orders about a child who
+- **inv.6.2 / hr.t.sovereignty** — cross-border family law: Australian orders about a child who
   wants to live in China, enforced by a **police list, requested rather than ordered**, not by any
   foreign court.
 - **fam.2.5** — ICL, single expert, two psychologists, family therapy and the AFP watchlist: legal

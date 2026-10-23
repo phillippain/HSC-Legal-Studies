@@ -48,14 +48,14 @@ couple separates; and no settled succession position.
 - **fam.3.3 (surrogacy and birth technologies)** — the central legal problem of the dot point, with
   the authority to prove it. Far stronger than asserting "the law has not kept up": here are three
   judges reaching three results and a Full Court saying the gap is Parliament's to close.
-- **fam.1.2 / ls.2.6 (state and federal jurisdiction)** — surrogacy is **state** law, parentage for
+- **fam.1.2 / inv.5.1 / inv.5.2 (state and federal jurisdiction)** — surrogacy is **state** law, parentage for
   Commonwealth purposes is **federal**, and the seam between them is exactly where these children
   fall. Note the quirk the article records: in Victoria the offence attaches to the **surrogate**
   receiving a benefit, not to the intended parents commissioning the arrangement.
-- **ls.1.4 / ls.1.5 (just laws, the nature of justice)** — a law that works as written and produces
+- **inv.1.2 / inv.1.4 (just laws, the nature of justice)** — a law that works as written and produces
   a child with no legal parents is the sharpest available example of the gap between legality and
   justice.
-- **ls.4.1 / ls.4.3 (conditions and mechanisms of reform)** — the courts have now expressly declined
+- **chg.1 / chg.3 (conditions and mechanisms of reform)** — the courts have now expressly declined
   to fix it by interpretation. The mechanism left is Parliament, and it has not acted.
 - **Set it against *Masson v Parsons*** — the High Court reading "parent" by ordinary contemporary
   understanding in one context, while in this one the specific sections shut that reasoning out.

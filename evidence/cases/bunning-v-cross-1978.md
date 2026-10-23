@@ -6,9 +6,9 @@ citation: [1978] HCA 22; (1978) 141 CLR 54 (High Court of Australia, 14 June 197
 date: 1978-06-14
 jurisdiction: High Court of Australia
 significance: Evidence obtained unlawfully is not automatically excluded: the court weighs convicting offenders against condoning illegality, and a mistaken breach leaves it admitted.
-core: crime.2.3
-support: crime.2.1, crime.3.1, hr.3.1
-themes: crime.t.balance, crime.t.discretion, crime.t.compliance
+core: crime.2.3, dis.1.5, dis.1.8
+support: crime.2.1, crime.3.1, hr.3.1, inv.1.6, inv.3.2, inv.1.7
+themes: crime.t.balance, crime.t.discretion, crime.t.compliance, dis.t.justice
 criteria: ruleoflaw, justice, enforceability
 document: Cases/Crime/Bunning v Cross [1978] HCA 22 - Case Summary.pdf
 related: evidence-act-1995, ridgeway-v-the-queen-1995, kadir-grech-v-the-queen-2020

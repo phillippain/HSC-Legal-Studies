@@ -22,7 +22,7 @@ patchwork of community-based orders.
 
 ## Use it for
 
-- **Law reform agencies** (`ls.1.8`) and **responsiveness**: the report preceded the 2017 Act that,
+- **Law reform agencies** (`inv.1.8`) and **responsiveness**: the report preceded the 2017 Act that,
   from 24 September 2018, replaced suspended sentences, home detention, community service orders and
   bonds with ICOs, CCOs and CROs (`crime.4.6`).
 - **Statutory guidelines** (`crime.4.1`) — an independent body arguing for discretion over formula.

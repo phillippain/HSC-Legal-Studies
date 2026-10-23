@@ -6,9 +6,9 @@ citation: "[2014] NSWSC 443"
 date: 2014
 jurisdiction: Supreme Court of New South Wales
 significance: A murder sentence fell short of the maximum because premeditation was not proved beyond reasonable doubt, even though the intent to kill was.
-core: crime.3.1
-support: crime.3.2, crime.3.6, crime.3.8, crime.3.9, crime.4.1, crime.4.3
-themes: crime.t.balance, crime.t.effectiveness, crime.t.moral
+core: crime.3.1, dis.1.7, dis.1.4
+support: crime.3.2, crime.3.6, crime.3.8, crime.3.9, crime.4.1, crime.4.3, dis.1.2, dis.1.8
+themes: crime.t.balance, crime.t.effectiveness, crime.t.moral, dis.t.justice
 criteria: ruleoflaw, justice, society, rights
 document: Crime/Criminal Trial Process/3a. Court Jurisdiction, the Adversary System & Legal Personnel.docx
 related: the-adversary-system-and-court-jurisdiction

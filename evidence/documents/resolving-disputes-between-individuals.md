@@ -2,7 +2,7 @@
 type: document
 title: Resolving disputes between individuals — from negotiation to judgment
 short: Disputes between individuals
-citation: Preliminary Part II reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part II
 date: 2026
 jurisdiction: NSW
 significance: Almost every civil dispute is resolved before a hearing, and the forum a person can reach is decided by how much money is in issue.

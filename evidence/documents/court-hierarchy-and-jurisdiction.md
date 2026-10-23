@@ -2,7 +2,7 @@
 type: document
 title: Court hierarchy and jurisdiction — NSW and federal
 short: Court hierarchy and jurisdiction
-citation: Preliminary Part II reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part II
 date: 2026
 jurisdiction: NSW and Commonwealth
 significance: The hierarchy exists for two reasons that pull together — precedent needs a court whose decisions bind, and appeals need a court above the one that erred.
@@ -49,5 +49,5 @@ superior court, and is the final court of appeal since the Australia Acts 1986.
 
 - **Jurisdiction** questions in any topic — the same structure answers "which court hears a murder
   charge", "where does a tenancy dispute go" and "who decides a parenting order".
-- **The link between hierarchy and precedent** (`ls.2.1`), which is the point the dot point is really
+- **The link between hierarchy and precedent** (`inv.3.1 / inv.3.2`), which is the point the dot point is really
   testing and the one most answers leave out.

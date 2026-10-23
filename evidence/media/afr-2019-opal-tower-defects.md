@@ -45,11 +45,11 @@ isolated incident". This piece, written days later, tested that.
 - **Why the problem is invisible (shel.2.5)** — confidentiality clauses in private settlements mean
   the dispute resolution that does work **suppresses the evidence that it was needed**. An unusually
   good point about the limits of private remedies.
-- **Consumer protection (ls.3.2)** — the fridge comparison is a serious argument: statutory
+- **Consumer protection (dis.2.3)** — the fridge comparison is a serious argument: statutory
   guarantees for a $900 appliance are stronger than for a $900,000 apartment. Pairs with
   *Brookfield Multiplex*, where the High Court held the builder owed no duty of care in negligence to
   the owners corporation for pure economic loss.
-- **ls.4.1 (conditions giving rise to reform)** — this is the event. The **Design and Building
+- **chg.1 (conditions giving rise to reform)** — this is the event. The **Design and Building
   Practitioners Act 2020** and the **Residential Apartment Buildings (Compliance and Enforcement
   Powers) Act 2020** follow from it, as does the appointment of the first **Building Commissioner**
   in 2019. Read the sequence as Opal (Dec 2018) → Mascot (June 2019) → Commissioner → two Acts →

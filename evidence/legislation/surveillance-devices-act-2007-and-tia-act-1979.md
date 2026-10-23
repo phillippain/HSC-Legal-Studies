@@ -52,11 +52,11 @@ tracking surveillance; covert surveillance only by Magistrate's authority.
 
 ## Use it for
 
-- **ind.3.2** — the legal boundary of private surveillance, and the GPS-tracking and camera-glasses
+- **chg.1.3 / chg.6.1** — the legal boundary of private surveillance, and the GPS-tracking and camera-glasses
   records as the breaches.
 - **crime.2.2 (investigation)** — the warrant regime as the legal basis for covert policing, and
   the metadata scheme as the mass version of it.
-- **ind.1.2 / ind.t.balance** — privacy v security, with the Ombudsman and PJCIS as the oversight.
+- **inv.7.1 / ind.t.balance** — privacy v security, with the Ombudsman and PJCIS as the oversight.
 - **crime.3.5 (evidence)** — unlawfully obtained recordings and the discretion to exclude
   (*Evidence Act* s 138).
 

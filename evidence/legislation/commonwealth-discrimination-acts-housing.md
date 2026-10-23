@@ -44,7 +44,7 @@ charitable or religious bodies in some cases.
 
 - **shel.3.2** — the Commonwealth layer over the NSW Act: a tenant can choose either regime (not
   both for the same conduct).
-- **hr.2.7 / ls.2.12** — the clearest Shelter example of international law becoming domestic law.
+- **hr.2.7 / inv.6.1** — the clearest Shelter example of international law becoming domestic law.
 - **shel.2.4 / shel.3.2 (older people, disability)** — assistance animals (DDA s 54A) and
   age-restricted communities (ADA exemption) turn up in NCAT and the Brooms Head dispute.
 - **Evaluation** — the AHRC can conciliate and report, but not order; the "Balancing Act" and YiSSA

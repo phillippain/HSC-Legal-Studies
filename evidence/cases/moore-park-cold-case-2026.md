@@ -6,9 +6,9 @@ citation: Sentence hearing, District Court of NSW (Judge Pickering), 19 October 
 date: 2026
 jurisdiction: NSW
 significance: A 30-year-old cold case solved by familial DNA shows s 21B historical sentencing, victim impact statements, Form 1 offences, plea discounts and Bugmy at work in one hearing.
-core: crime.4.3, crime.4.4
-support: crime.2.4, crime.3.4, crime.4.1, crime.4.2, crime.2.3, crime.3.7
-themes: crime.t.reform, crime.t.balance, crime.t.moral
+core: crime.4.3, crime.4.4, dis.1.7, dis.1.5
+support: crime.2.4, crime.3.4, crime.4.1, crime.4.2, crime.2.3, crime.3.7, dis.1.8
+themes: crime.t.reform, crime.t.balance, crime.t.moral, dis.t.justice
 criteria: justice, responsiveness, rights
 document: Crime/Sentencing and Punishment/Moore Park rapist sentencing hearing (Evidence summary 21Oct26).pdf
 source: https://www.abc.net.au/news/2026-10-19/victim-confronts-sydney-moore-park-rapist-in-nsw-court/107284370

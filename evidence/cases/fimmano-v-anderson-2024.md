@@ -6,9 +6,9 @@ citation: [2024] NSWCATAP 22
 date: 2024-02-20
 jurisdiction: NCAT Appeal Panel (NSW)
 significance: A tenant who complained to Fair Trading was protected from a retaliatory termination notice, and the landlords could not re-run the case on appeal.
-core: shel.2.2, shel.2.3
-support: shel.2.5, shel.2.6, shel.2.8
-themes: shel.t.compliance, shel.t.effectiveness, shel.t.cooperation
+core: shel.2.2, shel.2.3, dis.2.5, dis.2.7
+support: shel.2.5, shel.2.6, shel.2.8, dis.2.8, inv.3.3, inv.7.1
+themes: shel.t.compliance, shel.t.effectiveness, shel.t.cooperation, dis.t.justice, dis.t.effectiveness
 criteria: accessibility, enforceability, justice
 document: Cases/Shelter/Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary.pdf
 source: https://www.caselaw.nsw.gov.au/

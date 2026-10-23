@@ -46,9 +46,9 @@ requirement. A **written statement** is now enough.
 
 - **shel.2.3 (termination)** — the sharpest current example of how a reform's effectiveness depends
   on its *evidentiary* detail: a prescribed ground is only as strong as what must be proved.
-- **shel.2.9 / shel.2.10 / ls.4.2** — NGOs (a 28-signatory joint statement) and the media (LSJ, SMH)
+- **shel.2.9 / shel.2.10 / chg.2** — NGOs (a 28-signatory joint statement) and the media (LSJ, SMH)
   as agencies of reform *after* the Act passed — scrutiny of delegated legislation.
-- **ls.2.4 (delegated legislation)** — the change was made by **regulation**, not by Parliament,
+- **inv.3.3 / inv.4.4 (delegated legislation)** — the change was made by **regulation**, not by Parliament,
   which is why it could be done quietly and why the Legislative Council's disallowance power
   mattered.
 - **Evaluation** — enforceability: penalties "on paper" versus the $8.4 million Rental Taskforce's

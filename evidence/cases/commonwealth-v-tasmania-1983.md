@@ -27,10 +27,10 @@ otherwise a state matter. Where the resulting Commonwealth law is inconsistent w
 
 ## Use it for
 
-- **The division of powers** (`ls.2.6`) — the single best case for showing that the division is not
+- **The division of powers** (`inv.5.1 / inv.5.2`) — the single best case for showing that the division is not
   fixed by the text alone. Residual powers shrink as the Commonwealth's treaty-making grows, without
   a referendum.
-- **How international law becomes Australian law** (`ls.2.14`): a treaty is **not** part of domestic
+- **How international law becomes Australian law** (`inv.6.3 / inv.7.2`): a treaty is **not** part of domestic
   law until implemented by statute, but the act of ratifying it can supply the *power* to implement.
   Both halves of that sentence matter.
 - **Federalism as a live political question** — a state government with a mandate was overridden by a

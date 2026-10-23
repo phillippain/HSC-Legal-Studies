@@ -45,7 +45,7 @@ were "anxiously" awaited while the Government drafted the Regulations.
 
 - **shel.2.9 (NGOs)** — the Tenants' Union doing all four NGO jobs in one issue: monitoring
   compliance, lobbying on delegated legislation, campaigning (Selwyn Street) and educating.
-- **shel.2.3 / lip.2.1** — the lag between enactment and commencement as a period of risk: the law
+- **shel.2.3 / exp.5** — the lag between enactment and commencement as a period of risk: the law
   changed, the behaviour it targeted intensified.
 - **shel.2.4 (boarding houses)** and **shel.3.4** — Selwyn Street as a live example of a vulnerable
   tenure, and of government purchase as a (non-legal) response.

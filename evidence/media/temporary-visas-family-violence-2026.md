@@ -47,7 +47,7 @@ protection order (an ADVO in NSW) remain available whatever the visa.
 - **fam.1.4 / fam.1.5 (alternative family relationships, rights of parents and children)** — relevant
   because the law's protection attaches to a recognised partner relationship on a listed visa; other
   family arrangements get nothing.
-- **ls.4.1 / ls.4.2 (reform conditions and agencies)** — a 15-year reform story. The **ALRC's Report
+- **chg.1 / chg.2 (reform conditions and agencies)** — a 15-year reform story. The **ALRC's Report
   117** (2011) recommended easing the evidence rules **and a new temporary visa** for temporary
   secondary applicants; the visa still does not exist. The 2018 *Path to Nowhere* survey counted
   **387** women on temporary visas seeking violence support in one month. A **Temporary Visa Holders
@@ -60,7 +60,7 @@ protection order (an ADVO in NSW) remain available whatever the visa.
 - **Law reform that *did* happen** — the provisions were expanded in **three stages in 2024** (1 July,
   15 October, 17 December) with $8.9m funding, adding **20 subclasses**, and Home Affairs says further
   changes are in development. This matters because it is the government's answer to the article.
-- **ind.2.6 / administrative review** — a refusal goes to the **Administrative Review Tribunal**,
+- **dis.3.4 / administrative review** — a refusal goes to the **Administrative Review Tribunal**,
   which replaced the AAT on 14 October 2024. The featured survivor, a PNG seasonal worker, used
   **asylum, not the family violence provisions**: refused, then granted on review after about two
   years — the route advocates say a dedicated visa would make unnecessary.

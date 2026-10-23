@@ -6,9 +6,9 @@ citation: "[2026] FedCFamC2F 1104"
 date: 2026-07-21
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Judge A Humphreys
 significance: The allegations against the father were not established; the mother's threats, denigration and public social media campaign were the family violence, and her son now sees her not at all.
-core: fam.2.4, fam.3.2
-support: fam.3.4, fam.2.5, fam.2.2, fam.1.5, hr.3.1
-themes: fam.t.compliance, fam.t.effectiveness, fam.t.values, fam.t.reform
+core: fam.2.4, fam.3.2, dis.2.5
+support: fam.3.4, fam.2.5, fam.2.2, fam.1.5, hr.3.1, dis.2.4, exp.1.1
+themes: fam.t.compliance, fam.t.effectiveness, fam.t.values, fam.t.reform, dis.t.justice
 criteria: enforceability, rights, justice, responsiveness
 document: Cases/Family/Murchin & Enfield (No 3) [2026] FedCFamC2F 1104 - Case Summary.pdf
 related: tanvil-batta-2026, keven-jaylah-no2-2026, family-law-amendment-act-2023

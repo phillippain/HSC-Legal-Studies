@@ -47,7 +47,7 @@ Weekend* forced-marriage record shows how it operates.
 - **fam.3.1** — the 2017 amendment, after the postal survey (61.6% yes), as the legal recognition of
   same-sex relationships; *Commonwealth v ACT* (2013) is the High Court case that made federal
   legislation the only route.
-- **fam.1.2 / ls.2.6** — marriage as a head of Commonwealth power, and why the states could not act.
+- **fam.1.2 / inv.5.1 / inv.5.2** — marriage as a head of Commonwealth power, and why the states could not act.
 - **fam.t.values** — a definition changed by Parliament to track social attitudes, 43 years apart
   (1961, 2004, 2017).
 

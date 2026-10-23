@@ -36,7 +36,7 @@ lot owner brings.**
 ## Use it for
 
 - **Court initiates, parliament generalises.** *Cooper* bound the parties and everyone who could
-  afford an appeal; **s 137B** bound every scheme in the State. That pairing answers `ls.4.3`
+  afford an appeal; **s 137B** bound every scheme in the State. That pairing answers `chg.3`
   (mechanisms of reform) as well as it answers a shelter question.
 - **ADR that is mandatory for one side more than the other** — a concrete, checkable example for the
   alternative dispute resolution dot point, and better than the usual generalities about mediation.

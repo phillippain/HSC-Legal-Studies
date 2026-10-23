@@ -48,13 +48,13 @@ on the site shows the routes.
 
 ## Use it for
 
-- **ind.2.5 (internal review)** — the only NSW statute that makes internal review a defined step
+- **dis.3.4 (internal review)** — the only NSW statute that makes internal review a defined step
   with timeframes.
-- **ind.2.6 (external review)** — merits (NCAT) v judicial (Supreme Court), with the *HGY* and
+- **dis.3.4 (external review)** — merits (NCAT) v judicial (Supreme Court), with the *HGY* and
   *Goldman* records as current NSW examples.
-- **ls.2.3 / ls.2.7** — NCAT's limits as a non-court (it cannot decide matters between residents
+- **inv.4.1 / inv.5.3** — NCAT's limits as a non-court (it cannot decide matters between residents
   of different states: *Burns v Corbett*); the Supreme Court's inherent supervisory role.
-- **ind.3.3** — the gap: most NSW decisions are reviewable only if an Act says so.
+- **chg.6.5** — the gap: most NSW decisions are reviewable only if an Act says so.
 
 ## Caution
 

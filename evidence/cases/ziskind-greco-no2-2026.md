@@ -6,9 +6,9 @@ citation: "[2026] FedCFamC1F 378"
 date: 2026-06-09
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1), Schonell J
 significance: Coercive control without a proven assault — gaslighting, covert surveillance and threats met the definition; the alleged physical altercations did not.
-core: fam.2.2, fam.2.3, fam.2.4
-support: fam.2.5, fam.3.2, fam.3.4, fam.2.1, crime.1.8, crime.3.6, crime.3.7
-themes: fam.t.effectiveness, fam.t.compliance, fam.t.values, fam.t.reform
+core: fam.2.2, fam.2.3, fam.2.4, dis.2.5
+support: fam.2.5, fam.3.2, fam.3.4, fam.2.1, crime.1.8, crime.3.6, crime.3.7, dis.2.8
+themes: fam.t.effectiveness, fam.t.compliance, fam.t.values, fam.t.reform, dis.t.values, dis.t.justice
 criteria: rights, enforceability, justice
 document: Cases/Family/Ziskind_Greco_Case_Summary.pdf
 related: bergsma-hyde-2026, billings-clowes-no2-2026

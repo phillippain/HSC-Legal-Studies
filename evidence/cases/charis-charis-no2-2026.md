@@ -48,7 +48,7 @@ granted**.
 - **fam.t.compliance** — the whole case: an order, a conceded breach, and the Act's machinery when a
   party simply will not pay. Learn the list — trustee for sale, caveat, s 106A signing power,
   travel restraint — not just the outcome (HSC 2020 and 2025 compliance questions).
-- **fam.2.5 / ls.2.3 (courts and the hierarchy)** — trial, appeal, special leave, enforcement, then
+- **fam.2.5 / inv.4.1 (courts and the hierarchy)** — trial, appeal, special leave, enforcement, then
   an urgent application heard within days: the hierarchy and its speed both on display; and the
   rule that an appeal does not stay an order unless a stay is granted.
 - **fam.2.3** — the last stage of a property dispute: not how the pool is divided but whether the

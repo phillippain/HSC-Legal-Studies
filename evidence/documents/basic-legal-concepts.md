@@ -2,7 +2,7 @@
 type: document
 title: Basic legal concepts — law, custom, justice, and their absence
 short: Basic legal concepts
-citation: Preliminary Part I reference note, NSW Legal Studies Stage 6 syllabus
+citation: Year 11 reference note (from the former Preliminary notes), Part I, NSW Legal Studies Stage 6 syllabus
 date: 2026
 jurisdiction: Australia
 significance: A rule becomes law when a recognised authority can enforce it against you whether you agreed to it or not — everything else in Part I follows from that.
@@ -28,7 +28,7 @@ the library sits behind them. Cite the cases and statutes elsewhere in this find
 Law is **binding on everyone, enforceable by the state, and officially recorded and administered**.
 Custom is where much of it began — the common law grew out of the custom of the realm, and Aboriginal
 and Torres Strait Islander customary law is a legal system in its own right, unwritten and
-kinship-based, recognised by the Australian legal system only in part (`ls.2.9`, `ls.2.10`).
+kinship-based, recognised by the Australian legal system only in part (`inv.2.1`, `inv.2.1 / inv.2.2`).
 
 ## Values and ethics
 

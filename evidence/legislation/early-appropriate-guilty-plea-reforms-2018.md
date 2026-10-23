@@ -51,7 +51,7 @@ Local Court summary matters keep the discretionary discount (up to 25%, *Thomson
 - **crime.3.2 (committal)** — what replaced the committal hearing.
 - **crime.4.1 / crime.4.2** — sentencing discounts as a statutory factor; the ODPP Prosecution
   Guidelines on when a negotiated plea is acceptable.
-- **lip.2.3** — a reform with a BOCSAR evaluation: resource efficiency v the rights of the accused
+- **exp.6** — a reform with a BOCSAR evaluation: resource efficiency v the rights of the accused
   and the interests of victims.
 
 ## Caution

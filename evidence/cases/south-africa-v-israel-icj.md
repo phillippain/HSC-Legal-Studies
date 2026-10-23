@@ -6,9 +6,9 @@ citation: Application of the Convention on the Prevention and Punishment of the 
 date: 2023-12-29
 jurisdiction: International
 significance: A genocide case between states, at a court that cannot convict anyone and whose timetable runs to 2029.
-core: crime.6.1
-support: crime.6.2, hr.2.4, hr.3.1
-themes: crime.t.effectiveness, crime.t.compliance, hr.t.sovereignty
+core: crime.6.1, inv.6.6, inv.6.4
+support: crime.6.2, hr.2.4, hr.3.1, inv.6.2, inv.6.3
+themes: crime.t.effectiveness, crime.t.compliance, hr.t.sovereignty, inv.t.effectiveness
 criteria: enforceability, justice, responsiveness, ruleoflaw
 source: https://www.icj-cij.org/case/192
 related: rome-statute-1998, icc-under-pressure-2025-26

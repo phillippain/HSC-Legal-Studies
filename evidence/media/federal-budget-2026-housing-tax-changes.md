@@ -54,9 +54,9 @@ slightly".
   was left untouched: the family home).
 - **shel.1.3 / shel.3.4** — ACOSS and Mission Australia's point that tax reform does nothing for
   those who will never buy: the obligation to provide shelter is not met by a buyers' market.
-- **ls.4.1 / shel.t.reform** — conditions for reform: a decade of failed attempts, changed public
+- **chg.1 / shel.t.reform** — conditions for reform: a decade of failed attempts, changed public
   opinion among younger voters, grandfathering to make it politically survivable.
-- **lip.2.1 (balancing interests)** — every stakeholder group quoted on one page.
+- **exp.5 (balancing interests)** — every stakeholder group quoted on one page.
 
 ## Caution
 

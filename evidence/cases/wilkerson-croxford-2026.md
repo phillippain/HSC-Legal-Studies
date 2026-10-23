@@ -6,9 +6,9 @@ citation: "[2026] FedCFamC2F 1063"
 date: 2026-07-15
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2), Judge Carty
 significance: "The court is not bound by a private contract between parents about the care of a child" — and CROC did the deciding.
-core: fam.1.5, fam.3.3
-support: fam.1.4, fam.2.5, fam.3.2, hr.2.7, hr.1.3
-themes: fam.t.values, fam.t.cooperation, hr.t.compliance, fam.t.reform
+core: fam.1.5, fam.3.3, exp.2.1, inv.7.2
+support: fam.1.4, fam.2.5, fam.3.2, hr.2.7, hr.1.3, dis.2.5, inv.6.3
+themes: fam.t.values, fam.t.cooperation, hr.t.compliance, fam.t.reform, exp.t.justice, inv.t.justice
 criteria: rights, enforceability, responsiveness, justice
 document: Jade Cases/Raw Cases/Wilkerson & Croxford [2026] FedCFamC2F 1063.rtf
 added: 2026-09-19

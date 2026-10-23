@@ -41,7 +41,7 @@ fiancée under a power of attorney, paying all costs and calling every second da
 
 ## Use it for
 
-- **ls.4.1 / ls.4.3 (law reform)** — a transitional provision with a date on it: Parliament repealed
+- **chg.1 / chg.3 (law reform)** — a transitional provision with a date on it: Parliament repealed
   the bar that let a parent benefit from withholding court-ordered time, but only for changes of
   care on or after 29 March 2024. HSC 2019 Q27(b) in one dated example.
 - **fam.2.5 (dispute resolution outside the courts)** — Registrar decision → objection → first review
@@ -52,7 +52,7 @@ fiancée under a power of attorney, paying all costs and calling every second da
 - **fam.t.compliance** — parenting orders said one thing, the care that happened said another, and
   child support must follow the second; the Tribunal is explicit that this "does not amount to
   approval of the withholding of care, if that did occur".
-- **ind.2.6** — merits review: the Tribunal stands in the decision-maker's shoes and substitutes
+- **dis.3.4** — merits review: the Tribunal stands in the decision-maker's shoes and substitutes
   its own decision (*MDXJ v Secretary, DSS* [2020] FCA 1767: the Guide guides but does not control).
 
 ## Caution

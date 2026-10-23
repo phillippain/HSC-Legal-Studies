@@ -25,5 +25,5 @@ Ms Rooney, the sole genetic contributor, is the "owner".
 - Beyond Family: the clearest available example of **law lagging behind technology** — there is no
   statute at all governing surplus embryos on relationship breakdown, so the court reached for the
   nearest available category. That is a law reform recommendation a student can make and justify.
-- Preliminary **Individual and technology**: the legal implications of a technology the law has not
+- Year 11 **Individual and technology**: the legal implications of a technology the law has not
   caught up with, and the role of law reform in addressing it.

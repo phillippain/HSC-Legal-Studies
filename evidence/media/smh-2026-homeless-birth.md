@@ -34,7 +34,7 @@ emergency accommodation and welfare support all existed; none reached her before
 ## Use it for
 
 The strongest single human illustration in the Shelter option, and the one that bridges into
-**Family** and into Preliminary **Law in practice** — a group suffering disadvantage, with legal and
+**Family** and into Year 11 **Law in practice** — a group suffering disadvantage, with legal and
 non-legal responses that can both be named and judged.
 
 An answer that pairs this with a statistic is doing what the syllabus asks: the case proves the

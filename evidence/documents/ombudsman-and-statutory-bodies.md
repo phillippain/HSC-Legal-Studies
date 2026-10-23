@@ -2,7 +2,7 @@
 type: document
 title: Ombudsmen, commissions and royal commissions — the bodies that investigate but cannot punish
 short: Ombudsman and statutory bodies
-citation: Preliminary Part II reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part II
 date: 2026
 jurisdiction: NSW and Commonwealth
 significance: Every one of these bodies can investigate, find facts and recommend — and none of them can impose a penalty, which is both the design and the complaint.
@@ -38,7 +38,7 @@ recommendations implemented in five years. Same mechanism, opposite outcomes.
 
 ## Use it for
 
-- **Ombudsman and statutory bodies** (`ind.2.7`) — group them by what they can *do*, not by who they
+- **Ombudsman and statutory bodies** (`dis.3.5 / dis.3.6`) — group them by what they can *do*, not by who they
   belong to, and the answer writes itself.
 - **Enforceability** — the recurring criticism is that a recommendation is not an order. The
   counter-argument worth making is that these bodies reach conduct no court could: a pattern, a

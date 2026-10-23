@@ -6,9 +6,9 @@ citation: "[2026] FedCFamC2F 1058"
 date: 2026-07-15
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2), Judge Dorrat
 significance: All five contraventions proven, no reasonable excuse — and no penalty. The gap between a legal finding and a legal consequence.
-core: fam.2.5, fam.2.2
-support: fam.2.4, fam.3.2, crime.4.6
-themes: fam.t.compliance, fam.t.effectiveness, crime.t.compliance
+core: fam.2.5, fam.2.2, dis.2.7, dis.2.2
+support: fam.2.4, fam.3.2, crime.4.6, dis.2.8
+themes: fam.t.compliance, fam.t.effectiveness, crime.t.compliance, dis.t.effectiveness
 criteria: enforceability, justice, society
 document: Jade Cases/Raw Cases/Merran & Salter [2026] FedCFamC2F 1058.rtf
 added: 2026-09-19

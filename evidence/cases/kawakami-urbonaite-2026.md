@@ -6,9 +6,9 @@ citation: "[2026] FedCFamC1F 593"
 date: 2026-08-10
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Strum J
 significance: A mother who began the case stopped attending; the children's views were heard and then outweighed by risk, and sole decision-making went to their father.
-core: fam.3.2, fam.3.4, fam.2.4
-support: fam.1.5, fam.2.2, fam.2.5, hr.3.1, shel.3.3
-themes: fam.t.compliance, fam.t.effectiveness, fam.t.reform, fam.t.values
+core: fam.3.2, fam.3.4, fam.2.4, dis.2.5
+support: fam.1.5, fam.2.2, fam.2.5, hr.3.1, shel.3.3, exp.1.3, exp.1.1, inv.1.6
+themes: fam.t.compliance, fam.t.effectiveness, fam.t.reform, fam.t.values, dis.t.justice
 criteria: rights, responsiveness, enforceability, justice
 document: Cases/Family/Kawakami & Urbonaite [2026] FedCFamC1F 593 - Case Summary.pdf
 related: croc-1989, family-law-amendment-act-2023, gizela-elmas-2026

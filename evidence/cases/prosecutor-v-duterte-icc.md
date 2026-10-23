@@ -6,9 +6,9 @@ citation: Prosecutor v Duterte, ICC-01/21-01/25; decision confirming charges, Pr
 date: 2026-10-08
 jurisdiction: International (Philippines)
 significance: A former head of state arrested by his own country's police and flown to The Hague, six years after the Philippines left the Court.
-core: crime.6.2
-support: crime.6.1, hr.2.4, hr.3.1, crime.3.1
-themes: crime.t.effectiveness, crime.t.compliance, crime.t.balance
+core: crime.6.2, inv.6.6, inv.6.3
+support: crime.6.1, hr.2.4, hr.3.1, crime.3.1, inv.6.2
+themes: crime.t.effectiveness, crime.t.compliance, crime.t.balance, inv.t.effectiveness
 criteria: justice, enforceability, rights, ruleoflaw
 source: https://www.icc-cpi.int/philippines/duterte
 related: rome-statute-1998, icc-under-pressure-2025-26, putin-warrant-icc-2023

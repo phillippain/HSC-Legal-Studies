@@ -59,7 +59,7 @@ line: "over time, the previous construction practice of relying on gravity has b
 - **Evaluating a reform you already have records for** — the DBP Act and the RAB Act are in the
   library as the response to Opal and Mascot. This is the evidence of what they achieved: real
   regulatory capacity (40 → 400 staff), and defects still in a quarter of complexes.
-- **shel.2.10 / ls.4.2 (the media as an agency of reform)** — a newspaper investigation naming
+- **shel.2.10 / chg.2 (the media as an agency of reform)** — a newspaper investigation naming
   fraudulent construction qualifications as a concern and forcing three officials to respond. Rare
   and usable.
 - **The collision (shel.3.1 / shel.3.4)** — two housing problems pulling against each other: not

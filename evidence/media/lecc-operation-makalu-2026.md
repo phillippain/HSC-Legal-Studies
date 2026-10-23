@@ -55,12 +55,12 @@ struck down still matters: it shaped the confrontation without changing what for
 
 - **crime.2.1 (police powers)** — the chain from emergency law to declared zone to use of force to
   review; pair with *Lees and Jarrett* for the court's role in the same story.
-- **ind.2.7 / hr.2.4 (statutory bodies)** — what an oversight commission can and cannot do, and why
+- **dis.3.5 / dis.3.6 / hr.2.4 (statutory bodies)** — what an oversight commission can and cannot do, and why
   it chose public hearings against police objections about officer welfare and "social cohesion".
 - **Competing perspectives** — Premier Minns: proportionate in "effectively a riot"; Commissioner
   Lanyon: officers "did what they needed to do" after a group twice marched on police. Greens MPs:
   "extreme brutality", exits blocked; NSWCCL: violence foreseeable under laws restricting protest.
-- **ls.1.7 / lip.2.3** — the rule of law applied to the state's own agents, and effectiveness
+- **inv.1.7 / exp.6** — the rule of law applied to the state's own agents, and effectiveness
   measured by whether anything follows the s 132 report.
 
 ## Caution

@@ -38,7 +38,7 @@ allowing affected proceedings to move to the Local or District Court without a f
 - **The role of a forum defined by constitutional structure rather than by the needs of the
   parties.** Nothing about the dispute changed; only the parties' addresses. It is the clearest
   example in the option of a jurisdictional rule producing an access problem.
-- **Cross-topic evidence** — the same case serves Preliminary on Chapter III, the separation of
+- **Cross-topic evidence** — the same case serves Year 11 on Chapter III, the separation of
   powers and the court hierarchy, which makes it efficient to learn.
 - **Volume against consequence**: *Burns v Corbett* resolved no shelter dispute at all, and
   redetermined which forum tens of thousands of parties could use.

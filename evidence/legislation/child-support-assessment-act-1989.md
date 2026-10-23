@@ -52,7 +52,7 @@ the **formula** that decides how much.
   survives separation and does not depend on seeing the child.
 - **fam.2.2 (consequences of separation — children)** — the money half of parenting after
   separation; the three ART records show the formula being argued over.
-- **ind.2.6** — administrative review (ART) as the pathway, not the courts: accessibility and the
+- **dis.3.4** — administrative review (ART) as the pathway, not the courts: accessibility and the
   cost of appeals.
 - **Evaluation** — Services Australia reports around $1.7 billion a year transferred but more than
   $1.5 billion in accumulated debt: enforceable in design, under-enforced in practice.

@@ -48,7 +48,7 @@ standing between the children being able to leave Australia and joining their fa
   applicant, an emergency protection history, six placements in a year, kinship carers found
   overseas. The judge: "Sadly, but not surprisingly, the children are now on their sixth out of
   home care placement since the mother's death" (at [31]).
-- **fam.1.2 / ls.2.6 (state and federal jurisdiction)** — the join made visible: the state
+- **fam.1.2 / inv.5.1 / inv.5.2 (state and federal jurisdiction)** — the join made visible: the state
   investigated, removed, placed and assessed; only the Commonwealth court could allocate parental
   responsibility, authorise passports and permit departure. HSC 2024 Q27(a) exactly.
 - **fam.3.2** — parental responsibility removed from a surviving parent and vested in a grandmother

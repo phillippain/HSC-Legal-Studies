@@ -47,7 +47,7 @@ the appeal court may confirm, modify or revoke, or order acts repeated (art 479)
 
 ## Use it for
 
-- **ls.3.4 / crime.3.2 (civil-law and common-law systems, the adversary system)** — a real, recent
+- **inv.1.3 / crime.3.2 (civil-law and common-law systems, the adversary system)** — a real, recent
   judge-only accusatory trial to set against NSW jury trial, including what the judge had to do: he
   identified aggravation in the victims being unarmed, the site remote, the hour night, and the
   offenders having had time to reconsider.
@@ -60,7 +60,7 @@ the appeal court may confirm, modify or revoke, or order acts repeated (art 479)
 - **Effectiveness in context** — México Evalúa found **96.86% impunity** for intentional homicide in
   2023. The conviction is the outlier, not the norm, which is the point to make rather than the
   length of the sentence.
-- **lip.1.5 (Australians in another jurisdiction)** — a ready-made case study.
+- **inv.6.2 (Australians in another jurisdiction)** — a ready-made case study.
 
 ## Caution
 

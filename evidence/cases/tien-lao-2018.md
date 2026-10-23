@@ -47,7 +47,7 @@ the history, the marriage **remained valid**, and they could not remarry.
 - **The requirements of a valid marriage tested at the moment of the ceremony** (`fam.1.3`), not
   afterwards. Nullity looks backwards to formation.
 - **Law reform by plebiscite** — the figures are precise and quotable, and the mechanism (a
-  **non-binding** national survey followed by legislation) is worth naming for `ls.4.3`.
+  **non-binding** national survey followed by legislation) is worth naming for `chg.3`.
 
 ## Caution
 

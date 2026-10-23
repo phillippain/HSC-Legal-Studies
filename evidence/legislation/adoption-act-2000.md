@@ -38,7 +38,7 @@ into the forced adoptions of the 1950s–70s, and it reversed the old model of s
   and the placement principles.
 - **fam.3.4** — adoption from out-of-home care, the policy that made NSW the state with the most
   care adoptions, and the controversy for Aboriginal children (the *Australian* 2025 record).
-- **ls.2.14 / croc-1989** — CROC art 21 incorporated through state law; the Hague Convention
+- **inv.6.3 / inv.7.2 / croc-1989** — CROC art 21 incorporated through state law; the Hague Convention
   through Commonwealth regulation.
 - **fam.t.values** — from closed to open adoption, and from excluding to including same-sex
   couples: two reversals in one Act.

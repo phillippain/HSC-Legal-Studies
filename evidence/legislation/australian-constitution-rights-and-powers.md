@@ -19,7 +19,7 @@ An Act of the British Parliament that took effect on 1 January 1901, approved by
 colonies, and amendable only by referendum under **s 128** (8 of 45 proposals have passed; the
 last in 1977; the 2023 Voice proposal failed 60–40). It does three jobs for Legal Studies.
 
-## 1. Division of powers (ls.2.6, fam.1.2)
+## 1. Division of powers (inv.5.1 / inv.5.2, fam.1.2)
 
 - **s 51** lists the Commonwealth's **concurrent** powers — 39 heads including trade (i), taxation
   (ii), defence (vi), **external affairs (xxix)**, **marriage (xxi)** and **divorce and matrimonial
@@ -30,9 +30,9 @@ last in 1977; the 2023 Voice proposal failed 60–40). It does three jobs for Le
   prevails.
 - **External affairs** is the lever by which international law becomes domestic law:
   *Commonwealth v Tasmania* (1983) upheld the World Heritage Act; the Racial Discrimination Act,
-  Sex Discrimination Act and Human Rights Commission Act all rest on it (hr.2.7, ls.2.14).
+  Sex Discrimination Act and Human Rights Commission Act all rest on it (hr.2.7, inv.6.3 / inv.7.2).
 
-## 2. Separation of powers (ls.2.7)
+## 2. Separation of powers (inv.5.3)
 
 Chapter I vests legislative power in **Parliament**, Chapter II executive power in the **Crown**
 (exercised by the Governor-General on ministers' advice), Chapter III judicial power in the **High
@@ -40,7 +40,7 @@ Court and federal courts**. The separation is strict for the judiciary: *Austral
 v Commonwealth* (1951) — Parliament cannot declare its own law valid; *Kable* (1996) — states
 cannot give their courts functions incompatible with federal judicial power.
 
-## 3. The High Court (ls.2.8, ls.5.2)
+## 3. The High Court (inv.5.4, chg.5.4)
 
 **s 71** creates it; **s 75–76** give original jurisdiction (including s 75(v), the entrenched right
 to seek writs against Commonwealth officers); **s 73** makes it the final court of appeal. It
@@ -64,12 +64,12 @@ That absence is the premise of the Charter debate (hr.2.14), and why Australia r
 
 ## Use it for
 
-- **ls.2.6 / ls.2.7 / ls.2.8** — the three structural dot points in one card, each with its case.
+- **inv.5.1 / inv.5.2 / inv.5.3 / inv.5.4** — the three structural dot points in one card, each with its case.
 - **hr.2.8** — "the role of the Constitution" in protecting rights: minimal, and what that
   implies.
-- **ind.2.6** — s 75(v) as the constitutional guarantee of judicial review of Commonwealth
+- **dis.3.4** — s 75(v) as the constitutional guarantee of judicial review of Commonwealth
   decisions (the migration judicial-review cases).
-- **ls.5.2** — the 1967 referendum (s 51(xxvi) and s 127) and the 2023 Voice referendum as the
+- **chg.5.4** — the 1967 referendum (s 51(xxvi) and s 127) and the 2023 Voice referendum as the
   only two Indigenous constitutional moments.
 
 ## Caution

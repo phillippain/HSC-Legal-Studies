@@ -50,8 +50,8 @@ make care orders, and sets the principles that are supposed to govern both.
   court order.
 - **fam.2.4** — exposure to domestic violence is a ROSH ground (s 23); the Act and the ADVO system
   intersect.
-- **ls.2.14** — CROC arts 3, 9, 12 and 20 are visible in ss 9–13.
-- **lip.1.1** — children in care, and Aboriginal children in particular, as a group suffering
+- **inv.6.3 / inv.7.2** — CROC arts 3, 9, 12 and 20 are visible in ss 9–13.
+- **exp.4** — children in care, and Aboriginal children in particular, as a group suffering
   disadvantage.
 
 ## Caution

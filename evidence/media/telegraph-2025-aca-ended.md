@@ -30,7 +30,7 @@ to "a dog being moved from cage to cage."
 
 ## Use it for
 
-- **ls.4.3 (mechanisms of reform)** — the rarest thing in this library: a **completed reform cycle**.
+- **chg.3 (mechanisms of reform)** — the rarest thing in this library: a **completed reform cycle**.
   *Family is Culture* (2019) → Audit Office reports (2024) → the ACYP Special Inquiry (August 2024)
   → the practice ended (April 2025). Most case studies stop at "recommendations were made"; this one
   finishes.

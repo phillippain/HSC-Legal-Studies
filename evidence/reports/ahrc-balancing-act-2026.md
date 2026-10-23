@@ -52,11 +52,11 @@ model employer. The government has not committed to any recommendation.
 - **fam.3.2 / fam.1.5 (changing parental responsibility; parents' rights)** — the clearest current
   evidence that caring responsibilities are where family law meets workplace law, and that the
   protections are procedural (a right to ask) rather than substantive.
-- **hr.2.4 / ind.2.7 (statutory authorities)** — the AHRC doing its three jobs at once: complaint
+- **hr.2.4 / dis.3.5 / dis.3.6 (statutory authorities)** — the AHRC doing its three jobs at once: complaint
   handling, inquiry and advocacy — and the limits of a body that cannot change the law it reports on.
-- **hr.2.7 / ls.2.14 (incorporation)** — CEDAW art 11(2) and **ILO Convention 156** (ratified 1990)
+- **hr.2.7 / inv.6.3 / inv.7.2 (incorporation)** — CEDAW art 11(2) and **ILO Convention 156** (ratified 1990)
   behind the SDA; a good example of a treaty obligation carried into statute but not into practice.
-- **lip.2.3 (effectiveness)** — the enforcement gap: 91% did not complain; the one who did stopped at
+- **exp.6 (effectiveness)** — the enforcement gap: 91% did not complain; the one who did stopped at
   cost.
 
 ## Caution

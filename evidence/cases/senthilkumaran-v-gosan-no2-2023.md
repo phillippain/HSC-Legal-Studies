@@ -6,9 +6,9 @@ citation: [2023] NSWSC 442
 date: 2023-04-28
 jurisdiction: Supreme Court of NSW, Schmidt AJ
 significance: A boarding house resident's racial discrimination claim about his eviction failed because the Supreme Court was the wrong forum and no unfavourable treatment was proved.
-core: shel.3.2, shel.2.4
-support: shel.2.2, shel.2.3, shel.2.5, shel.2.6, shel.2.7, shel.2.8
-themes: shel.t.effectiveness, shel.t.cooperation, shel.t.compliance
+core: shel.3.2, shel.2.4, dis.2.5, inv.4.1
+support: shel.2.2, shel.2.3, shel.2.5, shel.2.6, shel.2.7, shel.2.8, dis.2.8, inv.7.4
+themes: shel.t.effectiveness, shel.t.cooperation, shel.t.compliance, dis.t.effectiveness, dis.t.justice
 criteria: accessibility, enforceability, justice
 document: Cases/Shelter/Senthilkumaran v Gosan (No 2) [2023] NSWSC 442 - Case Summary.pdf
 source: https://www.caselaw.nsw.gov.au/

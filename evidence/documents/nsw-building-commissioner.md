@@ -46,7 +46,7 @@ in the industry behind him, after Opal Tower and in the month Mascot Towers was 
 - **Resource efficiency** — 40 staff to 400 is the clearest "legal responses need resources"
   illustration in the topic. Pair with the $59 million annual running cost and the $700 million in
   annual defect costs from the 2025 SMH series.
-- **ls.4.3 (mechanisms of reform)** — executive action as a mechanism alongside parliaments and
+- **chg.3 (mechanisms of reform)** — executive action as a mechanism alongside parliaments and
   courts.
 
 ## Caution

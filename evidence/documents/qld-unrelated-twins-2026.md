@@ -46,7 +46,7 @@ Section 24 was therefore never engaged, and a parentage order could be made for 
 - **fam.3.3 (surrogacy and birth technologies)** — a vivid, memorable illustration that **parentage
   does not follow biology**: two sets of biological parents, and the only way the genetic parents
   became legal parents was a court order.
-- **ls.2.4 / ls.1.4 (statute law, just laws)** — a protective provision that would have produced an
+- **inv.3.3 / inv.4.4 / inv.1.2 (statute law, just laws)** — a protective provision that would have produced an
   absurd result if read literally. Good for statutory interpretation and for the proposition that a
   law written for the ordinary case can fail the unusual one.
 - **fam.3.3 and law reform** — drafters writing "birth siblings" in 2010 did not imagine

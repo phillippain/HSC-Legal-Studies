@@ -6,9 +6,9 @@ citation: "[2026] FedCFamC2F 1045"
 date: 2026-07-28
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Judge Beckhouse
 significance: Six contraventions committed while already on a bond, answered with two more bonds and a surety halved because of the mother's mortgage — proportionality, not punishment.
-core: fam.2.5
-support: fam.3.2, fam.2.2, fam.2.4, shel.3.1
-themes: fam.t.compliance, fam.t.effectiveness, fam.t.cooperation
+core: fam.2.5, dis.2.7, dis.2.5
+support: fam.3.2, fam.2.2, fam.2.4, shel.3.1, dis.2.8
+themes: fam.t.compliance, fam.t.effectiveness, fam.t.cooperation, dis.t.effectiveness
 criteria: enforceability, justice, responsiveness
 document: Cases/Family/Keven & Jaylah (No 2) [2026] FedCFamC2F 1045 - Case Summary.pdf
 related: murchin-enfield-no3-2026, vacek-novosel-no7-2026, family-law-act-1975

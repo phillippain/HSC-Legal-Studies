@@ -2,7 +2,7 @@
 type: document
 title: Individual rights and responsibilities — what Australians actually have
 short: Rights and responsibilities
-citation: Preliminary Part II reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part II
 date: 2026
 jurisdiction: Australia
 significance: Australia has no national bill of rights, so an individual's rights sit in scattered statutes, a handful of implied constitutional freedoms, and the common law.
@@ -44,9 +44,9 @@ abstract:
 
 ## Use it for
 
-- **The nature of individual rights** (`ind.1.1`) — the answer that earns marks says *where* a right
+- **The nature of individual rights** (`inv.7.2 / inv.7.3`) — the answer that earns marks says *where* a right
   comes from, because the source determines how easily it can be removed. A common law right yields to
   a statute; a statutory right yields to a later statute; only a constitutional right resists both.
-- **Rights and responsibilities** (`ind.1.2`) as a genuine relationship rather than a slogan: a right
+- **Rights and responsibilities** (`inv.7.1`) as a genuine relationship rather than a slogan: a right
   that no one has a corresponding duty to respect is not enforceable, which is the link to the
   enforceability criterion.

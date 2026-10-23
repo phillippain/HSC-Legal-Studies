@@ -39,7 +39,7 @@ reporter**, repeatedly told FACS the children were at risk of significant harm.
   (2007–08)** produced the **"Keep Them Safe"** initiative, and these deaths followed it. Set that
   against the 2023 *SMH* investigation (9,000 unassessed reports) and **Family Is Culture** (12 of 126
   recommendations implemented) to argue that the reform stage that fails is implementation.
-- A **coronial inquest** as a legal response in its own right (`ind.2.7`): it cannot punish or
+- A **coronial inquest** as a legal response in its own right (`dis.3.5 / dis.3.6`): it cannot punish or
   compensate, only find facts and recommend — which is exactly its strength and its limit.
 
 ## Caution

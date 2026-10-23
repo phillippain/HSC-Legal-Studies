@@ -75,7 +75,7 @@ reported a stay could affect other accused people deported to Australia.
 - **crime.2.1 / crime.6.2 (police powers, international cooperation)** — police acting outside formal
   extradition despite a treaty existing, and the accountability question in paying private
   contractors to escort a prisoner.
-- **ls.1.7 (rule of law)** — the government must obey the law to use the courts; set against the
+- **inv.1.7 (rule of law)** — the government must obey the law to use the courts; set against the
   community's interest in trying serious crime. The AFP says more than 70% of serious organised
   criminals targeting Australia are offshore.
 - **Evaluating effectiveness** — the trial was vacated in 2025 while agency material was outstanding;

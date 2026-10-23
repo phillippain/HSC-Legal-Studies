@@ -56,7 +56,7 @@ Protection) Act 1998*. Only about a quarter of children reported at ROSH were se
   police data and prevalence can move in opposite directions.
 - **hr.3.1 / CROC** — children as rights-holders, and the *National Plan to End Violence against
   Women and Children 2022–32* recognising children as **victim-survivors in their own right**.
-- **ls.4.2 (agencies of reform)** — the researchers, the Ombudsman, the 2024 Rapid Review (21
+- **chg.2 (agencies of reform)** — the researchers, the Ombudsman, the 2024 Rapid Review (21
   recommendations, being implemented progressively through National Cabinet), and former National
   Children's Commissioner Anne Hollonds saying it is time for action, not more inquiries. The
   researchers also call for nationally consistent corporal punishment laws, parenting programs,

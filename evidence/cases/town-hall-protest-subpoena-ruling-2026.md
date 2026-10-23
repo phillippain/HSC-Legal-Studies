@@ -62,7 +62,7 @@ them already praying.
   accused compel the state's documents to contest one.
 - **crime.2.1** — read with *Lees and Jarrett* (the laws) and *LECC Operation Makalu* (the
   oversight): three forums testing the same policing operation at once.
-- **lip.1.3 (individuals in conflict with the state)** — a precise example of legal responses by the
+- **dis.3.2 (individuals in conflict with the state)** — a precise example of legal responses by the
   accused (subpoena) and by NGOs (an open letter from **80 organisations** including NSWCCL and the
   HRLC, 2 June 2026, calling for all charges to be dropped after *Jarrett*).
 - **Competing perspectives** — Premier Minns: a lawful dispersal direction was largely ignored and

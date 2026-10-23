@@ -2,7 +2,7 @@
 type: document
 title: Just laws and the nature of justice — equality, fairness, access
 short: Just laws and justice
-citation: Preliminary Part I reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part I
 date: 2026
 jurisdiction: Australia
 significance: A law can be validly made and still be unjust, which is why the syllabus asks for characteristics of just laws separately from the rule of law.

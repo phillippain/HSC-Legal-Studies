@@ -6,9 +6,9 @@ citation: [2016] NSWSC 3
 date: 2016-01-12
 jurisdiction: Supreme Court of NSW (Equity, Real Property List), Black J
 significance: The Supreme Court refused a developer leave under the new s 66ZL to rescind an off-the-plan sale, because it had assumed the earlier developer's obligations and its claims lacked evidence.
-core: shel.2.1
-support: shel.2.5, shel.2.6, shel.3.1
-themes: shel.t.reform, shel.t.compliance, shel.t.values
+core: shel.2.1, dis.2.3, dis.2.7
+support: shel.2.5, shel.2.6, shel.3.1, dis.2.2, inv.3.3
+themes: shel.t.reform, shel.t.compliance, shel.t.values, dis.t.justice, dis.t.effectiveness
 criteria: enforceability, rights, justice
 document: Cases/Shelter/Jobema v Zhu [2016] NSWSC 3 - Case Summary.pdf
 source: https://www.caselaw.nsw.gov.au/

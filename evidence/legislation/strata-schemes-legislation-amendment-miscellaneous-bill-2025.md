@@ -48,7 +48,7 @@ manager duties and Fair Trading powers commence → **15 Oct 2026** fourth bill 
 - **shel.2.4 / shel.2.3** — strata as a tenure where the neighbours make the rules, and the law
   stepping in on three power imbalances: owners corporation v lot owner (EV, bonds), owners v
   building managers (terms, commissions), and regulator v scheme (publication).
-- **ls.4.1–4.3 (law reform)** — a textbook sequence: statutory review → four tranches over three
+- **chg.1–4.3 (law reform)** — a textbook sequence: statutory review → four tranches over three
   years → regulations still to come. The Opposition supported the Bill while criticising the pace;
   crossbenchers pressed on insurance commissions, which remain under review, not in the Bill.
 - **shel.t.values / responsiveness** — EV charging and sustainability as the social change the law

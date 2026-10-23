@@ -59,9 +59,9 @@ accommodation. No government response was reported.
 - **fam.2.4 (domestic violence)** — pair with the Wadeye/Peppimenarti record: two communities, the
   same conclusion that legal responses fail on **resources**, not law. This one adds a death, a
   charge, and a station closed eight years ago.
-- **ls.1.5 (access to justice)** — distance as the barrier to every rung of the ladder.
+- **inv.1.4 (access to justice)** — distance as the barrier to every rung of the ladder.
 - **fam.2.6 / hr.2.12** — AMSANT and an envoy as advocates; the coroner as a reform agency
-  (**ls.4.2**) whose recommendations the NT partly rejected.
+  (**chg.2**) whose recommendations the NT partly rejected.
 - **crime.2.1 / crime.2.2 / crime.2.5** — reporting duties, police resourcing, and bail not sought
   on a murder charge.
 - **Federalism** — Commonwealth plan money against an NT budget the NT calls a record ($36m a year)

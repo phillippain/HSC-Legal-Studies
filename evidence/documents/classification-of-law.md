@@ -2,7 +2,7 @@
 type: document
 title: Classifying law — public and private, criminal and civil, common and civil law systems
 short: Classification of law
-citation: Preliminary Part I reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part I
 date: 2026
 jurisdiction: Australia and comparative
 significance: Who brings the action, what has to be proved, and what the court can order — those three answers separate criminal from civil, and they explain everything else.
@@ -55,8 +55,8 @@ Some systems are neither or both: **religious legal systems** such as sharia, an
 
 ## Use it for
 
-- **Classification** (`ls.3.1`, `ls.3.2`) answered in the three questions above rather than as a list
+- **Classification** (`inv.1.3 / dis.3.1`, `dis.2.3`) answered in the three questions above rather than as a list
   of branches — it is faster to write and harder to get wrong.
-- **Common and civil law systems** (`ls.3.4`) with the point that matters: the difference is not which
+- **Common and civil law systems** (`inv.1.3`) with the point that matters: the difference is not which
   country has better law but **who is responsible for finding the facts**, which is the same argument
   made about the adversary system in Crime.

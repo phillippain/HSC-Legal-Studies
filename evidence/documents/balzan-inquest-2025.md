@@ -56,11 +56,11 @@ force; and authorising trained plain-clothes officers to carry tasers.
 - **crime.t.discretion** — proactive patrolling as discretion in its purest form: nobody directed
   these officers to stop this person. Note the base rate the Coroner relied on (three searches in
   90 minutes) as evidence of what the patrol was actually for.
-- **ls.1.7 / ls.1.6 (rule of law, procedural fairness)** — the police submitted it was procedurally
+- **inv.1.7 / inv.1.6 (rule of law, procedural fairness)** — the police submitted it was procedurally
   unfair to find constructive detention when they had never been *trained* in the concept. The
   Coroner rejected that, and said the lack of training "underscores the importance of express
   guidance". Both halves are usable.
-- **ls.4.2 (agencies of reform)** — a coroner as a reform agency: no power to punish, seven
+- **chg.2 (agencies of reform)** — a coroner as a reform agency: no power to punish, seven
   recommendations, and a civil suit by the father running alongside.
 - **Evaluating effectiveness** — accountability in layers that each stopped short: the shooting
   itself was found to be in defence of a colleague, so the finding lands on the *stop*, not the

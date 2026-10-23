@@ -39,7 +39,7 @@ appeal.
 - **Evaluation** — whether s 501 deportation reduces crime or exports it; Pacific governments have long
   argued the second. Australia's $600 million Waqa Moana Initiative targets Pacific drug trafficking,
   not deportation.
-- **hr.2.1 / ls.2.11 (sovereignty)** — each state polices its own territory; the problem crosses them.
+- **hr.2.1 / inv.6.2 (sovereignty)** — each state polices its own territory; the problem crosses them.
 
 ## Caution
 

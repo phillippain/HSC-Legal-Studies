@@ -68,7 +68,7 @@ Centres or the Local Court. NCAT payment and compensation orders are each capped
 - **shel.3.1 / shel.3.4 (affordability, social housing)** — a Perth median house rent of $750 against
   one renter's rise from $315 a week since 2019; social housing has shrunk as a share of stock, so
   private renting has no alternative.
-- **ls.4.3 (mechanisms of reform)** — National Cabinet's **A Better Deal for Renters** (August 2023)
+- **chg.3 (mechanisms of reform)** — National Cabinet's **A Better Deal for Renters** (August 2023)
   set shared standards that **each state then legislates itself**, which NSW did in 2024–25. A clean
   example of cooperative federalism producing uneven law. NSW ruled out ACT-style rent caps in 2023.
 - **Competing responses** — the Tenants' Union wants increases above 3% to need tenant agreement or

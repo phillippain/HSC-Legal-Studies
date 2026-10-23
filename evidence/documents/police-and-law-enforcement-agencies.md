@@ -2,7 +2,7 @@
 type: document
 title: Police and law enforcement agencies — who does what, and who watches them
 short: Law enforcement agencies
-citation: Preliminary Part II reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part II
 date: 2026
 jurisdiction: NSW and Commonwealth
 significance: Policing is a state responsibility, federal agencies handle crime that crosses a border, and the only external check on NSW police conduct is a commission with no power to prosecute.
@@ -42,8 +42,8 @@ police power, so the states do the ordinary work of law enforcement.
 
 ## Use it for
 
-- **Federal and state police** (`ind.2.1`) — the division of responsibility is a **division of powers**
-  question (`ls.2.6`), and saying so lifts the answer out of description.
+- **Federal and state police** (`dis.3.2`) — the division of responsibility is a **division of powers**
+  question (`inv.5.1 / inv.5.2`), and saying so lifts the answer out of description.
 - **Accountability without prosecution.** The LECC investigates and reports; the decision to prosecute
   belongs elsewhere. That gap is the standard criticism, and it connects to the STMP and strip-search
   findings in the young offenders record.

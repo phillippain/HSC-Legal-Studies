@@ -6,9 +6,9 @@ citation: "[2026] ARTA 2033"
 date: 2026-07-15
 jurisdiction: Administrative Review Tribunal — General Member S Hoffman
 significance: A father's mortgage payments counted as care and his share rose from 20% to 33% — yet both figures sit in the same cost band, so his child support did not change.
-core: fam.1.5, fam.3.2
-support: fam.2.1, fam.2.2, fam.2.5, shel.1.4, shel.3.1
-themes: fam.t.effectiveness, fam.t.values, fam.t.reform, fam.t.cooperation
+core: fam.1.5, fam.3.2, dis.3.4, dis.3.1
+support: fam.2.1, fam.2.2, fam.2.5, shel.1.4, shel.3.1, dis.3.8
+themes: fam.t.effectiveness, fam.t.values, fam.t.reform, fam.t.cooperation, dis.t.effectiveness
 criteria: accessibility, justice, responsiveness
 document: Cases/Family/Swynnerton and Swynnerton [2026] ARTA 2033 - Case Summary.pdf
 related: brigham-hibler-2026, three-child-support-reviews-2026

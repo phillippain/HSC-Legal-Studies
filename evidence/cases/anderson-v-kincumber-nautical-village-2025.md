@@ -6,9 +6,9 @@ citation: [2025] NSWCATCD 90
 date: 2025-09-26
 jurisdiction: NCAT Consumer and Commercial Division (NSW), Principal Member D Robertson
 significance: NCAT held a land lease community's yearly site fee formula was an unfair contract term under consumer law and ordered a refund of fees overpaid since 7 December 2023.
-core: shel.2.4, shel.3.1
-support: shel.2.2, shel.2.3, shel.2.5, shel.2.6, shel.2.9
-themes: shel.t.effectiveness, shel.t.reform, shel.t.compliance
+core: shel.2.4, shel.3.1, dis.2.7, dis.2.5
+support: shel.2.2, shel.2.3, shel.2.5, shel.2.6, shel.2.9, dis.2.2, dis.2.3, dis.2.8, inv.3.3
+themes: shel.t.effectiveness, shel.t.reform, shel.t.compliance, dis.t.effectiveness, dis.t.justice
 criteria: accessibility, enforceability, justice, resource
 document: Cases/Shelter/Anderson v Kincumber [2025] NSWCATCD 90 - Case Summary.pdf
 source: https://www.caselaw.nsw.gov.au/

@@ -34,9 +34,9 @@ side for first-home buyers, and they are the measures politicians announce most 
   the bar for the next.
 - **shel.2.1** — the concessions are claimed at settlement through the conveyancer; a buyer's
   eligibility affects the price they can pay.
-- **ls.2.6** — NSW controls duty and the grant; the Commonwealth, with no property power, uses its
+- **inv.5.1 / inv.5.2** — NSW controls duty and the grant; the Commonwealth, with no property power, uses its
   spending power and a statutory corporation.
-- **lip.2.1 / ls.4.1** — the 2022–23 NSW election fought over duty v land tax, and the 2024 Senate
+- **exp.5 / chg.1** — the 2022–23 NSW election fought over duty v land tax, and the 2024 Senate
   deal on Help to Buy: competing interests and the conditions for reform.
 
 ## Caution

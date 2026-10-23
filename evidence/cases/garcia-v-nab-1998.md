@@ -6,9 +6,9 @@ citation: [1998] HCA 48
 date: 1998-08-06
 jurisdiction: High Court of Australia
 significance: A bank could not enforce a guarantee, secured over the family home, that a wife signed in under a minute without understanding it.
-core: shel.2.1
-support: shel.2.6, shel.2.9, shel.1.4
-themes: shel.t.values, shel.t.reform, shel.t.effectiveness
+core: shel.2.1, dis.2.3, dis.2.8
+support: shel.2.6, shel.2.9, shel.1.4, dis.2.2, inv.3.2, inv.4.1
+themes: shel.t.values, shel.t.reform, shel.t.effectiveness, dis.t.justice, dis.t.values
 criteria: rights, justice, society
 document: Cases/Shelter/Garcia v NAB [1998] HCA 48 - Case Summary.pdf
 source: https://www.hcourt.gov.au/

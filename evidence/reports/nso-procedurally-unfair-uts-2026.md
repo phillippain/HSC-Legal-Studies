@@ -40,9 +40,9 @@ table a report. Education Minister Clare said UTS "let Jewish students down".
 
 ## Use it for
 
-- **hr.2.4 / ind.2.7 (statutory authorities, ombudsmen)** — a new oversight body in action: how a
+- **hr.2.4 / dis.3.5 / dis.3.6 (statutory authorities, ombudsmen)** — a new oversight body in action: how a
   complaint escalates, what a finding of "wrong or unjust" means, and the enforcement limit.
-- **ls.1.6 (procedural fairness)** — the right to be heard before an adverse finding is published,
+- **inv.1.6 (procedural fairness)** — the right to be heard before an adverse finding is published,
   applied to a student organisation.
 - **hr.3.1 / hr.t.values** — freedom from racial discrimination against protest and expression:
   the Parliamentary Joint Committee on Human Rights (Feb 2025, 10 recommendations), the Special
@@ -50,7 +50,7 @@ table a report. Education Minister Clare said UTS "let Jewish students down".
   over 90% of religious Jewish respondents reported racism; 60–80% of those experiencing racism
   dissatisfied with complaint processes) on one side; the NTEU and Amnesty warning that antisemitism
   definitions chill academic freedom and ICCPR art 19 rights on the other.
-- **lip.2.3 (effectiveness)** — six of seven accepted, apologies issued, policy changed — but the
+- **exp.6 (effectiveness)** — six of seven accepted, apologies issued, policy changed — but the
   incorrect claim about AUJS remains in circulation because reissue was refused.
 
 ## Caution

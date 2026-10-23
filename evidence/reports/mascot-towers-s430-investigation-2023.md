@@ -49,12 +49,12 @@ On the council's file, the report concluded there was adequate documentation sho
   That combination of roles, and the private certification regime generally, is the target of the
   reforms that followed. Use the finding to show why reform targeted the system rather than
   individuals.
-- **ls.4.1 (conditions giving rise to reform)** — Mascot Towers and Opal Tower are the two events
+- **chg.1 (conditions giving rise to reform)** — Mascot Towers and Opal Tower are the two events
   behind the **Design and Building Practitioners Act 2020** and the **Residential Apartment Buildings
   (Compliance and Enforcement Powers) Act 2020**, and behind the duty of care in **DBP Act s 37**
   that the High Court applied in ***Pafburn***. This document is the evidence of what they were
   reacting to.
-- **Remedies and their limits (shel.2.5, ind.2.6)** — the owners' problem was not that no law applied
+- **Remedies and their limits (shel.2.5, dis.3.4)** — the owners' problem was not that no law applied
   but that compliance with it gave them nothing. Pair with *Brookfield Multiplex*, where the High
   Court denied owners a duty of care in negligence, and with *Pafburn*, where the statutory duty
   filled part of that gap.

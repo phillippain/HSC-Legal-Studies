@@ -38,11 +38,11 @@ the ICCPR, CROC, the Declaration on the Rights of Disabled Persons and other sch
   can say Australia protects rights "by statute" rather than a charter.
 - **hr.2.4 / hr.2.11 (independent statutory authorities)** — what an NHRI is and the gap between
   *investigate and report* and *enforce*; the YiSSA and *Balancing Act* records are current examples.
-- **ind.2.7** — alongside the Ombudsman and ICAC, a body individuals can complain to about the
+- **dis.3.5 / dis.3.6** — alongside the Ombudsman and ICAC, a body individuals can complain to about the
   state without going to court.
 - **hr.2.14** — the Commission's own 2023 proposal for a federal Human Rights Act; the Act's limits
   are the argument for one.
-- **ind.3.3 (difficulties enforcing rights)** — conciliation is confidential and voluntary; court
+- **chg.6.5 (difficulties enforcing rights)** — conciliation is confidential and voluntary; court
   is costly and risks an adverse costs order.
 
 ## Caution

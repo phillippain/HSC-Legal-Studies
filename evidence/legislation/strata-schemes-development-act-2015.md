@@ -49,7 +49,7 @@ holdout could block the sale of an ageing building. Part 10 allows:
   living there, this Act is about whether the building survives.
 - **shel.1.4 (legal nature of shelter)** — the sharpest NSW example of ownership being
   *conditional*: a 25% minority can lose their homes to a majority vote plus a court order.
-- **lip.2.1 / shel.3.1** — balancing older owners who want to stay against renewal of unsafe or
+- **exp.5 / shel.3.1** — balancing older owners who want to stay against renewal of unsafe or
   uneconomic buildings, and the supply argument that renewal adds homes.
 - **shel.2.6** — the Land and Environment Court, not NCAT, has jurisdiction over renewal.
 

@@ -40,7 +40,7 @@ with Labor's support, and the camp dispersed before it commenced.
 - **shel.2.8 / lepra-2002** — alongside LEPRA move-on directions (Part 14) and the *Inclosed Lands
   Protection Act*, one of three enforcement powers used against rough sleepers; the Pari case shows
   the daily version.
-- **ls.4.3 / lip.2.1** — Parliament responding to media pressure in a week; the City of Sydney,
+- **chg.3 / exp.5** — Parliament responding to media pressure in a week; the City of Sydney,
   homelessness NGOs and the Government in open conflict over who should act.
 - **Evaluation** — enforceable, immediate, and ineffective by its own measure: rough sleeping in the
   CBD rose again within two years (City of Sydney street counts).

@@ -53,7 +53,7 @@ all residential land would.
 - **shel.2.8** — councils, the Department of Planning, the Housing Delivery Authority and the Land
   and Environment Court as the agencies that decide whether homes get built.
 - **shel.2.4** — boarding houses and seniors housing are permitted through the Housing SEPP.
-- **lip.2.1 (balancing interests)** — existing residents, developers, councils and the state: the
+- **exp.5 (balancing interests)** — existing residents, developers, councils and the state: the
   Mosman case and the TOD precinct disputes are the live examples.
 
 ## Caution

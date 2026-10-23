@@ -43,14 +43,14 @@ Procedure Act 2005*, and fee-charging private mediators.
 
 ## Use it for
 
-- **shel.2.5 / ind.2.2 (ADR)** — the clearest current example that ADR in NSW is *contracting*:
+- **shel.2.5 / dis.2.5 (ADR)** — the clearest current example that ADR in NSW is *contracting*:
   a free service with a four-in-five settlement rate closed while NCAT's Consumer and Commercial
   Division takes 50,000-plus applications a year.
-- **ls.1.6 / lip.2.2** — what mediation offers (cheap, fast, preserves relationships) and what it
+- **inv.1.6 / exp.5.5** — what mediation offers (cheap, fast, preserves relationships) and what it
   cannot (binding orders, precedent).
 - **Evaluation — resource efficiency v accessibility** — the saving in one budget becomes cost in
   another, borne by the people least able to pay for a private mediator or a lawyer.
-- **ls.4.1** — reform in reverse: a service removed without a law reform process.
+- **chg.1** — reform in reverse: a service removed without a law reform process.
 
 ## Caution
 

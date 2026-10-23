@@ -6,9 +6,9 @@ citation: "[2026] FedCFamC2F 391"
 date: 2026-03-20
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2), Judge Mansfield
 significance: The expert recommended the mother; the Court gave sole decision-making to the father — because the benefit she described came from someone having it, not from her having it.
-core: fam.3.2, fam.2.2
-support: fam.1.5, fam.2.5, fam.3.4, fam.2.4
-themes: fam.t.cooperation, fam.t.effectiveness, fam.t.reform
+core: fam.3.2, fam.2.2, dis.2.5
+support: fam.1.5, fam.2.5, fam.3.4, fam.2.4, exp.1.1, dis.2.8
+themes: fam.t.cooperation, fam.t.effectiveness, fam.t.reform, dis.t.justice, dis.t.effectiveness
 criteria: rights, responsiveness, justice
 document: Jade Cases/Completed Case Summaries/02_Walsman_and_Walsman_2026_FedCFamC2F_391.pdf
 related: family-law-amendment-act-2023, pandeva-pandeva-2026

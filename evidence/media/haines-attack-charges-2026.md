@@ -68,7 +68,7 @@ including **attempted murder** (25 years, ss 321M, 321P), are "not ruled out".
 
 - **crime.1.5 / crime.1.6 (categories; summary and indictable)** — an offence against the person
   that is also an offence against the state's institutions; all three charges are indictable.
-- **crime.3.1 / ls.2.3 / ls.2.6 (jurisdiction, division of powers)** — the cleanest current example
+- **crime.3.1 / inv.4.1 / inv.5.1 / inv.5.2 (jurisdiction, division of powers)** — the cleanest current example
   of concurrent state and federal criminal law: the Commonwealth has no general criminal power, so
   s 147.1 is tied to the protection of its own officials.
 - **crime.2.4 / crime.2.5** — citizen's arrest by a bystander, charge within 48 hours, a

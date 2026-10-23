@@ -33,7 +33,7 @@ and, on this research, restrictive zoning and approval processes limit construct
 - **The cause, not just the symptom.** Most Shelter answers describe unaffordability; this names a
   legal mechanism that produces it. Zoning is law, made under statute, and it is the lever a
   government can actually pull.
-- **A non-government organisation as an agency of law reform** (Preliminary ls.4.2) — a think tank
+- **A non-government organisation as an agency of law reform** (Year 11 chg.2) — a think tank
   producing the evidence base for a legislative change.
 - The counterweight to the tenancy-regulation argument: if supply is the binding constraint, then
   reforms that protect tenants improve security without improving affordability. Holding both of

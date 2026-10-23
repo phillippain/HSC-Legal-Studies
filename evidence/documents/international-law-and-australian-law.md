@@ -2,7 +2,7 @@
 type: document
 title: International law — sources, sovereignty, and how it reaches Australian law
 short: International law and Australian law
-citation: Preliminary Part II reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part II
 date: 2026
 jurisdiction: International and Australia
 significance: International law binds states that consent to it and reaches Australians only when Parliament legislates — which is why ratification and protection are different things.

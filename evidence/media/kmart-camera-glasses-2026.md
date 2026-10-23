@@ -2,7 +2,7 @@
 type: media
 title: Kmart's $89 camera glasses — law reform lagging technology (2026)
 short: Kmart camera glasses
-citation: Preliminary Legal Studies evidence summary, 7 October 2026; facts drawn from ABC News, the OAIC, SmartCompany and the Attorney-General's statements, July–October 2026
+citation: Year 11 Legal Studies evidence summary, 7 October 2026; facts drawn from ABC News, the OAIC, SmartCompany and the Attorney-General's statements, July–October 2026
 date: 2026-10-07
 jurisdiction: Commonwealth and NSW
 significance: The glasses went on sale, sold out and were pulled before Parliament changed a single law — a contemporary issue where every response works around the gap rather than closing it.
@@ -45,17 +45,17 @@ penalty is aimed at a company in Shenzhen that has ignored every request.
 
 ## Use it for
 
-- **ls.4.1 / ls.4.3 (conditions and mechanisms of reform)** — new technology as the classic condition,
+- **chg.1 / chg.3 (conditions and mechanisms of reform)** — new technology as the classic condition,
   and a clean demonstration that the *mechanism* that matters, Parliament, has not moved: the ALRC
   recommended the tort in **2014** and it began in **2025**; the "tranche 2" *Privacy Act* reform
   agreed in September 2023 is still unwritten.
-- **ls.4.2 (agencies of reform)** — a petition, an NGO, the media and a regulator all acted inside ten
+- **chg.2 (agencies of reform)** — a petition, an NGO, the media and a regulator all acted inside ten
   weeks. The media's security testing is what triggered the formal investigation.
-- **ind.3.3 / ind.3.4 (enforcing rights, future directions)** — most people never learn they were
+- **chg.6.5 / chg.6 (enforcing rights, future directions)** — most people never learn they were
   filmed, so a right that depends on discovering the breach cannot deter misuse.
-- **Federalism (ls.2.6)** — privacy is mostly Commonwealth, surveillance and voyeurism offences are
+- **Federalism (inv.5.1 / inv.5.2)** — privacy is mostly Commonwealth, surveillance and voyeurism offences are
   state, and Brisbane used a council rule: no single parliament can close the gap alone.
-- **lip.2.3 (evaluating responses)** — the sharpest line in the summary: *non-legal responses removed
+- **exp.6 (evaluating responses)** — the sharpest line in the summary: *non-legal responses removed
   the product; only law reform can protect people from the next one.*
 
 ## Caution

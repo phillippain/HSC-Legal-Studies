@@ -44,7 +44,7 @@ funded not under this Act but from rental bond interest through NSW Fair Trading
   so legal aid in tenancy means advice beforehand more than advocacy on the day.
 - **Evaluation** — Legal Aid's own report of a **19% rise** in housing demand and tightened
   eligibility (LSJ, 2025), and TAAP's 39% unmet need: accessibility measured in people turned away.
-- **ls.1.5 / *Dietrich*** — there is no right to legal aid in civil matters; *Dietrich* applies only
+- **inv.1.4 / *Dietrich*** — there is no right to legal aid in civil matters; *Dietrich* applies only
   to serious criminal trials.
 
 ## Caution

@@ -45,11 +45,11 @@ criticism of it.
 
 ## Use it for
 
-- **ind.2.7** — the strongest "statutory body" an individual can complain to, and the one that most
+- **dis.3.5 / dis.3.6** — the strongest "statutory body" an individual can complain to, and the one that most
   clearly shows the investigate/find/refer limit.
-- **ls.1.7 (rule of law)** — ministers and Premiers investigated by a body they created; and the
+- **inv.1.7 (rule of law)** — ministers and Premiers investigated by a body they created; and the
   counter-example, Parliament rewriting s 8 after *Cunneen*.
-- **ind.2.4 / lip.1.3** — public hearings as a non-legal pressure (media, resignations) running
+- **dis.3.3 / dis.3.2** — public hearings as a non-legal pressure (media, resignations) running
   ahead of any legal outcome.
 - **Evaluation** — prosecutions following ICAC findings are slow and often fail because compelled
   evidence is inadmissible: effectiveness depends on what you count.

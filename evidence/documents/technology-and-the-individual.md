@@ -2,7 +2,7 @@
 type: document
 title: The individual and technology — the contemporary issue
 short: Technology and the individual
-citation: Preliminary Part II, Section 3 reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part II, Section 3
 date: 2026
 jurisdiction: Australia
 significance: Technology changes what can be done to a person faster than the law changes what may be done, and the gap is widest where the actor is a company rather than the state.
@@ -27,7 +27,7 @@ A reference note, with the worked instances recorded separately in this finder.
 | **Police powers over devices** | LEPRA **ss 76AA–76AQ** digital evidence orders: a court can compel a password, and non-compliance is an offence |
 | **Online harm and speech** | The eSafety Commissioner's removal powers; defamation reaching social media posts |
 
-## Why enforcement is the hard part (`ind.3.3`)
+## Why enforcement is the hard part (`chg.6.5`)
 
 - **Jurisdiction.** The server, the company and the harm are often in three countries.
 - **Anonymity.** A remedy needs a respondent who can be identified and served.
@@ -36,7 +36,7 @@ A reference note, with the worked instances recorded separately in this finder.
 - **Invisibility.** A person scored by a model, or tracked by a device, usually does not know it
   happened — and a right you do not know has been breached is never enforced.
 
-## Future directions (`ind.3.4`)
+## Future directions (`chg.6`)
 
 Privacy Act reform (a direct right of action, and narrowing the small-business exemption), statutory
 regulation of automated decision-making, national rules on tenant data following **"A Better Deal for

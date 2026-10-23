@@ -6,9 +6,9 @@ citation: "[2026] FedCFamC1F 494"
 date: 2026-07-17
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Smith J
 significance: A judge ordered children to live where he was not satisfied they were safe, because nothing could be proved either way — and sent the file to child protection.
-core: fam.3.4, fam.2.5, shel.3.3
-support: fam.3.2, fam.2.4, fam.1.5, fam.2.2, hr.3.1
-themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform
+core: fam.3.4, fam.2.5, shel.3.3, dis.2.5, exp.1.1
+support: fam.3.2, fam.2.4, fam.1.5, fam.2.2, hr.3.1, dis.2.4, dis.2.8
+themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform, dis.t.justice
 criteria: enforceability, justice, rights, responsiveness
 document: Cases/Family/Gizela & Elmas [2026] FedCFamC1F 494 - Case Summary.pdf
 related: kawakami-urbonaite-2026, patchett-tapley-2026, inquest-blgn-and-dg-2018

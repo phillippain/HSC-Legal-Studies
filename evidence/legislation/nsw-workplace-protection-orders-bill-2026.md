@@ -50,7 +50,7 @@ measures WPOs.
   protection for workers against the rights of a person who has not been convicted of anything.
 - **crime.5.4** — orders reaching **14-year-olds** with no stated capacity safeguard, where Victoria
   requires courts to consider a child's ability to comply.
-- **ls.4.1–4.3 (law reform)** — the conditions (retail violence, union and retailer lobbying), the
+- **chg.1–4.3 (law reform)** — the conditions (retail violence, union and retailer lobbying), the
   agencies (SDA, Australian Retail Council, Woolworths and Coles), the mechanism (Parliament copying
   four other jurisdictions), and the gap in the evidence base.
 - **Critics' line** — Victorian community legal centres warned the orders would fall hardest on

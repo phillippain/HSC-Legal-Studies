@@ -45,7 +45,7 @@ submissions.
 
 ## Use it for
 
-- **fam.2.5 / ind.2.6 (dispute resolution; merits review)** — four decision-makers before a final
+- **fam.2.5 / dis.3.4 (dispute resolution; merits review)** — four decision-makers before a final
   answer, all outside the courts, with a self-represented father on the telephone and an absent
   party heard on paper. Pair with a court case: a tribunal carrying **no onus of proof** against a
   court deciding on the balance of probabilities — the Member's own words make the contrast.

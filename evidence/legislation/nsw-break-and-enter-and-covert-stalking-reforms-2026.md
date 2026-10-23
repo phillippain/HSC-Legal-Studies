@@ -55,10 +55,10 @@ buyers, **25%** had a DFV history and 37% were known to police.
 
 - **fam.2.4 (domestic violence)** — the paired reform: one closes a gap the courts opened, the
   other follows an agency report on technology-facilitated abuse.
-- **ls.4.3 / ls.2.8 / ls.2.1** — Parliament overriding a High Court interpretation of the common
+- **chg.3 / inv.5.4 / inv.3.1 / inv.3.2** — Parliament overriding a High Court interpretation of the common
   law: the cleanest current example of statute responding to precedent, with the dissent as the
   values argument.
-- **ls.4.1 / ls.4.2** — conditions (a publicised acquittal), agencies (Crime Commission, the Women's
+- **chg.1 / chg.2** — conditions (a publicised acquittal), agencies (Crime Commission, the Women's
   Safety Commissioner), mechanisms (a lapsed private member's bill, then a government bill).
 - **crime.1.2 / crime.t.balance** — the element the reform rewrites (trespass) and the critics'
   concern: defence lawyers say separations are rarely clean and an objective covert-stalking test

@@ -34,9 +34,9 @@ changing values, and it happened in **stages**, each a separate statute.
   **de facto recognition came first** and marriage last.
 - **fam.1.4** — de facto relationships: the two-year rule (FLA s 4AA), the NSW register, and why
   the 2009 referral matters.
-- **ls.4.1 / ls.4.3** — conditions for reform (AHRC inquiry, changing attitudes, a plebiscite) and
+- **chg.1 / chg.3** — conditions for reform (AHRC inquiry, changing attitudes, a plebiscite) and
   mechanisms (High Court ruling out the states, Parliament acting).
-- **lip.1.1 / hr.2.9** — statute as the vehicle for ending discrimination against a group.
+- **exp.4 / hr.2.9** — statute as the vehicle for ending discrimination against a group.
 
 ## Caution
 

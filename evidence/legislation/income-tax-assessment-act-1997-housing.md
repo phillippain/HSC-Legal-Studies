@@ -43,9 +43,9 @@ system a driver of inequality.
 - **shel.1.3** — Siminski and Wilkins' point: the state's largest housing subsidy goes to those
   who already own, and the obligation to provide shelter is met for owners through the tax system
   and for renters through a waiting list.
-- **ls.4.1 / ls.4.3** — the longest-running reform argument in Australian housing (Hawke
+- **chg.1 / chg.3** — the longest-running reform argument in Australian housing (Hawke
   1985–87, Labor 2016 and 2019, 2026): conditions for reform, and the Senate.
-- **lip.2.1** — investors, owners, renters, the Treasury: competing interests in a single Act.
+- **exp.5** — investors, owners, renters, the Treasury: competing interests in a single Act.
 
 ## Caution
 

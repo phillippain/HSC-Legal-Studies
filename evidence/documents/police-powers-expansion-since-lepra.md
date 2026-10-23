@@ -55,7 +55,7 @@ little that was new. The point of this summary is what happened next.
 - **crime.2.1 (police powers)** — the shape of the whole dot point in one page: a consolidating Act
   and a decade and a half of accretion. The **sunset clause made permanent** is the sharpest single
   fact for "the balance between individual rights and police powers".
-- **ls.4.1 / ls.4.3 (conditions and mechanisms of reform)** — every one of these powers has a
+- **chg.1 / chg.3 (conditions and mechanisms of reform)** — every one of these powers has a
   triggering event behind it: Cronulla, the Lindt Café siege, bikie gangs, terrorism. A clean
   demonstration that **reform follows crisis**, and that what is enacted in a crisis outlasts it.
 - **Discretion into infringement notices** — the offensive language figures let you argue that

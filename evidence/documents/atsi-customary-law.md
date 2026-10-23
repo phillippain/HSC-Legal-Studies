@@ -2,7 +2,7 @@
 type: document
 title: Aboriginal and Torres Strait Islander customary laws, and their relevance today
 short: ATSI customary law
-citation: Preliminary Part I/II reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part I/II
 date: 2026
 jurisdiction: Australia
 significance: Customary law is a legal system in its own right, and Australian law recognises it only where a statute or a common law doctrine lets it in.
@@ -43,7 +43,7 @@ equal standing — does not exist here.
 
 ## Use it for
 
-- **Relevance to contemporary Australian law** (`ls.2.10`), argued rather than asserted: name the door,
+- **Relevance to contemporary Australian law** (`inv.2.1 / inv.2.2`), argued rather than asserted: name the door,
   then say how wide it is.
 - **Effectiveness with evidence on both sides.** Circle sentencing has strong procedural and community
   justifications and a null result on reoffending. Saying both is what distinguishes a judgement from

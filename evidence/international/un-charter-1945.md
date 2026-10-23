@@ -38,7 +38,7 @@ covenants give its art 55 pledge content.
 - **Art 2(1) and 2(7)** — the organisation rests on "the sovereign equality of all its Members"
   and nothing authorises the UN "to intervene in matters which are essentially within the domestic
   jurisdiction of any state" — except Chapter VII enforcement. **State sovereignty** (hr.2.1,
-  ls.2.11) is therefore built into the Charter, and the Security Council veto is how the most
+  inv.6.2) is therefore built into the Charter, and the Security Council veto is how the most
   powerful states keep it.
 - **Art 2(4)** — the prohibition on the threat or use of force; **art 51** — self-defence.
 
@@ -46,12 +46,12 @@ covenants give its art 55 pledge content.
 
 - **hr.2.2 (role of the UN)** — the organs and what each can actually do; the binding/non-binding
   line (art 25 v GA resolutions) is the exam point.
-- **hr.2.1 / ls.2.11 (state sovereignty)** — art 2(7) is the text to quote; the "responsibility
+- **hr.2.1 / inv.6.2 (state sovereignty)** — art 2(7) is the text to quote; the "responsibility
   to protect" (2005 World Summit) is the attempt to qualify it.
 - **hr.2.3 (IGOs)** — the UN as the model IGO; regional bodies (EU, AU, ASEAN) sit outside it.
-- **ls.2.13 / ls.4.3** — courts (ICJ), tribunals (the ad hoc tribunals created by Security
+- **inv.6.4 / inv.6.6 / inv.6.7 / chg.3** — courts (ICJ), tribunals (the ad hoc tribunals created by Security
   Council resolution under Chapter VII) and NGOs (consultative status under art 71).
-- **ls.2.14** — Australia incorporates Chapter VII sanctions through the *Charter of the United
+- **inv.6.3 / inv.7.2** — Australia incorporates Chapter VII sanctions through the *Charter of the United
   Nations Act 1945* (Cth) — the one Australian Act named after the Charter.
 
 ## Caution

@@ -44,7 +44,7 @@ deciding how **likely** he was to reoffend — treating a protective power as a 
   argument the case turns on.
 - **Delegated legislation doing the real work.** Direction 110 is not an Act. It is made under s 499,
   it binds decision-makers, and it structures how the discretion is exercised — a form of
-  law-making that never passes through Parliament. Preliminary ls.2.5 rarely gets a better example.
+  law-making that never passes through Parliament. Year 11 inv.3.4 rarely gets a better example.
 - **Judicial review is not merits review.** The Full Court could not decide whether he should stay,
   only whether the decision was lawfully made. Students routinely conflate the two; this case makes
   the distinction impossible to miss.

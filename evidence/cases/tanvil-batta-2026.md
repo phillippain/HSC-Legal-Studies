@@ -6,9 +6,9 @@ citation: "[2026] FedCFamC2F 1001"
 date: 2026-07-02
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Judge A Humphreys
 significance: The court refused to sell a family's apartment before trial, keeping a mother alleging economic abuse housed with her children — family violence law protecting shelter.
-core: fam.2.4, fam.2.3, shel.2.1
-support: fam.2.5, fam.3.4, shel.1.4, shel.2.5, shel.3.1, shel.3.3
-themes: fam.t.compliance, fam.t.effectiveness, fam.t.reform, shel.t.compliance, shel.t.effectiveness
+core: fam.2.4, fam.2.3, shel.2.1, dis.2.5, dis.2.7
+support: fam.2.5, fam.3.4, shel.1.4, shel.2.5, shel.3.1, shel.3.3, dis.2.8, exp.1.1
+themes: fam.t.compliance, fam.t.effectiveness, fam.t.reform, shel.t.compliance, shel.t.effectiveness, dis.t.justice, dis.t.effectiveness
 criteria: enforceability, rights, justice, accessibility
 document: Cases/Family/Tanvil & Batta [2026] FedCFamC2F 1001 - Case Summary.pdf
 related: family-law-act-1975, strata-schemes-management-act-2015, crimes-domestic-personal-violence-act-2007

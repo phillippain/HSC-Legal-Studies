@@ -39,7 +39,7 @@ unless there is a cogent reason not to (*Re Drake (No 2)*).
 
 ## Use it for
 
-- **Resolving disputes with the state** (Preliminary ind.2): internal decision, merits review, and a
+- **Resolving disputes with the state** (Year 11 dis.3): internal decision, merits review, and a
   tribunal that reconsiders *de novo* and makes the correct or preferable decision.
 - **Policy as quasi-law.** CPI16 is not legislation, and it decided the case. Pair it with Ministerial
   Direction 110 in *Samuelu* for the two ways executive instruments shape rights without passing

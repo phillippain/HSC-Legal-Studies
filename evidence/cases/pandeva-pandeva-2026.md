@@ -6,9 +6,9 @@ citation: "[2026] FedCFamC2F 882"
 date: 2026-06-19
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2), Deputy Chief Judge Mercuri
 significance: Two loving parents, no risk alleged by either — and the best interests test still had to choose between them.
-core: fam.2.2, fam.3.3
-support: fam.3.2, fam.1.5, fam.2.5, fam.3.1
-themes: fam.t.cooperation, fam.t.values, fam.t.effectiveness
+core: fam.2.2, fam.3.3, dis.2.8, exp.1.1
+support: fam.3.2, fam.1.5, fam.2.5, fam.3.1, dis.2.5
+themes: fam.t.cooperation, fam.t.values, fam.t.effectiveness, dis.t.justice, dis.t.values
 criteria: rights, responsiveness, justice
 document: Cases/Family/Pandeva_and_Pandeva_case_study_card.pdf
 related: ashtoreth-valeria-2026, daniels-rooney-2026

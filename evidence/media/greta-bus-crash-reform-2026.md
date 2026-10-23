@@ -62,9 +62,9 @@ system existed**, so nothing reached the regulator or his next employer.
   delivers victim satisfaction.
 - **The penalty gap** — manslaughter 25 years; dangerous driving occasioning death 10 years, or 14
   aggravated. Yet the total sentence exceeded any single maximum because the counts were accumulated.
-- **crime.1.2 / ls.3.2 (fault and civil liability)** — the same facts produce a criminal conviction, a
+- **crime.1.2 / dis.2.3 (fault and civil liability)** — the same facts produce a criminal conviction, a
   corporate fine and a negligence suit, each with a different standard.
-- **ls.4.1 / ls.4.2 (conditions and agencies of reform)** — a non-judicial investigator (OTSI) as the
+- **chg.1 / chg.2 (conditions and agencies of reform)** — a non-judicial investigator (OTSI) as the
   reform agency, with survivors pressing for medical reporting, medication lists and seatbelt change.
 
 ## Caution

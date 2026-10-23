@@ -39,7 +39,7 @@ regulated too.
 - **shel.3.1 / shel.3.3** — HILDA's mortgage-stress figures (median capital-city mortgage costs
   $705 a week in 2024) are the demand for the hardship provisions; repossession is a route into
   homelessness the Code is meant to slow.
-- **ls.2.6 (division of powers)** — a **referral of power** by the states under s 51(xxxvii) of the
+- **inv.5.1 / inv.5.2 (division of powers)** — a **referral of power** by the states under s 51(xxxvii) of the
   Constitution: how the Commonwealth came to regulate mortgages at all.
 - **Evaluation** — responsible lending was weakened in 2020–21 proposals (ultimately not passed)
   and the Banking Royal Commission (2019) found lenders had breached it; AFCA data on hardship

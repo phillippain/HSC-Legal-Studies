@@ -44,13 +44,13 @@ work. The release names none of them.
 
 ## Use it for
 
-- **hr.2.4 / ind.2.7 (statutory bodies)** — the sharpest current example of the AHRC's
+- **hr.2.4 / dis.3.5 / dis.3.6 (statutory bodies)** — the sharpest current example of the AHRC's
   **advocacy-not-enforcement** position, and of the Commonwealth/state gap in its complaint power.
 - **hr.2.7 / hr.2.14** — economic and social rights (housing) have no domestic statutory home; the
   Commissioners could invoke only discrimination law. A charter-of-rights argument in one case.
 - **shel.3.3 / shel.1.2 / shel.1.3** — homelessness and the (absent) obligation to provide shelter:
   NT homelessness is **564 per 10,000** against 48 nationally (2021 Census).
-- **ls.2.9 / self-determination** — an Aboriginal-run service replaced by a non-Aboriginal operator
+- **inv.2.1 / self-determination** — an Aboriginal-run service replaced by a non-Aboriginal operator
   without consultation; Danila Dilba, Aboriginal Housing NT, NAAJA and NAAFLS objected.
 - **Competing perspectives** — NT: paying the asking price would waste taxpayers' money, Batchelor
   offers food, care, clothing, shelter and case management, dialysis patients stay near Darwin;

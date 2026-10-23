@@ -2,7 +2,7 @@
 type: document
 title: Law in practice — choosing a contemporary issue, and the five kinds the syllabus names
 short: Law in practice — the issue
-citation: Preliminary Part III reference note, worked against the evidence in this finder
+citation: Year 11 reference note (from the former Preliminary notes), Part III, worked against the evidence in this finder
 date: 2026
 jurisdiction: Australia
 significance: Part III is not a topic but a method — pick an issue where the law is contested, then show what legal and non-legal responses have actually done about it.
@@ -19,11 +19,11 @@ without leaving it.
 
 | The syllabus asks for | What it means | Worked examples here |
 |---|---|---|
-| **Groups or individuals suffering disadvantage** (`lip.1.1`) | A class of people the law treats, or fails to treat, unequally | Renters facing no-grounds eviction · Aboriginal children in out-of-home care (**Family Is Culture**) · people in **modern slavery** in food supply chains · tenants scored by **RentTech** |
-| **Events which highlight legal issues** (`lip.1.2`) | A single event that exposes a systemic failure | **Opal Tower** and **Mascot Towers** · the **Monash IVF** embryo mix-up · the **Martin Place** encampment |
-| **Individuals or groups in conflict with the state** (`lip.1.3`) | A person or group against government power | **Marcus** suing the State of NSW over foster care · refugee and citizenship applicants before the ART · *Burns v Corbett* redefining which forum thousands could use |
-| **Criminal or civil cases raising issues of interest** (`lip.1.4`) | A decided case the public argued about | *R v Singh* and the provocation reform · *Cooper* and the strata pet ban · *R v Sam* |
-| **Australian citizens in another jurisdiction** (`lip.1.5`) | An Australian subject to, or using, another country's law | **Baby Gammy** — commercial surrogacy in Thailand · Australians in overseas IVF and surrogacy arrangements (the Colombian and Thai cases in the surrogacy file) |
+| **Groups or individuals suffering disadvantage** (`exp.4`) | A class of people the law treats, or fails to treat, unequally | Renters facing no-grounds eviction · Aboriginal children in out-of-home care (**Family Is Culture**) · people in **modern slavery** in food supply chains · tenants scored by **RentTech** |
+| **Events which highlight legal issues** (`chg.2.1`) | A single event that exposes a systemic failure | **Opal Tower** and **Mascot Towers** · the **Monash IVF** embryo mix-up · the **Martin Place** encampment |
+| **Individuals or groups in conflict with the state** (`dis.3.2`) | A person or group against government power | **Marcus** suing the State of NSW over foster care · refugee and citizenship applicants before the ART · *Burns v Corbett* redefining which forum thousands could use |
+| **Criminal or civil cases raising issues of interest** (`dis.1.8 / dis.2.8`) | A decided case the public argued about | *R v Singh* and the provocation reform · *Cooper* and the strata pet ban · *R v Sam* |
+| **Australian citizens in another jurisdiction** (`inv.6.2`) | An Australian subject to, or using, another country's law | **Baby Gammy** — commercial surrogacy in Thailand · Australians in overseas IVF and surrogacy arrangements (the Colombian and Thai cases in the surrogacy file) |
 
 ## How to choose well
 
@@ -37,7 +37,7 @@ without leaving it.
 
 ## Use it for
 
-- Building an investigation that satisfies `lip.1` in one pass: name the category, name the group or
+- Building an investigation that satisfies `exp.4` in one pass: name the category, name the group or
   event, say why the law is contested, and point to the legal and non-legal responses you will assess.
 - **Cross-course efficiency** — an issue chosen here can double as a Human Rights `hr.3.1` contemporary
   issue, or as the Shelter or Family contemporary issue, so the same evidence works twice.

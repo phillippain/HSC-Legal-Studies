@@ -56,7 +56,7 @@ Commission* report and a 2018 PwC review, the Morrison Government merged them.
 - **fam.1.2** — federal jurisdiction over marriage, divorce and children; state jurisdiction over
   domestic violence, care and protection and adoption; the 1986–90 referrals of power over
   ex-nuptial children and the 2009 referral over de facto property.
-- **ls.4.1 / ls.4.3** — a reform driven by delay and cost, opposed by the Law Council and family
+- **chg.1 / chg.3** — a reform driven by delay and cost, opposed by the Law Council and family
   violence groups who feared the loss of a specialist court: both sides in one case study.
 - **Evaluation** — the court's annual reports give filing, clearance and time-to-trial figures.
 

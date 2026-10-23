@@ -51,7 +51,7 @@ The Coroner called the closure, on the information available at the time, **"ina
 - **The non-government partner** — the referral to Brighter Futures was itself a failure, because it
   substituted for a departmental response. Good for `fam.2.6` and for whether outsourcing early
   intervention weakens statutory protection.
-- **ls.4.2 (agencies of reform)** — the coroner again as the body that examines what no one else
+- **chg.2 (agencies of reform)** — the coroner again as the body that examines what no one else
   does. Pair with the **BLGN and DG** inquest (two infant sisters, five years apart, reports never
   acted on) and the NSW Ombudsman's finding that DCJ closes most screened-in ROSH reports without
   allocating a caseworker. Three bodies, the same finding, a decade apart.

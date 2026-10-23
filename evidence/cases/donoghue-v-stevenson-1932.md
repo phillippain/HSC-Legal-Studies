@@ -28,11 +28,11 @@ Privy Council on appeal from the High Court.
 
 ## Use it for
 
-- **Common law and precedent** (`ls.2.1`) — judges made a general duty out of a case about a bottle,
+- **Common law and precedent** (`inv.3.1 / inv.3.2`) — judges made a general duty out of a case about a bottle,
   which is exactly what "the common law develops case by case" means. *Stare decisis* binds; it does
   not freeze.
 - **British origins** and the mechanics of reception: an English decision became Australian law
   through the appellate structure of the time, and the Australia Acts 1986 ended that. Good for
   showing that the *source* of a rule and the *authority* of a court are different questions.
-- **Private law** (`ls.3.2`) — the standard illustration of tort as a civil wrong owed to the world at
+- **Private law** (`dis.2.3`) — the standard illustration of tort as a civil wrong owed to the world at
   large rather than to a party you contracted with.

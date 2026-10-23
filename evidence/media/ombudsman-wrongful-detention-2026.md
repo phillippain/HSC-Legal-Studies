@@ -45,7 +45,7 @@ implementation in later reports.
 
 ## Use it for
 
-- **hr.2.4 / ind.2.7 (independent statutory authorities)** — the best current illustration of what an
+- **hr.2.4 / dis.3.5 / dis.3.6 (independent statutory authorities)** — the best current illustration of what an
   Ombudsman can and cannot do: it found what the Department's own reporting hid, but it cannot order
   release or compensation. Contrast with a court.
 - **Wrongful is not unlawful** — the distinction that makes this evidence sharp. Under ***Ruddock v
@@ -55,7 +55,7 @@ implementation in later reports.
   2022 when officers were on notice of the citizenship claim.
 - **hr.3.1 / ICCPR art 9** — arbitrary detention. The AHRC has found detention that is not necessary
   or proportionate breaches art 9(1), and the Department rejected its compensation recommendation.
-- **ls.1.6, ls.1.7 (procedural fairness, rule of law)** — executive error about the single most basic
+- **inv.1.6, inv.1.7 (procedural fairness, rule of law)** — executive error about the single most basic
   right, and a watchdog whose oversight depends on how the executive classifies its own cases.
 - **Law reform that did not happen** — the pre-release check was agreed in principle and never
   implemented. A long-running pattern: the Ombudsman took on 201 such cases in 2005 after the Rau and

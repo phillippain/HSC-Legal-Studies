@@ -6,9 +6,9 @@ citation: [1991] HCA 32; (1991) 172 CLR 501 (High Court of Australia, 14 August 
 date: 1991-08-14
 jurisdiction: High Court of Australia
 significance: Parliament may make past war crimes committed overseas an Australian offence, because retrospective criminal law that leaves guilt to the courts does not breach Chapter III.
-core: crime.6.1, crime.6.2
-support: crime.1.5, crime.3.1, hr.2.7, hr.3.1
-themes: crime.t.moral, crime.t.reform, crime.t.balance
+core: crime.6.1, crime.6.2, inv.5.2, inv.5.4
+support: crime.1.5, crime.3.1, hr.2.7, hr.3.1, inv.1.7, inv.6.3
+themes: crime.t.moral, crime.t.reform, crime.t.balance, inv.t.justice
 criteria: ruleoflaw, justice, rights, enforceability
 document: Cases/Crime/Polyukhovich v The Commonwealth (1991) 172 CLR 501 - Case Summary.pdf
 related: afghanistan-war-crimes-prosecutions, international-law-and-australian-law, rome-statute-1998

@@ -45,7 +45,7 @@ dedicated, Aboriginal-governed housing body.
 - **shel.2.8 / shel.2.9** — the AHO (government) and Aboriginal community housing providers (NGOs)
   as a cooperation model; the AHRC's YiSSA record shows what happens when an Aboriginal service
   loses its funding.
-- **ls.2.10 / lip.1.1** — alongside land rights and native title, housing as a practical dimension of
+- **inv.2.1 / inv.2.2 / exp.4** — alongside land rights and native title, housing as a practical dimension of
   self-determination.
 
 ## Caution

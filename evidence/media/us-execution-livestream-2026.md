@@ -54,7 +54,7 @@ Digital Rights Watch argued the footage would likely be class 1, so powers alrea
   the states; set against a *statute* (Online Safety Act) that does not reach the harm.
 - **crime.4.2 / crime.4.6** — deterrence claimed by the US administration for a *public* execution;
   no evidence offered. A comparative penalties point.
-- **ind.3.2 / ind.3.3** — technology outrunning enforcement; pair with the digital duty of care bill.
+- **chg.1.3 / chg.6.1 / chg.6.5** — technology outrunning enforcement; pair with the digital duty of care bill.
 
 ## Caution
 

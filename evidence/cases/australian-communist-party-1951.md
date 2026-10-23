@@ -27,12 +27,12 @@ assumption"** on which the Constitution is framed.
 
 ## Use it for
 
-- **The rule of law** (`ls.1.7`) as something with legal force in Australia rather than a slogan:
+- **The rule of law** (`inv.1.7`) as something with legal force in Australia rather than a slogan:
   government is subject to the law, and the question of what the law allows is decided by an
   independent court.
-- **The role of the High Court** (`ls.2.8`) and **separation of powers** (`ls.2.7`) — the case is the
+- **The role of the High Court** (`inv.5.4`) and **separation of powers** (`inv.5.3`) — the case is the
   clearest example of the judiciary as a check on the legislature, and it was decided in a period of
   genuine public fear, which is the point. Rights protection is only tested when it is unpopular.
-- Against **anarchy and tyranny** (`ls.1.8`): the Act is what the slide toward arbitrary government
+- Against **anarchy and tyranny** (`inv.1.8`): the Act is what the slide toward arbitrary government
   looks like in a democracy — passed by an elected parliament, in ordinary form, and stopped only by
   a court.

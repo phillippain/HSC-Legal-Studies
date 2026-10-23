@@ -44,7 +44,7 @@ in stable accommodation and work by his graduation on 16 June 2023.
   Youth Koori Court in a real sentence, beside circle sentencing and Walama; BOCSAR's evaluation is
   the effectiveness evidence.
 - **crime.5.4 (penalties for children)** — the s 33 options in use.
-- **ls.2.14** — an unincorporated treaty (CROC) shaping a discretion.
+- **inv.6.3 / inv.7.2** — an unincorporated treaty (CROC) shaping a discretion.
 
 ## Caution
 

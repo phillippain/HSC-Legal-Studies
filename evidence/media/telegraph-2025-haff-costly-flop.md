@@ -37,9 +37,9 @@ Anthony Albanese had promised **30,000** social and affordable homes in five yea
 - **shel.2.10 (the media)** — a tabloid "exclusive" framed as a flop, with an editorial the same
   day, in an election campaign: how the media shapes the reform debate and which figures it chooses
   (800 contracted v 13,700 "in the pipeline").
-- **ls.2.4 / ls.4.3 (Parliament as a mechanism)** — the Act passed only after a Senate deal with the
+- **inv.3.3 / inv.4.4 / chg.3 (Parliament as a mechanism)** — the Act passed only after a Senate deal with the
   Greens; the Opposition's resistance is now the Government's explanation for delay.
-- **lip.2.3** — effectiveness measured in homes, not dollars: the question the article asks.
+- **exp.6** — effectiveness measured in homes, not dollars: the question the article asks.
 
 ## Caution
 

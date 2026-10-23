@@ -2,7 +2,7 @@
 type: document
 title: Law reform — conditions, agencies and mechanisms
 short: Law reform
-citation: Preliminary Part III reference note, worked against the evidence in this finder
+citation: Year 11 reference note (from the former Preliminary notes), Part III, worked against the evidence in this finder
 date: 2026
 jurisdiction: Australia
 significance: Reform needs a condition that makes the old law fail, an agency that names it, and a mechanism with the power to change it — and the third stage is where most reform dies.

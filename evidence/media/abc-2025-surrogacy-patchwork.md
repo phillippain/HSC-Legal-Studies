@@ -45,12 +45,12 @@ children**.
   child's best interests say make the order; the criminality of the arrangement says do not reward
   it. Pair with ***Bernieres***, where the Full Court said the gap is Parliament's to close, and
   with ***Farnell & Chanbua*** (Baby Gammy).
-- **fam.1.2 / ls.2.6 (state and federal jurisdiction)** — the extraterritorial offence in three
+- **fam.1.2 / inv.5.1 / inv.5.2 (state and federal jurisdiction)** — the extraterritorial offence in three
   states and not the others is the cleanest "patchwork" fact available: the same conduct by a
   Victorian and a Queenslander is a crime for only one of them.
-- **ls.4.1 / ls.4.2 (conditions and agencies of reform)** — a single case generating a prosecution
+- **chg.1 / chg.2 (conditions and agencies of reform)** — a single case generating a prosecution
   referral, national media coverage and a push for reform, with the ABC reporting it as the trigger.
-- **Evaluating effectiveness (lip.2.3)** — measure the ban against what it was for. It has not
+- **Evaluating effectiveness (exp.6)** — measure the ban against what it was for. It has not
   stopped Australians going overseas; it has produced children whose parentage is uncertain.
 
 ## Caution

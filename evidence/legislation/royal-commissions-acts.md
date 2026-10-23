@@ -46,11 +46,11 @@ inquiry into the Ruby Princess and the 2022–23 Lindt café-related and LGBTIQ 
 
 ## Use it for
 
-- **ind.2.7** — the third "statutory body" with the Ombudsman and ICAC: temporary, powerful, and
+- **dis.3.5 / dis.3.6** — the third "statutory body" with the Ombudsman and ICAC: temporary, powerful, and
   toothless after it reports.
-- **ls.4.1 / ls.4.2 (law reform)** — a royal commission as the agency that turns a scandal into a
+- **chg.1 / chg.2 (law reform)** — a royal commission as the agency that turns a scandal into a
   reform program; the Ice inquiry shows a government declining most of it.
-- **lip.1.3 / hr.2.12** — victims, advocates and NGOs using a commission to be heard when courts
+- **dis.3.2 / hr.2.12** — victims, advocates and NGOs using a commission to be heard when courts
   and complaints have failed.
 - **Evaluation** — count recommendations accepted, implemented and funded; most commissions are
   judged on the gap between the three.

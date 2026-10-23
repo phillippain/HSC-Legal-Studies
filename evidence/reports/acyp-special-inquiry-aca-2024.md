@@ -59,7 +59,7 @@ of ACA accommodation **"should not be continued"**.
 - **Effectiveness measured against purpose** — the Act's object is the child's safety, welfare and
   wellbeing. Use the duration data: a "last resort, short-term" measure running past 600 days is the
   gap between the law's design and its operation.
-- **ls.4.2 / ind.2.7 (agencies of reform, statutory bodies)** — an independent statutory Advocate
+- **chg.2 / dis.3.5 / dis.3.6 (agencies of reform, statutory bodies)** — an independent statutory Advocate
   using a power never used before, who **cannot order anything** and whose central recommendation is
   for an oversight body that reports to Parliament rather than to the department. Pair with the
   Ombudsman's ROSH findings and the Audit Office reports it cites.

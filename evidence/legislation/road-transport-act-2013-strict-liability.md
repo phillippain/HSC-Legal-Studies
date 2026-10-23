@@ -53,7 +53,7 @@ both.
   court.
 - **crime.4.2 (sentencing)** — immediate licence suspension, mandatory interlocks and
   demerit points as penalties outside the court.
-- **lip.2.3** — BOCSAR and Transport for NSW road-toll data as the effectiveness measure (RBT cut
+- **exp.6** — BOCSAR and Transport for NSW road-toll data as the effectiveness measure (RBT cut
   alcohol-related fatalities by about a third in its first decade).
 
 ## Caution

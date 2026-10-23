@@ -6,9 +6,9 @@ citation: Inspector-General of the ADF, Afghanistan Inquiry Report (Brereton Rep
 date: 2026-04-07
 jurisdiction: Australia (Commonwealth)
 significance: Australia is prosecuting its own soldiers for war crimes so the ICC does not have to, and it is taking the better part of a decade.
-core: crime.6.2
-support: crime.6.1, crime.3.1, crime.3.5, hr.2.4, hr.3.1
-themes: crime.t.compliance, crime.t.moral, crime.t.effectiveness
+core: crime.6.2, inv.6.3, inv.6.6
+support: crime.6.1, crime.3.1, crime.3.5, hr.2.4, hr.3.1, dis.1.5, inv.6.2
+themes: crime.t.compliance, crime.t.moral, crime.t.effectiveness, inv.t.effectiveness, inv.t.justice
 criteria: justice, rights, resource, ruleoflaw, enforceability
 source: https://www.cdpp.gov.au/
 related: rome-statute-1998, international-crime-evidence-summary-2026

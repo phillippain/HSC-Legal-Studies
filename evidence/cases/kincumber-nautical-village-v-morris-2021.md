@@ -6,9 +6,9 @@ citation: [2021] NSWCATAP 275
 date: 2021-09-14
 jurisdiction: NCAT Appeal Panel (NSW), K Ransome and D Robertson
 significance: A site fee formula with several parts was held to be one fixed method, so 52 home owners could not challenge it under the land lease communities Act.
-core: shel.2.4, shel.2.2
-support: shel.2.3, shel.2.5, shel.2.6, shel.3.1
-themes: shel.t.effectiveness, shel.t.compliance, shel.t.reform
+core: shel.2.4, shel.2.2, dis.2.5, inv.3.3
+support: shel.2.3, shel.2.5, shel.2.6, shel.3.1, dis.2.2, dis.2.7
+themes: shel.t.effectiveness, shel.t.compliance, shel.t.reform, dis.t.effectiveness
 criteria: enforceability, rights, justice
 document: Cases/Shelter/Kincumber v Morris [2021] NSWCATAP 275 - Case Summary.pdf
 source: https://www.caselaw.nsw.gov.au/

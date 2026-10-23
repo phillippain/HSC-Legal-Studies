@@ -40,7 +40,7 @@ civil penalties in the Federal Court.
   information, expression and participation (arts 12, 13); the AHRC warned in 2024 that a blanket ban
   limits children's rights. A High Court implied-freedom challenge (Digital Freedom Project) is
   pending.
-- **ind.3.2 / ind.3.4** — the move from making a technology law to enforcing it, and a reform that
+- **chg.1.3 / chg.6.1 / chg.6** — the move from making a technology law to enforcing it, and a reform that
   needed a second Act within a year.
 - **Evaluation** — enforceability measured in accounts, surveys and court outcomes, none yet decisive.
 

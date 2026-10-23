@@ -35,9 +35,9 @@ mechanism: rather than appropriating money for housing each year, Parliament cre
 - **shel.3.4 (social housing)** — the Commonwealth's main contribution, and the three records that
   judge it: the Telegraph's "costly flop" (800 homes contracted, none built, February 2025), the
   ANAO audit and *Four Corners* (2026).
-- **ls.2.4 / ls.4.3** — a bill held up by a hostile Senate, changed by negotiation with a minor
+- **inv.3.3 / inv.4.4 / chg.3** — a bill held up by a hostile Senate, changed by negotiation with a minor
   party: the mechanics of Commonwealth law-making on display.
-- **ls.2.6 (division of powers)** — the Commonwealth cannot build or zone; it funds states and
+- **inv.5.1 / inv.5.2 (division of powers)** — the Commonwealth cannot build or zone; it funds states and
   community providers. The HAFF is federalism in housing form.
 - **Evaluation** — resource efficiency (a fund that earns money versus a grant that is spent),
   responsiveness (two years from Act to first contracts), effectiveness (homes delivered v

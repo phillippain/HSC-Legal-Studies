@@ -54,12 +54,12 @@ reform".
 
 ## Use it for
 
-- **ls.4.2 (agencies of reform)** — what distinguishes a commission from a parliamentary
+- **chg.2 (agencies of reform)** — what distinguishes a commission from a parliamentary
   committee (standing, expert, independent, but reference-bound) and from a royal commission
   (permanent, no coercive powers).
-- **ls.4.1 / ls.4.3** — the standard reform chain: social change → reference → report → bill;
+- **chg.1 / chg.3** — the standard reform chain: social change → reference → report → bill;
   and the gap when the Government shelves a report.
-- **ls.5.5 / crime.4.1** — the sentencing and consent reports as worked examples of a "contemporary
+- **chg.6 / crime.4.1** — the sentencing and consent reports as worked examples of a "contemporary
   law reform issue".
 - **Evaluation** — implementation rates (the ALRC reports around 85% of its reports substantially
   implemented), time lags (often years), and the Attorney-General's control of the agenda.

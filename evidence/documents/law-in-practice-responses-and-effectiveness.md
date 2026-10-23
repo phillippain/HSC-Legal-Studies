@@ -2,7 +2,7 @@
 type: document
 title: Law in practice — legal and non-legal responses, and how to evaluate them
 short: Law in practice — responses
-citation: Preliminary Part III reference note
+citation: Year 11 reference note (from the former Preliminary notes), Part III
 date: 2026
 jurisdiction: Australia
 significance: A response is legal if a court or regulator can enforce it; most of what actually changes an issue is not, and a good evaluation says which did what.
