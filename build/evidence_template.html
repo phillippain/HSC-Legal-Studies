@@ -250,8 +250,25 @@ a.pill:hover .ic{color:var(--accent)}
 /* Topic filter under a form of evidence or a criterion: narrows the list to one topic. */
 .topicbar{display:flex; flex-wrap:wrap; gap:8px; align-items:center; padding:4px 2px 2px}
 .topicbar[hidden]{display:none}
+.topicbar + .topicbar{padding-top:2px}
 .topicbar .lab{font-size:.66rem; font-weight:700; letter-spacing:.09em; text-transform:uppercase;
   color:var(--ink-3); margin-right:4px}
+@media (min-width:701px){ .topicbar .lab{min-width:94px} }
+/* The Topic row picks one. The Evidence type row is a multi-select that starts with
+   everything on, so six solid pills would be noise: the emphasis is inverted, and a
+   form that is SHOWING looks like an ordinary button while one switched OFF is greyed
+   and struck through. */
+#typebar .tbtn[aria-pressed="true"]{background:var(--surface); color:var(--ink);
+  border-color:color-mix(in srgb, var(--tc) 50%, transparent)}
+#typebar .tbtn[aria-pressed="true"] .ic{color:var(--tc)}
+#typebar .tbtn[aria-pressed="true"] .n{background:var(--surface-2); color:var(--ink-2)}
+#typebar .tbtn[aria-pressed="false"]{background:transparent; border-color:var(--line);
+  border-left-color:var(--ink-3); color:var(--ink-3); opacity:.62}
+#typebar .tbtn[aria-pressed="false"] .tx{text-decoration:line-through}
+#typebar .tbtn[aria-pressed="false"] .ic{color:var(--ink-3)}
+#typebar .tbtn[aria-pressed="false"] .n{background:var(--surface-2); color:var(--ink-3)}
+#typebar .tyall{border-left-color:var(--accent); --tc:var(--accent)}
+#typebar .tyall[disabled]{opacity:.34}
 .tbtn{display:inline-flex; align-items:center; gap:8px; border-radius:var(--r-pill); cursor:pointer;
   padding:8px 15px 8px 12px; font-size:.86rem; font-weight:600; line-height:1.2;
   background:var(--tcb); color:var(--ink); border:1.5px solid color-mix(in srgb, var(--tc) 40%, transparent);
@@ -617,6 +634,13 @@ h1,h2,h3,h4{font-family:var(--sans); font-weight:700; letter-spacing:-.018em; co
 .tbtn[aria-pressed="true"]{background:var(--navy-2); color:#fff; border-color:var(--navy-2); box-shadow:inset 0 -3px 0 var(--gold)}
 .tbtn[aria-pressed="true"] .ic{background:rgba(255,255,255,.16)}
 .tbtn[aria-pressed="true"] .n{background:rgba(255,255,255,.18); color:#fff}
+#typebar .tbtn[aria-pressed="true"]{background:var(--surface); color:var(--ink-head);
+  border-color:var(--line); box-shadow:none}
+#typebar .tbtn[aria-pressed="true"] .ic{background:var(--tc); color:#fff}
+#typebar .tbtn[aria-pressed="true"] .n{background:var(--surface-2); color:var(--ink-2)}
+#typebar .tbtn[aria-pressed="false"]{background:var(--surface-2); color:var(--ink-3); box-shadow:none}
+#typebar .tbtn[aria-pressed="false"] .ic{background:var(--ink-3); color:#fff}
+#typebar .tbtn:hover:not([disabled]){border-color:var(--tc)}
 .mini[aria-pressed="true"],.btn{background:var(--navy-2); border-color:var(--navy-2)}
 .btn.ghost{background:none; color:var(--accent); border-color:var(--accent)}
 /* coverage */
@@ -785,6 +809,7 @@ h1,h2,h3,h4{font-family:var(--sans); font-weight:700; letter-spacing:-.018em; co
       <button class="mini" id="sortBtn"><svg class="ic"><use href="#g-clock"/></svg><span>Newest first</span></button>
     </div>
     <div class="topicbar" id="topicbar" hidden></div>
+    <div class="topicbar" id="typebar" hidden></div>
     <p class="tip" id="cardkey" hidden><svg class="ic"><use href="#g-help"/></svg><span>
       <span class="keyline"><span class="bar"></span></span>
       The <strong>stripe down the left of a card is the syllabus section</strong> it is about, in the same
@@ -842,6 +867,12 @@ h1,h2,h3,h4{font-family:var(--sans); font-weight:700; letter-spacing:-.018em; co
         one of them at once.</li>
     </ul>
     <p>Or just type in the search box. It searches titles, citations and summaries at the same time.</p>
+    <p>Whatever you have chosen, a row of <strong>Evidence type</strong> buttons sits above the results.
+      All six forms are showing to begin with; press one to switch that form off and it greys out and is
+      struck through, press it again to bring it back. Use it to read the cases on their own, or to check
+      you have an Act and a report and not just cases. It only changes what you can see &mdash; anything
+      you have already ticked stays on your list &mdash; and it stays as you set it while you move around,
+      until you press <strong>All types</strong>.</p>
 
     <h3><em>3</em>Reading a card</h3>
     <p>The <strong>stripe down the left is the syllabus section</strong>, coloured as in the booklets. The
@@ -884,8 +915,10 @@ h1,h2,h3,h4{font-family:var(--sans); font-weight:700; letter-spacing:-.018em; co
     <ul>
       <li>Set the course to <strong>HSC</strong>, open <strong>Content</strong>, choose <strong>Family</strong>
         &rarr; <em>Contemporary issues</em> &rarr; <strong>Care and protection of children</strong>.</li>
-      <li>Tick two or three cases, plus an Act and a report &mdash; the card colours make the mix easy to
-        see, and a good answer needs more than cases.</li>
+      <li>Switch off everything but <strong>Case law</strong> on the <strong>Evidence type</strong> row,
+        tick the two or three you want, then press <strong>All types</strong> and do the same for
+        <strong>Legislation</strong> and <strong>Report &amp; statistics</strong> &mdash; a good answer
+        needs more than cases, and this is how you make sure you have the mix.</li>
       <li>The question says <em>evaluate</em>, so open <strong>Evidence Type</strong> and add something from
         <em>effectiveness</em> criteria such as <strong>enforceability</strong> or
         <strong>accessibility</strong>.</li>
@@ -998,6 +1031,7 @@ let state = {
   q: "",
   sort: "date",
   topicFilter: "",                  // a topic key narrowing a form-of-evidence or criterion view
+  typeOff: new Set(),               // forms of evidence switched off; empty means all six are showing
   mapSup: false,                    // does the evidence map include supporting dot points?
   ticks: new Set((ls.get("hsc-ls-ev-ticks") || "").split(",").filter(Boolean))
 };
@@ -1292,10 +1326,11 @@ function titleFor(sel){
    that colour its stripe. */
 const topicFilterable = sel => sel.kind === "type" || sel.kind === "criterion" || sel.kind === "theme";
 
-function renderTopicBar(all){
+function renderTopicBar(all, unfiltered){
   const bar = $("#topicbar");
   if (!topicFilterable(state.sel)){ bar.hidden = true; bar.innerHTML = ""; return; }
   const n = k => all.filter(it => topicsOf(it).includes(k)).length;
+  const any = k => (unfiltered || all).some(it => topicsOf(it).includes(k));
   let h = '<span class="lab">Topic</span>' +
     '<button class="tbtn" style="--tc:var(--accent);--tcb:var(--accent-soft)" data-act="tfilter" data-id="" aria-pressed="' +
     (!state.topicFilter) + '"><svg class="ic"><use href="#g-layers"/></svg>All topics <span class="n">' +
@@ -1303,7 +1338,7 @@ function renderTopicBar(all){
   scopedTopics().forEach(t => {
     const c = n(t.k);
     h += '<button class="tbtn" style="' + tvar(t.k) + '" data-act="tfilter" data-id="' + t.k +
-         '" aria-pressed="' + (state.topicFilter === t.k) + '"' + (c ? "" : " disabled") +
+         '" aria-pressed="' + (state.topicFilter === t.k) + '"' + (any(t.k) ? "" : " disabled") +
          ' title="' + esc(t.part || t.label) + '"><svg class="ic"><use href="#' + esc(t.icon || "g-layers") +
          '"/></svg>' + esc(t.label) + ' <span class="n">' + c + "</span></button>";
   });
@@ -1311,16 +1346,57 @@ function renderTopicBar(all){
   bar.hidden = false;
 }
 
+/* Switching a form of evidence off is a view of the results, nothing more: it never
+   changes what is ticked, what the evidence map holds, or the counts in the picker.
+   Everything starts on, the choice carries through the session, and Start again
+   clears it. Under a form-of-evidence selection the row would only repeat the
+   selection, so it is not offered there. */
+const typeOn = k => !state.typeOff.has(k);
+const typeFiltered = () => state.typeOff.size > 0;
+const typeFilterable = sel => sel.kind !== "type";
+
+function renderTypeBar(pool){
+  const bar = $("#typebar");
+  const keys = Object.keys(DATA.types);
+  const n = k => pool.filter(it => it.type === k).length;
+  const present = keys.filter(k => n(k) > 0).length;
+  /* One form present and nothing switched off: a filter with nothing to filter. */
+  if (!typeFilterable(state.sel) || (present < 2 && !typeFiltered())){
+    bar.hidden = true; bar.innerHTML = ""; return;
+  }
+  const shown = pool.filter(it => typeOn(it.type)).length;
+  let h = '<span class="lab">Evidence type</span>' +
+    '<button class="tbtn tyall" data-act="tyall" data-id=""' + (typeFiltered() ? "" : " disabled") +
+    ' title="Show every form of evidence again"><svg class="ic"><use href="#g-layers"/></svg>' +
+    '<span class="tx">All types</span> <span class="n">' + pool.length + "</span></button>";
+  keys.forEach(k => {
+    const ty = DATA.types[k], c = n(k), on = typeOn(k);
+    h += '<button class="tbtn" style="--tc:var(--e-' + k + ');--tcb:var(--surface)" data-act="tyfilter" data-id="' +
+         k + '" aria-pressed="' + on + '"' + (c ? "" : " disabled") +
+         ' title="' + esc((on ? "Hide " : "Show ") + ty.label.toLowerCase()) + '">' +
+         '<svg class="ic"><use href="#' + ty.icon + '"/></svg><span class="tx">' + esc(ty.label) +
+         '</span> <span class="n">' + c + "</span></button>";
+  });
+  bar.innerHTML = h;
+  bar.hidden = false;
+  return shown;
+}
+
 function renderResults(){
   if (!topicFilterable(state.sel) || (state.topicFilter && !scopedTopics().some(t => t.k === state.topicFilter)))
     state.topicFilter = "";
   const all = found(state.sel);
-  renderTopicBar(all);
-  const items = (state.topicFilter ? all.filter(it => topicsOf(it).includes(state.topicFilter)) : all).sort((a, b) =>
+  /* Each row counts against the other row's choice, so the numbers on the buttons
+     are what you would actually get by pressing them. */
+  renderTopicBar(all.filter(it => typeOn(it.type)), all);
+  renderTypeBar(state.topicFilter && topicFilterable(state.sel)
+    ? all.filter(it => topicsOf(it).includes(state.topicFilter)) : all);
+  const items = (state.topicFilter ? all.filter(it => topicsOf(it).includes(state.topicFilter)) : all)
+    .filter(it => typeOn(it.type)).sort((a, b) =>
     state.sort === "date" ? (b.date || "").localeCompare(a.date || "") || a.title.localeCompare(b.title)
                           : a.title.localeCompare(b.title));
   const landing = state.sel.kind === "all" && !state.q;
-  if (landing) $("#topicbar").hidden = true;
+  if (landing){ $("#topicbar").hidden = true; $("#typebar").hidden = true; }
   $("#welcome").hidden = !landing;
   $("#cov").hidden = !landing;
   $("#rhead").hidden = landing;
@@ -1328,14 +1404,24 @@ function renderResults(){
   if (landing){ $("#list").innerHTML = ""; $("#libwrap").innerHTML = ""; return; }
   $("#rtitle").textContent = titleFor(state.sel) +
     (state.topicFilter && topicFilterable(state.sel) ? " · " + T[state.topicFilter].label : "");
+  const keys = Object.keys(DATA.types), showing = keys.filter(typeOn);
   $("#rcount").textContent = items.length + (items.length === 1 ? " piece" : " pieces") +
-    (state.q ? ' matching "' + state.q + '"' : "");
+    (state.q ? ' matching "' + state.q + '"' : "") +
+    (typeFiltered()
+      ? " · " + (showing.length === 0 ? "every form hidden"
+          : showing.length <= 2 ? showing.map(k => DATA.types[k].label.toLowerCase()).join(" and ") + " only"
+          : showing.length + " of " + keys.length + " forms showing")
+      : "");
   $("#list").innerHTML = items.length
     ? items.map(card).join("")
     : '<div class="panel empty"><svg class="ic"><use href="#g-alert"/></svg>' +
-      "<p>Nothing is written up here yet.</p><p style=\"font-size:.85rem\">" +
-      "If there are documents listed below, they are filed here but nobody has written them up &mdash; " +
-      "try a nearby dot point, or the section above this one.</p></div>";
+      (typeFiltered()
+        ? "<p>Nothing to show with those forms switched off.</p>" +
+          '<p style="font-size:.85rem">There is evidence filed here, but not in the forms you have left ' +
+          'showing. Press <strong>All types</strong> above to bring them all back.</p>'
+        : "<p>Nothing is written up here yet.</p><p style=\"font-size:.85rem\">" +
+          "If there are documents listed below, they are filed here but nobody has written them up &mdash; " +
+          "try a nearby dot point, or the section above this one.</p>") + "</div>";
 }
 
 /* -------------------------------------------------------------- library -- */
@@ -1653,6 +1739,16 @@ document.addEventListener("click", e => {
     renderResults(); syncBack();
     return;
   }
+  if (act === "tyfilter"){
+    if (state.typeOff.has(id)) state.typeOff.delete(id); else state.typeOff.add(id);
+    renderResults(); syncBack();
+    return;
+  }
+  if (act === "tyall"){
+    state.typeOff.clear();
+    renderResults(); syncBack();
+    return;
+  }
   if (act === "jump"){
     e.preventDefault();
     showEvidence(id);
@@ -1692,6 +1788,7 @@ function resetAll(){
   state.q = ""; $("#q").value = "";
   state.sort = "date";
   state.topicFilter = "";
+  state.typeOff.clear();
   $("#sortBtn span").textContent = "Newest first";
   $("#sortBtn svg use").setAttribute("href", "#g-clock");
   state.course = "all"; ls.set("hsc-ls-ev-course", "all");

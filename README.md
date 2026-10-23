@@ -95,6 +95,26 @@ international instruments, reports and statistics, media, and documents and non-
   whether justice has been achieved. Those criteria cut across every topic in both courses, so this
   is how you find everything you hold on one line of judgement at once.
 
+**Two rows of filters sit above the results**, and they narrow across each other.
+
+- **Topic** appears under a form of evidence, a theme or a criterion, where the list spans topics.
+  It picks one topic, or all of them.
+- **Evidence type** appears everywhere else a result list does — a section, a dot point, a theme, a
+  criterion — and is a **multi-select**: all six forms are showing to begin with, and pressing one
+  switches that form off, greying it and striking it through. It is for reading the cases on their
+  own, or for checking that a dot point has an Act and a report behind it and not only cases.
+  **All types** brings them all back and is dead until something has been switched off. It is not
+  offered under a form-of-evidence selection, where it would only repeat the selection, nor when a
+  dot point holds a single form.
+
+  The choice is a **view of the result cards and nothing else**: ticked evidence stays ticked, the
+  evidence sheet and the evidence map still hold everything that was ticked, the counts in the
+  syllabus tree and the coverage grid do not move, and the documents list below the cards is
+  untouched. It carries from dot point to dot point through the session — **Back** deliberately
+  leaves it alone — and **Start again** clears it. Each row's counts are taken with the other row's
+  choice applied, so the number on a button is what pressing it would actually give you, and the
+  numbers add up to the count in the results heading.
+
 **The evidence finder is white.** Its light palette is neutral — white page, white panels separated
 by line and shadow rather than by tint, grey `#f4f5f7` for chips, rails and cells — so the topic
 colours are the only warmth on the page. The question finder keeps the original cream

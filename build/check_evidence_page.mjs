@@ -92,7 +92,85 @@ for (const scheme of ['light', 'dark']) {
      (await page.locator('#selN').textContent()) !== '0',
      scheme + ': Back disturbed the ticked list');
 
+  /* ------------------------------- the Evidence type row switches forms on and off */
   await page.locator('.cell[data-act="point"][data-id="fam.2.4"]').click();
+  await page.waitForTimeout(120);
+  ok(await page.locator('#typebar').isVisible(),
+     scheme + ': no Evidence type row at a dot point');
+  ok((await page.locator('#typebar .lab').textContent()) === 'Evidence type',
+     scheme + ': the type row is not labelled');
+  ok((await page.locator('#typebar .tbtn[data-act="tyfilter"]').count()) === 6,
+     scheme + ': expected a button for each of the six forms of evidence');
+  ok((await page.locator('#typebar .tbtn[aria-pressed="false"]').count()) === 0,
+     scheme + ': a form of evidence starts switched off');
+  ok(await page.locator('#typebar .tyall').isDisabled(),
+     scheme + ': All types is live before anything has been switched off');
+
+  const allN = await page.locator('#list .ev').count();
+  const caseN = await page.locator('#list .ev').evaluateAll(
+    els => els.filter(e => /case/i.test(getComputedStyle(e).getPropertyValue('--ec'))).length);
+  await page.locator('#typebar .tbtn[data-id="case"]').click();
+  await page.waitForTimeout(120);
+  const afterOff = await page.locator('#list .ev').count();
+  ok(afterOff < allN, scheme + ': switching case law off changed nothing (' + allN + ' -> ' + afterOff + ')');
+  ok((await page.locator('#typebar .tbtn[data-id="case"]').getAttribute('aria-pressed')) === 'false',
+     scheme + ': the switched-off form does not report itself off');
+  ok(/forms showing|only/.test(await page.locator('#rcount').textContent()),
+     scheme + ': the count line does not say a form is hidden');
+  ok((await page.locator('#typebar .tyall').isDisabled()) === false,
+     scheme + ': All types is still dead after switching a form off');
+
+  /* Several at once, and the choice carries to the next dot point. */
+  await page.locator('#typebar .tbtn[data-id="media"]').click();
+  await page.waitForTimeout(120);
+  ok((await page.locator('#typebar .tbtn[aria-pressed="false"]').count()) === 2,
+     scheme + ': the type row is not multi-select');
+  await page.locator('button.row[data-act="point"][data-id="fam.2.5"]').click();
+  await page.waitForTimeout(140);
+  ok((await page.locator('#typebar .tbtn[aria-pressed="false"]').count()) === 2,
+     scheme + ': the type choice did not carry to the next dot point');
+  await page.locator('#backBtn').click();
+  await page.waitForTimeout(120);
+  ok((await page.locator('#typebar .tbtn[aria-pressed="false"]').count()) === 2,
+     scheme + ': Back undid the type choice, which it should leave alone');
+
+  /* Every form off is a dead end that says so and offers the way back. */
+  for (const k of ['legislation', 'international', 'report', 'document']){
+    const b = page.locator('#typebar .tbtn[data-id="' + k + '"]');
+    if (await b.isDisabled()) continue;          /* nothing of that form here to hide */
+    await b.click();
+    await page.waitForTimeout(60);
+  }
+  await page.waitForTimeout(140);
+  ok((await page.locator('#list .ev').count()) === 0,
+     scheme + ': cards survive with every form switched off');
+  ok(/switched off/.test(await page.locator('#list .panel.empty').textContent()),
+     scheme + ': the all-off state does not explain itself');
+  await page.locator('#typebar .tyall').click();
+  await page.waitForTimeout(140);
+  ok((await page.locator('#typebar .tbtn[aria-pressed="false"]').count()) === 0,
+     scheme + ': All types did not bring every form back');
+
+  /* Start again clears it; a form-of-evidence selection does not offer the row. */
+  await page.locator('#typebar .tbtn[data-id="case"]').click();
+  await page.waitForTimeout(120);
+  await page.locator('#startBtn').click();
+  await page.waitForTimeout(140);
+  await page.locator('.cell[data-act="point"][data-id="fam.2.4"]').click();
+  await page.waitForTimeout(140);
+  ok((await page.locator('#typebar .tbtn[aria-pressed="false"]').count()) === 0,
+     scheme + ': Start again left a form of evidence switched off');
+  await page.locator('#tab-kinds').click();
+  await page.locator('button.row[data-id="case"]').click();
+  await page.waitForTimeout(120);
+  ok((await page.locator('#typebar').isVisible()) === false,
+     scheme + ': the type row is offered under a form-of-evidence selection, where it only repeats it');
+  await page.locator('#tab-content').click();
+  await page.locator('#startBtn').click();
+  await page.waitForTimeout(160);
+
+  await page.locator('.cell[data-act="point"][data-id="fam.2.4"]').click();
+  await page.waitForTimeout(120);
   await page.locator('.ev-more').first().click();
   const open = page.locator('.ev-full.open').first();
   ok(await open.isVisible(), scheme + ': the summary did not open');
