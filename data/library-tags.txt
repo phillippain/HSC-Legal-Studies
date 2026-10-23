@@ -123,3 +123,12 @@ Cases/Crime/Jarrett v State of New South Wales [2026] NSWCA 62 - Case Summary.pd
 Cases/Crime/Kadir v The Queen; Grech v The Queen [2020] HCA 1 - Case Summary.pdf | crime.2.3
 Cases/Crime/Meredith v State of NSW (No 5) [2025] NSWSC 1133 - Case Summary.pdf | crime.2.1, crime.2.3
 Cases/Crime/Bunning v Cross [1978] HCA 22 - Case Summary.pdf | crime.2.3, crime.2.1
+Cases/Crime/Soyke v R [2016] NSWCCA 112 - Case Summary.pdf | crime.6.1, crime.4.2
+Cases/Crime/CDPP v TK (a child) [2018] VChC 4 - Case Summary.pdf | crime.6.1, crime.5.4
+Cases/Crime/Klomfar v R [2019] NSWCCA 61 - Case Summary.pdf | crime.6.1, crime.4.3
+Cases/Crime/Flower v R; Mafiti v R [2024] NSWCCA 76 - Case Summary.pdf | crime.6.1, crime.4.3, crime.4.5
+Cases/Crime/CD v Commonwealth [2025] HCA 37 - Case Summary.pdf | crime.6.2, crime.2.3
+Cases/Crime/Prosecutor v Karadzic (ICTY, IT-95-5-18-T) 2016 - Case Summary.pdf | crime.6.1, crime.6.2
+Cases/Crime/Magaming v The Queen [2013] HCA 40 - Case Summary.pdf | crime.6.1, crime.4.1
+Cases/Crime/The Queen v Tang [2008] HCA 39 - Case Summary.pdf | crime.6.1
+Crime/International Crime/Teaching Note - International Criminal Court.pdf | crime.6.2

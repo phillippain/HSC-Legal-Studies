@@ -10,6 +10,7 @@ core: crime.6.2
 support: crime.2.3, crime.3.5, ls.2.6
 themes: crime.t.balance, crime.t.effectiveness, crime.t.reform
 criteria: enforceability, rights, ruleoflaw
+document: Cases/Crime/CD v Commonwealth [2025] HCA 37 - Case Summary.pdf
 source: https://www.hcourt.gov.au/sites/default/files/judgment-summaries/2025-10/hca-37-2025-10-08.pdf
 related: police-and-law-enforcement-agencies, evidence-act-1995
 added: 2026-10-20

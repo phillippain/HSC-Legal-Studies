@@ -5476,6 +5476,40 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/CD v Commonwealth [2025] HCA 37 - Case Summary.pdf",
+   "name": "CD v Commonwealth [2025] HCA 37 - Case Summary",
+   "file": "CD v Commonwealth [2025] HCA 37 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 778495,
+   "mtime": 1792706855,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.6.2",
+    "crime.2.3"
+   ],
+   "dupe": "cdvcommonwealth2025hca37casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/CDPP v TK (a child) [2018] VChC 4 - Case Summary.pdf",
+   "name": "CDPP v TK (a child) [2018] VChC 4 - Case Summary",
+   "file": "CDPP v TK (a child) [2018] VChC 4 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 786102,
+   "mtime": 1792710556,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.6.1",
+    "crime.5.4"
+   ],
+   "dupe": "cdppvtkachild2018vchc4casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/DPP (Cth) v Duong [2024] VCC 182 - Case Summary.pdf",
    "name": "DPP (Cth) v Duong [2024] VCC 182 - Case Summary",
    "file": "DPP (Cth) v Duong [2024] VCC 182 - Case Summary.pdf",
@@ -5521,6 +5555,24 @@
     "crime.4.8"
    ],
    "dupe": "fardonvattorneygeneralqld2004hca46casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Flower v R; Mafiti v R [2024] NSWCCA 76 - Case Summary.pdf",
+   "name": "Flower v R; Mafiti v R [2024] NSWCCA 76 - Case Summary",
+   "file": "Flower v R; Mafiti v R [2024] NSWCCA 76 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 758978,
+   "mtime": 1792710560,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.6.1",
+    "crime.4.3",
+    "crime.4.5"
+   ],
+   "dupe": "flowervrmafitivr2024nswcca76casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5621,6 +5673,40 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Klomfar v R [2019] NSWCCA 61 - Case Summary.pdf",
+   "name": "Klomfar v R [2019] NSWCCA 61 - Case Summary",
+   "file": "Klomfar v R [2019] NSWCCA 61 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 774328,
+   "mtime": 1792710556,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.6.1",
+    "crime.4.3"
+   ],
+   "dupe": "klomfarvr2019nswcca61casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Magaming v The Queen [2013] HCA 40 - Case Summary.pdf",
+   "name": "Magaming v The Queen [2013] HCA 40 - Case Summary",
+   "file": "Magaming v The Queen [2013] HCA 40 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 759334,
+   "mtime": 1792710556,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.6.1",
+    "crime.4.1"
+   ],
+   "dupe": "magamingvthequeen2013hca40casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Markarian v The Queen [2005] HCA 25 - Case Summary.pdf",
    "name": "Markarian v The Queen [2005] HCA 25 - Case Summary",
    "file": "Markarian v The Queen [2005] HCA 25 - Case Summary.pdf",
@@ -5700,6 +5786,23 @@
     "crime.6.2"
    ],
    "dupe": "polyukhovichvthecommonwealth1991172clr501casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Prosecutor v Karadzic (ICTY, IT-95-5-18-T) 2016 - Case Summary.pdf",
+   "name": "Prosecutor v Karadzic (ICTY, IT-95-5-18-T) 2016 - Case Summary",
+   "file": "Prosecutor v Karadzic (ICTY, IT-95-5-18-T) 2016 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 786919,
+   "mtime": 1792707944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.6.1",
+    "crime.6.2"
+   ],
+   "dupe": "prosecutorvkaradzicictyit95518t2016casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5979,6 +6082,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Soyke v R [2016] NSWCCA 112 - Case Summary.pdf",
+   "name": "Soyke v R [2016] NSWCCA 112 - Case Summary",
+   "file": "Soyke v R [2016] NSWCCA 112 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 774649,
+   "mtime": 1792726180,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.6.1",
+    "crime.4.2"
+   ],
+   "dupe": "soykevr2016nswcca112casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Symons v R; McDonald v R [2024] NSWCCA 212 - Case Summary.pdf",
    "name": "Symons v R; McDonald v R [2024] NSWCCA 212 - Case Summary",
    "file": "Symons v R; McDonald v R [2024] NSWCCA 212 - Case Summary.pdf",
@@ -6007,6 +6127,22 @@
     "crime.3.8"
    ],
    "dupe": "thekingvrowan2024hca9casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/The Queen v Tang [2008] HCA 39 - Case Summary.pdf",
+   "name": "The Queen v Tang [2008] HCA 39 - Case Summary",
+   "file": "The Queen v Tang [2008] HCA 39 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 765442,
+   "mtime": 1792706855,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.6.1"
+   ],
+   "dupe": "thequeenvtang2008hca39casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -12172,6 +12308,22 @@
     "crime.6"
    ],
    "dupe": "pptx4casestudyevaluatingtheeffectivenessoftheicty",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/International Crime/Teaching Note - International Criminal Court.pdf",
+   "name": "Teaching Note - International Criminal Court",
+   "file": "Teaching Note - International Criminal Court.pdf",
+   "ext": "pdf",
+   "bytes": 235740,
+   "mtime": 1792707991,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.6.2"
+   ],
+   "dupe": "teachingnoteinternationalcriminalcourt",
    "copyOf": null,
    "primary": true
   },
