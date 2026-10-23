@@ -10,6 +10,7 @@ core: fam.2.3, fam.1.2
 support: fam.2.1, fam.2.5, fam.1.5, inv.6.2, inv.6.6, dis.2.1, dis.2.7, chg.3.1
 themes: fam.t.effectiveness, fam.t.cooperation, fam.t.reform
 criteria: accessibility, enforceability, responsiveness, resource, justice
+document: Jade Cases/Raw Cases/Duffy & Duffy [2026] FedCFamC2F 1076.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: fry-read-no2-2026, pratley-pratley-no9-2026, beitel-beitel-2026, family-law-act-1975, family-law-amendment-act-2023
 added: 2026-10-24

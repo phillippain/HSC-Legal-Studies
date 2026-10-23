@@ -10,6 +10,7 @@ core: fam.2.4, fam.2.2
 support: fam.2.5, fam.3.2, fam.1.5, fam.2.1, crime.3.7, inv.3.2, inv.4.1, inv.4.5, dis.2.6, chg.3.3
 themes: fam.t.effectiveness, fam.t.values, fam.t.compliance, fam.t.reform
 criteria: accessibility, enforceability, responsiveness, rights, justice
+document: Jade Cases/Raw Cases/Cadel & Galea [2026] FedCFamC1A 142.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: crimes-domestic-personal-violence-act-2007, family-law-amendment-act-2023, family-law-act-1975, sullivan-warren-2026, melzer-powles-no2-2026, smh-2026-fairleigh-coercive-control
 added: 2026-10-24

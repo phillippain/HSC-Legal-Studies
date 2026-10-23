@@ -10,6 +10,7 @@ core: fam.2.2, fam.2.4
 support: fam.1.4, fam.1.5, fam.2.5, fam.3.2, fam.3.4, exp.1.1, exp.2.3, inv.4.1, dis.2.5
 themes: fam.t.effectiveness, fam.t.values, fam.t.compliance, fam.t.cooperation
 criteria: accessibility, enforceability, responsiveness, rights, justice
+document: Jade Cases/Raw Cases/Escarro & Kopp [2026] FedCFamC1F 488.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: hemswold-hemswold-2026, melzer-powles-no2-2026, morse-duarte-2017, sullivan-warren-2026, family-law-amendment-act-2023
 added: 2026-10-24

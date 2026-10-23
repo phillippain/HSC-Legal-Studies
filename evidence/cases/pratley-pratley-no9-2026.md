@@ -10,6 +10,7 @@ core: fam.2.3
 support: fam.2.5, fam.1.5, fam.2.1, dis.2.1, dis.2.7, dis.2.2, inv.3.2, chg.3.3
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.cooperation
 criteria: accessibility, enforceability, responsiveness, rights, justice
+document: Jade Cases/Raw Cases/Pratley & Pratley (No 9) [2026] FedCFamC1F 398.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: connor-cosgrove-no2-2018, family-law-act-1975, family-law-amendment-act-2023
 added: 2026-10-24

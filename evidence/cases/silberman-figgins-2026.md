@@ -10,6 +10,7 @@ core: fam.2.3
 support: fam.2.5, fam.1.5, fam.2.1, exp.4.1, exp.5.3, dis.2.5, dis.2.7, inv.1.4, inv.4.1
 themes: fam.t.compliance, fam.t.effectiveness, fam.t.values
 criteria: accessibility, enforceability, responsiveness, resource, rights, justice
+document: Jade Cases/Raw Cases/Silberman & Figgins [2026] FedCFamC1F 490.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: pratley-pratley-no9-2026, beitel-beitel-2026, legal-representation-and-legal-aid, family-law-act-1975
 added: 2026-10-24

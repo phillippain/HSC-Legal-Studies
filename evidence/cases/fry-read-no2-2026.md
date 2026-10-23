@@ -10,6 +10,7 @@ core: fam.2.3, fam.1.2
 support: fam.2.5, fam.2.1, inv.6.1, inv.6.2, inv.6.6, inv.3.1, inv.1.7, dis.2.5, dis.2.7
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.cooperation, inv.t.justice
 criteria: accessibility, enforceability, responsiveness, ruleoflaw, justice
+document: Jade Cases/Raw Cases/Fry & Read (No 2) [2026] FedCFamC1F 505.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: pratley-pratley-no9-2026, family-law-act-1975, international-law-and-australian-law, amadio-1983
 added: 2026-10-24

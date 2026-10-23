@@ -10,6 +10,7 @@ core: fam.2.2, fam.3.4
 support: fam.2.4, fam.2.5, fam.1.5, fam.3.2, crime.3.7, crime.2.2, inv.4.2, inv.1.6, dis.2.4, exp.1.3
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.values, fam.t.cooperation
 criteria: accessibility, enforceability, responsiveness, rights, justice
+document: Jade Cases/Raw Cases/Sullivan & Warren [2026] FedCFamC1F 550.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: cadel-galea-2026, melzer-powles-no2-2026, seaton-fogarty-2018, morse-duarte-2017, family-law-amendment-act-2023, care-and-protection-of-children-evidence-sheet
 added: 2026-10-24
