@@ -5459,6 +5459,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Bunning v Cross [1978] HCA 22 - Case Summary.pdf",
+   "name": "Bunning v Cross [1978] HCA 22 - Case Summary",
+   "file": "Bunning v Cross [1978] HCA 22 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 806122,
+   "mtime": 1792700406,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.2.3",
+    "crime.2.1"
+   ],
+   "dupe": "bunningvcross1978hca22casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/DPP (Cth) v Duong [2024] VCC 182 - Case Summary.pdf",
    "name": "DPP (Cth) v Duong [2024] VCC 182 - Case Summary",
    "file": "DPP (Cth) v Duong [2024] VCC 182 - Case Summary.pdf",
@@ -5556,6 +5573,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Jarrett v State of New South Wales [2026] NSWCA 62 - Case Summary.pdf",
+   "name": "Jarrett v State of New South Wales [2026] NSWCA 62 - Case Summary",
+   "file": "Jarrett v State of New South Wales [2026] NSWCA 62 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 821065,
+   "mtime": 1792700405,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.2.1"
+   ],
+   "dupe": "jarrettvstateofnewsouthwales2026nswca62casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Kable v DPP (NSW) (1996) 189 CLR 51 - Case Summary.pdf",
    "name": "Kable v DPP (NSW) (1996) 189 CLR 51 - Case Summary",
    "file": "Kable v DPP (NSW) (1996) 189 CLR 51 - Case Summary.pdf",
@@ -5572,6 +5605,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Kadir v The Queen; Grech v The Queen [2020] HCA 1 - Case Summary.pdf",
+   "name": "Kadir v The Queen; Grech v The Queen [2020] HCA 1 - Case Summary",
+   "file": "Kadir v The Queen; Grech v The Queen [2020] HCA 1 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 814039,
+   "mtime": 1792700406,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.2.3"
+   ],
+   "dupe": "kadirvthequeengrechvthequeen2020hca1casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Markarian v The Queen [2005] HCA 25 - Case Summary.pdf",
    "name": "Markarian v The Queen [2005] HCA 25 - Case Summary",
    "file": "Markarian v The Queen [2005] HCA 25 - Case Summary.pdf",
@@ -5584,6 +5633,23 @@
     "crime.4.1"
    ],
    "dupe": "markarianvthequeen2005hca25casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Meredith v State of NSW (No 5) [2025] NSWSC 1133 - Case Summary.pdf",
+   "name": "Meredith v State of NSW (No 5) [2025] NSWSC 1133 - Case Summary",
+   "file": "Meredith v State of NSW (No 5) [2025] NSWSC 1133 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 778202,
+   "mtime": 1792700406,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.2.1",
+    "crime.2.3"
+   ],
+   "dupe": "meredithvstateofnswno52025nswsc1133casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5864,6 +5930,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf",
+   "name": "Ridgeway v The Queen [1995] HCA 66 - Case Summary",
+   "file": "Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 798642,
+   "mtime": 1792700406,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.2.3"
+   ],
+   "dupe": "ridgewayvthequeen1995hca66casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Roberts-Smith v Fairfax Media (No 41) [2023] FCA 555 - Case Summary.pdf",
    "name": "Roberts-Smith v Fairfax Media (No 41) [2023] FCA 555 - Case Summary",
    "file": "Roberts-Smith v Fairfax Media (No 41) [2023] FCA 555 - Case Summary.pdf",
@@ -5974,6 +6056,23 @@
     "crime.4.2"
    ],
    "dupe": "veenvthequeenno21988164clr465casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Williams v The Queen [1986] HCA 88 - Case Summary.pdf",
+   "name": "Williams v The Queen [1986] HCA 88 - Case Summary",
+   "file": "Williams v The Queen [1986] HCA 88 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 807143,
+   "mtime": 1792700405,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.2.4",
+    "crime.2.6"
+   ],
+   "dupe": "williamsvthequeen1986hca88casesummary",
    "copyOf": null,
    "primary": true
   },

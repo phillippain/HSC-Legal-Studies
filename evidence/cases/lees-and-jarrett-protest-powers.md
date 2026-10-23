@@ -10,6 +10,7 @@ core: crime.2.1, hr.2.10
 support: crime.1.5, ls.1.7, ls.2.1, hr.2.4
 themes: crime.t.balance, crime.t.reform, crime.t.moral
 criteria: rights, ruleoflaw, responsiveness, society
+document: Cases/Crime/Jarrett v State of New South Wales [2026] NSWCA 62 - Case Summary.pdf
 source: https://www.caselaw.nsw.gov.au
 added: 2026-10-20
 ---
@@ -26,4 +27,4 @@ added: 2026-10-20
 
 ## Caution
 
-Neither judgment was read in full here; the Lees details come from news reporting.
+The Lees details come from news reporting. The Jarrett judgment was read in full for the case summary: a civil constitutional challenge, not a criminal case, so use it for the powers and the implied freedom, not for criminal procedure.
