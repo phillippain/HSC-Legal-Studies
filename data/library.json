@@ -11,11 +11,11 @@
    "bucket": "resource",
    "kind": "other",
    "tags": [
-    "ls.4.1",
-    "ls.4.2",
-    "ls.4.3",
+    "chg.1",
+    "chg.2",
+    "chg.3",
     "hr.2.6",
-    "ind.2.4"
+    "dis.3.3"
    ],
    "dupe": "2025volume36ed1fulleditionforpublication",
    "copyOf": null,
@@ -39,7 +39,8 @@
     "crime.4.8",
     "hr.1.2",
     "hr.3.1",
-    "ind.3.2"
+    "chg.1.3",
+    "chg.6.1"
    ],
    "dupe": "2025volume36ed4ls",
    "copyOf": null,
@@ -58,8 +59,9 @@
     "shel.2.1",
     "crime.4.8",
     "crime.3.1",
-    "ind.3.2",
-    "lip.1.3"
+    "chg.1.3",
+    "chg.6.1",
+    "dis.3.2"
    ],
    "dupe": "legalbriefs2025edition3",
    "copyOf": null,
@@ -447,7 +449,7 @@
    "tags": [
     "fam.2.5",
     "fam.3.2",
-    "ls.4.2"
+    "chg.2"
    ],
    "dupe": "alrcreport2019",
    "copyOf": null,
@@ -1588,7 +1590,7 @@
    "tags": [
     "fam.3.3",
     "fam.1.2",
-    "ls.3.4"
+    "inv.1.3"
    ],
    "dupe": "rezsurrogacyarrangementsoverseaslawgazette",
    "copyOf": null,
@@ -3793,8 +3795,8 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "ind.3.1",
-    "ind.3.2",
+    "chg.1.3",
+    "chg.6.1",
     "fam.1.5"
    ],
    "dupe": "trackingelderlyparentsforsafetyhowlife360andgpsdeviceshelpcaregivers",
@@ -3829,8 +3831,8 @@
    "kind": "media",
    "tags": [
     "hr.2.9",
-    "ls.4.1",
-    "ls.4.3"
+    "chg.1",
+    "chg.3"
    ],
    "dupe": "antisemitismlawreform",
    "copyOf": null,
@@ -3992,7 +3994,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "ls.5.3"
+    "chg.5.4"
    ],
    "dupe": "austinvstateofvictoriano32026fca1054",
    "copyOf": null,
@@ -5393,7 +5395,7 @@
    "kind": "case",
    "tags": [
     "shelter",
-    "ls.5.3"
+    "chg.5.4"
    ],
    "dupe": "12metropolitanlalc4vattorneygeneralnsw2026fca1074",
    "copyOf": null,
@@ -5548,7 +5550,7 @@
    "kind": "case",
    "tags": [
     "shelter",
-    "ls.5.3"
+    "chg.5.4"
    ],
    "dupe": "metropolitanlalc4vattorneygeneralnsw2026fca1074",
    "copyOf": null,
@@ -6846,7 +6848,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "humanrights"
+    "humanrights",
+    "chg.6"
    ],
    "dupe": "kmartcameraglassesprivacyandsurveillancehscevidencesummary7oct26",
    "copyOf": null,
@@ -7041,11 +7044,9 @@
    "ext": "docx",
    "bytes": 18968,
    "mtime": 1789944777,
-   "bucket": "evidence",
-   "kind": "case",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "hr.2.9",
-    "hr.2.11",
     "hr.3.1"
    ],
    "dupe": "wertheimvhaddadfederalcourtcasestudy",
@@ -7771,7 +7772,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "ls.5.3"
+    "chg.5.4"
    ],
    "dupe": "11austineasternmaarno32026fca1054",
    "copyOf": null,
@@ -7990,7 +7991,9 @@
    "mtime": 1791356725,
    "bucket": "evidence",
    "kind": "document",
-   "tags": [],
+   "tags": [
+    "chg.6"
+   ],
    "dupe": "kmartcameraglasseslawreformlagpreliminaryevidencesummary7oct26",
    "copyOf": null,
    "primary": true
@@ -8604,7 +8607,8 @@
    "kind": "document",
    "tags": [
     "shel.2.8",
-    "ls.2.6"
+    "inv.5.1",
+    "inv.5.2"
    ],
    "dupe": "distinctionbetweenstateandfederalgovernmentsinshelterpolicy",
    "copyOf": null,
@@ -9092,8 +9096,8 @@
    "ext": "pdf",
    "bytes": 925190,
    "mtime": 1789944780,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "shel.2.4"
    ],
@@ -11254,7 +11258,7 @@
    "tags": [
     "crime.2",
     "crime.4.8",
-    "ls.4.2"
+    "chg.2"
    ],
    "dupe": "inquestintothedeathofbradleyvincentbalzan",
    "copyOf": null,
@@ -13008,8 +13012,10 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "ls.2.11",
-    "ls.2.13"
+    "inv.6.2",
+    "inv.6.4",
+    "inv.6.6",
+    "inv.6.7"
    ],
    "dupe": "chagosislandsdealendsbritainslastclaimtoasunlitempire",
    "copyOf": null,
