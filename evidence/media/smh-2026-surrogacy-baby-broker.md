@@ -10,7 +10,7 @@ core: fam.3.3
 support: fam.1.5, fam.3.2, fam.3.1, hr.3.1, hr.2.7, inv.6.2, inv.6.3, inv.7.2, chg.1.3, chg.6.1, fam.2.7, hr.2.13
 themes: fam.t.values, fam.t.reform, inv.t.values, hr.t.compliance
 criteria: rights, enforceability, accessibility, responsiveness, justice
-document: Family/Evidence Summaries/Surrogacy_crazy car salesman_Evidence_Summary_With_Paragraphs.pdf
+document: Family/Evidence Summaries/Baby broker: The ‘crazy car salesman’ brokering babies and holding embryos ‘hostage’.pdf
 related: daniels-rooney-2026, wilkerson-croxford-2026, croc-1989
 added: 2026-09-19
 ---

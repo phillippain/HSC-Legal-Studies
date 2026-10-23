@@ -298,3 +298,12 @@ Shelter/Mascot Towers Background and application.pdf | @resource, shel.2.4
 Human Rights/Wertheim v Haddad (Federal Court) Case Study.docx | @resource, hr.3.1
 Human Rights/Child Soldiers in Modern Conflicts.pdf | @resource, hr.3.1, crime.6
 Human Rights/Modern Slavery/Four Corners - Modern Slavery in the Food Supply Chain.pdf | @resource, hr.3.1
+# ------------------------------------- 24 Oct 2026 — surrogacy & birth tech --
+# Teaching artefacts, not evidence: evidence files, essay scaffolds, PEARJAM
+# tables and background readings. They stay useful in the resource list.
+Family/Surrogacy and Birth Tech/Surrogacy_Birth_Technology_Evidence_File_PEARJAM (2).docx | @resource, fam.3.3
+Family/Surrogacy and Birth Tech/When is a Sperm Donor A Parent.docx | @resource, fam.3.3, fam.1.1
+Family/Evidence Summaries/Regional IVF ABC News CNOPR SBT.pdf | @resource, fam.3.3, fam.3.2
+Family/Evidence Summaries/Surrogacy_crazy car salesman_Evidence_Summary_With_Paragraphs.pdf | @resource, fam.3.3
+Family/Surrogacy-Annika Rees.pdf | @resource, fam.3.3
+Family/What Is Surrogacy.pdf | @resource, fam.3.3, fam.3.1

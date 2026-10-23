@@ -1852,10 +1852,9 @@
    "ext": "pdf",
    "bytes": 93502,
    "mtime": 1789944758,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "family",
     "fam.3.3"
    ],
    "dupe": "surrogacyannikarees",
@@ -1999,11 +1998,11 @@
    "ext": "pdf",
    "bytes": 110309,
    "mtime": 1789944758,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "family",
-    "fam.3.3"
+    "fam.3.3",
+    "fam.3.1"
    ],
    "dupe": "whatissurrogacy",
    "copyOf": null,
@@ -3447,8 +3446,8 @@
    "ext": "docx",
    "bytes": 44182,
    "mtime": 1789944769,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "fam.3.3"
    ],
@@ -3463,11 +3462,11 @@
    "ext": "docx",
    "bytes": 17320,
    "mtime": 1789944769,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "fam.3.3",
-    "fam.1.5"
+    "fam.1.1"
    ],
    "dupe": "whenisaspermdonoraparent",
    "copyOf": null,
@@ -3662,11 +3661,11 @@
    "ext": "pdf",
    "bytes": 7376,
    "mtime": 1789944770,
-   "bucket": "evidence",
-   "kind": "media",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "family",
-    "fam.3.3"
+    "fam.3.3",
+    "fam.3.2"
    ],
    "dupe": "regionalivfabcnewscnoprsbt",
    "copyOf": null,
@@ -3695,10 +3694,9 @@
    "ext": "pdf",
    "bytes": 6847,
    "mtime": 1789944770,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "family",
     "fam.3.3"
    ],
    "dupe": "surrogacycrazycarsalesmanevidencesummarywithparagraphs",
