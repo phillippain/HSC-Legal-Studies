@@ -5261,7 +5261,9 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "hr.3.1"
+    "chg.5.4",
+    "hr.2.10",
+    "hr.2.11"
    ],
    "dupe": "f260097",
    "copyOf": null,
@@ -6597,11 +6599,11 @@
    "ext": "pdf",
    "bytes": 457184,
    "mtime": 1789944775,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "humanrights",
-    "hr.3.1"
+    "hr.3.1",
+    "crime.6"
    ],
    "dupe": "childsoldiersinmodernconflicts",
    "copyOf": null,
@@ -6664,8 +6666,8 @@
    "ext": "pdf",
    "bytes": 4063127,
    "mtime": 1789944775,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "hr.2.12",
     "hr.3.1"
@@ -7126,8 +7128,8 @@
    "ext": "pdf",
    "bytes": 601132,
    "mtime": 1789944777,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "hr.3.1"
    ],
