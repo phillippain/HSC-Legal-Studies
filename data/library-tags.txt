@@ -268,3 +268,14 @@ Shelter/The end of the NRAS & what's next.pdf | shel.3.4
 Shelter/Torrens Title Example Contract of Sale.pdf | shel.2.1
 Shelter/Townhouse was perfect, then ceiling began to drip SMH 9 April 2025.pdf | shel.2.4
 Shelter/USD1m Prime Real Estate.pdf | shel.3.1
+
+# ---------------------------------------------------------------------------
+# 23 Oct 2026 — the criminal investigation process stack.
+# "@resource" as the first tag moves a file into the teaching-resource list
+# instead of leaving it in the evidence backlog.
+# ---------------------------------------------------------------------------
+Crime/Police Powers.pdf | @resource, crime.2.1, crime.2.3
+Human Rights/State Library Research Task.pdf | @resource, hr.3.1
+Human Rights/Human Rights State Library Research Task.pdf | @resource, hr.3.1
+Crime/Media/Revesby daycare murder plot: Ata Misi and Iese Esera refused bail over alleged ‘kill car’ staging | Daily Telegraph.pdf | crime.2.5, crime.2.4
+News Articles/Crime/Number of NSW children in youth detention up by one third, new data shows | New South Wales | The Guardian.pdf | crime.5.4, crime.2.5

@@ -3958,7 +3958,8 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "crime.2"
+    "crime.5.4",
+    "crime.2.5"
    ],
    "dupe": "numberofnswchildreninyouthdetentionupbyonethirdnewdatashowsnewsouthwalestheguardian",
    "copyOf": null,
@@ -6772,11 +6773,10 @@
    "ext": "pdf",
    "bytes": 76957,
    "mtime": 1789944776,
-   "bucket": "evidence",
-   "kind": "report",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "humanrights",
-    "crime.2"
+    "hr.3.1"
    ],
    "dupe": "humanrightsstatelibraryresearchtask",
    "copyOf": null,
@@ -6956,11 +6956,10 @@
    "ext": "pdf",
    "bytes": 74866,
    "mtime": 1789944776,
-   "bucket": "evidence",
-   "kind": "report",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "humanrights",
-    "crime.2"
+    "hr.3.1"
    ],
    "dupe": "statelibraryresearchtask",
    "copyOf": null,
@@ -11677,11 +11676,11 @@
    "ext": "pdf",
    "bytes": 960877,
    "mtime": 1789944786,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "crime",
-    "crime.2"
+    "crime.2.1",
+    "crime.2.3"
    ],
    "dupe": "policepowers",
    "copyOf": null,
@@ -13072,8 +13071,8 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "crime",
-    "crime.2"
+    "crime.2.5",
+    "crime.2.4"
    ],
    "dupe": "revesbydaycaremurderplotatamisiandieseeserarefusedbailoverallegedkillcarstagingdailytelegraph",
    "copyOf": null,

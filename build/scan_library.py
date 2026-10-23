@@ -282,7 +282,13 @@ def main():
                 continue
             bucket, kind, tags = classify(rel, n)
             if rel in overrides:
-                tags = overrides[rel]
+                tags = list(overrides[rel])
+                # "@resource" moves a file the patterns misread — a deck, a
+                # worksheet — into the teaching bucket, where it stays useful
+                # instead of sitting in the evidence backlog for ever.
+                if "@resource" in tags:
+                    tags.remove("@resource")
+                    bucket, kind = "resource", "teaching"
             files.append({
                 "path": rel, "name": clean(n), "file": n,
                 "ext": os.path.splitext(n)[1].lower().lstrip("."),
