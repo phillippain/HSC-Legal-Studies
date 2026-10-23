@@ -111,3 +111,9 @@ Family/Evidence Summaries/Family - Family Court Data Breach Evidence Summary.pdf
 Family/Evidence Summaries/Family - NT Child Protection Review Kumanjayi Little Baby Evidence Summary.pdf | fam.3.4
 Human Rights/HR - Under-16 Social Media Ban Lawsuit Evidence Summary.pdf | hr.3.1
 Shelter/Shelter - Renting a Room Boarders and Lodgers Evidence Summary.pdf | shel.2.4
+Cases/Crime/Vasiljkovic v Commonwealth [2006] HCA 40 - Case Summary.pdf | crime.6.2
+Cases/Crime/Nulyarimma v Thompson [1999] FCA 1192 - Case Summary.pdf | crime.6.1, crime.6.2
+Cases/Crime/Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf | crime.6.2, crime.1.5
+Cases/Crime/DPP (Cth) v Duong [2024] VCC 182 - Case Summary.pdf | crime.1.5, crime.6.1
+Cases/Crime/Roberts-Smith v Fairfax Media (No 41) [2023] FCA 555 - Case Summary.pdf | crime.6.1, crime.6.2
+Cases/Crime/Polyukhovich v The Commonwealth (1991) 172 CLR 501 - Case Summary.pdf | crime.6.1, crime.6.2

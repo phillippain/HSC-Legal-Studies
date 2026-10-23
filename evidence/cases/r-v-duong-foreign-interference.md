@@ -11,6 +11,7 @@ support: crime.1.8, crime.1.2, crime.6.1, hr.2.10, ls.3.1
 themes: crime.t.moral, crime.t.balance, crime.t.reform
 criteria: rights, enforceability, society, ruleoflaw
 source: https://cdpp.gov.au/case-reports/first-criminal-prosecution-foreign-interference
+document: Cases/Crime/DPP (Cth) v Duong [2024] VCC 182 - Case Summary.pdf
 related: r-v-lodhi-2006
 added: 2026-10-20
 ---

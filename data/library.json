@@ -5459,6 +5459,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/DPP (Cth) v Duong [2024] VCC 182 - Case Summary.pdf",
+   "name": "DPP (Cth) v Duong [2024] VCC 182 - Case Summary",
+   "file": "DPP (Cth) v Duong [2024] VCC 182 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 766861,
+   "mtime": 1792703609,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.1.5",
+    "crime.6.1"
+   ],
+   "dupe": "dppcthvduong2024vcc182casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Dietrich v The Queen (1992) 177 CLR 292 - Case Summary.pdf",
    "name": "Dietrich v The Queen (1992) 177 CLR 292 - Case Summary",
    "file": "Dietrich v The Queen (1992) 177 CLR 292 - Case Summary.pdf",
@@ -5583,6 +5600,40 @@
     "crime.4.1"
    ],
    "dupe": "muldrockvthequeen2011hca39casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Nulyarimma v Thompson [1999] FCA 1192 - Case Summary.pdf",
+   "name": "Nulyarimma v Thompson [1999] FCA 1192 - Case Summary",
+   "file": "Nulyarimma v Thompson [1999] FCA 1192 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 815485,
+   "mtime": 1792704329,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.6.1",
+    "crime.6.2"
+   ],
+   "dupe": "nulyarimmavthompson1999fca1192casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Polyukhovich v The Commonwealth (1991) 172 CLR 501 - Case Summary.pdf",
+   "name": "Polyukhovich v The Commonwealth (1991) 172 CLR 501 - Case Summary",
+   "file": "Polyukhovich v The Commonwealth (1991) 172 CLR 501 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 800934,
+   "mtime": 1792704329,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.6.1",
+    "crime.6.2"
+   ],
+   "dupe": "polyukhovichvthecommonwealth1991172clr501casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5813,6 +5864,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Roberts-Smith v Fairfax Media (No 41) [2023] FCA 555 - Case Summary.pdf",
+   "name": "Roberts-Smith v Fairfax Media (No 41) [2023] FCA 555 - Case Summary",
+   "file": "Roberts-Smith v Fairfax Media (No 41) [2023] FCA 555 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 792808,
+   "mtime": 1792704329,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.6.1",
+    "crime.6.2"
+   ],
+   "dupe": "robertssmithvfairfaxmediano412023fca555casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Shine v R [2016] NSWCCA 149 - Case Summary.pdf",
    "name": "Shine v R [2016] NSWCCA 149 - Case Summary",
    "file": "Shine v R [2016] NSWCCA 149 - Case Summary.pdf",
@@ -5857,6 +5925,39 @@
     "crime.3.8"
    ],
    "dupe": "thekingvrowan2024hca9casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf",
+   "name": "Thomas v Mowbray [2007] HCA 33 - Case Summary",
+   "file": "Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 792893,
+   "mtime": 1792704329,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.6.2",
+    "crime.1.5"
+   ],
+   "dupe": "thomasvmowbray2007hca33casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Vasiljkovic v Commonwealth [2006] HCA 40 - Case Summary.pdf",
+   "name": "Vasiljkovic v Commonwealth [2006] HCA 40 - Case Summary",
+   "file": "Vasiljkovic v Commonwealth [2006] HCA 40 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 801161,
+   "mtime": 1792704329,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.6.2"
+   ],
+   "dupe": "vasiljkovicvcommonwealth2006hca40casesummary",
    "copyOf": null,
    "primary": true
   },
