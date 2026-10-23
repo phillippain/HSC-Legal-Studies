@@ -5378,6 +5378,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Shelter/Anderson v Kincumber [2025] NSWCATCD 90 - Case Summary.pdf",
+   "name": "Anderson v Kincumber [2025] NSWCATCD 90 - Case Summary",
+   "file": "Anderson v Kincumber [2025] NSWCATCD 90 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 772641,
+   "mtime": 1792733985,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "shel.2.4",
+    "shel.3.1",
+    "shel.2.2"
+   ],
+   "dupe": "andersonvkincumber2025nswcatcd90casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Shelter/CPX26_HSC_Legal_Studies_Case_Summary_Updated.pdf",
    "name": "CPX26 HSC Legal Studies Case Summary Updated",
    "file": "CPX26_HSC_Legal_Studies_Case_Summary_Updated.pdf",
@@ -5445,6 +5463,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Shelter/Jobema v Zhu [2016] NSWSC 3 - Case Summary.pdf",
+   "name": "Jobema v Zhu [2016] NSWSC 3 - Case Summary",
+   "file": "Jobema v Zhu [2016] NSWSC 3 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 738332,
+   "mtime": 1792733989,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "shel.2.1",
+    "shel.2.6"
+   ],
+   "dupe": "jobemavzhu2016nswsc3casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Shelter/Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf",
    "name": "Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary",
    "file": "Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf",
@@ -5459,6 +5494,24 @@
     "shel.2.6"
    ],
    "dupe": "kellyvnswlahc2026nswcatap214casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Shelter/Kincumber v Morris [2021] NSWCATAP 275 - Case Summary.pdf",
+   "name": "Kincumber v Morris [2021] NSWCATAP 275 - Case Summary",
+   "file": "Kincumber v Morris [2021] NSWCATAP 275 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 774657,
+   "mtime": 1792733986,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "shel.2.4",
+    "shel.2.2",
+    "shel.3.1"
+   ],
+   "dupe": "kincumbervmorris2021nswcatap275casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5511,6 +5564,24 @@
     "shel.2.6"
    ],
    "dupe": "senthilkumaranvgosanno22023nswsc442casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Shelter/Warland v Huang [2023] NSWCATCD 115 - Case Summary.pdf",
+   "name": "Warland v Huang [2023] NSWCATCD 115 - Case Summary",
+   "file": "Warland v Huang [2023] NSWCATCD 115 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 762582,
+   "mtime": 1792733988,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "shel.2.2",
+    "shel.2.3",
+    "shel.2.6"
+   ],
+   "dupe": "warlandvhuang2023nswcatcd115casesummary",
    "copyOf": null,
    "primary": true
   },

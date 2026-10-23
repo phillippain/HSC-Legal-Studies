@@ -137,3 +137,7 @@ Cases/Shelter/Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf | shel.3.4
 Cases/Shelter/Senthilkumaran v Gosan (No 2) [2023] NSWSC 442 - Case Summary.pdf | shel.3.2, shel.2.4, shel.2.6
 Cases/Shelter/Radaich v Smith (1959) 101 CLR 209 - Case Summary.pdf | shel.2.2, shel.2.3
 Cases/Shelter/Garcia v NAB [1998] HCA 48 - Case Summary.pdf | shel.2.1, shel.2.6
+Cases/Shelter/Anderson v Kincumber [2025] NSWCATCD 90 - Case Summary.pdf | shel.2.4, shel.3.1, shel.2.2
+Cases/Shelter/Kincumber v Morris [2021] NSWCATAP 275 - Case Summary.pdf | shel.2.4, shel.2.2, shel.3.1
+Cases/Shelter/Warland v Huang [2023] NSWCATCD 115 - Case Summary.pdf | shel.2.2, shel.2.3, shel.2.6
+Cases/Shelter/Jobema v Zhu [2016] NSWSC 3 - Case Summary.pdf | shel.2.1, shel.2.6
