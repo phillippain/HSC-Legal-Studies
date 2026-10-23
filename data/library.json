@@ -412,7 +412,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.2"
    ],
    "dupe": "3bchangingnatureofparentalresponsibility",
    "copyOf": null,
@@ -445,7 +445,9 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2.5",
+    "fam.3.2",
+    "ls.4.2"
    ],
    "dupe": "alrcreport2019",
    "copyOf": null,
@@ -495,7 +497,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "alberdingkfamilycasestudy",
    "copyOf": null,
@@ -559,7 +561,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.3"
    ],
    "dupe": "assistedreproductivetechnologyinpastfiveyears",
    "copyOf": null,
@@ -609,7 +611,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.2.4",
+    "fam.3.4"
    ],
    "dupe": "baulkhamhillsstabbingmotherchargedthreechildrenhurtinsydneyshillsdistrict",
    "copyOf": null,
@@ -641,7 +644,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.2.3"
    ],
    "dupe": "bindingfinancialagreements",
    "copyOf": null,
@@ -674,7 +677,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.4"
    ],
    "dupe": "careprotectionevidencefile",
    "copyOf": null,
@@ -690,7 +693,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.2"
    ],
    "dupe": "changingnatureofparenting",
    "copyOf": null,
@@ -706,7 +709,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.2"
    ],
    "dupe": "changingparentalresponsibilitiesevidencefile",
    "copyOf": null,
@@ -722,7 +725,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.4"
    ],
    "dupe": "childcarecrisisfrankiethoughtherdaughterwassafeatdaycarebutherchildslifechangedforever",
    "copyOf": null,
@@ -771,7 +774,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.4"
    ],
    "dupe": "coonabarabranchildrenremovedfromparentsbeforeallegedmurder",
    "copyOf": null,
@@ -787,7 +790,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.2.5"
    ],
    "dupe": "courtbasedfamilydisputeresolution",
    "copyOf": null,
@@ -868,7 +871,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.2"
    ],
    "dupe": "effectivenessofsharedparentalresponsibility",
    "copyOf": null,
@@ -948,7 +951,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3"
    ],
    "dupe": "familycontempissuecases",
    "copyOf": null,
@@ -964,7 +967,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.2.3"
    ],
    "dupe": "familylawpropertychangesarecomingwhatyouneedtoknowfamilylawaustralia",
    "copyOf": null,
@@ -996,7 +999,8 @@
    "bucket": "evidence",
    "kind": "legislation",
    "tags": [
-    "family"
+    "fam.3.2",
+    "fam.2.2"
    ],
    "dupe": "familylawact2023cth2024amendments",
    "copyOf": null,
@@ -1012,7 +1016,8 @@
    "bucket": "evidence",
    "kind": "legislation",
    "tags": [
-    "family"
+    "fam.3.2",
+    "fam.2.2"
    ],
    "dupe": "familylawactamendmentsparentingarrangements",
    "copyOf": null,
@@ -1028,7 +1033,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3"
    ],
    "dupe": "familylawcontemporaryissueslcmid",
    "copyOf": null,
@@ -1044,7 +1049,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.2.2"
    ],
    "dupe": "familylawcourtordersforsupervisedcontactincustodialdisputesunansweredquestions",
    "copyOf": null,
@@ -1140,7 +1145,8 @@
    "bucket": "evidence",
    "kind": "report",
    "tags": [
-    "family"
+    "fam.2.4",
+    "fam.2.5"
    ],
    "dupe": "familylawandfamilyviolence2024reportsummary",
    "copyOf": null,
@@ -1204,7 +1210,7 @@
    "bucket": "evidence",
    "kind": "report",
    "tags": [
-    "family"
+    "fam.3.4"
    ],
    "dupe": "finalreportofthespecialinquiryintochildrenandyoungpeopleinalternativecarearrangementsaugust2024",
    "copyOf": null,
@@ -1220,7 +1226,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.4"
    ],
    "dupe": "fostercarersbegforsupportasrecordnumbersquitthesystem",
    "copyOf": null,
@@ -1268,7 +1274,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.3"
    ],
    "dupe": "genderselection",
    "copyOf": null,
@@ -1300,7 +1306,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.4"
    ],
    "dupe": "howjackdieddesperateandaloneaftermultipledcjfailures",
    "copyOf": null,
@@ -1316,7 +1322,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.1.6"
    ],
    "dupe": "integratedbirthcertificatefactsheet",
    "copyOf": null,
@@ -1366,7 +1372,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.4"
    ],
    "dupe": "lsjthecareofchildrenalegacyofcomplexity",
    "copyOf": null,
@@ -1483,7 +1489,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.4"
    ],
    "dupe": "nswendsunaccreditedemergencycareforvulnerablechildren",
    "copyOf": null,
@@ -1531,7 +1537,7 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "family"
+    "fam.2.2"
    ],
    "dupe": "nappywearingdadtolaunchhighcourtbidtoseehiskidsdailytelegraph",
    "copyOf": null,
@@ -1547,7 +1553,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.4"
    ],
    "dupe": "newjobsforfamilytimeworkerstosupportconnectionsbetweenfosterkidsandfamilies",
    "copyOf": null,
@@ -1563,7 +1569,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.2.3"
    ],
    "dupe": "postnuptialagreementinaustraliajusticefamilylawyers",
    "copyOf": null,
@@ -1596,7 +1602,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.2"
    ],
    "dupe": "sscblackwattlebayfamilychangingnatureofparentalresponsibility",
    "copyOf": null,
@@ -1662,7 +1668,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.2.3",
+    "shel.3.1"
    ],
    "dupe": "separatedcouplesforcedtokeeplivingtogetheramidhousingcrisis",
    "copyOf": null,
@@ -1911,7 +1918,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.1.6"
    ],
    "dupe": "tsehayhawkinsyellowwiggleonlookingforherbirthparents",
    "copyOf": null,
@@ -1927,7 +1934,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.1.4"
    ],
    "dupe": "twoofusmaritaandashleemcnamara",
    "copyOf": null,
@@ -1976,7 +1983,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3"
    ],
    "dupe": "updatestofamilylawinaustraliainthepastyear",
    "copyOf": null,
@@ -2043,7 +2050,8 @@
    "bucket": "evidence",
    "kind": "report",
    "tags": [
-    "family"
+    "fam.2.4",
+    "fam.2.5"
    ],
    "dupe": "disincentivestodisclosingfamilyviolencefamilylawcouncilreport",
    "copyOf": null,
@@ -2125,7 +2133,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family"
+    "fam.3.3"
    ],
    "dupe": "surrogategransoffergiftoflife",
    "copyOf": null,
@@ -2783,7 +2791,8 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2",
+    "fam.3"
    ],
    "dupe": "familylawcases",
    "copyOf": null,
@@ -3781,7 +3790,9 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "family"
+    "ind.3.1",
+    "ind.3.2",
+    "fam.1.5"
    ],
    "dupe": "trackingelderlyparentsforsafetyhowlife360andgpsdeviceshelpcaregivers",
    "copyOf": null,
@@ -3797,7 +3808,8 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "family"
+    "fam.2.4",
+    "crime.1.8"
    ],
    "dupe": "thisisamanwhocouldntcopeexpertsgrapplewithmurderofliliejames",
    "copyOf": null,
@@ -3813,7 +3825,9 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "humanrights"
+    "hr.2.9",
+    "ls.4.1",
+    "ls.4.3"
    ],
    "dupe": "antisemitismlawreform",
    "copyOf": null,
@@ -3829,7 +3843,9 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "humanrights"
+    "hr.2.9",
+    "hr.2.13",
+    "hr.3.1"
    ],
    "dupe": "hatespeechlawsnswlaborscruelnewlawsdonotprotectlgbtiqcommunity",
    "copyOf": null,
@@ -3845,7 +3861,7 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "humanrights"
+    "hr.2.9"
    ],
    "dupe": "menchargedinsydneyafterallegeddisplayofswastikaflag",
    "copyOf": null,
@@ -3861,7 +3877,7 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "shelter"
+    "shel.3.1"
    ],
    "dupe": "50yearsofdatashowsstarkchangeinincometohousepriceratiorealestatebusiness",
    "copyOf": null,
@@ -3877,7 +3893,8 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "shelter"
+    "shel.2.4",
+    "shel.3.4"
    ],
    "dupe": "parramattaroadsiteforbuildtorent",
    "copyOf": null,
@@ -4116,7 +4133,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "01cerinzaandmoreau2026fedcfamc2f785",
    "copyOf": null,
@@ -4713,7 +4730,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.3.3"
    ],
    "dupe": "onebirthtwopregnanciestwosetsofparents",
    "copyOf": null,
@@ -4876,7 +4893,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "taggartgowden2026fedcfamc2f673summary",
    "copyOf": null,
@@ -5238,7 +5255,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "humanrights"
+    "hr.3.1"
    ],
    "dupe": "f260097",
    "copyOf": null,
@@ -5303,7 +5320,8 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "humanrights"
+    "hr.2.11",
+    "hr.3.1"
    ],
    "dupe": "hallmannvscuhumanrightssummary",
    "copyOf": null,
@@ -6643,7 +6661,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "humanrights"
+    "hr.2.12",
+    "hr.3.1"
    ],
    "dupe": "forcedmarriageschoolresourceacrath2024",
    "copyOf": null,
@@ -6659,7 +6678,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "humanrights"
+    "hr.3.1",
+    "hr.2.3"
    ],
    "dupe": "globalslaveryindex2023",
    "copyOf": null,
@@ -6805,7 +6825,9 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "humanrights"
+    "hr.2.9",
+    "hr.2.11",
+    "hr.3.1"
    ],
    "dupe": "keylegalissuesinwertheimvhaddad",
    "copyOf": null,
@@ -6870,7 +6892,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "humanrights"
+    "hr.3.1"
    ],
    "dupe": "protectingyourselffromexploitation",
    "copyOf": null,
@@ -6903,7 +6925,8 @@
    "bucket": "evidence",
    "kind": "legislation",
    "tags": [
-    "humanrights"
+    "hr.3.1",
+    "hr.2.13"
    ],
    "dupe": "schoolcleanersaremodernslavesandtaxpayersfootbill",
    "copyOf": null,
@@ -6953,7 +6976,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "humanrights"
+    "hr.3.1",
+    "hr.2.2"
    ],
    "dupe": "uncriticisesaustraliasantislaverylawsinsidenationsalarminglabourscheme",
    "copyOf": null,
@@ -7018,7 +7042,9 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "humanrights"
+    "hr.2.9",
+    "hr.2.11",
+    "hr.3.1"
    ],
    "dupe": "wertheimvhaddadfederalcourtcasestudy",
    "copyOf": null,
@@ -7034,7 +7060,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "humanrights"
+    "hr.2.12",
+    "hr.3.1"
    ],
    "dupe": "myblueskyorgaufrontlineworkerguide",
    "copyOf": null,
@@ -7050,7 +7077,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "humanrights"
+    "hr.2.12",
+    "hr.1.1"
    ],
    "dupe": "rightsedunderstandinghumanrights",
    "copyOf": null,
@@ -7210,7 +7238,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "beitelbeitel2026fedcfamc1f495",
    "copyOf": null,
@@ -7272,7 +7300,8 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2",
+    "fam.2.5"
    ],
    "dupe": "cadelgalea2026fedcfamc1a142",
    "copyOf": null,
@@ -7336,7 +7365,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "duffyduffy2026fedcfamc2f1076",
    "copyOf": null,
@@ -7368,7 +7397,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "escarrokopp2026fedcfamc1f488",
    "copyOf": null,
@@ -7398,7 +7427,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "fryreadno22026fedcfamc1f505",
    "copyOf": null,
@@ -7428,7 +7457,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "harlowharlowno32026fedcfamc1f527",
    "copyOf": null,
@@ -7444,7 +7473,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "hemswoldhemswold2026fedcfamc2f264",
    "copyOf": null,
@@ -7474,7 +7503,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "lagounovkarstensen2026fedcfamc1f524",
    "copyOf": null,
@@ -7490,7 +7519,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "melzerpowlesno22026fedcfamc1f482",
    "copyOf": null,
@@ -7522,7 +7551,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "peakpeakno32026fedcfamc1f553",
    "copyOf": null,
@@ -7538,7 +7567,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "pratleypratleyno92026fedcfamc1f398",
    "copyOf": null,
@@ -7554,7 +7583,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "silbermanfiggins2026fedcfamc1f490",
    "copyOf": null,
@@ -7570,7 +7599,7 @@
    "bucket": "evidence",
    "kind": "case",
    "tags": [
-    "family"
+    "fam.2"
    ],
    "dupe": "sullivanwarren2026fedcfamc1f550",
    "copyOf": null,
@@ -8407,7 +8436,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.3.1",
+    "shel.3.4"
    ],
    "dupe": "australiahousingcrisisplanned100000newhomesinnswstillnotdelivered14monthslater",
    "copyOf": null,
@@ -8455,7 +8485,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.1",
+    "shel.3.1"
    ],
    "dupe": "changestofirsthomeguaranteescheme",
    "copyOf": null,
@@ -8487,7 +8518,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.4",
+    "shel.3.4"
    ],
    "dupe": "commonwealthandnswbuildtorent",
    "copyOf": null,
@@ -8503,7 +8535,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.1"
    ],
    "dupe": "contractofsalehouse",
    "copyOf": null,
@@ -8569,7 +8601,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.8",
+    "ls.2.6"
    ],
    "dupe": "distinctionbetweenstateandfederalgovernmentsinshelterpolicy",
    "copyOf": null,
@@ -8700,7 +8733,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.4"
    ],
    "dupe": "examplestratacontract",
    "copyOf": null,
@@ -8732,7 +8765,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.1",
+    "shel.3.1"
    ],
    "dupe": "firsthomeguaranteeschemesydneypropertyhelptobuyfirsthomebuyerschemetoofferbuyersachoice",
    "copyOf": null,
@@ -8814,7 +8848,7 @@
    "bucket": "evidence",
    "kind": "report",
    "tags": [
-    "shelter"
+    "shel.3.1"
    ],
    "dupe": "grattaninstitutereportsummary",
    "copyOf": null,
@@ -8846,7 +8880,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.1"
    ],
    "dupe": "guidetopurchaseyourhome",
    "copyOf": null,
@@ -9025,7 +9059,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.3.3",
+    "shel.1.3"
    ],
    "dupe": "lismorefloodspearrjam",
    "copyOf": null,
@@ -9058,7 +9093,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.4"
    ],
    "dupe": "mascottowersbackgroundandapplication",
    "copyOf": null,
@@ -9074,7 +9109,7 @@
    "bucket": "evidence",
    "kind": "report",
    "tags": [
-    "shelter"
+    "shel.2.4"
    ],
    "dupe": "mascottowersinvestigationreport",
    "copyOf": null,
@@ -9122,7 +9157,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.3.4"
    ],
    "dupe": "nrasending",
    "copyOf": null,
@@ -9138,7 +9173,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.8",
+    "shel.2.4"
    ],
    "dupe": "nswbuildingcommissioner",
    "copyOf": null,
@@ -9205,7 +9241,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.4"
    ],
    "dupe": "opaltower",
    "copyOf": null,
@@ -9352,7 +9388,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.1"
    ],
    "dupe": "sellingahome",
    "copyOf": null,
@@ -9384,7 +9420,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.1",
+    "shel.3.4"
    ],
    "dupe": "sharedownershipandtheshelter",
    "copyOf": null,
@@ -9432,7 +9469,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.2",
+    "shel.2.3"
    ],
    "dupe": "shelter17sept2025reformsupdate",
    "copyOf": null,
@@ -9576,7 +9614,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.2",
+    "shel.2.3"
    ],
    "dupe": "sheltersept25reformsupdate",
    "copyOf": null,
@@ -9672,7 +9711,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.4"
    ],
    "dupe": "shoddysydneyhomedefectscrisiscollideswiththeneedtobuildhousing",
    "copyOf": null,
@@ -9721,7 +9760,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.4"
    ],
    "dupe": "sydneysbuildingdefectscost700mayearbutwhatisbeingdonetofixtheproblem",
    "copyOf": null,
@@ -9753,7 +9792,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.1",
+    "shel.3.1"
    ],
    "dupe": "taxonthefamilyhome",
    "copyOf": null,
@@ -9769,7 +9809,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.1",
+    "shel.3.1"
    ],
    "dupe": "taxonthefamilyhomeiselephantintheroomofreform",
    "copyOf": null,
@@ -9836,7 +9877,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.3.4"
    ],
    "dupe": "theendofthenraswhatsnext",
    "copyOf": null,
@@ -9852,7 +9893,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.2.1"
    ],
    "dupe": "torrenstitleexamplecontractofsale",
    "copyOf": null,
@@ -9868,7 +9909,7 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "shelter"
+    "shel.2.4"
    ],
    "dupe": "townhousewasperfectthenceilingbegantodripsmh9april2025",
    "copyOf": null,
@@ -9884,7 +9925,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "shelter"
+    "shel.3.1"
    ],
    "dupe": "usd1mprimerealestate",
    "copyOf": null,
@@ -11209,7 +11250,9 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "crime"
+    "crime.2",
+    "crime.4.8",
+    "ls.4.2"
    ],
    "dupe": "inquestintothedeathofbradleyvincentbalzan",
    "copyOf": null,
@@ -11290,7 +11333,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "crime"
+    "crime.5.1",
+    "crime.5.4"
    ],
    "dupe": "nswadultcrimeadulttimesummary",
    "copyOf": null,
@@ -11522,7 +11566,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "crime"
+    "crime.4.8"
    ],
    "dupe": "preventionordersnswandcommonwealth",
    "copyOf": null,
@@ -11753,7 +11797,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "crime"
+    "crime.2.1"
    ],
    "dupe": "tasertasertaseracasestudyonlawandprocedurepertainingtopolicetasersfelicitygraham",
    "copyOf": null,
@@ -11769,7 +11813,7 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "crime"
+    "crime.4.8"
    ],
    "dupe": "winagainstunlawfuldetaineeriskmanagementplansdrmps",
    "copyOf": null,
@@ -12962,7 +13006,8 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "crime"
+    "ls.2.11",
+    "ls.2.13"
    ],
    "dupe": "chagosislandsdealendsbritainslastclaimtoasunlitempire",
    "copyOf": null,
@@ -13044,7 +13089,8 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "crime"
+    "crime.1.8",
+    "crime.1.9"
    ],
    "dupe": "thegreatcrimeparadox",
    "copyOf": null,

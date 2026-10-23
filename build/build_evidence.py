@@ -120,12 +120,41 @@ for r in recs:
     k = cite_key(r.get("short") or r["title"])
     if len(k) >= 10:
         named.setdefault(k, r["id"])
+# Documents that will never earn a record of their own — a thin clipping, a fact
+# sheet, a second copy in another format. They stay in the library folder and on
+# Drive; they simply stop being surfaced, so the "not yet written up" list is a
+# queue that can reach zero rather than a pile that only grows. Every line carries
+# a reason, because setting a document aside is a judgement nobody else sees.
+def load_set_aside():
+    path = f"{ROOT}/data/library-set-aside.txt"
+    out = {}
+    if not os.path.exists(path):
+        return out
+    for n, line in enumerate(open(path, encoding="utf-8"), 1):
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        if "|" not in line:
+            sys.exit(f"library-set-aside.txt:{n}: no `|` in `{line}` "
+                     "(expected `<path> | <reason>`)")
+        p, why = line.split("|", 1)
+        if not why.strip():
+            sys.exit(f"library-set-aside.txt:{n}: no reason given for `{p.strip()}`")
+        out[p.strip()] = why.strip()
+    return out
+
+set_aside = load_set_aside()
+
 try:
     lib = json.load(open(f"{ROOT}/data/library.json"))
     libroot = lib["root"]
     superseded = 0
+    aside_hit = set()
     for f in lib["files"]:
         if not f.get("primary") or f["path"] in claimed:
+            continue
+        if f["path"] in set_aside:
+            aside_hit.add(f["path"])
             continue
         if citation_keys(f["name"]) & set(cited):
             superseded += 1
@@ -237,5 +266,12 @@ print(f"  coverage: {covered}/{len(points)} dot points carry evidence")
 if library:
     ev = sum(1 for f in library if f["b"] == "evidence")
     print(f"  library:  {len(library)} files ({ev} evidence, {len(library)-ev} resources), "
-          f"{len(claimed)} named by a record, {superseded} more superseded by one")
+          f"{len(claimed)} named by a record, {superseded} more superseded by one"
+          + (f", {len(aside_hit)} set aside" if aside_hit else ""))
+    stale = sorted(set(set_aside) - aside_hit)
+    if stale:
+        print(f"  set aside: {len(stale)} line(s) point at a file that is no longer "
+              "in the library, or at one a record already names:")
+        for p in stale[:10]:
+            print(f"      {p}")
 print("  placeholder left in html:", "__DATA__" in out)

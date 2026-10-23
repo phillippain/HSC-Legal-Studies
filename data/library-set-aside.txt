@@ -1,0 +1,59 @@
+# Documents that will not get a record of their own.
+#
+#   <path relative to the library folder> | <why>
+#
+# These stay in the library folder and on Drive — nothing is deleted — but they
+# stop appearing on the site, so "Documents filed here, not yet written up" is a
+# queue that can reach zero rather than a pile that only grows.
+#
+# Every line needs a reason, because setting a document aside is a judgement
+# nobody else sees. Delete a line to bring a document back.
+#
+# Written 23 Oct 2026 from filenames, in the sweep of the 134 documents that were
+# tagged only to a whole topic. Anything that was not obvious was tagged and left
+# in the list instead of being set aside.
+
+# ---------------------------------------------------------------- teaching --
+# Class material that the scanner left in the evidence bucket. It belongs in the
+# library as a teaching resource, not as evidence waiting to be written up.
+Crime/Criminal Investigation Process Sides.pdf | class slide deck ("Sides" is a typo for Slides)
+Crime/Incorporating Evidence in a Crime Response.docx | writing guidance for students
+Crime/Nature of Crime Scenarios.docx | classroom scenarios
+Family/Discuss the role of government reform in responding to issues affecting vulnerable children.pdf | an essay question, not a source
+Family/Example ER - Changing Nature Of Parenting.pdf | model extended response
+Family/NULLITY AND DIVORCE HYPOTHETICALS.pdf | classroom hypotheticals
+Family/The Nature of Family Law Check in 8 April 2025.pdf | class check-in quiz
+Family/Family law Workbook (empty).pdf | an empty workbook
+Family/option-3-all-hsc-family-paragraphs-and-plans-23.pdf | paragraph and plan bank
+Human Rights/12LEG3 2026 HR SA Case Study Example.pdf | model answer for a class
+Human Rights/12LS Paff HR Section 2.pdf | class notes
+Human Rights/HSC Human Rights - Contemporary Issue.pdf | class notes
+Human Rights/Human Rights- Nature and Development of Human Rights.pdf | class notes
+Human Rights/the-nature-and-development-of-human-rights-12-legal-studies.pdf | class notes
+Shelter/12LEG3 2026 Sept Shelter Update.pdf | class update sheet
+Shelter/12LS 2026 Shelter Response Providers.docx | class worksheet
+Shelter/12LS 2026 Shelter Septermber Update.docx | class update sheet
+Shelter/3a. Contemporary Issues - Intro.pdf | lesson introduction
+Shelter/Effectiveness of Law - Just outcomes Example.pdf | model answer
+Shelter/Example Response transcribed. .docx | transcribed student response
+Shelter/Shelter Example 1 Transcribed.pdf | transcribed student response
+Shelter/Shelter Example 1.pdf | student response
+Shelter/Shelter PPT 12LEG1.pdf | class slide deck
+Shelter/Shelter Powerpoint for Handout.pdf | class slide deck
+
+# --------------------------------------------------------------- textbooks --
+# Chapters scanned from the course textbook: covered by the syllabus itself and by
+# the records, and not something to cite in an answer.
+Family/LegalStudies12_6ed_Ch12 Family.pdf | textbook chapter
+Shelter/legal125ed_ch14 Shelter.pdf | textbook chapter
+
+# -------------------------------------------------------------- duplicates --
+Cases/Family/Cerinza & Moreau [2026] FedCFamC2F 785.rtf | raw judgment of the same case as the PDF summary beside it
+
+# ------------------------------------------------------------- not in scope --
+Human Rights/Unemployment v CPI Graph.xlsx | economics data, no Legal Studies use; also wrongly classed as a case
+
+# --------------------------------------------------- raw beside a summary --
+# The judgment as downloaded, next to the case summary a record already names.
+# The filename carries no citation, so the supersede rules cannot see the pair.
+Cases/HGY v Secretary, Ministry of Health in respect of Northern NSW Local Health District [NSW Caselaw].pdf | raw judgment; the record hgy-v-secretary-ministry-of-health-2026 names the case summary

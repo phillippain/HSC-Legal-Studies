@@ -257,7 +257,9 @@ def load_overrides():
             continue
         if "|" not in line:
             raise SystemExit(f"library-tags.txt:{n}: no `|` in `{line}`")
-        p, tags = line.split("|", 1)
+        # Split at the LAST separator: a filename can contain one
+        # ("Nappy wearing dad … | Daily Telegraph.pdf"), a tag list never does.
+        p, tags = line.rsplit("|", 1)
         out[p.strip()] = [t.strip() for t in tags.split(",") if t.strip()]
     return out
 

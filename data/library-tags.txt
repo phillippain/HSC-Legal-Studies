@@ -141,3 +141,130 @@ Cases/Shelter/Anderson v Kincumber [2025] NSWCATCD 90 - Case Summary.pdf | shel.
 Cases/Shelter/Kincumber v Morris [2021] NSWCATAP 275 - Case Summary.pdf | shel.2.4, shel.2.2, shel.3.1
 Cases/Shelter/Warland v Huang [2023] NSWCATCD 115 - Case Summary.pdf | shel.2.2, shel.2.3, shel.2.6
 Cases/Shelter/Jobema v Zhu [2016] NSWSC 3 - Case Summary.pdf | shel.2.1, shel.2.6
+
+# ===========================================================================
+# 23 Oct 2026 — the sweep of the 134 documents that carried only a topic key.
+#
+# A file tagged only to "family" appears at the topic and nowhere else, so a
+# student working at a dot point never sees it. These lines put each one where
+# it belongs. Tagged from filenames; anything that was a guess is marked
+# FLAG and is worth a look.
+# ===========================================================================
+
+# ------------------------------------------------------------------ Crime --
+Crime/Inquest_into_the_death_of_Bradley_Vincent_Balzan.pdf | crime.2, crime.4.8, ls.4.2
+Crime/Media/The great crime paradox.pdf | crime.1.8, crime.1.9
+Crime/NSW Adult Crime Adult Time - Summary.pdf | crime.5.1, crime.5.4
+Crime/PREVENTION ORDERS NSW and Commonwealth.docx | crime.4.8
+Crime/Taser_Taser_Taser__A_Case_Study_on_Law_and_Procedure_Pertaining_To_Police_Tasers__Felicity_Graham.pdf | crime.2.1
+Crime/Win Against Unlawful Detainee Risk Management Plans (DRMPs).pdf | crime.4.8
+Crime/Media/Chagos Islands deal ends Britain’s last claim to a sunlit empire.pdf | ls.2.11, ls.2.13
+
+# ----------------------------------------------------------------- Family --
+Cases/Family/01_Cerinza_and_Moreau_2026_FedCFamC2F_785.pdf | fam.2
+Cases/Family/One birth, two pregnancies, two sets of parents.pdf | fam.3.3
+Cases/Family/Taggart & Gowden [2026] FedCFamC2F 673 (Summary).pdf | fam.2
+Family/3b. Changing nature of parental responsibility.pdf | fam.3.2
+Family/ALRC Report (2019).pdf | fam.2.5, fam.3.2, ls.4.2
+Family/Alberdingk_Family_CaseStudy.pdf | fam.2
+Family/Assisted Reproductive Technology in past five years.pdf | fam.3.3
+Family/Baulkham Hills stabbing Mother charged, three children hurt in Sydney’s Hills District.pdf | fam.2.4, fam.3.4
+Family/Binding Financial Agreements.pdf | fam.2.3
+Family/CareProtection_EvidenceFile.docx | fam.3.4
+Family/Cases/Family law cases.pdf | fam.2, fam.3
+Family/Changing Nature Of Parenting.docx | fam.3.2
+Family/ChangingParentalResponsibilities_EvidenceFile.docx | fam.3.2
+Family/Childcare crisis: Frankie thought her daughter was safe at daycare but her child’s life changed forever.pdf | fam.3.4
+Family/Coonabarabran: Children removed from parents before alleged murder.pdf | fam.3.4
+Family/Court Based Family Dispute Resolution.pdf | fam.2.5
+Family/Effectiveness of Shared Parental Responsibility.pdf | fam.3.2
+Family/Family Contemp Issue Cases.docx | fam.3
+Family/Family Law (Property) changes are coming - what you need to know - Family Law - Australia.pdf | fam.2.3
+Family/Family Law Act 2023(cth) 2024 Amendments.pdf | fam.3.2, fam.2.2
+Family/Family Law Act Amendments & Parenting Arrangements.pdf | fam.3.2, fam.2.2
+Family/Family Law Contemporary Issues LCMID.pdf | fam.3
+Family/Family Law Court orders for supervised contact in custodial disputes– unanswered questions.pdf | fam.2.2
+Family/Family Law and Family Violence 2024 Report Summary.pdf | fam.2.4, fam.2.5
+Family/Final Report of the Special Inquiry into Children and Young People in Alternative Care Arrangements August 2024.pdf | fam.3.4
+Family/Foster carers beg for support as record numbers quit the system.pdf | fam.3.4
+Family/Gender Selection.pdf | fam.3.3
+Family/How Jack died desperate and alone after multiple DCJ failures.pdf | fam.3.4
+Family/Integrated_Birth_Certificate_Fact_Sheet.pdf | fam.1.6
+Family/LSJ - The care of children a legacy of complexity.pdf | fam.3.4
+Family/NSW ends unaccredited emergency care for vulnerable children.pdf | fam.3.4
+Family/Nappy wearing dad to launch High Court bid to see his kids | Daily Telegraph.pdf | fam.2.2
+Family/New jobs for 'family time' workers to support connections between foster kids and families.pdf | fam.3.4
+Family/Postnuptial Agreement In Australia | Justice Family Lawyers.pdf | fam.2.3
+Family/SSC Blackwattle Bay Family- Changing Nature of Parental Responsibility.pdf | fam.3.2
+Family/Separated couples forced to keep living together amid housing crisis.pdf | fam.2.3, shel.3.1
+Family/Tsehay Hawkins: Yellow Wiggle on looking for her birth parents.pdf | fam.1.6
+Family/Two of Us: Marita and Ashlee McNamara.pdf | fam.1.4
+Family/Updates to Family Law in Australia in the Past Year.pdf | fam.3
+Family/disincentives-to-disclosing-family-violence-Family Law Council Report.PDF | fam.2.4, fam.2.5
+Family/‘Surrogate Grans’ Offer GIft of Life.pdf | fam.3.3
+News Articles/Family/Tracking Elderly Parents for Safety: How Life360 and GPS Devices Help Caregivers.pdf | ind.3.1, ind.3.2, fam.1.5
+News Articles/Family/‘This is a man who couldn’t cope’- Experts grapple with murder of Lilie James.pdf | fam.2.4, crime.1.8
+
+# The 2026 judgments waiting to be summarised. Division 1 and Division 2 of the
+# Federal Circuit and Family Court, so parenting or property; which, and the dot
+# point each really serves, needs the judgment read.
+Jade Cases/Raw Cases/Beitel & Beitel [2026] FedCFamC1F 495.rtf | fam.2
+Jade Cases/Raw Cases/Cadel & Galea [2026] FedCFamC1A 142.rtf | fam.2, fam.2.5
+Jade Cases/Raw Cases/Duffy & Duffy [2026] FedCFamC2F 1076.rtf | fam.2
+Jade Cases/Raw Cases/Escarro & Kopp [2026] FedCFamC1F 488.rtf | fam.2
+Jade Cases/Raw Cases/Fry & Read (No 2) [2026] FedCFamC1F 505.rtf | fam.2
+Jade Cases/Raw Cases/Harlow & Harlow (No 3) [2026] FedCFamC1F 527.rtf | fam.2
+Jade Cases/Raw Cases/Hemswold & Hemswold [2026] FedCFamC2F 264.rtf | fam.2
+Jade Cases/Raw Cases/Lagounov & Karstensen [2026] FedCFamC1F 524.rtf | fam.2
+Jade Cases/Raw Cases/Melzer & Powles (No 2) [2026] FedCFamC1F 482.rtf | fam.2
+Jade Cases/Raw Cases/Peak & Peak (No 3) [2026] FedCFamC1F 553.rtf | fam.2
+Jade Cases/Raw Cases/Pratley & Pratley (No 9) [2026] FedCFamC1F 398.rtf | fam.2
+Jade Cases/Raw Cases/Silberman & Figgins [2026] FedCFamC1F 490.rtf | fam.2
+Jade Cases/Raw Cases/Sullivan & Warren [2026] FedCFamC1F 550.rtf | fam.2
+
+# ----------------------------------------------------------- Human Rights --
+Cases/Human Rights/Hallmann_v_SCU_human_rights_summary.pdf | hr.2.11, hr.3.1
+Cases/Human Rights/F260097.rtf | hr.3.1
+Human Rights/Forced-Marriage-School-resource-ACRATH-2024.pdf | hr.2.12, hr.3.1
+Human Rights/Global-Slavery-Index-2023.pdf | hr.3.1, hr.2.3
+Human Rights/Key Legal Issues in Wertheim v Haddad.docx | hr.2.9, hr.2.11, hr.3.1
+Human Rights/Wertheim v Haddad (Federal Court) Case Study.docx | hr.2.9, hr.2.11, hr.3.1
+Human Rights/Protecting yourself from exploitation.pdf | hr.3.1
+Human Rights/School cleaners are 'modern slaves' and taxpayers foot bill.pdf | hr.3.1, hr.2.13
+Human Rights/UN criticises Australia’s anti-slavery laws: Inside nation’s ‘alarming’ labour scheme.pdf | hr.3.1, hr.2.2
+Human Rights/mybluesky.org.au-Frontline Worker Guide.pdf | hr.2.12, hr.3.1
+Human Rights/rightsED_understanding_human_rights.doc | hr.2.12, hr.1.1
+News Articles/Human Rights/Antisemitism Law reform.pdf | hr.2.9, ls.4.1, ls.4.3
+News Articles/Human Rights/Hate speech laws: NSW Labor’s ‘cruel’ new laws do not protect LGBTIQ community.pdf | hr.2.9, hr.2.13, hr.3.1
+News Articles/Human Rights/Men charged in Sydney after alleged display of swastika flag.pdf | hr.2.9
+
+# ---------------------------------------------------------------- Shelter --
+News Articles/Shelter/50 years of data shows stark change in income-to-house-price ratio - Real Estate Business.pdf | shel.3.1
+News Articles/Shelter/Parramatta Road site for build-to-rent.pdf | shel.2.4, shel.3.4
+Shelter/Australia housing crisis: Planned 100,000 new homes in NSW still not delivered 14 months later.pdf | shel.3.1, shel.3.4
+Shelter/Changes to First Home Guarantee Scheme.pdf | shel.2.1, shel.3.1
+Shelter/Commonwealth and NSW Build to Rent.pdf | shel.2.4, shel.3.4
+Shelter/Contract_of_Sale House.pdf | shel.2.1
+Shelter/Distinction Between State and Federal Governments in Shelter Policy.pdf | shel.2.8, ls.2.6
+Shelter/Example Strata Contract.pdf | shel.2.4
+Shelter/First Home Guarantee scheme - Sydney property: Help to Buy first home buyer scheme to offer buyers a choice.pdf | shel.2.1, shel.3.1
+Shelter/Grattan Institute Report Summary.pdf | shel.3.1
+Shelter/Guidetopurchaseyourhome.pdf | shel.2.1
+Shelter/Lismore Floods PEARRJAM.pdf | shel.3.3, shel.1.3
+Shelter/Mascot Towers Background and application.pdf | shel.2.4
+Shelter/Mascot Towers Investigation - Report.pdf | shel.2.4
+Shelter/NRAS_Ending.pdf | shel.3.4
+Shelter/NSW Building Commissioner.pdf | shel.2.8, shel.2.4
+Shelter/Opal Tower.pdf | shel.2.4
+Shelter/Selling a home.pdf | shel.2.1
+Shelter/Shared Ownership and the Shelter.pdf | shel.2.1, shel.3.4
+Shelter/Shelter 17Sept 2025 Reforms Update.pdf | shel.2.2, shel.2.3
+Shelter/Shelter Sept 25 Reforms Update.pdf | shel.2.2, shel.2.3
+Shelter/Shoddy Sydney: Home defects crisis collides with the need to build housing.pdf | shel.2.4
+Shelter/Sydney’s building defects cost $700m a year, but what is being done to fix the problem?.pdf | shel.2.4
+Shelter/Tax on the Family Home.pdf | shel.2.1, shel.3.1
+Shelter/Tax on the family home is ‘elephant in the room’ of reform.pdf | shel.2.1, shel.3.1
+Shelter/The end of the NRAS & what's next.pdf | shel.3.4
+Shelter/Torrens Title Example Contract of Sale.pdf | shel.2.1
+Shelter/Townhouse was perfect, then ceiling began to drip SMH 9 April 2025.pdf | shel.2.4
+Shelter/USD1m Prime Real Estate.pdf | shel.3.1
