@@ -1274,7 +1274,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "fam.3.3"
+    "fam.3.3",
+    "fam.1.5"
    ],
    "dupe": "genderselection",
    "copyOf": null,
@@ -1438,8 +1439,8 @@
    "bucket": "evidence",
    "kind": "media",
    "tags": [
-    "family",
-    "fam.3.3"
+    "fam.3.3",
+    "fam.2.3"
    ],
    "dupe": "melbournecouplescolombianivfsurrogacynightmaredailytelegraph",
    "copyOf": null,
@@ -1585,8 +1586,9 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "family",
-    "fam.3.3"
+    "fam.3.3",
+    "fam.1.2",
+    "ls.3.4"
    ],
    "dupe": "rezsurrogacyarrangementsoverseaslawgazette",
    "copyOf": null,
@@ -1615,10 +1617,9 @@
    "ext": "pdf",
    "bytes": 707361,
    "mtime": 1789944757,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "family",
     "fam.3.3"
    ],
    "dupe": "sscblackwattlebayfamilysurrogacyandbirthtechnologies",
@@ -2133,7 +2134,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "fam.3.3"
+    "fam.3.3",
+    "fam.1.4"
    ],
    "dupe": "surrogategransoffergiftoflife",
    "copyOf": null,
@@ -3462,7 +3464,8 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "fam.3.3"
+    "fam.3.3",
+    "fam.1.5"
    ],
    "dupe": "whenisaspermdonoraparent",
    "copyOf": null,

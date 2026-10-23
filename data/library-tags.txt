@@ -279,3 +279,12 @@ Human Rights/State Library Research Task.pdf | @resource, hr.3.1
 Human Rights/Human Rights State Library Research Task.pdf | @resource, hr.3.1
 Crime/Media/Revesby daycare murder plot: Ata Misi and Iese Esera refused bail over alleged ‘kill car’ staging | Daily Telegraph.pdf | crime.2.5, crime.2.4
 News Articles/Crime/Number of NSW children in youth detention up by one third, new data shows | New South Wales | The Guardian.pdf | crime.5.4, crime.2.5
+
+# --------------------------------- 23 Oct 2026 — surrogacy and birth tech --
+Family/SSC Blackwattle Bay Family- Surrogacy and Birth Technologies.pdf | @resource, fam.3.3
+Family/Re Z Surrogacy arrangements overseas | Law Gazette.pdf | fam.3.3, fam.1.2, ls.3.4
+Family/Melbourne couple’s Colombian IVF surrogacy nightmare | Daily Telegraph.pdf | fam.3.3, fam.2.3
+Family/Gender Selection.pdf | fam.3.3, fam.1.5
+Family/‘Surrogate Grans’ Offer GIft of Life.pdf | fam.3.3, fam.1.4
+Family/Surrogacy and Birth Tech/When is a Sperm Donor A Parent.docx | fam.3.3, fam.1.5
+Family/Why Surrogacy is a Cth Govt Issue .pdf | fam.3.3, fam.1.2, ls.2.6

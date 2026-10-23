@@ -57,3 +57,6 @@ Human Rights/Unemployment v CPI Graph.xlsx | economics data, no Legal Studies us
 # The judgment as downloaded, next to the case summary a record already names.
 # The filename carries no citation, so the supersede rules cannot see the pair.
 Cases/HGY v Secretary, Ministry of Health in respect of Northern NSW Local Health District [NSW Caselaw].pdf | raw judgment; the record hgy-v-secretary-ministry-of-health-2026 names the case summary
+
+# ------------------------------------------------------- broken captures --
+Family/SURROGACY IS NEVER IN A CHILD’S ‘BEST INTERESTS’.pdf | web capture that saved only the site navigation; the article text is not in the file
