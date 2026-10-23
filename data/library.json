@@ -5410,6 +5410,59 @@
    "primary": true
   },
   {
+   "path": "Cases/Shelter/Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary.pdf",
+   "name": "Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary",
+   "file": "Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 755635,
+   "mtime": 1792731941,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "shel.2.2",
+    "shel.2.3",
+    "shel.2.6"
+   ],
+   "dupe": "fimmanovanderson2024nswcatap22casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Shelter/Garcia v NAB [1998] HCA 48 - Case Summary.pdf",
+   "name": "Garcia v NAB [1998] HCA 48 - Case Summary",
+   "file": "Garcia v NAB [1998] HCA 48 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 774102,
+   "mtime": 1792731945,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "shel.2.1",
+    "shel.2.6"
+   ],
+   "dupe": "garciavnab1998hca48casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Shelter/Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf",
+   "name": "Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary",
+   "file": "Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 753542,
+   "mtime": 1792731942,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "shel.3.4",
+    "shel.2.2",
+    "shel.2.6"
+   ],
+   "dupe": "kellyvnswlahc2026nswcatap214casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Shelter/Metropolitan LALC #4 v Attorney General NSW [2026] FCA 1074.rtf",
    "name": "Metropolitan LALC #4 v Attorney General NSW [2026] FCA 1074",
    "file": "Metropolitan LALC #4 v Attorney General NSW [2026] FCA 1074.rtf",
@@ -5423,6 +5476,41 @@
     "ls.5.3"
    ],
    "dupe": "metropolitanlalc4vattorneygeneralnsw2026fca1074",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Shelter/Radaich v Smith (1959) 101 CLR 209 - Case Summary.pdf",
+   "name": "Radaich v Smith (1959) 101 CLR 209 - Case Summary",
+   "file": "Radaich v Smith (1959) 101 CLR 209 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 758013,
+   "mtime": 1792731944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "shel.2.2",
+    "shel.2.3"
+   ],
+   "dupe": "radaichvsmith1959101clr209casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Shelter/Senthilkumaran v Gosan (No 2) [2023] NSWSC 442 - Case Summary.pdf",
+   "name": "Senthilkumaran v Gosan (No 2) [2023] NSWSC 442 - Case Summary",
+   "file": "Senthilkumaran v Gosan (No 2) [2023] NSWSC 442 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 772549,
+   "mtime": 1792731943,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "shel.3.2",
+    "shel.2.4",
+    "shel.2.6"
+   ],
+   "dupe": "senthilkumaranvgosanno22023nswsc442casesummary",
    "copyOf": null,
    "primary": true
   },
