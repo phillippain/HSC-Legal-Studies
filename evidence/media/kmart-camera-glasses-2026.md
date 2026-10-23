@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Kmart's $89 camera glasses — law reform lagging technology (2026)
 short: Kmart camera glasses
 citation: Preliminary Legal Studies evidence summary, 7 October 2026; facts drawn from ABC News, the OAIC, SmartCompany and the Attorney-General's statements, July–October 2026

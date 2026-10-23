@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Renting out a room — why boarders sit outside tenancy law (ABC, 22 October 2026)
 short: Renting a room boarders and lodgers
 citation: Evidence summary of Amy Sheehan, ABC News, 22 October 2026, with the NSW position added from the Residential Tenancies Act 2010, the Boarding Houses Act 2012 and Tenants' Union guidance

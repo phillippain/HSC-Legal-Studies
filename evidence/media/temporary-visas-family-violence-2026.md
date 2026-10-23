@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Women on temporary visas fleeing violence fall through the cracks (2026)
 short: Temporary visas and family violence
 citation: HSC Legal Studies evidence summaries, 19, 20 and 22 October 2026; built on ABC News of 19 October 2026, the Migration Regulations 1994 family violence provisions as expanded in three stages in 2024 (F2024L00751, F2024L01652), Home Affairs guidance, ALRC Report 117 (2011), the Red Cross pilot evaluation (2024) and the 2026 Blueprint for Reform

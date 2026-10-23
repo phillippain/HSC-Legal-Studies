@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: MP Helen Haines struck by car — a man faces state and federal charges and is remanded (2026)
 short: Haines attack charges
 citation: HSC Legal Studies evidence summaries, 21 and 22 October 2026; built on ABC News coverage of 19–21 October 2026 including the first court appearance, AAP, AP and SBS reports, Crimes Act 1958 (Vic) ss 16 and 319, Criminal Code (Cth) s 147.1, the Bail Act 1977 (Vic) and the Criminal Procedure Act 2009 (Vic)

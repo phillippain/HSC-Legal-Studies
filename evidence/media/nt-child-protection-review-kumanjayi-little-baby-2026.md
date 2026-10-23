@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: NT review finds child protection failed Kumanjayi Little Baby (ABC, 20 October 2026)
 short: NT child protection review Kumanjayi Little Baby
 citation: Evidence summary of Jack Hislop, ABC News, 20 October 2026, reporting the final report of the Independent Review into the Conduct of the Department of Children and Families (Karen Webb and Greg Shanahan), tabled in the NT Legislative Assembly

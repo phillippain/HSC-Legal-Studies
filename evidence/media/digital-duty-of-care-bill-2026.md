@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Digital duty of care bill: could Australians sue big tech? (2026)
 short: Digital duty of care bill
 citation: HSC Legal Studies evidence summary, 16 October 2026; built on ABC News of 15 October 2026, the AHRC submission of 23 September 2026 and law firm analyses of the September 2026 exposure draft

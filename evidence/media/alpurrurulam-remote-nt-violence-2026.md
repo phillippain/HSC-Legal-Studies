@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: After a 16-year-old's death at Alpurrurulam, calls for police and services in remote NT communities (2026)
 short: Alpurrurulam remote NT violence
 citation: HSC Legal Studies evidence summary, 22 October 2026; built on ABC Alice Springs of 21 October 2026, National Indigenous Times court reporting of 12 and 15 October 2026, NT Estimates answers, the 2024 NT coronial findings and the Domestic and Family Violence Act 2007 (NT)

@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Family Court transcripts accessed in India — calls for a federal audit (ABC, 23 October 2026)
 short: Court transcripts India data breach
 citation: Evidence summary of Heidi Davoren, ABC Specialist Reporting Team, "Attorney-General urged to step in as court data breach concerns grow", 23 October 2026, and earlier ABC reports (February and October 2026)

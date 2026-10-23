@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Kmart's $89 camera glasses — a human right the law can't reach (HSC evidence summary, 2026)
 short: Kmart camera glasses (HSC)
 citation: HSC Legal Studies evidence summary, 7 October 2026; built from ABC News, SMH, the OAIC, the Attorney-General's statements and BOCSAR, July–October 2026

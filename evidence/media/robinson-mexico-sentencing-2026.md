@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Mexican court jails Robinson brothers' killers for 158 years each (2026)
 short: Robinson brothers Mexico sentencing
 citation: HSC Legal Studies evidence summary, 19 October 2026; built on ABC News of 17 October 2026, Reuters and AP reports of the 9 October verdict, the Baja California Penal Code and the Código Nacional de Procedimientos Penales

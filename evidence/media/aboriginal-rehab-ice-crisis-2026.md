@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Aboriginal-run rehab as an alternative to custody in the ice crisis (2026)
 short: Aboriginal rehab and the ice crisis
 citation: HSC Legal Studies evidence summary, 19 October 2026; built on ABC News of 17 October 2026, ACIC Wastewater Report 25, the Penington Institute's 2026 overdose report and Report on Government Services 2026

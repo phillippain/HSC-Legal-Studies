@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: A 13-year-old charged over alleged sexual touching on the Narrabeen Lagoon trails (2026)
 short: Narrabeen Lagoon 13-year-old charged
 citation: HSC Legal Studies evidence summary, 20 October 2026; built on ABC News of 17 October 2026 (updated 18 October), The Nightly, the Judicial Commission's Children's Court Resource Handbook and Sentencing Bench Book, and RP v The Queen [2016] HCA 53

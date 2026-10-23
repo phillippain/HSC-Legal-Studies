@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Renters band together in groups as vacancies stay near record lows (2026)
 short: Group renting and co-tenancy
 citation: HSC Legal Studies evidence summaries, 19, 20 and 22 October 2026; built on ABC 7.30 of 19 October 2026, the Residential Tenancies Act 2010 (NSW) ss 74–75, 79, 101–102, 174, 187 and the 2024-26 reforms, Tenants' Union and Fair Trading factsheets, NCAT guidance, Domain, SQM and Cotality rental data and AIHW housing data

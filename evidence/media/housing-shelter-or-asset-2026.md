@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Shelter or asset? Why housing dominates Australian life (2026)
 short: Housing — shelter or asset
 citation: HSC Legal Studies evidence summary, 16 October 2026; built on the ABC News analysis of 14 October 2026, with ICESCR art 11, the 2026 UN CESCR review, the ACT right to housing and Australian housing data

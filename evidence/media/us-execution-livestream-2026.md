@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Trump cancels the livestream of a US military firing-squad execution — Australia's abolition stance meets the limits of online safety law (2026)
 short: US execution livestream
 citation: HSC Legal Studies evidence summary, 20 October 2026; built on ABC News of 12 and 16 October 2026, AP and Task & Purpose reports, DFAT's Strategy for Abolition of the Death Penalty (2018), the Death Penalty Abolition Act 1973 (Cth) s 6, Online Safety Act 2021 (Cth) and eSafety regulatory guidance

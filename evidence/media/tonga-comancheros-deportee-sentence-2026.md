@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: A deportee jailed in Tonga over a Comancheros chapter bid (ABC, 22 October 2026)
 short: Tonga Comancheros deportee sentence
 citation: Evidence summary of Nick Sas, ABC News (Pacific Local Journalism Network), 22 October 2026

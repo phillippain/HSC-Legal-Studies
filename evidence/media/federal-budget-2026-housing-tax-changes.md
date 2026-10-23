@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: 2026 Federal Budget — negative gearing and capital gains tax changes (Shelter update)
 short: Shelter Federal Budget Update
 citation: Class evidence brief on the 2026–27 Commonwealth Budget (May 2026), compiled from ABC, SMH, Daily Telegraph and AFR reporting

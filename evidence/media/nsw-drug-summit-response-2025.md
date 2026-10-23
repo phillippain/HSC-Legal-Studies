@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: NSW Government response to the 2024 Drug Summit (October 2025)
 short: NSW Drug Summit response (2025)
 citation: NSW Government response to the NSW Drug Summit 2024, reported by The Daily Aus, 29 October 2025

@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Sexual and family violence against children rising, study finds (2026)
 short: Violence against children study 2026
 citation: HSC Legal Studies evidence summary, 16 October 2026; built on ABC News of 14 October 2026 and the University of Sydney release on the JAMA Network Open study by Dr Lucy Grummitt, with NSW Ombudsman and Productivity Commission data

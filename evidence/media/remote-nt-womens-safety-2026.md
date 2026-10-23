@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Remote NT women map the gaps in domestic violence protection (2026)
 short: Remote NT women's safety report
 citation: HSC Legal Studies evidence summary, 16 October 2026; built on ABC News of 15 October 2026, the 2024 NT coronial findings, NT and Commonwealth budget reporting and the Domestic and Family Violence Act 2007 (NT)

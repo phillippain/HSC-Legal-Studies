@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Citizen held 945 days — Ombudsman's Righting Wrongful Detention report (2026)
 short: Ombudsman wrongful detention 2026
 citation: HSC Legal Studies evidence summary, 16 October 2026; built on ABC News of 15 October 2026 and the Commonwealth Ombudsman's report Righting Wrongful Detention (October 2026), covering 1 July 2024 to 30 June 2025

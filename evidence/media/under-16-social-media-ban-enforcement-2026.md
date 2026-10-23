@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Australia set to sue five platforms over the under-16 social media ban (Bloomberg, 20 October 2026)
 short: Under-16 social media ban enforcement
 citation: Evidence summary of a Bloomberg report (via Yahoo Finance Australia), 20 October 2026, with eSafety compliance reports (March and July 2026) and follow-up coverage

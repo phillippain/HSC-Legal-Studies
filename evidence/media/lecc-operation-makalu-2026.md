@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: LECC opens Operation Makalu hearings into police force at the Town Hall protest (2026)
 short: LECC Operation Makalu
 citation: HSC Legal Studies evidence summary, 21 October 2026; built on ABC News of 19 October 2026, the LECC's Operation Makalu media releases, FAQs and decision on public and private hearings (29 September 2026), the PARD instruments and LEPRA s 231

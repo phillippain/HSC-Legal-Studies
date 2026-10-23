@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Greta bus crash — charge negotiation, sentence and systemic reform (2026)
 short: Greta bus crash
 citation: HSC Legal Studies evidence summary, 19 October 2026; built on ABC Australian Story of 19 October 2026, the OTSI investigation report of July 2026, court reporting of the 2024 sentence and the 2025 appeal, and the 2026 NHVR prosecution

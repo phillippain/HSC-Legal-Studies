@@ -1,5 +1,5 @@
 ---
-type: document
+type: media
 title: Zakaria seeks permanent stay over alleged unlawful deportation — the hearing opens (2026)
 short: Zakaria permanent stay
 citation: HSC Legal Studies evidence summaries, 19 and 21 October 2026; built on ABC News of 18 and 19 October 2026 with its earlier reports of September 2025 and July 2026, AAP, the AFP's December 2023 release, Moti v The Queen [2011] HCA 50 and the abuse-of-process authorities
