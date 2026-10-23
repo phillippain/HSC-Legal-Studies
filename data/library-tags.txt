@@ -224,8 +224,10 @@ Jade Cases/Raw Cases/Sullivan & Warren [2026] FedCFamC1F 550.rtf | fam.2
 
 # ----------------------------------------------------------- Human Rights --
 Cases/Human Rights/Hallmann_v_SCU_human_rights_summary.pdf | hr.2.11, hr.3.1
-Cases/Human Rights/F260097.rtf | hr.3.1
-Human Rights/Forced-Marriage-School-resource-ACRATH-2024.pdf | hr.2.12, hr.3.1
+# F260097.rtf is Richards v State of South Australia (Far West Coast Sea Claim)
+# [2026] FCAFC 97 — a native title sea claim, nothing to do with the modern slavery issue.
+Cases/Human Rights/F260097.rtf | chg.5.4, hr.2.10, hr.2.11
+Human Rights/Forced-Marriage-School-resource-ACRATH-2024.pdf | @resource, hr.2.12, hr.3.1
 Human Rights/Global-Slavery-Index-2023.pdf | hr.3.1, hr.2.3
 Human Rights/Key Legal Issues in Wertheim v Haddad.docx | hr.2.9, hr.2.11, hr.3.1
 Human Rights/Wertheim v Haddad (Federal Court) Case Study.docx | hr.2.9, hr.2.11, hr.3.1
@@ -294,3 +296,5 @@ Shelter/Mascot Towers Background and application.pdf | @resource, shel.2.4
 
 # ------------------------------- 24 Oct 2026 — human rights contemporary issue --
 Human Rights/Wertheim v Haddad (Federal Court) Case Study.docx | @resource, hr.3.1
+Human Rights/Child Soldiers in Modern Conflicts.pdf | @resource, hr.3.1, crime.6
+Human Rights/Modern Slavery/Four Corners - Modern Slavery in the Food Supply Chain.pdf | @resource, hr.3.1
