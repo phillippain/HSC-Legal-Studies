@@ -7,7 +7,7 @@ date: 2022-01-23
 jurisdiction: Commonwealth (and NSW offences)
 significance: The eSafety Commissioner can order removal of cyberbullying, cyber-abuse and intimate images within 24 hours — and from 10 December 2025 platforms must keep under-16s off social media, a world first.
 core: chg.1.3, chg.6.1, chg.6
-support: inv.7.1, dis.3.5, dis.3.6, inv.7.4, crime.1.5, crime.6.1, hr.2.9, chg.1, chg.3, exp.5, exp.6, fam.1.5, dis.1.3, inv.7.2, inv.7.3, chg.6.4
+support: inv.7.1, dis.3.5, dis.3.6, inv.7.4, crime.1.5, crime.6.1, hr.2.9, chg.1, chg.3, exp.5, exp.6, fam.1.5, dis.1.3, chg.6.4
 themes: chg.t.values, chg.t.justice, chg.t.effectiveness
 criteria: enforceability, responsiveness, rights, society, accessibility
 source: https://www.legislation.gov.au/C2021A00076/latest/text

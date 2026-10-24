@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Australia (Commonwealth and NSW)
 significance: Both governments subsidise renters rather than regulate rents, so assistance rises with the budget while the rent that triggers it is set by the market.
 core: shel.2.2, shel.3.4
-support: shel.3.1, shel.3.3, shel.1.3, shel.2.1, hr.2.9, chg.1.3, inv.6.4, dis.3.2, exp.5.1, inv.7.2, inv.7.3
+support: shel.3.1, shel.3.3, shel.1.3, shel.2.1, hr.2.9, chg.1.3, inv.6.4, dis.3.2, exp.5.1
 themes: shel.t.effectiveness, shel.t.cooperation, shel.t.reform, shel.t.values
 criteria: accessibility, resource, responsiveness, society, rights, justice
 document: Shelter/Rental Subsidies NSW v Commonwealth.pdf

@@ -7,7 +7,7 @@ date: 2026-10-19
 jurisdiction: Local Court of NSW; NSW Police Commissioner as third-party subpoena recipient
 significance: An accused can subpoena police documents to test whether an arrest was lawful — and because assaulting police needs an officer in the execution of duty, unlawful policing is a defence, not a grievance.
 core: crime.3.7, crime.2.1, crime.3.6
-support: crime.2.4, crime.3.2, crime.3.3, crime.3.4, crime.3.5, crime.1.6, hr.2.10, hr.2.11, hr.2.12, inv.1.6, inv.4.3, dis.1.5, dis.2.5, dis.3.2, exp.5, dis.1.4, dis.1.6, dis.1.3, inv.7.2, inv.7.3
+support: crime.2.4, crime.3.2, crime.3.3, crime.3.4, crime.3.5, crime.1.6, hr.2.10, hr.2.11, hr.2.12, inv.1.6, inv.4.3, dis.1.5, dis.2.5, dis.3.2, exp.5, dis.1.4, dis.1.6, dis.1.3
 themes: crime.t.balance, crime.t.discretion, crime.t.compliance, crime.t.effectiveness, inv.t.justice
 criteria: rights, enforceability, accessibility, ruleoflaw, justice
 document: Crime/Criminal Trial Process/Town Hall protest CCTV subpoena ruling (Evidence summary 22Oct26 v2).pdf

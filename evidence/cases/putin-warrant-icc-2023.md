@@ -7,7 +7,7 @@ date: 2023-03-17
 jurisdiction: International (Ukraine, Russia)
 significance: A warrant for a sitting head of state that three states could have executed and none did.
 core: crime.6.2, inv.6.6, inv.6.2
-support: crime.6.1, hr.2.4, hr.3.1, hr.2.7, inv.6.3, inv.7.2
+support: crime.6.1, hr.2.4, hr.3.1, hr.2.7, inv.6.3
 themes: crime.t.compliance, crime.t.effectiveness, hr.t.sovereignty, inv.t.effectiveness
 criteria: enforceability, justice, ruleoflaw
 source: https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and

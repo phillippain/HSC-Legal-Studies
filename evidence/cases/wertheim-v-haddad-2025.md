@@ -7,7 +7,7 @@ date: 2025-07-01
 jurisdiction: Federal Court of Australia
 significance: Sermons calling Jewish people "vile" and "descendants of apes and pigs" breached s 18C, and the Court ordered their removal while holding that criticism of Israel does not breach the Act.
 core: hr.3.1, hr.2.11
-support: hr.2.9, hr.2.10, hr.2.7, hr.2.14, hr.1.1, hr.1.3, hr.2.12, hr.2.13, inv.7.1, inv.7.2, inv.7.4, inv.1.4, inv.5.4, dis.2.1, dis.2.7, dis.2.8, chg.1.1, inv.7.3, inv.6.3
+support: hr.2.9, hr.2.10, hr.2.7, hr.2.14, hr.1.1, hr.1.3, hr.2.12, hr.2.13, inv.7.1, inv.7.2, inv.7.4, inv.1.4, inv.5.4, dis.2.1, dis.2.7, dis.2.8, chg.1.1, inv.7.3
 themes: hr.t.values, hr.t.compliance, hr.t.effectiveness, hr.t.reform, inv.t.justice
 criteria: accessibility, enforceability, responsiveness, rights, society, justice
 document: Human Rights/Key Legal Issues in Wertheim v Haddad.docx

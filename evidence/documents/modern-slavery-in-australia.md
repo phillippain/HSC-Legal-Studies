@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Australia
 significance: Exploitation runs on a continuum from poor conditions to slavery, and the criminal law only reaches the far end of it.
 core: hr.3.1, crime.6.1
-support: crime.6.2, crime.1.1, crime.1.5, hr.1.1, hr.2.9, fam.1.3, inv.6.3, inv.7.2, exp.4, dis.1.1, dis.1.3, inv.7.3
+support: crime.6.2, crime.1.1, crime.1.5, hr.1.1, hr.2.9, fam.1.3, inv.6.3, inv.7.2, exp.4, dis.1.1, dis.1.3
 themes: crime.t.moral, crime.t.effectiveness, crime.t.compliance
 criteria: enforceability, rights, society, justice, responsiveness
 document: Human Rights/Understanding and responding to modern slavery in Australia.pdf

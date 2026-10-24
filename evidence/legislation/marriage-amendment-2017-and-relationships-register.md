@@ -7,7 +7,7 @@ date: 2017-12-09
 jurisdiction: Commonwealth and NSW
 significance: Four Acts over a decade took same-sex couples from legal strangers to full recognition — 84 Commonwealth laws (2008), de facto property in the Family Court (2009), a NSW register (2010) and marriage (2017).
 core: fam.3.1, fam.1.4
-support: fam.1.1, fam.1.3, fam.2.3, fam.1.5, chg.1, chg.3, hr.2.9, exp.4, inv.7.2, inv.7.3
+support: fam.1.1, fam.1.3, fam.2.3, fam.1.5, chg.1, chg.3, hr.2.9, exp.4, chg.1.2
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness
 criteria: rights, responsiveness, society, justice, accessibility
 source: https://www.legislation.gov.au/C2017A00129/latest/text

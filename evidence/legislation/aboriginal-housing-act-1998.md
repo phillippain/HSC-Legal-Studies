@@ -7,7 +7,7 @@ date: 1998
 jurisdiction: NSW
 significance: Creates the Aboriginal Housing Office, with an all-Aboriginal board, to own and fund housing for Aboriginal people in NSW — the only group-specific housing statute, for the group with the highest rates of homelessness.
 core: shel.3.4, shel.3.2, shel.2.8
-support: shel.1.3, shel.3.3, shel.2.9, shel.1.2, hr.2.9, inv.2.1, inv.2.2, exp.4, exp.6, inv.7.2, inv.7.3
+support: shel.1.3, shel.3.3, shel.2.9, shel.1.2, hr.2.9, inv.2.1, inv.2.2, exp.4, exp.6
 themes: shel.t.values, shel.t.effectiveness, shel.t.cooperation, shel.t.reform
 criteria: accessibility, resource, responsiveness, society, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-047

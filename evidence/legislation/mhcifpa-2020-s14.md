@@ -7,7 +7,7 @@ date: 2021
 jurisdiction: NSW
 significance: A diversion power a magistrate already had, barely used — until a non-legal service made it work.
 core: crime.4.7, crime.4.6, crime.3.1
-support: crime.1.8, crime.2.5, hr.2.4, exp.4, dis.1.7, dis.1.5, inv.6.6, exp.5.4
+support: crime.1.8, crime.2.5, hr.2.4, exp.4, dis.1.7, dis.1.5, exp.5.4
 themes: crime.t.discretion, crime.t.moral, crime.t.effectiveness
 criteria: accessibility, rights, resource, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2020-012

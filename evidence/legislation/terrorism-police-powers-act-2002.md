@@ -7,7 +7,7 @@ date: 2016
 jurisdiction: NSW
 significance: Up to 14 days in custody without charge, for suspects as young as 14 — the furthest exception to the ordinary custody clock.
 core: crime.2.6
-support: crime.6.1, crime.5.2, hr.2.10, exp.2.3, inv.7.2, inv.7.3
+support: crime.6.1, crime.5.2, hr.2.10, exp.2.3
 themes: crime.t.balance, crime.t.reform
 criteria: rights, responsiveness, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2002-115

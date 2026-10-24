@@ -7,7 +7,7 @@ date: 2024-06-13
 jurisdiction: NSW
 significance: The NSW Anti-slavery Commissioner told ministers that conditions for 7,000 school cleaners on government contracts crossed the threshold of forced labour, and a year later the government agreed to insource them.
 core: hr.3.1
-support: hr.2.4, hr.2.9, hr.2.12, hr.2.13, chg.1.3, chg.2.2, dis.3.3, dis.3.4, exp.4.2, exp.5.5, inv.1.4, inv.6.6, inv.7.2, inv.7.3
+support: hr.2.4, hr.2.9, hr.2.12, hr.2.13, chg.1.3, chg.2.2, dis.3.3, dis.3.4, exp.4.2, exp.5.5, inv.1.4
 themes: hr.t.reform, hr.t.effectiveness, hr.t.compliance, hr.t.values
 criteria: enforceability, responsiveness, rights, resource, society, justice
 document: Human Rights/School cleaners are 'modern slaves' and taxpayers foot bill.pdf

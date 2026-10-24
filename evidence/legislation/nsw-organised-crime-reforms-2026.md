@@ -7,7 +7,7 @@ date: 2026-09-25
 jurisdiction: NSW
 significance: Two Acts in four months answered Sydney's gang shootings with new offences, higher penalties, adult trials for children and orders that restrict suspects before any conviction.
 core: crime.2.1, crime.1.5
-support: crime.2.3, crime.2.5, crime.3.1, crime.4.1, crime.5.2, crime.5.3, crime.6.1, hr.2.10, exp.2.3, dis.1.3, dis.1.5, inv.7.2, inv.7.3
+support: crime.2.3, crime.2.5, crime.3.1, crime.4.1, crime.5.2, crime.5.3, crime.6.1, hr.2.10, exp.2.3, dis.1.3, dis.1.5
 themes: crime.t.reform, crime.t.balance, crime.t.effectiveness, crime.t.discretion
 criteria: responsiveness, enforceability, rights, society
 source: https://www.nsw.gov.au/ministerial-releases/crimes-amendment-passes-parliament

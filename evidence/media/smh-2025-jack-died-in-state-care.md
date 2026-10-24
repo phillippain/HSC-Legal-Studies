@@ -7,7 +7,7 @@ date: 2025-05-07
 jurisdiction: NSW
 significance: A boy spent five years under the parental responsibility of the Minister, moved between group homes, hotels and motels, and died the day after he turned 18.
 core: fam.3.4
-support: fam.2.6, fam.2.7, fam.3.1, fam.3.2, crime.5.1, hr.2.9, hr.2.12, exp.1.1, exp.2.2, exp.3.2, dis.3.3, dis.3.5, inv.7.2, inv.7.3
+support: fam.2.6, fam.2.7, fam.3.1, fam.3.2, crime.5.1, hr.2.9, hr.2.12, exp.1.1, exp.2.2, exp.3.2, dis.3.3, dis.3.5
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.values, fam.t.reform
 criteria: enforceability, rights, responsiveness, resource, accessibility, justice
 document: Family/How Jack died desperate and alone after multiple DCJ failures.pdf

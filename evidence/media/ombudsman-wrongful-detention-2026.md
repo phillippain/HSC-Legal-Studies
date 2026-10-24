@@ -7,7 +7,7 @@ date: 2026-10-14
 jurisdiction: Commonwealth
 significance: An Australian-born citizen was held in immigration detention for 945 days, and wrongful detentions rose from 11 to 30 in a year, 80% of them avoidable if existing policy had been followed.
 core: hr.2.4, hr.3.1, dis.3.5, dis.3.6
-support: hr.2.9, hr.2.10, hr.2.11, hr.2.7, hr.1.1, dis.3.4, dis.3.3, inv.7.2, inv.7.3, inv.1.6, inv.1.7, inv.5.3, inv.1.3, dis.3.1, crime.2.6, dis.3.2, exp.5, exp.6, inv.6.6, inv.6.3, dis.3.8
+support: hr.2.9, hr.2.10, hr.2.11, hr.2.7, hr.1.1, dis.3.4, dis.3.3, inv.7.2, inv.7.3, inv.1.6, inv.1.7, inv.5.3, inv.1.3, dis.3.1, crime.2.6, dis.3.2, exp.5, exp.6, dis.3.8
 themes: hr.t.compliance, hr.t.effectiveness, hr.t.sovereignty, dis.t.justice
 criteria: accessibility, enforceability, responsiveness, rights, ruleoflaw, justice
 document: Human Rights/Ombudsman wrongful immigration detention (Evidence summary 16Oct26).pdf

@@ -7,7 +7,7 @@ date: 2019
 jurisdiction: International
 significance: Cross-border surrogacy has no international framework, so children can be left stateless or without recognised parents and surrogates in poorer countries carry the risk.
 core: fam.3.3
-support: fam.1.4, fam.3.1, fam.3.2, hr.1.1, hr.2.2, hr.2.3, crime.6.1, inv.6.5, inv.6.6, chg.3.3, inv.6.4
+support: fam.1.4, fam.3.1, fam.3.2, hr.1.1, hr.2.2, hr.2.3, crime.6.1, inv.6.5, chg.3.3, inv.6.4
 themes: fam.t.values, fam.t.effectiveness, fam.t.reform, fam.t.cooperation
 criteria: enforceability, rights, responsiveness, society, justice
 document: Family/International Surrogacy BBC Article.pdf

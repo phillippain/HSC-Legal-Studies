@@ -7,7 +7,7 @@ date: 2018-04-30
 jurisdiction: NSW
 significance: Replaced committal hearings with charge certificates, case conferences and fixed sentence discounts — 25% for an early plea falling to 10% at trial — so pleas and charge negotiation happen early.
 core: crime.3.4, crime.3.2
-support: crime.3.1, crime.3.3, crime.4.1, crime.4.2, crime.2.6, dis.1.5, dis.2.5, chg.1, chg.2, exp.6, inv.4.3, dis.1.6, dis.1.7, chg.1.5
+support: crime.3.1, crime.3.3, crime.4.1, crime.4.2, crime.2.6, dis.1.5, dis.2.5, chg.1, chg.2, exp.6, inv.4.3, dis.1.6, dis.1.7, chg.1.5, chg.1.2
 themes: crime.t.effectiveness, crime.t.discretion, crime.t.balance, crime.t.reform
 criteria: resource, responsiveness, enforceability, justice, rights
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1986-209

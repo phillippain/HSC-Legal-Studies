@@ -7,7 +7,7 @@ date: 2012
 jurisdiction: NSW
 significance: Every adult in child-related work must hold a clearance, and from September 2025 a refusal can no longer be reviewed by NCAT — only reconsidered by the Children's Guardian.
 core: fam.3.4
-support: fam.3.1, fam.3.2, crime.5.2, hr.2.9, chg.6.1, chg.3.1, dis.2.5, dis.3.1, inv.4.1, inv.7.2, inv.7.3
+support: fam.3.1, fam.3.2, crime.5.2, hr.2.9, chg.6.1, chg.3.1, dis.2.5, dis.3.1, inv.4.1, inv.7.2
 themes: fam.t.reform, fam.t.values, fam.t.effectiveness, fam.t.compliance
 criteria: rights, enforceability, responsiveness, accessibility, society, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2012-051

@@ -7,7 +7,7 @@ date: 2024
 jurisdiction: Australia
 significance: A two-page referral map showing that the practical response to forced marriage runs through community organisations and helplines rather than through a court.
 core: hr.3.1
-support: hr.2.12, hr.2.5, hr.2.9, exp.1.1, exp.2.2, exp.2.5, exp.3.2, fam.2.4, fam.2.6, inv.1.4, inv.6.7, inv.7.2, inv.7.3
+support: hr.2.12, hr.2.5, hr.2.9, exp.1.1, exp.2.2, exp.2.5, exp.3.2, fam.2.4, fam.2.6, inv.1.4, inv.6.7
 themes: hr.t.effectiveness, hr.t.values, hr.t.compliance
 criteria: accessibility, responsiveness, rights, resource, society
 document: Human Rights/Recognising and Responding to forced marriage.pdf

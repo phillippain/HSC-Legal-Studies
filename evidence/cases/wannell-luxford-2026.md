@@ -7,7 +7,7 @@ date: 2026-07-23
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2), Judge Best
 significance: A 14-year-old had refused to see his father for two years, and the Court held that following his wishes would harm him.
 core: fam.2.2, fam.2.5, exp.1.3, exp.1.1
-support: fam.1.5, fam.3.2, fam.2.6, hr.2.7, hr.1.3, dis.2.5, exp.2.1, inv.6.3, inv.7.2
+support: fam.1.5, fam.3.2, fam.2.6, hr.2.7, hr.1.3, dis.2.5, exp.2.1
 themes: fam.t.cooperation, fam.t.compliance, fam.t.effectiveness, hr.t.compliance, exp.t.justice, exp.t.values
 criteria: rights, enforceability, responsiveness, justice
 document: Jade Cases/Completed Case Summaries/03_Wannell_and_Luxford_2026_FedCFamC2F_930.pdf

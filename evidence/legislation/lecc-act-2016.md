@@ -7,7 +7,7 @@ date: 2017-07-01
 jurisdiction: NSW
 significance: Replaced the Police Integrity Commission and the Ombudsman's police role with one body that can investigate serious police misconduct with royal-commission powers and public hearings — but cannot discipline or prosecute.
 core: dis.3.5, dis.3.6, crime.2.1
-support: dis.3.2, dis.3.3, dis.3.4, inv.7.4, crime.2.2, hr.2.4, inv.1.7, exp.6, inv.6.6
+support: dis.3.2, dis.3.3, dis.3.4, inv.7.4, crime.2.2, hr.2.4, inv.1.7, exp.6
 themes: dis.t.justice, dis.t.effectiveness, crime.t.balance, crime.t.discretion
 criteria: enforceability, accessibility, ruleoflaw, rights, responsiveness
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2016-061

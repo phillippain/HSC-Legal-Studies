@@ -7,7 +7,7 @@ date: 2019
 jurisdiction: Australia (Commonwealth)
 significance: The ALRC found children fall through the gaps between federal family law, state child protection and state family violence systems, and recommended handing family law back to the states.
 core: fam.3.2
-support: fam.1.2, fam.2.2, fam.2.3, fam.2.4, fam.2.5, fam.3.4, chg.1.3, chg.2.3, chg.3.1, dis.1.5, dis.2.5, inv.6.2, inv.6.6
+support: fam.1.2, fam.2.2, fam.2.3, fam.2.4, fam.2.5, fam.3.4, chg.1.3, chg.2.3, chg.3.1, dis.1.5, dis.2.5, inv.6.2
 themes: fam.t.reform, fam.t.effectiveness, fam.t.cooperation, fam.t.values
 criteria: accessibility, responsiveness, resource, enforceability, justice, society
 document: Family/ALRC Report (2019).pdf

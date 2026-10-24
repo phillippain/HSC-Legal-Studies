@@ -7,7 +7,7 @@ date: 2025-11-01
 jurisdiction: Commonwealth
 significance: The first rights-based aged care law — a Statement of Rights, a single entry pathway, Support at Home and a stronger regulator — four years after the Royal Commission and delayed twice to 1 November 2025.
 core: shel.2.4, shel.3.2
-support: shel.1.2, shel.1.3, shel.2.8, shel.3.4, hr.2.9, inv.3.3, inv.4.4, chg.1, exp.6, inv.7.2, inv.7.3, chg.1.4
+support: shel.1.2, shel.1.3, shel.2.8, shel.3.4, hr.2.9, inv.3.3, inv.4.4, chg.1, exp.6, chg.1.4
 themes: shel.t.values, shel.t.reform, shel.t.effectiveness, shel.t.cooperation
 criteria: rights, accessibility, enforceability, responsiveness, resource
 source: https://www.legislation.gov.au/C2024A00104/latest/text

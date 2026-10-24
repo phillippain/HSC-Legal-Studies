@@ -7,7 +7,7 @@ date: 2026-10-19
 jurisdiction: NSW — Law Enforcement Conduct Commission (Chief Commissioner the Hon Peter Johnson SC) over the NSW Police Force
 significance: The most complained-about policing event in the LECC's history is being tested by an oversight body that can refer briefs to the DPP but cannot convict — accountability without a court.
 core: crime.2.1, dis.3.5, dis.3.6, hr.2.4
-support: crime.2.3, crime.2.4, crime.1.5, hr.2.10, hr.2.11, hr.2.12, dis.3.2, dis.3.3, dis.3.4, inv.1.7, chg.1, chg.2, chg.2.1, exp.5, exp.6, inv.6.6, dis.1.3, inv.7.2, inv.7.3
+support: crime.2.3, crime.2.4, crime.1.5, hr.2.10, hr.2.11, hr.2.12, dis.3.2, dis.3.3, dis.3.4, inv.1.7, chg.1, chg.2, chg.2.1, exp.5, exp.6, dis.1.3
 themes: crime.t.discretion, crime.t.balance, crime.t.effectiveness, crime.t.reform, dis.t.justice, hr.t.effectiveness
 criteria: enforceability, accessibility, rights, ruleoflaw, society, justice, responsiveness
 document: Crime/LECC Operation Makalu Town Hall protest hearings (Evidence summary 21Oct26).pdf

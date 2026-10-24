@@ -7,7 +7,7 @@ date: 2025-05-01
 jurisdiction: Queensland / Commonwealth
 significance: A couple who asked the court to recognise them as parents were refused and referred to the DPP, because admitting to commercial surrogacy abroad is itself an offence in Queensland.
 core: fam.3.3
-support: fam.1.2, fam.2.2, fam.3.1, fam.3.2, hr.2.9, chg.1.3, chg.6.1, inv.1.2, inv.1.4, dis.2.5, exp.4.1, inv.7.2, inv.7.3
+support: fam.1.2, fam.2.2, fam.3.1, fam.3.2, hr.2.9, chg.1.3, chg.6.1, inv.1.2, inv.1.4, dis.2.5, exp.4.1
 themes: fam.t.reform, fam.t.effectiveness, fam.t.compliance, fam.t.values
 criteria: enforceability, accessibility, responsiveness, rights, justice, society
 document: Family/Australian couple could face prosecution after using commercial surrogacy service to have baby abroad - ABC News.pdf

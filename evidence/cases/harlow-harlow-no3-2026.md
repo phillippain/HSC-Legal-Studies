@@ -7,7 +7,7 @@ date: 2026-08-06
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1)
 significance: An adult son ran up over $478,000 in costs orders across four courts trying to join his parents' property case, and was refused a stay because he had no right of appeal to the High Court.
 core: fam.2.3, fam.1.2
-support: fam.2.5, fam.2.1, fam.1.5, dis.2.1, dis.2.2, dis.2.7, dis.3.4, inv.6.2, inv.6.6, inv.1.4, inv.4.1
+support: fam.2.5, fam.2.1, fam.1.5, dis.2.1, dis.2.2, dis.2.7, dis.3.4, inv.6.2, inv.1.4, inv.4.1
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.values
 criteria: accessibility, resource, enforceability, responsiveness, ruleoflaw, justice
 document: Jade Cases/Raw Cases/Harlow & Harlow (No 3) [2026] FedCFamC1F 527.rtf

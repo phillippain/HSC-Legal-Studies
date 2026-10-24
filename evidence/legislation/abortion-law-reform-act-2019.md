@@ -7,7 +7,7 @@ date: 2019-10-02
 jurisdiction: NSW
 significance: NSW was the last state to take abortion out of its Crimes Act: 119-year-old offences repealed after a conscience vote, replacing case-law exceptions with a health statute.
 core: chg.1.5, chg.1.1
-support: chg.3.1, chg.2.2, chg.2.1, chg.4.1, inv.1.5, inv.3.3
+support: chg.3.1, chg.2.2, chg.2.1, chg.4.1, inv.1.5, inv.3.3, chg.1.2
 themes: chg.t.values, chg.t.justice
 criteria: responsiveness, accessibility, rights, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2019-011

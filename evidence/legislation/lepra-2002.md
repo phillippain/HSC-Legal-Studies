@@ -7,7 +7,7 @@ date: 2002
 jurisdiction: NSW
 significance: One statute holds almost every police power in NSW, and the responsibilities that are meant to check them.
 core: crime.2.1
-support: crime.2.3, crime.2.4, crime.2.6, crime.5.2, hr.2.10, inv.1.7, shel.3.3, shel.2.8, dis.3.2, exp.2.3, inv.7.2, inv.7.3
+support: crime.2.3, crime.2.4, crime.2.6, crime.5.2, hr.2.10, inv.1.7, shel.3.3, shel.2.8, dis.3.2, exp.2.3
 themes: crime.t.discretion, crime.t.balance, crime.t.compliance
 criteria: rights, enforceability, ruleoflaw, justice
 document: Crime/NSW Police Powers - Two-Page Summary.pdf

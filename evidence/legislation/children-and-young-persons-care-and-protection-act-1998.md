@@ -7,7 +7,7 @@ date: 1998
 jurisdiction: NSW
 significance: The state's power to intervene in a family — mandatory reporting, DCJ assessment, emergency removal and Children's Court care orders — under the paramount safety of the child and, since 2018, permanency timeframes.
 core: fam.3.4, fam.1.5
-support: fam.3.2, fam.1.6, fam.2.4, fam.2.5, fam.2.6, hr.2.9, inv.6.3, inv.7.2, inv.1.3, dis.3.1, exp.4, exp.6, inv.7.3
+support: fam.3.2, fam.1.6, fam.2.4, fam.2.5, fam.2.6, hr.2.9, inv.6.3, inv.7.2, inv.1.3, dis.3.1, exp.4, exp.6
 themes: fam.t.values, fam.t.effectiveness, fam.t.reform, fam.t.cooperation
 criteria: rights, enforceability, responsiveness, resource, justice, accessibility
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-157

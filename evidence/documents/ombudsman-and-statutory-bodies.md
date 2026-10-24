@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW and Commonwealth
 significance: Every one of these bodies can investigate, find facts and recommend — and none of them can impose a penalty, which is both the design and the complaint.
 core: dis.3.5, dis.3.6
-support: dis.3.4, dis.3.2, dis.3.3, hr.2.4, crime.2.1, fam.3.4, exp.5, exp.6, inv.6.6
+support: dis.3.4, dis.3.2, dis.3.3, hr.2.4, crime.2.1, fam.3.4, exp.5, exp.6
 themes: dis.t.justice, dis.t.values
 criteria: enforceability, accessibility, rights, responsiveness, justice
 related: police-and-law-enforcement-agencies, inquest-blgn-and-dg-2018, nit-2024-family-is-culture

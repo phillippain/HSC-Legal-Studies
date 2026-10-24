@@ -7,7 +7,7 @@ date: 2021-09-01
 jurisdiction: Commonwealth
 significance: Merged the Family Court and the Federal Circuit Court into one court with two divisions on 1 September 2021 — single entry point, triage, a 12-month target — the structural answer to a decade of delay.
 core: fam.2.5, fam.1.2
-support: fam.2.1, fam.2.2, fam.2.3, fam.2.4, inv.4.1, inv.5.3, chg.1, chg.3, exp.6
+support: fam.2.1, fam.2.2, fam.2.3, fam.2.4, inv.4.1, inv.5.3, chg.1, chg.3, exp.6, chg.1.2
 themes: fam.t.effectiveness, fam.t.reform, fam.t.cooperation
 criteria: accessibility, resource, responsiveness, justice
 source: https://www.legislation.gov.au/C2021A00012/latest/text

@@ -7,7 +7,7 @@ date: 2026-10-14
 jurisdiction: Commonwealth and NSW
 significance: Police-recorded sexual and family violence against children rose sharply over a decade while substantiated child protection cases did not — the gap may be system capacity, not less abuse.
 core: fam.3.4, fam.1.5
-support: fam.2.4, fam.2.6, fam.2.7, hr.3.1, hr.2.4, hr.2.9, crime.2.2, crime.1.8, crime.4.4, chg.1, chg.2, dis.3.5, dis.3.6, exp.4, exp.5, exp.6, inv.6.6, inv.7.2, inv.7.3
+support: fam.2.4, fam.2.6, fam.2.7, hr.3.1, hr.2.4, hr.2.9, crime.2.2, crime.1.8, crime.4.4, chg.1, chg.2, dis.3.5, dis.3.6, exp.4, exp.5, exp.6
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform, fam.t.values, hr.t.effectiveness, crime.t.effectiveness
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, justice
 document: Family/Evidence Summaries/Violence against children study 2026 (Evidence summary 16Oct26).pdf

@@ -7,7 +7,7 @@ date: 2026-03-25
 jurisdiction: Administrative Review Tribunal (Cth)
 significance: A delegate refused an eligible child's citizenship because the family lived in the USA, and the Tribunal remade the decision with a direction that the discretion not be exercised.
 core: hr.2.11
-support: hr.2.4, hr.2.7, hr.2.9, hr.3.1, dis.3.1, dis.3.2, dis.3.4, inv.1.4, inv.1.6, inv.5.4, fam.1.1, inv.7.3, inv.6.6, inv.6.3, inv.7.2
+support: hr.2.4, hr.2.7, hr.2.9, hr.3.1, dis.3.1, dis.3.2, dis.3.4, inv.1.4, inv.1.6, inv.5.4, fam.1.1, inv.7.3
 themes: hr.t.effectiveness, hr.t.values, hr.t.compliance
 criteria: accessibility, responsiveness, rights, resource, ruleoflaw, justice
 document: Cases/Human Rights/FHST_citizenship_admin_law_summary.pdf

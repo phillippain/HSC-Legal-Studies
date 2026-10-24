@@ -7,7 +7,7 @@ date: 2024
 jurisdiction: NSW
 significance: Every major jury reform has answered a problem: a juror's night-time visit (2004), a hung jury (2006), long trials (2007), and juror welfare (2024).
 core: crime.3.9
-support: crime.3.6, crime.3.2, chg.1, dis.1.6, dis.1.4, dis.1.5, inv.4.3
+support: crime.3.6, crime.3.2, chg.1, dis.1.6, dis.1.4, dis.1.5, inv.4.3, chg.1.2
 themes: crime.t.reform, crime.t.balance, crime.t.compliance
 criteria: justice, rights, responsiveness, society
 document: Crime/Criminal Trial Process/Cheat Sheet Juries.pdf

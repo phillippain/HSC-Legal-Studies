@@ -7,7 +7,7 @@ date: 2025-05
 jurisdiction: NSW
 significance: Five current and former staff of a major out-of-home care provider alleged at least 50 children in its care were at serious risk of harm, including serious neglect.
 core: fam.3.4
-support: fam.2.6, fam.2.7, fam.3.1, hr.2.9, crime.5.1, exp.4.2, dis.3.1, inv.1.6, inv.4.5, inv.7.2, inv.7.3
+support: fam.2.6, fam.2.7, fam.3.1, hr.2.9, crime.5.1, exp.4.2, dis.3.1, inv.1.6, inv.4.5
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform, fam.t.values
 criteria: enforceability, responsiveness, rights, resource, society, justice
 document: Family/Life Without Barriers CPOC.pdf

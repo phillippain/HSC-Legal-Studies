@@ -7,7 +7,7 @@ date: 2017-08
 jurisdiction: NSW
 significance: Passed in a week in August 2017 to clear the Martin Place homeless camp, it lets police and Crown Lands remove people and belongings from Sydney's public reserves — a public-order answer to a housing problem.
 core: shel.3.3, shel.2.8
-support: shel.1.3, shel.1.4, shel.2.4, shel.2.10, hr.2.9, inv.3.3, inv.4.4, chg.3, exp.5, inv.7.2, inv.7.3
+support: shel.1.3, shel.1.4, shel.2.4, shel.2.10, hr.2.9, inv.3.3, inv.4.4, chg.3, exp.5
 themes: shel.t.values, shel.t.effectiveness, shel.t.compliance, shel.t.reform
 criteria: enforceability, rights, responsiveness, society, ruleoflaw
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2017-038

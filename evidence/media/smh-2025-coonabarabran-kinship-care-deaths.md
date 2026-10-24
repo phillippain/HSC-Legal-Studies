@@ -7,7 +7,7 @@ date: 2025-05-06
 jurisdiction: NSW
 significance: Two boys removed from their parents and placed with their grandmother in kinship care were found dead in her home, with the Minister still holding parental responsibility.
 core: fam.3.4
-support: fam.3.2, fam.2.6, fam.1.4, crime.1.4, crime.2.1, exp.4.1, dis.3.6, dis.3.3, inv.4.2, hr.2.9, dis.1.2, inv.7.2, inv.7.3
+support: fam.3.2, fam.2.6, fam.1.4, crime.1.4, crime.2.1, exp.4.1, dis.3.6, dis.3.3, inv.4.2, hr.2.9, dis.1.2
 themes: fam.t.effectiveness, fam.t.values, fam.t.compliance, fam.t.reform
 criteria: enforceability, rights, responsiveness, resource, justice, society
 document: Family/Coonabarabran: Children removed from parents before alleged murder.pdf

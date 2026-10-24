@@ -7,7 +7,7 @@ date: 2026-04
 jurisdiction: NSW
 significance: The court that makes more than 90% of NSW judicial decisions now calls its officers judges — same powers, new recognition.
 core: crime.3.1, crime.3.3
-support: inv.4.3, crime.5.3, exp.2.3, dis.1.5, dis.1.6, chg.1.5
+support: inv.4.3, crime.5.3, exp.2.3, dis.1.5, dis.1.6, chg.1.5, chg.1.2
 themes: crime.t.reform, crime.t.effectiveness
 criteria: accessibility, resource, society
 source: https://www.thelawyermag.com/au/practice-areas/public-sector/change-of-magistrate-title-to-judge-takes-effect-in-nsw-local-court/570448

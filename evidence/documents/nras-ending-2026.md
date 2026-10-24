@@ -7,7 +7,7 @@ date: 2026-06
 jurisdiction: Australia
 significance: A scheme that delivered about 36,000 affordable rentals since 2008 finished in June 2026 with no like-for-like replacement, and its tenants face market rent at the end of their lease.
 core: shel.3.4
-support: shel.3.1, shel.3.3, shel.2.2, shel.1.3, shel.2.8, hr.2.7, chg.1.3, chg.2.2, inv.6.4, dis.3.2, exp.4.2, inv.6.3, inv.7.2
+support: shel.3.1, shel.3.3, shel.2.2, shel.1.3, shel.2.8, hr.2.7, chg.1.3, chg.2.2, inv.6.4, dis.3.2, exp.4.2
 themes: shel.t.reform, shel.t.effectiveness, shel.t.values, shel.t.cooperation
 criteria: responsiveness, accessibility, resource, rights, society, justice
 document: Shelter/The end of the NRAS & what's next.pdf

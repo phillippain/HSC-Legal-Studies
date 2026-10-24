@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2)
 significance: With a husband in Australia, a wife overseas and assets in both, the Court adjusted 77–23 and let each keep the property in the country where they live.
 core: fam.2.3, fam.1.2
-support: fam.2.1, fam.2.5, fam.1.5, inv.6.2, inv.6.6, dis.2.1, dis.2.7, chg.3.1
+support: fam.2.1, fam.2.5, fam.1.5, inv.6.2, dis.2.1, dis.2.7, chg.3.1
 themes: fam.t.effectiveness, fam.t.cooperation, fam.t.reform
 criteria: accessibility, enforceability, responsiveness, resource, justice
 document: Jade Cases/Raw Cases/Duffy & Duffy [2026] FedCFamC2F 1076.rtf

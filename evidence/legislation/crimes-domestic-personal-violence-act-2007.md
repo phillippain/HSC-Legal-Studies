@@ -7,7 +7,7 @@ date: 2007
 jurisdiction: NSW
 significance: ADVOs and the offence of breaching one — 28,515 breaches recorded in a year, rising 6.5%.
 core: fam.2.4, crime.4.6
-support: crime.2.1, crime.4.8, fam.2.5, hr.2.9, dis.1.7, inv.7.2, inv.7.3
+support: crime.2.1, crime.4.8, fam.2.5, hr.2.9, dis.1.7
 themes: fam.t.compliance, crime.t.compliance, crime.t.effectiveness
 criteria: enforceability, rights, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2007-080

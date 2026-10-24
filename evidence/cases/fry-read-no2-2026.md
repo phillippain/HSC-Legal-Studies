@@ -7,7 +7,7 @@ date: 2026-07-31
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1)
 significance: A United States judgment that cut across earlier Australian property orders was prima facie enforceable here, and was refused anyway because enforcing it would contravene public policy.
 core: fam.2.3, fam.1.2
-support: fam.2.5, fam.2.1, inv.6.1, inv.6.2, inv.6.6, inv.3.1, inv.1.7, dis.2.5, dis.2.7
+support: fam.2.5, fam.2.1, inv.6.1, inv.6.2, inv.3.1, inv.1.7, dis.2.5, dis.2.7
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.cooperation, inv.t.justice
 criteria: accessibility, enforceability, responsiveness, ruleoflaw, justice
 document: Jade Cases/Raw Cases/Fry & Read (No 2) [2026] FedCFamC1F 505.rtf

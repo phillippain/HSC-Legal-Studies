@@ -7,7 +7,7 @@ date: 2025-02
 jurisdiction: Australia (Commonwealth and NSW)
 significance: Two parliaments created new hate crime offences within weeks of each other, raised the Nazi symbol penalty from one year to five, and attached mandatory minimum sentences.
 core: hr.2.9
-support: hr.2.14, hr.2.8, hr.2.11, hr.2.4, hr.2.13, hr.1.1, crime.1.2, crime.4.3, crime.4.5, chg.1.3, chg.2.1, dis.3.2, inv.7.2, inv.7.3, inv.6.6, dis.1.2
+support: hr.2.14, hr.2.8, hr.2.11, hr.2.4, hr.2.13, hr.1.1, crime.1.2, crime.4.3, crime.4.5, chg.1.3, chg.2.1, dis.3.2, inv.7.2, inv.7.3, dis.1.2
 themes: hr.t.reform, hr.t.effectiveness, hr.t.values, hr.t.compliance
 criteria: rights, enforceability, responsiveness, justice, society, ruleoflaw
 document: News Articles/Human Rights/Antisemitism Law reform.pdf

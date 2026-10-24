@@ -7,7 +7,7 @@ date: 2007
 jurisdiction: NSW and Commonwealth
 significance: An offence for anyone to record a private conversation, track a person or film a private activity without consent — and the warrant regime under which police do exactly that, plus phone interception and metadata.
 core: chg.1.3, chg.6.1, crime.2.2
-support: inv.7.1, inv.7.4, chg.6, crime.2.1, crime.3.5, hr.2.9, inv.1.3, dis.3.1, exp.5, exp.6, dis.1.5, inv.7.2, inv.7.3
+support: inv.7.1, inv.7.4, chg.6, crime.2.1, crime.3.5, hr.2.9, inv.1.3, dis.3.1, exp.5, exp.6, dis.1.5
 themes: chg.t.values, chg.t.justice, crime.t.balance
 criteria: rights, enforceability, ruleoflaw, responsiveness, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2007-064

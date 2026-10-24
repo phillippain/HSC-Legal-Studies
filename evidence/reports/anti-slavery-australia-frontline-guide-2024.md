@@ -7,7 +7,7 @@ date: 2024-07
 jurisdiction: Australia
 significance: Forced marriage has been Australia's most reported form of modern slavery since it was criminalised in 2013, with more than 500 AFP investigations and known significant under-reporting.
 core: hr.3.1
-support: hr.2.12, hr.2.9, hr.1.1, hr.2.5, fam.1.3, fam.2.4, exp.1.1, exp.2.2, exp.2.5, exp.5.5, inv.1.4, inv.7.2, inv.7.3, inv.6.7
+support: hr.2.12, hr.2.9, hr.1.1, hr.2.5, fam.1.3, fam.2.4, exp.1.1, exp.2.2, exp.2.5, exp.5.5, inv.1.4, inv.6.7
 themes: hr.t.effectiveness, hr.t.values, hr.t.compliance, hr.t.reform
 criteria: accessibility, enforceability, responsiveness, rights, society, justice
 document: Human Rights/mybluesky.org.au-Frontline Worker Guide.pdf

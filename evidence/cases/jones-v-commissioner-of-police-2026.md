@@ -7,7 +7,7 @@ date: 2026-08-11
 jurisdiction: NSW Civil and Administrative Tribunal, Administrative and Equal Opportunity Division — D Dinnen, Senior Member
 significance: Police being dismissive of someone who had told them they have PTSD is not, under the Act, a refusal of service.
 core: hr.2.9, hr.2.4
-support: hr.2.11, hr.3.1, crime.2.1, crime.2.2, dis.3.2, dis.2.5, dis.3.4, dis.3.5, dis.3.6, dis.1.5, exp.4, inv.7.2, inv.7.3, inv.6.6
+support: hr.2.11, hr.3.1, crime.2.1, crime.2.2, dis.3.2, dis.2.5, dis.3.4, dis.3.5, dis.3.6, dis.1.5, exp.4, inv.7.2, inv.7.3
 themes: hr.t.compliance, hr.t.effectiveness, dis.t.justice, crime.t.discretion
 criteria: accessibility, enforceability, rights, responsiveness, justice
 document: Jade Cases/Raw Cases/Jones v Commissioner of Police, NSW Police Force - NSW Caselaw.pdf

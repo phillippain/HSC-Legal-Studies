@@ -7,7 +7,7 @@ date: 1966-12-16
 jurisdiction: International
 significance: Art 11(1) is the right to adequate housing — the entire international-law basis of the Shelter option.
 core: shel.1.2, hr.1.3
-support: shel.1.3, shel.3.1, shel.3.3, shel.3.4, hr.2.7, inv.6.1, inv.6.3, inv.7.2
+support: shel.1.3, shel.3.1, shel.3.3, shel.3.4, hr.2.7, inv.6.1
 themes: shel.t.values, hr.t.sovereignty, shel.t.effectiveness
 criteria: rights, enforceability, society
 added: 2026-09-19

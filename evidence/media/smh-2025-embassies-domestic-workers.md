@@ -7,7 +7,7 @@ date: 2025-01-03
 jurisdiction: Australia (Commonwealth)
 significance: Two Federal Court judgments found diplomats owed their domestic workers hundreds of thousands in unpaid wages, and both sending governments simply refused to pay.
 core: hr.3.1
-support: hr.2.1, hr.2.9, hr.2.11, hr.2.4, dis.2.7, dis.3.4, inv.6.4, exp.4.1, exp.5.3, inv.6.2, inv.7.2, inv.7.3, inv.6.6
+support: hr.2.1, hr.2.9, hr.2.11, hr.2.4, dis.2.7, dis.3.4, inv.6.4, exp.4.1, exp.5.3, inv.6.2
 themes: hr.t.sovereignty, hr.t.effectiveness, hr.t.compliance, hr.t.reform
 criteria: enforceability, rights, responsiveness, accessibility, justice
 document: Crime/Media/Modern slavery Embassies on notice over treatment of servants.pdf

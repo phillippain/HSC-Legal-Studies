@@ -7,7 +7,7 @@ date: 2026-10-20
 jurisdiction: Commonwealth — Online Safety Act 2021 Part 4A (s 63D); Online Safety Amendment (Strengthening Enforcement for the Social Media Minimum Age) Act 2026
 significance: Ten months into the ban, 42% of 10–15-year-olds still held accounts, penalties had doubled to A$109.2 million, and the minister expected Federal Court action against Facebook, Instagram, TikTok, Snapchat and YouTube.
 core: hr.3.1, chg.1.3, chg.6.1, chg.6
-support: hr.1.3, hr.2.4, hr.2.7, hr.2.9, hr.2.13, inv.7.1, inv.7.4, chg.1, exp.6, fam.1.5, inv.6.6, inv.6.3, inv.7.2, inv.7.3, chg.6.5
+support: hr.1.3, hr.2.4, hr.2.7, hr.2.9, hr.2.13, inv.7.1, inv.7.4, chg.1, exp.6, fam.1.5, chg.6.5
 themes: hr.t.compliance, hr.t.effectiveness, chg.t.values, chg.t.justice
 criteria: enforceability, rights, responsiveness, society
 document: Human Rights/HR - Under-16 Social Media Ban Lawsuit Evidence Summary.pdf
