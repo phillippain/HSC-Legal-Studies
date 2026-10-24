@@ -60,7 +60,7 @@ and how a citizen deals with them; these Acts answer the first.
 - **dis.3.3 / dis.3.5 / dis.3.6** — the complaint pathways against police as "disputes with the state".
 - **crime.2.1 / crime.2.2** — the Force's statutory mission, against which discretion and police
   powers are evaluated; LECC's Makalu and strip-search records are the oversight in action.
-- **chg.6.5** — why suing the police is hard: immunities, cost, and the internal-investigation
+- **inv.7.4** — why suing the police is hard: immunities, cost, and the internal-investigation
   model.
 
 ## Caution

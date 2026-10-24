@@ -11,6 +11,7 @@ support: shel.2.6, shel.2.9, shel.1.4, dis.2.2, inv.3.2, inv.4.1
 themes: shel.t.values, shel.t.reform, shel.t.effectiveness, dis.t.justice, dis.t.values
 criteria: rights, justice, society
 document: Cases/Shelter/Garcia v NAB [1998] HCA 48 - Case Summary.pdf
+document11: Cases/Year 11/Year 11 - Garcia v NAB [1998] HCA 48 - Case Summary.pdf
 source: https://www.hcourt.gov.au/
 related: amadio-1983, khoshaba-2006, shelter-dispute-resolution-map
 added: 2026-10-23

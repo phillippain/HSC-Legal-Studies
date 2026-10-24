@@ -51,7 +51,7 @@ penalty is aimed at a company in Shenzhen that has ignored every request.
   agreed in September 2023 is still unwritten.
 - **chg.2 (agencies of reform)** — a petition, an NGO, the media and a regulator all acted inside ten
   weeks. The media's security testing is what triggered the formal investigation.
-- **chg.6.5 / chg.6 (enforcing rights, future directions)** — most people never learn they were
+- **inv.7.4 (enforcing rights, future directions)** — most people never learn they were
   filmed, so a right that depends on discovering the breach cannot deter misuse.
 - **Federalism (inv.5.1 / inv.5.2)** — privacy is mostly Commonwealth, surveillance and voyeurism offences are
   state, and Brisbane used a council rule: no single parliament can close the gap alone.

@@ -59,7 +59,7 @@ matters.
   (2018) made 35 recommendations including diversion and justice reinvestment; the **NSW Ice inquiry**
   (2020) made 109, of which 86 were supported, with harm-reduction recommendations such as
   decriminalising personal use rejected.
-- **inv.2.1 / inv.2.1 / inv.2.2 (customary law and its relevance)** — Elders, yarning circles and bush walks as
+- **inv.2.1 / inv.2.2 (customary law and its relevance)** — Elders, yarning circles and bush walks as
   the treatment itself, not an add-on; a case for culturally safe justice responses.
 - **The honest counter-argument** — a 2022 NSW study of 2,326 admissions to Aboriginal AOD
   residential rehab found **justice-referred clients were more likely to self-discharge**, which

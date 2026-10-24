@@ -50,10 +50,10 @@ Postal Industry and Overseas Students ombudsman functions.
 
 - **dis.3.5 / dis.3.6 (Ombudsman and statutory bodies)** — the statute, the jurisdiction and the limits:
   "investigate and recommend" against ICAC's "find" and a court's "order".
-- **dis.3.4 / dis.3.4** — the Ombudsman as the bridge between **internal review** (the agency
+- **dis.3.4** — the Ombudsman as the bridge between **internal review** (the agency
   reconsiders) and **external review** (ART, NCAT, judicial review); a complaint can be made at any
   stage and costs nothing.
-- **chg.6.5** — why a report is not a remedy; compare the AHRC.
+- **inv.7.4** — why a report is not a remedy; compare the AHRC.
 - **crime.4.5 (post-sentencing)** — prisoner complaints and the Official Visitors scheme.
 
 ## Caution

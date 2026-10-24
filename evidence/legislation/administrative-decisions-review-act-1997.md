@@ -54,7 +54,7 @@ on the site shows the routes.
   *Goldman* records as current NSW examples.
 - **inv.4.1 / inv.5.3** — NCAT's limits as a non-court (it cannot decide matters between residents
   of different states: *Burns v Corbett*); the Supreme Court's inherent supervisory role.
-- **chg.6.5** — the gap: most NSW decisions are reviewable only if an Act says so.
+- **inv.7.4** — the gap: most NSW decisions are reviewable only if an Act says so.
 
 ## Caution
 

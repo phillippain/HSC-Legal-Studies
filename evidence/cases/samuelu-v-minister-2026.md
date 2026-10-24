@@ -11,6 +11,7 @@ support: hr.2.4, hr.2.7, hr.2.9, dis.3.4, inv.3.4, fam.2.4, dis.3.2
 themes: hr.t.compliance, crime.t.balance, dis.t.justice
 criteria: rights, ruleoflaw, society, justice
 document: Jade Cases/Completed Case Summaries/06_Samuelu_v_Minister_2026_FCAFC_100.pdf
+document11: Cases/Year 11/Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary.pdf
 related: da-silva-v-minister-2026
 added: 2026-09-19
 ---

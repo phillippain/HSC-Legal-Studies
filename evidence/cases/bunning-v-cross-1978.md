@@ -11,6 +11,7 @@ support: crime.2.1, crime.3.1, hr.3.1, inv.1.6, inv.3.2, inv.1.7
 themes: crime.t.balance, crime.t.discretion, crime.t.compliance, dis.t.justice
 criteria: ruleoflaw, justice, enforceability
 document: Cases/Crime/Bunning v Cross [1978] HCA 22 - Case Summary.pdf
+document11: Cases/Year 11/Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary.pdf
 related: evidence-act-1995, ridgeway-v-the-queen-1995, kadir-grech-v-the-queen-2020
 added: 2026-10-23
 ---

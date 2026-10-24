@@ -49,7 +49,7 @@ ordinary statute, binding on government but not entrenched, and Parliament can o
   Parliament overrides anyway) with Australian rather than overseas evidence.
 - **hr.2.8 / hr.2.9** — a statutory charter as the alternative to constitutional entrenchment; what
   the Constitution lacks and a statute can add.
-- **chg.6.5** — the difficulty of enforcing rights without a damages remedy.
+- **inv.7.4** — the difficulty of enforcing rights without a damages remedy.
 - **exp.5 / queensland-adult-crime-adult-time** — the Queensland override as a live Law in
   Practice example.
 

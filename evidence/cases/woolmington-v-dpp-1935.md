@@ -11,6 +11,7 @@ support: crime.3.8, crime.3.9, crime.4.5, hr.2.10, inv.1.7, inv.3.1, inv.3.2
 themes: crime.t.balance, crime.t.moral
 criteria: rights, ruleoflaw, justice
 document: Cases/Crime/Woolmington v DPP [1935] AC 462 - Case Summary.pdf
+document11: Cases/Year 11/Year 11 - Woolmington v DPP [1935] AC 462 - Case Summary.pdf
 related: r-v-porter-1933, zecevic-v-dpp-1987, evidence-act-1995, r-v-kl-2025, chris-dawson-judge-alone-2022
 added: 2026-10-20
 ---

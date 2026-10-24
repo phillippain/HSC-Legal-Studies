@@ -38,7 +38,7 @@ Commission** and everything else to the **NSW Ombudsman**. After the Tink review
 - **crime.2.1 / crime.2.2** — the body that polices police powers; the strip-search inquiry
   found widespread unlawful searches of young people, and the Kempsey and Nowland records show what
   follows.
-- **chg.6.5 (enforcing rights)** — a complainant gets an investigation and a report, not a remedy;
+- **inv.7.4 (enforcing rights)** — a complainant gets an investigation and a report, not a remedy;
   compensation requires a separate civil action.
 - **inv.1.7 / dis.3.2** — the rule of law applied to the police themselves.
 

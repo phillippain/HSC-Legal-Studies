@@ -42,7 +42,7 @@ the proceedings", and the parties must help them do it.
   was.
 - **dis.1.5 / dis.2.5 (civil procedure and personnel)** — the stages and the roles: solicitor, barrister,
   registrar, judge, sheriff.
-- **inv.1.4 / chg.6.5** — the costs rule as the reason "access to justice" is a civil-law problem:
+- **inv.1.4 / inv.7.4** — the costs rule as the reason "access to justice" is a civil-law problem:
   a valid claim may be too expensive to run.
 
 ## Caution

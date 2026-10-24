@@ -60,7 +60,7 @@ and sends it back.
 - **dis.3.4 (internal review)** — the mandatory first step before the ART in most schemes.
 - **inv.5.3 / inv.5.4** — a tribunal is not a court (Chapter III); why the ART cannot decide
   questions of law finally, and why s 75(v) matters.
-- **chg.6.5** — accessibility: free and informal, but a 2024 backlog of tens of thousands of
+- **inv.7.4** — accessibility: free and informal, but a 2024 backlog of tens of thousands of
   migration cases inherited from the AAT.
 
 ## Caution

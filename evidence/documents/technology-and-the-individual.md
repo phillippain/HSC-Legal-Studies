@@ -27,7 +27,7 @@ A reference note, with the worked instances recorded separately in this finder.
 | **Police powers over devices** | LEPRA **ss 76AA–76AQ** digital evidence orders: a court can compel a password, and non-compliance is an offence |
 | **Online harm and speech** | The eSafety Commissioner's removal powers; defamation reaching social media posts |
 
-## Why enforcement is the hard part (`chg.6.5`)
+## Why enforcement is the hard part (`inv.7.4`)
 
 - **Jurisdiction.** The server, the company and the harm are often in three countries.
 - **Anonymity.** A remedy needs a respondent who can be identified and served.

@@ -11,6 +11,7 @@ support: fam.1.5, fam.3.2, fam.2.6, hr.2.7, hr.1.3, dis.2.5, exp.2.1
 themes: fam.t.cooperation, fam.t.compliance, fam.t.effectiveness, hr.t.compliance, exp.t.justice, exp.t.values
 criteria: rights, enforceability, responsiveness, justice
 document: Jade Cases/Completed Case Summaries/03_Wannell_and_Luxford_2026_FedCFamC2F_930.pdf
+document11: Cases/Year 11/Year 11 - Wannell and Luxford [2026] FedCFamC2F 930 - Case Summary.pdf
 related: croc-1989, billings-clowes-no2-2026, merran-salter-2026
 added: 2026-09-19
 ---

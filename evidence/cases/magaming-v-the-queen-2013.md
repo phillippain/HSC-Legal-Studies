@@ -11,6 +11,7 @@ support: crime.6.2, crime.4.2, crime.2.3, crime.3.1, hr.3.1, dis.1.7, inv.4.5
 themes: crime.t.discretion, crime.t.balance, crime.t.effectiveness, inv.t.justice
 criteria: ruleoflaw, justice, rights, enforceability
 document: Cases/Crime/Magaming v The Queen [2013] HCA 40 - Case Summary.pdf
+document11: Cases/Year 11/Year 11 - Magaming v The Queen [2013] HCA 40 - Case Summary.pdf
 related: criminal-code-cth-transnational-offences, crimes-sentencing-procedure-act-1999
 added: 2026-10-23
 ---

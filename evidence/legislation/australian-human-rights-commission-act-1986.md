@@ -42,7 +42,7 @@ the ICCPR, CROC, the Declaration on the Rights of Disabled Persons and other sch
   state without going to court.
 - **hr.2.14** — the Commission's own 2023 proposal for a federal Human Rights Act; the Act's limits
   are the argument for one.
-- **chg.6.5 (difficulties enforcing rights)** — conciliation is confidential and voluntary; court
+- **inv.7.4 (difficulties enforcing rights)** — conciliation is confidential and voluntary; court
   is costly and risks an adverse costs order.
 
 ## Caution

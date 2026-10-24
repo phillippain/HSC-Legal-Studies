@@ -11,6 +11,7 @@ support: shel.2.5, shel.2.6, shel.2.7, dis.2.8, dis.2.3, inv.7.1, inv.3.3, inv.3
 themes: shel.t.compliance, shel.t.effectiveness, shel.t.cooperation, dis.t.effectiveness, dis.t.justice, dis.t.values
 criteria: enforceability, rights, justice
 document: Cases/Shelter/Warland v Huang [2023] NSWCATCD 115 - Case Summary.pdf
+document11: Cases/Year 11/Year 11 - Warland v Huang [2023] NSWCATCD 115 - Case Summary.pdf
 source: https://www.caselaw.nsw.gov.au/
 related: residential-tenancies-act-2010, ncat-act-2013, fimmano-v-anderson-2024, ncat-tenancy-disputes
 added: 2026-10-23
