@@ -4132,6 +4132,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/McCall v SMRT Log Pty Ltd (Privilege) [2026] NSWSC 1308 - Evidence Summary.pdf",
+   "name": "McCall v SMRT Log Pty Ltd (Privilege) [2026] NSWSC 1308 - Evidence Summary",
+   "file": "McCall v SMRT Log Pty Ltd (Privilege) [2026] NSWSC 1308 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207198,
+   "mtime": 1792813584,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.4.3"
+   ],
+   "dupe": "mccallvsmrtlogptyltdprivilege2026nswsc1308evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary.pdf",
    "name": "Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary",
    "file": "Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary.pdf",
@@ -5528,6 +5544,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Human Rights/Cordle v Brooks [2026] FedCFamC2G 2081 - Evidence Summary.pdf",
+   "name": "Cordle v Brooks [2026] FedCFamC2G 2081 - Evidence Summary",
+   "file": "Cordle v Brooks [2026] FedCFamC2G 2081 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209186,
+   "mtime": 1792813583,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.2.9"
+   ],
+   "dupe": "cordlevbrooks2026fedcfamc2g2081evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Human Rights/F260097.rtf",
    "name": "F260097",
    "file": "F260097.rtf",
@@ -5608,6 +5640,22 @@
     "hr.3.1"
    ],
    "dupe": "hallmannvscuhumanrightssummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/KTM24 v Rio Tinto Limited (Strike Out) [2026] FCA 1579 - Evidence Summary.pdf",
+   "name": "KTM24 v Rio Tinto Limited (Strike Out) [2026] FCA 1579 - Evidence Summary",
+   "file": "KTM24 v Rio Tinto Limited (Strike Out) [2026] FCA 1579 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210134,
+   "mtime": 1792813583,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.2.9"
+   ],
+   "dupe": "ktm24vriotintolimitedstrikeout2026fca1579evidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5904,6 +5952,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Asanovic v R [2026] NSWCCA 173 - Evidence Summary.pdf",
+   "name": "Asanovic v R [2026] NSWCCA 173 - Evidence Summary",
+   "file": "Asanovic v R [2026] NSWCCA 173 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210786,
+   "mtime": 1792813582,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.5"
+   ],
+   "dupe": "asanovicvr2026nswcca173evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Bugmy v The Queen [2013] HCA 37 - Case Summary.pdf",
    "name": "Bugmy v The Queen [2013] HCA 37 - Case Summary",
    "file": "Bugmy v The Queen [2013] HCA 37 - Case Summary.pdf",
@@ -5967,6 +6031,22 @@
     "crime.5.4"
    ],
    "dupe": "cdppvtkachild2018vchc4casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Campbell v Winch (No 2) [2026] NSWSC 1319 - Evidence Summary.pdf",
+   "name": "Campbell v Winch (No 2) [2026] NSWSC 1319 - Evidence Summary",
+   "file": "Campbell v Winch (No 2) [2026] NSWSC 1319 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207615,
+   "mtime": 1792813580,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.2.4"
+   ],
+   "dupe": "campbellvwinchno22026nswsc1319evidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6234,6 +6314,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Pele v R [2026] NSWCCA 172 - Evidence Summary.pdf",
+   "name": "Pele v R [2026] NSWCCA 172 - Evidence Summary",
+   "file": "Pele v R [2026] NSWCCA 172 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208621,
+   "mtime": 1792813581,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.9"
+   ],
+   "dupe": "pelevr2026nswcca172evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Polyukhovich v The Commonwealth (1991) 172 CLR 501 - Case Summary.pdf",
    "name": "Polyukhovich v The Commonwealth (1991) 172 CLR 501 - Case Summary",
    "file": "Polyukhovich v The Commonwealth (1991) 172 CLR 501 - Case Summary.pdf",
@@ -6284,6 +6380,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/R v Bale [2026] NSWDC 383 - Evidence Summary.pdf",
+   "name": "R v Bale [2026] NSWDC 383 - Evidence Summary",
+   "file": "R v Bale [2026] NSWDC 383 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208361,
+   "mtime": 1792813579,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.6"
+   ],
+   "dupe": "rvbale2026nswdc383evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/R v Billings [2026] NSWSC 1088 - Case Summary.pdf",
    "name": "R v Billings [2026] NSWSC 1088 - Case Summary",
    "file": "R v Billings [2026] NSWSC 1088 - Case Summary.pdf",
@@ -6296,6 +6408,22 @@
     "crime.3.4"
    ],
    "dupe": "rvbillings2026nswsc1088casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Blair [2026] NSWDC 382 - Evidence Summary.pdf",
+   "name": "R v Blair [2026] NSWDC 382 - Evidence Summary",
+   "file": "R v Blair [2026] NSWDC 382 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210664,
+   "mtime": 1792813578,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3"
+   ],
+   "dupe": "rvblair2026nswdc382evidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6478,6 +6606,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/R v Walker [2026] NSWDC 384 - Evidence Summary.pdf",
+   "name": "R v Walker [2026] NSWDC 384 - Evidence Summary",
+   "file": "R v Walker [2026] NSWDC 384 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209651,
+   "mtime": 1792813577,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3"
+   ],
+   "dupe": "rvwalker2026nswdc384evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/R v White [2025] NSWSC 243 - Case Summary.pdf",
    "name": "R v White [2025] NSWSC 243 - Case Summary",
    "file": "R v White [2025] NSWSC 243 - Case Summary.pdf",
@@ -6490,6 +6634,22 @@
     "crime.4.4"
    ],
    "dupe": "rvwhite2025nswsc243casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v XY [2026] NSWCCA 174 - Evidence Summary.pdf",
+   "name": "R v XY [2026] NSWCCA 174 - Evidence Summary",
+   "file": "R v XY [2026] NSWCCA 174 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207245,
+   "mtime": 1792813582,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.5"
+   ],
+   "dupe": "rvxy2026nswcca174evidencesummary",
    "copyOf": null,
    "primary": true
   },
