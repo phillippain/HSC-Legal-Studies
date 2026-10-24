@@ -178,7 +178,7 @@ Family/Childcare crisis: Frankie thought her daughter was safe at daycare but he
 Family/Coonabarabran: Children removed from parents before alleged murder.pdf | fam.3.4
 Family/Court Based Family Dispute Resolution.pdf | fam.2.5
 Family/Effectiveness of Shared Parental Responsibility.pdf | @resource, fam.3.2
-Family/Family Contemp Issue Cases.docx | fam.3
+Family/Family Contemp Issue Cases.docx | @resource, fam.3
 Family/Family Law (Property) changes are coming - what you need to know - Family Law - Australia.pdf | fam.2.3
 Family/Family Law Act 2023(cth) 2024 Amendments.pdf | fam.3.2, fam.2.2
 Family/Family Law Act Amendments & Parenting Arrangements.pdf | fam.3.2, fam.2.2
@@ -201,7 +201,7 @@ Family/SSC Blackwattle Bay Family- Changing Nature of Parental Responsibility.pd
 Family/Separated couples forced to keep living together amid housing crisis.pdf | fam.2.3, shel.3.1
 Family/Tsehay Hawkins: Yellow Wiggle on looking for her birth parents.pdf | fam.1.6
 Family/Two of Us: Marita and Ashlee McNamara.pdf | fam.1.4
-Family/Updates to Family Law in Australia in the Past Year.pdf | fam.3
+Family/Updates to Family Law in Australia in the Past Year.pdf | @resource, fam.3
 Family/disincentives-to-disclosing-family-violence-Family Law Council Report.PDF | fam.2.4, fam.2.5
 Family/‘Surrogate Grans’ Offer GIft of Life.pdf | fam.3.3
 News Articles/Family/Tracking Elderly Parents for Safety: How Life360 and GPS Devices Help Caregivers.pdf | chg.1.3, chg.6.1, fam.1.5
@@ -252,7 +252,7 @@ Shelter/Contract_of_Sale House.pdf | shel.2.1
 Shelter/Distinction Between State and Federal Governments in Shelter Policy.pdf | shel.2.8, inv.5.1, inv.5.2
 Shelter/Example Strata Contract.pdf | shel.2.4
 Shelter/First Home Guarantee scheme - Sydney property: Help to Buy first home buyer scheme to offer buyers a choice.pdf | shel.2.1, shel.3.1
-Shelter/Grattan Institute Report Summary.pdf | shel.3.1
+Shelter/Grattan Institute Report Summary.pdf | @resource, shel.3.1
 Shelter/Guidetopurchaseyourhome.pdf | shel.2.1
 Shelter/Lismore Floods PEARRJAM.pdf | shel.3.3, shel.1.3
 Shelter/Mascot Towers Background and application.pdf | shel.2.4
@@ -293,7 +293,7 @@ Family/Melbourne couple’s Colombian IVF surrogacy nightmare | Daily Telegraph.
 Family/Gender Selection.pdf | fam.3.3, fam.1.5
 Family/‘Surrogate Grans’ Offer GIft of Life.pdf | fam.3.3, fam.1.4
 Family/Surrogacy and Birth Tech/When is a Sperm Donor A Parent.docx | fam.3.3, fam.1.5
-Family/Why Surrogacy is a Cth Govt Issue .pdf | fam.3.3, fam.1.2, inv.5.1, inv.5.2
+Family/Surrogacy and Birth Tech/Why Surrogacy is a Cth Govt Issue .pdf | fam.3.3, fam.1.2, inv.5.1, inv.5.2
 
 # ------------------------------------- 24 Oct 2026 — building defects --
 Shelter/Mascot Towers Background and application.pdf | @resource, shel.2.4
@@ -340,3 +340,4 @@ Family/Care and protection in NSW – what’s new.docx | @resource, fam.3.4
 Crime/Criminal Trial Process/Criminal Trial Process.pdf | @resource, crime.3
 Crime/Criminal Trial Process/Rules for Adminissibility of Evidence.pdf | @resource, crime.3.7
 Crime/Young Offenders/Does the CJS treat Young people effectively.pdf | @resource, crime.5
+Shelter/Unaffordable — LCMID Evidence Bank (Visual).pdf | @resource, shel.3.1

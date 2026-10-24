@@ -949,8 +949,8 @@
    "ext": "docx",
    "bytes": 17162,
    "mtime": 1789944756,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "fam.3"
    ],
@@ -1981,8 +1981,8 @@
    "ext": "pdf",
    "bytes": 90128,
    "mtime": 1789944758,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "fam.3"
    ],
@@ -3481,7 +3481,10 @@
    "bucket": "evidence",
    "kind": "document",
    "tags": [
-    "fam.3.3"
+    "fam.3.3",
+    "fam.1.2",
+    "inv.5.1",
+    "inv.5.2"
    ],
    "dupe": "whysurrogacyisacthgovtissue",
    "copyOf": null,
@@ -8968,8 +8971,8 @@
    "ext": "pdf",
    "bytes": 58951,
    "mtime": 1789944780,
-   "bucket": "evidence",
-   "kind": "report",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "shel.3.1"
    ],
@@ -10078,10 +10081,9 @@
    "ext": "pdf",
    "bytes": 719883,
    "mtime": 1789944782,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "shelter",
     "shel.3.1"
    ],
    "dupe": "unaffordablelcmidevidencebankvisual",
