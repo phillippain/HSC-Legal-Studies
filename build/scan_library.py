@@ -78,7 +78,7 @@ FOLDER_TAG = {
     "news articles/shelter": "shelter",
     "legal briefs": None,
     "tiktok videos": None,
-    "preliminary": None,            # Year 11 (2025) — decided per file
+    "preliminary": None,            # Year 11 (Preliminary) — decided per file
 }
 
 # A case citation says which jurisdiction heard it, which is often the whole answer.

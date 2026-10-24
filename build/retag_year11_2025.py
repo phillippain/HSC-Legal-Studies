@@ -19,7 +19,7 @@ def sec(id, label, points):
 
 NEW = collections.OrderedDict()
 NEW['investigating'] = {
-    "label": "Investigating the law", "part": "Year 11 (2025) Focus area 1", "course": "preliminary", "weight": "40 indicative hours",
+    "label": "Investigating the law", "part": "Year 11 (Preliminary) Focus area 1", "course": "preliminary", "weight": "40 indicative hours",
     "principalFocus": "Australia's legal framework and how it has evolved: what law is and does, the criteria used to judge it, Aboriginal and Torres Strait Islander Customary Lore, the sources and institutions of Australian law, the Constitution, the global legal system and legal rights.",
     "themes": T('inv'),
     "sections": [
@@ -32,7 +32,7 @@ NEW['investigating'] = {
         sec('inv.7', 'Legal rights', ['The relationship between the rights and responsibilities of individuals', 'Sources of rights — the Constitution, statute law, common law and international law', 'Domestic and international protection of rights', 'Consequences of a breach of rights']),
     ]}
 NEW['disputes'] = {
-    "label": "Disputes under the law", "part": "Year 11 (2025) Focus area 2", "course": "preliminary", "weight": "25 indicative hours",
+    "label": "Disputes under the law", "part": "Year 11 (Preliminary) Focus area 2", "course": "preliminary", "weight": "25 indicative hours",
     "principalFocus": "How disputes are resolved under criminal, civil and administrative law, each examined through a real case or dispute, and the extent to which the outcomes achieve justice.",
     "themes": T('dis'),
     "sections": [
@@ -41,7 +41,7 @@ NEW['disputes'] = {
         sec('dis.3', 'Disputes with the state', ['The purpose and characteristics of administrative law', 'Reasons individuals and groups have disputes with the state', 'Addressing disputes through non-government organisations and the media', 'Addressing disputes through government reviews, courts and tribunals', 'The role of the Ombudsman in investigating complaints and providing remedies', 'The purpose of a royal commission', 'Findings and recommendations of royal commissions — Aboriginal Deaths in Custody; Banking, Superannuation and Financial Services', 'Key concepts of justice illustrated through a dispute with the state']),
     ]}
 NEW['changing'] = {
-    "label": "Changing the law", "part": "Year 11 (2025) Focus area 3", "course": "preliminary", "weight": "25 indicative hours",
+    "label": "Changing the law", "part": "Year 11 (Preliminary) Focus area 3", "course": "preliminary", "weight": "25 indicative hours",
     "principalFocus": "The reasons, drivers, processes and outcomes of law reform in NSW and Australia, through the recognition of land rights and native title and one other case study of law reform (this school: the social media minimum age).",
     "themes": T('chg'),
     "sections": [
@@ -53,7 +53,7 @@ NEW['changing'] = {
         sec('chg.6', 'Case study 2: An area of law reform (school selection — the social media minimum age)', ['Overview of the area of law reform', 'Reasons for change to the law', 'Drivers of change', 'Processes of change', 'Outcomes of the change — benefits and limitations']),
     ]}
 NEW['experiences'] = {
-    "label": "Experiences with the law", "part": "Year 11 (2025) Focus area 4", "course": "preliminary", "weight": "30 indicative hours",
+    "label": "Experiences with the law", "part": "Year 11 (Preliminary) Focus area 4", "course": "preliminary", "weight": "30 indicative hours",
     "principalFocus": "The ways the legal system interacts with young people and with one other group in society, and the extent to which justice is achieved: the nature of the experience, access to justice and the responsiveness of the law.",
     "themes": T('exp'),
     "sections": [
@@ -112,8 +112,8 @@ if any(k in syl['topics'] for k in OLD_TOPIC):
     for k, v in syl['topics'].items():
         if k not in OLD_TOPIC: topics[k] = v
     syl['topics'] = topics
-    syl['meta']['syllabus'] = 'Legal Studies: Year 11 per the Legal Studies 11–12 Syllabus (2025, first taught 2027); Year 12 per the Stage 6 Syllabus (2009, last examined 2027)'
-    syl['meta']['note'] = syl['meta'].get('note', '') + ' Year 11 tags (inv., dis., chg., exp.) follow the 2025 syllabus; the 2009 Preliminary tags (ls., ind., lip.) were retired on 23 October 2026 and every record was re-tagged.'
+    syl['meta']['syllabus'] = 'Legal Studies: Year 11 (Preliminary) per the Legal Studies 11–12 Syllabus; Year 12 per the Stage 6 Syllabus (2009, last examined 2027)'
+    syl['meta']['note'] = syl['meta'].get('note', '') + ' Year 11 (Preliminary) tags (inv., dis., chg., exp.) follow the Legal Studies 11–12 syllabus; the 2009 Preliminary tags (ls., ind., lip.) were retired on 23 October 2026 and every record was re-tagged.'
     syl['outcomes'] = {k: v for k, v in syl['outcomes'].items() if not k.startswith('P')}
     syl['outcomes'].update({'LST-11-01': 'describes legal principles and judicial processes used in the legal system', 'LST-11-02': 'explains the key features of Australian and international law', 'LST-11-03': 'explains the role, formation and reform of law', 'LST-11-04': 'analyses differing perspectives of individuals, groups and society in influencing the law', 'LST-11-05': 'explains methods to resolve conflict and encourage cooperation between individuals, groups and nation-states', 'LST-11-06': 'analyses legal issues to determine the extent to which the law achieves justice for individuals, groups and society', 'LST-11-07': 'uses and analyses a range of sources to assess the effectiveness of the law in addressing issues', 'LST-11-08': 'uses legal concepts to communicate information and legal reasoning to form a judgement'})
     changed_syl = True
@@ -188,7 +188,7 @@ SL = 'build/scan_library.py'
 s = open(SL, encoding='utf-8').read()
 s = s.replace('"ls.5.3"', '"chg.5.4"').replace('"ls.3.4"', '"inv.1.3"')
 if '"preliminary":' not in s:
-    s = s.replace('    "tiktok videos": None,\n}', '    "tiktok videos": None,\n    "preliminary": None,            # Year 11 (2025) — decided per file\n}')
+    s = s.replace('    "tiktok videos": None,\n}', '    "tiktok videos": None,\n    "preliminary": None,            # Year 11 (Preliminary) — decided per file\n}')
     s = s.replace('    (r"adoption", "fam.1.6"),', '    (r"kmart camera glasses|law reform lag", "chg.6"),\n    (r"adoption", "fam.1.6"),')
 open(SL, 'w', encoding='utf-8').write(s)
 

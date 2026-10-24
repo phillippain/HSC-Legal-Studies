@@ -1,8 +1,8 @@
 {
  "meta": {
-  "syllabus": "Legal Studies: Year 11 per the Legal Studies 11–12 Syllabus (2025, first taught 2027); Year 12 per the Stage 6 Syllabus (2009, last examined 2027)",
+  "syllabus": "Legal Studies: Year 11 (Preliminary) per the Legal Studies 11–12 Syllabus; Year 12 per the Stage 6 Syllabus (2009, last examined 2027)",
   "firstExamined": 2011,
-  "note": "Tag IDs are stable. Question records carry core[] and support[] arrays of these IDs, plus one theme set and one directive. Evidence records carry tags[] of the same IDs. Year 11 tags (inv., dis., chg., exp.) follow the 2025 syllabus; the 2009 Preliminary tags (ls., ind., lip.) were retired on 23 October 2026 and every record was re-tagged.",
+  "note": "Tag IDs are stable. Question records carry core[] and support[] arrays of these IDs, plus one theme set and one directive. Evidence records carry tags[] of the same IDs. Year 11 (Preliminary) tags (inv., dis., chg., exp.) follow the Legal Studies 11–12 syllabus; the 2009 Preliminary tags (ls., ind., lip.) were retired on 23 October 2026 and every record was re-tagged.",
   "examStructure": {
    "sectionI": {
     "marks": 20,
@@ -36,9 +36,10 @@
    "preliminary": {
     "label": "Preliminary",
     "topics": [
-     "legalsystem",
-     "individual",
-     "lawinpractice"
+     "investigating",
+     "disputes",
+     "changing",
+     "experiences"
     ],
     "colour": {
      "light": "#8b1a7d",
@@ -133,7 +134,7 @@
  "topics": {
   "investigating": {
    "label": "Investigating the law",
-   "part": "Year 11 (2025) Focus area 1",
+   "part": "Year 11 (Preliminary) Focus area 1",
    "course": "preliminary",
    "weight": "40 indicative hours",
    "principalFocus": "Australia's legal framework and how it has evolved: what law is and does, the criteria used to judge it, Aboriginal and Torres Strait Islander Customary Lore, the sources and institutions of Australian law, the Constitution, the global legal system and legal rights.",
@@ -359,7 +360,7 @@
   },
   "disputes": {
    "label": "Disputes under the law",
-   "part": "Year 11 (2025) Focus area 2",
+   "part": "Year 11 (Preliminary) Focus area 2",
    "course": "preliminary",
    "weight": "25 indicative hours",
    "principalFocus": "How disputes are resolved under criminal, civil and administrative law, each examined through a real case or dispute, and the extent to which the outcomes achieve justice.",
@@ -505,7 +506,7 @@
   },
   "changing": {
    "label": "Changing the law",
-   "part": "Year 11 (2025) Focus area 3",
+   "part": "Year 11 (Preliminary) Focus area 3",
    "course": "preliminary",
    "weight": "25 indicative hours",
    "principalFocus": "The reasons, drivers, processes and outcomes of law reform in NSW and Australia, through the recognition of land rights and native title and one other case study of law reform (this school: the social media minimum age).",
@@ -672,7 +673,7 @@
   },
   "experiences": {
    "label": "Experiences with the law",
-   "part": "Year 11 (2025) Focus area 4",
+   "part": "Year 11 (Preliminary) Focus area 4",
    "course": "preliminary",
    "weight": "30 indicative hours",
    "principalFocus": "The ways the legal system interacts with young people and with one other group in society, and the extent to which justice is achieved: the nature of the experience, access to justice and the responsiveness of the law.",
