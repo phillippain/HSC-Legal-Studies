@@ -246,6 +246,24 @@ for (const scheme of ['light', 'dark']) {
   ok((await page.locator('#addBtn, #compose').count()) === 0,
      scheme + ': the retired Add evidence composer is back on the page');
 
+  /* Changing the way in clears the filter, so it cannot strand the page where the
+     row is not offered. */
+  await page.locator('#startBtn').click();
+  await page.locator('.cell[data-act="point"][data-id="shel.3.1"]').click();
+  await page.waitForTimeout(140);
+  await page.locator('#typebar .tynone').click();
+  await page.waitForTimeout(140);
+  ok((await page.locator('#list .ev').count()) === 0,
+     scheme + ': None did not empty the list before the tab switch');
+  await page.locator('.tabs button[data-tab="kinds"]').click();
+  await page.waitForTimeout(140);
+  await page.locator('.row[data-act="type"][data-id="case"]').click();
+  await page.waitForTimeout(140);
+  ok((await page.locator('#list .ev').count()) > 0,
+     scheme + ': a form of evidence switched off in Content stranded the Evidence Type tab');
+  await page.locator('#startBtn').click();
+  await page.waitForTimeout(140);
+
   /* ------------------------------------------------- no folder on the page */
   /* The library blocks are off: the page offers written-up evidence, not a folder
      to sort through. A record's own document link still has to work, and it opens

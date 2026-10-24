@@ -1795,10 +1795,20 @@ document.addEventListener("click", e => {
   }
 });
 
+/* Changing the way in clears the form-of-evidence filter.
+
+   The row is not offered under an Evidence Type selection, because there it would
+   only repeat the selection. So a filter carried over from Content could hide
+   everything with no button anywhere to bring it back — switch every form off
+   under a dot point, move to Evidence Type, and the page tells you to press a
+   form that is not on the screen. A new way in is a new question, so it starts
+   with all six showing. */
 document.querySelectorAll(".tabs button").forEach(b => b.addEventListener("click", () => {
+  if (state.tab === b.dataset.tab) return;
   state.tab = b.dataset.tab;
+  state.typeOff.clear();
   syncTabs();
-  renderTree();
+  renderTree(); renderResults(); syncBack();
 }));
 
 /* ----------------------------------------------------------- start again -- */
