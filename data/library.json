@@ -411,8 +411,8 @@
    "ext": "pdf",
    "bytes": 334841,
    "mtime": 1789944755,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "fam.3.2"
    ],
@@ -659,10 +659,9 @@
    "ext": "docx",
    "bytes": 110107,
    "mtime": 1789944756,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "family",
     "fam.3.4"
    ],
    "dupe": "careandprotectioninnswwhatsnew",
@@ -676,8 +675,8 @@
    "ext": "docx",
    "bytes": 35808,
    "mtime": 1789944756,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "fam.3.4"
    ],
@@ -692,8 +691,8 @@
    "ext": "docx",
    "bytes": 17334,
    "mtime": 1789944756,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "fam.3.2"
    ],
@@ -708,8 +707,8 @@
    "ext": "docx",
    "bytes": 40177,
    "mtime": 1789944756,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "fam.3.2"
    ],
@@ -870,8 +869,8 @@
    "ext": "pdf",
    "bytes": 57340,
    "mtime": 1789944756,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "fam.3.2"
    ],
@@ -1603,8 +1602,8 @@
    "ext": "pdf",
    "bytes": 287143,
    "mtime": 1789944757,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "fam.3.2"
    ],

@@ -164,20 +164,20 @@ Crime/Media/Chagos Islands deal ends Britain’s last claim to a sunlit empire.p
 Cases/Family/01_Cerinza_and_Moreau_2026_FedCFamC2F_785.pdf | fam.2
 Cases/Family/One birth, two pregnancies, two sets of parents.pdf | fam.3.3
 Cases/Family/Taggart & Gowden [2026] FedCFamC2F 673 (Summary).pdf | fam.2
-Family/3b. Changing nature of parental responsibility.pdf | fam.3.2
+Family/3b. Changing nature of parental responsibility.pdf | @resource, fam.3.2
 Family/ALRC Report (2019).pdf | fam.2.5, fam.3.2, chg.2
 Family/Alberdingk_Family_CaseStudy.pdf | fam.2
 Family/Assisted Reproductive Technology in past five years.pdf | fam.3.3
 Family/Baulkham Hills stabbing Mother charged, three children hurt in Sydney’s Hills District.pdf | fam.2.4, fam.3.4
 Family/Binding Financial Agreements.pdf | fam.2.3
-Family/CareProtection_EvidenceFile.docx | fam.3.4
+Family/CareProtection_EvidenceFile.docx | @resource, fam.3.4
 Family/Cases/Family law cases.pdf | fam.2, fam.3
-Family/Changing Nature Of Parenting.docx | fam.3.2
-Family/ChangingParentalResponsibilities_EvidenceFile.docx | fam.3.2
+Family/Changing Nature Of Parenting.docx | @resource, fam.3.2
+Family/ChangingParentalResponsibilities_EvidenceFile.docx | @resource, fam.3.2
 Family/Childcare crisis: Frankie thought her daughter was safe at daycare but her child’s life changed forever.pdf | fam.3.4
 Family/Coonabarabran: Children removed from parents before alleged murder.pdf | fam.3.4
 Family/Court Based Family Dispute Resolution.pdf | fam.2.5
-Family/Effectiveness of Shared Parental Responsibility.pdf | fam.3.2
+Family/Effectiveness of Shared Parental Responsibility.pdf | @resource, fam.3.2
 Family/Family Contemp Issue Cases.docx | fam.3
 Family/Family Law (Property) changes are coming - what you need to know - Family Law - Australia.pdf | fam.2.3
 Family/Family Law Act 2023(cth) 2024 Amendments.pdf | fam.3.2, fam.2.2
@@ -197,7 +197,7 @@ Family/NSW ends unaccredited emergency care for vulnerable children.pdf | fam.3.
 Family/Nappy wearing dad to launch High Court bid to see his kids | Daily Telegraph.pdf | fam.2.2
 Family/New jobs for 'family time' workers to support connections between foster kids and families.pdf | fam.3.4
 Family/Postnuptial Agreement In Australia | Justice Family Lawyers.pdf | fam.2.3
-Family/SSC Blackwattle Bay Family- Changing Nature of Parental Responsibility.pdf | fam.3.2
+Family/SSC Blackwattle Bay Family- Changing Nature of Parental Responsibility.pdf | @resource, fam.3.2
 Family/Separated couples forced to keep living together amid housing crisis.pdf | fam.2.3, shel.3.1
 Family/Tsehay Hawkins: Yellow Wiggle on looking for her birth parents.pdf | fam.1.6
 Family/Two of Us: Marita and Ashlee McNamara.pdf | fam.1.4
@@ -331,3 +331,4 @@ Cases/Year 11/Year 11 - Garcia v NAB [1998] HCA 48 - Case Summary.pdf | dis.2.3,
 Cases/Year 11/Year 11 - Magaming v The Queen [2013] HCA 40 - Case Summary.pdf | inv.5.3, inv.5.4
 Cases/Year 11/Year 11 - Wannell and Luxford [2026] FedCFamC2F 930 - Case Summary.pdf | exp.1.1, exp.1.3
 Cases/Year 11/Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary.pdf | dis.3.4, dis.3.1
+Family/Care and protection in NSW – what’s new.docx | @resource, fam.3.4
