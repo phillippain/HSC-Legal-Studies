@@ -12093,8 +12093,8 @@
    "ext": "pdf",
    "bytes": 317872,
    "mtime": 1789944787,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "crime.3"
    ],
@@ -12125,10 +12125,10 @@
    "ext": "pdf",
    "bytes": 383792,
    "mtime": 1789944787,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "crime.3"
+    "crime.3.7"
    ],
    "dupe": "rulesforadminissibilityofevidence",
    "copyOf": null,
@@ -12206,8 +12206,8 @@
    "ext": "pdf",
    "bytes": 688927,
    "mtime": 1789944787,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "crime.5"
    ],
