@@ -11,6 +11,7 @@ support: chg.5.2, inv.2.1, inv.2.2, chg.3, dis.1.5, dis.2.5, exp.4, dis.1.8, dis
 themes: chg.t.values, chg.t.justice
 criteria: accessibility, resource, rights, justice
 document: Jade Cases/Completed Case Summaries/11_Austin_Eastern_Maar_No_3_2026_FCA_1054.pdf
+document11: Cases/Year 11/Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary.pdf
 related: mabo-no2-1992, wik-1996, native-title-act-1993
 added: 2026-09-19
 ---

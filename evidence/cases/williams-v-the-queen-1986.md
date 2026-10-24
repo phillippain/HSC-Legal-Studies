@@ -11,6 +11,7 @@ support: crime.2.1, crime.3.1, hr.3.1, dis.1.8, inv.3.2, inv.7.1
 themes: crime.t.balance, crime.t.compliance, crime.t.discretion, dis.t.justice
 criteria: rights, ruleoflaw, enforceability
 document: Cases/Crime/Williams v The Queen [1986] HCA 88 - Case Summary.pdf
+document11: Cases/Year 11/Year 11 - Williams v The Queen [1986] HCA 88 - Case Summary.pdf
 related: detention-and-interrogation-rights, lepra-2002, evidence-act-1995
 added: 2026-10-23
 ---

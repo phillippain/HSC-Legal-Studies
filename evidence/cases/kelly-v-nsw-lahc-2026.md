@@ -11,6 +11,7 @@ support: shel.2.3, shel.2.5, shel.2.6, shel.2.7, shel.3.1, shel.3.3, dis.2.8, in
 themes: shel.t.compliance, shel.t.effectiveness, shel.t.cooperation, dis.t.justice, dis.t.effectiveness
 criteria: accessibility, responsiveness, rights, justice
 document: Cases/Shelter/Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf
+document11: Cases/Year 11/Year 11 - Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf
 source: https://www.caselaw.nsw.gov.au/
 related: residential-tenancies-act-2010, housing-act-2001, ncat-act-2013, ncat-tenancy-disputes, shelter-social-housing-evidence-sheet
 added: 2026-10-23

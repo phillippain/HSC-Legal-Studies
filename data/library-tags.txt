@@ -344,3 +344,12 @@ Shelter/Unaffordable — LCMID Evidence Bank (Visual).pdf | @resource, shel.3.1
 International Crime/12LS International Crime.pdf | @resource, crime.6.1, crime.6.2
 Crime/Sentencing and Punishment/Committal hearing reforms.pdf | @resource, crime.3.4, crime.3.2, crime.4.3
 Family/Non Legal/Year12_Legal_Studies_Family Non Legal Evidence.pdf | @resource, fam.2.6, fam.3.4, fam.2.4
+Cases/Year 11/Year 11 - Mabo v Queensland (No 2) [1992] HCA 23 - Case Summary.pdf | chg.5.4, chg.5.2, chg.3.3, inv.3.2
+Cases/Year 11/Year 11 - Wik Peoples v Queensland [1996] HCA 40 - Case Summary.pdf | chg.5.4, inv.3.3
+Cases/Year 11/Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary.pdf | inv.2.1, inv.2.3, chg.5.2
+Cases/Year 11/Year 11 - Wilkerson and Croxford [2026] FedCFamC2F 1063 - Case Summary.pdf | exp.2.1, inv.7.2
+Cases/Year 11/Year 11 - Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf | dis.1.5, dis.1.8
+Cases/Year 11/Year 11 - Williams v The Queen [1986] HCA 88 - Case Summary.pdf | dis.1.5, inv.1.7
+Cases/Year 11/Year 11 - Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf | inv.5.3, inv.5.4
+Cases/Year 11/Year 11 - Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary.pdf | dis.2.5
+Cases/Year 11/Year 11 - Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf | dis.2.5

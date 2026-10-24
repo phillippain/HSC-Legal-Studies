@@ -11,6 +11,7 @@ support: shel.2.5, shel.2.6, shel.2.8, dis.2.8, inv.3.3, inv.7.1
 themes: shel.t.compliance, shel.t.effectiveness, shel.t.cooperation, dis.t.justice, dis.t.effectiveness
 criteria: accessibility, enforceability, justice
 document: Cases/Shelter/Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary.pdf
+document11: Cases/Year 11/Year 11 - Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary.pdf
 source: https://www.caselaw.nsw.gov.au/
 related: residential-tenancies-act-2010, ncat-act-2013, ncat-tenancy-disputes, shelter-dispute-resolution-map
 added: 2026-10-23

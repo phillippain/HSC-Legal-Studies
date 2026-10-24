@@ -4132,6 +4132,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary.pdf",
+   "name": "Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary",
+   "file": "Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 743998,
+   "mtime": 1792812773,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.2.1",
+    "inv.2.3",
+    "chg.5.2"
+   ],
+   "dupe": "year11austinvvictoriano32026fca1054casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary.pdf",
    "name": "Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary",
    "file": "Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary.pdf",
@@ -4145,6 +4163,22 @@
     "dis.1.8"
    ],
    "dupe": "year11bunningvcross1978hca22casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary.pdf",
+   "name": "Year 11 - Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary",
+   "file": "Year 11 - Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 728931,
+   "mtime": 1792812765,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5"
+   ],
+   "dupe": "year11fimmanovanderson2024nswcatap22casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4166,6 +4200,41 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf",
+   "name": "Year 11 - Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary",
+   "file": "Year 11 - Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 714796,
+   "mtime": 1792812767,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5"
+   ],
+   "dupe": "year11kellyvnswlahc2026nswcatap214casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Mabo v Queensland (No 2) [1992] HCA 23 - Case Summary.pdf",
+   "name": "Year 11 - Mabo v Queensland (No 2) [1992] HCA 23 - Case Summary",
+   "file": "Year 11 - Mabo v Queensland (No 2) [1992] HCA 23 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 729956,
+   "mtime": 1792812776,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "chg.5.4",
+    "chg.5.2",
+    "chg.3.3",
+    "inv.3.2"
+   ],
+   "dupe": "year11mabovqueenslandno21992hca23casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Magaming v The Queen [2013] HCA 40 - Case Summary.pdf",
    "name": "Year 11 - Magaming v The Queen [2013] HCA 40 - Case Summary",
    "file": "Year 11 - Magaming v The Queen [2013] HCA 40 - Case Summary.pdf",
@@ -4183,6 +4252,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf",
+   "name": "Year 11 - Ridgeway v The Queen [1995] HCA 66 - Case Summary",
+   "file": "Year 11 - Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 724233,
+   "mtime": 1792812768,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.5",
+    "dis.1.8"
+   ],
+   "dupe": "year11ridgewayvthequeen1995hca66casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary.pdf",
    "name": "Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary",
    "file": "Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary.pdf",
@@ -4196,6 +4282,23 @@
     "dis.3.1"
    ],
    "dupe": "year11samueluvminister2026fcafc100casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf",
+   "name": "Year 11 - Thomas v Mowbray [2007] HCA 33 - Case Summary",
+   "file": "Year 11 - Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 721610,
+   "mtime": 1792812770,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.5.3",
+    "inv.5.4"
+   ],
+   "dupe": "year11thomasvmowbray2007hca33casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4231,6 +4334,57 @@
     "dis.2.7"
    ],
    "dupe": "year11warlandvhuang2023nswcatcd115casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Wik Peoples v Queensland [1996] HCA 40 - Case Summary.pdf",
+   "name": "Year 11 - Wik Peoples v Queensland [1996] HCA 40 - Case Summary",
+   "file": "Year 11 - Wik Peoples v Queensland [1996] HCA 40 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 730010,
+   "mtime": 1792812777,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "chg.5.4",
+    "inv.3.3"
+   ],
+   "dupe": "year11wikpeoplesvqueensland1996hca40casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Wilkerson and Croxford [2026] FedCFamC2F 1063 - Case Summary.pdf",
+   "name": "Year 11 - Wilkerson and Croxford [2026] FedCFamC2F 1063 - Case Summary",
+   "file": "Year 11 - Wilkerson and Croxford [2026] FedCFamC2F 1063 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 754420,
+   "mtime": 1792812775,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "exp.2.1",
+    "inv.7.2"
+   ],
+   "dupe": "year11wilkersonandcroxford2026fedcfamc2f1063casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Williams v The Queen [1986] HCA 88 - Case Summary.pdf",
+   "name": "Year 11 - Williams v The Queen [1986] HCA 88 - Case Summary",
+   "file": "Year 11 - Williams v The Queen [1986] HCA 88 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 720510,
+   "mtime": 1792812772,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.5",
+    "inv.1.7"
+   ],
+   "dupe": "year11williamsvthequeen1986hca88casesummary",
    "copyOf": null,
    "primary": true
   },

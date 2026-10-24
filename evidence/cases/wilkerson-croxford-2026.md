@@ -11,6 +11,7 @@ support: fam.1.4, fam.2.5, fam.3.2, hr.2.7, hr.1.3, dis.2.5, inv.6.3
 themes: fam.t.values, fam.t.cooperation, hr.t.compliance, fam.t.reform, exp.t.justice, inv.t.justice
 criteria: rights, enforceability, responsiveness, justice
 document: Jade Cases/Raw Cases/Wilkerson & Croxford [2026] FedCFamC2F 1063.rtf
+document11: Cases/Year 11/Year 11 - Wilkerson and Croxford [2026] FedCFamC2F 1063 - Case Summary.pdf
 added: 2026-09-19
 ---
 

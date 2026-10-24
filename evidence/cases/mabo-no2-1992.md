@@ -12,6 +12,7 @@ themes: chg.t.values, chg.t.justice
 criteria: responsiveness, rights, justice, ruleoflaw
 related: native-title-act-1993, wik-1996
 added: 2026-09-19
+document11: Cases/Year 11/Year 11 - Mabo v Queensland (No 2) [1992] HCA 23 - Case Summary.pdf
 ---
 
 The High Court held that the common law of Australia recognises **native title** where a connection

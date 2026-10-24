@@ -11,6 +11,7 @@ support: crime.6.1, crime.2.1, crime.3.1, hr.3.1, hr.2.9, inv.7.4, dis.1.1
 themes: crime.t.balance, crime.t.reform, crime.t.effectiveness, inv.t.justice
 criteria: rights, ruleoflaw, enforceability, society
 document: Cases/Crime/Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf
+document11: Cases/Year 11/Year 11 - Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf
 related: r-v-lodhi-2006, terrorism-police-powers-act-2002, criminal-code-cth-transnational-offences
 added: 2026-10-23
 ---
