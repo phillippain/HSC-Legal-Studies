@@ -137,7 +137,9 @@ def load_set_aside():
         if "|" not in line:
             sys.exit(f"library-set-aside.txt:{n}: no `|` in `{line}` "
                      "(expected `<path> | <reason>`)")
-        p, why = line.split("|", 1)
+        # Split at the LAST pipe: a filename can contain one — e.g.
+        # "Postnuptial Agreement In Australia | Justice Family Lawyers.pdf".
+        p, why = line.rsplit("|", 1)
         if not why.strip():
             sys.exit(f"library-set-aside.txt:{n}: no reason given for `{p.strip()}`")
         out[p.strip()] = why.strip()
