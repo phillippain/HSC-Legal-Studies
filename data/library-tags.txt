@@ -184,7 +184,9 @@ Family/Family Law Act 2023(cth) 2024 Amendments.pdf | fam.3.2, fam.2.2
 Family/Family Law Act Amendments & Parenting Arrangements.pdf | fam.3.2, fam.2.2
 Family/Family Law Contemporary Issues LCMID.pdf | fam.3
 Family/Family Law Court orders for supervised contact in custodial disputes– unanswered questions.pdf | fam.2.2
-Family/Family Law and Family Violence 2024 Report Summary.pdf | fam.2.4, fam.2.5
+# A teaching summary of the Family Law Council report, which is written up at
+# family-law-council-2024-disincentives-and-systems-abuse.
+Family/Family Law and Family Violence 2024 Report Summary.pdf | @resource, fam.2.4, fam.2.5
 Family/Final Report of the Special Inquiry into Children and Young People in Alternative Care Arrangements August 2024.pdf | fam.3.4
 Family/Foster carers beg for support as record numbers quit the system.pdf | fam.3.4
 Family/Gender Selection.pdf | fam.3.3
@@ -319,3 +321,6 @@ Shelter/Evaluate the effectiveness of the NSW tenancy Act Changes using PEARRJAM
 # is the same text laid out as a table.
 Shelter/Shelter 17Sept 2025 Reforms Update.pdf | shel.3.1, shel.2.8
 Shelter/Shelter Sept 25 Reforms Update.pdf | @resource, shel.3.1, shel.2.8
+# A September 2025 coercive control data snapshot, superseded by
+# bocsar-coercive-control-june-2026.
+Family/Coercive Control.docx | @resource, fam.2.4, crime.2.2

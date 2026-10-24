@@ -740,11 +740,11 @@
    "ext": "docx",
    "bytes": 19664,
    "mtime": 1789944756,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "family",
-    "fam.2.4"
+    "fam.2.4",
+    "crime.2.2"
    ],
    "dupe": "coercivecontrol",
    "copyOf": null,
@@ -1144,8 +1144,8 @@
    "ext": "pdf",
    "bytes": 99150,
    "mtime": 1789944756,
-   "bucket": "evidence",
-   "kind": "report",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "fam.2.4",
     "fam.2.5"
