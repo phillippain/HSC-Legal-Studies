@@ -269,6 +269,10 @@ a.pill:hover .ic{color:var(--accent)}
 #typebar .tbtn[aria-pressed="false"] .n{background:var(--surface-2); color:var(--ink-3)}
 #typebar .tyall{border-left-color:var(--accent); --tc:var(--accent)}
 #typebar .tyall[disabled]{opacity:.34}
+/* None is the other end of All types: it switches every form off so the next press
+   picks one. Quieter than All types, because it is a step on the way, not a view. */
+#typebar .tynone{border-left-color:var(--ink-3); --tc:var(--ink-3)}
+#typebar .tynone[disabled]{opacity:.34}
 .tbtn{display:inline-flex; align-items:center; gap:8px; border-radius:var(--r-pill); cursor:pointer;
   padding:8px 15px 8px 12px; font-size:.86rem; font-weight:600; line-height:1.2;
   background:var(--tcb); color:var(--ink); border:1.5px solid color-mix(in srgb, var(--tc) 40%, transparent);
@@ -1352,7 +1356,11 @@ function renderTopicBar(all, unfiltered){
    changes what is ticked, what the evidence map holds, or the counts in the picker.
    Everything starts on, the choice carries through the session, and Start again
    clears it. Under a form-of-evidence selection the row would only repeat the
-   selection, so it is not offered there. */
+   selection, so it is not offered there.
+
+   Two shortcuts sit at the front of the row. All types brings everything back.
+   None switches every form off, so one press of a form afterwards leaves that form
+   alone showing — two presses to isolate one form instead of five. */
 const typeOn = k => !state.typeOff.has(k);
 const typeFiltered = () => state.typeOff.size > 0;
 const typeFilterable = sel => sel.kind !== "type";
@@ -1370,7 +1378,10 @@ function renderTypeBar(pool){
   let h = '<span class="lab">Evidence type</span>' +
     '<button class="tbtn tyall" data-act="tyall" data-id=""' + (typeFiltered() ? "" : " disabled") +
     ' title="Show every form of evidence again"><svg class="ic"><use href="#g-layers"/></svg>' +
-    '<span class="tx">All types</span> <span class="n">' + pool.length + "</span></button>";
+    '<span class="tx">All types</span> <span class="n">' + pool.length + "</span></button>" +
+    '<button class="tbtn tynone" data-act="tynone" data-id=""' + (shown ? "" : " disabled") +
+    ' title="Switch every form off, then press the one form you want">' +
+    '<svg class="ic"><use href="#g-close"/></svg><span class="tx">None</span></button>';
   keys.forEach(k => {
     const ty = DATA.types[k], c = n(k), on = typeOn(k);
     h += '<button class="tbtn" style="--tc:var(--e-' + k + ');--tcb:var(--surface)" data-act="tyfilter" data-id="' +
@@ -1417,7 +1428,11 @@ function renderResults(){
   $("#list").innerHTML = items.length
     ? items.map(card).join("")
     : '<div class="panel empty"><svg class="ic"><use href="#g-alert"/></svg>' +
-      (typeFiltered()
+      (showing.length === 0
+        ? "<p>Every form of evidence is switched off.</p>" +
+          '<p style="font-size:.85rem">Press one of the forms above to show just that one, ' +
+          'or <strong>All types</strong> to bring them all back.</p>'
+        : typeFiltered()
         ? "<p>Nothing to show with those forms switched off.</p>" +
           '<p style="font-size:.85rem">There is evidence filed here, but not in the forms you have left ' +
           'showing. Press <strong>All types</strong> above to bring them all back.</p>'
@@ -1749,6 +1764,11 @@ document.addEventListener("click", e => {
   }
   if (act === "tyall"){
     state.typeOff.clear();
+    renderResults(); syncBack();
+    return;
+  }
+  if (act === "tynone"){
+    Object.keys(DATA.types).forEach(k => state.typeOff.add(k));
     renderResults(); syncBack();
     return;
   }

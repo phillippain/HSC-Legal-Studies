@@ -105,6 +105,8 @@ for (const scheme of ['light', 'dark']) {
      scheme + ': a form of evidence starts switched off');
   ok(await page.locator('#typebar .tyall').isDisabled(),
      scheme + ': All types is live before anything has been switched off');
+  ok((await page.locator('#typebar .tynone').isDisabled()) === false,
+     scheme + ': None is dead while forms are showing');
 
   const allN = await page.locator('#list .ev').count();
   const caseN = await page.locator('#list .ev').evaluateAll(
@@ -150,6 +152,29 @@ for (const scheme of ['light', 'dark']) {
   await page.waitForTimeout(140);
   ok((await page.locator('#typebar .tbtn[aria-pressed="false"]').count()) === 0,
      scheme + ': All types did not bring every form back');
+
+  /* None switches every form off, so the next press isolates one form. */
+  await page.locator('#typebar .tynone').click();
+  await page.waitForTimeout(140);
+  ok((await page.locator('#typebar .tbtn[aria-pressed="true"]').count()) === 0,
+     scheme + ': None left a form of evidence switched on');
+  ok((await page.locator('#list .ev').count()) === 0,
+     scheme + ': cards survive after None');
+  ok(await page.locator('#typebar .tynone').isDisabled(),
+     scheme + ': None is still live with every form already off');
+  ok(/switched off/.test(await page.locator('#list .panel.empty').textContent()),
+     scheme + ': the None state does not explain itself');
+  const casePill = Number(await page.locator('#typebar .tbtn[data-id="case"] .n').textContent());
+  await page.locator('#typebar .tbtn[data-id="case"]').click();
+  await page.waitForTimeout(140);
+  ok((await page.locator('#typebar .tbtn[aria-pressed="true"]').count()) === 1,
+     scheme + ': a press after None did not leave one form alone showing');
+  ok(casePill > 0 && (await page.locator('#list .ev').count()) === casePill,
+     scheme + ': None then case law did not give exactly the ' + casePill + ' case law pieces');
+  ok(/case law only/.test(await page.locator('#rcount').textContent()),
+     scheme + ': the count line does not say case law only');
+  await page.locator('#typebar .tyall').click();
+  await page.waitForTimeout(140);
 
   /* Start again clears it; a form-of-evidence selection does not offer the row. */
   await page.locator('#typebar .tbtn[data-id="case"]').click();
