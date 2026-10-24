@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Almost every complete defence puts the onus back on the prosecution to disprove it beyond reasonable doubt.
 core: crime.3.8
-support: crime.1.2, crime.1.3, crime.3.6, crime.3.7, crime.4.3, inv.1.6, inv.1.3, dis.3.1
+support: crime.1.2, crime.1.3, crime.3.6, crime.3.7, crime.4.3, inv.1.6, inv.1.3, dis.3.1, dis.1.2, dis.1.3, dis.1.4
 themes: crime.t.balance, crime.t.moral, crime.t.effectiveness
 criteria: rights, ruleoflaw, justice
 document: Crime/Criminal Trial Process/3d. Defences to Criminal Charges.docx

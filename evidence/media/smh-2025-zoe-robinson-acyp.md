@@ -7,7 +7,7 @@ date: 2025-02-18
 jurisdiction: NSW
 significance: The NSW Advocate for Children and Young People covers everyone under 25 on a $4.4 million budget and 23 staff, and has twice been told by a member of Parliament that her office should be abolished.
 core: fam.3.4
-support: fam.2.7, fam.2.6, hr.2.4, hr.2.12, crime.5.5, exp.2.2, exp.2.5, exp.3.1, dis.3.5, dis.3.2, inv.6.3
+support: fam.2.7, fam.2.6, hr.2.4, hr.2.12, crime.5.5, exp.2.2, exp.2.5, exp.3.1, dis.3.5, dis.3.2, inv.6.3, inv.6.6
 themes: fam.t.effectiveness, fam.t.values, fam.t.reform, fam.t.compliance
 criteria: accessibility, responsiveness, resource, rights, society, justice
 document: Family/Lunch with Zoe Robinson: The time Mark Latham savaged the NSW advocate for children and young people.pdf

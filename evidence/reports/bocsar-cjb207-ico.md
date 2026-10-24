@@ -7,7 +7,7 @@ date: 2017
 jurisdiction: NSW
 significance: Offenders given an ICO had 11–31% lower odds of reoffending than comparable offenders sent to prison for up to two years: evidence behind the 2018 penalty reforms.
 core: crime.4.6, crime.4.2
-support: crime.4.8, crime.1.9
+support: crime.4.8, crime.1.9, dis.1.7
 themes: crime.t.effectiveness, crime.t.reform
 criteria: resource, society, justice
 source: https://bocsar.nsw.gov.au

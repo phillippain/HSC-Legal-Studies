@@ -7,7 +7,7 @@ date: 2026-09-18
 jurisdiction: Commonwealth
 significance: A migration crackdown aimed at overstayers lands on women whose visa status their abuser controls, so one arm of the law hands the perpetrator a threat the other arm is trying to remove.
 core: fam.2.4, hr.3.1
-support: fam.2.6, fam.2.7, hr.2.5, hr.2.9, hr.2.13, crime.2.1, inv.1.4, chg.3, chg.2.1
+support: fam.2.6, fam.2.7, hr.2.5, hr.2.9, hr.2.13, crime.2.1, inv.1.4, chg.3, chg.2.1, inv.6.7, inv.7.2, inv.7.3
 themes: fam.t.effectiveness, fam.t.reform, fam.t.values, hr.t.effectiveness, hr.t.compliance
 criteria: accessibility, responsiveness, rights, justice, society
 related: crimes-act-1900-s54d, smh-2026-fairleigh-coercive-control

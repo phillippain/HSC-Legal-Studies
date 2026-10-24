@@ -7,7 +7,7 @@ date: 2026-09-16
 jurisdiction: NSW
 significance: Creating an offence and reducing the harm it names are different achievements, and the criminal justice system is much better at the first.
 core: crime.4.8, crime.3.4, fam.2.4
-support: crime.1.5, crime.2.5, crime.4.1, crime.4.2, crime.4.4, crime.3.1, fam.1.2, fam.2.5, crime.2.4, inv.5.1, inv.5.2, chg.6, chg.2.1
+support: crime.1.5, crime.2.5, crime.4.1, crime.4.2, crime.4.4, crime.3.1, fam.1.2, fam.2.5, crime.2.4, inv.5.1, inv.5.2, chg.6, chg.2.1, dis.1.3, dis.1.7, dis.1.5
 themes: crime.t.reform, crime.t.balance, crime.t.compliance, crime.t.effectiveness, fam.t.compliance
 criteria: enforceability, responsiveness, rights, justice
 related: crimes-act-1900-s54d, bocsar-recorded-crime-june-2026, crimes-domestic-personal-violence-act-2007

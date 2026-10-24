@@ -7,7 +7,7 @@ date: 2016
 jurisdiction: High Court of Australia
 significance: The leading case on doli incapax: the Crown must prove the child knew the conduct was seriously wrong in a moral sense, not just that the act was obviously wrong.
 core: crime.5.1
-support: crime.3.6, crime.5.3, hr.3.1, exp.4, exp.1.3, exp.2.3
+support: crime.3.6, crime.5.3, hr.3.1, exp.4, exp.1.3, exp.2.3, dis.1.4
 themes: crime.t.balance, crime.t.moral, crime.t.reform
 criteria: rights, justice, ruleoflaw
 related: dpp-nsw-v-nw-doli-incapax, children-criminal-proceedings-act-1987, bocsar-cjb268-doli-incapax, doli-incapax-diversion-reforms-2025

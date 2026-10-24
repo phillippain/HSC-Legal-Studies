@@ -7,7 +7,7 @@ date: 2026-10-20
 jurisdiction: NSW
 significance: Parliament overrode a 4–3 High Court reading of 'break and enter' so a partner who has moved out cannot rely on the lease — and made stalking a crime even when the victim never knew it was happening.
 core: fam.2.4, chg.3, crime.1.2
-support: fam.2.5, fam.2.7, fam.3.2, crime.1.5, crime.1.1, crime.4.6, inv.3.1, inv.3.2, inv.3.3, inv.4.4, inv.5.4, chg.1, chg.2, chg.1.3, chg.6.1, chg.6, exp.5, exp.6
+support: fam.2.5, fam.2.7, fam.3.2, crime.1.5, crime.1.1, crime.4.6, inv.3.1, inv.3.2, inv.3.3, inv.4.4, inv.5.4, chg.1, chg.2, chg.1.3, chg.6.1, chg.6, exp.5, exp.6, dis.1.2, dis.1.3, dis.1.1, dis.1.7, chg.1.5
 themes: fam.t.reform, fam.t.values, fam.t.effectiveness, crime.t.reform, crime.t.balance, chg.t.values
 criteria: responsiveness, enforceability, rights, society, justice
 document: Family/Evidence Summaries/NSW break and enter and covert stalking DV reforms (Evidence summary 22Oct26).pdf

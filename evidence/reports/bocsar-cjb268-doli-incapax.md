@@ -7,7 +7,7 @@ date: 2025-05-08
 jurisdiction: NSW
 significance: After RP (2016), proven outcomes for 10–13-year-olds in NSW fell from 76% to 16%, and half of all matters ended with every charge withdrawn.
 core: crime.5.1
-support: crime.5.3, crime.5.5, crime.1.5, exp.4, exp.1.3, exp.2.3, exp.2.4
+support: crime.5.3, crime.5.5, crime.1.5, exp.4, exp.1.3, exp.2.3, exp.2.4, dis.1.3
 themes: crime.t.reform, crime.t.effectiveness, crime.t.balance
 criteria: justice, responsiveness, society
 source: https://bocsar.nsw.gov.au/documents/publications/cjb/cjb251-300/CJB268-Report-court-outcomes-on-doli-incapax.pdf

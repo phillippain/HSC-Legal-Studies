@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: International
 significance: The international system is strong at recognition and promotion and weak at enforcement, because obligations attach to states and states consent to be bound.
 core: hr.2.2, hr.2.3, hr.2.5, hr.2.6, hr.1.2
-support: hr.2.1, hr.2.4, hr.1.3, hr.3.1, inv.6.2, inv.6.1, inv.6.4, inv.6.6, inv.6.7, exp.5.5
+support: hr.2.1, hr.2.4, hr.1.3, hr.3.1, inv.6.2, inv.6.1, inv.6.4, inv.6.6, inv.6.7, exp.5.5, inv.6.5
 themes: inv.t.values, inv.t.justice
 criteria: enforceability, rights, responsiveness, society, justice
 related: international-law-and-australian-law, four-corners-2026-food-supply-chain, udhr-1948

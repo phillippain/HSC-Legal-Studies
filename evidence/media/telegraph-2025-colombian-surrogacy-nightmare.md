@@ -7,7 +7,7 @@ date: 2025-04-08
 jurisdiction: Australia / Colombia
 significance: A same-sex couple paid an overseas agency almost $65,000 under a "guarantee" plan, have no child three years later, and no practical legal remedy once the money left Australia.
 core: fam.3.3
-support: fam.1.4, fam.3.1, fam.3.2, hr.2.9, chg.1.3, chg.6.1, dis.2.3, dis.2.7, inv.1.4, inv.6.6, exp.4.2
+support: fam.1.4, fam.3.1, fam.3.2, hr.2.9, chg.1.3, chg.6.1, dis.2.3, dis.2.7, inv.1.4, inv.6.6, exp.4.2, inv.7.2, inv.7.3
 themes: fam.t.effectiveness, fam.t.reform, fam.t.values, fam.t.compliance
 criteria: accessibility, enforceability, resource, responsiveness, rights, justice
 document: Family/Melbourne couple’s Colombian IVF surrogacy nightmare | Daily Telegraph.pdf

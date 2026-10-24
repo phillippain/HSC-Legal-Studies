@@ -7,7 +7,7 @@ date: 2025-11-27
 jurisdiction: Australia (Commonwealth)
 significance: When ASIO found a foreign state behind arson attacks in Sydney and Melbourne, prosecution was out of reach, so Parliament created a new way to list a state body.
 core: crime.6.2
-support: crime.6.1, crime.1.5, hr.3.1
+support: crime.6.1, crime.1.5, hr.3.1, dis.1.3
 themes: crime.t.reform, crime.t.compliance, crime.t.effectiveness
 criteria: responsiveness, enforceability, society
 source: https://www.foreignminister.gov.au/minister/penny-wong/media-release/islamic-revolutionary-guard-listed-state-sponsor-terrorism

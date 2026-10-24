@@ -7,7 +7,7 @@ date: 1996-09-12
 jurisdiction: High Court of Australia
 significance: A NSW Act that told the Supreme Court to detain one named man on the balance of probabilities was invalid, because a state court cannot be made to act in a way that damages its integrity.
 core: inv.5.3, crime.4.8
-support: inv.4.1, inv.5.1, inv.5.2, inv.5.4, inv.1.2, inv.1.7, inv.1.3, dis.3.1, crime.4.1, crime.4.2, hr.2.8
+support: inv.4.1, inv.5.1, inv.5.2, inv.5.4, inv.1.2, inv.1.7, inv.1.3, dis.3.1, crime.4.1, crime.4.2, hr.2.8, dis.1.7, inv.7.2
 themes: inv.t.justice, inv.t.values, crime.t.balance
 criteria: ruleoflaw, rights, justice, society
 document: Cases/Crime/Kable v DPP (NSW) (1996) 189 CLR 51 - Case Summary.pdf

@@ -7,7 +7,7 @@ date: 2016-03-24
 jurisdiction: International Criminal Tribunal for the former Yugoslavia
 significance: The ICTY convicted the Bosnian Serb wartime president of genocide at Srebrenica and nine other counts, and acquitted him of genocide in the municipalities.
 core: crime.6.1, crime.6.2, inv.6.6
-support: crime.3.1, crime.4.2, hr.2.7, hr.3.1, inv.6.1
+support: crime.3.1, crime.4.2, hr.2.7, hr.3.1, inv.6.1, dis.1.5, dis.1.7, inv.6.3, inv.7.2
 themes: crime.t.moral, crime.t.effectiveness, crime.t.balance, inv.t.justice
 criteria: justice, enforceability, ruleoflaw, rights
 document: Cases/Crime/Prosecutor v Karadzic (ICTY, IT-95-5-18-T) 2016 - Case Summary.pdf

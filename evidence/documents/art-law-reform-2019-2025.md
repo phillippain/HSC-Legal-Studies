@@ -7,7 +7,7 @@ date: 2025
 jurisdiction: ACT, Queensland, Western Australia, NSW and Commonwealth
 significance: Five years of reform moved ART regulation from clinic self-governance towards licensing and donor-conceived people's right to know their origins, state by state.
 core: fam.3.3, chg.1
-support: fam.1.1, fam.1.4, fam.1.5, fam.1.6, fam.3.2, chg.2, chg.3, inv.3.3, inv.4.4, inv.5.1, inv.5.2, hr.2.9, exp.5, exp.6
+support: fam.1.1, fam.1.4, fam.1.5, fam.1.6, fam.3.2, chg.2, chg.3, inv.3.3, inv.4.4, inv.5.1, inv.5.2, hr.2.9, exp.5, exp.6, inv.7.2, inv.7.3
 themes: fam.t.reform, fam.t.values, fam.t.effectiveness, chg.t.values
 criteria: accessibility, enforceability, responsiveness, rights, society, justice
 document: Family/Assisted Reproductive Technology in past five years.pdf

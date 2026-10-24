@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Australia and comparative
 significance: Who brings the action, what has to be proved, and what the court can order — those three answers separate criminal from civil, and they explain everything else.
 core: inv.1.3, dis.3.1, dis.2.3
-support: inv.3.1, inv.3.2, inv.4.3, dis.1.5, dis.2.5, inv.4.1, crime.3.6, shel.2.1, exp.6
+support: inv.3.1, inv.3.2, inv.4.3, dis.1.5, dis.2.5, inv.4.1, crime.3.6, shel.2.1, exp.6, dis.1.4
 themes: inv.t.justice, inv.t.values
 criteria: ruleoflaw, accessibility, justice, rights
 related: the-adversary-system-and-court-jurisdiction, donoghue-v-stevenson-1932, court-hierarchy-and-jurisdiction

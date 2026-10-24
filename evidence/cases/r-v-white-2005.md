@@ -7,7 +7,7 @@ date: 2005
 jurisdiction: Supreme Court of New South Wales
 significance: DNA taken from a cigarette butt the accused asked for while in custody was admissible, because the desirability of admitting it outweighed the undesirability of excluding it.
 core: crime.3.7, dis.1.5
-support: crime.2.3, crime.2.6, crime.2.1, crime.1.2, dis.1.8
+support: crime.2.3, crime.2.6, crime.2.1, crime.1.2, dis.1.8, dis.1.2
 themes: crime.t.balance, crime.t.discretion, crime.t.compliance, dis.t.justice
 criteria: rights, ruleoflaw, justice, enforceability
 document: Crime/Criminal Trial Process/3d. Evidence, including witnesses.docx

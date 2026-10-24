@@ -7,7 +7,7 @@ date: 2017
 jurisdiction: NSW
 significance: LEPRA was meant to consolidate police powers after the Wood Royal Commission, and every amendment since has added to them — the consolidation became a platform.
 core: crime.2.1, chg.1
-support: crime.2.3, crime.2.4, crime.2.6, crime.1.3, crime.1.9, crime.4.6, chg.3, inv.1.7, inv.3.3, inv.4.4, inv.7.1, dis.3.2, dis.3.5, dis.3.6, exp.5, exp.6
+support: crime.2.3, crime.2.4, crime.2.6, crime.1.3, crime.1.9, crime.4.6, chg.3, inv.1.7, inv.3.3, inv.4.4, inv.7.1, dis.3.2, dis.3.5, dis.3.6, exp.5, exp.6, dis.1.3, dis.1.7
 themes: crime.t.discretion, crime.t.balance, crime.t.reform, crime.t.compliance, chg.t.justice, chg.t.values
 criteria: enforceability, responsiveness, rights, ruleoflaw, society, justice
 document: Crime/Police Powers Summary.pdf

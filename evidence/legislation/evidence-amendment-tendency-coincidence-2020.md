@@ -7,7 +7,7 @@ date: 2020
 jurisdiction: NSW
 significance: Acting on the Royal Commission, NSW made it easier to put an accused's prior conduct before a jury in child sexual abuse trials.
 core: crime.3.7
-support: crime.1.5, crime.3.6, crime.3.9, crime.4.4, hr.3.1
+support: crime.1.5, crime.3.6, crime.3.9, crime.4.4, hr.3.1, dis.1.3, dis.1.4, dis.1.6
 themes: crime.t.reform, crime.t.balance, crime.t.moral
 criteria: responsiveness, rights, society, justice
 document: Crime/Criminal Trial Process/3d. Evidence, including witnesses.docx

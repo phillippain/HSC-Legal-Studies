@@ -7,7 +7,7 @@ date: 1974
 jurisdiction: NSW (and Commonwealth)
 significance: Lets anyone complain, free, about the conduct of a NSW public authority — unlawful, unreasonable, unjust or discriminatory decisions — with royal-commission powers to investigate and report, but no power to overturn.
 core: dis.3.5, dis.3.6, dis.3.4
-support: dis.3.3, inv.7.4, hr.2.4, inv.1.3, dis.3.1, inv.1.6, dis.3.2, exp.6, crime.4.5
+support: dis.3.3, inv.7.4, hr.2.4, inv.1.3, dis.3.1, inv.1.6, dis.3.2, exp.6, crime.4.5, inv.6.6
 themes: dis.t.justice, dis.t.effectiveness
 criteria: accessibility, enforceability, responsiveness, resource, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1974-068

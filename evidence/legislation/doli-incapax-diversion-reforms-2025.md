@@ -7,7 +7,7 @@ date: 2025-12-03
 jurisdiction: NSW
 significance: NSW codified the RP test for doli incapax and let children reach cautions and conferences without confessing, while capping cautions at three in three years.
 core: crime.5.1, crime.5.5
-support: crime.5.2, crime.5.3, crime.1.5, hr.3.1, exp.4, exp.1.3, exp.2.4, exp.2.3
+support: crime.5.2, crime.5.3, crime.1.5, hr.3.1, exp.4, exp.1.3, exp.2.4, exp.2.3, dis.1.3
 themes: crime.t.reform, crime.t.balance, crime.t.discretion, crime.t.effectiveness
 criteria: responsiveness, accessibility, rights, justice
 source: https://www.lawsociety.com.au/sites/default/files/2026-07/Legislative%20Changes%20to%20the%20Young%20Offenders%20Act%201987%201.7.26.pdf

@@ -7,7 +7,7 @@ date: 2021
 jurisdiction: NSW
 significance: The statutory defences that turn murder into manslaughter or an acquittal, and the two the accused must prove.
 core: crime.3.8
-support: crime.3.6, crime.4.3, fam.3.4
+support: crime.3.6, crime.4.3, fam.3.4, dis.1.4
 themes: crime.t.moral, crime.t.reform, crime.t.balance
 criteria: justice, rights, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1900-040

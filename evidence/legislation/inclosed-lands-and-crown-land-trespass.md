@@ -7,7 +7,7 @@ date: 1901
 jurisdiction: NSW
 significance: The offence that makes squatting a crime — entering inclosed land without consent, up to 10 penalty units — and the Crown-land and council rules that make sleeping or camping in a park fineable.
 core: shel.2.4, shel.3.3, shel.1.4
-support: shel.1.1, shel.2.8, shel.2.6, crime.1.2, inv.1.3, dis.3.1, exp.5
+support: shel.1.1, shel.2.8, shel.2.6, crime.1.2, inv.1.3, dis.3.1, exp.5, dis.1.2
 themes: shel.t.values, shel.t.compliance, shel.t.effectiveness
 criteria: enforceability, rights, justice, society, ruleoflaw
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1901-033

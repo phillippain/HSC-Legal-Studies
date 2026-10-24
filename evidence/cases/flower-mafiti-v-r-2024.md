@@ -7,7 +7,7 @@ date: 2024-05-17
 jurisdiction: NSW Court of Criminal Appeal
 significance: Two Qantas baggage handlers who imported about 228 kg of cocaine were resentenced because the judge wrongly required "exceptional" hardship under s 16A(2)(p).
 core: crime.6.1, crime.4.3, crime.4.5, dis.1.7, dis.1.5
-support: crime.4.2, crime.1.5, crime.6.2, inv.3.3
+support: crime.4.2, crime.1.5, crime.6.2, inv.3.3, dis.1.3
 themes: crime.t.discretion, crime.t.balance, crime.t.effectiveness, dis.t.justice, dis.t.effectiveness
 criteria: justice, ruleoflaw, enforceability
 document: Cases/Crime/Flower v R; Mafiti v R [2024] NSWCCA 76 - Case Summary.pdf

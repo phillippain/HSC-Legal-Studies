@@ -7,7 +7,7 @@ date: 1995
 jurisdiction: Australia (Commonwealth)
 significance: Australia's answer to crime that crosses borders is mostly Commonwealth criminal law, which reaches conduct overseas and Australians abroad.
 core: crime.6.2
-support: crime.6.1, crime.1.2, crime.1.5
+support: crime.6.1, crime.1.2, crime.1.5, dis.1.2, dis.1.3
 themes: crime.t.effectiveness, crime.t.reform
 criteria: enforceability, responsiveness, society
 source: https://www.legislation.gov.au/C2004A04868/latest

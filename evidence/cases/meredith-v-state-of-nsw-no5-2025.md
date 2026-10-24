@@ -7,7 +7,7 @@ date: 2025-09-30
 jurisdiction: Supreme Court of New South Wales
 significance: A class action decided that a strip search needs separate grounds of seriousness and urgency under LEPRA s 31, and awarded $93,000 to the lead plaintiff.
 core: crime.2.1
-support: crime.2.3, hr.3.1, hr.2.4, inv.1.3, dis.3.1
+support: crime.2.3, hr.3.1, hr.2.4, inv.1.3, dis.3.1, inv.6.6
 themes: crime.t.balance, crime.t.compliance, crime.t.reform
 criteria: rights, ruleoflaw, society, justice
 document: Cases/Crime/Meredith v State of NSW (No 5) [2025] NSWSC 1133 - Case Summary.pdf

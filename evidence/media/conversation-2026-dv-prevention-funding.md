@@ -7,7 +7,7 @@ date: 2026-09-23
 jurisdiction: Australia
 significance: Four domestic violence deaths in one NSW weekend, and a funding record showing governments still spend far more on responding to men's violence than on preventing it.
 core: fam.2.4
-support: fam.2.6, fam.2.7, crime.1.8, crime.1.9, crime.1.5, chg.3, chg.2.1
+support: fam.2.6, fam.2.7, crime.1.8, crime.1.9, crime.1.5, chg.3, chg.2.1, dis.1.3
 themes: fam.t.effectiveness, fam.t.reform, fam.t.values, crime.t.effectiveness
 criteria: resource, responsiveness, society, justice
 document: News Articles/Family/The Conversation 23Sept26 - DV response not prevention.pdf

@@ -7,7 +7,7 @@ date: 2026-05-14
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2)
 significance: An altruistic surrogacy agreement that met every statutory requirement could not be enforced when the surrogate changed her mind, because the child's best interests decide, not the agreement.
 core: fam.3.3
-support: fam.2.2, fam.1.4, fam.1.6, fam.3.2, fam.3.4, hr.2.9, dis.2.3, dis.2.5, inv.4.1, exp.4.1
+support: fam.2.2, fam.1.4, fam.1.6, fam.3.2, fam.3.4, hr.2.9, dis.2.3, dis.2.5, inv.4.1, exp.4.1, inv.7.2, inv.7.3
 themes: fam.t.values, fam.t.effectiveness, fam.t.compliance, fam.t.cooperation
 criteria: enforceability, rights, responsiveness, accessibility, justice
 document: Cases/Family/Taggart & Gowden [2026] FedCFamC2F 673 (Summary).pdf

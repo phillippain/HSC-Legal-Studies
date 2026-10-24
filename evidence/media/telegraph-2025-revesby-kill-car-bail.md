@@ -7,7 +7,7 @@ date: 2025-10-15
 jurisdiction: NSW (Campbelltown Local Court)
 significance: Bail was refused because the accused could not show his detention was unjustified — the show cause test reversing the usual onus for a serious indictable offence.
 core: crime.2.5
-support: crime.2.4, crime.2.3, crime.1.5, crime.1.7, crime.3.4, crime.5.1, crime.6.1, dis.1.8, dis.2.8, exp.5, exp.1.3
+support: crime.2.4, crime.2.3, crime.1.5, crime.1.7, crime.3.4, crime.5.1, crime.6.1, dis.1.8, dis.2.8, exp.5, exp.1.3, dis.1.3
 themes: crime.t.balance, crime.t.compliance, crime.t.discretion
 criteria: accessibility, enforceability, rights, society, justice
 document: Crime/Media/Revesby daycare murder plot: Ata Misi and Iese Esera refused bail over alleged ‘kill car’ staging | Daily Telegraph.pdf

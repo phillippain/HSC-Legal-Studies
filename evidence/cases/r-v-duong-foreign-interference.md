@@ -7,7 +7,7 @@ date: 2024-02-29
 jurisdiction: Victoria (Commonwealth offence)
 significance: The first conviction under Australia's 2018 foreign interference laws: community work that became a crime because of its purpose.
 core: crime.1.5
-support: crime.1.8, crime.1.2, crime.6.1, hr.2.10, inv.1.3, dis.3.1
+support: crime.1.8, crime.1.2, crime.6.1, hr.2.10, inv.1.3, dis.3.1, dis.1.3, dis.1.2, inv.7.2, inv.7.3
 themes: crime.t.moral, crime.t.balance, crime.t.reform
 criteria: rights, enforceability, society, ruleoflaw
 source: https://cdpp.gov.au/case-reports/first-criminal-prosecution-foreign-interference

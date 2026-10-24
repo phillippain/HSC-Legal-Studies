@@ -7,7 +7,7 @@ date: 2016-06-10
 jurisdiction: NSW Court of Criminal Appeal
 significance: An 18-year-old's hacking caused no financial loss yet still earned 3 years: the risk of damage, the course of conduct and general deterrence made it serious.
 core: crime.6.1, crime.4.2
-support: crime.4.3, crime.4.5, crime.1.5, crime.5.4, crime.6.2, exp.2.4
+support: crime.4.3, crime.4.5, crime.1.5, crime.5.4, crime.6.2, exp.2.4, dis.1.7, dis.1.3
 themes: crime.t.balance, crime.t.effectiveness, crime.t.discretion
 criteria: justice, enforceability, society
 document: Cases/Crime/Soyke v R [2016] NSWCCA 112 - Case Summary.pdf

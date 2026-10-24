@@ -7,7 +7,7 @@ date: 2026-10-21
 jurisdiction: Victoria and Commonwealth — Victoria Police with the AFP; Wangaratta Magistrates' Court (Magistrate Allison Vaughan)
 significance: One act, three charges from two parliaments — the federal offence exists only because the victim is a Commonwealth official, so state and federal criminal law run side by side on the same facts.
 core: crime.1.5, crime.2.4, crime.3.1
-support: crime.1.2, crime.1.6, crime.2.3, crime.2.5, crime.3.6, crime.3.7, crime.3.9, crime.1.8, hr.2.13, inv.4.1, inv.5.1, inv.5.2, inv.1.3, dis.3.1, dis.1.5, dis.2.5, chg.2.1, dis.3.2
+support: crime.1.2, crime.1.6, crime.2.3, crime.2.5, crime.3.6, crime.3.7, crime.3.9, crime.1.8, hr.2.13, inv.4.1, inv.5.1, inv.5.2, inv.1.3, dis.3.1, dis.1.5, dis.2.5, chg.2.1, dis.3.2, dis.1.3, dis.1.2, dis.1.4, dis.1.6
 themes: crime.t.balance, crime.t.moral, crime.t.compliance, inv.t.justice
 criteria: enforceability, rights, justice, responsiveness
 document: Crime/Haines attack - charges and first court appearance (Evidence summary 22Oct26).pdf

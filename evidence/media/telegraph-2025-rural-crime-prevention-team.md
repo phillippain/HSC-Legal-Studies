@@ -7,7 +7,7 @@ date: 2025-08-24
 jurisdiction: NSW
 significance: About $1.3 million in cattle and sheep were stolen in six months, and police are fighting back with DNA, satellite tracking and livestock 'facial recognition'.
 core: crime.1.9
-support: crime.1.5, crime.1.8, crime.2.3
+support: crime.1.5, crime.1.8, crime.2.3, dis.1.3
 themes: crime.t.effectiveness, crime.t.compliance
 criteria: enforceability, accessibility, responsiveness
 related: nsw-mobile-phone-detection-cameras

@@ -7,7 +7,7 @@ date: 2008
 jurisdiction: NSW
 significance: No evidence that circle sentencing reduced reoffending — the matched control group improved just as much.
 core: crime.4.7, crime.4.2
-support: crime.4.6, crime.5.5, crime.1.8, crime.1.9, exp.4, inv.1.4, inv.2.1, inv.2.2, hr.3.1, exp.2.4
+support: crime.4.6, crime.5.5, crime.1.8, crime.1.9, exp.4, inv.1.4, inv.2.1, inv.2.2, hr.3.1, exp.2.4, dis.1.7
 themes: crime.t.effectiveness, crime.t.balance, crime.t.moral, exp.t.values
 criteria: society, justice, resource, responsiveness
 document: Crime/Young Offenders/Does circle sentencing in NSW reduce Aboriginal offending.pdf

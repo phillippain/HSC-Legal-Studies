@@ -7,7 +7,7 @@ date: 2026-10-23
 jurisdiction: NSW Court of Criminal Appeal (conviction appeal from a District Court jury trial)
 significance: A jury asked four sharp questions about "in company" that echoed appeal-court authority — but suspicion is not evidence, and without facts showing research there was no miscarriage of justice.
 core: crime.3.9, crime.4.5
-support: crime.3.2, crime.3.7, crime.3.3, dis.1.6, inv.1.6, inv.4.3
+support: crime.3.2, crime.3.7, crime.3.3, dis.1.6, inv.1.6, inv.4.3, dis.1.5
 themes: crime.t.balance, crime.t.compliance, crime.t.effectiveness
 criteria: rights, justice, ruleoflaw
 document: Cases/Crime/Pele v R [2026] NSWCCA 172 - Evidence Summary.pdf

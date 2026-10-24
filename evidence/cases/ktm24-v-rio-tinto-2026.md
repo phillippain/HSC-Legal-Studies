@@ -7,7 +7,7 @@ date: 2026-10-23
 jurisdiction: Federal Court of Australia — Sex Discrimination Act 1984 (Cth); Australian Human Rights Commission Act 1986 (Cth)
 significance: Rio Tinto and BHP failed to stop class actions by women alleging sexual harassment and discrimination across their Australian sites since 2003 — though claims never put to the AHRC were struck out.
 core: hr.2.9, hr.2.11, hr.3.1
-support: hr.2.4, hr.2.7, dis.2.5, chg.2.3, chg.1.6, exp.5.3
+support: hr.2.4, hr.2.7, dis.2.5, chg.2.3, chg.1.6, exp.5.3, inv.7.2, inv.7.3, inv.6.6, inv.6.3
 themes: hr.t.effectiveness, hr.t.compliance, hr.t.reform
 criteria: enforceability, accessibility, rights, justice
 document: Cases/Human Rights/KTM24 v Rio Tinto Limited (Strike Out) [2026] FCA 1579 - Evidence Summary.pdf

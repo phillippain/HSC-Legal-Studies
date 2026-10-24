@@ -7,7 +7,7 @@ date: 2010
 jurisdiction: NSW
 significance: Altruistic surrogacy is lawful and a Supreme Court parentage order transfers parentage; commercial surrogacy is a crime even overseas; donor-conceived people can identify their donor at 18.
 core: fam.3.3, fam.1.5
-support: fam.1.1, fam.1.2, fam.1.4, fam.3.1, fam.3.2, chg.1, chg.2, hr.2.9, exp.6
+support: fam.1.1, fam.1.2, fam.1.4, fam.3.1, fam.3.2, chg.1, chg.2, hr.2.9, exp.6, inv.7.2, inv.7.3
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness, fam.t.compliance
 criteria: rights, enforceability, responsiveness, society, accessibility
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2010-102

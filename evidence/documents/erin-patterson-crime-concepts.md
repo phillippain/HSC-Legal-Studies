@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Victoria
 significance: One case that reaches almost every dot point in the Crime topic — elements, categories, investigation, jury trial, sentencing and parole.
 core: crime.1.2, crime.1.5, crime.3.9
-support: crime.1.1, crime.1.7, crime.1.8, crime.2.3, crime.3.1, crime.3.2, crime.3.7, crime.4.1, crime.4.3, crime.4.6, crime.4.8, dis.1.8, dis.2.8
+support: crime.1.1, crime.1.7, crime.1.8, crime.2.3, crime.3.1, crime.3.2, crime.3.7, crime.4.1, crime.4.3, crime.4.6, crime.4.8, dis.1.8, dis.2.8, dis.1.2, dis.1.3, dis.1.6, dis.1.1, dis.1.5, inv.4.3, dis.1.7
 themes: crime.t.balance, crime.t.effectiveness, crime.t.moral
 criteria: enforceability, rights, society, ruleoflaw, justice
 document: Crime/Mushroom Murders Case - Crime Concepts.pdf

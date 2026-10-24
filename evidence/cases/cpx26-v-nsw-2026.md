@@ -7,7 +7,7 @@ date: 2026-03-26
 jurisdiction: Federal Court of Australia — Raper J
 significance: Mould, flooding and a steep access route in social housing — an arguable discrimination claim, and no urgent relief, because finite housing is allocated by discretion.
 core: shel.3.2, shel.3.4
-support: shel.2.5, shel.2.6, shel.2.8, shel.1.3, shel.2.3, hr.2.4, hr.2.9, hr.3.1, dis.3.5, dis.3.6, exp.4, dis.2.5, shel.2.7, chg.2.1
+support: shel.2.5, shel.2.6, shel.2.8, shel.1.3, shel.2.3, hr.2.4, hr.2.9, hr.3.1, dis.3.5, dis.3.6, exp.4, dis.2.5, shel.2.7, chg.2.1, inv.6.6, inv.7.2, inv.7.3
 themes: shel.t.effectiveness, shel.t.compliance, shel.t.values, hr.t.compliance
 criteria: accessibility, rights, resource, enforceability, justice
 document: Cases/Shelter/CPX26_HSC_Legal_Studies_Case_Summary_Updated.pdf

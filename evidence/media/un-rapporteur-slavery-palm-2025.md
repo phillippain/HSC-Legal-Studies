@@ -7,7 +7,7 @@ date: 2025-08-24
 jurisdiction: Commonwealth and NSW
 significance: The UN found Australia's rights protection "piecemeal" and migrant workers facing "alarming and sometimes severe" exploitation, with a GP reporting that 95% of visa workers chose abortion to keep their visa.
 core: hr.3.1, hr.2.2
-support: hr.2.3, hr.2.6, hr.2.7, hr.2.9, hr.2.13, hr.2.14, hr.1.3, fam.2.4, fam.3.3, inv.6.3, inv.6.4, inv.7.3, inv.7.4, dis.3.2, dis.3.3, chg.1.4, chg.2.2
+support: hr.2.3, hr.2.6, hr.2.7, hr.2.9, hr.2.13, hr.2.14, hr.1.3, fam.2.4, fam.3.3, inv.6.3, inv.6.4, inv.7.3, inv.7.4, dis.3.2, dis.3.3, chg.1.4, chg.2.2, inv.6.5, inv.7.2
 themes: hr.t.compliance, hr.t.effectiveness, hr.t.sovereignty, hr.t.reform, chg.t.effectiveness
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, justice
 document: Human Rights/UN criticises Australia’s anti-slavery laws: Inside nation’s ‘alarming’ labour scheme.pdf

@@ -7,7 +7,7 @@ date: 2026-08-05
 jurisdiction: Full Court of the Federal Court — Derrington, Hespe and Hill JJ
 significance: Twenty-six years in Australia, cancelled automatically by a sentence — and the only question left was whether the Minister would give it back.
 core: hr.3.1, crime.4.8
-support: hr.2.4, hr.2.7, hr.2.9, dis.3.4, inv.3.4, fam.2.4, dis.3.2
+support: hr.2.4, hr.2.7, hr.2.9, dis.3.4, inv.3.4, fam.2.4, dis.3.2, inv.6.6, inv.6.3, inv.7.2, inv.7.3
 themes: hr.t.compliance, crime.t.balance, dis.t.justice
 criteria: rights, ruleoflaw, society, justice
 document: Jade Cases/Completed Case Summaries/06_Samuelu_v_Minister_2026_FCAFC_100.pdf

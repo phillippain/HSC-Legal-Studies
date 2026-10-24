@@ -7,7 +7,7 @@ date: 2026-07-31
 jurisdiction: NSW
 significance: A defended hearing takes 247 days against 76 for a guilty plea — the price of a fair process, measured.
 core: crime.2.5, crime.3.4, crime.4.5
-support: crime.3.1, crime.4.6, crime.5.3, crime.4.2, exp.4, inv.1.4, crime.3.2, crime.3.3, inv.4.3, exp.2.3
+support: crime.3.1, crime.4.6, crime.5.3, crime.4.2, exp.4, inv.1.4, crime.3.2, crime.3.3, inv.4.3, exp.2.3, dis.1.5, dis.1.7, dis.1.6
 themes: crime.t.discretion, crime.t.effectiveness, crime.t.balance
 criteria: resource, accessibility, rights, justice
 document: Cases/BOCSAR/12LS BOCSAR Update July26.pdf

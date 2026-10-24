@@ -7,7 +7,7 @@ date: 2023-06-16
 jurisdiction: Children's Court of NSW (Youth Koori Court)
 significance: A Wiradjuri young person who spent eight months offence-free in the Youth Koori Court had his less serious charges dismissed and bonds imposed, sentenced under the Act, the common law and the CROC.
 core: crime.5.5, crime.5.4, crime.4.7
-support: crime.5.3, crime.4.2, crime.4.3, hr.2.7, inv.2.1, inv.2.2, inv.6.3, inv.7.2, exp.4, exp.2.4, exp.2.3
+support: crime.5.3, crime.4.2, crime.4.3, hr.2.7, inv.2.1, inv.2.2, inv.6.3, inv.7.2, exp.4, exp.2.4, exp.2.3, dis.1.7
 themes: crime.t.effectiveness, crime.t.balance, crime.t.discretion
 criteria: justice, rights, accessibility, society
 document: Cases/Crime/R v John [2023] NSWChC 6 - Case Summary.pdf

@@ -7,7 +7,7 @@ date: 1985
 jurisdiction: High Court of Australia
 significance: Procedural fairness is presumed into any statutory power whose exercise affects a person's rights or interests, unless Parliament clearly says otherwise.
 core: inv.1.6
-support: inv.1.4, inv.1.7, inv.1.3, dis.3.1, dis.3.4, hr.2.9, crime.2.6
+support: inv.1.4, inv.1.7, inv.1.3, dis.3.1, dis.3.4, hr.2.9, crime.2.6, inv.7.2, inv.7.3
 themes: inv.t.justice
 criteria: rights, ruleoflaw, accessibility, justice
 related: australian-communist-party-1951, basic-legal-concepts

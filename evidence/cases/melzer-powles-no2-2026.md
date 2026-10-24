@@ -7,7 +7,7 @@ date: 2026-07-20
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1)
 significance: A father with convictions including choking in a domestic setting, and no insight into any of it, was ordered to have no time and no communication with his children at all.
 core: fam.2.2, fam.2.4
-support: fam.2.5, fam.1.5, fam.3.2, crime.1.5, crime.4.2, crime.4.3, crime.4.8, crime.3.4, inv.4.1, dis.1.7, exp.1.1
+support: fam.2.5, fam.1.5, fam.3.2, crime.1.5, crime.4.2, crime.4.3, crime.4.8, crime.3.4, inv.4.1, dis.1.7, exp.1.1, dis.1.3
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.values, crime.t.balance
 criteria: accessibility, enforceability, responsiveness, rights, society, justice
 document: Jade Cases/Raw Cases/Melzer & Powles (No 2) [2026] FedCFamC1F 482.rtf

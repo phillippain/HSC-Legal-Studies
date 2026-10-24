@@ -7,7 +7,7 @@ date: 2026-08-11
 jurisdiction: NSW Civil and Administrative Tribunal, Administrative and Equal Opportunity Division — D Dinnen, Senior Member
 significance: Both sides agreed a staff member swore at him; "manner of service is not covered under the Act".
 core: hr.2.9, hr.2.4
-support: hr.2.11, hr.2.7, hr.3.1, dis.2.5, dis.3.4, inv.7.2, inv.7.3, dis.1.5, exp.4, exp.5, inv.7.1
+support: hr.2.11, hr.2.7, hr.3.1, dis.2.5, dis.3.4, inv.7.2, inv.7.3, dis.1.5, exp.4, exp.5, inv.7.1, inv.6.6, inv.6.3
 themes: hr.t.compliance, hr.t.effectiveness, hr.t.values, dis.t.justice
 criteria: accessibility, enforceability, rights, justice
 document: Jade Cases/Raw Cases/Haji Zadeh v Woolworths Group Limited - NSW Caselaw.pdf

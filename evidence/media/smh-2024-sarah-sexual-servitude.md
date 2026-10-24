@@ -7,7 +7,7 @@ date: 2024-11-27
 jurisdiction: Australia
 significance: A woman trapped in sexual servitude did not know she was a victim of modern slavery until she tried to leave and was told she owed $25,000 to get out.
 core: hr.3.1
-support: hr.2.9, hr.2.12, hr.2.13, hr.1.1, crime.1.4, exp.4.1, exp.5.2, exp.6.2, inv.1.4, dis.3.3
+support: hr.2.9, hr.2.12, hr.2.13, hr.1.1, crime.1.4, exp.4.1, exp.5.2, exp.6.2, inv.1.4, dis.3.3, inv.7.2, inv.7.3, dis.1.2
 themes: hr.t.effectiveness, hr.t.compliance, hr.t.values, hr.t.reform
 criteria: enforceability, accessibility, responsiveness, rights, society, justice
 document: Crime/Media/Australia slavery: Woman forced into sexual servitude advising anti-slavery commissioner.pdf

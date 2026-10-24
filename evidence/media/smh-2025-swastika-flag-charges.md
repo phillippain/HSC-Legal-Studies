@@ -7,7 +7,7 @@ date: 2025-02-06
 jurisdiction: NSW
 significance: Two men were charged with knowingly displaying a Nazi symbol by public act within 150 metres of the Sydney Jewish Museum, and refused bail.
 core: hr.2.9
-support: hr.2.11, hr.1.1, hr.2.13, crime.1.2, crime.2.2, crime.2.6, chg.1.3, dis.3.2, exp.4.1
+support: hr.2.11, hr.1.1, hr.2.13, crime.1.2, crime.2.2, crime.2.6, chg.1.3, dis.3.2, exp.4.1, inv.7.2, inv.7.3, dis.1.2
 themes: hr.t.effectiveness, hr.t.compliance, hr.t.values, hr.t.reform
 criteria: enforceability, rights, responsiveness, justice, society
 document: News Articles/Human Rights/Men charged in Sydney after alleged display of swastika flag.pdf

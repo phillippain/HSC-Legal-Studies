@@ -7,7 +7,7 @@ date: 2013-12-12
 jurisdiction: High Court of Australia
 significance: The ACT's same-sex marriage law fell because the federal Marriage Act covered the field — and the Court said the marriage power was wide enough for Parliament to legislate either way.
 core: inv.5.1, inv.5.2
-support: inv.3.3, inv.4.4, inv.5.4, chg.3, fam.3.1, fam.1.3, inv.1.5, hr.2.8
+support: inv.3.3, inv.4.4, inv.5.4, chg.3, fam.3.1, fam.1.3, inv.1.5, hr.2.8, inv.7.2
 themes: inv.t.justice, inv.t.values
 criteria: ruleoflaw, responsiveness, society, rights
 related: commonwealth-v-tasmania-1983, statute-law-and-delegated-legislation

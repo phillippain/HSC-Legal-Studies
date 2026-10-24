@@ -7,7 +7,7 @@ date: 2025-04-11
 jurisdiction: Australia and international
 significance: A South Korean inquiry found systemic fraud and a profit-driven "mass exportation of children" — and Australia was a destination.
 core: fam.1.6
-support: fam.3.4, fam.1.5, hr.3.1, hr.2.7, hr.2.12, inv.6.2, inv.6.4, inv.6.6, inv.6.7, dis.3.3, dis.3.5, dis.3.6, exp.5.5
+support: fam.3.4, fam.1.5, hr.3.1, hr.2.7, hr.2.12, inv.6.2, inv.6.4, inv.6.6, inv.6.7, dis.3.3, dis.3.5, dis.3.6, exp.5.5, inv.6.3, inv.7.2
 themes: fam.t.values, fam.t.reform, hr.t.compliance, hr.t.values, inv.t.values
 criteria: rights, responsiveness, enforceability, ruleoflaw, justice
 document: Family/South Korea adoption: Labor pledges to investigate Australia-Korea program.pdf

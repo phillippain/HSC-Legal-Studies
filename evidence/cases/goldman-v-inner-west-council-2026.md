@@ -7,7 +7,7 @@ date: 2026-09-24
 jurisdiction: NSW Civil and Administrative Tribunal, Administrative and Equal Opportunity Division — P Roney KC, Senior Member, and Dr M Murray, General Member
 significance: A woman passed over for full-time driver jobs proved she was treated differently, but not that it was because of her sex — the inference problem at the centre of discrimination law.
 core: hr.2.9, hr.2.11, hr.3.1
-support: hr.2.4, hr.2.7, inv.7.2, inv.7.3, dis.2.5, inv.1.4, dis.2.3, exp.4
+support: hr.2.4, hr.2.7, inv.7.2, inv.7.3, dis.2.5, inv.1.4, dis.2.3, exp.4, inv.6.6, inv.6.3
 themes: hr.t.effectiveness, hr.t.compliance, hr.t.values
 criteria: rights, enforceability, accessibility, justice
 document: Cases/Human Rights/Goldman v Inner West Council [2026] NSWCATAD 288.pdf

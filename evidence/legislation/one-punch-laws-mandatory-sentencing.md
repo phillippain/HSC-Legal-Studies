@@ -7,7 +7,7 @@ date: 2014
 jurisdiction: NSW
 significance: A 'lenient' sentence for Thomas Kelly's death, a Crown appeal that nearly doubled it, and a law that took the judge's discretion away for intoxicated one-punch killings.
 core: crime.4.1, crime.4.5
-support: crime.4.2, crime.4.3, crime.4.8, crime.3.4, crime.1.5
+support: crime.4.2, crime.4.3, crime.4.8, crime.3.4, crime.1.5, dis.1.7, dis.1.3
 themes: crime.t.discretion, crime.t.reform, crime.t.moral, crime.t.balance
 criteria: responsiveness, justice, rights, ruleoflaw, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1900-040

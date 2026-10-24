@@ -7,7 +7,7 @@ date: 2026-10-19
 jurisdiction: Commonwealth — AHRC, Fair Work Commission, Federal Court and FCFCOA
 significance: Twelve years after the AHRC found half of mothers faced workplace discrimination, parents still have only a right to request flexible work — its 18 reform areas say protections work 'in theory, not in practice'.
 core: fam.3.2, hr.2.4, fam.1.5
-support: hr.2.9, hr.2.7, hr.2.12, hr.2.13, hr.1.3, hr.3.1, dis.3.5, dis.3.6, dis.3.4, inv.6.3, inv.7.2, chg.1, chg.2, chg.3, exp.4, exp.5, exp.6
+support: hr.2.9, hr.2.7, hr.2.12, hr.2.13, hr.1.3, hr.3.1, dis.3.5, dis.3.6, dis.3.4, inv.6.3, inv.7.2, chg.1, chg.2, chg.3, exp.4, exp.5, exp.6, inv.6.6, inv.7.3
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness, hr.t.effectiveness, hr.t.values, hr.t.reform, dis.t.justice
 criteria: accessibility, enforceability, resource, rights, responsiveness, society, justice
 document: Family/Evidence Summaries/AHRC Balancing Act - working parents and carers (Evidence summary 20Oct26).pdf

@@ -7,7 +7,7 @@ date: 2026-09-16
 jurisdiction: NSW Civil and Administrative Tribunal, Administrative and Equal Opportunity Division — P Roney KC, Senior Member, and M Maher, General Member
 significance: The complaint that succeeded — $35,000 for transgender discrimination, where a recruitment process required disclosure of former names.
 core: hr.2.9, hr.2.4, hr.3.1
-support: hr.2.11, hr.2.7, hr.2.14, inv.7.2, inv.7.3, inv.7.1, dis.2.5, dis.3.4, dis.1.5, exp.4, exp.5, exp.6
+support: hr.2.11, hr.2.7, hr.2.14, inv.7.2, inv.7.3, inv.7.1, dis.2.5, dis.3.4, dis.1.5, exp.4, exp.5, exp.6, inv.6.6, inv.6.3
 themes: hr.t.compliance, hr.t.values, hr.t.effectiveness, inv.t.justice
 criteria: rights, enforceability, accessibility, responsiveness, justice
 document: Cases/Human Rights/HGY v Secretary, Ministry of Health [2026] NSWCATAD 278 - Case Summary.pdf

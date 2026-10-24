@@ -7,7 +7,7 @@ date: 2005-05-18
 jurisdiction: High Court of Australia
 significance: A sentencing judge may not start at the maximum penalty and add and subtract fractions to reach a sentence; the maximum is a yardstick, and the reasoning must be transparent.
 core: crime.4.1
-support: crime.4.3, crime.4.5, crime.4.2, inv.1.6, inv.3.1, inv.3.2
+support: crime.4.3, crime.4.5, crime.4.2, inv.1.6, inv.3.1, inv.3.2, dis.1.7
 themes: crime.t.discretion, crime.t.balance
 criteria: justice, ruleoflaw, rights
 document: Cases/Crime/Markarian v The Queen [2005] HCA 25 - Case Summary.pdf

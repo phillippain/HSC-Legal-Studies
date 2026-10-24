@@ -7,7 +7,7 @@ date: 2020
 jurisdiction: NSW
 significance: An early intervention scheme for 10 to 17 year olds reduced the measured reoffending risk of three quarters of its participants, before a randomised trial found no significant fall in actual reoffending.
 core: crime.5.5
-support: crime.5.1, crime.5.3, crime.5.4, crime.4.6, crime.2.3, exp.2.4, exp.3.1, exp.1.2, dis.3.5, inv.1.4
+support: crime.5.1, crime.5.3, crime.5.4, crime.4.6, crime.2.3, exp.2.4, exp.3.1, exp.1.2, dis.3.5, inv.1.4, dis.1.7
 themes: crime.t.effectiveness, crime.t.reform, crime.t.balance, crime.t.moral
 criteria: responsiveness, resource, accessibility, society, justice
 document: Crime/Young Offenders/youth-on-track-2020-snapshot-report.pdf

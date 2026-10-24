@@ -7,7 +7,7 @@ date: 2025-05-13
 jurisdiction: Australia
 significance: Non-medical sex selection is banned in Australia by NHMRC guidelines rather than by statute, and hundreds of couples a year travel overseas to do it.
 core: fam.3.3
-support: fam.3.1, fam.3.2, fam.1.1, hr.2.9, chg.1.2, chg.1.3, chg.6.1, inv.1.2, inv.1.5, dis.3.4
+support: fam.3.1, fam.3.2, fam.1.1, hr.2.9, chg.1.2, chg.1.3, chg.6.1, inv.1.2, inv.1.5, dis.3.4, inv.7.2, inv.7.3
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness, fam.t.compliance
 criteria: enforceability, responsiveness, rights, society, justice, accessibility
 document: Family/Gender Selection.pdf

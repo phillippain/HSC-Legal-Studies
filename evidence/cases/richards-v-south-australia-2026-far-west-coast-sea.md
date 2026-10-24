@@ -7,7 +7,7 @@ date: 2026-07-29
 jurisdiction: Commonwealth
 significance: A sea claim reduced to a 30–50 metre strip, and after ten years the question of who holds the native title goes back for re-hearing because the 2013 land determination was misread.
 core: hr.2.10, hr.2.11
-support: hr.2.4, hr.2.7, hr.1.2, chg.5.2, chg.5.4, chg.5.5, chg.6.5, dis.2.5
+support: hr.2.4, hr.2.7, hr.1.2, chg.5.2, chg.5.4, chg.5.5, dis.2.5, inv.7.2, inv.7.3, inv.6.6, inv.6.3, chg.5.3
 themes: hr.t.effectiveness, hr.t.compliance, hr.t.reform, hr.t.values
 criteria: accessibility, resource, responsiveness, justice, rights, enforceability
 document: Cases/Human Rights/F260097.rtf

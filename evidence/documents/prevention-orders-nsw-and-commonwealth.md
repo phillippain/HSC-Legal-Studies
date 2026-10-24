@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW and Commonwealth
 significance: A dozen separate order regimes let courts and police restrict someone's liberty to prevent an offence rather than punish one, each with its own statute and standard of proof.
 core: crime.4.8
-support: crime.4.3, crime.4.6, crime.2.1, crime.2.3, crime.1.2, crime.6.2, fam.2.4, hr.2.9, hr.2.11, dis.3.1, inv.1.3
+support: crime.4.3, crime.4.6, crime.2.1, crime.2.3, crime.1.2, crime.6.2, fam.2.4, hr.2.9, hr.2.11, dis.3.1, inv.1.3, dis.1.7, dis.1.2, inv.7.2, inv.7.3
 themes: crime.t.balance, crime.t.effectiveness, crime.t.discretion, crime.t.reform
 criteria: rights, enforceability, responsiveness, society, ruleoflaw, justice
 document: Crime/PREVENTION ORDERS NSW and Commonwealth.docx

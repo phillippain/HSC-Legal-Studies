@@ -7,7 +7,7 @@ date: 2026-05-05
 jurisdiction: Australia
 significance: Rents and supply have made it financially impossible for many separated couples to live apart, so they stay in the same home — including where there is family violence.
 core: fam.2.3
-support: fam.2.1, fam.2.2, fam.2.4, fam.2.5, shel.2.2, shel.3.1, shel.1.3, hr.2.7, inv.1.4, exp.4.1, dis.3.2
+support: fam.2.1, fam.2.2, fam.2.4, fam.2.5, shel.2.2, shel.3.1, shel.1.3, hr.2.7, inv.1.4, exp.4.1, dis.3.2, inv.6.3, inv.7.2
 themes: fam.t.effectiveness, fam.t.values, shel.t.effectiveness, fam.t.reform
 criteria: accessibility, responsiveness, resource, rights, society, justice
 document: Family/Separated couples forced to keep living together amid housing crisis.pdf

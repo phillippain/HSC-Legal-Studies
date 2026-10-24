@@ -7,7 +7,7 @@ date: 2025-08-01
 jurisdiction: International
 significance: Violent crime in the UK and US is near record lows while public belief that crime is rising keeps climbing — and the data explains the gap without blaming the media.
 core: crime.1.8, crime.1.9
-support: crime.1.5, crime.1.6, crime.4.1, crime.4.2, crime.2.1, inv.1.1, chg.6.2
+support: crime.1.5, crime.1.6, crime.4.1, crime.4.2, crime.2.1, inv.1.1, chg.6.2, dis.1.3, dis.1.7
 themes: crime.t.effectiveness, crime.t.moral, crime.t.reform
 criteria: resource, responsiveness, justice, enforceability
 document: Crime/Media/The great crime paradox.pdf

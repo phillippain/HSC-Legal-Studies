@@ -7,7 +7,7 @@ date: 2012-10
 jurisdiction: United Kingdom
 significance: Hundreds of people reported abuse from decades earlier once a celebrity offender was exposed — evidence that reporting depends on whether victims believe they will be heard.
 core: crime.2.2
-support: crime.1.5, crime.3.7
+support: crime.1.5, crime.3.7, dis.1.3
 themes: crime.t.reform, crime.t.effectiveness, crime.t.moral
 criteria: justice, accessibility, society
 source: https://en.wikipedia.org/wiki/Operation_Yewtree

@@ -7,7 +7,7 @@ date: 2026-07-23
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Judge O'Shannessy
 significance: An after-hours judge on a train stopped a child's flight to a non-Hague country with sixteen minutes to spare, then kept the order without deciding who was telling the truth.
 core: fam.3.4, fam.2.5, dis.2.5, exp.2.1
-support: fam.3.2, fam.2.2, fam.1.2, fam.2.4, hr.2.1, hr.2.3, inv.6.3, inv.6.2, dis.2.7, exp.1.1
+support: fam.3.2, fam.2.2, fam.1.2, fam.2.4, hr.2.1, hr.2.3, inv.6.3, inv.6.2, dis.2.7, exp.1.1, inv.6.5
 themes: fam.t.compliance, fam.t.effectiveness, fam.t.cooperation, hr.t.sovereignty, dis.t.effectiveness, exp.t.justice
 criteria: responsiveness, enforceability, rights, justice
 document: Cases/Family/Curtin & Bush [2026] FedCFamC2F 1021 and 1165 - Case Summary.pdf

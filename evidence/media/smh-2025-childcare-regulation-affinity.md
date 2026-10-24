@@ -7,7 +7,7 @@ date: 2025-05-15
 jurisdiction: NSW
 significance: A daycare licence was suspended after regulators recorded 92 children with almost no early childhood teachers, a child drinking medication from a paint cup, and a child dragged to bed.
 core: fam.3.4
-support: fam.3.1, fam.2.6, fam.2.7, hr.2.9, hr.2.13, chg.1.3, chg.2.2, dis.3.1, dis.3.3, dis.3.4, exp.1.1, exp.2.2
+support: fam.3.1, fam.2.6, fam.2.7, hr.2.9, hr.2.13, chg.1.3, chg.2.2, dis.3.1, dis.3.3, dis.3.4, exp.1.1, exp.2.2, inv.7.2, inv.7.3
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform, fam.t.values
 criteria: enforceability, responsiveness, rights, resource, society, justice
 document: Family/Childcare crisis: Frankie thought her daughter was safe at daycare but her child’s life changed forever.pdf

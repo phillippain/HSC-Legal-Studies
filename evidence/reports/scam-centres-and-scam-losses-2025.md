@@ -7,7 +7,7 @@ date: 2026-03-01
 jurisdiction: Australia and South-East Asia
 significance: Australians lost $2.18 billion to scams in 2025, much of it to compounds where the scammers are themselves trafficking victims.
 core: crime.6.1
-support: crime.6.2, crime.1.5, hr.3.1
+support: crime.6.2, crime.1.5, hr.3.1, dis.1.3
 themes: crime.t.effectiveness, crime.t.balance, crime.t.compliance
 criteria: enforceability, accessibility, society, rights
 source: https://www.accc.gov.au/

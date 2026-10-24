@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Evidence must be relevant, legally obtained, direct and not opinion — and each of those filters keeps out material that would help decide the case.
 core: crime.3.7
-support: crime.2.3, crime.2.6, crime.3.2, crime.3.6, crime.3.9, crime.4.4, inv.1.6
+support: crime.2.3, crime.2.6, crime.3.2, crime.3.6, crime.3.9, crime.4.4, inv.1.6, dis.1.5, inv.4.3, dis.1.4, dis.1.6
 themes: crime.t.balance, crime.t.reform, crime.t.effectiveness
 criteria: rights, ruleoflaw, justice, society
 document: Crime/Criminal Trial Process/3d. Evidence, including witnesses.docx

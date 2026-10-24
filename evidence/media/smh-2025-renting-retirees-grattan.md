@@ -7,7 +7,7 @@ date: 2025-02-10
 jurisdiction: Australia
 significance: Two in three retirees who rent privately live in poverty, and Grattan says rent assistance has to rise 50 per cent because rents have outpaced it for two decades.
 core: shel.2.2, shel.3.1
-support: shel.1.3, shel.3.4, shel.3.3, shel.2.1, hr.2.9, chg.1.3, inv.1.4, dis.3.2, exp.4.2, exp.6.2
+support: shel.1.3, shel.3.4, shel.3.3, shel.2.1, hr.2.9, chg.1.3, inv.1.4, dis.3.2, exp.4.2, exp.6.2, inv.7.2, inv.7.3
 themes: shel.t.effectiveness, shel.t.reform, shel.t.values, shel.t.cooperation
 criteria: accessibility, resource, responsiveness, society, rights, justice
 document: News Articles/Shelter/Renting retirees face fall off housing cliff.pdf

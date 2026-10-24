@@ -7,7 +7,7 @@ date: 2026-07-10
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2), Judge Murdoch
 significance: Coercive control "under the guise of religion" is family violence — but the risk was significant, not unacceptable.
 core: fam.3.4, fam.2.4, dis.2.5, dis.2.8
-support: fam.2.2, fam.3.2, hr.2.7, hr.3.1, exp.1.1
+support: fam.2.2, fam.3.2, hr.2.7, hr.3.1, exp.1.1, inv.6.3, inv.7.2
 themes: fam.t.values, fam.t.effectiveness, hr.t.values, hr.t.compliance, dis.t.justice, dis.t.effectiveness
 criteria: rights, enforceability, society, justice
 document: Jade Cases/Raw Cases/Attar & Chawd [2026] FedCFamC2F 1012.rtf

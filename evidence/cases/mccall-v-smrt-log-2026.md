@@ -7,7 +7,7 @@ date: 2026-10-20
 jurisdiction: Supreme Court of NSW, Equity Division
 significance: Mid-trial, the court read a party's texts with her solicitors and ordered three passages produced — privilege protects advice kept confidential, not advice the client has revealed in the witness box.
 core: inv.4.3, dis.2.6
-support: dis.2.5, inv.1.6, crime.3.7, crime.3.3, crime.3.2
+support: dis.2.5, inv.1.6, crime.3.7, crime.3.3, crime.3.2, dis.1.6, dis.1.5
 themes: inv.t.justice, dis.t.justice
 criteria: rights, justice, ruleoflaw
 document: Cases/Year 11/McCall v SMRT Log Pty Ltd (Privilege) [2026] NSWSC 1308 - Evidence Summary.pdf

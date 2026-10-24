@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: NSW became the first Australian jurisdiction to stop good character reducing a sentence for any offence, after survivors campaigned that a reputation should not outweigh harm.
 core: crime.4.3
-support: crime.4.1, crime.4.4, crime.1.5, hr.3.1
+support: crime.4.1, crime.4.4, crime.1.5, hr.3.1, dis.1.3
 themes: crime.t.reform, crime.t.moral, crime.t.balance, crime.t.discretion
 criteria: responsiveness, justice, rights, society
 source: https://www.parliament.nsw.gov.au/bill/files/18856/First%20Print.pdf

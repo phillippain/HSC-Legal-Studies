@@ -7,7 +7,7 @@ date: 2026-10-22
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Racial Discrimination Act 1975 (Cth) s 18C
 significance: Remarks at a WA rifle club meeting in 2020 led, six years later, to a ruling that the s 18C claim can proceed against the club and two members — but not against a member who had died.
 core: hr.2.9, hr.2.11
-support: hr.2.4, hr.3.1, hr.1.3, dis.2.5, inv.7.2, inv.7.4, exp.6.2
+support: hr.2.4, hr.3.1, hr.1.3, dis.2.5, inv.7.2, inv.7.4, exp.6.2, inv.7.3, inv.6.6
 themes: hr.t.effectiveness, hr.t.compliance, hr.t.values
 criteria: accessibility, rights, enforceability, justice
 document: Cases/Human Rights/Cordle v Brooks [2026] FedCFamC2G 2081 - Evidence Summary.pdf

@@ -7,7 +7,7 @@ date: 2026-08-20
 jurisdiction: Victoria (Court of Appeal)
 significance: Both sides appealed Australia's most-watched jury trial: Patterson against the verdict, the DPP for life without parole.
 core: crime.3.9
-support: crime.4.5, crime.4.3, crime.3.7
+support: crime.4.5, crime.4.3, crime.3.7, dis.1.6
 themes: crime.t.balance, crime.t.effectiveness
 criteria: justice, rights, society
 source: https://www.abc.net.au/news/2026-08-20/erin-patterson-appeal-mushroom-murder-court/107059860

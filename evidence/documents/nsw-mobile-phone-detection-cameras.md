@@ -7,7 +7,7 @@ date: 2025-09
 jurisdiction: NSW
 significance: The world's first phone-detection cameras turned a strict liability offence into mass, automated enforcement: 80,000 fines in seven months.
 core: crime.1.3, crime.1.9
-support: crime.1.5, crime.2.3, crime.4.5, chg.3
+support: crime.1.5, crime.2.3, crime.4.5, chg.3, dis.1.3
 themes: crime.t.compliance, crime.t.balance, crime.t.effectiveness
 criteria: enforceability, resource, rights, society
 source: https://www.mynrma.com.au/open-road/news/2025/most-common-offences-caught-on-camera-nsw

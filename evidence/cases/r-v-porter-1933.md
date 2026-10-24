@@ -7,7 +7,7 @@ date: 1933-02-01
 jurisdiction: High Court of Australia, original jurisdiction (trial on indictment at Canberra)
 significance: Insanity excuses an accused whose diseased mind meant he did not know what he was doing or that it was wrong "by the everyday standards of reasonable people" — and, uniquely, the accused must prove it.
 core: crime.3.8, crime.3.6
-support: crime.1.2, crime.1.8, crime.3.1, crime.4.2, crime.4.8, inv.1.5
+support: crime.1.2, crime.1.8, crime.3.1, crime.4.2, crime.4.8, inv.1.5, dis.1.4, dis.1.2, dis.1.5, dis.1.7
 themes: crime.t.moral, crime.t.balance, crime.t.reform
 criteria: justice, rights, society
 document: Cases/Crime/R v Porter (1933) 55 CLR 182 - Case Summary.pdf

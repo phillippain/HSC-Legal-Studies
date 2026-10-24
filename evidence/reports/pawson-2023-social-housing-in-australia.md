@@ -7,7 +7,7 @@ date: 2023-03-17
 jurisdiction: Australia (with NSW detail)
 significance: Social housing is four per cent of Australian housing stock, down from six, while census analysis puts unmet need in NSW alone at about 144,000 households.
 core: shel.3.4
-support: shel.3.3, shel.3.1, shel.2.2, shel.2.3, shel.2.6, shel.2.8, shel.2.9, shel.1.3, hr.2.7, inv.1.4, dis.2.5
+support: shel.3.3, shel.3.1, shel.2.2, shel.2.3, shel.2.6, shel.2.8, shel.2.9, shel.1.3, hr.2.7, inv.1.4, dis.2.5, inv.6.3, inv.7.2
 themes: shel.t.effectiveness, shel.t.values, shel.t.reform, shel.t.cooperation
 criteria: accessibility, resource, responsiveness, rights, society, justice
 document: Shelter/LSA 2023 - Shelter Social Housing (1).pdf

@@ -7,7 +7,7 @@ date: 1992-11-13
 jurisdiction: High Court of Australia (5–2)
 significance: There is no right to be provided with a lawyer, but a serious trial that proceeds without one may be stayed because it cannot be fair.
 core: crime.3.5
-support: crime.3.2, crime.3.6, crime.4.5, inv.1.4, inv.1.6, inv.4.3, inv.7.2, inv.7.3, hr.2.9
+support: crime.3.2, crime.3.6, crime.4.5, inv.1.4, inv.1.6, inv.4.3, inv.7.2, inv.7.3, hr.2.9, dis.1.5, dis.1.4
 themes: crime.t.balance, crime.t.effectiveness, crime.t.moral
 criteria: accessibility, rights, ruleoflaw, justice
 document: Cases/Crime/Dietrich v The Queen (1992) 177 CLR 292 - Case Summary.pdf

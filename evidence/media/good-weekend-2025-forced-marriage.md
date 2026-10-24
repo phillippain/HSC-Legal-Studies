@@ -7,7 +7,7 @@ date: 2025-05-31
 jurisdiction: Australia
 significance: Australia's first successful forced marriage prosecution convicted the victim's mother, herself married at twelve, and only became possible because her daughter was murdered.
 core: hr.3.1
-support: fam.1.3, fam.2.4, crime.6.1, crime.4.2, crime.4.3, hr.2.6, hr.2.5, exp.4, exp.6
+support: fam.1.3, fam.2.4, crime.6.1, crime.4.2, crime.4.3, hr.2.6, hr.2.5, exp.4, exp.6, dis.1.7, inv.6.7
 themes: crime.t.moral, crime.t.effectiveness, crime.t.balance
 criteria: enforceability, rights, society, justice, accessibility
 document: Human Rights/Forced marriage in Australia women who escape – and the new legal precedent.pdf

@@ -7,7 +7,7 @@ date: 2025-01-01
 jurisdiction: Commonwealth
 significance: Intentional underpayment of wages became a crime carrying up to 10 years' imprisonment: white-collar wrongdoing moved from civil penalties to criminal law.
 core: crime.1.5
-support: crime.1.2, crime.1.8, crime.4.5, chg.1, hr.3.1
+support: crime.1.2, crime.1.8, crime.4.5, chg.1, hr.3.1, dis.1.3, dis.1.2
 themes: crime.t.reform, crime.t.moral, crime.t.effectiveness
 criteria: responsiveness, enforceability, rights, society
 source: https://www.normans.com.au/news/new-criminal-wage-theft-laws-commenced-on-1-january-2025

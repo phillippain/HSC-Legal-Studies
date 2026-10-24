@@ -7,7 +7,7 @@ date: 2025-02-24
 jurisdiction: NSW and Queensland
 significance: Interviews with 53 private tenants found the threat of eviction kept them silent about mould, harassment and repairs long before any notice was issued.
 core: shel.2.2
-support: shel.2.3, shel.2.6, shel.3.3, shel.1.3, hr.2.9, inv.1.4, inv.1.2, dis.2.5, exp.4.1, exp.6.2
+support: shel.2.3, shel.2.6, shel.3.3, shel.1.3, hr.2.9, inv.1.4, inv.1.2, dis.2.5, exp.4.1, exp.6.2, inv.7.2, inv.7.3
 themes: shel.t.effectiveness, shel.t.values, shel.t.reform, shel.t.compliance
 criteria: accessibility, enforceability, rights, responsiveness, society, justice
 document: Shelter/The Conversation Eviction Experiences.pdf

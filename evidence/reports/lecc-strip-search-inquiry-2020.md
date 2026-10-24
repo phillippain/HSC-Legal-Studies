@@ -7,7 +7,7 @@ date: 2020-12-15
 jurisdiction: NSW
 significance: The police watchdog found strip searches unlawful in four of seven investigations and made 25 recommendations to fix training, records and the law.
 core: crime.2.1
-support: crime.2.3, crime.5.2, hr.2.9, exp.2.3
+support: crime.2.3, crime.5.2, hr.2.9, exp.2.3, inv.7.2, inv.7.3
 themes: crime.t.compliance, crime.t.discretion, crime.t.effectiveness
 criteria: rights, enforceability, justice, ruleoflaw
 source: https://www.lecc.nsw.gov.au/news-and-publications/publications/final-report-an-inquiry-into-nsw-police-force-strip-search-practices-15-december-2020.pdf/@@download/file

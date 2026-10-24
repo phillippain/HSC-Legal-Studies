@@ -7,7 +7,7 @@ date: 1999
 jurisdiction: NSW
 significance: Where the purposes of punishment are written down as statute — and where domestic violence sentencing was pushed towards custody.
 core: crime.4.1, crime.4.2, crime.4.3
-support: crime.3.4, crime.4.4, crime.4.6, crime.4.7, fam.2.4
+support: crime.3.4, crime.4.4, crime.4.6, crime.4.7, fam.2.4, dis.1.7
 themes: crime.t.discretion, crime.t.balance, crime.t.reform
 criteria: enforceability, society, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1999-092

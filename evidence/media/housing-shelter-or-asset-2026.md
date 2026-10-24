@@ -7,7 +7,7 @@ date: 2026-10-14
 jurisdiction: Commonwealth, NSW, ACT and International
 significance: Australia is a party to the right to adequate housing but has barely legislated it, so housing is protected as an investment far more precisely than as shelter.
 core: shel.1.2, shel.1.3, shel.1.1
-support: shel.3.1, shel.3.3, shel.3.4, shel.2.2, shel.2.3, shel.2.8, shel.2.10, hr.2.2, hr.2.7, hr.2.9, hr.2.14, hr.1.3, inv.6.2, inv.6.3, inv.7.2, chg.1, chg.3, exp.4, exp.5, exp.6
+support: shel.3.1, shel.3.3, shel.3.4, shel.2.2, shel.2.3, shel.2.8, shel.2.10, hr.2.2, hr.2.7, hr.2.9, hr.2.14, hr.1.3, inv.6.2, inv.6.3, inv.7.2, chg.1, chg.3, exp.4, exp.5, exp.6, inv.6.4, inv.7.3
 themes: shel.t.values, shel.t.reform, shel.t.effectiveness, shel.t.compliance, hr.t.sovereignty, inv.t.justice
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, justice
 document: Shelter/Evidence Sheets/Evidence Sheet - Housing as shelter or asset (16Oct26).pdf

@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: International and Australia
 significance: International law binds states that consent to it and reaches Australians only when Parliament legislates — which is why ratification and protection are different things.
 core: inv.6.2, inv.6.1, inv.6.4, inv.6.6, inv.6.7, inv.6.3, inv.7.2
-support: hr.2.1, hr.2.9, hr.2.3, chg.3, inv.5.1, inv.5.2, inv.7.3, fam.3.4
+support: hr.2.1, hr.2.9, hr.2.3, chg.3, inv.5.1, inv.5.2, inv.7.3, fam.3.4, inv.6.5
 themes: inv.t.values, inv.t.justice
 criteria: enforceability, rights, responsiveness, society, ruleoflaw
 related: commonwealth-v-tasmania-1983, iccpr-1966, croc-1989

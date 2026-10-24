@@ -7,7 +7,7 @@ date: 2025-03-28
 jurisdiction: NSW Supreme Court; NSW Court of Criminal Appeal
 significance: A jury convicted a police officer of manslaughter for tasering a 95-year-old; he was refused a judge-alone trial, sentenced to a Community Correction Order, and the Crown failed to get him jailed.
 core: crime.3.9, crime.4.4, crime.4.6
-support: crime.2.1, crime.2.4, crime.4.2, crime.4.3, crime.4.5, hr.2.10, inv.1.7
+support: crime.2.1, crime.2.4, crime.4.2, crime.4.3, crime.4.5, hr.2.10, inv.1.7, dis.1.6, dis.1.7, inv.7.2, inv.7.3
 themes: crime.t.discretion, crime.t.compliance, crime.t.moral, crime.t.balance
 criteria: enforceability, rights, justice, ruleoflaw, society
 document: Cases/Crime/R v White [2025] NSWSC 243 - Case Summary.pdf

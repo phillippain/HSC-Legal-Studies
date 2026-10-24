@@ -7,7 +7,7 @@ date: 2026-08
 jurisdiction: NSW
 significance: A 1% rise in petrol prices causes about a 3% rise in petrol thefts — a causal link between economic pressure and property crime, measured.
 core: crime.1.8, crime.1.9
-support: crime.1.5, crime.1.1, crime.4.2, crime.2.2, exp.4, inv.1.5
+support: crime.1.5, crime.1.1, crime.4.2, crime.2.2, exp.4, inv.1.5, dis.1.3, dis.1.1, dis.1.7
 themes: crime.t.moral, crime.t.effectiveness, crime.t.balance
 criteria: society, responsiveness, resource, justice
 document: Cases/BOCSAR/CJB280-Report-Petrol-Thefts.pdf

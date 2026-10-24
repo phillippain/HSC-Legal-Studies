@@ -7,7 +7,7 @@ date: 2021
 jurisdiction: NSW
 significance: The rules prosecutors set themselves: charges must reflect the criminality, and victims must be consulted before a plea deal.
 core: crime.3.4, crime.3.3
-support: crime.4.4
+support: crime.4.4, dis.1.6
 themes: crime.t.discretion, crime.t.balance
 criteria: justice, rights, society
 related: greta-bus-crash-reform-2026, r-v-koch-2009

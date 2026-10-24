@@ -7,7 +7,7 @@ date: 2026-06-22
 jurisdiction: Australia and international
 significance: Police seized more cocaine than ever in one operation in the same year wastewater testing found record use.
 core: crime.6.1
-support: crime.6.2, crime.2.1, crime.1.5
+support: crime.6.2, crime.2.1, crime.1.5, dis.1.3
 themes: crime.t.effectiveness, crime.t.compliance
 criteria: enforceability, society, resource
 source: https://www.abc.net.au/news/

@@ -7,7 +7,7 @@ date: 2014
 jurisdiction: NSW
 significance: Provocation now requires the deceased's conduct to have been a serious indictable offence, while preserving the defence for long-term victims of domestic violence.
 core: crime.3.8
-support: crime.1.5, crime.4.1, crime.4.3, fam.3.4, chg.3
+support: crime.1.5, crime.4.1, crime.4.3, fam.3.4, chg.3, dis.1.3
 themes: crime.t.reform, crime.t.moral, crime.t.effectiveness
 criteria: responsiveness, society, justice, rights
 document: Crime/Criminal Trial Process/3d. Defences to Criminal Charges.docx

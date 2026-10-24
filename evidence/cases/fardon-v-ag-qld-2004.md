@@ -7,7 +7,7 @@ date: 2004-10-01
 jurisdiction: High Court of Australia
 significance: A Queensland law letting the Supreme Court keep a sex offender in prison after his sentence, as an unacceptable risk, was valid — a general, protective law with a real judicial process, unlike Kable's.
 core: crime.4.8
-support: crime.4.2, inv.5.3, inv.5.4, inv.1.2, hr.2.8, hr.2.10, chg.3
+support: crime.4.2, inv.5.3, inv.5.4, inv.1.2, hr.2.8, hr.2.10, chg.3, dis.1.7, inv.7.2, inv.7.3
 themes: crime.t.balance, crime.t.moral, inv.t.justice
 criteria: rights, society, justice, ruleoflaw
 document: Cases/Crime/Fardon v Attorney-General (Qld) [2004] HCA 46 - Case Summary.pdf

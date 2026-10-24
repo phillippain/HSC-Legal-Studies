@@ -7,7 +7,7 @@ date: 2025-03-31
 jurisdiction: Australia / Ethiopia
 significance: An adopted person who turned 18 travelled to Ethiopia to look for her birth parents, nineteen years after an intercountry adoption that took her parents three and a half years to complete.
 core: fam.1.6
-support: fam.1.1, fam.1.4, fam.3.3, fam.3.2, hr.2.7, exp.2.1, inv.6.6, chg.3.3, dis.3.2
+support: fam.1.1, fam.1.4, fam.3.3, fam.3.2, hr.2.7, exp.2.1, inv.6.6, chg.3.3, dis.3.2, inv.6.3, inv.7.2
 themes: fam.t.values, fam.t.effectiveness, fam.t.cooperation, fam.t.reform
 criteria: accessibility, responsiveness, rights, resource, society, justice
 document: Family/Tsehay Hawkins: Yellow Wiggle on looking for her birth parents.pdf

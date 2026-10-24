@@ -7,7 +7,7 @@ date: 2026-09-18
 jurisdiction: Commonwealth
 significance: A Senate committee found prevention and diversion more effective and cheaper than locking children up, and called for national minimum standards for youth justice.
 core: crime.5.4
-support: crime.5.1, crime.5.5, hr.3.1, hr.2.10, exp.2.4, exp.1.3
+support: crime.5.1, crime.5.5, hr.3.1, hr.2.10, exp.2.4, exp.1.3, inv.7.2, inv.7.3
 themes: crime.t.effectiveness, crime.t.reform, crime.t.balance
 criteria: rights, society, resource, responsiveness
 source: https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Legal_and_Constitutional_Affairs

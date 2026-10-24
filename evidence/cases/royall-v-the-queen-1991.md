@@ -7,7 +7,7 @@ date: 1991
 jurisdiction: High Court of Australia
 significance: A woman fell to her death escaping a violent attack — the accused caused it, because a victim's reasonable response to the danger he created does not break the chain.
 core: crime.1.4
-support: crime.1.2, crime.1.1, crime.3.6, crime.3.7, crime.3.8, fam.2.4, inv.1.6
+support: crime.1.2, crime.1.1, crime.3.6, crime.3.7, crime.3.8, fam.2.4, inv.1.6, dis.1.2, dis.1.1, dis.1.4
 themes: crime.t.moral, crime.t.balance, crime.t.effectiveness
 criteria: ruleoflaw, justice, rights, society
 related: defences-to-criminal-charges, use-of-evidence-and-witnesses

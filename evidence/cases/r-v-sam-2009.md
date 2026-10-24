@@ -7,7 +7,7 @@ date: 2009
 jurisdiction: Supreme Court of New South Wales
 significance: Parents who treated their baby's severe eczema with homeopathy instead of the medical care they were repeatedly urged to get were convicted of manslaughter by criminal negligence.
 core: fam.1.5
-support: fam.3.4, crime.1.2, crime.1.5, crime.3.8, crime.4.2, crime.4.3, inv.1.5
+support: fam.3.4, crime.1.2, crime.1.5, crime.3.8, crime.4.2, crime.4.3, inv.1.5, dis.1.2, dis.1.3, dis.1.7
 themes: fam.t.compliance, fam.t.values, crime.t.moral
 criteria: rights, enforceability, society, justice, ruleoflaw
 document: Family/Cases/1.4 Family law cases.pdf

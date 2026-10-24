@@ -7,7 +7,7 @@ date: 2026-09-11
 jurisdiction: Supreme Court of New South Wales
 significance: Billings murdered Molly Ticehurst sixteen days after she reported him, while on bail and under an AVO; his early-plea discount was cut from 25% to 20% and he got 28 years, non-parole 20.
 core: crime.3.4, crime.4.3, crime.2.5
-support: crime.4.1, crime.4.2, crime.4.4, crime.4.5, crime.3.1, fam.2.4, chg.1, chg.2.1
+support: crime.4.1, crime.4.2, crime.4.4, crime.4.5, crime.3.1, fam.2.4, chg.1, chg.2.1, dis.1.7, dis.1.5
 themes: crime.t.balance, crime.t.reform, crime.t.moral, fam.t.effectiveness
 criteria: justice, rights, responsiveness, society
 document: Cases/Crime/R v Billings [2026] NSWSC 1088 - Case Summary.pdf

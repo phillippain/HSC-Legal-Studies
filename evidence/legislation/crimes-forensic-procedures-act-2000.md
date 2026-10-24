@@ -7,7 +7,7 @@ date: 2000
 jurisdiction: NSW
 significance: Sets who can take a suspect's DNA, with whose permission, and what happens when the science goes wrong.
 core: crime.2.3
-support: crime.2.6, crime.3.7, hr.2.10
+support: crime.2.6, crime.3.7, hr.2.10, inv.7.2, inv.7.3
 themes: crime.t.balance, crime.t.compliance
 criteria: rights, enforceability, justice
 document: Crime/NSW Police Powers - Search & Forensic Procedures.pdf

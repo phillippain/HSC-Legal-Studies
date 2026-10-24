@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Twelve citizens chosen at random, with the categories of people excused doing as much to shape the jury as the ones included.
 core: crime.3.9
-support: crime.3.1, crime.3.2, crime.3.6, crime.3.7, inv.4.3, inv.1.4, inv.1.6, hr.2.10
+support: crime.3.1, crime.3.2, crime.3.6, crime.3.7, inv.4.3, inv.1.4, inv.1.6, hr.2.10, dis.1.6, dis.1.5, dis.1.4, inv.7.2, inv.7.3
 themes: crime.t.balance, crime.t.reform, crime.t.effectiveness, inv.t.justice
 criteria: rights, ruleoflaw, society, justice
 document: Crime/Criminal Trial Process/3e. The role of juries, including verdicts.docx

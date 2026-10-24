@@ -7,7 +7,7 @@ date: 2026-10-07
 jurisdiction: Commonwealth and NSW
 significance: Privacy rests on a treaty never incorporated, a statute binding only organisations, offences built for private acts, and family violence laws that start when a victim finds out.
 core: hr.3.1, hr.2.7, fam.2.4
-support: hr.1.3, hr.2.9, hr.2.10, hr.2.14, hr.2.5, hr.2.13, crime.1.5, crime.1.9, crime.2.2, crime.3.7, fam.2.5, fam.3.4, chg.1, chg.3, exp.6
+support: hr.1.3, hr.2.9, hr.2.10, hr.2.14, hr.2.5, hr.2.13, crime.1.5, crime.1.9, crime.2.2, crime.3.7, fam.2.5, fam.3.4, chg.1, chg.3, exp.6, inv.6.3, inv.7.2, inv.7.3, inv.6.7, dis.1.3
 themes: hr.t.compliance, hr.t.effectiveness, hr.t.sovereignty, crime.t.reform, crime.t.balance, fam.t.compliance
 criteria: rights, enforceability, accessibility, resource, responsiveness, ruleoflaw, society, justice
 document: Human Rights/Kmart camera glasses - privacy and surveillance (HSC evidence summary 7Oct26).pdf

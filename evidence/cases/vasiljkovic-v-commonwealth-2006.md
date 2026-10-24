@@ -7,7 +7,7 @@ date: 2006
 jurisdiction: High Court of Australia
 significance: Extradition under the Extradition Act 1988 (Cth) is valid without a treaty and without a court testing the evidence, even for an Australian citizen wanted for war crimes abroad.
 core: crime.6.2, inv.5.2, inv.6.3
-support: crime.6.1, crime.3.1, hr.2.7, hr.3.1, inv.7.3
+support: crime.6.1, crime.3.1, hr.2.7, hr.3.1, inv.7.3, dis.1.5, inv.7.2
 themes: crime.t.balance, crime.t.effectiveness, crime.t.moral, inv.t.justice
 criteria: enforceability, rights, ruleoflaw, justice
 document: Cases/Crime/Vasiljkovic v Commonwealth [2006] HCA 40 - Case Summary.pdf

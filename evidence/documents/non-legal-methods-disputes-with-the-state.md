@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Australia
 significance: When a person has no standing, no money and no remedy, the routes that remain are political and public — and they are often the ones that work.
 core: dis.3.3
-support: dis.3.4, dis.3.5, dis.3.6, inv.7.2, inv.7.3, hr.2.5, hr.2.6, exp.5.5, chg.2
+support: dis.3.4, dis.3.5, dis.3.6, inv.7.2, inv.7.3, hr.2.5, hr.2.6, exp.5.5, chg.2, inv.6.7
 themes: dis.t.values, dis.t.justice
 criteria: accessibility, responsiveness, enforceability, society, justice
 related: disputes-with-the-state-review, ombudsman-and-statutory-bodies, law-in-practice-responses-and-effectiveness

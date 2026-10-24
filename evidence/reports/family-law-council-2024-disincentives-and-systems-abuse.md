@@ -7,7 +7,7 @@ date: 2024
 jurisdiction: Australia (Commonwealth)
 significance: The Council found the family law system itself can be used as a weapon, and recommended adding "systems abuse" to the statutory examples of family violence.
 core: fam.2.4, fam.2.5
-support: fam.2.2, fam.3.2, fam.3.4, fam.1.5, hr.2.9, chg.1.3, chg.2.3, dis.2.5, inv.1.4, inv.4.1, exp.4.1
+support: fam.2.2, fam.3.2, fam.3.4, fam.1.5, hr.2.9, chg.1.3, chg.2.3, dis.2.5, inv.1.4, inv.4.1, exp.4.1, inv.7.2, inv.7.3
 themes: fam.t.reform, fam.t.effectiveness, fam.t.compliance, fam.t.values
 criteria: accessibility, enforceability, responsiveness, rights, justice, society
 document: Family/disincentives-to-disclosing-family-violence-Family Law Council Report.PDF

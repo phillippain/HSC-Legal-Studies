@@ -7,7 +7,7 @@ date: 2009-12
 jurisdiction: Victoria
 significance: Convicted of rape on DNA evidence alone, freed when the sample turned out to be contaminated — the CSI effect at its worst.
 core: crime.2.3, crime.3.7, dis.1.8, dis.1.4
-support: crime.3.9, crime.3.6, crime.4.5, dis.1.5
+support: crime.3.9, crime.3.6, crime.4.5, dis.1.5, dis.1.6
 themes: crime.t.effectiveness, crime.t.balance, dis.t.effectiveness, dis.t.justice
 criteria: justice, rights, ruleoflaw
 added: 2026-10-20

@@ -7,7 +7,7 @@ date: 1995
 jurisdiction: NSW
 significance: Decides what a jury may hear: every exclusion rule trades a fuller picture for a fairer process.
 core: crime.3.7, crime.3.6
-support: crime.2.3, crime.2.6, crime.3.2, crime.3.9
+support: crime.2.3, crime.2.6, crime.3.2, crime.3.9, dis.1.4, dis.1.5, inv.4.3, dis.1.6
 themes: crime.t.balance, crime.t.reform, crime.t.effectiveness
 criteria: rights, justice, ruleoflaw
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1995-025

@@ -7,7 +7,7 @@ date: 2025
 jurisdiction: NSW (State Coroner's Court)
 significance: Seven risk-of-significant-harm reports from five different women were dismissed as malicious, the file did not follow the family between districts, and the case was closed before the child was murdered.
 core: fam.3.4
-support: fam.2.4, fam.1.5, fam.2.6, crime.1.2, crime.1.4, crime.4.3, crime.4.6, dis.3.5, dis.3.6, inv.1.4, chg.2, hr.3.1, exp.4, exp.5, exp.6
+support: fam.2.4, fam.1.5, fam.2.6, crime.1.2, crime.1.4, crime.4.3, crime.4.6, dis.3.5, dis.3.6, inv.1.4, chg.2, hr.3.1, exp.4, exp.5, exp.6, dis.1.2, dis.1.7
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform, crime.t.effectiveness, dis.t.justice
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, justice
 document: Family/Mohammed Khazma murder Toddler’s child protection case closed by DCJ before death.pdf

@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: The adversary system treats a contest between two sides as the best route to truth, which only holds while the two sides are matched.
 core: crime.3.1, crime.3.2, crime.3.3, inv.4.3
-support: crime.3.5, crime.3.9, crime.4.5, inv.1.3, dis.3.1, dis.2.5
+support: crime.3.5, crime.3.9, crime.4.5, inv.1.3, dis.3.1, dis.2.5, dis.1.5, dis.1.6
 themes: crime.t.effectiveness, crime.t.balance, crime.t.reform
 criteria: accessibility, resource, ruleoflaw, justice, rights
 document: Crime/Criminal Trial Process/3a. Court Jurisdiction, the Adversary System & Legal Personnel.docx

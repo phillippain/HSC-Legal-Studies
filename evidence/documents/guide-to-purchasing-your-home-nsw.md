@@ -7,7 +7,7 @@ date: 2000
 jurisdiction: NSW
 significance: Thirteen steps from looking at a property to settlement, including the five-day cooling off right that does not exist if you buy at auction.
 core: shel.2.1
-support: shel.2.5, shel.1.2, shel.2.4, shel.2.9, dis.2.3, dis.1.3, inv.1.4, inv.1.2, inv.3.3
+support: shel.2.5, shel.1.2, shel.2.4, shel.2.9, dis.2.3, inv.1.4, inv.1.2, inv.3.3
 themes: shel.t.effectiveness, shel.t.cooperation, shel.t.values
 criteria: accessibility, enforceability, responsiveness, rights, resource
 document: Shelter/Guidetopurchaseyourhome.pdf

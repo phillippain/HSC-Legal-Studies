@@ -7,7 +7,7 @@ date: 2026-07-06
 jurisdiction: NSW Civil and Administrative Tribunal
 significance: An employee lost every disability discrimination claim, and the Tribunal still refused to make him pay the university's $129,000 costs.
 core: hr.2.11
-support: hr.2.9, hr.2.4, hr.1.1, hr.3.1, dis.2.5, dis.2.7, dis.3.4, inv.1.4, inv.1.6, exp.4.1, exp.5.3
+support: hr.2.9, hr.2.4, hr.1.1, hr.3.1, dis.2.5, dis.2.7, dis.3.4, inv.1.4, inv.1.6, exp.4.1, exp.5.3, inv.7.3, inv.7.2, inv.6.6
 themes: hr.t.effectiveness, hr.t.values, hr.t.compliance
 criteria: accessibility, rights, resource, responsiveness, enforceability, justice
 document: Cases/Human Rights/Hallmann_v_SCU_human_rights_summary.pdf

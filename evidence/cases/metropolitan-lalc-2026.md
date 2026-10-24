@@ -7,7 +7,7 @@ date: 2026-08-05
 jurisdiction: Federal Court of Australia — Raper J
 significance: A Land Council owned eight tennis courts in suburban Sydney and had to ask a court to prove native title does not exist before it could use them.
 core: chg.5.4, chg.5.5, shel.2.1, chg.6
-support: inv.2.1, inv.2.2, dis.2.3, shel.1.4, shel.2.8, shel.3.4, exp.4, hr.3.1
+support: inv.2.1, inv.2.2, dis.2.3, shel.1.4, shel.2.8, shel.3.4, exp.4, hr.3.1, chg.5.1
 themes: chg.t.values, chg.t.justice, shel.t.effectiveness, shel.t.reform
 criteria: accessibility, resource, rights, justice
 document: Cases/Shelter/12_Metropolitan_LALC_4_v_Attorney_General_NSW_2026_FCA_1074.pdf

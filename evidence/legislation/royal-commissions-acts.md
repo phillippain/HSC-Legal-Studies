@@ -7,7 +7,7 @@ date: 1902
 jurisdiction: NSW and Commonwealth
 significance: Give a royal commission power to compel witnesses, override privilege and hold public hearings — used for child sexual abuse, aged care, disability, Robodebt and NSW's "Ice" inquiry — producing only recommendations.
 core: dis.3.5, dis.3.6
-support: dis.3.3, chg.1, chg.2, hr.2.4, hr.2.12, dis.3.2, exp.5, exp.6, fam.3.4, shel.2.4
+support: dis.3.3, chg.1, chg.2, hr.2.4, hr.2.12, dis.3.2, exp.5, exp.6, fam.3.4, shel.2.4, inv.6.6
 themes: dis.t.justice, dis.t.values
 criteria: responsiveness, accessibility, resource, enforceability, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1923-029

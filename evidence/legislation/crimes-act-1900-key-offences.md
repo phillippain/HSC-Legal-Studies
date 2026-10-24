@@ -7,7 +7,7 @@ date: 1900
 jurisdiction: NSW
 significance: The main source of serious criminal offences in NSW, and the Act Parliament amended most often between 2024 and 2026.
 core: crime.1.1, crime.1.2, crime.1.5
-support: crime.1.4, crime.1.6, crime.1.7, crime.3.8, crime.4.1
+support: crime.1.4, crime.1.6, crime.1.7, crime.3.8, crime.4.1, dis.1.1, dis.1.2, dis.1.3
 themes: crime.t.reform, crime.t.moral, crime.t.balance
 criteria: enforceability, responsiveness, rights, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1900-040

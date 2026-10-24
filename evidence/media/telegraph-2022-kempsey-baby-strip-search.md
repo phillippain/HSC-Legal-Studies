@@ -7,7 +7,7 @@ date: 2022-03-27
 jurisdiction: NSW
 significance: An allegation that a baby was strip searched before a jail visit shows how far strip search practice drifted from the law written to protect children.
 core: crime.2.3
-support: crime.5.2, hr.2.10, exp.2.3
+support: crime.5.2, hr.2.10, exp.2.3, inv.7.2, inv.7.3
 themes: crime.t.compliance, crime.t.discretion
 criteria: rights, enforceability
 added: 2026-10-20

@@ -7,7 +7,7 @@ date: 2024-03-13
 jurisdiction: High Court of Australia (appeal from the Victorian Court of Appeal)
 significance: Duress needs a threat of serious harm, but the threat can be "left unsaid" — years of family violence and coercive control can supply it, and then the Crown must disprove the defence.
 core: crime.3.8, fam.2.4
-support: crime.3.6, crime.3.7, crime.1.8, crime.1.7, fam.3.4, chg.1, exp.4
+support: crime.3.6, crime.3.7, crime.1.8, crime.1.7, fam.3.4, chg.1, exp.4, dis.1.4
 themes: crime.t.moral, crime.t.balance, crime.t.reform, fam.t.values
 criteria: justice, rights, responsiveness, society
 document: Cases/Crime/The King v Rowan [2024] HCA 9 - Case Summary.pdf

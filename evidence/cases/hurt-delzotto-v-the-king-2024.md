@@ -7,7 +7,7 @@ date: 2024-03-13
 jurisdiction: High Court of Australia (appeals from the ACT Court of Appeal and the NSW Court of Criminal Appeal)
 significance: A four-year mandatory minimum for repeat child sexual abuse offenders is not just a floor: it is Parliament's yardstick for the least worst case, informing the whole range.
 core: crime.4.1
-support: crime.4.3, crime.4.5, crime.4.6, crime.6.1, inv.3.3, inv.4.4, chg.1
+support: crime.4.3, crime.4.5, crime.4.6, crime.6.1, inv.3.3, inv.4.4, chg.1, dis.1.7
 themes: crime.t.discretion, crime.t.reform, crime.t.balance
 criteria: justice, enforceability, ruleoflaw, society
 document: Cases/Crime/Hurt v The King; Delzotto v The King [2024] HCA 8 - Case Summary.pdf

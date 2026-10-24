@@ -7,7 +7,7 @@ date: 2025
 jurisdiction: NSW
 significance: Recorded crime figures move with reporting and policing, so BOCSAR publishes five other measures — and on all of them NSW domestic violence has been flat or slightly down since 2018.
 core: fam.2.4
-support: fam.2.5, fam.2.6, crime.1.8, crime.2.5, crime.4.6, hr.3.1, inv.1.2, dis.3.5, exp.4.2, chg.1.1
+support: fam.2.5, fam.2.6, crime.1.8, crime.2.5, crime.4.6, hr.3.1, inv.1.2, dis.3.5, exp.4.2, chg.1.1, dis.1.7
 themes: fam.t.effectiveness, fam.t.reform, crime.t.effectiveness, fam.t.values
 criteria: responsiveness, enforceability, resource, society, justice
 document: Family/Domestic violence community prevalence measures BOCSAR.pdf

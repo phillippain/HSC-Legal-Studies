@@ -7,7 +7,7 @@ date: 1987-07-01
 jurisdiction: High Court of Australia — Mason CJ; Wilson, Dawson and Toohey JJ (joint); Brennan, Deane and Gaudron JJ
 significance: Self-defence asks one question — did the accused believe on reasonable grounds that it was necessary to do what he did? — and the Crown must disprove it beyond reasonable doubt.
 core: crime.3.8, crime.3.6
-support: crime.3.2, crime.3.9, crime.1.2, crime.4.5, inv.3.1, inv.3.2, inv.5.4, chg.3
+support: crime.3.2, crime.3.9, crime.1.2, crime.4.5, inv.3.1, inv.3.2, inv.5.4, chg.3, dis.1.4, dis.1.5, inv.4.3, dis.1.6, dis.1.2
 themes: crime.t.balance, crime.t.moral, crime.t.reform
 criteria: justice, rights, ruleoflaw, society
 document: Cases/Crime/Zecevic v DPP (Vic) (1987) 162 CLR 645 - Case Summary.pdf

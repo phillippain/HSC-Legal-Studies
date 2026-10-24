@@ -7,7 +7,7 @@ date: 2023-06-01
 jurisdiction: Federal Court of Australia
 significance: A civil defamation judgment that found murders of Afghan prisoners substantially true on the balance of probabilities; no criminal charge was decided.
 core: crime.6.1, dis.2.4, dis.2.1
-support: crime.6.2, crime.3.1, crime.3.5, hr.3.1, dis.1.4, dis.2.3
+support: crime.6.2, crime.3.1, crime.3.5, hr.3.1, dis.1.4, dis.2.3, dis.1.5, dis.2.6
 themes: crime.t.moral, crime.t.effectiveness, crime.t.balance, dis.t.justice
 criteria: justice, ruleoflaw, enforceability
 document: Cases/Crime/Roberts-Smith v Fairfax Media (No 41) [2023] FCA 555 - Case Summary.pdf

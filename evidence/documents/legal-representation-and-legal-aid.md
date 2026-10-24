@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW
 significance: Legal aid rations access by means, merits and jurisdiction, so the right to a fair trial is real only for those the tests happen to catch.
 core: crime.3.5, crime.3.6
-support: crime.2.5, crime.3.2, crime.3.9, inv.1.4, inv.4.3, inv.7.2, inv.7.3
+support: crime.2.5, crime.3.2, crime.3.9, inv.1.4, inv.4.3, inv.7.2, inv.7.3, dis.1.5, dis.1.4, dis.1.6
 themes: crime.t.balance, crime.t.effectiveness, crime.t.reform
 criteria: accessibility, resource, rights, ruleoflaw, justice
 document: Crime/Criminal Trial Process/3c. Legal representation & Standard and burden of Proof.docx

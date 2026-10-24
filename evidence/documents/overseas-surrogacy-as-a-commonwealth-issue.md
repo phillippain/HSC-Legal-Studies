@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Australia (Commonwealth and states)
 significance: Surrogacy is regulated by the states, but citizenship, passports and parentage are federal, so a child born abroad can be a citizen without having legally recognised parents.
 core: fam.3.3
-support: fam.1.2, fam.3.1, fam.3.2, fam.1.6, hr.2.7, hr.2.9, chg.1.3, chg.3.1, inv.6.2, inv.6.4, inv.6.6
+support: fam.1.2, fam.3.1, fam.3.2, fam.1.6, hr.2.7, hr.2.9, chg.1.3, chg.3.1, inv.6.2, inv.6.4, inv.6.6, inv.6.3, inv.7.2, inv.7.3
 themes: fam.t.reform, fam.t.effectiveness, fam.t.compliance, fam.t.values
 criteria: enforceability, accessibility, responsiveness, rights, ruleoflaw, justice
 document: Family/Surrogacy and Birth Tech/Why Surrogacy is a Cth Govt Issue .pdf

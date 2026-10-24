@@ -7,7 +7,7 @@ date: 2015
 jurisdiction: NSW
 significance: A 13-year-old was held criminally responsible because the presumption that he could not form intent was rebutted on the evidence.
 core: crime.5.1, crime.5.2
-support: crime.1.2, crime.3.6, crime.5.3, crime.5.4, hr.3.1, inv.1.4, exp.1.3, exp.2.3, exp.2.4
+support: crime.1.2, crime.3.6, crime.5.3, crime.5.4, hr.3.1, inv.1.4, exp.1.3, exp.2.3, exp.2.4, dis.1.2, dis.1.4
 themes: crime.t.moral, crime.t.balance, crime.t.discretion
 criteria: rights, ruleoflaw, society, justice
 document: Crime/Young Offenders/Young Offenders Case Studies.pdf

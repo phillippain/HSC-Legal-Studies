@@ -7,7 +7,7 @@ date: 2025-04-02
 jurisdiction: NSW
 significance: He maintained his innocence for three years and pleaded guilty on the eve of his trial, having killed her within two weeks of release and in breach of an AVO.
 core: crime.3.4
-support: crime.2.6, crime.3.1, crime.4.1, crime.4.6, fam.2.4, fam.2.5, exp.4.1, dis.3.3, inv.4.1
+support: crime.2.6, crime.3.1, crime.4.1, crime.4.6, fam.2.4, fam.2.5, exp.4.1, dis.3.3, inv.4.1, dis.1.5, dis.1.7
 themes: crime.t.effectiveness, crime.t.compliance, fam.t.effectiveness, crime.t.balance
 criteria: enforceability, responsiveness, rights, resource, justice
 document: Family/Tyrone Thompson pleads guilty to 2022 murder.pdf

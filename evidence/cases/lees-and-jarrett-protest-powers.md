@@ -7,7 +7,7 @@ date: 2026-04-16
 jurisdiction: NSW Supreme Court; NSW Court of Appeal
 significance: Two new protest restrictions in a year, and courts struck down both for burdening the implied freedom of political communication.
 core: crime.2.1, hr.2.10
-support: crime.1.5, inv.1.7, inv.3.1, inv.3.2, hr.2.4
+support: crime.1.5, inv.1.7, inv.3.1, inv.3.2, hr.2.4, inv.7.2, inv.7.3, dis.1.3, inv.6.6
 themes: crime.t.balance, crime.t.reform, crime.t.moral
 criteria: rights, ruleoflaw, responsiveness, society
 document: Cases/Crime/Jarrett v State of New South Wales [2026] NSWCA 62 - Case Summary.pdf

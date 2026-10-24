@@ -7,7 +7,7 @@ date: 2002
 jurisdiction: NSW
 significance: A former NSW DPP sets out the test a charge bargain must not compromise — the charge must adequately represent the criminality, be provable, and leave the sentencer an adequate range of penalty.
 core: crime.3.4
-support: crime.3.1, crime.3.2, crime.3.5, crime.4.1, crime.2.6, crime.1.5, dis.2.5, inv.1.4, inv.1.5, inv.4.1, exp.5.3
+support: crime.3.1, crime.3.2, crime.3.5, crime.4.1, crime.2.6, crime.1.5, dis.2.5, inv.1.4, inv.1.5, inv.4.1, exp.5.3, dis.1.5, inv.4.3, dis.1.3
 themes: crime.t.effectiveness, crime.t.discretion, crime.t.balance, crime.t.moral
 criteria: justice, accessibility, resource, enforceability, rights, ruleoflaw
 document: Crime/Charge Negotiation- Nicholas Cowdrey.docx

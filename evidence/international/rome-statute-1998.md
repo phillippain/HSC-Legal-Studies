@@ -7,7 +7,7 @@ date: 1998-07-17
 jurisdiction: International and Australia
 significance: The treaty that created a permanent court for the worst crimes, and that only works through the states that join it, arrest for it and prosecute first.
 core: crime.6.1, crime.6.2
-support: hr.2.2, hr.2.4, hr.3.1, inv.6.1, inv.6.3, inv.7.2
+support: hr.2.2, hr.2.4, hr.3.1, inv.6.1, inv.6.3, inv.7.2, inv.6.4, inv.6.6
 themes: crime.t.effectiveness, crime.t.compliance, hr.t.sovereignty
 criteria: enforceability, justice, ruleoflaw, rights, accessibility
 source: https://www.icc-cpi.int/resource-library/core-legal-texts

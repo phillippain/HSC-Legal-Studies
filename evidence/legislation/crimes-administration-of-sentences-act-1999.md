@@ -7,7 +7,7 @@ date: 1999
 jurisdiction: NSW
 significance: The Act that runs a sentence after the judge has finished: classification, protective custody, parole and, since 2022, no parole for murderers who hide the body.
 core: crime.4.8
-support: crime.4.4, crime.4.2, hr.3.1
+support: crime.4.4, crime.4.2, hr.3.1, dis.1.7
 themes: crime.t.balance, crime.t.effectiveness, crime.t.reform
 criteria: society, rights, enforceability, responsiveness
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1999-093

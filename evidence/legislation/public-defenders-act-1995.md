@@ -7,7 +7,7 @@ date: 1995
 jurisdiction: NSW
 significance: Senior barristers, independent of government, who defend legally aided people in the most serious trials and appeals.
 core: crime.3.3, crime.3.5
-support: crime.3.2
+support: crime.3.2, dis.1.6, dis.1.5, inv.4.3
 themes: crime.t.balance
 criteria: accessibility, rights, justice
 added: 2026-10-20

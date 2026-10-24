@@ -7,7 +7,7 @@ date: 2024-07-01
 jurisdiction: NSW
 significance: Australia's first coercive control offence — and the clearest available example of a law that was enacted but barely enforced.
 core: crime.1.1, crime.1.5, crime.4.1
-support: crime.1.2, crime.2.2, fam.2.4, chg.1
+support: crime.1.2, crime.2.2, fam.2.4, chg.1, dis.1.1, dis.1.3, dis.1.2
 themes: crime.t.reform, crime.t.moral, crime.t.compliance, fam.t.reform
 criteria: responsiveness, enforceability, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1900-040

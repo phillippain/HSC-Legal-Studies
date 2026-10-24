@@ -7,7 +7,7 @@ date: 2020
 jurisdiction: NSW
 significance: An adopted person in NSW can now hold a birth certificate naming both their birth family and their adoptive family, and choose which certificate to use.
 core: fam.1.6
-support: fam.1.1, fam.1.4, fam.3.2, fam.3.4, hr.2.7, hr.2.9, chg.1.3, chg.2.3, chg.6.1, inv.1.5, exp.2.1
+support: fam.1.1, fam.1.4, fam.3.2, fam.3.4, hr.2.7, hr.2.9, chg.1.3, chg.2.3, chg.6.1, inv.1.5, exp.2.1, inv.6.3, inv.7.2, inv.7.3
 themes: fam.t.reform, fam.t.values, fam.t.effectiveness, fam.t.cooperation
 criteria: rights, responsiveness, accessibility, society, justice, ruleoflaw
 document: Family/Integrated_Birth_Certificate_Fact_Sheet.pdf

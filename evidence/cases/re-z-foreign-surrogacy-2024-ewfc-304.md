@@ -7,7 +7,7 @@ date: 2024
 jurisdiction: England and Wales
 significance: A same-sex couple were told to hide their relationship from the surrogate and the embassy, and the court granted them a parental order anyway because refusing would have harmed the child.
 core: fam.3.3
-support: fam.1.4, fam.1.2, fam.3.1, fam.3.2, fam.2.2, hr.2.9, chg.1.3, inv.6.6, inv.1.4, dis.2.5
+support: fam.1.4, fam.1.2, fam.3.1, fam.3.2, fam.2.2, hr.2.9, chg.1.3, inv.6.6, inv.1.4, dis.2.5, inv.7.2, inv.7.3
 themes: fam.t.values, fam.t.effectiveness, fam.t.reform, fam.t.compliance
 criteria: accessibility, enforceability, rights, responsiveness, justice
 document: Family/Re Z Surrogacy arrangements overseas | Law Gazette.pdf

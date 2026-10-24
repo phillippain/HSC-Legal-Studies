@@ -7,7 +7,7 @@ date: 2013-10-02
 jurisdiction: High Court of Australia
 significance: A childhood of profound deprivation can reduce moral culpability, and its effect does not fade with time or repeat offending, but Aboriginality alone is not a mitigating factor.
 core: crime.4.3
-support: crime.4.2, crime.4.5, crime.4.7, crime.5.5, hr.3.1, exp.4, exp.2.4
+support: crime.4.2, crime.4.5, crime.4.7, crime.5.5, hr.3.1, exp.4, exp.2.4, dis.1.7
 themes: crime.t.balance, crime.t.discretion, crime.t.moral
 criteria: justice, rights, society
 document: Cases/Crime/Bugmy v The Queen [2013] HCA 37 - Case Summary.pdf

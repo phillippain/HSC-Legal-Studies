@@ -7,7 +7,7 @@ date: 2023-12-11
 jurisdiction: NSW
 significance: Permanency for children in care is ranked by statute with adoption fourth, and the adoption route itself is so slow that some families waited ten years or more.
 core: fam.1.6, fam.3.4
-support: fam.1.4, fam.1.5, fam.3.1, fam.3.2, hr.2.9, exp.4.2, inv.1.4, dis.3.1, chg.1.3
+support: fam.1.4, fam.1.5, fam.3.1, fam.3.2, hr.2.9, exp.4.2, inv.1.4, dis.3.1, chg.1.3, inv.7.2, inv.7.3
 themes: fam.t.effectiveness, fam.t.values, fam.t.reform, fam.t.cooperation
 criteria: accessibility, responsiveness, resource, rights, society, justice
 document: Family/LSJ - The care of children a legacy of complexity.pdf

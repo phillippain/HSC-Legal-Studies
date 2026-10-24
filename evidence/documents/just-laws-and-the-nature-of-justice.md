@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Australia
 significance: A law can be validly made and still be unjust, which is why the syllabus asks for characteristics of just laws separately from the rule of law.
 core: inv.1.2, inv.1.4
-support: inv.1.5, inv.1.6, inv.1.7, inv.1.8, inv.7.2, inv.7.3, exp.6, crime.3.5
+support: inv.1.5, inv.1.6, inv.1.7, inv.1.8, inv.7.2, inv.7.3, exp.6, crime.3.5, dis.1.5
 themes: inv.t.justice, inv.t.values
 criteria: justice, rights, accessibility, ruleoflaw, society
 related: basic-legal-concepts, kioa-v-west-1985, dietrich-v-the-queen-1992

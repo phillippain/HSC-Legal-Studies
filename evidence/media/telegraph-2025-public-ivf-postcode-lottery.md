@@ -7,7 +7,7 @@ date: 2025-05-08
 jurisdiction: Australia (all states and territories)
 significance: IVF is free in some states and unavailable publicly in others, and about 4,210 people a year are now approved to withdraw super to pay for it.
 core: fam.3.3
-support: fam.3.1, fam.3.2, fam.1.1, hr.2.9, shel.1.3, chg.1.3, inv.1.4, dis.3.2, exp.4.2, exp.6.2
+support: fam.3.1, fam.3.2, fam.1.1, hr.2.9, shel.1.3, chg.1.3, inv.1.4, dis.3.2, exp.4.2, exp.6.2, inv.7.2, inv.7.3
 themes: fam.t.effectiveness, fam.t.values, fam.t.reform, fam.t.cooperation
 criteria: accessibility, resource, responsiveness, rights, society, justice
 document: Family/Where public, affordable IVF is available in Australia | Daily Telegraph.pdf

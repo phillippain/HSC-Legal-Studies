@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: NSW and Commonwealth
 significance: 27% of renters report discrimination when applying for housing, and 32% of Aboriginal and Torres Strait Islander renters do.
 core: shel.3.2
-support: shel.2.2, shel.2.3, shel.2.9, shel.1.2, hr.2.9, hr.2.4, dis.3.5, dis.3.6, exp.4
+support: shel.2.2, shel.2.3, shel.2.9, shel.1.2, hr.2.9, hr.2.4, dis.3.5, dis.3.6, exp.4, inv.7.2, inv.7.3, inv.6.6
 themes: shel.t.values, shel.t.compliance, shel.t.effectiveness, hr.t.compliance
 criteria: rights, enforceability, accessibility, justice
 document: Shelter/Discrimination Evidence Sheet.pdf

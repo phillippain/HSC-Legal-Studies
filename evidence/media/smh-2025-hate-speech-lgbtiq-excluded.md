@@ -7,7 +7,7 @@ date: 2025-02-06
 jurisdiction: NSW
 significance: Faced with antisemitic attacks, the Premier criminalised incitement to racial hatred only, leaving faith groups and LGBTIQ+ people out because wholesale reform would have taken too long.
 core: hr.3.1, hr.2.9
-support: hr.2.12, hr.2.13, hr.2.14, hr.1.1, hr.1.2, hr.2.11, crime.1.5, crime.1.9, chg.1.1, chg.1.6, chg.2.2, chg.3.1, chg.3.2, chg.4.2, inv.7.1, inv.7.4, dis.3.2
+support: hr.2.12, hr.2.13, hr.2.14, hr.1.1, hr.1.2, hr.2.11, crime.1.5, crime.1.9, chg.1.1, chg.1.6, chg.2.2, chg.3.1, chg.3.2, chg.4.2, inv.7.1, inv.7.4, dis.3.2, inv.7.2, inv.7.3, dis.1.3
 themes: hr.t.values, hr.t.reform, hr.t.effectiveness, hr.t.compliance, chg.t.values, chg.t.effectiveness
 criteria: accessibility, enforceability, responsiveness, rights, society, justice
 document: News Articles/Human Rights/Hate speech laws: NSW Labor’s ‘cruel’ new laws do not protect LGBTIQ community.pdf

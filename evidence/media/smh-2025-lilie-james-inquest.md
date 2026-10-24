@@ -7,7 +7,7 @@ date: 2025-03-22
 jurisdiction: NSW
 significance: An inquest put the names "coercive control, technology-facilitated abuse and stalking" to behaviour that friends and family had read, at the time, as devotion.
 core: fam.2.4
-support: fam.2.5, fam.2.6, fam.2.7, crime.1.8, crime.2.4, crime.3.9, exp.1.2, exp.3.2, dis.3.3, dis.3.6, inv.1.5
+support: fam.2.5, fam.2.6, fam.2.7, crime.1.8, crime.2.4, crime.3.9, exp.1.2, exp.3.2, dis.3.3, dis.3.6, inv.1.5, dis.1.6
 themes: fam.t.effectiveness, fam.t.values, fam.t.reform, fam.t.compliance
 criteria: responsiveness, enforceability, accessibility, rights, society, justice
 document: News Articles/Family/‘This is a man who couldn’t cope’- Experts grapple with murder of Lilie James.pdf

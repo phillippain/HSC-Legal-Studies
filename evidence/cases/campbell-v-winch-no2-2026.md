@@ -7,7 +7,7 @@ date: 2026-10-23
 jurisdiction: Supreme Court of NSW (prosecutor's appeal on a question of law from the Local Court)
 significance: A landowner privately prosecuted two neighbours for a $550 trespass offence and lost on appeal — a yellow painted line does not make land "inclosed", and the private prosecutor pays the costs.
 core: crime.1.6, crime.4.5
-support: crime.1.1, crime.2.4, crime.3.2, crime.3.3, dis.1.5, inv.1.4, shel.1.4, shel.2.4
+support: crime.1.1, crime.2.4, crime.3.2, crime.3.3, dis.1.5, inv.1.4, shel.1.4, shel.2.4, dis.1.3, dis.1.1, inv.4.3, dis.1.6
 themes: crime.t.discretion, crime.t.balance
 criteria: justice, accessibility, ruleoflaw, resource
 document: Cases/Crime/Campbell v Winch (No 2) [2026] NSWSC 1319 - Evidence Summary.pdf

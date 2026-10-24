@@ -7,7 +7,7 @@ date: 2025-03-31
 jurisdiction: NSW
 significance: A mother was refused bail on three attempted murder charges over her own children, and police took out an interim ADVO to protect her husband.
 core: fam.2.4
-support: fam.3.4, fam.2.5, crime.2.6, crime.3.1, crime.4.7, exp.4.1, exp.5.3, dis.3.3, inv.4.2
+support: fam.3.4, fam.2.5, crime.2.6, crime.3.1, crime.4.7, exp.4.1, exp.5.3, dis.3.3, inv.4.2, dis.1.5
 themes: fam.t.values, fam.t.effectiveness, fam.t.compliance
 criteria: enforceability, rights, responsiveness, accessibility, justice
 document: Family/Baulkham Hills stabbing Mother charged, three children hurt in Sydney’s Hills District.pdf

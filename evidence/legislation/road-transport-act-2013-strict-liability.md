@@ -7,7 +7,7 @@ date: 2013
 jurisdiction: NSW
 significance: The everyday home of strict liability — speeding, drink-driving, drug presence, phone use — where the prosecution proves only the act and the only answer is honest and reasonable mistake; or none at all.
 core: crime.1.3, crime.1.2
-support: crime.1.5, crime.1.6, crime.2.1, crime.2.6, crime.3.1, crime.4.2, chg.1.3, chg.6.1, inv.1.3, dis.3.1
+support: crime.1.5, crime.1.6, crime.2.1, crime.2.6, crime.3.1, crime.4.2, chg.1.3, chg.6.1, inv.1.3, dis.3.1, dis.1.3, dis.1.2, dis.1.5, dis.1.7
 themes: crime.t.balance, crime.t.effectiveness, crime.t.compliance, crime.t.moral
 criteria: enforceability, rights, resource, society, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2013-018

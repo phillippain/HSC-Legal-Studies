@@ -7,7 +7,7 @@ date: 2023-05
 jurisdiction: Global / Australia
 significance: An estimated 50 million people live in modern slavery worldwide, 41,000 of them in Australia, while G20 countries import US$468 billion of goods at risk of being made by forced labour.
 core: hr.3.1
-support: hr.1.1, hr.2.3, hr.2.5, hr.2.9, hr.2.12, crime.6.1, crime.6.2, inv.6.5, exp.4.1, dis.3.3
+support: hr.1.1, hr.2.3, hr.2.5, hr.2.9, hr.2.12, crime.6.1, crime.6.2, inv.6.5, exp.4.1, dis.3.3, inv.6.7, inv.7.2, inv.7.3
 themes: hr.t.effectiveness, hr.t.sovereignty, hr.t.values, hr.t.reform
 criteria: society, enforceability, responsiveness, rights, resource, justice
 document: Human Rights/Global-Slavery-Index-2023.pdf

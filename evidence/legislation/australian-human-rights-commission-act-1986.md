@@ -7,7 +7,7 @@ date: 1986
 jurisdiction: Commonwealth
 significance: Creates the AHRC — which conciliates discrimination complaints before court, investigates Commonwealth breaches of the ICCPR, inquires, reports and educates — with recommendations it cannot enforce.
 core: hr.2.9, hr.2.4, dis.3.5, dis.3.6
-support: hr.2.7, hr.2.11, hr.2.12, hr.3.1, dis.3.4, inv.7.4, inv.6.3, inv.7.2, exp.5, exp.6, shel.3.2
+support: hr.2.7, hr.2.11, hr.2.12, hr.3.1, dis.3.4, inv.7.4, inv.6.3, inv.7.2, exp.5, exp.6, shel.3.2, inv.7.3, inv.6.6
 themes: hr.t.effectiveness, hr.t.compliance, hr.t.values, dis.t.justice
 criteria: accessibility, enforceability, responsiveness, rights, justice
 source: https://www.legislation.gov.au/C2004A03366/latest/text

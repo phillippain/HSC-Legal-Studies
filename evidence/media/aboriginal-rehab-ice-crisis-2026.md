@@ -7,7 +7,7 @@ date: 2026-10-17
 jurisdiction: Victoria, NSW and national
 significance: Six of about a dozen residents at a 12-bed Aboriginal youth rehab are there on bail, so a community-controlled service is doing the work of remand — when a bed is free.
 core: crime.4.7, crime.2.5, crime.1.9
-support: crime.4.2, crime.4.3, crime.4.6, crime.4.8, crime.5.4, crime.5.5, crime.1.8, inv.2.1, inv.2.2, chg.2, hr.3.1, exp.4, exp.5, exp.5.5, exp.6, exp.2.4
+support: crime.4.2, crime.4.3, crime.4.6, crime.4.8, crime.5.4, crime.5.5, crime.1.8, inv.2.1, inv.2.2, chg.2, hr.3.1, exp.4, exp.5, exp.5.5, exp.6, exp.2.4, dis.1.7
 themes: crime.t.effectiveness, crime.t.balance, crime.t.reform, crime.t.discretion, inv.t.values, inv.t.justice
 criteria: resource, accessibility, responsiveness, rights, society, justice
 document: Crime/Aboriginal-run rehab as an alternative to custody (Evidence summary 19Oct26).pdf

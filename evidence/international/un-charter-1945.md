@@ -7,7 +7,7 @@ date: 1945-10-24
 jurisdiction: International
 significance: The treaty that creates the UN and its organs, commits members to human rights (arts 55–56) and in art 2(7) forbids intervention in a state's domestic jurisdiction: sovereignty and human rights in one document.
 core: hr.2.2, hr.2.1, hr.2.3, inv.6.4, inv.6.6, inv.6.7
-support: hr.1.2, hr.1.3, hr.2.7, inv.6.2, inv.6.1, inv.6.3, inv.7.2, chg.3, crime.6.2
+support: hr.1.2, hr.1.3, hr.2.7, inv.6.2, inv.6.1, inv.6.3, inv.7.2, chg.3, crime.6.2, inv.6.5
 themes: hr.t.sovereignty, hr.t.effectiveness, hr.t.compliance, inv.t.justice
 criteria: enforceability, rights, responsiveness, ruleoflaw
 source: https://www.un.org/en/about-us/un-charter/full-text

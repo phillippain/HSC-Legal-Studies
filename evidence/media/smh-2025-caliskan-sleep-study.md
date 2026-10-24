@@ -7,7 +7,7 @@ date: 2025-02-05
 jurisdiction: Victoria
 significance: A murder prosecution ended after a sleep study supported a sleepwalking defence — automatism in practice.
 core: crime.3.8
-support: crime.1.2, crime.3.7
+support: crime.1.2, crime.3.7, dis.1.2
 themes: crime.t.moral, crime.t.effectiveness
 criteria: justice, rights
 document: Crime/Media/Prosecutors drop murder charge against woman after sleep study.pdf

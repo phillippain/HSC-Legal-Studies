@@ -7,7 +7,7 @@ date: 2026-08-05
 jurisdiction: NSW Civil and Administrative Tribunal
 significance: A man automatically disqualified by a 2002 guilty plea rebutted the presumption that he is a risk to children, and was granted a clearance so he could help at his son's football club.
 core: fam.3.4
-support: crime.3.5, crime.4.4, fam.1.5, dis.2.5, dis.2.7, inv.1.4, inv.4.1, exp.2.3, exp.5.3
+support: crime.3.5, crime.4.4, fam.1.5, dis.2.5, dis.2.7, inv.1.4, inv.4.1, exp.2.3, exp.5.3, dis.1.5
 themes: fam.t.values, fam.t.effectiveness, fam.t.compliance, fam.t.reform
 criteria: rights, accessibility, responsiveness, enforceability, justice
 document: Cases/Family/HCV v Children’s Guardian - NSW Caselaw.pdf

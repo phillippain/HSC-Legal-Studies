@@ -7,7 +7,7 @@ date: 1988
 jurisdiction: Australia (Commonwealth)
 significance: Extradition lets Australia reach offenders abroad and protects the person sent, but it needs a treaty, dual criminality and years.
 core: crime.6.2
-support: crime.3.1, hr.2.4, inv.6.1
+support: crime.3.1, hr.2.4, inv.6.1, dis.1.5, inv.6.6
 themes: crime.t.balance, crime.t.compliance, crime.t.effectiveness
 criteria: rights, enforceability, resource, justice
 source: https://www.legislation.gov.au/C2004A03712/latest

@@ -7,7 +7,7 @@ date: 2026-09-09
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Schonell J, Sydney
 significance: Risk is assessed, not proved — a father whose own admissions established family violence gets four supervised hours a year, because supervision turns an unacceptable risk into an acceptable one.
 core: fam.2.4, fam.1.5, fam.3.2
-support: fam.2.2, fam.2.5, fam.3.4, crime.3.6, crime.3.7, hr.3.1, inv.1.6, dis.1.5, dis.2.5, exp.4, exp.5, exp.6
+support: fam.2.2, fam.2.5, fam.3.4, crime.3.6, crime.3.7, hr.3.1, inv.1.6, dis.1.5, dis.2.5, exp.4, exp.5, exp.6, dis.1.4
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.values, fam.t.cooperation
 criteria: rights, enforceability, justice, responsiveness, resource
 document: Cases/Family/Murali & Murali (No 2) [2026] FedCFamC1F 604 - Case Summary.pdf

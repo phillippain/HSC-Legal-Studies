@@ -7,7 +7,7 @@ date: 2018-11-23
 jurisdiction: NSW Court of Criminal Appeal (Crown appeal)
 significance: The Crown won its appeal and the sentence more than doubled, but the offender still served it in the community, because under the new ICO law community safety is the paramount consideration.
 core: crime.4.6, crime.4.7
-support: crime.4.1, crime.4.2, crime.4.5, crime.4.8, chg.1
+support: crime.4.1, crime.4.2, crime.4.5, crime.4.8, chg.1, dis.1.7
 themes: crime.t.reform, crime.t.effectiveness, crime.t.balance
 criteria: society, justice, resource, responsiveness
 document: Cases/Crime/R v Pullen [2018] NSWCCA 264 - Case Summary.pdf

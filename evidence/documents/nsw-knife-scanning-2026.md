@@ -7,7 +7,7 @@ date: 2026-10-14
 jurisdiction: NSW
 significance: A suspicionless search power created as a trial with a sunset clause has been made permanent and widened, with the same-sex scanning safeguard removed and no evidence it reduces crime.
 core: crime.2.1, crime.2.3, crime.1.9
-support: crime.2.4, crime.4.6, crime.5.5, chg.1, chg.2, chg.3, inv.1.6, inv.1.7, inv.7.1, dis.3.2, chg.2.1, exp.5, exp.6, exp.2.4
+support: crime.2.4, crime.4.6, crime.5.5, chg.1, chg.2, chg.3, inv.1.6, inv.1.7, inv.7.1, dis.3.2, chg.2.1, exp.5, exp.6, exp.2.4, dis.1.7
 themes: crime.t.discretion, crime.t.balance, crime.t.reform, crime.t.effectiveness, chg.t.justice, chg.t.effectiveness
 criteria: resource, enforceability, responsiveness, rights, society, ruleoflaw, justice
 document: Crime/NSW permanent knife scanning powers (Evidence summary 16Oct26).pdf

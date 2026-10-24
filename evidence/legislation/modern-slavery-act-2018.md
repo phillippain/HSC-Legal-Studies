@@ -7,7 +7,7 @@ date: 2018
 jurisdiction: Commonwealth
 significance: The Act requires a statement and imposes no penalty for a bad one — the 2026 proposal would make failing to prevent slavery in a supply chain a corporate crime.
 core: hr.2.9, hr.3.1
-support: crime.6.2, crime.1.2, crime.1.3, crime.1.5, chg.1, chg.3, exp.5, exp.6
+support: crime.6.2, crime.1.2, crime.1.3, crime.1.5, chg.1, chg.3, exp.5, exp.6, inv.7.2, inv.7.3, dis.1.2, dis.1.3
 themes: crime.t.reform, crime.t.compliance, crime.t.effectiveness
 criteria: enforceability, responsiveness, society, rights, justice
 document: Human Rights/12LS 2026 Proposed Changes to Australian Modern Slavery Protections.pdf

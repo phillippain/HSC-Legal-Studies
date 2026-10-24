@@ -7,7 +7,7 @@ date: 2008-08-28
 jurisdiction: High Court of Australia
 significance: Slavery under the Criminal Code does not need chattel slavery: owning a licensed brothel was no shield, and the Commonwealth's Division 270 offences were upheld.
 core: crime.6.1, inv.6.3, dis.1.1
-support: crime.6.2, crime.1.5, crime.1.2, hr.2.7, hr.3.1, inv.7.2, inv.3.3
+support: crime.6.2, crime.1.5, crime.1.2, hr.2.7, hr.3.1, inv.7.2, inv.3.3, dis.1.3, dis.1.2
 themes: crime.t.moral, crime.t.effectiveness, crime.t.reform, inv.t.justice
 criteria: justice, rights, enforceability
 document: Cases/Crime/The Queen v Tang [2008] HCA 39 - Case Summary.pdf

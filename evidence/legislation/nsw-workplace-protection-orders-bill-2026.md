@@ -7,7 +7,7 @@ date: 2026-10-20
 jurisdiction: NSW; comparable schemes in the ACT, SA, Victoria, WA and the Commonwealth
 significance: The APVO model is borrowed for shops: an employer or union, not just the victim or police, could get a civil order that a 14-year-old can breach into a criminal record.
 core: crime.1.9, crime.4.6, chg.1
-support: crime.1.5, crime.2.1, crime.2.2, crime.4.2, crime.5.4, fam.2.4, chg.2, chg.3, inv.3.3, inv.4.4, inv.7.1, chg.2.1, exp.5, exp.6, exp.2.4
+support: crime.1.5, crime.2.1, crime.2.2, crime.4.2, crime.5.4, fam.2.4, chg.2, chg.3, inv.3.3, inv.4.4, inv.7.1, chg.2.1, exp.5, exp.6, exp.2.4, dis.1.7, dis.1.3
 themes: crime.t.reform, crime.t.balance, crime.t.effectiveness, crime.t.compliance, chg.t.values
 criteria: enforceability, responsiveness, rights, society, resource
 document: Crime/NSW Workplace Protection Orders bill (Evidence summary 22Oct26).pdf

@@ -7,7 +7,7 @@ date: 2026-10-17
 jurisdiction: Baja California, Mexico (comparative with NSW)
 significance: Three men got 158 years nine months each in a judge-only oral trial, in a country where about 97% of intentional homicides go unpunished — so the sentence says less about severity than about rarity.
 core: crime.4.1, crime.3.2, crime.4.4
-support: crime.3.1, crime.3.9, crime.3.4, crime.4.2, crime.4.3, crime.4.5, crime.4.6, crime.6.2, inv.1.3, inv.1.4, inv.6.2, exp.5, exp.6
+support: crime.3.1, crime.3.9, crime.3.4, crime.4.2, crime.4.3, crime.4.5, crime.4.6, crime.6.2, inv.1.3, inv.1.4, inv.6.2, exp.5, exp.6, dis.1.5, inv.4.3, dis.1.6, dis.1.7
 themes: crime.t.effectiveness, crime.t.balance, crime.t.moral, inv.t.justice
 criteria: accessibility, enforceability, responsiveness, rights, ruleoflaw, justice
 document: Crime/Sentencing and Punishment/Robinson brothers Mexico sentencing - comparative (Evidence summary 19Oct26).pdf

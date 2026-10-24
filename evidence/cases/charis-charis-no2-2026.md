@@ -7,7 +7,7 @@ date: 2026-08-27
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Harper J, Sydney
 significance: A property order is only worth the tools behind it — ten months, $67 million owing and not a dollar paid, so the Court made his former wife trustee to sell his assets and held his passports.
 core: fam.2.3, fam.2.5, fam.2.2
-support: fam.1.1, fam.1.5, fam.3.2, hr.3.1, hr.2.11, shel.1.1, shel.2.1, inv.4.1, inv.1.7, dis.1.8, dis.2.8, exp.5, exp.6
+support: fam.1.1, fam.1.5, fam.3.2, hr.3.1, hr.2.11, shel.1.1, shel.2.1, inv.4.1, inv.1.7, dis.1.8, dis.2.8, exp.5, exp.6, inv.7.3
 themes: fam.t.compliance, fam.t.effectiveness, fam.t.cooperation, inv.t.justice
 criteria: enforceability, responsiveness, rights, resource, justice
 document: Cases/Family/Charis & Charis (No 2) [2026] FedCFamC1F 572 - Case Summary.pdf

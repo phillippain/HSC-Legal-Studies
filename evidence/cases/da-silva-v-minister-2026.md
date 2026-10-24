@@ -7,7 +7,7 @@ date: 2026-08-31
 jurisdiction: Federal Court of Australia — Thawley J
 significance: A power that switches off natural justice, allows no merits review, and was still quashed — because the Minister assumed nothing had changed in five and a half years.
 core: hr.2.4, hr.3.1, inv.5.3
-support: hr.2.7, hr.2.9, hr.2.14, dis.3.4, dis.3.5, dis.3.6, inv.3.4, inv.5.4, inv.1.6, crime.4.8, fam.1.5, dis.3.2, hr.2.6, hr.2.13, dis.3.3
+support: hr.2.7, hr.2.9, hr.2.14, dis.3.4, dis.3.5, dis.3.6, inv.3.4, inv.5.4, inv.1.6, crime.4.8, fam.1.5, dis.3.2, hr.2.6, hr.2.13, dis.3.3, inv.6.6, inv.6.3, inv.7.2, inv.7.3
 themes: hr.t.compliance, hr.t.sovereignty, inv.t.justice
 criteria: rights, ruleoflaw, accessibility, responsiveness, justice
 document: Jade Cases/Completed Case Summaries/Da Silva v Minister Case Summary.pdf

@@ -7,7 +7,7 @@ date: 2026-07-31
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Brasch J
 significance: Two children living in Australia on their mother's student visa, but habitually resident overseas — so an Australian court declined jurisdiction and left the case to Pakistan.
 core: fam.1.2, fam.2.5, inv.4.1, inv.6.3
-support: fam.1.3, fam.3.2, fam.3.4, hr.2.1, hr.2.3, hr.3.1, shel.3.1, dis.2.5, exp.2.1
+support: fam.1.3, fam.3.2, fam.3.4, hr.2.1, hr.2.3, hr.3.1, shel.3.1, dis.2.5, exp.2.1, inv.6.2, inv.6.5
 themes: fam.t.effectiveness, fam.t.reform, hr.t.sovereignty, hr.t.compliance, dis.t.effectiveness, inv.t.effectiveness
 criteria: enforceability, accessibility, rights, justice
 document: Cases/Family/Kurbonova & Hennigsen [2026] FedCFamC1F 520 - Case Summary.pdf

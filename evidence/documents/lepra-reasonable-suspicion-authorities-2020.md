@@ -7,7 +7,7 @@ date: 2020-01
 jurisdiction: NSW
 significance: Thirteen decisions on what does and does not amount to reasonable suspicion for a stop and search, with the facts each court actually relied on — the test from R v Rondo applied over nearly thirty years.
 core: crime.2.1, crime.2.3
-support: crime.2.4, crime.3.7, crime.3.6, inv.1.6, inv.1.7, inv.3.1, inv.3.2, inv.7.2, inv.7.3, dis.3.2, exp.5, exp.6
+support: crime.2.4, crime.3.7, crime.3.6, inv.1.6, inv.1.7, inv.3.1, inv.3.2, inv.7.2, inv.7.3, dis.3.2, exp.5, exp.6, dis.1.4
 themes: crime.t.discretion, crime.t.compliance, crime.t.effectiveness, inv.t.justice
 criteria: accessibility, enforceability, rights, ruleoflaw, justice
 document: Crime/Table-of-Authorities-for-Reasonable-Suspicion-to-Stop-and-Search-under-Sections-21-36-LEPRA.pdf
