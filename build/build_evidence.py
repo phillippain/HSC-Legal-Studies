@@ -66,7 +66,7 @@ for k, t in syl["topics"].items():
 # the evidence that has been written up and the files still sitting behind it.
 # A file a record already summarises is dropped: the record supersedes it.
 library, libroot = [], ""
-claimed = {r["document"] for r in recs if r.get("document")}
+claimed = {r["document"] for r in recs if r.get("document")} | {r["document11"] for r in recs if r.get("document11")}
 
 # A second copy of a document a record already covers — the raw judgment beside the
 # case card, say — is recognised by its citation rather than its filename, and is
@@ -232,6 +232,7 @@ for r in recs:
         "criteria": r["criteria"], "related": r["related"],
         "source": r.get("source", ""), "file": r["file"],
         "doc": r.get("document", ""),
+        "doc11": r.get("document11", ""),
         "qn": qcount(r["core"]),
         "body": md.render(r["body"]),
     })

@@ -1302,6 +1302,8 @@ function card(it){
   h += '<div class="ev-foot">';
   if (it.doc) h += '<a href="' + esc(fileUrl(it.doc)) + '" target="_blank" rel="noopener" title="' +
        esc(it.doc) + '"><svg class="ic"><use href="#g-doc"/></svg> Open the document</a>';
+  if (it.doc11) h += '<a href="' + esc(fileUrl(it.doc11)) + '" target="_blank" rel="noopener" title="' +
+       esc(it.doc11) + '"><svg class="ic"><use href="#g-doc"/></svg> Year 11 summary</a>';
   if (it.source) h += '<a href="' + esc(it.source) + '" target="_blank" rel="noopener"><svg class="ic"><use href="#g-eye"/></svg> Source</a>';
   h += questionLinks(it);
   if (it.related.length) h += "<span>See also " + it.related.map(r => {

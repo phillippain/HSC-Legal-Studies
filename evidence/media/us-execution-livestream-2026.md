@@ -7,7 +7,7 @@ date: 2026-10-16
 jurisdiction: United States (Army court-martial, Department of Defense); Australia (eSafety Commissioner, federal government)
 significance: Australia has banned the death penalty everywhere and lobbies against it abroad, but when an ally planned to broadcast an execution the eSafety Commissioner said she had no power to stop Australians watching.
 core: hr.3.1, hr.2.1, hr.2.9
-support: hr.1.1, hr.1.3, hr.2.2, hr.2.5, hr.2.6, hr.2.7, hr.2.12, hr.2.13, crime.4.6, crime.4.2, chg.1.3, chg.6.1, chg.6.5, inv.6.2, inv.6.3, inv.7.2
+support: hr.1.1, hr.1.3, hr.2.2, hr.2.5, hr.2.6, hr.2.7, hr.2.12, hr.2.13, crime.4.6, crime.4.2, chg.1.3, chg.6.1, inv.7.4, inv.6.2, inv.6.3, inv.7.2
 themes: hr.t.sovereignty, hr.t.values, hr.t.compliance, hr.t.effectiveness, chg.t.values
 criteria: enforceability, rights, society, ruleoflaw, responsiveness
 document: Human Rights/US execution livestream and the death penalty (Evidence summary 20Oct26).pdf

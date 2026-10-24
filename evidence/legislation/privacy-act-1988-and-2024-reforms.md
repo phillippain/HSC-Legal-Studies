@@ -7,7 +7,7 @@ date: 1988
 jurisdiction: Commonwealth (and NSW public sector)
 significance: Thirteen Australian Privacy Principles bind agencies and businesses over $3 million, with penalties to $50 million — and from June 2025 a statutory tort lets an individual sue for serious invasion of privacy.
 core: chg.1.3, chg.6.1, chg.6
-support: inv.7.2, inv.7.3, inv.7.1, dis.3.5, dis.3.6, chg.6.5, hr.2.9, hr.2.10, chg.1, chg.2, exp.5, exp.6
+support: inv.7.2, inv.7.3, inv.7.1, dis.3.5, dis.3.6, inv.7.4, hr.2.9, hr.2.10, chg.1, chg.2, exp.5, exp.6
 themes: chg.t.values, chg.t.justice, chg.t.effectiveness
 criteria: rights, enforceability, accessibility, responsiveness, society
 source: https://www.legislation.gov.au/C2004A03712/latest/text

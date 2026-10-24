@@ -38,7 +38,7 @@ CRITERIA = {
 REQUIRED = ["type", "title", "significance", "core"]
 LISTS = ["core", "support", "themes", "criteria", "related"]
 KNOWN = set(REQUIRED + LISTS + ["short", "citation", "date", "jurisdiction",
-                                "source", "added", "status", "document"])
+                                "source", "added", "status", "document", "document11"])
 
 
 class RecordError(Exception):
@@ -90,6 +90,9 @@ def parse(path):
     # `document` points at the file in the library folder that this record summarises
     if rec.get("document"):
         rec["document"] = rec["document"].lstrip("/")
+    # `document11` is the Year 11 (Preliminary) summary of the same case, when there is one
+    if rec.get("document11"):
+        rec["document11"] = rec["document11"].lstrip("/")
     for f in ("date", "added"):
         if rec.get(f) and not re.fullmatch(r"\d{4}(-\d{2}(-\d{2})?)?", rec[f]):
             raise RecordError(f"{rec['file']}: `{f}` must be YYYY, YYYY-MM or YYYY-MM-DD")

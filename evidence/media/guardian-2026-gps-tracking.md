@@ -7,7 +7,7 @@ date: 2026-05-05
 jurisdiction: NSW
 significance: A new offence for hidden tracking — responsive to how abuse actually works now, and dependent on a victim finding the device.
 core: fam.2.4, chg.1.3, chg.6.1
-support: fam.2.5, chg.6.5, chg.6, crime.1.5, crime.2.3, crime.4.1, chg.1, dis.3.3
+support: fam.2.5, inv.7.4, chg.6, crime.1.5, crime.2.3, crime.4.1, chg.1, dis.3.3
 themes: fam.t.reform, fam.t.compliance, chg.t.values, crime.t.reform
 criteria: rights, enforceability, responsiveness, justice
 document: Family/GPS Tracking - Evidence Summary Table.pdf

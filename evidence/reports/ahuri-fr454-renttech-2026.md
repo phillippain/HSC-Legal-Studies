@@ -7,7 +7,7 @@ date: 2026-01-29
 jurisdiction: Australia
 significance: Rental application platforms gather up to fifty fields, including lifestyle data, and score applicants by weightings no one outside the platform can see.
 core: shel.2.2, shel.3.2
-support: shel.2.3, shel.2.8, shel.3.1, chg.1.3, chg.6.1, chg.6.5, chg.6, chg.1, exp.5
+support: shel.2.3, shel.2.8, shel.3.1, chg.1.3, chg.6.1, inv.7.4, chg.6, chg.1, exp.5
 themes: shel.t.reform, shel.t.effectiveness, shel.t.compliance, shel.t.values
 criteria: rights, responsiveness, enforceability, accessibility, justice
 document: Shelter/12LS 2026 AT4 Q30b Response Structure.docx

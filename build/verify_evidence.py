@@ -73,6 +73,8 @@ def main():
         for r in recs:
             if r.get("document") and r["document"] not in known:
                 fail.append(f"{r['file']}: document `{r['document']}` is not in the library folder")
+            if r.get("document11") and r["document11"] not in known:
+                fail.append(f"{r['file']}: document11 `{r['document11']}` is not in the library folder")
         if not os.path.isdir(lib["root"]):
             print(f"  note: the library folder is not mounted here ({lib['root']})")
     except FileNotFoundError:

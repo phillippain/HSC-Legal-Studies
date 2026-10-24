@@ -7,7 +7,7 @@ date: 1990
 jurisdiction: NSW and Commonwealth
 significance: The Acts that constitute the NSW Police Force (one Commissioner, an oath to serve "without favour or affection") and the AFP (Commonwealth offences, the ACT, overseas liaison) — and the oversight that disciplines them.
 core: dis.3.2
-support: dis.3.3, dis.3.5, dis.3.6, chg.6.5, crime.2.1, crime.2.2, crime.6.2, inv.1.3, dis.3.1
+support: dis.3.3, dis.3.5, dis.3.6, inv.7.4, crime.2.1, crime.2.2, crime.6.2, inv.1.3, dis.3.1
 themes: dis.t.justice, dis.t.effectiveness, crime.t.balance
 criteria: enforceability, accessibility, ruleoflaw, rights, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1990-047

@@ -7,7 +7,7 @@ date: 2005
 jurisdiction: NSW
 significance: One Act and one set of rules for the Local, District and Supreme Courts — an overriding purpose of just, quick and cheap resolution, a power to send any case to mediation, costs rules and enforcement.
 core: dis.2.5, dis.1.5
-support: chg.6.5, inv.4.3, inv.4.1, inv.1.4, inv.1.6, inv.1.3, dis.2.3, shel.2.5, shel.2.6, exp.5.5, exp.6
+support: inv.7.4, inv.4.3, inv.4.1, inv.1.4, inv.1.6, inv.1.3, dis.2.3, shel.2.5, shel.2.6, exp.5.5, exp.6
 themes: dis.t.justice, dis.t.effectiveness
 criteria: accessibility, resource, responsiveness, enforceability, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2005-028

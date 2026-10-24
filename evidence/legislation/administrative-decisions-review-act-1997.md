@@ -7,7 +7,7 @@ date: 1997
 jurisdiction: NSW
 significance: A right to written reasons, a mandatory internal review, then merits review in NCAT for NSW government decisions — with judicial review of legality in the Supreme Court as the backstop.
 core: dis.3.4
-support: dis.2.5, dis.3.5, dis.3.6, chg.6.5, inv.4.1, inv.5.3, inv.1.3, dis.3.1, inv.1.6, shel.3.4, exp.6
+support: dis.2.5, dis.3.5, dis.3.6, inv.7.4, inv.4.1, inv.5.3, inv.1.3, dis.3.1, inv.1.6, shel.3.4, exp.6
 themes: dis.t.justice, dis.t.effectiveness
 criteria: accessibility, enforceability, ruleoflaw, justice, responsiveness
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1997-076

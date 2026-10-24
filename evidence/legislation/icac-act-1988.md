@@ -7,7 +7,7 @@ date: 1988
 jurisdiction: NSW (and Commonwealth)
 significance: The model Australian anti-corruption body — public hearings, coercive powers and findings of corrupt conduct against ministers and officials; two Premiers have resigned — but it cannot prosecute.
 core: dis.3.5, dis.3.6
-support: dis.3.3, chg.6.5, inv.1.7, inv.1.3, dis.3.1, chg.2, hr.2.4, dis.3.2, exp.6, crime.1.5
+support: dis.3.3, inv.7.4, inv.1.7, inv.1.3, dis.3.1, chg.2, hr.2.4, dis.3.2, exp.6, crime.1.5
 themes: dis.t.justice, dis.t.effectiveness
 criteria: enforceability, ruleoflaw, accessibility, responsiveness, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1988-035
