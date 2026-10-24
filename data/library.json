@@ -4128,6 +4128,126 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary.pdf",
+   "name": "Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary",
+   "file": "Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 733596,
+   "mtime": 1792800985,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.5",
+    "dis.1.8"
+   ],
+   "dupe": "year11bunningvcross1978hca22casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Garcia v NAB [1998] HCA 48 - Case Summary.pdf",
+   "name": "Year 11 - Garcia v NAB [1998] HCA 48 - Case Summary",
+   "file": "Year 11 - Garcia v NAB [1998] HCA 48 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 747016,
+   "mtime": 1792800986,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.3",
+    "dis.2.8"
+   ],
+   "dupe": "year11garciavnab1998hca48casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Magaming v The Queen [2013] HCA 40 - Case Summary.pdf",
+   "name": "Year 11 - Magaming v The Queen [2013] HCA 40 - Case Summary",
+   "file": "Year 11 - Magaming v The Queen [2013] HCA 40 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 727983,
+   "mtime": 1792800986,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.5.3",
+    "inv.5.4"
+   ],
+   "dupe": "year11magamingvthequeen2013hca40casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary.pdf",
+   "name": "Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary",
+   "file": "Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 730587,
+   "mtime": 1792800989,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11samueluvminister2026fcafc100casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Wannell and Luxford [2026] FedCFamC2F 930 - Case Summary.pdf",
+   "name": "Year 11 - Wannell and Luxford [2026] FedCFamC2F 930 - Case Summary",
+   "file": "Year 11 - Wannell and Luxford [2026] FedCFamC2F 930 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 744797,
+   "mtime": 1792800987,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "exp.1.1",
+    "exp.1.3"
+   ],
+   "dupe": "year11wannellandluxford2026fedcfamc2f930casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Warland v Huang [2023] NSWCATCD 115 - Case Summary.pdf",
+   "name": "Year 11 - Warland v Huang [2023] NSWCATCD 115 - Case Summary",
+   "file": "Year 11 - Warland v Huang [2023] NSWCATCD 115 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 729881,
+   "mtime": 1792800982,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.2",
+    "dis.2.5",
+    "dis.2.7"
+   ],
+   "dupe": "year11warlandvhuang2023nswcatcd115casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Woolmington v DPP [1935] AC 462 - Case Summary.pdf",
+   "name": "Year 11 - Woolmington v DPP [1935] AC 462 - Case Summary",
+   "file": "Year 11 - Woolmington v DPP [1935] AC 462 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 756014,
+   "mtime": 1792800983,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.4",
+    "inv.1.7"
+   ],
+   "dupe": "year11woolmingtonvdpp1935ac462casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/01_Cerinza_and_Moreau_2026_FedCFamC2F_785.pdf",
    "name": "01 Cerinza and Moreau 2026 FedCFamC2F 785",
    "file": "01_Cerinza_and_Moreau_2026_FedCFamC2F_785.pdf",

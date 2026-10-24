@@ -324,3 +324,10 @@ Shelter/Shelter Sept 25 Reforms Update.pdf | @resource, shel.3.1, shel.2.8
 # A September 2025 coercive control data snapshot, superseded by
 # bocsar-coercive-control-june-2026.
 Family/Coercive Control.docx | @resource, fam.2.4, crime.2.2
+Cases/Year 11/Year 11 - Warland v Huang [2023] NSWCATCD 115 - Case Summary.pdf | dis.2.2, dis.2.5, dis.2.7
+Cases/Year 11/Year 11 - Woolmington v DPP [1935] AC 462 - Case Summary.pdf | dis.1.4, inv.1.7
+Cases/Year 11/Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary.pdf | dis.1.5, dis.1.8
+Cases/Year 11/Year 11 - Garcia v NAB [1998] HCA 48 - Case Summary.pdf | dis.2.3, dis.2.8
+Cases/Year 11/Year 11 - Magaming v The Queen [2013] HCA 40 - Case Summary.pdf | inv.5.3, inv.5.4
+Cases/Year 11/Year 11 - Wannell and Luxford [2026] FedCFamC2F 930 - Case Summary.pdf | exp.1.1, exp.1.3
+Cases/Year 11/Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary.pdf | dis.3.4, dis.3.1
