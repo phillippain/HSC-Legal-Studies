@@ -876,7 +876,8 @@ h1,h2,h3,h4{font-family:var(--sans); font-weight:700; letter-spacing:-.018em; co
       struck through, press it again to bring it back. Use it to read the cases on their own, or to check
       you have an Act and a report and not just cases. It only changes what you can see &mdash; anything
       you have already ticked stays on your list &mdash; and it stays as you set it while you move around,
-      until you press <strong>All types</strong>.</p>
+      until you press <strong>All types</strong>. To read one form on its own, press <strong>None</strong>
+      (next to <em>All types</em>) and then the one form you want &mdash; two presses instead of five.</p>
 
     <h3><em>3</em>Reading a card</h3>
     <p>The <strong>stripe down the left is the syllabus section</strong>, coloured as in the booklets. The
@@ -1503,7 +1504,19 @@ function libSection(files, bucket, title, note, icon){
     }).join("") + "</div></details>";
 }
 
+/* The library blocks are switched off on the page.
+
+   Both of them — the documents filed here that nobody has written up, and the
+   teaching resources — listed the folder rather than the work, which is the
+   opposite of what this page is for: a student should meet evidence that has been
+   read, checked and written up, not a folder of files to sort through. The data is
+   still in DATA.library and every function below still works, so putting the
+   blocks back is this one constant. The backlog itself is reported by the build
+   (`N evidence, N resources`), which is where it belongs. */
+const SHOW_LIBRARY = false;
+
 function renderLibrary(){
+  if (!SHOW_LIBRARY){ $("#libwrap").innerHTML = ""; return; }
   const sel = state.sel;
   const q = state.q.trim().toLowerCase();
   let files = LIB.filter(f => libMatches(f, sel));

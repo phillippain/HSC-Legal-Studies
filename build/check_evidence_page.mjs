@@ -246,18 +246,26 @@ for (const scheme of ['light', 'dark']) {
   ok((await page.locator('#addBtn, #compose').count()) === 0,
      scheme + ': the retired Add evidence composer is back on the page');
 
-  /* ---------------------------------------------- the documents behind a point */
+  /* ------------------------------------------------- no folder on the page */
+  /* The library blocks are off: the page offers written-up evidence, not a folder
+     to sort through. A record's own document link still has to work, and it opens
+     from Drive when the id map has it and from the local folder when it does not,
+     so either form is valid. */
   await page.locator('#startBtn').click();
   await page.locator('.cell[data-act="point"][data-id="shel.3.1"]').click();
   await page.waitForTimeout(120);
-  const libN = await page.locator('#libwrap .libf').count();
-  ok(libN > 0, scheme + ': no library files under shel.3.1');
-  /* A document opens from Drive when the id map has it and from the local folder
-     when it does not, so either form is valid — which one shows depends on
-     whether data/drive-links.json existed at build time. */
-  const href = await page.locator('#libwrap .libf').first().getAttribute('href');
-  ok(href.startsWith('file:///') || href.startsWith('https://drive.google.com/file/d/'),
-     scheme + ': a library link is neither a local file nor a Drive link: ' + href);
+  ok((await page.locator('#libwrap .libf').count()) === 0,
+     scheme + ': the library blocks are back on the page');
+  ok((await page.locator('#libwrap .lib').count()) === 0,
+     scheme + ': an empty library block is still being drawn');
+  await page.locator('#list .ev .ev-more').first().click();
+  await page.waitForTimeout(120);
+  const docLink = page.locator('#list .ev .ev-foot a[title]').first();
+  if (await docLink.count()) {
+    const href = await docLink.getAttribute('href');
+    ok(href.startsWith('file:///') || href.startsWith('https://drive.google.com/file/d/'),
+       scheme + ": a record's document link is neither a local file nor a Drive link: " + href);
+  }
 
   /* ------------------------------------------------------ the course switch */
   await page.locator('#startBtn').click();
