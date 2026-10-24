@@ -7,7 +7,7 @@ date: 2026-10-19
 jurisdiction: NSW (national story)
 significance: Unaffordability is pushing people into shared and multigenerational tenancies, where every co-tenant can be pursued for the whole debt — the one legal risk the story never mentions.
 core: shel.2.2, shel.2.3, shel.3.1
-support: shel.2.5, shel.2.6, shel.2.7, shel.1.2, shel.1.4, shel.3.3, shel.3.4, shel.2.8, shel.2.9, shel.2.10, inv.1.3, dis.2.3, chg.1, chg.3, exp.4, exp.5, exp.6
+support: shel.2.5, shel.2.6, shel.2.7, shel.1.2, shel.1.4, shel.3.3, shel.3.4, shel.2.8, shel.2.9, shel.2.10, dis.2.3, chg.1, chg.3, exp.4, exp.5, exp.6
 themes: shel.t.compliance, shel.t.effectiveness, shel.t.reform, shel.t.values, shel.t.cooperation, inv.t.justice
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, justice
 document: Shelter/Evidence Sheets/Evidence Sheet - Group renting and co-tenancy (22Oct26 v3).pdf

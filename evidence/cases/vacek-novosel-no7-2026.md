@@ -7,7 +7,7 @@ date: 2026-07-17
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Judge Beckhouse
 significance: $113,000 in costs against a husband whose litigation was designed "to subordinate the mother's autonomy" — with $414,409 of her $634,031 bill still uncovered.
 core: fam.2.5, fam.2.3
-support: fam.2.4, fam.3.2, shel.2.1, inv.1.3, dis.2.3, inv.1.4
+support: fam.2.4, fam.3.2, shel.2.1, dis.2.3, inv.1.4
 themes: fam.t.compliance, fam.t.effectiveness, fam.t.cooperation, fam.t.reform
 criteria: enforceability, resource, justice, responsiveness
 document: Cases/Family/Vacek & Novosel (No 7) [2026] FedCFamC2F 1040 - Case Summary.pdf

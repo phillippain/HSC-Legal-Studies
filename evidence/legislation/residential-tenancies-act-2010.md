@@ -7,7 +7,7 @@ date: 2010
 jurisdiction: NSW
 significance: The main protection for tenants — and s 8(c) is the line that decides who gets none of it.
 core: shel.2.2, shel.2.3
-support: shel.2.5, shel.2.6, shel.3.1, shel.3.2, shel.1.4, inv.1.3, dis.2.3
+support: shel.2.5, shel.2.6, shel.3.1, shel.3.2, shel.1.4, dis.2.3
 themes: shel.t.cooperation, shel.t.compliance, shel.t.reform, shel.t.effectiveness
 criteria: accessibility, enforceability, rights, justice
 related: nsw-no-grounds-reform-2026

@@ -7,7 +7,7 @@ date: 2026-07-13
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Judge Colquhoun
 significance: A claimed 25-year relationship declared never to have been de facto — the s 4AA gateway that must be passed before any property claim, and what fails it.
 core: fam.1.4
-support: fam.1.1, fam.1.2, fam.2.3, fam.2.5, fam.2.4, shel.1.1, shel.2.1, inv.1.3, dis.2.3
+support: fam.1.1, fam.1.2, fam.2.3, fam.2.5, fam.2.4, shel.1.1, shel.2.1, dis.2.3
 themes: fam.t.values, fam.t.effectiveness, fam.t.cooperation, fam.t.reform
 criteria: justice, rights, accessibility, resource
 document: Cases/Family/Corella & Nagar [2026] FedCFamC2F 1037 - Case Summary.pdf

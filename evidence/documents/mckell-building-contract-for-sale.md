@@ -7,7 +7,7 @@ date: 2013
 jurisdiction: NSW
 significance: The same standard contract used to buy a house was used by the NSW government to sell a CBD office tower, with the whole vendor disclosure list attached.
 core: shel.2.1
-support: shel.2.8, shel.3.4, shel.3.1, shel.2.4, shel.1.2, dis.2.3, dis.3.2, inv.1.3, inv.3.4, chg.3.1
+support: shel.2.8, shel.3.4, shel.3.1, shel.2.4, shel.1.2, dis.2.3, dis.3.2, inv.3.4, chg.3.1
 themes: shel.t.values, shel.t.effectiveness, shel.t.cooperation, shel.t.reform
 criteria: resource, accessibility, enforceability, society, ruleoflaw, justice
 document: Shelter/Torrens Title Example Contract of Sale.pdf

@@ -7,7 +7,7 @@ date: 2026-10-15
 jurisdiction: Commonwealth
 significance: The bill would replace a reactive, complaints-based online safety scheme with one enforceable statutory duty, and the government is now open to letting victims of online harm sue.
 core: hr.3.1, hr.2.9, chg.6
-support: hr.2.7, hr.2.12, hr.2.13, hr.2.14, hr.1.3, chg.1.3, chg.6.1, inv.7.4, chg.1, chg.2, chg.3, inv.3.3, inv.4.4, inv.1.3, dis.2.3, chg.2.1, exp.5, exp.6
+support: hr.2.7, hr.2.12, hr.2.13, hr.2.14, hr.1.3, chg.1.3, chg.6.1, inv.7.4, chg.1, chg.2, chg.3, inv.3.3, inv.4.4, dis.2.3, chg.2.1, exp.5, exp.6
 themes: hr.t.reform, hr.t.values, hr.t.effectiveness, hr.t.compliance, chg.t.values, chg.t.justice
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, justice
 document: Human Rights/Digital duty of care bill (Evidence summary 16Oct26).pdf

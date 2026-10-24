@@ -7,7 +7,7 @@ date: 1977
 jurisdiction: NSW
 significance: Makes it unlawful to refuse, offer worse terms or evict in accommodation because of race, sex, disability, age, marital status, carer duties or sexuality — enforced by complaint, conciliation and NCAT.
 core: shel.3.2
-support: shel.2.2, shel.2.3, shel.2.4, shel.2.5, shel.2.8, shel.1.3, hr.2.9, inv.1.3, dis.2.3, dis.1.8, dis.2.8
+support: shel.2.2, shel.2.3, shel.2.4, shel.2.5, shel.2.8, shel.1.3, hr.2.9, dis.2.3, dis.1.8, dis.2.8
 themes: shel.t.values, shel.t.effectiveness, shel.t.compliance
 criteria: accessibility, enforceability, rights, justice, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1977-048

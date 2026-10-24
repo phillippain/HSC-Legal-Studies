@@ -7,7 +7,7 @@ date: 2026-10-07
 jurisdiction: Commonwealth and NSW
 significance: The glasses went on sale, sold out and were pulled before Parliament changed a single law — a contemporary issue where every response works around the gap rather than closing it.
 core: chg.1, chg.3, chg.6
-support: chg.2, chg.1.3, chg.6.1, inv.7.4, inv.7.2, inv.7.3, dis.3.5, dis.3.6, inv.5.1, inv.5.2, inv.6.2, inv.1.3, dis.2.3, chg.2.1, exp.5, exp.5.5, exp.6
+support: chg.2, chg.1.3, chg.6.1, inv.7.4, inv.7.2, inv.7.3, dis.3.5, dis.3.6, inv.5.1, inv.5.2, inv.6.2, dis.2.3, chg.2.1, exp.5, exp.5.5, exp.6
 themes: chg.t.values, chg.t.justice, chg.t.effectiveness
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, ruleoflaw, justice
 document: Preliminary/Kmart camera glasses - law reform lag (Preliminary evidence summary 7Oct26).pdf

@@ -7,7 +7,7 @@ date: 2026-07-01
 jurisdiction: Supreme Court of NSW (Equity) — Muston J
 significance: A family home transferred to the ex-wife on the very day a creditor sued — and the transfer stood.
 core: fam.2.3, shel.2.1
-support: fam.2.1, fam.1.4, fam.2.5, shel.2.5, shel.3.1, inv.1.3, dis.2.3, inv.4.1
+support: fam.2.1, fam.1.4, fam.2.5, shel.2.5, shel.3.1, dis.2.3, inv.4.1
 themes: fam.t.effectiveness, fam.t.compliance, shel.t.effectiveness, shel.t.cooperation
 criteria: rights, enforceability, ruleoflaw, justice
 document: Jade Cases/Completed Case Summaries/Sun_v_Chen_case_summary.pdf

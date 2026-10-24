@@ -7,7 +7,7 @@ date: 2013
 jurisdiction: NSW
 significance: The statute for people who own a manufactured home but rent the land under it — site agreements, NCAT review of site-fee increases, community rules and compensation on termination.
 core: shel.2.4
-support: shel.1.2, shel.2.2, shel.2.3, shel.2.5, shel.2.6, shel.3.1, shel.3.2, inv.1.3, dis.2.3, exp.6
+support: shel.1.2, shel.2.2, shel.2.3, shel.2.5, shel.2.6, shel.3.1, shel.3.2, dis.2.3, exp.6
 themes: shel.t.values, shel.t.effectiveness, shel.t.reform, shel.t.compliance
 criteria: rights, enforceability, accessibility, responsiveness, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2013-097

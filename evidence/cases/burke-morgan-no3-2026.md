@@ -7,7 +7,7 @@ date: 2026-07-13
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1), Simpson J
 significance: Combined legal costs of $3,186,000 — roughly a fifth of the pool — in an interim property hearing.
 core: fam.2.3, fam.2.5
-support: fam.1.2, fam.2.1, inv.4.1, inv.1.3, dis.2.3, exp.6
+support: fam.1.2, fam.2.1, inv.4.1, dis.2.3, exp.6
 themes: fam.t.compliance, fam.t.effectiveness, fam.t.cooperation
 criteria: resource, accessibility, justice
 related: duff-horner-2026, eadgar-amiri-2026

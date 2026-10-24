@@ -7,7 +7,7 @@ date: 1900
 jurisdiction: NSW
 significance: Indefeasibility of title — the strongest protection any person seeking shelter can hold, and it is only available to buyers.
 core: shel.2.1, shel.1.4
-support: shel.2.5, shel.3.1, inv.1.3, dis.2.3, inv.3.3, inv.4.4
+support: shel.2.5, shel.3.1, dis.2.3, inv.3.3, inv.4.4
 themes: shel.t.effectiveness, shel.t.cooperation
 criteria: enforceability, rights, resource, accessibility
 added: 2026-09-19

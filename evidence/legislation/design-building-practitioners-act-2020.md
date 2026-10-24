@@ -7,7 +7,7 @@ date: 2020
 jurisdiction: NSW
 significance: A statutory duty of care that reversed a High Court decision — and was then read as non-delegable.
 core: shel.2.1, shel.2.5
-support: shel.1.3, shel.3.4, inv.1.3, dis.2.3, chg.1, chg.3
+support: shel.1.3, shel.3.4, dis.2.3, chg.1, chg.3
 themes: shel.t.reform, shel.t.compliance, shel.t.effectiveness, inv.t.values
 criteria: enforceability, rights, responsiveness, justice
 related: brookfield-multiplex-2014, pafburn-2024

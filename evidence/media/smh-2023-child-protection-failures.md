@@ -7,7 +7,7 @@ date: 2023-09-17
 jurisdiction: NSW
 significance: More than 9000 child protection reports went unassessed while the system cost the state $3.1 billion a year.
 core: fam.3.4
-support: fam.1.5, fam.2.6, fam.2.7, inv.1.3, dis.2.3, dis.3.3, exp.6
+support: fam.1.5, fam.2.6, fam.2.7, dis.2.3, dis.3.3, exp.6
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform
 criteria: resource, enforceability, responsiveness, rights, justice
 document: Family/NSW child protection system failures costing taxpayers billions.pdf

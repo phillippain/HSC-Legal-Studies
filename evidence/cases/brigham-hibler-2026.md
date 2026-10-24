@@ -7,7 +7,7 @@ date: 2026-07-21
 jurisdiction: Administrative Review Tribunal — General Member S Hoffman
 significance: A tribunal cannot credit a child support payment that was never made, or fix a decision nobody asked it to review — cheap, accessible merits review and its limits.
 core: fam.1.5, fam.2.5
-support: fam.2.2, fam.1.2, shel.3.1, inv.1.3, dis.2.3
+support: fam.2.2, fam.1.2, shel.3.1, dis.2.3
 themes: fam.t.compliance, fam.t.effectiveness, fam.t.cooperation
 criteria: accessibility, resource, enforceability, justice
 document: Cases/Family/Brigham and Hibler [2026] ARTA 2053 - Case Summary.pdf

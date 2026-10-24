@@ -7,7 +7,7 @@ date: 2026-09-03
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1, Appeal) — Harper J
 significance: A trial judge fixed the property pool at $12.58m when both parties had agreed on about $7m — appeal allowed, orders set aside, and the whole case starts again.
 core: fam.2.3, fam.2.5
-support: fam.1.1, fam.1.2, shel.2.1, inv.1.3, dis.2.3, inv.1.4
+support: fam.1.1, fam.1.2, shel.2.1, dis.2.3, inv.1.4
 themes: fam.t.effectiveness, fam.t.cooperation, fam.t.reform
 criteria: justice, accessibility, resource, enforceability
 document: Cases/Family/Olmstead & Olmstead [2026] FedCFamC1A 153 - Case Summary.pdf

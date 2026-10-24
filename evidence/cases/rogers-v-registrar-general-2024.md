@@ -7,7 +7,7 @@ date: 2024-05-16
 jurisdiction: Supreme Court of NSW, Equity
 significance: A man who arranged a stranger's funeral in 1968 treated the dead man's cottage as his own for fifty years — and the law gave it to his estate, because the heirs' right to recover it was extinguished by time.
 core: shel.2.4, shel.1.4, shel.2.1
-support: shel.2.6, shel.1.1, shel.1.2, shel.3.3, inv.3.1, inv.3.2, inv.1.3, dis.2.3, dis.2.5, dis.1.8, dis.2.8
+support: shel.2.6, shel.1.1, shel.1.2, shel.3.3, inv.3.1, inv.3.2, dis.2.3, dis.2.5, dis.1.8, dis.2.8
 themes: shel.t.values, shel.t.compliance, shel.t.effectiveness
 criteria: enforceability, justice, rights, society
 document: Shelter/Squatter’s rights case of the Gymea Bay fibro.pdf

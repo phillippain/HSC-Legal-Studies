@@ -7,7 +7,7 @@ date: 1975
 jurisdiction: Commonwealth
 significance: The federal statute the whole Family option runs on — no-fault divorce, the property regime, and since 2009 de facto couples too.
 core: fam.1.1, fam.1.2, fam.2.1, fam.2.3
-support: fam.1.4, fam.1.5, fam.2.2, fam.2.5, fam.3.2, inv.3.3, inv.4.4, inv.1.3, dis.2.3
+support: fam.1.4, fam.1.5, fam.2.2, fam.2.5, fam.3.2, inv.3.3, inv.4.4, dis.2.3
 themes: fam.t.values, fam.t.reform, fam.t.cooperation
 criteria: accessibility, responsiveness, justice
 added: 2026-09-19

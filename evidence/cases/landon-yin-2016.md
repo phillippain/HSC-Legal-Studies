@@ -7,7 +7,7 @@ date: 2016
 jurisdiction: Family Court of Australia
 significance: A marriage celebrated in Australia was void because one party was still married overseas — the court granted a decree of nullity, not a divorce.
 core: fam.1.3
-support: fam.1.1, fam.1.4, fam.2.1, fam.1.2, inv.5.1, inv.5.2, inv.1.3, dis.2.3
+support: fam.1.1, fam.1.4, fam.2.1, fam.1.2, inv.5.1, inv.5.2, dis.2.3
 themes: fam.t.compliance, fam.t.values, fam.t.cooperation
 criteria: ruleoflaw, rights, justice, enforceability
 document: Family/Cases/1.2 Family law cases.pdf

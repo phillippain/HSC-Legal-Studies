@@ -7,7 +7,7 @@ date: 2006-03-20
 jurisdiction: NSW Court of Appeal
 significance: A loan secured over the family home, made with no regard to whether it could be repaid, was reopened as unjust — asset lending is not a safe harbour.
 core: shel.2.1
-support: shel.2.6, shel.1.4, inv.1.3, dis.2.3, inv.1.2, dis.2.5, inv.7.2, inv.7.3
+support: shel.2.6, shel.1.4, dis.2.3, inv.1.2, dis.2.5, inv.7.2, inv.7.3
 themes: shel.t.values, shel.t.compliance, shel.t.effectiveness
 criteria: rights, justice, accessibility, ruleoflaw
 document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx

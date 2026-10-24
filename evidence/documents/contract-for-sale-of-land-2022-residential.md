@@ -7,7 +7,7 @@ date: 2022
 jurisdiction: NSW
 significance: The standard NSW contract for sale of land, filled in — the document that actually transfers a home, and the one students write about without ever having seen.
 core: shel.2.1
-support: shel.2.5, shel.2.3, shel.1.2, shel.2.4, dis.2.3, dis.2.1, inv.1.3, inv.3.3, inv.4.3
+support: shel.2.5, shel.2.3, shel.1.2, shel.2.4, dis.2.3, dis.2.1, inv.3.3, inv.4.3
 themes: shel.t.effectiveness, shel.t.cooperation, shel.t.values
 criteria: accessibility, enforceability, rights, resource, ruleoflaw
 document: Shelter/Contract_of_Sale House.pdf
