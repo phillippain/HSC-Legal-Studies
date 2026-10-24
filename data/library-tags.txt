@@ -27,7 +27,7 @@ Shelter/12LS 2026 AT4 Q30b Response Structure.docx | shel.1.2, shel.2.1, shel.2.
 # headings were OCR'd on 20 Sep 2026 and mapped by hand. Note 1.2 is the legal
 # requirements of marriage (fam.1.3), not jurisdiction, and nothing in the series covers
 # fam.1.2 (state and federal jurisdiction).
-Family/Cases/1.1 Family law cases.pdf | fam.1.1
+Family/Cases/1.1 Family law cases.pdf | @resource, fam.1.1
 Family/Cases/1.2 Family law cases.pdf | fam.1.3
 Family/Cases/1.3 Family law cases.pdf | fam.1.4
 Family/Cases/1.4 Family law cases.pdf | fam.1.5
@@ -131,7 +131,7 @@ Cases/Crime/CD v Commonwealth [2025] HCA 37 - Case Summary.pdf | crime.6.2, crim
 Cases/Crime/Prosecutor v Karadzic (ICTY, IT-95-5-18-T) 2016 - Case Summary.pdf | crime.6.1, crime.6.2
 Cases/Crime/Magaming v The Queen [2013] HCA 40 - Case Summary.pdf | crime.6.1, crime.4.1
 Cases/Crime/The Queen v Tang [2008] HCA 39 - Case Summary.pdf | crime.6.1
-Crime/International Crime/Teaching Note - International Criminal Court.pdf | crime.6.2
+Crime/International Crime/Teaching Note - International Criminal Court.pdf | @resource, crime.6.2
 Cases/Shelter/Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary.pdf | shel.2.2, shel.2.3, shel.2.6
 Cases/Shelter/Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf | shel.3.4, shel.2.2, shel.2.6
 Cases/Shelter/Senthilkumaran v Gosan (No 2) [2023] NSWSC 442 - Case Summary.pdf | shel.3.2, shel.2.4, shel.2.6
@@ -154,7 +154,7 @@ Cases/Shelter/Jobema v Zhu [2016] NSWSC 3 - Case Summary.pdf | shel.2.1, shel.2.
 # ------------------------------------------------------------------ Crime --
 Crime/Inquest_into_the_death_of_Bradley_Vincent_Balzan.pdf | crime.2, crime.4.8, chg.2
 Crime/Media/The great crime paradox.pdf | crime.1.8, crime.1.9
-Crime/NSW Adult Crime Adult Time - Summary.pdf | crime.5.1, crime.5.4
+Crime/NSW Adult Crime Adult Time - Summary.pdf | @resource, crime.5.1, crime.5.4
 Crime/PREVENTION ORDERS NSW and Commonwealth.docx | crime.4.8
 Crime/Taser_Taser_Taser__A_Case_Study_on_Law_and_Procedure_Pertaining_To_Police_Tasers__Felicity_Graham.pdf | crime.2.1
 Crime/Win Against Unlawful Detainee Risk Management Plans (DRMPs).pdf | crime.4.8
@@ -237,7 +237,7 @@ Human Rights/Protecting yourself from exploitation.pdf | hr.3.1
 Human Rights/School cleaners are 'modern slaves' and taxpayers foot bill.pdf | hr.3.1, hr.2.13
 Human Rights/UN criticises Australia’s anti-slavery laws: Inside nation’s ‘alarming’ labour scheme.pdf | hr.3.1, hr.2.2
 Human Rights/mybluesky.org.au-Frontline Worker Guide.pdf | hr.2.12, hr.3.1
-Human Rights/rightsED_understanding_human_rights.doc | hr.2.12, hr.1.1
+Human Rights/rightsED_understanding_human_rights.doc | @resource, hr.2.12, hr.1.1
 News Articles/Human Rights/Antisemitism Law reform.pdf | hr.2.9, chg.1, chg.3
 News Articles/Human Rights/Hate speech laws: NSW Labor’s ‘cruel’ new laws do not protect LGBTIQ community.pdf | hr.2.9, hr.2.13, hr.3.1
 News Articles/Human Rights/Men charged in Sydney after alleged display of swastika flag.pdf | hr.2.9
@@ -249,12 +249,12 @@ Shelter/Australia housing crisis: Planned 100,000 new homes in NSW still not del
 Shelter/Changes to First Home Guarantee Scheme.pdf | shel.2.1, shel.3.1
 Shelter/Commonwealth and NSW Build to Rent.pdf | shel.2.4, shel.3.4
 Shelter/Contract_of_Sale House.pdf | shel.2.1
-Shelter/Distinction Between State and Federal Governments in Shelter Policy.pdf | shel.2.8, inv.5.1, inv.5.2
+Shelter/Distinction Between State and Federal Governments in Shelter Policy.pdf | @resource, shel.2.8, inv.5.1, inv.5.2
 Shelter/Example Strata Contract.pdf | shel.2.4
 Shelter/First Home Guarantee scheme - Sydney property: Help to Buy first home buyer scheme to offer buyers a choice.pdf | shel.2.1, shel.3.1
 Shelter/Grattan Institute Report Summary.pdf | @resource, shel.3.1
 Shelter/Guidetopurchaseyourhome.pdf | shel.2.1
-Shelter/Lismore Floods PEARRJAM.pdf | shel.3.3, shel.1.3
+Shelter/Lismore Floods PEARRJAM.pdf | @resource, shel.3.3, shel.1.3
 Shelter/Mascot Towers Background and application.pdf | shel.2.4
 Shelter/Mascot Towers Investigation - Report.pdf | shel.2.4
 Shelter/NRAS_Ending.pdf | shel.3.4
@@ -341,3 +341,6 @@ Crime/Criminal Trial Process/Criminal Trial Process.pdf | @resource, crime.3
 Crime/Criminal Trial Process/Rules for Adminissibility of Evidence.pdf | @resource, crime.3.7
 Crime/Young Offenders/Does the CJS treat Young people effectively.pdf | @resource, crime.5
 Shelter/Unaffordable — LCMID Evidence Bank (Visual).pdf | @resource, shel.3.1
+International Crime/12LS International Crime.pdf | @resource, crime.6.1, crime.6.2
+Crime/Sentencing and Punishment/Committal hearing reforms.pdf | @resource, crime.3.4, crime.3.2, crime.4.3
+Family/Non Legal/Year12_Legal_Studies_Family Non Legal Evidence.pdf | @resource, fam.2.6, fam.3.4, fam.2.4

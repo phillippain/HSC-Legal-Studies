@@ -2502,10 +2502,12 @@
    "ext": "pdf",
    "bytes": 86476,
    "mtime": 1789944759,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "fam.2.6"
+    "fam.2.6",
+    "fam.3.4",
+    "fam.2.4"
    ],
    "dupe": "year12legalstudiesfamilynonlegalevidence",
    "copyOf": null,
@@ -2518,8 +2520,8 @@
    "ext": "pdf",
    "bytes": 122061,
    "mtime": 1789944759,
-   "bucket": "evidence",
-   "kind": "case",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "fam.1.1"
    ],
@@ -7199,8 +7201,8 @@
    "ext": "doc",
    "bytes": 368640,
    "mtime": 1789944777,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "hr.2.12",
     "hr.1.1"
@@ -7280,10 +7282,11 @@
    "ext": "pdf",
    "bytes": 1169328,
    "mtime": 1789944777,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "crime.6"
+    "crime.6.1",
+    "crime.6.2"
    ],
    "dupe": "12lsinternationalcrime",
    "copyOf": null,
@@ -8725,8 +8728,8 @@
    "ext": "pdf",
    "bytes": 67275,
    "mtime": 1789944779,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "shel.2.8",
     "inv.5.1",
@@ -9182,8 +9185,8 @@
    "ext": "pdf",
    "bytes": 40209,
    "mtime": 1789944780,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "shel.3.3",
     "shel.1.3"
@@ -11455,8 +11458,8 @@
    "ext": "pdf",
    "bytes": 251565,
    "mtime": 1789944785,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "crime.5.1",
     "crime.5.4"
@@ -12646,8 +12649,8 @@
    "ext": "pdf",
    "bytes": 235740,
    "mtime": 1792707991,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
     "crime.6.2"
    ],
@@ -12838,10 +12841,12 @@
    "ext": "pdf",
    "bytes": 117508,
    "mtime": 1789944791,
-   "bucket": "evidence",
-   "kind": "document",
+   "bucket": "resource",
+   "kind": "teaching",
    "tags": [
-    "crime.4"
+    "crime.3.4",
+    "crime.3.2",
+    "crime.4.3"
    ],
    "dupe": "committalhearingreforms",
    "copyOf": null,
