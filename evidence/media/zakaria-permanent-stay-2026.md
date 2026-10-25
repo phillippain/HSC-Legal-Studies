@@ -1,17 +1,17 @@
 ---
 type: media
-title: Zakaria seeks permanent stay over alleged unlawful deportation — the hearing opens (2026)
+title: Zakaria seeks permanent stay over alleged unlawful deportation — week one and the Crown concession (2026)
 short: Zakaria permanent stay
-citation: HSC Legal Studies evidence summaries, 19 and 21 October 2026; built on ABC News of 18 and 19 October 2026 with its earlier reports of September 2025 and July 2026, AAP, the AFP's December 2023 release, Moti v The Queen [2011] HCA 50 and the abuse-of-process authorities
-date: 2026-10-19
+citation: HSC Legal Studies evidence summaries, 19, 21 and 26 October 2026; built on ABC News of 18, 19, 22 and 24 October 2026 with its earlier reports of September 2025 and July 2026, AAP, the AFP's December 2023 release, Moti v The Queen [2011] HCA 50 and the abuse-of-process authorities
+date: 2026-10-24
 jurisdiction: NSW Supreme Court (Justice Edward Muston); Commonwealth AFP conduct overseas
 significance: A court is asked to refuse to try two murder charges because of how the accused was brought before it — the integrity of the court set against the public interest in a trial.
 core: crime.3.1, crime.2.1, crime.3.6
 support: crime.2.3, crime.2.4, crime.2.6, crime.3.3, crime.3.5, crime.3.7, crime.6.2, hr.2.4, hr.2.10, inv.1.6, inv.1.7, inv.3.1, inv.3.2, inv.6.2, inv.7.1, dis.3.2, exp.5, exp.6, dis.1.5, dis.1.4, dis.1.6
 themes: crime.t.discretion, crime.t.balance, crime.t.compliance, crime.t.effectiveness, inv.t.justice
 criteria: accessibility, enforceability, responsiveness, rights, ruleoflaw, justice
-document: Crime/Criminal Trial Process/Zakaria stay hearing day one (Evidence summary 21Oct26).pdf
-source: https://www.abc.net.au/news/2026-10-19/nsw-masood-zakaria-court-challenge-against-afp-deportation/107282964
+document: Crime/Criminal Trial Process/Zakaria permanent stay - week one and Crown concession (Evidence summary 26Oct26).pdf
+source: https://www.abc.net.au/news/2026-10-24/masood-zakaria-afp-permanent-stay-hart-skytraders/107302232
 related: the-adversary-system-and-court-jurisdiction, police-and-law-enforcement-agencies, detention-and-interrogation-rights, dietrich-v-the-queen-1992, hamzy-v-commissioner-2026, international-crime-evidence-summary-2026, extradition-act-1988
 added: 2026-10-19
 ---
@@ -48,6 +48,27 @@ including conspiracy to murder, the murder charges following later.
 - The AFP maintains its actions were lawful; its case had not yet been put. The 18 October report
   was that a key witness, an ex-soldier involved in the escort, was uncontactable; the defence
   expects to call up to 35 witnesses, including two AFP Commissioners.
+
+## Week one (to 24 October 2026)
+
+- **Crown concession (22 October)**: the prosecutor accepted that Zakaria was **prohibited** from being
+  deported while his Turkish appeal was pending. That concerns **Turkish law** — it does not concede
+  what Australian officials **knew**, which is the question *Moti* makes decisive.
+- The ABC named the two companies paid the **$1.1 million** as **Skytraders** (charter) and **Hart
+  International** (escort); Hart's CEO said it has held AFP contracts for 26 years, including two
+  other fugitive transfers (unverified).
+- NSW Police said they only ever considered **lawful extradition** and learned of the contractor flight
+  when Zakaria landed in Darwin.
+- AFP Commissioner Krissy Barrett and former Commissioner Reece Kershaw were expected to give evidence
+  the following week. A stay would be the first in NSW for a murder accused over alleged unlawful law
+  enforcement conduct, and could affect at least two other prosecutions.
+
+| | *Moti* (2011) | Zakaria (2026) |
+|---|---|---|
+| Extradition tried? | Two requests refused by Solomon Islands | NSW Police say only lawful extradition was considered |
+| Removal lawful locally? | No — before his review window ended | Crown concedes prohibited while his appeal was pending |
+| Officials' knowledge | Authorised travel documents knowing it was unlawful | AFP told it was legal; knowledge not proven in 2025 |
+| Outcome | Stayed 6–1 (Heydon J dissenting) | Undecided |
 
 ## The test, and why the 2025 ruling matters
 

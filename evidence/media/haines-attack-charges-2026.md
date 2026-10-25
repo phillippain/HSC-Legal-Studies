@@ -2,15 +2,15 @@
 type: media
 title: MP Helen Haines struck by car — a man faces state and federal charges and is remanded (2026)
 short: Haines attack charges
-citation: HSC Legal Studies evidence summaries, 21 and 22 October 2026; built on ABC News coverage of 19–21 October 2026 including the first court appearance, AAP, AP and SBS reports, Crimes Act 1958 (Vic) ss 16 and 319, Criminal Code (Cth) s 147.1, the Bail Act 1977 (Vic) and the Criminal Procedure Act 2009 (Vic)
-date: 2026-10-21
+citation: HSC Legal Studies evidence summaries, 21, 22 and 26 October 2026; built on ABC News coverage of 19–23 October 2026 (including the NSW MPs' security briefing) including the first court appearance, AAP, AP and SBS reports, Crimes Act 1958 (Vic) ss 16 and 319, Criminal Code (Cth) s 147.1, the Bail Act 1977 (Vic) and the Criminal Procedure Act 2009 (Vic)
+date: 2026-10-23
 jurisdiction: Victoria and Commonwealth — Victoria Police with the AFP; Wangaratta Magistrates' Court (Magistrate Allison Vaughan)
 significance: One act, three charges from two parliaments — the federal offence exists only because the victim is a Commonwealth official, so state and federal criminal law run side by side on the same facts.
 core: crime.1.5, crime.2.4, crime.3.1
-support: crime.1.2, crime.1.6, crime.2.3, crime.2.5, crime.3.6, crime.3.7, crime.3.9, crime.1.8, hr.2.13, inv.4.1, inv.5.1, inv.5.2, inv.1.3, dis.3.1, dis.1.5, dis.2.5, chg.2.1, dis.3.2, dis.1.3, dis.1.2, dis.1.4, dis.1.6
+support: crime.1.9, crime.1.2, crime.1.6, crime.2.3, crime.2.5, crime.3.6, crime.3.7, crime.3.9, crime.1.8, hr.2.13, inv.4.1, inv.5.1, inv.5.2, inv.1.3, dis.3.1, dis.1.5, dis.2.5, chg.2.1, dis.3.2, dis.1.3, dis.1.2, dis.1.4, dis.1.6
 themes: crime.t.balance, crime.t.moral, crime.t.compliance, inv.t.justice
 criteria: enforceability, rights, justice, responsiveness
-document: Crime/Haines attack - charges and first court appearance (Evidence summary 22Oct26).pdf
+document: Crime/Haines attack charges - MP security briefing (Evidence summary 26Oct26).pdf
 source: https://www.abc.net.au/news/2026-10-21/helen-haines-attack-live-updates-brendan-nugent-court-hearing/107290276
 related: crimes-act-1900-key-offences, police-and-law-enforcement-agencies, the-adversary-system-and-court-jurisdiction, dpp-v-carr-2002, detention-and-interrogation-rights, bail-act-2013
 added: 2026-10-21
@@ -63,6 +63,23 @@ including **attempted murder** (25 years, ss 321M, 321P), are "not ruled out".
 - UK comparison: MPs Jo Cox (2016) and Sir David Amess (2021) were killed meeting constituents.
   Some federal MPs say AFP home-security assessments are lacking; extra measures are planned for the
   Victorian election on 28 November.
+
+## The aftermath: NSW MPs' security briefing (22–23 October 2026)
+
+- After a closed briefing by NSW Police and parliamentary security, Liberal MP **Alister Henskens** said
+  some MPs left **in tears** at "piecemeal" answers; unnamed MPs called it box-ticking (one MP's
+  account; no official record).
+- MPs raised a protester who jumped the gallery barrier and reached the chamber floor (held by MPs and
+  the deputy serjeant-at-arms until special constables arrived) and re-entry without screening after a
+  fire alarm.
+- **Speaker Greg Piper**: extra special constables and a security upgrade with entry and exit
+  checkpoints (no cost or timeframe). **Commissioner Mal Lanyon**: local commanders will protect MPs who
+  need it. **Premier Minns**: MPs cannot be wrapped in cotton wool.
+- NSW MPs recalled death threats — in 2018 a man was jailed for 16 months over threats to Jodie
+  Harrison's office and later placed under an anti-terrorism order. The AFP taskforce on political
+  violence has charged **41** people since October 2025.
+- Shows the **limits of law enforcement as prevention** (crime.1.9): the criminal law responds after
+  harm; protecting MPs depends on situational measures.
 
 ## Use it for
 

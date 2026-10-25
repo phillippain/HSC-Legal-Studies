@@ -61,7 +61,7 @@ Crime/Sentencing and Punishment/Moore Park rapist sentencing hearing (Evidence s
 Shelter/Evidence Sheets/Evidence Sheet - Strata reforms fourth tranche 2026 (20Oct26).pdf | shel.2.4
 Crime/Young Offenders/Narrabeen Lagoon 13-year-old charged (Evidence summary 20Oct26).pdf | crime.5.1
 Human Rights/US execution livestream and the death penalty (Evidence summary 20Oct26).pdf | hr.3.1
-Crime/Criminal Trial Process/Zakaria stay hearing day one (Evidence summary 21Oct26).pdf | crime.3.1
+Crime/Criminal Trial Process/Zakaria permanent stay hearing day one (Evidence summary 21Oct26).pdf | crime.3.1
 Crime/Haines attack - charges and first court appearance (Evidence summary 22Oct26).pdf | crime.2.4, crime.2.5, crime.3.1
 Crime/Criminal Trial Process/Town Hall protest CCTV subpoena ruling (Evidence summary 22Oct26 v2).pdf | crime.3.7
 Crime/NSW Workplace Protection Orders bill (Evidence summary 22Oct26).pdf | crime.1.9, crime.4.6
@@ -368,3 +368,12 @@ Preliminary/Year 11 - Banking Royal Commission Evidence Summary.pdf | dis.3.7, d
 Preliminary/Year 11 - Robodebt Royal Commission Evidence Summary.pdf | dis.3.6, dis.3.8, dis.3.4
 Preliminary/Year 11 - NSW Land Rights and the Land Claims Backlog Evidence Summary.pdf | chg.5.1, chg.5.2
 Preliminary/Year 11 - Referendums 1967 and 2023 Compared Evidence Summary.pdf | inv.5.5, inv.5.1
+Crime/Criminal Trial Process/Zakaria permanent stay - week one and Crown concession (Evidence summary 26Oct26).pdf | crime.3.1, crime.2.1, crime.6.2
+Crime/Haines attack charges - MP security briefing (Evidence summary 26Oct26).pdf | crime.1.9, crime.2.4, crime.3.1
+Family/Evidence Summaries/Family - NT Child Protection Review Kumanjayi Little Baby Advocates Reaction Evidence Summary.pdf | fam.3.4, fam.2.4
+Shelter/Evidence Sheets/Evidence Summary - Strata reforms fourth tranche 2026 (26Oct26).pdf | shel.2.4, shel.2.3
+Crime/Media/Crime - Exercise App Stalking Evidence Summary.pdf | crime.1.8, crime.1.9, crime.2.2
+Crime/Media/Crime - Police AI Report Writing Trial Evidence Summary.pdf | crime.2.3, crime.2.1, crime.3.7
+Crime/Media/Crime - Russell Manslaughter Sentencing Hearing Evidence Summary.pdf | crime.4.3, crime.4.4, crime.3.9
+Family/Evidence Summaries/Family - NSW Early Learning Child Safety Laws One Year Evidence Summary.pdf | fam.3.4, fam.1.5
+Human Rights/HR - Tasmania Conversion Practices Ban Evidence Summary.pdf | hr.3.1, hr.2.9, hr.2.12

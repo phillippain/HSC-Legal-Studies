@@ -10,7 +10,7 @@ core: shel.2.4, shel.2.3
 support: shel.2.1, shel.2.5, shel.2.6, shel.2.7, shel.2.8, shel.1.4, inv.3.3, inv.4.4, inv.3.4, chg.1, chg.2, chg.3, exp.5, exp.6
 themes: shel.t.reform, shel.t.cooperation, shel.t.compliance, shel.t.values, shel.t.effectiveness
 criteria: responsiveness, enforceability, rights, accessibility, resource
-document: Shelter/Evidence Sheets/Evidence Sheet - Strata reforms fourth tranche 2026 (20Oct26).pdf
+document: Shelter/Evidence Sheets/Evidence Summary - Strata reforms fourth tranche 2026 (26Oct26).pdf
 source: https://www.nsw.gov.au/ministerial-releases/strata-schemes-amendment-reduces-red-tape
 related: strata-schemes-management-act-2015, cooper-2020, residential-apartment-buildings-act-2020, ncat-act-2013, shelter-dispute-resolution-map, law-reform-conditions-agencies-mechanisms
 added: 2026-10-21
@@ -42,6 +42,16 @@ disputes, s 227) → **NCAT** order for a no-objection notice.
 2021 statutory review → **Dec 2023** first tranche → **Sep 2024** agents' conflicts and commissions
 → **Feb 2025** payment plans, levy certification, solar/EV by-law limits → **Oct 2025** building
 manager duties and Fair Trading powers commence → **15 Oct 2026** fourth bill passes.
+
+## How a strata dispute under the new provisions is resolved
+
+Internal steps (committee, notice to comply) → free **Fair Trading mediation**, compulsory for most strata
+disputes (a mediation certificate goes with the application; s 227(4) lets some matters skip it) →
+**NCAT** Consumer and Commercial Division orders under **s 232**, now including **bond repayment** and
+**terminating a building manager's agreement** → civil penalty for breaching an order (s 247A) → NCAT
+Appeal Panel, usually within 28 days. Many disputes settle at mediation; decisions usually take six
+weeks or more after evidence closes. Tribunals and regulators, not courts, resolve most of these
+shelter disputes.
 
 ## Use it for
 
