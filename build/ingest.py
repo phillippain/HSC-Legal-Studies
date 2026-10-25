@@ -7,6 +7,7 @@
         it could go in.
 
     python3 build/ingest.py file "<inbox path>" "<library folder>" [--as "<new name>"] [--tags a,b]
+        (<inbox path> may be the bare name, inbox/<name>, or a full path to the inbox file)
         Move one file from the inbox into  library/<folder>/ , carry its Drive id
         across into data/drive-links.json (a file keeps its id when it moves inside
         the shared drive), and — with --tags — record hand tags for it in
@@ -158,7 +159,30 @@ def status():
 
 # --------------------------------------------------------------------- file
 
+def inbox_rel(path):
+    """The path of an inbox file relative to the inbox, however it was given.
+
+    Accepts the bare name ("x.pdf"), the name under inbox/ ("inbox/x.pdf", "Inbox/x.pdf"),
+    a full path on this machine, or a full Mac path to the shared-drive inbox. The result
+    is what inbox-links.json is keyed by, so the Drive id is found whichever form was used
+    (a full path used to move the file but lose its id)."""
+    p = os.path.expanduser(path.strip()).replace("\\", "/")
+    if os.path.isabs(p):
+        try:
+            r = os.path.relpath(os.path.realpath(p), os.path.realpath(INBOX))
+            if not r.startswith(".."):
+                return r.replace(os.sep, "/")
+        except ValueError:
+            pass
+    parts = p.split("/")
+    for i in range(len(parts) - 1, -1, -1):          # the last folder called inbox wins
+        if parts[i].lower() == "inbox":
+            return "/".join(parts[i + 1:])
+    return p.lstrip("/")
+
+
 def file_one(src_rel, folder, new_name=None, tags=None):
+    src_rel = inbox_rel(src_rel)
     src = os.path.join(INBOX, src_rel)
     if not os.path.isfile(src):
         sys.exit(f"Not in the inbox: {src_rel}")
@@ -188,7 +212,10 @@ def file_one(src_rel, folder, new_name=None, tags=None):
     print(f"moved   inbox/{src_rel}  ->  library/{rel}")
 
     links = (drive_json("inbox-links.json") or {}).get("files", {})
-    fid = links.get(src_rel, {}).get("id")
+    entry = links.get(src_rel)
+    if entry is None:                                # older maps keyed by bare name
+        entry = next((v for k, v in links.items() if os.path.basename(k) == os.path.basename(src_rel)), None)
+    fid = (entry or {}).get("id")
     m = load_local_map()
     if fid:
         m["files"][rel] = fid
