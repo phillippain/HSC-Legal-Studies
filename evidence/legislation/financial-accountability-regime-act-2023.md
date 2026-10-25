@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, justice, resource
 source: https://www.legislation.gov.au/C2023A00067/latest/text
 related: banking-royal-commission-2019, royal-commissions-acts, garcia-v-nab-1998
 added: 2026-10-24
+document11: Preliminary/Year 11 - Banking Royal Commission Evidence Summary.pdf
 ---
 
 Commissioner Hayne's 2019 report recommended extending the Banking Executive Accountability Regime to the whole financial sector (recommendations 3.9, 4.12, 6.6–6.8) and establishing a compensation scheme of last resort (recommendation 7.1). Both took until 2023 to pass.

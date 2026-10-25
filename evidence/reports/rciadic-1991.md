@@ -2,7 +2,7 @@
 type: report
 title: Royal Commission into Aboriginal Deaths in Custody — National Report (1991)
 short: RCIADIC 1991
-citation: Royal Commission into Aboriginal Deaths in Custody, National Report, 15 April 1991 (Commissioner Elliott Johnston QC), 5 volumes, 339 recommendations
+citation: Royal Commission into Aboriginal Deaths in Custody, National Report, 15 April 1991 (Commissioner Elliott Johnston, who replaced James Muirhead QC in April 1989), 5 volumes, 339 recommendations
 date: 1991-04-15
 jurisdiction: Commonwealth, with all states and territories
 significance: Ninety-nine deaths examined; the finding was not that Aboriginal people died at a higher rate in custody but that they were in custody at a grossly disproportionate rate — and 339 recommendations followed.
@@ -13,6 +13,7 @@ criteria: justice, rights, responsiveness, enforceability, society
 source: https://www.austlii.edu.au/au/other/IndigLRes/rciadic/
 related: deaths-in-custody-since-1991, custody-notification-service, royal-commissions-acts, circle-sentencing-and-walama, bocsar-custody-june-2026
 added: 2026-10-24
+document11: Preliminary/Year 11 - Royal Commission into Aboriginal Deaths in Custody Evidence Summary.pdf
 ---
 
 Established in October 1987 by the Hawke Government with the states, after a campaign by families and the Committee to Defend Black Rights over a wave of deaths in police and prison cells, the Commission investigated every Aboriginal and Torres Strait Islander death in custody between 1 January 1980 and 31 May 1989 — **99 deaths**, each the subject of its own report.

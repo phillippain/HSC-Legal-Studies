@@ -5,7 +5,7 @@ short: Referendum results 1901–2023
 citation: Australian Electoral Commission, Referendum dates and results; Commonwealth of Australia Constitution Act, s 128
 date: 2023-10-14
 jurisdiction: Commonwealth
-significance: Forty-five proposals to change the Constitution have gone to the people since 1901 and eight have passed — none without bipartisan support, and none since 1977.
+significance: Forty-five proposals to change the Constitution have gone to the people since 1901 and eight have passed — all but arguably one (1946) with bipartisan support, and none since 1977.
 core: inv.5.5
 support: inv.5.1, inv.5.4, chg.3.1, chg.4.2, chg.1.1
 themes: inv.t.values, inv.t.justice
@@ -13,6 +13,7 @@ criteria: responsiveness, society, ruleoflaw
 source: https://www.aec.gov.au/elections/referendums/referendum_dates_and_results.htm
 related: referendum-1967, voice-referendum-2023, australian-constitution-rights-and-powers, commonwealth-v-tasmania-1983
 added: 2026-10-24
+document11: Preliminary/Year 11 - Referendums 1967 and 2023 Compared Evidence Summary.pdf
 ---
 
 Section 128 is the only way to alter the Constitution: a bill passed by both houses (or one house twice), then a vote of electors in which the proposal must win a **double majority** — a majority of voters nationally *and* a majority of voters in a majority of the states (four of six). Territory votes count in the national total only.

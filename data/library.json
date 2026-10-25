@@ -8438,6 +8438,93 @@
    "primary": true
   },
   {
+   "path": "Preliminary/Year 11 - Banking Royal Commission Evidence Summary.pdf",
+   "name": "Year 11 - Banking Royal Commission Evidence Summary",
+   "file": "Year 11 - Banking Royal Commission Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211418,
+   "mtime": 1792967570,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "dis.3.7",
+    "dis.3.6",
+    "chg.2.3"
+   ],
+   "dupe": "year11bankingroyalcommissionevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - NSW Land Rights and the Land Claims Backlog Evidence Summary.pdf",
+   "name": "Year 11 - NSW Land Rights and the Land Claims Backlog Evidence Summary",
+   "file": "Year 11 - NSW Land Rights and the Land Claims Backlog Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207096,
+   "mtime": 1792967570,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "chg.5.1",
+    "chg.5.2"
+   ],
+   "dupe": "year11nswlandrightsandthelandclaimsbacklogevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Referendums 1967 and 2023 Compared Evidence Summary.pdf",
+   "name": "Year 11 - Referendums 1967 and 2023 Compared Evidence Summary",
+   "file": "Year 11 - Referendums 1967 and 2023 Compared Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207055,
+   "mtime": 1792967571,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "inv.5.5",
+    "inv.5.1"
+   ],
+   "dupe": "year11referendums1967and2023comparedevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Robodebt Royal Commission Evidence Summary.pdf",
+   "name": "Year 11 - Robodebt Royal Commission Evidence Summary",
+   "file": "Year 11 - Robodebt Royal Commission Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210819,
+   "mtime": 1792967572,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "dis.3.6",
+    "dis.3.8",
+    "dis.3.4"
+   ],
+   "dupe": "year11robodebtroyalcommissionevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Royal Commission into Aboriginal Deaths in Custody Evidence Summary.pdf",
+   "name": "Year 11 - Royal Commission into Aboriginal Deaths in Custody Evidence Summary",
+   "file": "Year 11 - Royal Commission into Aboriginal Deaths in Custody Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210585,
+   "mtime": 1792967572,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "dis.3.7",
+    "dis.3.6"
+   ],
+   "dupe": "year11royalcommissionintoaboriginaldeathsincustodyevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/12LEG3 2026 Sept Shelter Update.pdf",
    "name": "12LEG3 2026 Sept Shelter Update",
    "file": "12LEG3 2026 Sept Shelter Update.pdf",

@@ -5,7 +5,7 @@ short: NSWALC 60,000th land claim (2026)
 citation: National Indigenous Times, 27 January 2026; NSW Aboriginal Land Council media release
 date: 2026-01-27
 jurisdiction: NSW
-significance: Sixty thousand claims lodged since 1983, more than 44,000 still undetermined, an average wait of 15 to 20 years — and 274 hectares returned in the year.
+significance: Sixty thousand claims lodged since 1983 and more than 44,000 still undetermined; NSWALC puts waits at 15 to 20 years, and reports 274 hectares returned in the year.
 core: chg.5.1
 support: chg.5.5, chg.4.2, chg.1.6, chg.2.2, exp.5.2
 themes: chg.t.effectiveness, chg.t.justice
@@ -13,6 +13,7 @@ criteria: responsiveness, resource, accessibility, justice
 source: https://nit.com.au/27-01-2026/22339/corrective-not-symbolic-nswalc-calls-for-urgent-improvement-to-system-on-submitting-60000th-land-claim
 related: aboriginal-land-rights-act-1983, nsw-audit-office-aboriginal-land-claims-2022, metropolitan-lalc-2026
 added: 2026-10-24
+document11: Preliminary/Year 11 - NSW Land Rights and the Land Claims Backlog Evidence Summary.pdf
 ---
 
 NSWALC used the milestone claim to put numbers on the *Aboriginal Land Rights Act 1983* (NSW) in practice.
@@ -21,7 +22,7 @@ NSWALC used the milestone claim to put numbers on the *Aboriginal Land Rights Ac
 
 - **60,000** claims lodged since 1983; in 2025–26, 672 claims over about 13,000 parcels (the NSW Government cites 3,163 lodged in the last financial year — the two count differently).
 - **More than 44,000** claims undetermined at the end of 2025, some lodged in 1984.
-- Average time to determination **15–20 years**, according to several independent reviews.
+- Waits of **15–20 years**, according to NSWALC. Treat this with care: it echoes the 2007 *Jerrinja* case, and the 2022 Audit Office found claims that were decided averaged about 4.4 years, although 63% of waiting claims were over five years old.
 - **274 hectares** returned in 2025–26.
 
 ## What NSWALC asked for

@@ -363,3 +363,8 @@ Cases/Crime/R v XY [2026] NSWCCA 174 - Evidence Summary.pdf | crime.4.5
 Cases/Human Rights/Cordle v Brooks [2026] FedCFamC2G 2081 - Evidence Summary.pdf | hr.2.9
 Cases/Human Rights/KTM24 v Rio Tinto Limited (Strike Out) [2026] FCA 1579 - Evidence Summary.pdf | hr.2.9
 Cases/Year 11/McCall v SMRT Log Pty Ltd (Privilege) [2026] NSWSC 1308 - Evidence Summary.pdf | inv.4.3
+Preliminary/Year 11 - Royal Commission into Aboriginal Deaths in Custody Evidence Summary.pdf | dis.3.7, dis.3.6
+Preliminary/Year 11 - Banking Royal Commission Evidence Summary.pdf | dis.3.7, dis.3.6, chg.2.3
+Preliminary/Year 11 - Robodebt Royal Commission Evidence Summary.pdf | dis.3.6, dis.3.8, dis.3.4
+Preliminary/Year 11 - NSW Land Rights and the Land Claims Backlog Evidence Summary.pdf | chg.5.1, chg.5.2
+Preliminary/Year 11 - Referendums 1967 and 2023 Compared Evidence Summary.pdf | inv.5.5, inv.5.1

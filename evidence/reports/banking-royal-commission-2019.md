@@ -2,7 +2,7 @@
 type: report
 title: Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry — Final Report (2019)
 short: Banking Royal Commission 2019
-citation: Final Report, 1 February 2019 (tabled 4 February 2019), Commissioner Kenneth Hayne AC KC; 76 recommendations; 24 referrals to ASIC and APRA
+citation: Final Report, 1 February 2019 (tabled 4 February 2019), Commissioner Kenneth Hayne AC QC; 76 recommendations; 24 referrals to ASIC and APRA
 date: 2019-02-04
 jurisdiction: Commonwealth
 significance: In twelve months of public hearings the Commission exposed fees charged to dead clients and loans sold to people who could not repay, named the cause as greed, and made 76 recommendations.
@@ -13,6 +13,7 @@ criteria: enforceability, justice, responsiveness, rights, resource
 source: https://www.royalcommission.gov.au/banking
 related: financial-accountability-regime-act-2023, royal-commissions-acts, garcia-v-nab-1998, amadio-1983
 added: 2026-10-24
+document11: Preliminary/Year 11 - Banking Royal Commission Evidence Summary.pdf
 ---
 
 The Turnbull Government resisted a royal commission for eighteen months and then called one on 14 December 2017 after the major banks themselves asked for it. The Commission took 10,000 public submissions and held 68 days of hearings in 2018 in which senior executives were cross-examined on live television.

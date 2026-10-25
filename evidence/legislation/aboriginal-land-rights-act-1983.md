@@ -13,6 +13,7 @@ criteria: accessibility, responsiveness, resource, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1983-042
 related: nswalc-60000th-land-claim-2026, nsw-audit-office-aboriginal-land-claims-2022, metropolitan-lalc-2026, native-title-act-1993, mabo-no2-1992
 added: 2026-10-24
+document11: Preliminary/Year 11 - NSW Land Rights and the Land Claims Backlog Evidence Summary.pdf
 ---
 
 Passed by the Wran Government after the 1980 Keane parliamentary inquiry, the Act is compensation legislation: it recognises that land was taken without consent and returns land, not native title. It predates *Mabo* by nine years and works independently of the *Native Title Act 1993* (Cth).
@@ -20,10 +21,10 @@ Passed by the Wran Government after the 1980 Keane parliamentary inquiry, the Ac
 ## How it works
 
 - **Claimable Crown land** (s 36): Crown land not lawfully used or occupied, not needed for an essential public purpose and not subject to a registered native title claim can be claimed by a Local Aboriginal Land Council (LALC) or the NSW Aboriginal Land Council (NSWALC). Granted land is transferred as freehold.
-- **Structure**: 120 LALCs elected by members, under a state body, NSWALC, with an elected Council.
+- **Structure**: 121 LALCs (since February 2023) elected by members, under a state body, NSWALC, with an elected Council.
 - **Funding**: 7.5% of NSW land tax for fifteen years (1983–1998) built the Statutory Investment Fund that now funds the network.
 - **The decision-maker** is the Crown Lands Minister; a refusal can be appealed to the Land and Environment Court.
-- Aboriginal Land Agreements (added 2014) allow negotiated settlements of groups of claims.
+- Aboriginal Land Agreements (legislated 2014, available from 1 July 2015) allow negotiated settlements of groups of claims.
 
 ## Use it for
 

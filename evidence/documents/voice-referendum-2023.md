@@ -5,7 +5,7 @@ short: Voice referendum 2023
 citation: Constitution Alteration (Aboriginal and Torres Strait Islander Voice) 2023, defeated 14 October 2023; proposed s 129
 date: 2023-10-14
 jurisdiction: Commonwealth
-significance: A proposal that polled above 60% in early 2023 lost in every state once bipartisan support collapsed: 39.94% Yes nationally and no state carried.
+significance: A proposal that polled near 65% in late 2022 lost in every state once bipartisan support collapsed: 39.94% Yes nationally and no state carried.
 core: inv.5.5
 support: inv.5.1, inv.5.4, chg.1.1, chg.2.1, chg.2.2, chg.4.2, exp.5.2
 themes: inv.t.values, inv.t.justice
@@ -13,6 +13,7 @@ criteria: society, responsiveness, rights, justice
 source: https://results.aec.gov.au/29581/Website/ReferendumNationalResults-29581.htm
 related: referendums-1901-2023-results, referendum-1967, australian-constitution-rights-and-powers
 added: 2026-10-24
+document11: Preliminary/Year 11 - Referendums 1967 and 2023 Compared Evidence Summary.pdf
 ---
 
 The Uluru Statement from the Heart (2017) asked for a constitutionally enshrined Voice to Parliament. The Albanese Government put a single question: to recognise Aboriginal and Torres Strait Islander peoples by establishing a Voice that "may make representations to the Parliament and the Executive Government" on matters relating to them, with Parliament to decide its composition and powers (proposed s 129).
