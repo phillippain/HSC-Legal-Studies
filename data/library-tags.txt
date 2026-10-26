@@ -377,3 +377,10 @@ Crime/Media/Crime - Police AI Report Writing Trial Evidence Summary.pdf | crime.
 Crime/Media/Crime - Russell Manslaughter Sentencing Hearing Evidence Summary.pdf | crime.4.3, crime.4.4, crime.3.9
 Family/Evidence Summaries/Family - NSW Early Learning Child Safety Laws One Year Evidence Summary.pdf | fam.3.4, fam.1.5
 Human Rights/HR - Tasmania Conversion Practices Ban Evidence Summary.pdf | hr.3.1, hr.2.9, hr.2.12
+Crime/Media/Crime - Alan Jones Closed Court Judge-Alone Trial Evidence Summary.pdf | crime.3.1, crime.3.9
+Crime/Media/Crime - Child-like Dolls at the Border Evidence Summary.pdf | crime.6.2, crime.2.3
+Crime/Media/Crime - Victoria Court Secrecy Reforms Evidence Summary.pdf | crime.3.1, crime.3.7
+Family/Evidence Summaries/Family - Tasmania Family Violence Definition Evidence Summary.pdf | fam.2.4
+Cases/Human Rights/Abdel-Hady v Commonwealth [2026] HCA 17 - Evidence Summary.pdf | hr.2.11, hr.2.8
+Human Rights/HR - Secretaries Board Social Media Clips Evidence Summary.pdf | hr.2.8, hr.3.1
+Cases/Human Rights/Giggle for Girls Pty Ltd v Tickle [2026] FCAFC 64 - Evidence Summary.pdf | hr.2.9, hr.2.11
