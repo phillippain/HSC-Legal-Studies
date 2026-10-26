@@ -4282,6 +4282,41 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Klimova and Klimova [2026] FedCFamC1A 190 - Case Summary.pdf",
+   "name": "Year 11 - Klimova and Klimova [2026] FedCFamC1A 190 - Case Summary",
+   "file": "Year 11 - Klimova and Klimova [2026] FedCFamC1A 190 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 730823,
+   "mtime": 1793048417,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.1.4",
+    "inv.1.6"
+   ],
+   "dupe": "year11klimovaandklimova2026fedcfamc1a190casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Large v R [2026] NSWCCA 175 - Case Summary.pdf",
+   "name": "Year 11 - Large v R [2026] NSWCCA 175 - Case Summary",
+   "file": "Year 11 - Large v R [2026] NSWCCA 175 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 712598,
+   "mtime": 1793048418,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.5",
+    "inv.4.3",
+    "inv.1.6"
+   ],
+   "dupe": "year11largevr2026nswcca175casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Mabo v Queensland (No 2) [1992] HCA 23 - Case Summary.pdf",
    "name": "Year 11 - Mabo v Queensland (No 2) [1992] HCA 23 - Case Summary",
    "file": "Year 11 - Mabo v Queensland (No 2) [1992] HCA 23 - Case Summary.pdf",
@@ -4335,6 +4370,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - SafeWork NSW v Toll Transport (No 2) [2026] NSWIC 63 - Case Summary.pdf",
+   "name": "Year 11 - SafeWork NSW v Toll Transport (No 2) [2026] NSWIC 63 - Case Summary",
+   "file": "Year 11 - SafeWork NSW v Toll Transport (No 2) [2026] NSWIC 63 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 734691,
+   "mtime": 1793048418,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.7"
+   ],
+   "dupe": "year11safeworknswvtolltransportno22026nswic63casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary.pdf",
    "name": "Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary",
    "file": "Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary.pdf",
@@ -4365,6 +4416,22 @@
     "inv.5.4"
    ],
    "dupe": "year11thomasvmowbray2007hca33casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Vora and Vora [2026] FedCFamC1A 188 - Case Summary.pdf",
+   "name": "Year 11 - Vora and Vora [2026] FedCFamC1A 188 - Case Summary",
+   "file": "Year 11 - Vora and Vora [2026] FedCFamC1A 188 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 708390,
+   "mtime": 1793048416,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.1.6"
+   ],
+   "dupe": "year11voraandvora2026fedcfamc1a188casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5005,6 +5072,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Klimova and Klimova [2026] FedCFamC1A 190 - Case Summary.pdf",
+   "name": "Klimova and Klimova [2026] FedCFamC1A 190 - Case Summary",
+   "file": "Klimova and Klimova [2026] FedCFamC1A 190 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 775783,
+   "mtime": 1793048412,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.5",
+    "fam.2.4"
+   ],
+   "dupe": "klimovaandklimova2026fedcfamc1a190casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Kurbonova & Hennigsen [2026] FedCFamC1F 520 - Case Summary.pdf",
    "name": "Kurbonova & Hennigsen [2026] FedCFamC1F 520 - Case Summary",
    "file": "Kurbonova & Hennigsen [2026] FedCFamC1F 520 - Case Summary.pdf",
@@ -5341,6 +5425,23 @@
     "family"
    ],
    "dupe": "vanaixinno32026fedcfamc1f601casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Vora and Vora [2026] FedCFamC1A 188 - Case Summary.pdf",
+   "name": "Vora and Vora [2026] FedCFamC1A 188 - Case Summary",
+   "file": "Vora and Vora [2026] FedCFamC1A 188 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 758733,
+   "mtime": 1793048411,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.5",
+    "fam.2.2"
+   ],
+   "dupe": "voraandvora2026fedcfamc1a188casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6315,6 +6416,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Large v R [2026] NSWCCA 175 - Case Summary.pdf",
+   "name": "Large v R [2026] NSWCCA 175 - Case Summary",
+   "file": "Large v R [2026] NSWCCA 175 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 761801,
+   "mtime": 1793048414,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.2",
+    "crime.3.7",
+    "crime.4.5"
+   ],
+   "dupe": "largevr2026nswcca175casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Magaming v The Queen [2013] HCA 40 - Case Summary.pdf",
    "name": "Magaming v The Queen [2013] HCA 40 - Case Summary",
    "file": "Magaming v The Queen [2013] HCA 40 - Case Summary.pdf",
@@ -6767,6 +6886,25 @@
     "crime.6.2"
    ],
    "dupe": "robertssmithvfairfaxmediano412023fca555casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/SafeWork NSW v Toll Transport (No 2) [2026] NSWIC 63 - Case Summary.pdf",
+   "name": "SafeWork NSW v Toll Transport (No 2) [2026] NSWIC 63 - Case Summary",
+   "file": "SafeWork NSW v Toll Transport (No 2) [2026] NSWIC 63 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 782869,
+   "mtime": 1793048413,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.1",
+    "crime.4.2",
+    "crime.4.3",
+    "crime.4.6"
+   ],
+   "dupe": "safeworknswvtolltransportno22026nswic63casesummary",
    "copyOf": null,
    "primary": true
   },

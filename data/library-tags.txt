@@ -385,3 +385,11 @@ Cases/Human Rights/Abdel-Hady v Commonwealth [2026] HCA 17 - Evidence Summary.pd
 Human Rights/HR - Secretaries Board Social Media Clips Evidence Summary.pdf | hr.2.8, hr.3.1
 Cases/Human Rights/Giggle for Girls Pty Ltd v Tickle [2026] FCAFC 64 - Evidence Summary.pdf | hr.2.9, hr.2.11
 Crime/NSW knife scanning powers - LEPRA Part 4A law (Evidence summary 26Oct26).pdf | crime.2.1, crime.2.3, crime.1.9
+Cases/Family/Vora and Vora [2026] FedCFamC1A 188 - Case Summary.pdf | fam.2.5, fam.2.2
+Cases/Family/Klimova and Klimova [2026] FedCFamC1A 190 - Case Summary.pdf | fam.2.5, fam.2.4
+Cases/Crime/SafeWork NSW v Toll Transport (No 2) [2026] NSWIC 63 - Case Summary.pdf | crime.4.1, crime.4.2, crime.4.3, crime.4.6
+Cases/Crime/Large v R [2026] NSWCCA 175 - Case Summary.pdf | crime.3.2, crime.3.7, crime.4.5
+Cases/Year 11/Year 11 - Vora and Vora [2026] FedCFamC1A 188 - Case Summary.pdf | inv.1.6
+Cases/Year 11/Year 11 - Klimova and Klimova [2026] FedCFamC1A 190 - Case Summary.pdf | inv.1.4, inv.1.6
+Cases/Year 11/Year 11 - SafeWork NSW v Toll Transport (No 2) [2026] NSWIC 63 - Case Summary.pdf | dis.1.7
+Cases/Year 11/Year 11 - Large v R [2026] NSWCCA 175 - Case Summary.pdf | dis.1.5, inv.4.3, inv.1.6
