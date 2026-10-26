@@ -8730,6 +8730,25 @@
    "primary": true
   },
   {
+   "path": "Preliminary/Year 11 - National Gun Buyback Law Reform After Bondi Evidence Summary.pdf",
+   "name": "Year 11 - National Gun Buyback Law Reform After Bondi Evidence Summary",
+   "file": "Year 11 - National Gun Buyback Law Reform After Bondi Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 205677,
+   "mtime": 1793048796,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "chg.6.1",
+    "chg.3.1",
+    "chg.3.2",
+    "chg.4.2"
+   ],
+   "dupe": "year11nationalgunbuybacklawreformafterbondievidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Preliminary/Year 11 - Referendums 1967 and 2023 Compared Evidence Summary.pdf",
    "name": "Year 11 - Referendums 1967 and 2023 Compared Evidence Summary",
    "file": "Year 11 - Referendums 1967 and 2023 Compared Evidence Summary.pdf",
@@ -8778,6 +8797,43 @@
     "dis.3.6"
    ],
    "dupe": "year11royalcommissionintoaboriginaldeathsincustodyevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Tasmania Conversion Practices Bill Law Reform Evidence Summary.pdf",
+   "name": "Year 11 - Tasmania Conversion Practices Bill Law Reform Evidence Summary",
+   "file": "Year 11 - Tasmania Conversion Practices Bill Law Reform Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206055,
+   "mtime": 1793048794,
+   "bucket": "evidence",
+   "kind": "legislation",
+   "tags": [
+    "chg.6.1",
+    "chg.1.1",
+    "chg.3.1"
+   ],
+   "dupe": "year11tasmaniaconversionpracticesbilllawreformevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - UN Experts and Stalled Custody Bills Law Reform Evidence Summary.pdf",
+   "name": "Year 11 - UN Experts and Stalled Custody Bills Law Reform Evidence Summary",
+   "file": "Year 11 - UN Experts and Stalled Custody Bills Law Reform Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207524,
+   "mtime": 1793048795,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "chg.1.4",
+    "chg.4.2",
+    "inv.6.4",
+    "inv.5.2"
+   ],
+   "dupe": "year11unexpertsandstalledcustodybillslawreformevidencesummary",
    "copyOf": null,
    "primary": true
   },
