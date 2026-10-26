@@ -12075,6 +12075,24 @@
    "primary": true
   },
   {
+   "path": "Crime/NSW knife scanning powers - LEPRA Part 4A law (Evidence summary 26Oct26).pdf",
+   "name": "NSW knife scanning powers - LEPRA Part 4A law (Evidence summary 26Oct26)",
+   "file": "NSW knife scanning powers - LEPRA Part 4A law (Evidence summary 26Oct26).pdf",
+   "ext": "pdf",
+   "bytes": 216213,
+   "mtime": 1792979519,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.2.1",
+    "crime.2.3",
+    "crime.1.9"
+   ],
+   "dupe": "nswknifescanningpowersleprapart4alawevidencesummary26oct26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/NSW permanent knife scanning powers (Evidence summary 16Oct26).pdf",
    "name": "NSW permanent knife scanning powers (Evidence summary 16Oct26)",
    "file": "NSW permanent knife scanning powers (Evidence summary 16Oct26).pdf",

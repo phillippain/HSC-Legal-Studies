@@ -1,18 +1,18 @@
 ---
 type: document
-title: Permanent knife scanning ('wanding') powers pass NSW Parliament (2026)
-short: NSW knife scanning permanent
-citation: HSC Legal Studies evidence summary, 16 October 2026; built on the NSW ministerial media release of 14 October 2026, DCJ releases, the Justice and Equity Centre submission and legal commentary
+title: Knife scanning ('wanding') powers — LEPRA Part 4A, from trial to permanent law (2024–2026)
+short: Knife scanning powers
+citation: HSC Legal Studies evidence summaries, 16 and 26 October 2026; built on the Law Enforcement (Powers and Responsibilities) and Other Legislation Amendment (Knife Crime) Act 2024 (NSW) No 31 (LEPRA Part 4A, ss 45D–45R) and cl 47A of the Regulation, the NSW ministerial media release of 14 October 2026, DCJ releases, the Justice and Equity Centre submission and legal commentary
 date: 2026-10-14
 jurisdiction: NSW
 significance: A suspicionless search power created as a trial with a sunset clause has been made permanent and widened, with the same-sex scanning safeguard removed and no evidence it reduces crime.
 core: crime.2.1, crime.2.3, crime.1.9
-support: crime.2.4, crime.4.6, crime.5.5, chg.1, chg.2, chg.3, inv.1.6, inv.1.7, inv.7.1, dis.3.2, chg.2.1, exp.5, exp.6, exp.2.4, dis.1.7
+support: crime.2.6, crime.2.4, crime.4.6, crime.5.5, chg.1, chg.2, chg.3, inv.1.6, inv.1.7, inv.7.1, dis.3.2, chg.2.1, exp.5, exp.6, exp.2.4, dis.1.7
 themes: crime.t.discretion, crime.t.balance, crime.t.reform, crime.t.effectiveness, chg.t.justice, chg.t.effectiveness
 criteria: resource, enforceability, responsiveness, rights, society, ruleoflaw, justice
-document: Crime/NSW permanent knife scanning powers (Evidence summary 16Oct26).pdf
+document: Crime/NSW knife scanning powers - LEPRA Part 4A law (Evidence summary 26Oct26).pdf
 source: https://www.nsw.gov.au/ministerial-releases/permanent-powers-targeting-knife-crime-passes-parliament
-related: police-and-law-enforcement-agencies, reporting-and-investigating-crime, r-v-rondo-2001, dpp-v-carr-2002, telegraph-2026-adult-crime-adult-time, bocsar-recorded-crime-june-2026
+related: lepra-2002, lepra-reasonable-suspicion-authorities-2020, police-powers-expansion-since-lepra, police-and-law-enforcement-agencies, reporting-and-investigating-crime, r-v-rondo-2001, dpp-v-carr-2002, telegraph-2026-adult-crime-adult-time, bocsar-recorded-crime-june-2026
 added: 2026-10-16
 ---
 
@@ -39,6 +39,26 @@ offence carrying a fine up to $5,500.
 **59,228** people scanned across **406** operations, December 2024 to June 2026, producing **380**
 weapons seized, **200** charges and **68** infringements or diversions — a hit rate **under 1%**.
 One legal commentary reports 308 weapons rather than 380.
+
+## Two search powers in one Act
+
+| | Ordinary search (LEPRA s 21) — about the **person** | Knife wanding (Part 4A) — about the **place** |
+|---|---|---|
+| Trigger | Reasonable suspicion the person has stolen goods, weapons or drugs | Being in a declared area; **no suspicion threshold** (s 45K) |
+| Who authorises | The officer on the spot | A senior officer, by written declaration (s 45F) |
+| Where | Anywhere | Stations, shopping precincts, sporting venues, prescribed places (and, from 2026, major entertainment venues) |
+| Duration | No declaration | Up to 12 hours (s 45I); 24 hours after the 2026 reform |
+| Scope | Pat-down, outer items, metal detector; strip search possible (ss 30–31) | Hand-held scanner; if metal is indicated, produce the item and be rescanned (s 45M); a fuller search needs a separate Part 4 power |
+| Refusal | — | Offence without reasonable excuse: 50 penalty units, about $5,500 (s 45N); **17 people charged** in the trial |
+| Safeguards | Reasons, privacy (s 32); unlawful-stop evidence can be excluded (*R v Rondo*) | Least invasive method, detain only as long as necessary (s 45O); counts-only records (s 45P, cl 47A); ministerial review (s 45Q); sunset (s 45R, now repealed) |
+
+**How an operation lawfully happens:** a qualifying offence at the place in the previous 12 months
+(armed offender, serious violent indictable offence, or repeated weapon possession — s 45G) → written
+declaration weighing likely effectiveness and effect on lawful activity → publication on the NSW
+Police website (s 45H) → scans, including vehicles within two stops (s 45L). There is **no appeal or
+review of a declaration**, and the records list no demographic fields. The Opposition's 2024
+amendments to remove place and time limits were lost 36–48; in July 2026 it called for wanding in any
+public place.
 
 ## Use it for
 
