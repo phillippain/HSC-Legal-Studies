@@ -6,10 +6,11 @@ citation: Terrorism and Other Legislation Amendment Act 2025 (NSW) (passed 24 De
 date: 2026-10-26
 jurisdiction: NSW, jointly funded 50:50 with the Commonwealth; NSW Police and the NSW Firearms Registry
 significance: After the 14 December 2025 Bondi Beach terror attack, NSW capped gun numbers, cut licences to two years and removed NCAT review, then opened a buyback for up to 274,000 firearms.
-core: chg.6.1, chg.3.1, chg.3.2
-support: chg.1.6, chg.2.1, chg.2.3, chg.4.1, chg.4.2, inv.5.2, inv.3.3, crime.1.9, crime.6.1
-themes: chg.t.effectiveness, chg.t.values, chg.t.justice
+core: chg.6.1, chg.3.1, chg.3.2, crime.1.9
+support: crime.2.1, chg.1.6, chg.2.1, chg.2.3, chg.4.1, chg.4.2, inv.5.2, inv.3.3, crime.6.1
+themes: chg.t.effectiveness, chg.t.values, chg.t.justice, crime.t.reform, crime.t.balance
 criteria: responsiveness, society, rights, enforceability, resource
+document: Crime/Media/Crime - NSW National Gun Buyback Begins Evidence Summary.pdf
 document11: Preliminary/Year 11 - National Gun Buyback Law Reform After Bondi Evidence Summary.pdf
 source: https://www.nsw.gov.au/ministerial-releases/national-gun-buyback-to-begin-nsw-on-november-2-bookings-to-surrender-open-today
 related: nsw-hate-crime-laws-2025-26, terrorism-police-powers-act-2002, royal-commissions-acts, law-reform-conditions-agencies-mechanisms
@@ -39,6 +40,21 @@ Notice letter → book through the **Gun Safe** portal (no walk-ins) → surrend
 compensation (**$450–$1,000** per firearm; Phase 2 valuations above $3,000, capped at $10,000) →
 destruction, funded by the Commonwealth. Up to **274,000** firearms (about 24% of NSW's registered
 guns) could be surrendered.
+
+## For HSC Crime
+
+The HSC summary (28 October) frames the same reform as **crime prevention**:
+
+- **Situational prevention** (crime.1.9) — reducing access to firearms, with the 1996–97 buyback (about
+  650,000 guns) as the comparison: Leigh and Neill linked it to about 200 fewer deaths a year; others find
+  existing trends explain much of the fall.
+- **Police administering reform** (crime.2.1) — NSW Police run the Registry, the Gun Safe portal and station
+  surrenders; licensees over the caps will not have firearms seized immediately, and compliance rules are not
+  yet published. Unauthorised possession carries up to 5 years (14 for pistols and prohibited firearms).
+- **Balance** — community safety against lawful owners' property and the loss of NCAT review. The Shooters,
+  Fishers and Farmers Party seeks full repeal; the Liberals would pause the buyback pending an inquiry.
+- Unlicensed firearms are not paid for — they go to the **National Firearms Amnesty**. Payment is up to 10
+  days after verification, plus $150 once for 1 kg or more of ammunition.
 
 ## Use it for
 
