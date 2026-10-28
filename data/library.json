@@ -4330,6 +4330,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Abdul-Wahab v R (Nos 1 and 2) [2026] NSWDC 394 - Case Summary.pdf",
+   "name": "Year 11 - Abdul-Wahab v R (Nos 1 and 2) [2026] NSWDC 394 - Case Summary",
+   "file": "Year 11 - Abdul-Wahab v R (Nos 1 and 2) [2026] NSWDC 394 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 304722,
+   "mtime": 1793220541,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.1.6",
+    "dis.1.5"
+   ],
+   "dupe": "year11abdulwahabvrnos1and22026nswdc394casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary.pdf",
    "name": "Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary",
    "file": "Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary.pdf",
@@ -4348,6 +4365,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Bhuta & Bhuta [2026] FedCFamC2F 1265 - Case Summary.pdf",
+   "name": "Year 11 - Bhuta & Bhuta [2026] FedCFamC2F 1265 - Case Summary",
+   "file": "Year 11 - Bhuta & Bhuta [2026] FedCFamC2F 1265 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 285682,
+   "mtime": 1793220542,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "inv.1.6"
+   ],
+   "dupe": "year11bhutabhuta2026fedcfamc2f1265casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary.pdf",
    "name": "Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary",
    "file": "Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary.pdf",
@@ -4361,6 +4395,55 @@
     "dis.1.8"
    ],
    "dupe": "year11bunningvcross1978hca22casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Chandler & Banfield [2026] FedCFamC2F 1237 - Case Summary.pdf",
+   "name": "Year 11 - Chandler & Banfield [2026] FedCFamC2F 1237 - Case Summary",
+   "file": "Year 11 - Chandler & Banfield [2026] FedCFamC2F 1237 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 278877,
+   "mtime": 1793220542,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "exp.1.1"
+   ],
+   "dupe": "year11chandlerbanfield2026fedcfamc2f1237casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Coric & Coric (No 2) [2026] FedCFamC2F 1266 - Case Summary.pdf",
+   "name": "Year 11 - Coric & Coric (No 2) [2026] FedCFamC2F 1266 - Case Summary",
+   "file": "Year 11 - Coric & Coric (No 2) [2026] FedCFamC2F 1266 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 272741,
+   "mtime": 1793220543,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.7"
+   ],
+   "dupe": "year11coriccoricno22026fedcfamc2f1266casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Cribbins & Dey [2026] FedCFamC2F 604 - Case Summary.pdf",
+   "name": "Year 11 - Cribbins & Dey [2026] FedCFamC2F 604 - Case Summary",
+   "file": "Year 11 - Cribbins & Dey [2026] FedCFamC2F 604 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 275574,
+   "mtime": 1793220543,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.7",
+    "dis.2.8"
+   ],
+   "dupe": "year11cribbinsdey2026fedcfamc2f604casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4394,6 +4477,23 @@
     "dis.2.8"
    ],
    "dupe": "year11garciavnab1998hca48casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Geratos & Roldan [2026] FedCFamC2F 1202 - Case Summary.pdf",
+   "name": "Year 11 - Geratos & Roldan [2026] FedCFamC2F 1202 - Case Summary",
+   "file": "Year 11 - Geratos & Roldan [2026] FedCFamC2F 1202 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 276690,
+   "mtime": 1793220544,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "dis.2.7"
+   ],
+   "dupe": "year11geratosroldan2026fedcfamc2f1202casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4481,6 +4581,71 @@
     "inv.5.4"
    ],
    "dupe": "year11magamingvthequeen2013hca40casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Mishra & Piatos [2026] FedCFamC1A 171 - Case Summary.pdf",
+   "name": "Year 11 - Mishra & Piatos [2026] FedCFamC1A 171 - Case Summary",
+   "file": "Year 11 - Mishra & Piatos [2026] FedCFamC1A 171 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 294479,
+   "mtime": 1793220544,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "inv.1.6"
+   ],
+   "dupe": "year11mishrapiatos2026fedcfamc1a171casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - R v Mottram [2026] NSWDC 391 - Case Summary.pdf",
+   "name": "Year 11 - R v Mottram [2026] NSWDC 391 - Case Summary",
+   "file": "Year 11 - R v Mottram [2026] NSWDC 391 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 280583,
+   "mtime": 1793220545,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.7"
+   ],
+   "dupe": "year11rvmottram2026nswdc391casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - R v Nguyen [2026] NSWDC 393 - Case Summary.pdf",
+   "name": "Year 11 - R v Nguyen [2026] NSWDC 393 - Case Summary",
+   "file": "Year 11 - R v Nguyen [2026] NSWDC 393 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 283883,
+   "mtime": 1793220545,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.7"
+   ],
+   "dupe": "year11rvnguyen2026nswdc393casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - R v Schade [2026] NSWSC 1345 - Case Summary.pdf",
+   "name": "Year 11 - R v Schade [2026] NSWSC 1345 - Case Summary",
+   "file": "Year 11 - R v Schade [2026] NSWSC 1345 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 278027,
+   "mtime": 1793220546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.7"
+   ],
+   "dupe": "year11rvschade2026nswsc1345casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4703,6 +4868,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Bhuta & Bhuta [2026] FedCFamC2F 1265 - Case Summary.pdf",
+   "name": "Bhuta & Bhuta [2026] FedCFamC2F 1265 - Case Summary",
+   "file": "Bhuta & Bhuta [2026] FedCFamC2F 1265 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 302808,
+   "mtime": 1793220534,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "bhutabhuta2026fedcfamc2f1265casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Billings & Clowes (No 2) [2026] FedCFamC2F 1367.rtf",
    "name": "Billings & Clowes (No 2) [2026] FedCFamC2F 1367",
    "file": "Billings & Clowes (No 2) [2026] FedCFamC2F 1367.rtf",
@@ -4784,6 +4965,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Chandler & Banfield [2026] FedCFamC2F 1237 - Case Summary.pdf",
+   "name": "Chandler & Banfield [2026] FedCFamC2F 1237 - Case Summary",
+   "file": "Chandler & Banfield [2026] FedCFamC2F 1237 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 302910,
+   "mtime": 1793220535,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "chandlerbanfield2026fedcfamc2f1237casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Charis & Charis (No 2) [2026] FedCFamC1F 572 - Case Summary.pdf",
    "name": "Charis & Charis (No 2) [2026] FedCFamC1F 572 - Case Summary",
    "file": "Charis & Charis (No 2) [2026] FedCFamC1F 572 - Case Summary.pdf",
@@ -4861,6 +5058,38 @@
     "family"
    ],
    "dupe": "corellanagar2026fedcfamc2f1037",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Coric & Coric (No 2) [2026] FedCFamC2F 1266 - Case Summary.pdf",
+   "name": "Coric & Coric (No 2) [2026] FedCFamC2F 1266 - Case Summary",
+   "file": "Coric & Coric (No 2) [2026] FedCFamC2F 1266 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 307247,
+   "mtime": 1793220536,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "coriccoricno22026fedcfamc2f1266casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Cribbins & Dey [2026] FedCFamC2F 604 - Case Summary.pdf",
+   "name": "Cribbins & Dey [2026] FedCFamC2F 604 - Case Summary",
+   "file": "Cribbins & Dey [2026] FedCFamC2F 604 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 319328,
+   "mtime": 1793220536,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "cribbinsdey2026fedcfamc2f604casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5038,6 +5267,22 @@
     "family"
    ],
    "dupe": "fierrobienno32026fedcfamc1f541casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Geratos & Roldan [2026] FedCFamC2F 1202 - Case Summary.pdf",
+   "name": "Geratos & Roldan [2026] FedCFamC2F 1202 - Case Summary",
+   "file": "Geratos & Roldan [2026] FedCFamC2F 1202 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 310382,
+   "mtime": 1793220537,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "geratosroldan2026fedcfamc2f1202casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5233,6 +5478,22 @@
     "family"
    ],
    "dupe": "kurbonovahennigsen2026fedcfamc1f520casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Mishra & Piatos [2026] FedCFamC1A 171 - Case Summary.pdf",
+   "name": "Mishra & Piatos [2026] FedCFamC1A 171 - Case Summary",
+   "file": "Mishra & Piatos [2026] FedCFamC1A 171 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 330039,
+   "mtime": 1793220538,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "mishrapiatos2026fedcfamc1a171casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6303,6 +6564,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Abdul-Wahab v R (Nos 1 and 2) [2026] NSWDC 394 - Case Summary.pdf",
+   "name": "Abdul-Wahab v R (Nos 1 and 2) [2026] NSWDC 394 - Case Summary",
+   "file": "Abdul-Wahab v R (Nos 1 and 2) [2026] NSWDC 394 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 344554,
+   "mtime": 1793220533,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "abdulwahabvrnos1and22026nswdc394casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Alam v Rodriguez (Nos 1-3) [2026] NSWDC 387 - Case Summary.pdf",
    "name": "Alam v Rodriguez (Nos 1-3) [2026] NSWDC 387 - Case Summary",
    "file": "Alam v Rodriguez (Nos 1-3) [2026] NSWDC 387 - Case Summary.pdf",
@@ -6911,6 +7188,38 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/R v Mottram [2026] NSWDC 391 - Case Summary.pdf",
+   "name": "R v Mottram [2026] NSWDC 391 - Case Summary",
+   "file": "R v Mottram [2026] NSWDC 391 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 313367,
+   "mtime": 1793220539,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "rvmottram2026nswdc391casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Nguyen [2026] NSWDC 393 - Case Summary.pdf",
+   "name": "R v Nguyen [2026] NSWDC 393 - Case Summary",
+   "file": "R v Nguyen [2026] NSWDC 393 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 319155,
+   "mtime": 1793220540,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "rvnguyen2026nswdc393casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/R v Porter (1933) 55 CLR 182 - Case Summary.pdf",
    "name": "R v Porter (1933) 55 CLR 182 - Case Summary",
    "file": "R v Porter (1933) 55 CLR 182 - Case Summary.pdf",
@@ -6939,6 +7248,22 @@
     "crime.4.6"
    ],
    "dupe": "rvpullen2018nswcca264casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Schade [2026] NSWSC 1345 - Case Summary.pdf",
+   "name": "R v Schade [2026] NSWSC 1345 - Case Summary",
+   "file": "R v Schade [2026] NSWSC 1345 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 331769,
+   "mtime": 1793220540,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "rvschade2026nswsc1345casesummary",
    "copyOf": null,
    "primary": true
   },

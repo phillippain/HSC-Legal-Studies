@@ -421,3 +421,13 @@ Shelter/Evidence Sheets/Shelter - Homelessness Services Turning People Away Evid
 Crime/Media/Crime - Bondi Attack False Injury Claim Charge Evidence Summary.pdf | crime.2.4, crime.1.2
 Crime/Media/Crime - Skid Car Dangerous Driving Death Sentencing Evidence Summary.pdf | crime.4.3, crime.4.1
 Crime/Media/Crime - Brailey Teacher Sentencing Evidence Summary.pdf | crime.4.3, crime.4.1
+Cases/Year 11/Year 11 - Abdul-Wahab v R (Nos 1 and 2) [2026] NSWDC 394 - Case Summary.pdf | inv.1.6, dis.1.5
+Cases/Year 11/Year 11 - R v Mottram [2026] NSWDC 391 - Case Summary.pdf | dis.1.7
+Cases/Year 11/Year 11 - R v Nguyen [2026] NSWDC 393 - Case Summary.pdf | dis.1.7
+Cases/Year 11/Year 11 - R v Schade [2026] NSWSC 1345 - Case Summary.pdf | dis.1.7
+Cases/Year 11/Year 11 - Mishra & Piatos [2026] FedCFamC1A 171 - Case Summary.pdf | dis.2.5, inv.1.6
+Cases/Year 11/Year 11 - Cribbins & Dey [2026] FedCFamC2F 604 - Case Summary.pdf | dis.2.7, dis.2.8
+Cases/Year 11/Year 11 - Geratos & Roldan [2026] FedCFamC2F 1202 - Case Summary.pdf | dis.2.5, dis.2.7
+Cases/Year 11/Year 11 - Chandler & Banfield [2026] FedCFamC2F 1237 - Case Summary.pdf | exp.1.1
+Cases/Year 11/Year 11 - Bhuta & Bhuta [2026] FedCFamC2F 1265 - Case Summary.pdf | dis.2.5, inv.1.6
+Cases/Year 11/Year 11 - Coric & Coric (No 2) [2026] FedCFamC2F 1266 - Case Summary.pdf | dis.2.7
