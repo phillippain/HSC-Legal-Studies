@@ -411,3 +411,13 @@ Crime/Media/Crime - NSW National Gun Buyback Begins Evidence Summary.pdf | crime
 Family/Evidence Summaries/Family - Informal Sperm Donation Turkey Baster Evidence Summary.pdf | fam.3.3
 Family/Evidence Summaries/Family - My IVF Support Mental Health Fertility Treatment Evidence Summary.pdf | fam.3.3
 Family/Evidence Summaries/Family - Male Infertility Undiagnosed Birth Technologies Evidence Summary.pdf | fam.3.3
+Family/Evidence Summaries/Family - Parenting Policy Gap Commentary Evidence Summary.pdf | fam.3.2, fam.1.5
+Family/Evidence Summaries/Family - Childhood Physical Abuse by Parents Study Evidence Summary.pdf | fam.3.4, fam.1.5
+Family/Evidence Summaries/Family - Smacking Reasonable Discipline Defence Evidence Summary.pdf | fam.1.5, fam.3.4
+Human Rights/HR - AI Chatbots and Children Digital Duty of Care Evidence Summary.pdf | hr.3.1, hr.2.9
+Human Rights/HR - Digital Duty of Care Bill Evidence Summary.pdf | hr.3.1, hr.2.9
+Human Rights/HR - UN Experts Shackling and Strip Search Bills Evidence Summary.pdf | hr.2.2, hr.3.1
+Shelter/Evidence Sheets/Shelter - Homelessness Services Turning People Away Evidence Summary.pdf | shel.1.4, shel.3.2
+Crime/Media/Crime - Bondi Attack False Injury Claim Charge Evidence Summary.pdf | crime.2.4, crime.1.2
+Crime/Media/Crime - Skid Car Dangerous Driving Death Sentencing Evidence Summary.pdf | crime.4.3, crime.4.1
+Crime/Media/Crime - Brailey Teacher Sentencing Evidence Summary.pdf | crime.4.3, crime.4.1

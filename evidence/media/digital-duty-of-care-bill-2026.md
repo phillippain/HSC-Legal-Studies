@@ -1,18 +1,18 @@
 ---
 type: media
-title: Digital duty of care bill: could Australians sue big tech? (2026)
+title: Digital duty of care bill: could Australians sue big tech? — passes the House (2026)
 short: Digital duty of care bill
-citation: HSC Legal Studies evidence summary, 16 October 2026; built on ABC News of 15 October 2026, the AHRC submission of 23 September 2026 and law firm analyses of the September 2026 exposure draft
-date: 2026-10-15
+citation: HSC Legal Studies evidence summaries, 16 and 29 October 2026; built on ABC News of 15 and 28 October 2026 (federal politics live blog), AAP, the AHRC submission of 23 September 2026 and law firm analyses of the September 2026 exposure draft
+date: 2026-10-28
 jurisdiction: Commonwealth
 significance: The bill would replace a reactive, complaints-based online safety scheme with one enforceable statutory duty, and the government is now open to letting victims of online harm sue.
 core: hr.3.1, hr.2.9, chg.6
 support: hr.2.7, hr.2.12, hr.2.13, hr.2.14, hr.1.3, chg.1.3, chg.6.1, inv.7.4, chg.1, chg.2, chg.3, inv.3.3, inv.4.4, dis.2.3, chg.2.1, exp.5, exp.6, inv.7.2, inv.7.3, chg.6.3, chg.6.4
 themes: hr.t.reform, hr.t.values, hr.t.effectiveness, hr.t.compliance, chg.t.values, chg.t.justice
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, justice
-document: Human Rights/Digital duty of care bill (Evidence summary 16Oct26).pdf
-source: https://www.abc.net.au/news/2026-10-15/anika-wells-opens-door-to-big-tech-lawsuits/107271002
-related: croc-1989, technology-and-the-individual, kmart-camera-glasses-2026, human-rights-in-australia-common-law-courts-media-charter, law-reform-conditions-agencies-mechanisms, guardian-2026-gps-tracking
+document: Human Rights/HR - Digital Duty of Care Bill Evidence Summary.pdf
+source: https://www.abc.net.au/news/2026-10-28/federal-politics-live-blog-oct-28/107315976
+related: ai-chatbots-children-digital-duty-2026, online-safety-act-2021-and-social-media-minimum-age, croc-1989, technology-and-the-individual, kmart-camera-glasses-2026, human-rights-in-australia-common-law-courts-media-charter, law-reform-conditions-agencies-mechanisms, guardian-2026-gps-tracking
 added: 2026-10-16
 ---
 
@@ -36,6 +36,26 @@ platforms, including by class action — a right the draft did not contain.
 The duty's "so far as reasonably practicable" test is **modelled on work health and safety law**.
 The draft also lets eSafety and approved researchers use false ("sock puppet") accounts to test
 compliance. Most duty provisions would start 12 months after Royal Assent.
+
+## Update: the bill passes the House (28 October 2026)
+
+The **Online Safety Amendment (Digital Duty of Care) Bill 2026** was introduced on 15 October and passed the House on
+**28 October**, absorbing Kate Chaney's amendment on children's dependence on AI chatbots. The Coalition (Ted
+O'Brien) calls it censorship; with the Coalition opposed, Labor needs the **Greens** in the Senate. The Senate
+committee takes submissions to 30 October and reports by **20 November 2026**.
+
+| | Now (OSA 2021) or September draft | Bill as introduced |
+|---|---|---|
+| Core obligation | Codes, standards, Basic Online Safety Expectations | One overarching **duty of care** |
+| Defining harms | Draft let the minister add categories | Ministerial power removed; only Parliament can add harms |
+| Maximum penalty | About $825,000 | Up to **$108.2 million** per breach |
+| Under-16 design | "Reasonable steps" only | Must stop under-16s using recommender systems, endless feeds |
+| News and public interest | No exception in the draft | s 25F excludes news and public-interest material ("public interest" undefined) |
+| Cost of compliance | Weighed in the draft | "Appropriate and effective" test; cost cannot be considered |
+| Right to sue | None | Still absent; Greens seek one, Wells open to it |
+
+A 12-month transition would follow passage before the duty starts and the codes are repealed. The duty implements a
+recommendation of Delia Rickard's 2025 review of the Online Safety Act (67 recommendations).
 
 ## Use it for
 

@@ -2,14 +2,15 @@
 type: international
 title: UN experts criticise the Senate stall on bills banning shackling in childbirth and strip-searching children (OHCHR, 26 October 2026)
 short: UN experts on stalled custody bills
-citation: UN Human Rights Office (OHCHR) press release, 26 October 2026 (Reem Alsalem and Ashwini K.P., Special Rapporteurs); Crimes Amendment (Prohibiting Shackling During Childbirth) Bill 2026 and Crimes Amendment (Prohibiting the Strip Searching of Children) Bill 2026 (Cth); Bangkok Rules r 24
+citation: UN Human Rights Office (OHCHR) press release, 26 October 2026, and ABC News (Dana Morse), 27 October 2026 (Reem Alsalem and Ashwini K.P., Special Rapporteurs); Crimes Amendment (Prohibiting Shackling During Childbirth) Bill 2026 and Crimes Amendment (Prohibiting the Strip Searching of Children) Bill 2026 (Cth); Bangkok Rules r 24
 date: 2026-10-26
 jurisdiction: Commonwealth Parliament (Senate); UN Human Rights Council Special Procedures; custody run by the states and territories
 significance: Two senator's bills to meet UN standards on women and children in custody stalled without a vote: UN experts can persuade but not compel, and a Senate committee said custody is a state matter.
-core: chg.1.4, chg.4.2, inv.6.4
-support: chg.2.1, chg.2.2, chg.3.1, inv.5.2, inv.6.2, inv.6.3, inv.4.4, exp.1.1, crime.5.2, crime.2.6
-themes: chg.t.effectiveness, chg.t.justice, inv.t.justice
+core: chg.1.4, chg.4.2, inv.6.4, hr.2.2, hr.3.1
+support: hr.2.1, hr.2.7, hr.2.8, hr.2.12, hr.2.13, chg.2.1, chg.2.2, chg.3.1, inv.5.2, inv.6.2, inv.6.3, inv.4.4, exp.1.1, crime.5.2, crime.2.6
+themes: chg.t.effectiveness, chg.t.justice, inv.t.justice, hr.t.sovereignty, hr.t.compliance, hr.t.effectiveness
 criteria: rights, enforceability, responsiveness, justice
+document: Human Rights/HR - UN Experts Shackling and Strip Search Bills Evidence Summary.pdf
 document11: Preliminary/Year 11 - UN Experts and Stalled Custody Bills Law Reform Evidence Summary.pdf
 source: https://www.ohchr.org/en/press-releases/2026/10/australia-un-experts-concerned-failure-vote-bills-protecting-women-and
 related: lecc-strip-search-inquiry-2020, telegraph-2022-kempsey-baby-strip-search, young-offenders-in-the-cjs, australian-constitution-rights-and-powers, detention-and-interrogation-rights
@@ -36,6 +37,20 @@ for national standards.
 Media reports that the Senate "voted down" the shackling bill conflict with the Senate record, which
 shows no decision. Days before the release, a woman was allegedly restrained after a caesarean in
 Townsville (QCS is reviewing).
+
+## For HSC Human Rights
+
+The HSC summary (ABC, 27 October) adds:
+
+- **47 submissions** to the Senate inquiry on the shackling bill; the Labor-led majority recommended it **not be
+  passed**, preferring Commonwealth engagement with the states and national data collection.
+- Legal advice from Kate Eastman SC supports the **external affairs** basis (s 51(xxix)), untested in court.
+- Evidence on strip searching: **0.28%** of about 900,000 WA prison strip searches (2014–19) found contraband;
+  First Nations children are about **23 times** more likely to be imprisoned than other children.
+- Shackles were allegedly still used in Queensland and WA hospitals in October 2026; Thorpe plans to campaign
+  for a vote.
+- Use for **hr.2.2** (UN Special Procedures: persuasion, not enforcement), **hr.2.1 / hr.2.8** (state sovereignty
+  and federalism limiting implementation of the Bangkok Rules) and **hr.3.1**.
 
 ## Use it for
 
