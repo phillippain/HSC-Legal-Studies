@@ -10,7 +10,7 @@ core: shel.2.2, shel.2.6
 support: shel.2.4, shel.2.1, shel.2.5, shel.2.8, shel.1.4, chg.4.2, exp.5
 themes: shel.t.effectiveness, shel.t.compliance, shel.t.reform
 criteria: enforceability, resource, accessibility, responsiveness
-document: Shelter/Evidence Sheets/Shelter - Fair Trading Compliance and Enforcement Priorities 2026-27 Evidence Summary.pdf
+document: Shelter/Evidence Sheets/Shelter - Fair Trading priorities 2026-27 rental enforcement Evidence Summary.pdf
 source: https://www.nsw.gov.au/departments-and-agencies/customer-service/media-releases/nsw-fair-trading-publishes-its-compliance-and-enforcement-priorities
 related: nsw-rental-taskforce-2025, residential-tenancies-amendment-act-2024, residential-tenancies-act-2010, fair-trading-act-1987, strata-schemes-legislation-amendment-miscellaneous-bill-2025, ncat-tenancy-disputes
 added: 2026-10-28
@@ -34,6 +34,13 @@ conduct (new 2026 Act); in strata, **repairs and maintenance**.
 **First year:** the $8.4m Rental Taskforce handled **7,712** compliance matters and issued about **600 fines**
 ($421,650); eviction-ban fines totalled **$65,450** (about 30 breaches); one agency was fined $35,000 for
 re-letting during an exclusion period.
+
+## Update (30 October summary)
+
+The full **2026–27 priorities page** was first published on 13 July 2026 and updated on 27 October; the Rental
+Commissioner and Rental Taskforce lead the renting work, and the fourth strata reform bill (October 2026) lets Fair
+Trading publish compliance action against owners corporations. The summary frames the release as "rights on paper v
+how they are enforced": the regulator states aims, not results.
 
 ## Use it for
 

@@ -7,10 +7,11 @@ date: 2026-10-27
 jurisdiction: Queensland — Queensland Corrective Services; Queensland Human Rights Commission
 significance: One clause in a parole bill would free prison staff from the Human Rights Act duty to act compatibly with prisoners' rights — showing how easily ordinary legislation overrides a statutory charter.
 core: hr.2.14, hr.2.9
-support: hr.2.7, hr.2.4, hr.2.11, hr.2.12, hr.3.1, crime.4.8, crime.4.4, inv.7.3, inv.4.5
+support: inv.7.2, inv.7.3, inv.7.4, inv.4.4, hr.2.7, hr.2.4, hr.2.11, hr.2.12, hr.3.1, crime.4.8, crime.4.4, inv.7.3, inv.4.5
 themes: hr.t.effectiveness, hr.t.reform, hr.t.compliance
 criteria: rights, enforceability, ruleoflaw, responsiveness
-document: Human Rights/HR - Qld Prison Human Rights Exemption Evidence Summary.pdf
+document: Human Rights/HR - Qld Prisons Human Rights Exemption Evidence Summary.pdf
+document11: Preliminary/Year 11 - Investigating the Law - Qld Prison Rights Override Evidence Summary.pdf
 source: https://www.abc.net.au/news/2026-10-27/queensland-prisons-human-rights-deaths-in-custody-fears/107277276
 related: charters-of-rights-act-vic-qld, human-rights-in-australia-common-law-courts-media-charter, deaths-in-custody-since-1991, kariong-period-products-inspection-2026
 added: 2026-10-28
@@ -32,6 +33,14 @@ about **135%** of built capacity.
 | Override rules | s 43: Parliament may declare a law operates despite incompatibility, in **exceptional circumstances** | Used here; lapses after **5 years** unless renewed (s 45) |
 
 Queensland has overridden its Act at least three times since 2023, mostly in youth justice.
+
+## Update (30 October summary)
+
+The bill is before Queensland's **Justice, Integrity and Community Safety Committee**. Prisons run at about **136%**
+of cell capacity, with **11,275** prisoners (up 54% in a decade); QCS says it has added 2,000+ officers in under 24
+months. The override is a live test of the **dialogue model** — the design the federal Parliamentary Joint Committee
+on Human Rights recommended in 2024 for a national Human Rights Act — because Parliament can simply switch the
+duty off.
 
 ## Use it for
 

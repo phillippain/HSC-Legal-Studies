@@ -3610,6 +3610,22 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - Domestic Violence and Suicide Inquiry Evidence Summary.pdf",
+   "name": "Family - Domestic Violence and Suicide Inquiry Evidence Summary",
+   "file": "Family - Domestic Violence and Suicide Inquiry Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 205938,
+   "mtime": 1793305003,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "fam.2.4"
+   ],
+   "dupe": "familydomesticviolenceandsuicideinquiryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Family - Family Court Data Breach Evidence Summary.pdf",
    "name": "Family - Family Court Data Breach Evidence Summary",
    "file": "Family - Family Court Data Breach Evidence Summary.pdf",
@@ -8389,6 +8405,40 @@
    "primary": true
   },
   {
+   "path": "Human Rights/HR - Qld Prisons Human Rights Exemption Evidence Summary.pdf",
+   "name": "HR - Qld Prisons Human Rights Exemption Evidence Summary",
+   "file": "HR - Qld Prisons Human Rights Exemption Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207944,
+   "mtime": 1793305001,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.14",
+    "hr.2.9"
+   ],
+   "dupe": "hrqldprisonshumanrightsexemptionevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - SAS Afghanistan Culture and Command Inquiry Evidence Summary.pdf",
+   "name": "HR - SAS Afghanistan Culture and Command Inquiry Evidence Summary",
+   "file": "HR - SAS Afghanistan Culture and Command Inquiry Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209664,
+   "mtime": 1793304999,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "hr.3.1",
+    "hr.2.4"
+   ],
+   "dupe": "hrsasafghanistancultureandcommandinquiryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/HR - Secretaries Board Social Media Clips Evidence Summary.pdf",
    "name": "HR - Secretaries Board Social Media Clips Evidence Summary",
    "file": "HR - Secretaries Board Social Media Clips Evidence Summary.pdf",
@@ -9763,6 +9813,91 @@
     "chg.2.3"
    ],
    "dupe": "year11bankingroyalcommissionevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Changing the Law - DV Suicide Inquiry Evidence Summary.pdf",
+   "name": "Year 11 - Changing the Law - DV Suicide Inquiry Evidence Summary",
+   "file": "Year 11 - Changing the Law - DV Suicide Inquiry Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206617,
+   "mtime": 1793305464,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "chg.2.1",
+    "chg.1.1"
+   ],
+   "dupe": "year11changingthelawdvsuicideinquiryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Disputes under the Law - Bathla Land Contract Disputes Evidence Summary.pdf",
+   "name": "Year 11 - Disputes under the Law - Bathla Land Contract Disputes Evidence Summary",
+   "file": "Year 11 - Disputes under the Law - Bathla Land Contract Disputes Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206725,
+   "mtime": 1793305463,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "dis.2.3",
+    "dis.2.7"
+   ],
+   "dupe": "year11disputesunderthelawbathlalandcontractdisputesevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Experiences with the Law - NT Teen Terror Charges Evidence Summary.pdf",
+   "name": "Year 11 - Experiences with the Law - NT Teen Terror Charges Evidence Summary",
+   "file": "Year 11 - Experiences with the Law - NT Teen Terror Charges Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210892,
+   "mtime": 1793305458,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "exp.2.3",
+    "exp.1.3"
+   ],
+   "dupe": "year11experienceswiththelawntteenterrorchargesevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Investigating the Law - Qld Prison Rights Override Evidence Summary.pdf",
+   "name": "Year 11 - Investigating the Law - Qld Prison Rights Override Evidence Summary",
+   "file": "Year 11 - Investigating the Law - Qld Prison Rights Override Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210114,
+   "mtime": 1793305459,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "inv.7.2",
+    "inv.7.3"
+   ],
+   "dupe": "year11investigatingthelawqldprisonrightsoverrideevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Investigating the Law - SAS Inquiry Global Legal System Evidence Summary.pdf",
+   "name": "Year 11 - Investigating the Law - SAS Inquiry Global Legal System Evidence Summary",
+   "file": "Year 11 - Investigating the Law - SAS Inquiry Global Legal System Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211534,
+   "mtime": 1793305461,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "inv.6.3",
+    "inv.6.2"
+   ],
+   "dupe": "year11investigatingthelawsasinquirygloballegalsystemevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -12025,9 +12160,26 @@
    "primary": true
   },
   {
-   "path": "Shelter/Evidence Sheets/Shelter - Fair Trading Compliance and Enforcement Priorities 2026-27 Evidence Summary.pdf",
-   "name": "Shelter - Fair Trading Compliance and Enforcement Priorities 2026-27 Evidence Summary",
-   "file": "Shelter - Fair Trading Compliance and Enforcement Priorities 2026-27 Evidence Summary.pdf",
+   "path": "Shelter/Evidence Sheets/Shelter - Bathla Failed Land Settlements Evidence Summary.pdf",
+   "name": "Shelter - Bathla Failed Land Settlements Evidence Summary",
+   "file": "Shelter - Bathla Failed Land Settlements Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 205549,
+   "mtime": 1793305002,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.1",
+    "shel.2.5"
+   ],
+   "dupe": "shelterbathlafailedlandsettlementsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Fair Trading priorities 2026-27 (first version) Evidence Summary.pdf",
+   "name": "Shelter - Fair Trading priorities 2026-27 (first version) Evidence Summary",
+   "file": "Shelter - Fair Trading priorities 2026-27 (first version) Evidence Summary.pdf",
    "ext": "pdf",
    "bytes": 207988,
    "mtime": 1793135201,
@@ -12037,7 +12189,24 @@
     "shel.2.2",
     "shel.2.6"
    ],
-   "dupe": "shelterfairtradingcomplianceandenforcementpriorities202627evidencesummary",
+   "dupe": "shelterfairtradingpriorities202627firstversionevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Fair Trading priorities 2026-27 rental enforcement Evidence Summary.pdf",
+   "name": "Shelter - Fair Trading priorities 2026-27 rental enforcement Evidence Summary",
+   "file": "Shelter - Fair Trading priorities 2026-27 rental enforcement Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208683,
+   "mtime": 1793305002,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.2",
+    "shel.2.6"
+   ],
+   "dupe": "shelterfairtradingpriorities202627rentalenforcementevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -15140,6 +15309,23 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - Former Teacher Jailed Sex Offences Against Students Evidence Summary.pdf",
+   "name": "Crime - Former Teacher Jailed Sex Offences Against Students Evidence Summary",
+   "file": "Crime - Former Teacher Jailed Sex Offences Against Students Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208355,
+   "mtime": 1793304998,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.4.3",
+    "crime.4.1"
+   ],
+   "dupe": "crimeformerteacherjailedsexoffencesagainststudentsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - Kariong Intake Centre Period Products Inspection Evidence Summary.pdf",
    "name": "Crime - Kariong Intake Centre Period Products Inspection Evidence Summary",
    "file": "Crime - Kariong Intake Centre Period Products Inspection Evidence Summary.pdf",
@@ -15170,6 +15356,24 @@
     "crime.2.1"
    ],
    "dupe": "crimenswnationalgunbuybackbeginsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - NT Teen Terror Charges Evidence Summary.pdf",
+   "name": "Crime - NT Teen Terror Charges Evidence Summary",
+   "file": "Crime - NT Teen Terror Charges Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208303,
+   "mtime": 1793304999,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.6.1",
+    "crime.5.3",
+    "crime.2.5"
+   ],
+   "dupe": "crimentteenterrorchargesevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -15223,6 +15427,23 @@
     "crime.4.1"
    ],
    "dupe": "crimeskidcardangerousdrivingdeathsentencingevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Star Casino AUSTRAC Money Laundering Penalty Evidence Summary.pdf",
+   "name": "Crime - Star Casino AUSTRAC Money Laundering Penalty Evidence Summary",
+   "file": "Crime - Star Casino AUSTRAC Money Laundering Penalty Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210291,
+   "mtime": 1793304996,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.6.1",
+    "crime.6.2"
+   ],
+   "dupe": "crimestarcasinoaustracmoneylaunderingpenaltyevidencesummary",
    "copyOf": null,
    "primary": true
   },
