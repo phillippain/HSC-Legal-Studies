@@ -4347,6 +4347,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Adoption of Bellini [2026] NSWSC 1341 - Case Summary.pdf",
+   "name": "Year 11 - Adoption of Bellini [2026] NSWSC 1341 - Case Summary",
+   "file": "Year 11 - Adoption of Bellini [2026] NSWSC 1341 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 690927,
+   "mtime": 1793305201,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "exp.1.1",
+    "exp.2.1"
+   ],
+   "dupe": "year11adoptionofbellini2026nswsc1341casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary.pdf",
    "name": "Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary",
    "file": "Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary.pdf",
@@ -4361,6 +4378,22 @@
     "chg.5.2"
    ],
    "dupe": "year11austinvvictoriano32026fca1054casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Batraz and Magni [2026] FedCFamC1F 626 - Case Summary.pdf",
+   "name": "Year 11 - Batraz and Magni [2026] FedCFamC1F 626 - Case Summary",
+   "file": "Year 11 - Batraz and Magni [2026] FedCFamC1F 626 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 695460,
+   "mtime": 1793305202,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "exp.1.1"
+   ],
+   "dupe": "year11batrazandmagni2026fedcfamc1f626casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4448,6 +4481,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary.pdf",
+   "name": "Year 11 - Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary",
+   "file": "Year 11 - Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 734684,
+   "mtime": 1793305206,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.7"
+   ],
+   "dupe": "year11duanandrenno62026fedcfamc1f617casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary.pdf",
    "name": "Year 11 - Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary",
    "file": "Year 11 - Fimmano v Anderson [2024] NSWCATAP 22 - Case Summary.pdf",
@@ -4481,6 +4530,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Gearalt and Gearalt [2026] FedCFamC1F 656 - Case Summary.pdf",
+   "name": "Year 11 - Gearalt and Gearalt [2026] FedCFamC1F 656 - Case Summary",
+   "file": "Year 11 - Gearalt and Gearalt [2026] FedCFamC1F 656 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 684525,
+   "mtime": 1793305208,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "exp.2.1",
+    "exp.1.1"
+   ],
+   "dupe": "year11gearaltandgearalt2026fedcfamc1f656casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Geratos & Roldan [2026] FedCFamC2F 1202 - Case Summary.pdf",
    "name": "Year 11 - Geratos & Roldan [2026] FedCFamC2F 1202 - Case Summary",
    "file": "Year 11 - Geratos & Roldan [2026] FedCFamC2F 1202 - Case Summary.pdf",
@@ -4494,6 +4560,38 @@
     "dis.2.7"
    ],
    "dupe": "year11geratosroldan2026fedcfamc2f1202casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Gin and Hing (No 14) [2026] FedCFamC1F 618 - Case Summary.pdf",
+   "name": "Year 11 - Gin and Hing (No 14) [2026] FedCFamC1F 618 - Case Summary",
+   "file": "Year 11 - Gin and Hing (No 14) [2026] FedCFamC1F 618 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 723336,
+   "mtime": 1793305210,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.1.6"
+   ],
+   "dupe": "year11ginandhingno142026fedcfamc1f618casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Horackova and Abadjieva [2026] FedCFamC1F 665 - Case Summary.pdf",
+   "name": "Year 11 - Horackova and Abadjieva [2026] FedCFamC1F 665 - Case Summary",
+   "file": "Year 11 - Horackova and Abadjieva [2026] FedCFamC1F 665 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 700133,
+   "mtime": 1793305213,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.3.3"
+   ],
+   "dupe": "year11horackovaandabadjieva2026fedcfamc1f665casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4585,6 +4683,54 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Marga and Buster [2026] FedCFamC1F 622 - Case Summary.pdf",
+   "name": "Year 11 - Marga and Buster [2026] FedCFamC1F 622 - Case Summary",
+   "file": "Year 11 - Marga and Buster [2026] FedCFamC1F 622 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 732992,
+   "mtime": 1793305214,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "exp.1.1"
+   ],
+   "dupe": "year11margaandbuster2026fedcfamc1f622casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Maryvonne and Maryvonne [2026] FedCFamC1F 630 - Case Summary.pdf",
+   "name": "Year 11 - Maryvonne and Maryvonne [2026] FedCFamC1F 630 - Case Summary",
+   "file": "Year 11 - Maryvonne and Maryvonne [2026] FedCFamC1F 630 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 690557,
+   "mtime": 1793305217,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.4.3"
+   ],
+   "dupe": "year11maryvonneandmaryvonne2026fedcfamc1f630casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - McFall and McFall [2026] FedCFamC1F 570 - Case Summary.pdf",
+   "name": "Year 11 - McFall and McFall [2026] FedCFamC1F 570 - Case Summary",
+   "file": "Year 11 - McFall and McFall [2026] FedCFamC1F 570 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 710043,
+   "mtime": 1793305217,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.7"
+   ],
+   "dupe": "year11mcfallandmcfall2026fedcfamc1f570casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Mishra & Piatos [2026] FedCFamC1A 171 - Case Summary.pdf",
    "name": "Year 11 - Mishra & Piatos [2026] FedCFamC1A 171 - Case Summary",
    "file": "Year 11 - Mishra & Piatos [2026] FedCFamC1A 171 - Case Summary.pdf",
@@ -4598,6 +4744,56 @@
     "inv.1.6"
    ],
    "dupe": "year11mishrapiatos2026fedcfamc1a171casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Musaev and Musaev [2026] FedCFamC1F 641 - Case Summary.pdf",
+   "name": "Year 11 - Musaev and Musaev [2026] FedCFamC1F 641 - Case Summary",
+   "file": "Year 11 - Musaev and Musaev [2026] FedCFamC1F 641 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 693683,
+   "mtime": 1793305219,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.3.3",
+    "inv.3.2"
+   ],
+   "dupe": "year11musaevandmusaev2026fedcfamc1f641casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Odalis and Odalis (No 2) [2026] FedCFamC1F 609 - Case Summary.pdf",
+   "name": "Year 11 - Odalis and Odalis (No 2) [2026] FedCFamC1F 609 - Case Summary",
+   "file": "Year 11 - Odalis and Odalis (No 2) [2026] FedCFamC1F 609 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 707777,
+   "mtime": 1793305222,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.1.6",
+    "inv.1.4"
+   ],
+   "dupe": "year11odalisandodalisno22026fedcfamc1f609casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary.pdf",
+   "name": "Year 11 - Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary",
+   "file": "Year 11 - Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 690248,
+   "mtime": 1793305223,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.7"
+   ],
+   "dupe": "year11pratleyandpratleyno102026fedcfamc1f643casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4696,6 +4892,23 @@
     "dis.3.1"
    ],
    "dupe": "year11samueluvminister2026fcafc100casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary.pdf",
+   "name": "Year 11 - Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary",
+   "file": "Year 11 - Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 696666,
+   "mtime": 1793305223,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.4.3",
+    "dis.2.5"
+   ],
+   "dupe": "year11silvestreandmeadow2026fedcfamc1f642casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4819,6 +5032,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Winship and Smeets [2026] FedCFamC1F 659 - Case Summary.pdf",
+   "name": "Year 11 - Winship and Smeets [2026] FedCFamC1F 659 - Case Summary",
+   "file": "Year 11 - Winship and Smeets [2026] FedCFamC1F 659 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 704871,
+   "mtime": 1793305225,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.1.6"
+   ],
+   "dupe": "year11winshipandsmeets2026fedcfamc1f659casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Woolmington v DPP [1935] AC 462 - Case Summary.pdf",
    "name": "Year 11 - Woolmington v DPP [1935] AC 462 - Case Summary",
    "file": "Year 11 - Woolmington v DPP [1935] AC 462 - Case Summary.pdf",
@@ -4864,6 +5093,40 @@
     "family"
    ],
    "dupe": "12lsashtorethandvaleriacasestudycard",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Adoption of Bellini [2026] NSWSC 1341 - Case Summary.pdf",
+   "name": "Adoption of Bellini [2026] NSWSC 1341 - Case Summary",
+   "file": "Adoption of Bellini [2026] NSWSC 1341 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 758123,
+   "mtime": 1793305179,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.1.6",
+    "fam.3.4"
+   ],
+   "dupe": "adoptionofbellini2026nswsc1341casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Batraz and Magni [2026] FedCFamC1F 626 - Case Summary.pdf",
+   "name": "Batraz and Magni [2026] FedCFamC1F 626 - Case Summary",
+   "file": "Batraz and Magni [2026] FedCFamC1F 626 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 783903,
+   "mtime": 1793305181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.2",
+    "fam.3.2"
+   ],
+   "dupe": "batrazandmagni2026fedcfamc1f626casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5223,6 +5486,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary.pdf",
+   "name": "Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary",
+   "file": "Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 790306,
+   "mtime": 1793305182,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.3",
+    "fam.2.2"
+   ],
+   "dupe": "duanandrenno62026fedcfamc1f617casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Fernley & Masson [2026] FedCFamC2F 958 - Case Summary.pdf",
    "name": "Fernley & Masson [2026] FedCFamC2F 958 - Case Summary",
    "file": "Fernley & Masson [2026] FedCFamC2F 958 - Case Summary.pdf",
@@ -5271,6 +5551,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Gearalt and Gearalt [2026] FedCFamC1F 656 - Case Summary.pdf",
+   "name": "Gearalt and Gearalt [2026] FedCFamC1F 656 - Case Summary",
+   "file": "Gearalt and Gearalt [2026] FedCFamC1F 656 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 746094,
+   "mtime": 1793305182,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.4",
+    "fam.2.2"
+   ],
+   "dupe": "gearaltandgearalt2026fedcfamc1f656casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Geratos & Roldan [2026] FedCFamC2F 1202 - Case Summary.pdf",
    "name": "Geratos & Roldan [2026] FedCFamC2F 1202 - Case Summary",
    "file": "Geratos & Roldan [2026] FedCFamC2F 1202 - Case Summary.pdf",
@@ -5283,6 +5580,22 @@
     "family"
    ],
    "dupe": "geratosroldan2026fedcfamc2f1202casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Gin and Hing (No 14) [2026] FedCFamC1F 618 - Case Summary.pdf",
+   "name": "Gin and Hing (No 14) [2026] FedCFamC1F 618 - Case Summary",
+   "file": "Gin and Hing (No 14) [2026] FedCFamC1F 618 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 780088,
+   "mtime": 1793305184,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.5"
+   ],
+   "dupe": "ginandhingno142026fedcfamc1f618casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5349,6 +5662,22 @@
     "fam.3.4"
    ],
    "dupe": "hcvvchildrensguardiannswcaselaw",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Horackova and Abadjieva [2026] FedCFamC1F 665 - Case Summary.pdf",
+   "name": "Horackova and Abadjieva [2026] FedCFamC1F 665 - Case Summary",
+   "file": "Horackova and Abadjieva [2026] FedCFamC1F 665 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 738606,
+   "mtime": 1793305187,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.1.3"
+   ],
+   "dupe": "horackovaandabadjieva2026fedcfamc1f665casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5482,6 +5811,55 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Marga and Buster [2026] FedCFamC1F 622 - Case Summary.pdf",
+   "name": "Marga and Buster [2026] FedCFamC1F 622 - Case Summary",
+   "file": "Marga and Buster [2026] FedCFamC1F 622 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 790215,
+   "mtime": 1793305189,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.2",
+    "fam.3.2"
+   ],
+   "dupe": "margaandbuster2026fedcfamc1f622casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Maryvonne and Maryvonne [2026] FedCFamC1F 630 - Case Summary.pdf",
+   "name": "Maryvonne and Maryvonne [2026] FedCFamC1F 630 - Case Summary",
+   "file": "Maryvonne and Maryvonne [2026] FedCFamC1F 630 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 758794,
+   "mtime": 1793305190,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.2"
+   ],
+   "dupe": "maryvonneandmaryvonne2026fedcfamc1f630casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/McFall and McFall [2026] FedCFamC1F 570 - Case Summary.pdf",
+   "name": "McFall and McFall [2026] FedCFamC1F 570 - Case Summary",
+   "file": "McFall and McFall [2026] FedCFamC1F 570 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 763335,
+   "mtime": 1793305190,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.3"
+   ],
+   "dupe": "mcfallandmcfall2026fedcfamc1f570casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Mishra & Piatos [2026] FedCFamC1A 171 - Case Summary.pdf",
    "name": "Mishra & Piatos [2026] FedCFamC1A 171 - Case Summary",
    "file": "Mishra & Piatos [2026] FedCFamC1A 171 - Case Summary.pdf",
@@ -5526,6 +5904,39 @@
     "family"
    ],
    "dupe": "murchinenfieldno32026fedcfamc2f1104casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Musaev and Musaev [2026] FedCFamC1F 641 - Case Summary.pdf",
+   "name": "Musaev and Musaev [2026] FedCFamC1F 641 - Case Summary",
+   "file": "Musaev and Musaev [2026] FedCFamC1F 641 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 779933,
+   "mtime": 1793305191,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.3"
+   ],
+   "dupe": "musaevandmusaev2026fedcfamc1f641casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Odalis and Odalis (No 2) [2026] FedCFamC1F 609 - Case Summary.pdf",
+   "name": "Odalis and Odalis (No 2) [2026] FedCFamC1F 609 - Case Summary",
+   "file": "Odalis and Odalis (No 2) [2026] FedCFamC1F 609 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 771451,
+   "mtime": 1793305192,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.5",
+    "fam.2.2"
+   ],
+   "dupe": "odalisandodalisno22026fedcfamc1f609casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5627,6 +6038,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary.pdf",
+   "name": "Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary",
+   "file": "Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 757544,
+   "mtime": 1793305194,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.3",
+    "fam.2.5"
+   ],
+   "dupe": "pratleyandpratleyno102026fedcfamc1f643casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/RollandandFraser(Childsupport)[2025]ARTA3430(6October2025).rtf",
    "name": "RollandandFraser(Childsupport)[2025]ARTA3430(6October2025)",
    "file": "RollandandFraser(Childsupport)[2025]ARTA3430(6October2025).rtf",
@@ -5689,6 +6117,23 @@
     "family"
    ],
    "dupe": "shungkhun2026fedcfamc1f613casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary.pdf",
+   "name": "Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary",
+   "file": "Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 745994,
+   "mtime": 1793305196,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.5",
+    "fam.2.2"
+   ],
+   "dupe": "silvestreandmeadow2026fedcfamc1f642casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5900,6 +6345,22 @@
     "family"
    ],
    "dupe": "wannellluxford2026fedcfamc2f930",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Winship and Smeets [2026] FedCFamC1F 659 - Case Summary.pdf",
+   "name": "Winship and Smeets [2026] FedCFamC1F 659 - Case Summary",
+   "file": "Winship and Smeets [2026] FedCFamC1F 659 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 756216,
+   "mtime": 1793305200,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.5"
+   ],
+   "dupe": "winshipandsmeets2026fedcfamc1f659casesummary",
    "copyOf": null,
    "primary": true
   },
