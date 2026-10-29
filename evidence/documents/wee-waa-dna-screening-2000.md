@@ -5,7 +5,7 @@ short: Wee Waa DNA screening (2000)
 citation: NSW Police voluntary DNA screening of about 600 men in Wee Waa, April 2000; Crimes (Forensic Procedures) Act 2000 (NSW)
 date: 2000-04
 jurisdiction: NSW
-significance: Every man in a small town was asked to volunteer DNA after an elderly woman was raped; the offender confessed before his sample was analysed, and the exercise raised privacy and presumption-of-innocence concerns that shaped the Forensic Procedures Act.
+significance: Every man in a small town was asked to volunteer DNA after an elderly woman was raped; the offender confessed before his sample was analysed, raising privacy and presumption-of-innocence concerns.
 core: crime.2.3
 support: crime.2.1, hr.2.5
 themes: crime.t.balance, crime.t.effectiveness
