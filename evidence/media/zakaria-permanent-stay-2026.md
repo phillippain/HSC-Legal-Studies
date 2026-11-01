@@ -1,17 +1,17 @@
 ---
 type: media
-title: Zakaria seeks permanent stay over alleged unlawful deportation — week one and the Crown concession (2026)
+title: Zakaria seeks permanent stay over alleged unlawful deportation — the Crown concession and suppressed AFP evidence (2026)
 short: Zakaria permanent stay
-citation: HSC Legal Studies evidence summaries, 19, 21 and 26 October 2026; built on ABC News of 18, 19, 22 and 24 October 2026 with its earlier reports of September 2025 and July 2026, AAP, the AFP's December 2023 release, Moti v The Queen [2011] HCA 50 and the abuse-of-process authorities
-date: 2026-10-24
+citation: HSC Legal Studies evidence summaries, 19, 21 and 26 October and 2 November 2026; built on ABC News of 18, 19, 22, 24 and 31 October 2026 with its earlier reports of September 2025 and July 2026, AAP, the AFP's December 2023 release, Moti v The Queen [2011] HCA 50 and the abuse-of-process authorities
+date: 2026-10-31
 jurisdiction: NSW Supreme Court (Justice Edward Muston); Commonwealth AFP conduct overseas
 significance: A court is asked to refuse to try two murder charges because of how the accused was brought before it — the integrity of the court set against the public interest in a trial.
 core: crime.3.1, crime.2.1, crime.3.6
-support: crime.2.3, crime.2.4, crime.2.6, crime.3.3, crime.3.5, crime.3.7, crime.6.2, hr.2.4, hr.2.10, inv.1.6, inv.1.7, inv.3.1, inv.3.2, inv.6.2, inv.7.1, dis.3.2, exp.5, exp.6, dis.1.5, dis.1.4, dis.1.6
+support: crime.3.9, hr.2.13, crime.2.3, crime.2.4, crime.2.6, crime.3.3, crime.3.5, crime.3.7, crime.6.2, hr.2.4, hr.2.10, inv.1.6, inv.1.7, inv.3.1, inv.3.2, inv.6.2, inv.7.1, dis.3.2, exp.5, exp.6, dis.1.5, dis.1.4, dis.1.6
 themes: crime.t.discretion, crime.t.balance, crime.t.compliance, crime.t.effectiveness, inv.t.justice
 criteria: accessibility, enforceability, responsiveness, rights, ruleoflaw, justice
-document: Crime/Criminal Trial Process/Zakaria permanent stay - week one and Crown concession (Evidence summary 26Oct26).pdf
-source: https://www.abc.net.au/news/2026-10-24/masood-zakaria-afp-permanent-stay-hart-skytraders/107302232
+document: Crime/Criminal Trial Process/Zakaria permanent stay - AFP evidence and suppression (Evidence summary 2Nov26).pdf
+source: https://www.abc.net.au/news/2026-10-31/masood-zakaria-afp-turkiye-permanent-stay-application/107327138
 related: the-adversary-system-and-court-jurisdiction, police-and-law-enforcement-agencies, detention-and-interrogation-rights, dietrich-v-the-queen-1992, hamzy-v-commissioner-2026, international-crime-evidence-summary-2026, extradition-act-1988
 added: 2026-10-19
 ---
@@ -69,6 +69,19 @@ including conspiracy to murder, the murder charges following later.
 | Removal lawful locally? | No — before his review window ended | Crown concedes prohibited while his appeal was pending |
 | Officials' knowledge | Authorised travel documents knowing it was unlawful | AFP told it was legal; knowledge not proven in 2025 |
 | Outcome | Stayed 6–1 (Heydon J dissenting) | Undecided |
+
+## Week two (to 31 October 2026)
+
+- Evidence from **three AFP officers** was partly **suppressed** under the *Court Suppression and Non-publication
+  Orders Act 2010* (NSW) s 8 — so reporting of the AFP's side is necessarily incomplete: open justice against
+  protecting operational material.
+- The defence calls the contractor payments a "sham"; the AFP maintains it acted lawfully. Arrest warrants issued in
+  December 2021 preceded the December 2023 deportation.
+- In *Moti* the High Court said the focus is on what Australian officials **did or did not do**, not only collusion;
+  whether the AFP **knew** the removal was unlawful may be decisive. *Moti* also held that AFP payments to the
+  complainant and family were not an abuse.
+- Either side may seek appellate review, as in *Moti*, where the Court of Appeal and the High Court reached different
+  results.
 
 ## The test, and why the 2025 ruling matters
 

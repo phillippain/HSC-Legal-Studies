@@ -14197,6 +14197,23 @@
    "primary": true
   },
   {
+   "path": "Crime/Criminal Trial Process/Zakaria permanent stay - AFP evidence and suppression (Evidence summary 2Nov26).pdf",
+   "name": "Zakaria permanent stay - AFP evidence and suppression (Evidence summary 2Nov26)",
+   "file": "Zakaria permanent stay - AFP evidence and suppression (Evidence summary 2Nov26).pdf",
+   "ext": "pdf",
+   "bytes": 206061,
+   "mtime": 1793563080,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.3.1",
+    "crime.6.2"
+   ],
+   "dupe": "zakariapermanentstayafpevidenceandsuppressionevidencesummary2nov26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Criminal Trial Process/Zakaria permanent stay - week one and Crown concession (Evidence summary 26Oct26).pdf",
    "name": "Zakaria permanent stay - week one and Crown concession (Evidence summary 26Oct26)",
    "file": "Zakaria permanent stay - week one and Crown concession (Evidence summary 26Oct26).pdf",
@@ -15343,6 +15360,23 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - Marsden Park Teen Bail Refused Evidence Summary.pdf",
+   "name": "Crime - Marsden Park Teen Bail Refused Evidence Summary",
+   "file": "Crime - Marsden Park Teen Bail Refused Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208622,
+   "mtime": 1793563081,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.5",
+    "crime.5.2"
+   ],
+   "dupe": "crimemarsdenparkteenbailrefusedevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - NSW National Gun Buyback Begins Evidence Summary.pdf",
    "name": "Crime - NSW National Gun Buyback Begins Evidence Summary",
    "file": "Crime - NSW National Gun Buyback Begins Evidence Summary.pdf",
@@ -15356,6 +15390,23 @@
     "crime.2.1"
    ],
    "dupe": "crimenswnationalgunbuybackbeginsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - NSW Prison Inquests Mental Health Failures Evidence Summary.pdf",
+   "name": "Crime - NSW Prison Inquests Mental Health Failures Evidence Summary",
+   "file": "Crime - NSW Prison Inquests Mental Health Failures Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208779,
+   "mtime": 1793563080,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.4.8",
+    "crime.3.1"
+   ],
+   "dupe": "crimenswprisoninquestsmentalhealthfailuresevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -15374,6 +15425,23 @@
     "crime.2.5"
    ],
    "dupe": "crimentteenterrorchargesevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Operation Shelter Armed Response Command Costs Evidence Summary.pdf",
+   "name": "Crime - Operation Shelter Armed Response Command Costs Evidence Summary",
+   "file": "Crime - Operation Shelter Armed Response Command Costs Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211040,
+   "mtime": 1793563082,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.1",
+    "crime.1.9"
+   ],
+   "dupe": "crimeoperationshelterarmedresponsecommandcostsevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -15477,6 +15545,23 @@
     "crime.3.7"
    ],
    "dupe": "crimevictoriacourtsecrecyreformsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Youth Crime Younger Offenders Online Recruitment Evidence Summary.pdf",
+   "name": "Crime - Youth Crime Younger Offenders Online Recruitment Evidence Summary",
+   "file": "Crime - Youth Crime Younger Offenders Online Recruitment Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209320,
+   "mtime": 1793563083,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.5.1",
+    "crime.1.8"
+   ],
+   "dupe": "crimeyouthcrimeyoungeroffendersonlinerecruitmentevidencesummary",
    "copyOf": null,
    "primary": true
   },
