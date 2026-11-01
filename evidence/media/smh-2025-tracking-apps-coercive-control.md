@@ -10,7 +10,7 @@ core: fam.2.4
 support: fam.2.6, fam.2.7, fam.1.1, crime.1.8, crime.2.4, hr.3.1, exp.1.2, exp.3.2, inv.1.5, chg.6.2, dis.3.3
 themes: fam.t.values, fam.t.effectiveness, fam.t.reform, fam.t.compliance
 criteria: enforceability, responsiveness, rights, society, accessibility, justice
-document: "Family/Tracking apps coercive control report: Research by Australian e-safety commissioner shows how apps like Find My Friends, SnapMaps, Life 360 can be abused by killers.pdf"
+document: Family/Tracking apps coercive control report: Research by Australian e-safety commissioner shows how apps like Find My Friends, SnapMaps, Life 360 can be abused by killers.pdf
 source: https://www.smh.com.au/
 related: smh-2025-lilie-james-inquest, guardian-2026-gps-tracking, kmart-camera-glasses-hsc-2026, bocsar-coercive-control-june-2026, crimes-act-1900-s54d, online-safety-act-2021-and-social-media-minimum-age, digital-duty-of-care-bill-2026, family-law-council-2024-disincentives-and-systems-abuse
 added: 2026-10-24
