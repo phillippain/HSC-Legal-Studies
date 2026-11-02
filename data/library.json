@@ -4448,6 +4448,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Boleno & Newcombe [2026] FedCFamC1A 191 - Case Summary.pdf",
+   "name": "Year 11 - Boleno & Newcombe [2026] FedCFamC1A 191 - Case Summary",
+   "file": "Year 11 - Boleno & Newcombe [2026] FedCFamC1A 191 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 283518,
+   "mtime": 1793654545,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "exp.1.1",
+    "inv.4.1"
+   ],
+   "dupe": "year11bolenonewcombe2026fedcfamc1a191casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary.pdf",
    "name": "Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary",
    "file": "Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary.pdf",
@@ -4629,6 +4646,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Kathy (a pseudonym) (No 2) [2026] NSWCATGD 21 - Case Summary.pdf",
+   "name": "Year 11 - Kathy (a pseudonym) (No 2) [2026] NSWCATGD 21 - Case Summary",
+   "file": "Year 11 - Kathy (a pseudonym) (No 2) [2026] NSWCATGD 21 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 292298,
+   "mtime": 1793654545,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "inv.1.6"
+   ],
+   "dupe": "year11kathyapseudonymno22026nswcatgd21casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf",
    "name": "Year 11 - Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary",
    "file": "Year 11 - Kelly v NSW LAHC [2026] NSWCATAP 214 - Case Summary.pdf",
@@ -4676,6 +4710,22 @@
     "inv.1.6"
    ],
    "dupe": "year11largevr2026nswcca175casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Lee and Minister for Immigration and Citizenship [2026] ARTA 2513 - Case Summary.pdf",
+   "name": "Year 11 - Lee and Minister for Immigration and Citizenship [2026] ARTA 2513 - Case Summary",
+   "file": "Year 11 - Lee and Minister for Immigration and Citizenship [2026] ARTA 2513 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 274825,
+   "mtime": 1793654546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11leeandministerforimmigrationandcitizenship2026arta2513casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4879,6 +4929,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Rangel & Bird (No 2) [2026] FedCFamC1A 193 - Case Summary.pdf",
+   "name": "Year 11 - Rangel & Bird (No 2) [2026] FedCFamC1A 193 - Case Summary",
+   "file": "Year 11 - Rangel & Bird (No 2) [2026] FedCFamC1A 193 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 284013,
+   "mtime": 1793654547,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.1.6"
+   ],
+   "dupe": "year11rangelbirdno22026fedcfamc1a193casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf",
    "name": "Year 11 - Ridgeway v The Queen [1995] HCA 66 - Case Summary",
    "file": "Year 11 - Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf",
@@ -4892,6 +4958,22 @@
     "dis.1.8"
    ],
    "dupe": "year11ridgewayvthequeen1995hca66casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary.pdf",
+   "name": "Year 11 - SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary",
+   "file": "Year 11 - SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 282536,
+   "mtime": 1793654547,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.7"
+   ],
+   "dupe": "year11safeworknswvaxentraprojects2026nswdc398casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4929,6 +5011,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Secretary DCCEEW v Dalton [2026] NSWLEC 138 - Case Summary.pdf",
+   "name": "Year 11 - Secretary DCCEEW v Dalton [2026] NSWLEC 138 - Case Summary",
+   "file": "Year 11 - Secretary DCCEEW v Dalton [2026] NSWLEC 138 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 284042,
+   "mtime": 1793654548,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.3",
+    "dis.1.7"
+   ],
+   "dupe": "year11secretarydcceewvdalton2026nswlec138casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary.pdf",
    "name": "Year 11 - Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary",
    "file": "Year 11 - Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary.pdf",
@@ -4946,6 +5045,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - State of NSW v Wheatley (Variation) [2026] NSWSC 1364 - Case Summary.pdf",
+   "name": "Year 11 - State of NSW v Wheatley (Variation) [2026] NSWSC 1364 - Case Summary",
+   "file": "Year 11 - State of NSW v Wheatley (Variation) [2026] NSWSC 1364 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 290874,
+   "mtime": 1793654550,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.7"
+   ],
+   "dupe": "year11stateofnswvwheatleyvariation2026nswsc1364casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf",
    "name": "Year 11 - Thomas v Mowbray [2007] HCA 33 - Case Summary",
    "file": "Year 11 - Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf",
@@ -4959,6 +5074,22 @@
     "inv.5.4"
    ],
    "dupe": "year11thomasvmowbray2007hca33casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Tutoveanu v State of NSW [2026] FCA 1624 - Case Summary.pdf",
+   "name": "Year 11 - Tutoveanu v State of NSW [2026] FCA 1624 - Case Summary",
+   "file": "Year 11 - Tutoveanu v State of NSW [2026] FCA 1624 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 286960,
+   "mtime": 1793654550,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11tutoveanuvstateofnsw2026fca1624casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5208,6 +5339,22 @@
     "family"
    ],
    "dupe": "billingsandclowesno22026fedcfamc2f1367casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Boleno & Newcombe [2026] FedCFamC1A 191 - Case Summary.pdf",
+   "name": "Boleno & Newcombe [2026] FedCFamC1A 191 - Case Summary",
+   "file": "Boleno & Newcombe [2026] FedCFamC1A 191 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 324914,
+   "mtime": 1793654539,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "bolenonewcombe2026fedcfamc1a191casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6088,6 +6235,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Rangel & Bird (No 2) [2026] FedCFamC1A 193 - Case Summary.pdf",
+   "name": "Rangel & Bird (No 2) [2026] FedCFamC1A 193 - Case Summary",
+   "file": "Rangel & Bird (No 2) [2026] FedCFamC1A 193 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 317473,
+   "mtime": 1793654540,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "rangelbirdno22026fedcfamc1a193casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/RollandandFraser(Childsupport)[2025]ARTA3430(6October2025).rtf",
    "name": "RollandandFraser(Childsupport)[2025]ARTA3430(6October2025)",
    "file": "RollandandFraser(Childsupport)[2025]ARTA3430(6October2025).rtf",
@@ -6813,6 +6976,22 @@
     "hr.3.1"
    ],
    "dupe": "samueluvministerforimmigrationandcitizenship2026fcafc100",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/Tutoveanu v State of NSW [2026] FCA 1624 - Case Summary.pdf",
+   "name": "Tutoveanu v State of NSW [2026] FCA 1624 - Case Summary",
+   "file": "Tutoveanu v State of NSW [2026] FCA 1624 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 315136,
+   "mtime": 1793654544,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "humanrights"
+   ],
+   "dupe": "tutoveanuvstateofnsw2026fca1624casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7909,6 +8088,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary.pdf",
+   "name": "SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary",
+   "file": "SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 316113,
+   "mtime": 1793654541,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "safeworknswvaxentraprojects2026nswdc398casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/SafeWork NSW v Toll Transport (No 2) [2026] NSWIC 63 - Case Summary.pdf",
    "name": "SafeWork NSW v Toll Transport (No 2) [2026] NSWIC 63 - Case Summary",
    "file": "SafeWork NSW v Toll Transport (No 2) [2026] NSWIC 63 - Case Summary.pdf",
@@ -7924,6 +8119,22 @@
     "crime.4.6"
    ],
    "dupe": "safeworknswvtolltransportno22026nswic63casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Secretary DCCEEW v Dalton [2026] NSWLEC 138 - Case Summary.pdf",
+   "name": "Secretary DCCEEW v Dalton [2026] NSWLEC 138 - Case Summary",
+   "file": "Secretary DCCEEW v Dalton [2026] NSWLEC 138 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 316352,
+   "mtime": 1793654542,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "secretarydcceewvdalton2026nswlec138casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7957,6 +8168,22 @@
     "crime.4.2"
    ],
    "dupe": "soykevr2016nswcca112casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/State of NSW v Wheatley (Variation) [2026] NSWSC 1364 - Case Summary.pdf",
+   "name": "State of NSW v Wheatley (Variation) [2026] NSWSC 1364 - Case Summary",
+   "file": "State of NSW v Wheatley (Variation) [2026] NSWSC 1364 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 316113,
+   "mtime": 1793654543,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "stateofnswvwheatleyvariation2026nswsc1364casesummary",
    "copyOf": null,
    "primary": true
   },
