@@ -8717,6 +8717,23 @@
    "primary": true
   },
   {
+   "path": "Human Rights/HR - Reddit High Court Social Media Ban Challenge Evidence Summary.pdf",
+   "name": "HR - Reddit High Court Social Media Ban Challenge Evidence Summary",
+   "file": "HR - Reddit High Court Social Media Ban Challenge Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 212826,
+   "mtime": 1793656339,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.8",
+    "hr.3.1"
+   ],
+   "dupe": "hrreddithighcourtsocialmediabanchallengeevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/HR - SAS Afghanistan Culture and Command Inquiry Evidence Summary.pdf",
    "name": "HR - SAS Afghanistan Culture and Command Inquiry Evidence Summary",
    "file": "HR - SAS Afghanistan Culture and Command Inquiry Evidence Summary.pdf",
@@ -15927,6 +15944,23 @@
     "crime.3.7"
    ],
    "dupe": "crimevictoriacourtsecrecyreformsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - WA Police Facial Recognition Trial Evidence Summary.pdf",
+   "name": "Crime - WA Police Facial Recognition Trial Evidence Summary",
+   "file": "Crime - WA Police Facial Recognition Trial Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211915,
+   "mtime": 1793656338,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.1",
+    "crime.2.3"
+   ],
+   "dupe": "crimewapolicefacialrecognitiontrialevidencesummary",
    "copyOf": null,
    "primary": true
   },

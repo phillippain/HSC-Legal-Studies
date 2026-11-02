@@ -494,3 +494,5 @@ Family/Evidence Summaries/Family - Child Support Financial Abuse Evidence Summar
 Human Rights/HR - NSW Human Rights Act Inquiry Evidence Summary.pdf | hr.2.14, hr.2.12
 Human Rights/HR - Nazi Salute Mandatory Minimum ANU Stickers Evidence Summary.pdf | hr.2.9, hr.3.1
 Shelter/Evidence Sheets/Shelter - House Prices Seventh Fall and Investor Tax Changes Evidence Summary.pdf | shel.1.4, shel.3.1
+Crime/Media/Crime - WA Police Facial Recognition Trial Evidence Summary.pdf | crime.2.1, crime.2.3
+Human Rights/HR - Reddit High Court Social Media Ban Challenge Evidence Summary.pdf | hr.2.8, hr.3.1
