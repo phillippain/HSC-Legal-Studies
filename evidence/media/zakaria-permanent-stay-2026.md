@@ -2,7 +2,7 @@
 type: media
 title: Zakaria seeks permanent stay over alleged unlawful deportation — the Crown concession and suppressed AFP evidence (2026)
 short: Zakaria permanent stay
-citation: HSC Legal Studies evidence summaries, 19, 21 and 26 October and 2 November 2026; built on ABC News of 18, 19, 22, 24 and 31 October 2026 with its earlier reports of September 2025 and July 2026, AAP, the AFP's December 2023 release, Moti v The Queen [2011] HCA 50 and the abuse-of-process authorities
+citation: HSC Legal Studies evidence summaries, 19, 21 and 26 October and 2 and 3 November 2026; built on ABC News of 18, 19, 22, 24 and 31 October 2026 with its earlier reports of September 2025 and July 2026, AAP, the AFP's December 2023 release, Moti v The Queen [2011] HCA 50 and the abuse-of-process authorities
 date: 2026-10-31
 jurisdiction: NSW Supreme Court (Justice Edward Muston); Commonwealth AFP conduct overseas
 significance: A court is asked to refuse to try two murder charges because of how the accused was brought before it — the integrity of the court set against the public interest in a trial.
@@ -10,7 +10,7 @@ core: crime.3.1, crime.2.1, crime.3.6
 support: crime.3.9, hr.2.13, crime.2.3, crime.2.4, crime.2.6, crime.3.3, crime.3.5, crime.3.7, crime.6.2, hr.2.4, hr.2.10, inv.1.6, inv.1.7, inv.3.1, inv.3.2, inv.6.2, inv.7.1, dis.3.2, exp.5, exp.6, dis.1.5, dis.1.4, dis.1.6
 themes: crime.t.discretion, crime.t.balance, crime.t.compliance, crime.t.effectiveness, inv.t.justice
 criteria: accessibility, enforceability, responsiveness, rights, ruleoflaw, justice
-document: Crime/Criminal Trial Process/Zakaria permanent stay - AFP evidence and suppression (Evidence summary 2Nov26).pdf
+document: Crime/Criminal Trial Process/Zakaria permanent stay - AFP removal on trial (Evidence summary 3Nov26).pdf
 source: https://www.abc.net.au/news/2026-10-31/masood-zakaria-afp-turkiye-permanent-stay-application/107327138
 related: the-adversary-system-and-court-jurisdiction, police-and-law-enforcement-agencies, detention-and-interrogation-rights, dietrich-v-the-queen-1992, hamzy-v-commissioner-2026, international-crime-evidence-summary-2026, extradition-act-1988
 added: 2026-10-19
@@ -82,6 +82,18 @@ including conspiracy to murder, the murder charges following later.
   complainant and family were not an abuse.
 - Either side may seek appellate review, as in *Moti*, where the Court of Appeal and the High Court reached different
   results.
+
+## Extradition v what happened (3 November summary)
+
+| | Extradition (the lawful route) | Zakaria's return |
+|---|---|---|
+| Legal basis | *Extradition Act 1988* (Cth) and the Australia–Türkiye treaty; AGD the central authority | Turkish deportation; AFP-funded private escort |
+| Safeguards | Double criminality and **speciality** (trial limited to the extradited offences) | Avoided — murder charges were laid after his return and were not on the December 2023 warrant list |
+| Right to challenge | Contest in the requested country | Removed while his Turkish appeal was pending; the Crown concedes removal was prohibited |
+| Transparency | Formal request on the record | Much AFP evidence suppressed; officers testify with protection against self-incrimination (*Evidence Act* s 128) |
+
+The live ABC headline now reads that AFP officers are "protected from prosecution" as their evidence is suppressed. An
+unlawful removal alone does not require a stay: under *Moti*, the focus is on what Australian officials did or knew.
 
 ## The test, and why the 2025 ruling matters
 

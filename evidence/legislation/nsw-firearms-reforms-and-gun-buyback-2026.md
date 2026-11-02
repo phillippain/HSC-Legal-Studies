@@ -3,14 +3,14 @@ type: legislation
 title: NSW firearms reforms after Bondi and the National Gun Buyback (2025–2027)
 short: National gun buyback after Bondi
 citation: Terrorism and Other Legislation Amendment Act 2025 (NSW) (passed 24 December 2025); National Gun Buyback, NSW Government media release, 26 October 2026, and joint Commonwealth–NSW release, 16 August 2026
-date: 2026-10-26
+date: 2026-11-02
 jurisdiction: NSW, jointly funded 50:50 with the Commonwealth; NSW Police and the NSW Firearms Registry
 significance: After the 14 December 2025 Bondi Beach terror attack, NSW capped gun numbers, cut licences to two years and removed NCAT review, then opened a buyback for up to 274,000 firearms.
 core: chg.6.1, chg.3.1, chg.3.2, crime.1.9
 support: crime.2.1, chg.1.6, chg.2.1, chg.2.3, chg.4.1, chg.4.2, inv.5.2, inv.3.3, crime.6.1
 themes: chg.t.effectiveness, chg.t.values, chg.t.justice, crime.t.reform, crime.t.balance
 criteria: responsiveness, society, rights, enforceability, resource
-document: Crime/Media/Crime - NSW National Gun Buyback Begins Evidence Summary.pdf
+document: Crime/Media/Crime - NSW Gun Buyback and Firearm Caps Evidence Summary.pdf
 document11: Preliminary/Year 11 - National Gun Buyback Law Reform After Bondi Evidence Summary.pdf
 source: https://www.nsw.gov.au/ministerial-releases/national-gun-buyback-to-begin-nsw-on-november-2-bookings-to-surrender-open-today
 related: nsw-hate-crime-laws-2025-26, terrorism-police-powers-act-2002, royal-commissions-acts, law-reform-conditions-agencies-mechanisms
@@ -33,6 +33,14 @@ widening in stages to February 2027, for about 12 months.
 | Permit to acquire | — | Safe-storage inspection and terrorism-related checks first |
 | Categories | Straight-pull, pump, lever-release lower | Moved to Category C; belt-fed prohibited |
 | Club membership | Not required for all A/B holders | Required once proclaimed |
+
+## Day one (2 November 2026)
+
+The buyback began on **2 November 2026** at six stations (Dubbo, Griffith, Grafton, Penrith, Sutherland, Narellan),
+with 34 more from early December; initial bookings were **full on day one**. The Act (No 86 of 2025) was rushed
+through in **three days** after Bondi. The Premier expects the demand-driven scheme to cost "hundreds of millions";
+existing owners above the caps face no immediate seizure, and permits to exceed them await regulations. The caps have
+become an **election issue** that the Opposition says it would revisit — a reform that may be reversed.
 
 ## The buyback
 

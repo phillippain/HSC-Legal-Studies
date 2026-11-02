@@ -407,7 +407,7 @@ Shelter/Evidence Sheets/Shelter - Housing Delivery Authority 4000 Homes Declared
 Human Rights/HR - Qld Prison Human Rights Exemption Evidence Summary.pdf | hr.2.14, hr.2.9
 Crime/Media/Crime - AFP Youth Radicalisation Data Evidence Summary.pdf | crime.1.8, crime.5.1, crime.6.1
 Crime/Media/Crime - Kariong Intake Centre Period Products Inspection Evidence Summary.pdf | crime.4.8, crime.2.5
-Crime/Media/Crime - NSW National Gun Buyback Begins Evidence Summary.pdf | crime.1.9, crime.2.1
+Crime/Media/Crime - National gun buyback after Bondi - bookings open Evidence Summary.pdf | crime.1.9, crime.2.1
 Family/Evidence Summaries/Family - Informal Sperm Donation Turkey Baster Evidence Summary.pdf | fam.3.3
 Family/Evidence Summaries/Family - My IVF Support Mental Health Fertility Treatment Evidence Summary.pdf | fam.3.3
 Family/Evidence Summaries/Family - Male Infertility Undiagnosed Birth Technologies Evidence Summary.pdf | fam.3.3
@@ -486,3 +486,11 @@ Cases/Year 11/Year 11 - Rangel & Bird (No 2) [2026] FedCFamC1A 193 - Case Summar
 Cases/Year 11/Year 11 - Tutoveanu v State of NSW [2026] FCA 1624 - Case Summary.pdf | dis.3.4
 Cases/Year 11/Year 11 - Lee and Minister for Immigration and Citizenship [2026] ARTA 2513 - Case Summary.pdf | dis.3.4
 Cases/Year 11/Year 11 - Kathy (a pseudonym) (No 2) [2026] NSWCATGD 21 - Case Summary.pdf | dis.2.5, inv.1.6
+Crime/Media/Crime - Griffith NSW Childcare Abuse Charges Evidence Summary.pdf | crime.2.4, crime.2.5, crime.4.3
+Crime/Criminal Trial Process/Zakaria permanent stay - AFP removal on trial (Evidence summary 3Nov26).pdf | crime.3.1, crime.2.1
+Crime/Media/Crime - NSW Gun Buyback and Firearm Caps Evidence Summary.pdf | crime.1.9, crime.2.1
+Crime/Media/Crime - Qld Breach Bail Go to Jail Laws Evidence Summary.pdf | crime.2.5, crime.4.1, crime.5.4
+Family/Evidence Summaries/Family - Child Support Financial Abuse Evidence Summary.pdf | fam.2.2, fam.2.4
+Human Rights/HR - NSW Human Rights Act Inquiry Evidence Summary.pdf | hr.2.14, hr.2.12
+Human Rights/HR - Nazi Salute Mandatory Minimum ANU Stickers Evidence Summary.pdf | hr.2.9, hr.3.1
+Shelter/Evidence Sheets/Shelter - House Prices Seventh Fall and Investor Tax Changes Evidence Summary.pdf | shel.1.4, shel.3.1
