@@ -2074,12 +2074,26 @@ document.addEventListener("keydown", e => {
 });
 
 /* ----------------------------------------------------------------- boot -- */
+/* A link of the form evidence.html#ev-<record id> opens that card — the daily
+   summary email links to cards this way. Unknown ids are ignored. */
+function openFromHash(){
+  const m = location.hash.match(/^#ev-(.+)$/);
+  if (!m) return false;
+  let id;
+  try { id = decodeURIComponent(m[1]); } catch (e) { return false; }
+  if (!ITEMS.some(x => x.id === id)) return false;
+  showEvidence(id);
+  return true;
+}
+window.addEventListener("hashchange", openFromHash);
+
 (function boot(){
   if (!DATA.courses[state.course]) state.course = "all";
   syncCourse();
   renderCoverage();
   render();
-  if (!ls.get("hsc-ls-ev-tour")) setTimeout(startTour, 700);
+  const landed = openFromHash();
+  if (!landed && !ls.get("hsc-ls-ev-tour")) setTimeout(startTour, 700);
 })();
 </script>
 </body>

@@ -4,3 +4,5 @@ __pycache__/
 
 _superseded/
 data/inbox-links.json
+data/digest-state.json
+.digest/
