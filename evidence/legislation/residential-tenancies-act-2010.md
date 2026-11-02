@@ -12,6 +12,7 @@ themes: shel.t.cooperation, shel.t.compliance, shel.t.reform, shel.t.effectivene
 criteria: accessibility, enforceability, rights, justice
 related: nsw-no-grounds-reform-2026
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 Sets the rights and obligations of landlords and tenants, and routes disputes to **NCAT**.

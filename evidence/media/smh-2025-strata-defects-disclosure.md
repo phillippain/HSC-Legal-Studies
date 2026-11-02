@@ -14,6 +14,7 @@ document: Shelter/Townhouse was perfect, then ceiling began to drip SMH 9 April 
 source: https://www.smh.com.au/
 related: smh-2025-defects-cost-700m, strata-schemes-management-act-2015, strata-schemes-development-act-2015, strata-schemes-legislation-amendment-miscellaneous-bill-2025, residential-apartment-buildings-act-2020, design-building-practitioners-act-2020, pafburn-2024, nsw-building-commissioner, law-society-selling-a-home-checklist, mascot-towers-s430-investigation-2023
 added: 2026-10-24
+updated_at: 2026-10-24 11:41
 ---
 
 **Maria and John Tsolakis** bought a townhouse at **Ettalong Beach in 2021**. The listing promised a

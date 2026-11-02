@@ -13,6 +13,7 @@ criteria: rights, responsiveness, society, justice, accessibility
 source: https://www.legislation.gov.au/C2017A00129/latest/text
 related: marriage-act-1961, family-law-act-1975, commonwealth-v-act-2013, australian-constitution-rights-and-powers, adoption-act-2000, surrogacy-act-2010-and-art-act-2007
 added: 2026-10-22
+updated_at: 2026-10-24 21:55
 ---
 
 The recognition of same-sex relationships is the syllabus's standard case study of law responding to

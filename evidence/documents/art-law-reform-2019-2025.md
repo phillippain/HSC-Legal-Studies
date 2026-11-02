@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, responsiveness, rights, society, justic
 document: Family/Assisted Reproductive Technology in past five years.pdf
 related: surrogacy-birth-technology-evidence-file, masson-v-parsons-2019, heraldsun-2025-ivf-medicare-definition, telegraph-2025-monash-ivf-mixup, abc-2025-surrogacy-patchwork
 added: 2026-10-23
+updated_at: 2026-10-24 21:54
 ---
 
 A one-page map of where assisted reproductive technology law has moved. Useful because the dot point

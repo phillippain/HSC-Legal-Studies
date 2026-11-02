@@ -14,6 +14,7 @@ document: Crime/Media/Crime - NSW Prison Inquests Mental Health Failures Evidenc
 source: https://www.abc.net.au/news/2026-10-31/inquests-reveal-mental-health-care-failures-in-nsw-prisons/107098090
 related: deaths-in-custody-since-1991, rciadic-1991, kariong-period-products-inspection-2026, inquest-db-2025, balzan-inquest-2025
 added: 2026-11-02
+updated_at: 2026-11-02 07:01
 ---
 
 The ABC reviewed **249** coronial inquests into NSW prison deaths since 2015. **48** found failures in mental health

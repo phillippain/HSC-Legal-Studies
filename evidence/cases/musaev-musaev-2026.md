@@ -13,6 +13,7 @@ criteria: ruleoflaw, justice, rights
 document: Cases/Family/Musaev and Musaev [2026] FedCFamC1F 641 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Musaev and Musaev [2026] FedCFamC1F 641 - Case Summary.pdf
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 A wife began property proceedings, but her husband died in 2025 before they finished. They continued against his executors. His will purported to forgive a $2,412,344 loan owed to him by a family trust. On 21 September 2026, deciding a preliminary question only, Jarrett J held the forgiveness works as a legacy, the debt belongs to the estate, and her pending claim has priority.

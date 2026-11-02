@@ -12,6 +12,7 @@ themes: crime.t.discretion, crime.t.effectiveness, crime.t.balance
 criteria: justice, accessibility, resource, rights
 document: Crime/12LS Application in Action - Drug diversion.pdf
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 From **29 February 2024**, NSW police may give an adult found with a small amount of a prohibited drug a **$400 Criminal Infringement Notice**, waived if the person completes a health intervention, instead of a Court Attendance Notice.

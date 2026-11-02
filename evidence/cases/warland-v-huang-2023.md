@@ -15,6 +15,7 @@ document11: Cases/Year 11/Year 11 - Warland v Huang [2023] NSWCATCD 115 - Case S
 source: https://www.caselaw.nsw.gov.au/
 related: residential-tenancies-act-2010, ncat-act-2013, fimmano-v-anderson-2024, ncat-tenancy-disputes
 added: 2026-10-23
+updated_at: 2026-10-24 13:21
 ---
 
 A Baulkham Hills tenant paying $520 a week lived with water penetration and mould from November 2021 that made about **a third of his flat uninhabitable**. The parties negotiated a 25% rent cut and then $200 a week from November 2022, with a condition that he make no further NCAT application. On 20 February 2023 the landlord served a 90-day no-reason termination notice.

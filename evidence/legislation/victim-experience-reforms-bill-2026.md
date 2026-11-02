@@ -13,6 +13,7 @@ criteria: rights, responsiveness, justice
 source: https://nswcourts.com.au/articles/the-proposed-victim-experience-sexual-assault-prosecution-reforms-explained/
 related: abc-2026-nsw-sexual-assault-prerecorded-evidence, conversation-2026-rape-myths
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 **Status: introduced 22 September 2026; not passed at 20 October 2026.**

@@ -13,6 +13,7 @@ criteria: justice, accessibility, ruleoflaw, resource
 document: Cases/Crime/Campbell v Winch (No 2) [2026] NSWSC 1319 - Evidence Summary.pdf
 related: inclosed-lands-and-crown-land-trespass, crimes-appeal-and-review-act-2001, criminal-procedure-act-1986, summary-offences-act-1988
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 In a dispute with his neighbours over a shared right of way, Mr Campbell — not police or the DPP —

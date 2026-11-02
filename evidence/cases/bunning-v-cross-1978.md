@@ -14,6 +14,7 @@ document: Cases/Crime/Bunning v Cross [1978] HCA 22 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Bunning v Cross [1978] HCA 22 - Case Summary.pdf
 related: evidence-act-1995, ridgeway-v-the-queen-1995, kadir-grech-v-the-queen-2020
 added: 2026-10-23
+updated_at: 2026-10-24 13:21
 ---
 
 ## Facts

@@ -13,6 +13,7 @@ criteria: enforceability, justice, rights, resource
 document: Cases/Family/Fernley & Masson [2026] FedCFamC2F 958 - Case Summary.pdf
 related: family-law-act-1975, three-child-support-reviews-2026, brigham-hibler-2026
 added: 2026-09-22
+updated_at: 2026-10-24 08:27
 ---
 
 X, 17, is permanently and severely disabled (NDIS level seven — he cannot be left alone and needs

@@ -14,6 +14,7 @@ document: Shelter/Evidence Sheets/Evidence Summary - Strata reforms fourth tranc
 source: https://www.nsw.gov.au/ministerial-releases/strata-schemes-amendment-reduces-red-tape
 related: strata-schemes-management-act-2015, cooper-2020, residential-apartment-buildings-act-2020, ncat-act-2013, shelter-dispute-resolution-map, law-reform-conditions-agencies-mechanisms
 added: 2026-10-21
+updated_at: 2026-10-26 09:56
 ---
 
 About **1.2 million** people in NSW live in strata, across **87,000+** schemes (up from about 70,000 in

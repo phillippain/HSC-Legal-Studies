@@ -14,6 +14,7 @@ document: Crime/Young Offenders/youth-on-track-2020-snapshot-report.pdf
 source: https://dcj.nsw.gov.au/
 related: bocsar-cjb249-youth-on-track, young-offenders-act-1997, children-criminal-proceedings-act-1987, bocsar-cjb160-yjc, bocsar-cjb248-youth-koori-court, doli-incapax-diversion-reforms-2025, senate-youth-justice-inquiry-2026
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 **Youth on Track (YoT)** is a NSW **early intervention** scheme that identifies and responds to

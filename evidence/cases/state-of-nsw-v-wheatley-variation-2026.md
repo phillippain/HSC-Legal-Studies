@@ -13,6 +13,7 @@ criteria: enforceability, society, ruleoflaw
 document: Cases/Crime/State of NSW v Wheatley (Variation) [2026] NSWSC 1364 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - State of NSW v Wheatley (Variation) [2026] NSWSC 1364 - Case Summary.pdf
 added: 2026-11-03
+updated_at: 2026-11-03 08:23
 ---
 
 A young man was subject to an interim supervision order under the *Terrorism (High Risk Offenders) Act

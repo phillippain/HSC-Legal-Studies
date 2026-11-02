@@ -13,6 +13,7 @@ criteria: responsiveness, rights, society, justice, accessibility
 document: Family/Cases/2.4.2 Family law cases.pdf
 related: family-law-amendment-act-2023, care-and-protection-of-children-evidence-sheet, law-reform-conditions-agencies-mechanisms
 added: 2026-09-20
+updated_at: 2026-10-24 08:27
 ---
 
 The **Lone Fathers Association of Australia Inc.** was established in **1975** as an advocacy group

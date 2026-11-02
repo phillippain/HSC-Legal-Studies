@@ -13,6 +13,7 @@ criteria: rights, ruleoflaw, enforceability, justice
 source: https://www.legislation.gov.au/C2004Q00685/latest/text
 related: australian-communist-party-1951, commonwealth-v-tasmania-1983, kable-v-dpp-1996, commonwealth-v-act-2013, mabo-no2-1992, human-rights-in-australia-common-law-courts-media-charter, charters-of-rights-act-vic-qld, marriage-act-1961, international-law-and-australian-law
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 An Act of the British Parliament that took effect on 1 January 1901, approved by referendums in the

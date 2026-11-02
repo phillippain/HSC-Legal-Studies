@@ -13,6 +13,7 @@ criteria: responsiveness, accessibility, society, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1967-039
 related: law-reform-conditions-agencies-mechanisms, nswlrc-report-139-sentencing-2013, federal-circuit-and-family-court-act-2021, family-law-amendment-act-2023, royal-commissions-acts, anti-discrimination-act-1977, crimes-amendment-provocation-2014
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 A law reform commission is a permanent, expert, independent body whose only job is to recommend

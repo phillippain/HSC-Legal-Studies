@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Family - Tasmania Family Violence Definition
 source: https://lens.monash.edu/a-tasmanian-man-allegedly-murdered-his-mother-but-its-not-legally-considered-family-violence-why/
 related: crimes-domestic-personal-violence-act-2007, family-law-act-1975, tasmania-police-ai-report-writing-2026, violence-against-women-media-campaigns
 added: 2026-10-26
+updated_at: 2026-10-26 12:17
 ---
 
 After a Tasmanian man was charged (reported 30 August 2026) with murdering his mother, police said it

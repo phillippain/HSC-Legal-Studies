@@ -12,6 +12,7 @@ themes: chg.t.values, chg.t.justice
 criteria: responsiveness, rights, enforceability, accessibility, justice
 related: ahuri-fr454-renttech-2026, guardian-2026-gps-tracking, detention-and-interrogation-rights
 added: 2026-09-20
+updated_at: 2026-10-24 13:22
 ---
 
 A reference note, with the worked instances recorded separately in this finder.

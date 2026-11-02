@@ -14,6 +14,7 @@ document: Cases/Crime/Woolmington v DPP [1935] AC 462 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Woolmington v DPP [1935] AC 462 - Case Summary.pdf
 related: r-v-porter-1933, zecevic-v-dpp-1987, evidence-act-1995, r-v-kl-2025, chris-dawson-judge-alone-2022
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 Reginald Woolmington, a 21-year-old farm labourer, was charged with murdering his 17-year-old wife

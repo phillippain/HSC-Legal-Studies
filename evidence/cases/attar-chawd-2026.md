@@ -12,6 +12,7 @@ themes: fam.t.values, fam.t.effectiveness, hr.t.values, hr.t.compliance, dis.t.j
 criteria: rights, enforceability, society, justice
 document: Jade Cases/Raw Cases/Attar & Chawd [2026] FedCFamC2F 1012.rtf
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 Risk found **significant but not unacceptable**, so: sole decision-making to the mother, a

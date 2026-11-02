@@ -12,6 +12,7 @@ themes: crime.t.effectiveness, crime.t.compliance
 criteria: enforceability, accessibility, responsiveness
 related: nsw-mobile-phone-detection-cameras
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 NSW Police's **Rural Crime Prevention Team** (about 60 officers) investigates stock theft, theft of

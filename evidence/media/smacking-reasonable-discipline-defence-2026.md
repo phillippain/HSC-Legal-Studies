@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Family - Smacking Reasonable Discipline Defe
 source: https://theconversation.com/fewer-and-fewer-parents-will-smack-their-children-but-its-still-legal-should-that-change-294664
 related: childhood-physical-abuse-by-parents-study-2026, law-reform-commission-acts, croc-1989, crimes-act-1900-key-offences
 added: 2026-10-29
+updated_at: 2026-10-29 06:58
 ---
 
 In a QLRC-funded survey, **57%** said a mother slapping a child's face was guilty of assault, yet **65%** said

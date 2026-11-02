@@ -13,6 +13,7 @@ criteria: rights, enforceability, accessibility, responsiveness, resource
 source: https://www.legislation.gov.au/C2009A00134/latest/text
 related: conveyancing-act-1919, real-property-act-1900, hilda-2026-housing-brief, first-home-buyer-concessions-nsw, federal-budget-2026-housing-tax-changes, shelter-affordability-evidence-sheet
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 Until 2010 consumer credit was state law (the Uniform Consumer Credit Code). After the global

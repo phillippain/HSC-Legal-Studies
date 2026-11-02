@@ -14,6 +14,7 @@ document: Human Rights/Key Legal Issues in Wertheim v Haddad.docx
 source: https://www.hrlc.org.au/case-summaries/wertheim-haddad-fed-court/
 related: nsw-hate-crime-laws-2025-26, human-rights-in-australia-common-law-courts-media-charter, iccpr-1966, udhr-1948
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 Peter Wertheim of the **Executive Council of Australian Jewry** sued over a series of lectures by

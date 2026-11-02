@@ -14,6 +14,7 @@ document: Family/Separated couples forced to keep living together amid housing c
 source: https://www.abc.net.au/news/2026-05-05/separated-couples-live-together-housing-crisis/106501706
 related: family-law-amendment-act-2024-property, conversation-2025-eviction-experiences, smh-2025-renting-retirees-grattan, anglicare-rental-affordability-2026, crimes-domestic-personal-violence-act-2007, rental-subsidies-cra-and-nsw, nras-ending-2026
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 The record that joins the two options this school teaches. Rising rents, limited supply and

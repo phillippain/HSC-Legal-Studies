@@ -14,6 +14,7 @@ document: Shelter/Rental Subsidies NSW v Commonwealth.pdf
 source: https://www.servicesaustralia.gov.au/rent-assistance
 related: smh-2025-renting-retirees-grattan, anglicare-rental-affordability-2026, housing-act-2001, aboriginal-housing-act-1998, conversation-2025-eviction-experiences, housing-australia-future-fund-act-2023, shelter-affordability-evidence-sheet
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 The **demand-side** half of the Australian response to rental stress, and the part most Shelter

@@ -13,6 +13,7 @@ criteria: responsiveness, rights, enforceability, society, justice
 document: Shelter/Main Changes to NSW tenancy Law Last 10 Years.pdf
 related: residential-tenancies-act-2010, residential-tenancies-amendment-act-2024
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 ## 2018 — *Residential Tenancies Amendment Act 2018*

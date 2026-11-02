@@ -12,6 +12,7 @@ themes: fam.t.effectiveness, fam.t.cooperation, fam.t.compliance, hr.t.complianc
 criteria: enforceability, accessibility, rights, resource, justice
 document: Cases/Family/Billings and Clowes (No 2) 2026 FedCFamC2F 1367 - Case Summary.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 Married 2011, separated early 2023. X born 2015. Last unsupervised time June 2023. Four counts of

@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, rights, society, accessibility
 source: https://www.legislation.gov.au/C2021A00076/latest/text
 related: technology-and-the-individual, digital-duty-of-care-bill-2026, privacy-act-1988-and-2024-reforms, surveillance-devices-act-2007-and-tia-act-1979, untoc-and-cybercrime-convention, kmart-camera-glasses-2026, abc-2026-nsw-sexual-assault-prerecorded-evidence
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 Australia's online-harms law has grown in layers: criminal offences for individuals (state and

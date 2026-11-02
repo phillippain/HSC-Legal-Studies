@@ -13,6 +13,7 @@ criteria: rights, enforceability, accessibility, responsiveness, society
 source: https://www.legislation.gov.au/C2004A03712/latest/text
 related: technology-and-the-individual, kmart-camera-glasses-2026, cyber-sanctions-medibank, online-safety-act-2021-and-social-media-minimum-age, surveillance-devices-act-2007-and-tia-act-1979, guardian-2026-gps-tracking, digital-duty-of-care-bill-2026, australian-human-rights-commission-act-1986
 added: 2026-10-22
+updated_at: 2026-10-24 13:22
 ---
 
 Australia has no constitutional or common-law right to privacy (*ABC v Lenah Game Meats*, 2001,

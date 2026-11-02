@@ -13,6 +13,7 @@ criteria: rights, society, justice, enforceability
 document: Family/Cases/2.2 Family law cases.pdf
 related: family-law-amendment-act-2023, morse-duarte-2017
 added: 2026-09-20
+updated_at: 2026-10-24 08:30
 ---
 
 C was born in 2007. Her parents separated in 2009 and agreed on **equal shared parental

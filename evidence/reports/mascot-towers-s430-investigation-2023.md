@@ -14,6 +14,7 @@ document: Shelter/Mascot Towers Investigation - Report.pdf
 source: https://www.planning.nsw.gov.au/
 related: pafburn-2024, brookfield-multiplex-2014, design-building-practitioners-act-2020, residential-apartment-buildings-act-2020, building-defects-reform-sequence, smh-2025-defects-cost-700m
 added: 2026-10-24
+updated_at: 2026-10-24 10:51
 ---
 
 On **14 June 2019** the residents of **Mascot Towers**, 1–5 Bourke Street, Mascot, were ordered to

@@ -13,6 +13,7 @@ criteria: justice, rights, responsiveness, society
 document: Crime/Criminal Trial Process/Cheat Sheet Juries.pdf
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1977-018
 added: 2026-10-20
+updated_at: 2026-10-24 21:55
 ---
 
 - Jurors are selected at random from the electoral roll; some are ineligible or excused; each side has 3 peremptory challenges.

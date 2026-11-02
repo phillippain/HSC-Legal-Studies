@@ -13,6 +13,7 @@ criteria: rights, justice, society, responsiveness
 document: Family/Cases/3.2 Family law cases.pdf
 related: lone-fathers-association, family-law-amendment-act-2023, croc-1989
 added: 2026-09-20
+updated_at: 2026-10-24 08:27
 ---
 
 X lived with her mother, Ms Seaton, and had not seen her father since 2017. Ms Seaton alleged he was

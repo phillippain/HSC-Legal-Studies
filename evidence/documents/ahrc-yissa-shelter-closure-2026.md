@@ -14,6 +14,7 @@ document: Human Rights/AHRC commissioners on the Darwin YiSSA shelter closure (E
 source: https://humanrights.gov.au/about-us/media-centre/media-releases/aboriginal-and-torres-strait-islander-peoples/commissioners-seek-urgent-talks-with-nt-government-over-homeless-shelter-closure
 related: ombudsman-and-statutory-bodies, human-rights-in-australia-common-law-courts-media-charter, icescr-1966, croc-1989, crpd-2006, shelter-what-it-means, remote-nt-womens-safety-2026, alpurrurulam-remote-nt-violence-2026
 added: 2026-10-22
+updated_at: 2026-10-24 21:55
 ---
 
 **YiSSA**, a 400-bed short-stay facility on Batten Road, Darwin, run since 2020 by the Aboriginal

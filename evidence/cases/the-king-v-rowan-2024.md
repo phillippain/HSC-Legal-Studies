@@ -13,6 +13,7 @@ criteria: justice, rights, responsiveness, society
 document: Cases/Crime/The King v Rowan [2024] HCA 9 - Case Summary.pdf
 related: crimes-act-1900-s54d, zecevic-v-dpp-1987, woolmington-v-dpp-1935, smh-2026-fairleigh-coercive-control, bocsar-coercive-control-june-2026, defences-to-criminal-charges
 added: 2026-10-22
+updated_at: 2026-10-24 21:47
 ---
 
 "Anna Rowan" (a pseudonym), a woman with a mild intellectual disability, lived from 1992 with a

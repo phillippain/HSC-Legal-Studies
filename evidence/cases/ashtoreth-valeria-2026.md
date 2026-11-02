@@ -13,6 +13,7 @@ criteria: rights, responsiveness, society, justice
 document: Cases/Family/12LS_Ashtoreth_and_Valeria_case_study_card.pdf
 related: wilkerson-croxford-2026, daniels-rooney-2026
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 X, born 2017, was conceived through **home insemination** using donor sperm after his mothers

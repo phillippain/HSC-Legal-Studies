@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, rights, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1900-040
 related: crimes-act-1900-s54d, crimes-act-homicide-defences, nsw-hate-crime-laws-2025-26, nsw-organised-crime-reforms-2026, summary-offences-act-1988, crime-nature-and-classification
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 The *Crimes Act 1900* (NSW) defines most indictable offences in NSW. Minor offences sit in the

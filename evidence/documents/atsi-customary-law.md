@@ -12,6 +12,7 @@ themes: inv.t.values, inv.t.justice
 criteria: rights, society, justice, responsiveness, accessibility
 related: mabo-no2-1992, wik-1996, bocsar-circle-sentencing, nit-2024-family-is-culture
 added: 2026-09-20
+updated_at: 2026-10-24 10:51
 ---
 
 A reference note.

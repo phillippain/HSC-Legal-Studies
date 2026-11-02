@@ -14,6 +14,7 @@ source: https://nit.com.au/27-01-2026/22339/corrective-not-symbolic-nswalc-calls
 related: aboriginal-land-rights-act-1983, nsw-audit-office-aboriginal-land-claims-2022, metropolitan-lalc-2026
 added: 2026-10-24
 document11: Preliminary/Year 11 - NSW Land Rights and the Land Claims Backlog Evidence Summary.pdf
+updated_at: 2026-10-26 09:40
 ---
 
 NSWALC used the milestone claim to put numbers on the *Aboriginal Land Rights Act 1983* (NSW) in practice.

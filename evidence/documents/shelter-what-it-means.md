@@ -12,6 +12,7 @@ themes: shel.t.values, shel.t.effectiveness, shel.t.cooperation
 criteria: rights, accessibility, enforceability, society, justice
 related: residential-tenancies-act-2010, shelter-homelessness-evidence-sheet, right-to-housing-comparative
 added: 2026-09-20
+updated_at: 2026-10-24 21:54
 ---
 
 A reference note.

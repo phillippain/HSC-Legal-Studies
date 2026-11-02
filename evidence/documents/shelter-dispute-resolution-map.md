@@ -13,6 +13,7 @@ criteria: accessibility, resource, enforceability, rights, justice, responsivene
 document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx
 related: ncat-annual-report-2024-25, taap-funding-submission-2024, lgnsw-2025-cjc-closure, nsw-rental-taskforce-2025
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 ## The ladder

@@ -12,6 +12,7 @@ themes: inv.t.justice, inv.t.values
 criteria: ruleoflaw, responsiveness, society, rights
 related: commonwealth-v-tasmania-1983, statute-law-and-delegated-legislation
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 The ACT enacted the *Marriage Equality (Same Sex) Act 2013* (ACT). Couples married under it within

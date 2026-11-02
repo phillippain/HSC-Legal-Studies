@@ -13,6 +13,7 @@ criteria: responsiveness, justice, rights, ruleoflaw, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1900-040
 related: crimes-sentencing-procedure-act-1999, crimes-appeal-and-review-act-2001
 added: 2026-10-19
+updated_at: 2026-10-24 21:47
 ---
 
 - **July 2012:** Thomas Kelly, 18, was punched once in Kings Cross and died. **Kieran Loveridge** was

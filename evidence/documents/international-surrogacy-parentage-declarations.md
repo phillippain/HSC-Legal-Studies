@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, responsiveness, rights, ruleoflaw, just
 document: Family/Surrogacy - When is a Parent not a Parent.pdf
 related: masson-v-parsons-2019, abc-2025-surrogacy-patchwork, farnell-chanbua-2016, surrogacy-birth-technology-evidence-file, family-law-act-1975
 added: 2026-10-23
+updated_at: 2026-10-24 10:51
 ---
 
 Every Australian state and territory except the Northern Territory has a framework for transferring

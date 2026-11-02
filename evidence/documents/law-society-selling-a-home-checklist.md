@@ -14,6 +14,7 @@ document: Shelter/Selling a home.pdf
 source: https://www.lawsociety.com.au/
 related: conveyancing-act-1919, contract-for-sale-of-land-2022-residential, mckell-building-contract-for-sale, guide-to-purchasing-your-home-nsw, real-property-act-1900, home-building-act-1989
 added: 2026-10-24
+updated_at: 2026-10-24 10:56
 ---
 
 The **vendor's** side of the transaction, from the Law Society of NSW. Most Shelter answers are

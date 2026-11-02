@@ -12,6 +12,7 @@ themes: fam.t.compliance, fam.t.effectiveness, crime.t.compliance, dis.t.effecti
 criteria: enforceability, justice, society
 document: Jade Cases/Raw Cases/Merran & Salter [2026] FedCFamC2F 1058.rtf
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 All five contraventions proven; no reasonable excuse under **s 70NAD(3)**. Applying *Stamp & Stamp*

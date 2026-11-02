@@ -13,6 +13,7 @@ criteria: rights, enforceability, responsiveness, society, accessibility
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2010-102
 related: surrogacy-birth-technology-evidence-file, smh-2025-surrogacy-inquiry, smh-2026-surrogacy-baby-broker, farnell-chanbua-2016, telegraph-2025-monash-ivf-mixup, heraldsun-2025-ivf-medicare-definition, family-law-act-1975, adoption-act-2000
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 Three NSW Acts answer the questions birth technology raises: *is it allowed?* (Surrogacy Act, ART

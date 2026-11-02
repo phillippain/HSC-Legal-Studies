@@ -13,6 +13,7 @@ criteria: resource, accessibility, justice
 related: duff-horner-2026, eadgar-amiri-2026
 document: Jade Cases/Completed Case Summaries/Burke_and_Morgan_No3_2026_FedCFamC1F_468_Case_Summary.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 Married 2011, separated January 2024. Ten real properties held personally and through a group of

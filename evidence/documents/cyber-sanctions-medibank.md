@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, rights
 source: https://www.dfat.gov.au/international-relations/security/sanctions
 related: scam-centres-and-scam-losses-2025, aml-ctf-tranche-2-2026
 added: 2026-10-20
+updated_at: 2026-10-20 12:15
 ---
 
 The **2022 Medibank breach** exposed the personal and health data of about **9.7 million** customers.

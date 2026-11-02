@@ -12,6 +12,7 @@ themes: inv.t.values, inv.t.justice
 criteria: enforceability, rights, responsiveness, society, ruleoflaw
 related: commonwealth-v-tasmania-1983, iccpr-1966, croc-1989
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 ## State sovereignty

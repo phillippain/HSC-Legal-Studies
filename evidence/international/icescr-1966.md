@@ -11,6 +11,7 @@ support: shel.1.3, shel.3.1, shel.3.3, shel.3.4, hr.2.7, inv.6.1
 themes: shel.t.values, hr.t.sovereignty, shel.t.effectiveness
 criteria: rights, enforceability, society
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 **Art 11(1)** recognises "the right of everyone to an adequate standard of living … including

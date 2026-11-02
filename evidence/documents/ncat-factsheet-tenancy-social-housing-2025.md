@@ -13,6 +13,7 @@ criteria: accessibility, responsiveness, resource
 source: https://ncat.nsw.gov.au/documents/factsheets/ccd_factsheet_tenancy_and_social_housing.pdf
 related: ncat-tenancy-disputes, shelter-dispute-resolution-map, kelly-v-nsw-lahc-2026, ncat-act-2013, residential-tenancies-act-2010
 added: 2026-10-23
+updated_at: 2026-10-23 16:29
 ---
 
 A short official fact sheet from NCAT's Consumer and Commercial Division on tenancy and social housing applications.

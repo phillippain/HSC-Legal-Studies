@@ -14,6 +14,7 @@ document: Jade Cases/Raw Cases/Cadel & Galea [2026] FedCFamC1A 142.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: crimes-domestic-personal-violence-act-2007, family-law-amendment-act-2023, family-law-act-1975, sullivan-warren-2026, melzer-powles-no2-2026, smh-2026-fairleigh-coercive-control
 added: 2026-10-24
+updated_at: 2026-10-24 09:45
 ---
 
 The mother appealed final parenting orders. It was **common ground** that the children should live

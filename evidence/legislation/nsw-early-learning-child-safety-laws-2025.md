@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Family - NSW Early Learning Child Safety Law
 source: https://www.nsw.gov.au/ministerial-releases/tougher-child-safety-laws-mark-one-year
 related: smh-2025-childcare-regulation-affinity, child-protection-working-with-children-act-2012, children-and-young-persons-care-and-protection-act-1998, law-reform-conditions-agencies-mechanisms
 added: 2026-10-26
+updated_at: 2026-10-26 09:56
 ---
 
 Passed on 22 October 2025, after alleged abuse in childcare and the June 2025 independent (Wheeler)

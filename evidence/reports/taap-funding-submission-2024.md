@@ -14,6 +14,7 @@ document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx
 source: https://files.tenants.org.au/about/2024-12-TAAPFundingRequest.pdf
 related: ncat-annual-report-2024-25, shelter-dispute-resolution-map, residential-tenancies-act-2010
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 The **Tenants Advice and Advocacy Program** funds the statewide network of Tenants Advice and

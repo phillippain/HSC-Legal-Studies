@@ -13,6 +13,7 @@ criteria: rights, ruleoflaw, justice, resource
 document: Crime/NSW Police Powers - Two-Page Summary.pdf
 related: detention-and-interrogation-rights
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Carr was arrested after a verbal exchange with police, charged with offensive language, resisting

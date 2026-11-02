@@ -13,6 +13,7 @@ criteria: responsiveness, resource, justice
 source: https://lawreform.nsw.gov.au
 related: crimes-sentencing-procedure-act-1999, bocsar-cjb207-ico
 added: 2026-10-19
+updated_at: 2026-10-24 21:47
 ---
 
 The Commission reviewed the *Crimes (Sentencing Procedure) Act 1999* as a whole. It found the Act

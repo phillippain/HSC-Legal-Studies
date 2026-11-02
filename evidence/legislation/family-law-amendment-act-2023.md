@@ -12,6 +12,7 @@ themes: fam.t.reform, fam.t.values, fam.t.effectiveness
 criteria: responsiveness, rights, society, justice
 related: bergsma-hyde-2026, billings-clowes-no2-2026
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 In force **6 May 2024**. The presumption of equal shared parental responsibility — and the

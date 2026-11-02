@@ -12,6 +12,7 @@ themes: inv.t.justice, inv.t.values
 criteria: enforceability, responsiveness, society, ruleoflaw
 related: international-law-and-australian-law, commonwealth-v-act-2013
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Tasmania proposed to dam the Gordon River below the Franklin. The Commonwealth had the area listed

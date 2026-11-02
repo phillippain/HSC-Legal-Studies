@@ -14,6 +14,7 @@ document: Crime/Sentencing and Punishment/Robinson brothers Mexico sentencing - 
 source: https://www.abc.net.au/news/2026-10-17/jake-callum-robinson-mexico-murder-trial-sentence/107271152
 related: crimes-sentencing-procedure-act-1999, role-of-juries, the-adversary-system-and-court-jurisdiction, international-crime-evidence-summary-2026, crime-nature-and-classification
 added: 2026-10-19
+updated_at: 2026-10-24 21:47
 ---
 
 Jake and Callum Robinson and their American friend Carter Rhoad were killed camping at Punta San

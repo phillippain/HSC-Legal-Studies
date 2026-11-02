@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, rights, resource, justice
 document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx
 related: building-defects-reform-sequence, design-building-practitioners-act-2020, pafburn-2024
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Passed in the wake of **Opal Tower** and **Mascot Towers**, the Act gives **Building Commission NSW**

@@ -14,6 +14,7 @@ document: Shelter/Evidence Sheets/Evidence Sheet - Group renting and co-tenancy 
 source: https://www.abc.net.au/news/2026-10-19/rental-applications-new-trend-group-applications/107274950
 related: residential-tenancies-act-2010, residential-tenancies-amendment-act-2024, nsw-no-grounds-reform-2026, ncat-tenancy-disputes, anglicare-rental-affordability-2026, housing-shelter-or-asset-2026, shelter-dispute-resolution-map, nsw-tenancy-law-the-last-decade
 added: 2026-10-19
+updated_at: 2026-10-24 21:28
 ---
 
 A 7.30 report on extended families and friends applying for rentals **as a group**. Domain's

@@ -11,6 +11,7 @@ support: crime.3.9, crime.3.6, crime.4.5, dis.1.5, dis.1.6
 themes: crime.t.effectiveness, crime.t.balance, dis.t.effectiveness, dis.t.justice
 criteria: justice, rights, ruleoflaw
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 Farah Jama was convicted of rape in Victoria in 2008 on DNA evidence alone and sentenced to six years. In December 2009 the conviction was quashed, after he had spent about 15 months in prison. The Vincent Report (2010) found the sample was probably contaminated in the forensic process.

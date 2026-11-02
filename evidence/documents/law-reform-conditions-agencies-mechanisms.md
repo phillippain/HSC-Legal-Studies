@@ -12,6 +12,7 @@ themes: chg.t.values, chg.t.justice
 criteria: responsiveness, society, enforceability, justice, rights
 related: statute-law-and-delegated-legislation, nit-2024-family-is-culture, crimes-amendment-provocation-2014
 added: 2026-09-19
+updated_at: 2026-10-24 10:51
 ---
 
 ## Conditions that give rise to reform

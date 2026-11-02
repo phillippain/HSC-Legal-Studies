@@ -14,6 +14,7 @@ document: Cases/Shelter/Kincumber v Morris [2021] NSWCATAP 275 - Case Summary.pd
 source: https://www.caselaw.nsw.gov.au/
 related: residential-land-lease-communities-act-2013, residential-land-lease-communities-amendment-act-2024, anderson-v-kincumber-nautical-village-2025
 added: 2026-10-23
+updated_at: 2026-10-24 10:52
 ---
 
 Fifty-two home owners at Kincumber Nautical Village applied to NCAT on 15 October 2019 about a site fee increase calculated as **CPI plus 3.75% plus a share of cost rises** (Mr Morris's fee went from $227 to $242 a week from November 2018). On 3 September 2020 NCAT found the clause provided more than one fixed method, breaching s 66(2).

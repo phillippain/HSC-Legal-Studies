@@ -14,6 +14,7 @@ document: Crime/LECC Operation Makalu Town Hall protest hearings (Evidence summa
 source: https://www.abc.net.au/news/2026-10-19/lecc-town-hall-protest-public-examinations-nsw-police/107261744
 related: lees-and-jarrett-protest-powers, terrorism-police-powers-act-2002, lepra-2002, lecc-strip-search-inquiry-2020, police-and-law-enforcement-agencies, ombudsman-and-statutory-bodies, town-hall-protest-subpoena-ruling-2026
 added: 2026-10-21
+updated_at: 2026-10-24 21:54
 ---
 
 On **9 February 2026** a rally at Sydney Town Hall against the visit of Israel's President Herzog

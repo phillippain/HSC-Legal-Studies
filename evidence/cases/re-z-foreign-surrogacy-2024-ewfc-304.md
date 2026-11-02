@@ -14,6 +14,7 @@ document: Family/Re Z Surrogacy arrangements overseas | Law Gazette.pdf
 source: https://www.lawgazette.co.uk/
 related: abc-2025-commercial-surrogacy-prosecution-referral, international-surrogacy-parentage-declarations, bbc-fenton-glynn-international-surrogacy-rules, overseas-surrogacy-as-a-commonwealth-issue, abc-2025-surrogacy-patchwork, farnell-chanbua-2016
 added: 2026-10-24
+updated_at: 2026-10-24 21:55
 ---
 
 An English case, included because it shows the cross-border problem more vividly than any Australian

@@ -13,6 +13,7 @@ criteria: rights, enforceability, accessibility, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2002-088
 related: residential-land-lease-communities-act-2013, residential-tenancies-act-2010, ncat-act-2013, shelter-what-it-means
 added: 2026-10-22
+updated_at: 2026-10-24 08:27
 ---
 
 NSW divides park living into two laws. People who **live** in a caravan park or manufactured home

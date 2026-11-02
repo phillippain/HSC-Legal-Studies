@@ -14,6 +14,7 @@ source: https://www.royalcommission.gov.au/banking
 related: financial-accountability-regime-act-2023, royal-commissions-acts, garcia-v-nab-1998, amadio-1983
 added: 2026-10-24
 document11: Preliminary/Year 11 - Banking Royal Commission Evidence Summary.pdf
+updated_at: 2026-10-26 09:40
 ---
 
 The Turnbull Government resisted a royal commission for eighteen months and then called one on 14 December 2017 after the major banks themselves asked for it. The Commission took 10,000 public submissions and held 68 days of hearings in 2018 in which senior executives were cross-examined on live television.

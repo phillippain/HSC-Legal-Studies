@@ -13,6 +13,7 @@ criteria: enforceability, rights, justice, responsiveness
 document: Cases/Family/Murchin & Enfield (No 3) [2026] FedCFamC2F 1104 - Case Summary.pdf
 related: tanvil-batta-2026, keven-jaylah-no2-2026, family-law-amendment-act-2023
 added: 2026-09-24
+updated_at: 2026-10-24 10:52
 ---
 
 X, five. Grave allegations both ways, an attempted removal from a contact centre, and a social media

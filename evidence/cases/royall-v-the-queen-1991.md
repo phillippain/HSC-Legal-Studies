@@ -12,6 +12,7 @@ themes: crime.t.moral, crime.t.balance, crime.t.effectiveness
 criteria: ruleoflaw, justice, rights, society
 related: defences-to-criminal-charges, use-of-evidence-and-witnesses
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Kelly Royall died after falling from the sixth-floor bathroom window of the flat she shared with the

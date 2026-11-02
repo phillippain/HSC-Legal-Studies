@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, rights, responsiveness
 source: https://humanrights.gov.au/our-work/disability-rights
 related: disability-discrimination-act-1992, australian-human-rights-commission-act-1986, ombudsman-and-statutory-bodies, disability-royal-commission-2023
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 ## Disability Discrimination Commissioner (Australian Human Rights Commission)

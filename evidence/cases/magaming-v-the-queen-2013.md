@@ -14,6 +14,7 @@ document: Cases/Crime/Magaming v The Queen [2013] HCA 40 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Magaming v The Queen [2013] HCA 40 - Case Summary.pdf
 related: criminal-code-cth-transnational-offences, crimes-sentencing-procedure-act-1999
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 ## Facts

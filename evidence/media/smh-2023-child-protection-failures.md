@@ -13,6 +13,7 @@ criteria: resource, enforceability, responsiveness, rights, justice
 document: Family/NSW child protection system failures costing taxpayers billions.pdf
 related: care-and-protection-of-children-evidence-sheet, smh-2026-marcus-foster-care
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 A months-long investigation into the NSW child protection system.

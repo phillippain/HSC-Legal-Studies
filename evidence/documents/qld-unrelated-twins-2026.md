@@ -14,6 +14,7 @@ document: Cases/Family/One birth, two pregnancies, two sets of parents.pdf
 source: https://www.abc.net.au/news/2026-08-27/qld-mother-births-biologically-unrelated-twins/107083918
 related: international-surrogacy-parentage-declarations, masson-v-parsons-2019, surrogacy-birth-technology-evidence-file, farnell-chanbua-2016
 added: 2026-10-23
+updated_at: 2026-10-24 10:51
 ---
 
 **DZ**, 27, already a mother of five, agreed in September 2024 to carry a child for **BNJ and DRJ**,

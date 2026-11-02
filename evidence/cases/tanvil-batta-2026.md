@@ -13,6 +13,7 @@ criteria: enforceability, rights, justice, accessibility
 document: Cases/Family/Tanvil & Batta [2026] FedCFamC2F 1001 - Case Summary.pdf
 related: family-law-act-1975, strata-schemes-management-act-2015, crimes-domestic-personal-violence-act-2007
 added: 2026-09-22
+updated_at: 2026-10-24 10:52
 ---
 
 A divorced couple; the wife lives with their children, 11 and 13, in a strata apartment registered

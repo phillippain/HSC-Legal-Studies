@@ -11,6 +11,7 @@ support: crime.3.2, dis.1.6, dis.1.5, inv.4.3
 themes: crime.t.balance
 criteria: accessibility, rights, justice
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 Public Defenders are senior barristers appointed under the Act. They are independent of government and represent legally aided accused people, usually in serious indictable trials, sentence hearings and appeals, giving the defence an advocate of comparable skill to the Crown prosecutor.

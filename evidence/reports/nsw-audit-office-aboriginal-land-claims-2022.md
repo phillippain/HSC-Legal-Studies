@@ -14,6 +14,7 @@ source: https://www.audit.nsw.gov.au/our-work/reports/facilitating-and-administe
 related: aboriginal-land-rights-act-1983, nswalc-60000th-land-claim-2026, metropolitan-lalc-2026
 added: 2026-10-24
 document11: Preliminary/Year 11 - NSW Land Rights and the Land Claims Backlog Evidence Summary.pdf
+updated_at: 2026-10-26 09:40
 ---
 
 A performance audit of the Department of Premier and Cabinet, the Department of Planning and Environment (the Crown Lands Minister's department, which assesses claims) and NSWALC.

@@ -13,6 +13,7 @@ criteria: accessibility, resource, responsiveness, enforceability, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2005-028
 related: resolving-disputes-between-individuals, the-adversary-system-and-court-jurisdiction, court-hierarchy-and-jurisdiction, community-justice-centres-act-1983, ncat-act-2013, local-court-act-2007, donoghue-v-stevenson-1932, amadio-1983, sun-v-chen-2026
 added: 2026-10-22
+updated_at: 2026-10-24 21:28
 ---
 
 Before 2005 each NSW court had its own rules; the *Civil Procedure Act* and the **Uniform Civil

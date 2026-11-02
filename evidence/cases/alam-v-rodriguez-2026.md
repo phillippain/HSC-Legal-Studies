@@ -13,6 +13,7 @@ criteria: accessibility, justice, rights
 document: Cases/Crime/Alam v Rodriguez (Nos 1-3) [2026] NSWDC 387 - Case Summary.pdf
 related: crimes-domestic-personal-violence-act-2007, legal-representation-and-legal-aid, evidence-act-1995
 added: 2026-10-28
+updated_at: 2026-10-28 08:24
 ---
 
 Ms Alam sought an **apprehended violence order** against the manager of her unit block. In the Local Court

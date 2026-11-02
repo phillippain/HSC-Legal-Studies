@@ -38,7 +38,8 @@ CRITERIA = {
 REQUIRED = ["type", "title", "significance", "core"]
 LISTS = ["core", "support", "themes", "criteria", "related"]
 KNOWN = set(REQUIRED + LISTS + ["short", "citation", "date", "jurisdiction",
-                                "source", "added", "status", "document", "document11"])
+                                "source", "added", "status", "document", "document11",
+                                "added_at", "updated_at"])
 
 
 class RecordError(Exception):
@@ -96,6 +97,11 @@ def parse(path):
     for f in ("date", "added"):
         if rec.get(f) and not re.fullmatch(r"\d{4}(-\d{2}(-\d{2})?)?", rec[f]):
             raise RecordError(f"{rec['file']}: `{f}` must be YYYY, YYYY-MM or YYYY-MM-DD")
+    # `added_at` / `updated_at` are written by build/stamp_records.py, in Sydney time
+    for f in ("added_at", "updated_at"):
+        if rec.get(f) and not re.fullmatch(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}", rec[f]):
+            raise RecordError(f"{rec['file']}: `{f}` must be YYYY-MM-DD HH:MM (Sydney time) — "
+                              "build/stamp_records.py writes it; do not edit it by hand")
     return rec
 
 

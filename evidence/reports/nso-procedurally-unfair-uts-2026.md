@@ -14,6 +14,7 @@ document: Human Rights/National Student Ombudsman - UTS Jewish student complaint
 source: https://www.nso.gov.au/__data/assets/pdf_file/0025/331099/Procedurally-unfair.pdf
 related: ombudsman-and-statutory-bodies, human-rights-in-australia-common-law-courts-media-charter, ahrc-balancing-act-2026, lees-and-jarrett-protest-powers, shelter-discrimination-evidence-sheet
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 The **National Student Ombudsman** (NSO) was created by Part IIF of the *Ombudsman Act 1976*

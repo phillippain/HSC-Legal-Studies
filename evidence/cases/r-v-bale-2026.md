@@ -13,6 +13,7 @@ criteria: justice, society, resource
 document: Cases/Crime/R v Bale [2026] NSWDC 383 - Evidence Summary.pdf
 related: r-v-pullen-2018, kristian-white-clare-nowland, crimes-sentencing-procedure-act-1999, early-appropriate-guilty-plea-reforms-2018, muldrock-v-the-queen-2011
 added: 2026-10-24
+updated_at: 2026-10-24 14:59
 ---
 
 Bale pleaded guilty at the first opportunity to supplying an above-indictable quantity of

@@ -13,6 +13,7 @@ criteria: responsiveness, accessibility, rights, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2019-011
 related: sexual-consent-reforms-act-2021, law-reform-conditions-agencies-mechanisms, marriage-act-1961
 added: 2026-10-24
+updated_at: 2026-10-24 21:55
 ---
 
 Sections 82–84 of the *Crimes Act 1900* (NSW) made "unlawfully" procuring a miscarriage a crime punishable by up to ten years. From *R v Wald* (1971) courts read "unlawfully" to allow abortion where a doctor honestly believed it necessary for the woman's physical or mental health — a common-law exception that most people and some doctors did not know existed, and which left the procedure technically criminal for 48 years.

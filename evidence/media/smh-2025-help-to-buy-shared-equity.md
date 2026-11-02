@@ -14,6 +14,7 @@ document: Shelter/First Home Guarantee scheme - Sydney property: Help to Buy fir
 source: https://www.smh.com.au/
 related: first-home-guarantee-expansion-2025, first-home-buyer-concessions-nsw, housing-australia-future-fund-act-2023, abc-2025-shared-ownership-wollongong, afr-2025-family-home-tax-break, grattan-sydney-housing-2026, reb-2024-fifty-years-price-to-income
 added: 2026-10-24
+updated_at: 2026-10-24 10:58
 ---
 
 Two Commonwealth schemes, side by side, with a household that used one of them.

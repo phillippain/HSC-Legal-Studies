@@ -13,6 +13,7 @@ criteria: rights, resource, enforceability, ruleoflaw
 document: Crime/Media/Crime - Operation Shelter Armed Response Command Costs Evidence Summary.pdf
 related: nsw-firearms-reforms-and-gun-buyback-2026, lecc-act-2016, lepra-2002, police-and-law-enforcement-agencies, nsw-hate-crime-laws-2025-26
 added: 2026-11-02
+updated_at: 2026-11-02 07:01
 ---
 
 **Operation Shelter** began in October 2023 to police tension after the 7 October attack on Israel, rotating

@@ -12,6 +12,7 @@ themes: dis.t.justice, crime.t.discretion
 criteria: enforceability, rights, ruleoflaw, resource, accessibility
 related: detention-and-interrogation-rights, r-v-rondo-2001, ombudsman-and-statutory-bodies
 added: 2026-09-20
+updated_at: 2026-10-24 10:51
 ---
 
 A reference note.

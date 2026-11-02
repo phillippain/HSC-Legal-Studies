@@ -13,6 +13,7 @@ criteria: resource, accessibility, responsiveness, society
 source: https://www.revenue.nsw.gov.au/grants-schemes/first-home-buyer
 related: conveyancing-act-1919, national-consumer-credit-protection-act-2009, housing-australia-future-fund-act-2023, federal-budget-2026-housing-tax-changes, grattan-more-homes-better-cities-2025, shelter-affordability-evidence-sheet, abc-2025-home-owners-welfare-state
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 Governments respond to affordability on two sides. Supply-side law (planning, the HAFF) tries to

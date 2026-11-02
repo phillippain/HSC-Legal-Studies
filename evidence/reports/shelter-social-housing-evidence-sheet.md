@@ -13,6 +13,7 @@ criteria: accessibility, resource, society, rights, justice
 document: Shelter/Social Housing Evidence Sheet.docx
 related: shelter-homelessness-evidence-sheet, anao-haff-2026
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 | Indicator | Figure |

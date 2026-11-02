@@ -13,6 +13,7 @@ criteria: rights, ruleoflaw, justice, enforceability
 document: Cases/Crime/Hoang v The Queen [2022] HCA 14 - Case Summary.pdf
 related: skaf-brothers-rule-of-law, jury-act-1977, role-of-juries, chris-dawson-judge-alone-2022, r-v-kl-2025
 added: 2026-10-22
+updated_at: 2026-10-24 21:47
 ---
 
 Quy Huy Hoang, a mathematics tutor, was tried in the District Court on twelve counts of sexual

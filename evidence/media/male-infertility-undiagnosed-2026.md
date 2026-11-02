@@ -13,6 +13,7 @@ criteria: accessibility, resource, responsiveness, rights
 document: Family/Evidence Summaries/Family - Male Infertility Undiagnosed Birth Technologies Evidence Summary.pdf
 related: surrogacy-act-2010-and-art-act-2007, art-law-reform-2019-2025, heraldsun-2025-ivf-medicare-definition, telegraph-2025-monash-ivf-mixup, telegraph-2025-public-ivf-postcode-lottery
 added: 2026-10-28
+updated_at: 2026-10-28 13:05
 ---
 
 Male factors contribute to **up to 50%** of couples' infertility, and about one in six couples experience

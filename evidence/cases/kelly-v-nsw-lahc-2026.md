@@ -15,6 +15,7 @@ document11: Cases/Year 11/Year 11 - Kelly v NSW LAHC [2026] NSWCATAP 214 - Case 
 source: https://www.caselaw.nsw.gov.au/
 related: residential-tenancies-act-2010, housing-act-2001, ncat-act-2013, ncat-tenancy-disputes, shelter-social-housing-evidence-sheet
 added: 2026-10-23
+updated_at: 2026-10-24 14:39
 ---
 
 A social housing tenant of about 22 years lost her rent subsidy (*Housing Act 2001* (NSW) s 57(1)) from 16 June 2025 and was charged market rent of $410, later $440 a week. Arrears built up and on 16 January 2026 she agreed in a short NCAT hearing to consent orders ending the tenancy and ordering $12,654.28 in arrears. She appealed on 17 February 2026, the day possession was due.

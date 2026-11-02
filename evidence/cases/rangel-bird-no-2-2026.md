@@ -14,6 +14,7 @@ document: Cases/Family/Rangel & Bird (No 2) [2026] FedCFamC1A 193 - Case Summary
 document11: Cases/Year 11/Year 11 - Rangel & Bird (No 2) [2026] FedCFamC1A 193 - Case Summary.pdf
 related: boleno-newcombe-2026
 added: 2026-11-03
+updated_at: 2026-11-03 08:23
 ---
 
 A mother appealed three of 43 parenting orders made on 28 May 2026. The primary judge had barred overseas

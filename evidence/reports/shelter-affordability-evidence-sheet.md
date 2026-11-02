@@ -13,6 +13,7 @@ criteria: accessibility, society, rights, justice
 document: Shelter/Affordability Evidence Sheet.docx
 related: icescr-1966, anglicare-rental-affordability-2026
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 | Indicator | Figure |

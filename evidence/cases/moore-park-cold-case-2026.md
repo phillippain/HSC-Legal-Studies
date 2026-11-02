@@ -14,6 +14,7 @@ document: Crime/Sentencing and Punishment/Moore Park rapist sentencing hearing (
 source: https://www.abc.net.au/news/2026-10-19/victim-confronts-sydney-moore-park-rapist-in-nsw-court/107284370
 related: crimes-sentencing-procedure-act-1999, bugmy-v-the-queen-2013, victims-rights-and-support-act-2013, shine-v-r-2016, r-v-koch-2009
 added: 2026-10-19
+updated_at: 2026-10-24 10:52
 ---
 
 - **1991–93:** eight women were attacked at knifepoint in Moore Park, the eastern suburbs and the

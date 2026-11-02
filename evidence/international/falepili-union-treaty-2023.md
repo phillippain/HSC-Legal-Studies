@@ -13,6 +13,7 @@ criteria: responsiveness, rights, society, enforceability
 source: https://www.dfat.gov.au/geo/tuvalu/australia-tuvalu-falepili-union-treaty
 related: un-charter-1945, international-law-and-australian-law, who-pandemic-agreement-2025
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 *Falepili* is a Tuvaluan word for the values of good neighbourliness, care and mutual respect. The treaty was signed on the sidelines of the Pacific Islands Forum — the regional intergovernmental organisation through which Australia and the Pacific states cooperate — and ratified by both parliaments in 2024.

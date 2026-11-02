@@ -14,6 +14,7 @@ document: Crime/Media/Modern slavery Embassies on notice over treatment of serva
 source: https://www.smh.com.au/
 related: modern-slavery-act-2018, smh-2024-sarah-sexual-servitude, global-slavery-index-2023, wage-theft-fair-work-act-s327a, un-rapporteur-slavery-palm-2025, modern-slavery-in-australia
 added: 2026-10-24
+updated_at: 2026-10-24 21:55
 ---
 
 Australia's **first federal Anti-Slavery Commissioner, Chris Evans** (a former Labor immigration and

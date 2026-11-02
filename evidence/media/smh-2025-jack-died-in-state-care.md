@@ -14,6 +14,7 @@ document: Family/How Jack died desperate and alone after multiple DCJ failures.p
 source: https://www.smh.com.au/
 related: telegraph-2025-life-without-barriers-whistleblowers, smh-2026-marcus-foster-care, acyp-special-inquiry-aca-2024, telegraph-2025-aca-ended, children-and-young-persons-care-and-protection-act-1998, smh-2024-foster-carers-quitting, lsj-2023-adoption-legacy-of-complexity
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 "Jack" entered state care in **2019**, aged 13, when caseworkers suggested a temporary placement away

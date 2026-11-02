@@ -14,6 +14,7 @@ document: Human Rights/Ombudsman wrongful immigration detention (Evidence summar
 source: https://www.ombudsman.gov.au/__data/assets/pdf_file/0019/331066/Righting-Wrongful-Detention-October-2026.pdf
 related: ombudsman-and-statutory-bodies, non-legal-methods-disputes-with-the-state, iccpr-1966, da-silva-v-minister-2026, plaintiff-m98-2026-hca-26, disputes-with-the-state-review, detention-and-interrogation-rights
 added: 2026-10-16
+updated_at: 2026-10-24 21:54
 ---
 
 Released **14 October 2026** and covering 2024–25. Of 4,247 people detained, **30 (0.7%)** were later

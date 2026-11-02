@@ -13,6 +13,7 @@ criteria: society, resource
 source: https://bocsar.nsw.gov.au/research-evaluations/2022/cjb249-summary-youth-on-track.html
 related: young-offenders-act-1997, doli-incapax-diversion-reforms-2025
 added: 2026-10-20
+updated_at: 2026-10-24 08:30
 ---
 
 Youth on Track provides case management for 10–17-year-olds at risk of reoffending. In the trial:

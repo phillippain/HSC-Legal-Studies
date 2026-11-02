@@ -13,6 +13,7 @@ criteria: enforceability, justice, responsiveness
 document: Cases/Family/Keven & Jaylah (No 2) [2026] FedCFamC2F 1045 - Case Summary.pdf
 related: murchin-enfield-no3-2026, vacek-novosel-no7-2026, family-law-act-1975
 added: 2026-09-24
+updated_at: 2026-10-24 10:52
 ---
 
 X, born 2020. Final orders in 2024 generated three sets of contravention proceedings by 2026. Six

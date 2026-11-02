@@ -113,6 +113,19 @@ button{font:inherit; color:inherit}
   font-size:.78rem; color:var(--ink-2); font-weight:500; text-decoration:none}
 .pill b{font-family:var(--mono); font-weight:600; color:var(--ink); font-variant-numeric:tabular-nums}
 .pill .ic{color:var(--ink-3); font-size:.95rem}
+/* "When did this last change?" — the strip under the masthead, and the line on each card */
+.mast-stamp{display:flex; flex-wrap:wrap; gap:4px 22px; align-items:center; padding:9px 0 0;
+  font-size:.76rem; color:var(--ink-3)}
+.mast-stamp span{display:inline-flex; align-items:center; gap:6px}
+.mast-stamp .ic{font-size:.9rem}
+.mast-stamp b{font-weight:600; font-variant-numeric:tabular-nums}
+.ev-when{display:flex; flex-wrap:wrap; align-items:center; gap:2px 14px; margin-top:9px;
+  font-size:.74rem; color:var(--ink-3); font-variant-numeric:tabular-nums}
+.ev-when span{display:inline-flex; align-items:center; gap:5px}
+.ev-when .ic{font-size:.85rem}
+.ev-when .fresh{color:var(--ink); font-weight:600}
+.ev-when .tag-new{background:var(--gold); color:#0F2A4D; border-radius:var(--r-pill); padding:0 8px;
+  font-size:.68rem; font-weight:700; letter-spacing:.04em; text-transform:uppercase}
 a.pill:hover{border-color:var(--accent); color:var(--accent)}
 a.pill:hover .ic{color:var(--accent)}
 /* The course switch. Preliminary and HSC are separate courses taught in separate
@@ -582,6 +595,10 @@ h1,h2,h3,h4{font-family:var(--sans); font-weight:700; letter-spacing:-.018em; co
 .masthead a.pill:hover,.masthead .startover:hover{background:rgba(255,255,255,.16); border-color:#fff; color:#fff}
 .masthead a.pill:hover .ic{color:#fff}
 .masthead .startover{background:transparent; border-color:rgba(255,255,255,.4); color:#fff}
+.masthead .mast-stampbar{padding:0 22px 16px; margin-top:-12px}
+.masthead .mast-stampbar[hidden]{display:none}
+.masthead .mast-stamp{color:#AFC0D6; padding:0}
+.masthead .mast-stamp b{color:#fff}
 .masthead .help-btn{background:var(--gold); border-color:var(--gold); color:#0F2A4D}
 .masthead .help-btn .ic{color:#0F2A4D}
 .masthead .help-btn:hover{background:#F0BE52; border-color:#F0BE52; color:#0F2A4D}
@@ -750,6 +767,12 @@ h1,h2,h3,h4{font-family:var(--sans); font-weight:700; letter-spacing:-.018em; co
         <svg class="ic"><use href="#g-back"/></svg>Start again</button>
       <a class="pill" href="index.html"><svg class="ic"><use href="#g-list"/></svg>Question&nbsp;Finder</a>
       <button class="pill help-btn" id="helpBtn"><svg class="ic"><use href="#g-help"/></svg>How to use this site</button>
+    </div>
+  </div>
+  <div class="mast-in mast-stampbar">
+    <div class="mast-stamp" id="mastStamp" hidden>
+      <span title="The most recent time any card was added or changed (Sydney time)"><svg class="ic"><use href="#g-clock"/></svg>Evidence last changed <b id="m-changed"></b></span>
+      <span title="The last time this page was rebuilt (Sydney time). It can be later than the last change."><svg class="ic"><use href="#g-clock"/></svg>Site rebuilt <b id="m-built"></b></span>
     </div>
   </div>
 </header>
@@ -1266,6 +1289,7 @@ function card(it){
   h += "<h3>" + esc(it.title) + "</h3>";
   if (it.cite) h += '<div class="cite">' + esc(it.cite) + (it.juris ? " · " + esc(it.juris) : "") + "</div>";
   h += '<p class="sig">' + esc(it.sig) + "</p>";
+  h += whenLine(it);
   if (crossCourse(it)){
     const home = Object.keys(it.home).map(c => DATA.courses[c].label).join(" & ");
     h += '<div class="chips"><span class="chip xcourse" title="This is ' + esc(home) +
@@ -1927,6 +1951,38 @@ function syncCourse(){
   updateMeta();
 }
 
+/* ---- when was it added / changed. Stamps are Sydney time, "YYYY-MM-DD HH:MM". Read as plain
+   text, never through Date's time zone, so every viewer sees the same Sydney clock. */
+const MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+function stampDay(s){
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(s || ""); if (!m) return "";
+  return +m[3] + " " + MON[+m[2] - 1] + " " + m[1];
+}
+function stampTime(s){
+  const m = /(\d{2}):(\d{2})$/.exec(s || ""); if (!m) return "";
+  let h = +m[1]; const ap = h >= 12 ? "pm" : "am"; h = h % 12 || 12;
+  return h + ":" + m[2] + " " + ap;
+}
+function stampFull(s){ return s ? stampDay(s) + (/\d{2}:\d{2}$/.test(s) ? ", " + stampTime(s) : "") : ""; }
+function daysBefore(s){            // whole days between a stamp and the moment this page was built
+  const a = /^(\d{4})-(\d{2})-(\d{2})/.exec(s || ""), b = /^(\d{4})-(\d{2})-(\d{2})/.exec(DATA.meta.builtAt || DATA.meta.built || "");
+  return a && b ? Math.round((Date.UTC(+b[1], +b[2]-1, +b[3]) - Date.UTC(+a[1], +a[2]-1, +a[3])) / 864e5) : 999;
+}
+function whenLine(it){
+  const addedS = it.addedAt || it.addedOn, upd = it.updatedAt;
+  if (!addedS && !upd) return "";
+  const sameMoment = upd && it.addedAt && upd === it.addedAt;
+  const newish = daysBefore(addedS) <= 7, updish = !newish && daysBefore(upd) <= 7;
+  let h = '<div class="ev-when">';
+  if (addedS) h += '<span class="' + (newish ? "fresh" : "") + '" title="When this card was added (Sydney time)">' +
+       '<svg class="ic"><use href="#g-clock"/></svg>Added ' + esc(stampFull(addedS)) + "</span>";
+  if (upd && !sameMoment) h += '<span class="' + (updish ? "fresh" : "") + '" title="When this card was last changed (Sydney time)">' +
+       '<svg class="ic"><use href="#g-pen"/></svg>Updated ' + esc(stampFull(upd)) + "</span>";
+  if (newish) h += '<span class="tag-new">New</span>';
+  else if (updish) h += '<span class="tag-new">Updated</span>';
+  return h + "</div>";
+}
+
 function updateMeta(){
   const pts = scopedTopics().reduce(
     (a, t) => a.concat(t.sections.reduce((b, s) => b.concat(s.points), [])), []);
@@ -1934,6 +1990,11 @@ function updateMeta(){
   $("#m-cover").textContent = pts.filter(p => ownCount(p.id)).length + "/" + pts.length;
   const lib = LIB.filter(f => f.t.some(tagInScope));
   if (LIB.length){ $("#m-lib").textContent = lib.length; $("#m-libpill").hidden = false; }
+  if (DATA.meta.changedAt || DATA.meta.builtAt){
+    $("#m-changed").textContent = stampFull(DATA.meta.changedAt) || "—";
+    $("#m-built").textContent = stampFull(DATA.meta.builtAt) || stampDay(DATA.meta.built);
+    $("#mastStamp").hidden = false;
+  }
 }
 
 $("#q").addEventListener("input", e => { state.q = e.target.value; render(); });

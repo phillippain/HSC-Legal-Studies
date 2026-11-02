@@ -12,6 +12,7 @@ themes: dis.t.values, dis.t.justice
 criteria: accessibility, responsiveness, enforceability, society, justice
 related: disputes-with-the-state-review, ombudsman-and-statutory-bodies, law-in-practice-responses-and-effectiveness
 added: 2026-09-20
+updated_at: 2026-10-24 21:47
 ---
 
 A reference note.

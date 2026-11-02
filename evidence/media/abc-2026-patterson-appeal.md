@@ -13,6 +13,7 @@ criteria: justice, rights, society
 source: https://www.abc.net.au/news/2026-08-20/erin-patterson-appeal-mushroom-murder-court/107059860
 related: erin-patterson-crime-concepts
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 The Victorian Court of Appeal (Taylor, McLeish and Kidd JJ) heard both appeals in the week of 19 August 2026.

@@ -12,6 +12,7 @@ themes: crime.t.effectiveness, crime.t.balance, crime.t.reform
 criteria: justice, accessibility, society, resource
 related: young-offenders-in-the-cjs, circle-sentencing-and-walama, children-criminal-proceedings-act-1987
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 The Youth Koori Court (Parramatta 2015; Surry Hills 2019; Dubbo 2023) runs within the Children's Court

@@ -13,6 +13,7 @@ criteria: accessibility, justice, resource, ruleoflaw
 document: Cases/Family/Fierro & Bien (No 3) [2026] FedCFamC1F 541 - Case Summary.pdf
 related: family-law-act-1975, keven-jaylah-no2-2026
 added: 2026-09-24
+updated_at: 2026-10-24 21:28
 ---
 
 A man struck off the Roll of Lawyers in 2015 began parenting proceedings in 2020 about his

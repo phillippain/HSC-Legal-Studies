@@ -13,6 +13,7 @@ criteria: ruleoflaw, accessibility, justice, rights
 document: Family/Cases/2.1 Family law cases.pdf
 related: family-law-act-1975, landon-yin-2016
 added: 2026-09-20
+updated_at: 2026-10-24 08:27
 ---
 
 The couple married in **2003**. They separated in 2010, reconciled in **January 2012**, separated

@@ -13,6 +13,7 @@ criteria: rights, society, ruleoflaw, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2006-007
 related: kable-v-dpp-1996
 added: 2026-10-19
+updated_at: 2026-10-24 08:27
 ---
 
 - On the State's application, the **Supreme Court** may make an **extended supervision order** (ESO)

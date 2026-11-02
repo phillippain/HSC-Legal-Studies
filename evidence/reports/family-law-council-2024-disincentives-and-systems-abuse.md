@@ -14,6 +14,7 @@ document: Family/disincentives-to-disclosing-family-violence-Family Law Council 
 source: https://www.ag.gov.au/sites/default/files/2025-03/disincentives-to-disclosing-family-violence-and-child-abuse-and-responding-to-systems-abuse.PDF
 related: family-law-amendment-act-2023, family-law-act-1975, crimes-domestic-personal-violence-act-2007, bocsar-coercive-control-june-2026, smh-2025-tracking-apps-coercive-control, morse-duarte-2017, melzer-powles-no2-2026, law-reform-commission-acts
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 The **Family Law Council** — the Attorney-General's standing advisory body — was asked two

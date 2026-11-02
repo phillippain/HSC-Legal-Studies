@@ -11,6 +11,7 @@ support: fam.1.4, fam.1.5, fam.2.2, fam.2.5, fam.3.2, inv.3.3, inv.4.4, dis.2.3
 themes: fam.t.values, fam.t.reform, fam.t.cooperation
 criteria: accessibility, responsiveness, justice
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 The provisions that recur across the 2026 cases:

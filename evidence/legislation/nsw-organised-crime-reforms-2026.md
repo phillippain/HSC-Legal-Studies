@@ -13,6 +13,7 @@ criteria: responsiveness, enforceability, rights, society
 source: https://www.nsw.gov.au/ministerial-releases/crimes-amendment-passes-parliament
 related: young-offenders-in-the-cjs, police-and-law-enforcement-agencies
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 The context: ABC reporting (September–October 2026) attributes **41 murders since 2020** to

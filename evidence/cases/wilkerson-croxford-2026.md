@@ -13,6 +13,7 @@ criteria: rights, enforceability, responsiveness, justice
 document: Jade Cases/Raw Cases/Wilkerson & Croxford [2026] FedCFamC2F 1063.rtf
 document11: Cases/Year 11/Year 11 - Wilkerson and Croxford [2026] FedCFamC2F 1063 - Case Summary.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 14:39
 ---
 
 The parents were not *ad idem* on any donor agreement, and in any event "the court is not bound by a

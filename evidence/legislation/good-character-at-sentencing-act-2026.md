@@ -13,6 +13,7 @@ criteria: responsiveness, justice, rights, society
 source: https://www.parliament.nsw.gov.au/bill/files/18856/First%20Print.pdf
 related: crimes-sentencing-procedure-act-1999
 added: 2026-10-19
+updated_at: 2026-10-24 21:47
 ---
 
 - **What changed:** s 21A(3)(f) ('the offender was a person of good character') is removed, as is the

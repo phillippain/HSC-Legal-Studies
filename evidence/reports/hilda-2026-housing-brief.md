@@ -13,6 +13,7 @@ criteria: resource, accessibility, society, responsiveness
 document: Shelter/HILDA 2026 Shelter Evidence Brief.pdf
 related: anglicare-rental-affordability-2026, grattan-sydney-housing-2026, abs-homelessness-census-2021, shelter-affordability-evidence-sheet
 added: 2026-09-24
+updated_at: 2026-10-24 08:27
 ---
 
 The **Household, Income and Labour Dynamics in Australia** survey has followed the same households

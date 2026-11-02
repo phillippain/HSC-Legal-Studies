@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Family - Childhood Physical Abuse by Parents
 source: https://theconversation.com/1-in-4-australians-physically-abused-by-parents-study-293807
 related: children-and-young-persons-care-and-protection-act-1998, violence-against-children-study-2026, care-and-protection-of-children-evidence-sheet, croc-1989
 added: 2026-10-29
+updated_at: 2026-10-29 06:58
 ---
 
 The **Australian Child Maltreatment Study** (8,503 people surveyed in 2021) found **32%** of Australians experienced

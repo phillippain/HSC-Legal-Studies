@@ -13,6 +13,7 @@ criteria: enforceability, ruleoflaw, accessibility, responsiveness, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1988-035
 related: ombudsman-and-statutory-bodies, ombudsman-act-1974, lecc-act-2016, royal-commissions-acts, police-act-1990-and-afp-act-1979, australian-human-rights-commission-act-1986
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 The **Independent Commission Against Corruption** was the Greiner Government's first legislation

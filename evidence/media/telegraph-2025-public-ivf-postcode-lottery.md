@@ -14,6 +14,7 @@ document: Family/Where public, affordable IVF is available in Australia | Daily 
 source: https://www.dailytelegraph.com.au/
 related: heraldsun-2025-ivf-medicare-definition, telegraph-2025-sex-selection-ban, telegraph-2025-colombian-surrogacy-nightmare, telegraph-2025-surrogate-grandmothers, art-law-reform-2019-2025, telegraph-2025-monash-ivf-mixup
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 **South Australia, Tasmania, the Northern Territory and the ACT** provide **no IVF through their

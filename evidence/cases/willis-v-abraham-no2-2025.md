@@ -14,6 +14,7 @@ document: Shelter/Adverse Possession - The lawyer who lost a squatter’s rights
 source: https://www.smh.com.au/national/nsw/yael-starred-on-australian-story-then-she-tried-to-take-over-an-inner-west-house-20250327-p5ln1q.html
 related: rogers-v-registrar-general-2024, real-property-act-1900, shelter-what-it-means, ncat-act-2013
 added: 2026-10-22
+updated_at: 2026-10-24 21:28
 ---
 
 Mary Willis inherited two houses in a Rozelle street from her father decades ago; one was tenanted

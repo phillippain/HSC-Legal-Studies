@@ -12,6 +12,7 @@ themes: crime.t.balance, crime.t.reform, crime.t.effectiveness, inv.t.justice
 criteria: rights, ruleoflaw, society, justice
 document: Crime/Criminal Trial Process/3e. The role of juries, including verdicts.docx
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 A panel of citizens selected at random from the electoral roll, whose job is to determine guilt on

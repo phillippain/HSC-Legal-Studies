@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/NSW break and enter and covert stalking DV r
 source: https://www.nsw.gov.au/ministerial-releases/reforms-protecting-victim-survivors-pass
 related: crimes-domestic-personal-violence-act-2007, crimes-act-1900-s54d, crimes-act-1900-key-offences, bocsar-coercive-control-june-2026, smh-2026-fairleigh-coercive-control, technology-and-the-individual, law-reform-conditions-agencies-mechanisms
 added: 2026-10-22
+updated_at: 2026-10-24 21:47
 ---
 
 Two bills passed the NSW Parliament on **20 October 2026** (Council amendments agreed by the

@@ -12,6 +12,7 @@ themes: inv.t.values, inv.t.justice
 criteria: responsiveness, accessibility, justice, society
 related: basic-legal-concepts, court-hierarchy-and-jurisdiction
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 May Donoghue drank ginger beer bought for her by a friend; the opaque bottle contained the remains of

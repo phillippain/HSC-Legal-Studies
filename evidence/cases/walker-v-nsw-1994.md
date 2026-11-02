@@ -13,6 +13,7 @@ criteria: ruleoflaw, justice, rights
 source: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1994/64.html
 related: mabo-no2-1992, atsi-customary-law, circle-sentencing-and-walama
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Denis Walker, charged in NSW, argued that the criminal law of the colony never applied to Aboriginal people, or that Aboriginal customary law survived as a parallel system after *Mabo (No 2)*. Mason CJ struck the argument out.

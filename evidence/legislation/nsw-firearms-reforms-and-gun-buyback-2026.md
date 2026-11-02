@@ -15,6 +15,7 @@ document11: Preliminary/Year 11 - National Gun Buyback Law Reform After Bondi Ev
 source: https://www.nsw.gov.au/ministerial-releases/national-gun-buyback-to-begin-nsw-on-november-2-bookings-to-surrender-open-today
 related: nsw-hate-crime-laws-2025-26, terrorism-police-powers-act-2002, royal-commissions-acts, law-reform-conditions-agencies-mechanisms
 added: 2026-10-27
+updated_at: 2026-11-03 08:40
 ---
 
 The **Bondi Beach terrorist attack** on 14 December 2025 killed 15 people. Ten days later NSW passed the

@@ -13,6 +13,7 @@ criteria: enforceability, accessibility, rights, justice
 document: Cases/Family/Kurbonova & Hennigsen [2026] FedCFamC1F 520 - Case Summary.pdf
 related: family-law-act-1975, curtin-bush-2026, da-silva-v-minister-2026
 added: 2026-09-24
+updated_at: 2026-10-24 21:47
 ---
 
 Two Pakistani parents and their sons, born 2020 and 2022, all in Australia on temporary visas — the

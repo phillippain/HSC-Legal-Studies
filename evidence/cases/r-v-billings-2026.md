@@ -13,6 +13,7 @@ criteria: justice, rights, responsiveness, society
 document: Cases/Crime/R v Billings [2026] NSWSC 1088 - Case Summary.pdf
 related: abc-2026-billings-sentenced-ticehurst, smh-2026-ticehurst-sentencing-delay, bail-act-2013, crimes-sentencing-procedure-act-1999, early-appropriate-guilty-plea-reforms-2018, shine-v-r-2016, victims-rights-and-support-act-2013
 added: 2026-10-22
+updated_at: 2026-10-24 21:47
 ---
 
 Molly Ticehurst, 28, ended her relationship with Daniel Billings in 2023. On **5 April 2024** she

@@ -14,6 +14,7 @@ document: News Articles/Crime/ABC 22Sept26 - NSW sexual assault pre-recorded evi
 source: https://www.abc.net.au/news/2026-09-22/nsw-reform-to-allow-sexual-assault-survivors-pre-record-evidence/107177194
 related: evidence-amendment-tendency-coincidence-2020, use-of-evidence-and-witnesses, the-adversary-system-and-court-jurisdiction
 added: 2026-09-22
+updated_at: 2026-10-24 21:47
 ---
 
 Attorney-General **Michael Daley** was to introduce the reforms in the NSW Parliament on

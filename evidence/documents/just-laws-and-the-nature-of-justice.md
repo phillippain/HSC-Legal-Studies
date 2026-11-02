@@ -12,6 +12,7 @@ themes: inv.t.justice, inv.t.values
 criteria: justice, rights, accessibility, ruleoflaw, society
 related: basic-legal-concepts, kioa-v-west-1985, dietrich-v-the-queen-1992
 added: 2026-09-20
+updated_at: 2026-10-24 21:47
 ---
 
 A reference note.

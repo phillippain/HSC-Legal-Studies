@@ -14,6 +14,7 @@ document: Shelter/Shelter 17Sept 2025 Reforms Update.pdf
 source: https://www.planning.nsw.gov.au/news/nsw-planning-system-reform-bill-passes-parliament
 related: environmental-planning-and-assessment-act-1979, nsw-planning-law-shelter-sheet, smh-2025-missing-middle-delay, grattan-more-homes-better-cities-2025, grattan-sydney-housing-2026, housing-australia-future-fund-act-2023, afr-2025-investors-quitting-apartments
 added: 2026-10-24
+updated_at: 2026-10-24 10:48
 ---
 
 The **Environmental Planning and Assessment (Planning System Reforms) Bill 2025** was introduced in

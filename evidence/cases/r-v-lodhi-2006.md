@@ -13,6 +13,7 @@ criteria: rights, justice, ruleoflaw, enforceability, responsiveness, society
 document: Cases/Crime/R v Lodhi [2006] NSWSC 691 - Case Summary.pdf
 related: role-of-juries, crimes-sentencing-procedure-act-1999, international-crime-evidence-summary-2026
 added: 2026-10-13
+updated_at: 2026-10-24 21:54
 ---
 
 Faheem Khalid Lodhi, a 36-year-old Sydney architect with no prior convictions, was convicted by a

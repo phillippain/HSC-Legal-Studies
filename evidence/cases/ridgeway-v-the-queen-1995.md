@@ -14,6 +14,7 @@ document: Cases/Crime/Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf
 related: evidence-act-1995, kadir-grech-v-the-queen-2020
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 ## Facts

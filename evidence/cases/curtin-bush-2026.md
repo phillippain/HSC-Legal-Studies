@@ -13,6 +13,7 @@ criteria: responsiveness, enforceability, rights, justice
 document: Cases/Family/Curtin & Bush [2026] FedCFamC2F 1021 and 1165 - Case Summary.pdf
 related: family-law-act-1975, care-and-protection-of-children-evidence-sheet
 added: 2026-09-22
+updated_at: 2026-10-24 21:47
 ---
 
 X, 11, lives with his mother under 2021 orders that allow overseas holidays on 30 days' notice. In

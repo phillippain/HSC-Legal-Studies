@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, accessibility, justice, society
 document: Cases/BOCSAR/BOCSAR Coercive Control Monitoring June 2026 - Summary.pdf
 related: crimes-act-1900-s54d, smh-2026-fairleigh-coercive-control, crimes-domestic-personal-violence-act-2007, conversation-2026-dv-prevention-funding
 added: 2026-09-25
+updated_at: 2026-10-24 21:47
 ---
 
 **s 54D** *Crimes Act 1900* (NSW), in force 1 July 2024, criminalises a **course of conduct** of

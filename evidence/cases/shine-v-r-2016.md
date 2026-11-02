@@ -13,6 +13,7 @@ criteria: resource, rights, justice, ruleoflaw
 document: Cases/Crime/Shine v R [2016] NSWCCA 149 - Case Summary.pdf
 related: crimes-sentencing-procedure-act-1999, mhcifpa-2020-s14, early-appropriate-guilty-plea-reforms-2018, r-v-billings-2026
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Stephen Shine, a 58-year-old nursing student with an untreated psychotic illness, came to believe his

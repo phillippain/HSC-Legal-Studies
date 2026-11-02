@@ -14,6 +14,7 @@ document: Shelter/NSW Rental Taskforce to tackle fairness in rental market.pdf
 source: https://www.nsw.gov.au/ministerial-releases/six-months-on-nsw-rental-taskforce-has-recovered-over-166000-illegal-fees-issued-nearly-240000-fines-and-unveils-new-automated-compliance-tool
 related: residential-tenancies-amendment-act-2024, nsw-no-grounds-reform-2026
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 A multi-disciplinary team inside **NSW Fair Trading**, funded at **$8.4 million**, led by a Rental

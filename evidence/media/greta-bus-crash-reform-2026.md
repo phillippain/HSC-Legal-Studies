@@ -14,6 +14,7 @@ document: Crime/Greta bus crash - charge negotiation to reform (Evidence summary
 source: https://www.abc.net.au/news/2026-10-19/hunter-valley-wedding-bus-crash-survivors-recall-chaotic-night/107163850
 related: crimes-sentencing-procedure-act-1999, the-adversary-system-and-court-jurisdiction, use-of-evidence-and-witnesses, smh-2026-ticehurst-sentencing-delay, role-of-juries
 added: 2026-10-19
+updated_at: 2026-10-24 21:47
 ---
 
 A coach carrying wedding guests rolled at the Branxton interchange near Greta on **11 June 2023**:

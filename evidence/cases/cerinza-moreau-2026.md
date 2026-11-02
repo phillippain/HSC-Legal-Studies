@@ -14,6 +14,7 @@ document: Cases/Family/01_Cerinza_and_Moreau_2026_FedCFamC2F_785.pdf
 source: https://www.fedcfamcourt.gov.au/
 related: alberdingk-alberdingk-2026, hemswold-hemswold-2026, sullivan-warren-2026, escarro-kopp-2026, family-law-amendment-act-2023, morse-duarte-2017, family-law-council-2024-disincentives-and-systems-abuse
 added: 2026-10-24
+updated_at: 2026-10-24 13:45
 ---
 
 Two children, **X born 2019** and **Y born 2020**, living mainly with their mother and spending

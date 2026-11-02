@@ -12,6 +12,7 @@ themes: crime.t.discretion, crime.t.balance
 criteria: justice, rights, society
 related: greta-bus-crash-reform-2026, r-v-koch-2009
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 - Charges should **reasonably reflect the criminality** of the conduct and give the court adequate sentencing power.

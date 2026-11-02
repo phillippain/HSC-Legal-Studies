@@ -14,6 +14,7 @@ document: Jade Cases/Raw Cases/Melzer & Powles (No 2) [2026] FedCFamC1F 482.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: cadel-galea-2026, sullivan-warren-2026, crimes-domestic-personal-violence-act-2007, crimes-act-1900-s54d, family-law-amendment-act-2023, smh-2026-fairleigh-coercive-control
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Two children, born 2011 and 2013. The father was **unrepresented**, applied orally on the first

@@ -12,6 +12,7 @@ themes: crime.t.discretion, crime.t.moral, crime.t.effectiveness, crime.t.reform
 criteria: rights, accessibility, resource, responsiveness, justice
 source: https://bocsar.nsw.gov.au/documents/publications/cjb/cjb251-300/CJB279-Report-Justice-Advocacy-Service.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 JAS Diversion provides intensive case coordination towards a **s 14 MHCIFPA 2020** application. It

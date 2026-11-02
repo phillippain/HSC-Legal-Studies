@@ -14,6 +14,7 @@ document: Cases/Human Rights/Hallmann_v_SCU_human_rights_summary.pdf
 source: https://www.caselaw.nsw.gov.au/
 related: fhst-and-minister-2026-arta-1237, anti-discrimination-act-1977, ncat-act-2013, wertheim-v-haddad-2025, crpd-2006, goldman-v-inner-west-council-2026
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 Mr Hallmann, an employee with **serious chronic-illness disabilities**, complained to the **NSW

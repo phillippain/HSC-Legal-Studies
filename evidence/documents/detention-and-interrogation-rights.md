@@ -13,6 +13,7 @@ criteria: rights, ruleoflaw, enforceability, justice
 document: Crime/NSW Police Powers - Two-Page Summary.pdf
 related: children-criminal-proceedings-act-1987, young-offenders-act-1997
 added: 2026-09-19
+updated_at: 2026-10-24 08:30
 ---
 
 Once a suspect is arrested, **Part 9 of LEPRA** turns police discretion into a timetable and a list of

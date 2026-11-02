@@ -13,6 +13,7 @@ criteria: enforceability, rights, accessibility, justice, resource
 document: Family/CPOC/When the system failed Marcus Article (SMH 17May26).pdf
 related: care-and-protection-of-children-evidence-sheet, nit-2024-family-is-culture
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 Marcus (name changed) is Aboriginal, in his thirties, partially deaf, and suing the **State of NSW in

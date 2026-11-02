@@ -13,6 +13,7 @@ criteria: rights, enforceability, society, justice, ruleoflaw
 document: Family/Cases/1.4 Family law cases.pdf
 related: care-and-protection-of-children-evidence-sheet, family-law-act-1975
 added: 2026-09-20
+updated_at: 2026-10-24 21:47
 ---
 
 Gloria Mary Sam was born healthy in July 2001 and diagnosed with eczema that November. Her father

@@ -13,6 +13,7 @@ criteria: ruleoflaw, rights, justice, enforceability
 document: Family/Cases/1.2 Family law cases.pdf
 related: family-law-act-1975, easterlefa-giannopoulos-2013
 added: 2026-09-20
+updated_at: 2026-10-24 21:28
 ---
 
 Ms Yin married Mr B in a foreign country in **1999**. She left him, and in **2014** married Mr Landon

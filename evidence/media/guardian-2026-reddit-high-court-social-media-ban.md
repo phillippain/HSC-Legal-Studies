@@ -14,6 +14,7 @@ document: Human Rights/HR - Reddit High Court Social Media Ban Challenge Evidenc
 source: https://www.theguardian.com/australia-news/2026/nov/03/reddit-and-libertarian-group-challenge-australias-under-16s-social-media-ban-in-high-court
 related: australian-constitution-rights-and-powers, online-safety-act-2021-and-social-media-minimum-age, under-16-social-media-ban-enforcement-2026, digital-duty-of-care-bill-2026, online-safety-age-restricted-platforms-rules-2025, joint-select-committee-social-media-2024, croc-1989, technology-and-the-individual
 added: 2026-11-03
+updated_at: 2026-11-03 08:53
 ---
 
 The first major legal challenge to the under-16s social media ban was heard in the High Court on **3 and 4 November 2026**. Australia has no guaranteed right to free speech, so both challengers rely on the **implied freedom of political communication**: they say stopping under-16s holding accounts burdens political communication, and the Commonwealth says the law serves a legitimate purpose, reducing harm from features such as algorithms, infinite scroll and notifications. **No decision has been made.**

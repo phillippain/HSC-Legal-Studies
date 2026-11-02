@@ -12,6 +12,7 @@ themes: crime.t.discretion, crime.t.balance, crime.t.reform
 criteria: enforceability, society, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1999-092
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 - **s 3A** — the purposes of sentencing, set out in statute: punishment, deterrence, protection of

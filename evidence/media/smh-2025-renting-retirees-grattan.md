@@ -14,6 +14,7 @@ document: News Articles/Shelter/Renting retirees face fall off housing cliff.pdf
 source: https://grattan.edu.au/report/renting-in-retirement/
 related: rental-subsidies-cra-and-nsw, grattan-housing-affordability-2018, anglicare-rental-affordability-2026, hilda-2026-housing-brief, reb-2024-fifty-years-price-to-income, conversation-2025-eviction-experiences, residential-tenancies-act-2010
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 Australia's retirement income system assumes you own your home. This is the evidence of what happens

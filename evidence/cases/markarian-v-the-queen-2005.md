@@ -13,6 +13,7 @@ criteria: justice, ruleoflaw, rights
 document: Cases/Crime/Markarian v The Queen [2005] HCA 25 - Case Summary.pdf
 related: muldrock-v-the-queen-2011, hurt-delzotto-v-the-king-2024, veen-v-the-queen-no2-1988, crimes-sentencing-procedure-act-1999
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 Anthony Markarian, a heroin addict on parole, drove for a dealer for six months in 2000 and was paid

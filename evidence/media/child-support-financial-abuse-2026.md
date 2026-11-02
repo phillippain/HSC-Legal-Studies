@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Family - Child Support Financial Abuse Evide
 source: https://www.abc.net.au/news/2026-11-02/financial-abuse-via-services-australias-child-support/107295686
 related: child-support-assessment-act-1989, srqy-and-child-support-registrar-2026, three-child-support-reviews-2026, family-law-act-1975
 added: 2026-11-03
+updated_at: 2026-11-03 08:40
 ---
 
 "Chloe" (a pseudonym) says her former partner's income fell on paper from more than **$300,000** to under

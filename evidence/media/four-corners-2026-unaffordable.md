@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, resource, responsiveness, justice
 document: Shelter/Unaffordable - LCMID Evidence Bank and Analysis.docx
 related: anao-haff-2026, grattan-sydney-housing-2026, nsw-planning-law-shelter-sheet
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 A national broadcaster's investigative program combining original data journalism with ministerial

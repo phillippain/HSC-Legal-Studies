@@ -14,6 +14,7 @@ document: Shelter/Guidetopurchaseyourhome.pdf
 source: https://www.nsw.gov.au/housing-and-construction/buying-and-selling-property/buying-property-nsw/contracts-and-deposits
 related: conveyancing-act-1919, real-property-act-1900, contract-for-sale-of-land-2022-residential, law-society-selling-a-home-checklist, mckell-building-contract-for-sale, national-consumer-credit-protection-act-2009, amadio-1983
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 A consumer guide that sets out purchasing as a **sequence**, which is how the dot point is examined

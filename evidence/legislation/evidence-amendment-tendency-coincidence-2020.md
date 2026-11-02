@@ -13,6 +13,7 @@ criteria: responsiveness, rights, society, justice
 document: Crime/Criminal Trial Process/3d. Evidence, including witnesses.docx
 related: use-of-evidence-and-witnesses
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Following the **Royal Commission into Institutional Responses to Child Sexual Abuse**, NSW relaxed the

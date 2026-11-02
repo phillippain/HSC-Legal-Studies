@@ -12,6 +12,7 @@ themes: crime.t.balance, crime.t.discretion, crime.t.reform
 criteria: rights, ruleoflaw, resource, society
 document: Crime/Statement on Bail by Chief Justice of New South Wales.pdf
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 - About **40,000** bail decisions a year are made in the Local Court; **5,732** people were on remand (March 2025).

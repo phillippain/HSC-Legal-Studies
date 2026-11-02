@@ -13,6 +13,7 @@ criteria: resource, responsiveness, enforceability, society
 source: https://www.legislation.gov.au/C2023A00056/latest/text
 related: anao-haff-2026, telegraph-2025-haff-costly-flop, four-corners-2026-unaffordable, shelter-social-housing-evidence-sheet, housing-act-2001, first-home-buyer-concessions-nsw, federal-budget-2026-housing-tax-changes
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 The Commonwealth has no housing department of its own and owns no public housing; its lever is

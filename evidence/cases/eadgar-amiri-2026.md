@@ -13,6 +13,7 @@ criteria: accessibility, rights, justice
 related: burke-morgan-no3-2026
 document: Jade Cases/Completed Case Summaries/Eadgar & Amiri Case Summary.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 De facto, never married; two children. A **Binding Financial Agreement** executed 11 April 2018 —

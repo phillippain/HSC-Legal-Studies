@@ -14,6 +14,7 @@ document: Jade Cases/Raw Cases/Escarro & Kopp [2026] FedCFamC1F 488.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: hemswold-hemswold-2026, melzer-powles-no2-2026, morse-duarte-2017, sullivan-warren-2026, family-law-amendment-act-2023
 added: 2026-10-24
+updated_at: 2026-10-24 09:45
 ---
 
 Two **separate parenting proceedings were consolidated** because they raised the same factual

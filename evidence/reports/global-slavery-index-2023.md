@@ -14,6 +14,7 @@ document: Human Rights/Global-Slavery-Index-2023.pdf
 source: https://www.walkfree.org/global-slavery-index/
 related: modern-slavery-act-2018, modern-slavery-in-australia, smh-2024-sarah-sexual-servitude, telegraph-2024-school-cleaners-modern-slaves, un-rapporteur-slavery-palm-2025, four-corners-2026-food-supply-chain, anti-slavery-australia-frontline-guide-2024
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 Walk Free's fifth Index, and the source of nearly every modern slavery number quoted in Australian

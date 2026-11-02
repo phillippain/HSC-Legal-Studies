@@ -13,6 +13,7 @@ criteria: rights, ruleoflaw, society, justice
 document: Cases/Crime/Meredith v State of NSW (No 5) [2025] NSWSC 1133 - Case Summary.pdf
 related: lepra-2002, lecc-strip-search-inquiry-2020, telegraph-2022-kempsey-baby-strip-search
 added: 2026-10-23
+updated_at: 2026-10-24 21:54
 ---
 
 ## Facts

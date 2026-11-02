@@ -14,6 +14,7 @@ document: Jade Cases/Raw Cases/Fry & Read (No 2) [2026] FedCFamC1F 505.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: pratley-pratley-no9-2026, family-law-act-1975, international-law-and-australian-law, amadio-1983
 added: 2026-10-24
+updated_at: 2026-10-24 21:55
 ---
 
 Property orders had already been made in **Australia**. Later orders were made in the **United

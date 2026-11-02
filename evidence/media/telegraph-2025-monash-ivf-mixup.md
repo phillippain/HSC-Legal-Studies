@@ -13,6 +13,7 @@ criteria: enforceability, rights, responsiveness, justice, society
 document: Family/Woman gives birth to stranger’s baby after horror Monash IVF mix-up | Daily Telegraph.pdf
 related: surrogacy-birth-technology-evidence-file, smh-2026-surrogacy-baby-broker
 added: 2026-09-20
+updated_at: 2026-10-24 21:28
 ---
 
 A child was **born in Brisbane in 2024** after an embryo belonging to one couple was transferred to

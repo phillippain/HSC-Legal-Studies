@@ -14,6 +14,7 @@ document: Shelter/Evidence Sheets/Evidence Sheet - Brooms Head over-55s rule set
 source: https://www.abc.net.au/news/2026-10-19/brooms-head-holiday-park-permanent-residents-win-case/107271462
 related: ncat-act-2013, ncat-annual-report-2024-25, shelter-dispute-resolution-map, strata-schemes-management-act-2015, cooper-2020, shelter-discrimination-evidence-sheet
 added: 2026-10-21
+updated_at: 2026-10-24 08:27
 ---
 
 Brooms Head Holiday Park, on Crown land managed by **Clarence Valley Council**, has **52**

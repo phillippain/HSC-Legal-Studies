@@ -14,6 +14,7 @@ document: Jade Cases/GTA v Children’s Guardian - NSW Caselaw.pdf
 source: https://www.caselaw.nsw.gov.au/
 related: hcv-v-childrens-guardian-2026, child-protection-working-with-children-act-2012, rp-v-the-queen-2016, dpp-nsw-v-nw-doli-incapax, ncat-act-2013, administrative-decisions-review-act-1997
 added: 2026-10-24
+updated_at: 2026-10-24 09:41
 ---
 
 GTA was arrested in 2019, aged 14, and charged with one count of **intentionally sexually touching

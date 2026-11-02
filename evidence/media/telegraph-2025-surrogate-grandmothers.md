@@ -14,6 +14,7 @@ document: Family/‘Surrogate Grans’ Offer GIft of Life.pdf
 source: https://www.dailytelegraph.com.au/
 related: surrogacy-act-2010-and-art-act-2007, abc-2025-surrogacy-patchwork, telegraph-2025-colombian-surrogacy-nightmare, international-surrogacy-parentage-declarations, masson-v-parsons-2019, telegraph-2025-public-ivf-postcode-lottery
 added: 2026-10-24
+updated_at: 2026-10-24 10:31
 ---
 
 The quiet counterpart to every offshore surrogacy story: **altruistic surrogacy inside the family**,

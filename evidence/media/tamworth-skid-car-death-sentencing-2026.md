@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Skid Car Dangerous Driving Death Sentencing Eviden
 source: https://www.abc.net.au/news/2026-10-27/grieving-mother-tamworth-court-fatal-crash-sentencing/107313556
 related: crimes-sentencing-procedure-act-1999, road-transport-act-2013-strict-liability, early-appropriate-guilty-plea-reforms-2018, greta-bus-crash-reform-2026
 added: 2026-10-29
+updated_at: 2026-10-29 06:58
 ---
 
 On 10 March 2025 a modified "skid car" carrying three passengers crashed in Tamworth at **at least 92 km/h**

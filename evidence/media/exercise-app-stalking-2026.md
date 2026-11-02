@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Exercise App Stalking Evidence Summary.pdf
 source: https://www.abc.net.au/news/2026-10-25/women-cyclists-runners-stalking-exercise-apps/107295476
 related: crimes-domestic-personal-violence-act-2007, nsw-break-and-enter-and-covert-stalking-reforms-2026, online-safety-act-2021-and-social-media-minimum-age, technology-and-the-individual, law-reform-commission-acts
 added: 2026-10-26
+updated_at: 2026-10-26 09:56
 ---
 
 Melbourne cyclist **Bianca Pickett** and an 18-year-old rider describe a man who messaged the younger

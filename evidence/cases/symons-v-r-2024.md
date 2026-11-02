@@ -13,6 +13,7 @@ criteria: justice, rights, ruleoflaw, accessibility
 document: Cases/Crime/Symons v R; McDonald v R [2024] NSWCCA 212 - Case Summary.pdf
 related: zecevic-v-dpp-1987, r-v-kl-2025, crimes-act-homicide-defences, dietrich-v-the-queen-1992, legal-aid-commission-act-1979, r-v-singh-2012
 added: 2026-10-22
+updated_at: 2026-10-24 21:47
 ---
 
 On 5 April 2017 four men dragged Clint Starkey from a car at the Peats Ridge Caltex and beat him in

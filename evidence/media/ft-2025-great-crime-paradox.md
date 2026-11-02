@@ -14,6 +14,7 @@ document: Crime/Media/The great crime paradox.pdf
 source: https://www.ft.com/content/7488fe4c-5e1d-4b2b-adab-f42ad52
 related: bocsar-recorded-crime-june-2026, nsw-organised-crime-reforms-2026, telegraph-2026-adult-crime-adult-time
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Burn-Murdoch's argument is the most useful thing a Legal Studies student can read about **crime statistics and public perception**, because it refuses the two easy answers. It does not say the public is simply wrong, and it does not say the media invented the fear. It says both the falling numbers and the rising fear are measuring something real — just not the same thing.

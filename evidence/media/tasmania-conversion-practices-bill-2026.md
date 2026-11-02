@@ -15,6 +15,7 @@ document11: Preliminary/Year 11 - Tasmania Conversion Practices Bill Law Reform 
 source: https://www.abc.net.au/news/2026-10-24/tasmania-proposed-ban-on-conversion-practices-explained/107297452
 related: law-reform-commission-acts, law-reform-conditions-agencies-mechanisms, anti-discrimination-act-1977, australian-human-rights-commission-act-1986
 added: 2026-10-26
+updated_at: 2026-10-27 08:15
 ---
 
 The **Conversion Practices Prohibition Bill 2026 (Tas)**, drafted by the Greens (Dr Rosalie Woodruff)

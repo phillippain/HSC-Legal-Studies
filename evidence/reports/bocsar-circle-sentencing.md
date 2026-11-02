@@ -13,6 +13,7 @@ criteria: society, justice, resource, responsiveness
 document: Crime/Young Offenders/Does circle sentencing in NSW reduce Aboriginal offending.pdf
 related: bocsar-cjb279-jas-diversion, young-offenders-act-1997
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Circle sentencing brings Aboriginal Elders and community members into sentencing an Aboriginal

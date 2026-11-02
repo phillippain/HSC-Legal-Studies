@@ -14,6 +14,7 @@ document: Family/Baulkham Hills stabbing Mother charged, three children hurt in 
 source: https://www.smh.com.au/national/nsw/three-children-stabbed-in-sydney-s-hills-district-20250331-p5lnqk.html
 related: crimes-domestic-personal-violence-act-2007, bail-act-2013, crimes-act-1900-key-offences, smh-2025-lilie-james-inquest, bocsar-cjb278-dfv-typology, children-and-young-persons-care-and-protection-act-1998
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Police were called to a **Baulkham Hills** home about **5.15am** on 31 March 2025 after reports that

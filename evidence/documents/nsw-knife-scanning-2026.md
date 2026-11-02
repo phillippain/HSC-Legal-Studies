@@ -14,6 +14,7 @@ document: Crime/NSW knife scanning powers - LEPRA Part 4A law (Evidence summary 
 source: https://www.nsw.gov.au/ministerial-releases/permanent-powers-targeting-knife-crime-passes-parliament
 related: lepra-2002, lepra-reasonable-suspicion-authorities-2020, police-powers-expansion-since-lepra, police-and-law-enforcement-agencies, reporting-and-investigating-crime, r-v-rondo-2001, dpp-v-carr-2002, telegraph-2026-adult-crime-adult-time, bocsar-recorded-crime-june-2026
 added: 2026-10-16
+updated_at: 2026-10-26 12:55
 ---
 
 The NSW wanding trial began in December 2024 under a sunset clause. On **13 October 2026** Parliament

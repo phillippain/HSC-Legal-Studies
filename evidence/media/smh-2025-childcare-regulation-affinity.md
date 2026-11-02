@@ -14,6 +14,7 @@ document: Family/Childcare crisis: Frankie thought her daughter was safe at dayc
 source: https://www.smh.com.au/
 related: child-protection-working-with-children-act-2012, children-and-young-persons-care-and-protection-act-1998, smh-2025-jack-died-in-state-care, acyp-special-inquiry-aca-2024, telegraph-2025-life-without-barriers-whistleblowers, smh-2025-zoe-robinson-acyp
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 The regulatory arm of child protection, which Shelter-style "is the law effective?" questions reach

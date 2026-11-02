@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Alan Jones Closed Court Judge-Alone Trial Evidence
 source: https://theconversation.com/closed-court-no-jury-a-legal-expert-explains-whats-happening-with-alan-jones-trial-288901
 related: chris-dawson-judge-alone-2022, bocsar-cjb264-judge-alone-trials, criminal-procedure-act-1986, jury-act-1977, abc-2026-nsw-sexual-assault-prerecorded-evidence, the-adversary-system-and-court-jurisdiction
 added: 2026-10-26
+updated_at: 2026-10-26 12:18
 ---
 
 Former broadcaster **Alan Jones** pleaded not guilty to **22 charges** (20 indecent assault, 2 sexual

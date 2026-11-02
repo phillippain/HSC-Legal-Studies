@@ -14,6 +14,7 @@ document: Shelter/NSW Building Commissioner.pdf
 source: https://www.nsw.gov.au/departments-and-agencies/building-commission-nsw
 related: mascot-towers-s430-investigation-2023, afr-2019-opal-tower-defects, smh-2025-defects-cost-700m, design-building-practitioners-act-2020, residential-apartment-buildings-act-2020
 added: 2026-10-24
+updated_at: 2026-10-24 10:51
 ---
 
 **David Chandler** was appointed the first NSW Building Commissioner in **2019**, with five decades

@@ -13,6 +13,7 @@ criteria: justice, society
 source: https://www.australianjewishnews.com/a-lesson-in-respect-for-bus-abuser/
 related: young-offenders-act-1997, bocsar-cjb160-yjc
 added: 2026-10-20
+updated_at: 2026-10-24 08:30
 ---
 
 In August 2014 a group of teenagers abused Jewish primary school children on a school bus in Sydney's

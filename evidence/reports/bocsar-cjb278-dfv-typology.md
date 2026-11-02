@@ -12,6 +12,7 @@ themes: crime.t.moral, crime.t.effectiveness, crime.t.balance, fam.t.effectivene
 criteria: society, responsiveness, resource, justice
 document: Cases/BOCSAR/BOCSAR_CJB278_DFV_Typology_Infographic.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 BOCSAR linked records from **seven** NSW government systems — courts, police victimisation, child

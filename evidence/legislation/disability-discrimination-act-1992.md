@@ -13,6 +13,7 @@ criteria: rights, accessibility, enforceability, justice
 source: https://www.legislation.gov.au/C2004A04426/latest/text
 related: crpd-2006, australian-human-rights-commission-act-1986, disability-royal-commission-2023, drc-government-response-2024, ndis-review-2023, disability-commissioners-ahrc-nsw
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 The DDA makes it unlawful to discriminate on the ground of disability — broadly defined to include physical, intellectual, psychiatric, sensory and learning disability, and disease — in employment, education, goods and services, accommodation, access to premises and Commonwealth programs.

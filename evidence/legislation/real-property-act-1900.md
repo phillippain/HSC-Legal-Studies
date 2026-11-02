@@ -11,6 +11,7 @@ support: shel.2.5, shel.3.1, dis.2.3, inv.3.3, inv.4.4
 themes: shel.t.effectiveness, shel.t.cooperation
 criteria: enforceability, rights, resource, accessibility
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 Under the Torrens system, registration confers title. **s 42** makes the registered proprietor's

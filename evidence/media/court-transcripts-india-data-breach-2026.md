@@ -13,6 +13,7 @@ criteria: rights, enforceability, accessibility, responsiveness
 document: Family/Evidence Summaries/Family - Family Court Data Breach Evidence Summary.pdf
 related: federal-circuit-and-family-court-act-2021, privacy-act-1988-and-2024-reforms, family-law-act-1975, family-courts-and-dispute-resolution, technology-and-the-individual, ombudsman-act-1974
 added: 2026-10-23
+updated_at: 2026-10-24 21:54
 ---
 
 The federal courts outsource transcription. In **December 2014** the former national manager of the

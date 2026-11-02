@@ -12,6 +12,7 @@ themes: crime.t.reform, crime.t.moral, crime.t.balance
 criteria: rights, responsiveness, society, justice
 related: croc-1989, senate-youth-justice-inquiry-2026, children-criminal-proceedings-act-1987
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 | Jurisdiction | Minimum age (2026) | Direction |

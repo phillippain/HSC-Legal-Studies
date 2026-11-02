@@ -14,6 +14,7 @@ document: Shelter/LSA 2023 - Shelter Social Housing (1).pdf
 source: https://cityfutures.ada.unsw.edu.au/
 related: housing-act-2001, aboriginal-housing-act-1998, community-housing-providers-national-law-act-2012, housing-australia-future-fund-act-2023, nras-ending-2026, residential-tenancies-act-2010, kelly-v-nsw-lahc-2026, homelessness-nsw-place-to-call-home-2025, shelter-social-housing-evidence-sheet
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 A conference paper delivered **to Legal Studies teachers** by a leading housing academic, which is

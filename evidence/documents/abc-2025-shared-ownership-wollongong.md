@@ -14,6 +14,7 @@ document: Shelter/Shared Ownership and the Shelter.pdf
 source: https://www.abc.net.au/news
 related: smh-2025-help-to-buy-shared-equity, group-renting-cotenancy-2026, contract-for-sale-of-land-2022-residential, conveyancing-act-1919, real-property-act-1900, renting-a-room-boarders-lodgers-2026, reb-2024-fifty-years-price-to-income
 added: 2026-10-24
+updated_at: 2026-10-24 10:58
 ---
 
 Households that cannot buy alone are buying **together** — families, friends and retirees forming

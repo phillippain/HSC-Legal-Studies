@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, ruleoflaw, justice, resource, responsiv
 source: https://www.legislation.gov.au/C2024A00039/latest/text
 related: disputes-with-the-state-review, administrative-decisions-review-act-1997, wnzp-child-support-2026, xtxd-child-support-2026, refugee-2534313-2026-arta-1501, da-silva-v-minister-2026, plaintiff-m98-2026-hca-26, kioa-v-west-1985, australian-constitution-rights-and-powers, ombudsman-act-1974
 added: 2026-10-22
+updated_at: 2026-10-24 21:55
 ---
 
 A person who disagrees with a Commonwealth decision has two different routes, and the syllabus

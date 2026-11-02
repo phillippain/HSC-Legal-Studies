@@ -13,6 +13,7 @@ criteria: rights, justice, society, responsiveness
 document: Family/Cases/1.5 Family law cases.pdf
 related: australian-2025-adoption-aboriginality, care-and-protection-of-children-evidence-sheet
 added: 2026-09-20
+updated_at: 2026-10-24 08:27
 ---
 
 Carmen is the birth mother of A and J, who had lived with Mr and Mrs Fam as full-time carers since

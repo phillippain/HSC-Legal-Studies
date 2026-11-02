@@ -14,6 +14,7 @@ document: Cases/Crime/Large v R [2026] NSWCCA 175 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Large v R [2026] NSWCCA 175 - Case Summary.pdf
 related: markarian-v-the-queen-2005, muldrock-v-the-queen-2011
 added: 2026-10-26
+updated_at: 2026-10-27 08:03
 ---
 
 A jury convicted Anthony Large of two sexual offences and an assault occasioning actual bodily harm on

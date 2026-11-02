@@ -14,6 +14,7 @@ document: Human Rights/Kmart camera glasses - privacy and surveillance (HSC evid
 source: https://www.smartcompany.com.au/technology/privacy-watchdog-investigates-software-company-behind-89-kmart-smart-glasses/
 related: kmart-camera-glasses-2026, crimes-act-1900-s54d, smh-2026-fairleigh-coercive-control, bocsar-coercive-control-june-2026, murchin-enfield-no3-2026
 added: 2026-10-12
+updated_at: 2026-10-24 21:54
 ---
 
 The HSC companion to the Year 11 summary of the same story, and a different argument: not

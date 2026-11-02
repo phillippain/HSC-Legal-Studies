@@ -12,6 +12,7 @@ themes: dis.t.justice, dis.t.effectiveness
 criteria: accessibility, ruleoflaw, justice
 document11: Cases/Year 11/Year 11 - Lee and Minister for Immigration and Citizenship [2026] ARTA 2513 - Case Summary.pdf
 added: 2026-11-03
+updated_at: 2026-11-03 08:23
 ---
 
 A delegate refused an application for Australian citizenship (s 21(4)(e), *Australian Citizenship Act 2007*)

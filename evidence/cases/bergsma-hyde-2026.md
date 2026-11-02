@@ -12,6 +12,7 @@ themes: fam.t.effectiveness, fam.t.reform, fam.t.values
 criteria: rights, enforceability, resource, justice
 document: Jade Cases/Completed Case Summaries/Bergsma_and_Hyde_2026_FedCFamC1A_148_Case_Summary.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 The only **appeal** in the 2026 set. De facto relationship mid-2015 to late 2021; child X born 2019

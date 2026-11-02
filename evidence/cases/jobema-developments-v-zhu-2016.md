@@ -14,6 +14,7 @@ document: Cases/Shelter/Jobema v Zhu [2016] NSWSC 3 - Case Summary.pdf
 source: https://www.caselaw.nsw.gov.au/
 related: conveyancing-act-1919, garcia-v-nab-1998, brookfield-multiplex-2014
 added: 2026-10-23
+updated_at: 2026-10-24 10:52
 ---
 
 Xycom contracted on 6 December 2013 to sell Mr Raymond Wu an off-the-plan unit at Hurstville with a **sunset date of 31 December 2015**. Jobema bought the site in 2014-15 subject to the contract and assumed Xycom's obligations. After **s 66ZL of the *Conveyancing Act 1919* (NSW)** began on 2 November 2015, Jobema served notice on 1 December 2015 and applied for leave to rescind, saying construction costs and prices had risen.

@@ -14,6 +14,7 @@ document: Family/Surrogacy and Birth Tech/Why Surrogacy is a Cth Govt Issue .pdf
 source: https://www.legislation.gov.au/
 related: abc-2025-commercial-surrogacy-prosecution-referral, abc-2025-surrogacy-patchwork, international-surrogacy-parentage-declarations, masson-v-parsons-2019, bbc-fenton-glynn-international-surrogacy-rules, re-z-foreign-surrogacy-2024-ewfc-304, croc-1989
 added: 2026-10-24
+updated_at: 2026-10-24 21:55
 ---
 
 The jurisdictional map for surrogacy, which is the part students most often get wrong. Surrogacy is

@@ -13,6 +13,7 @@ criteria: enforceability, justice, ruleoflaw
 source: https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-vladimir-vladimirovich-putin-and
 related: rome-statute-1998, icc-under-pressure-2025-26, prosecutor-v-duterte-icc
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 On **17 March 2023** the ICC issued warrants for **Vladimir Putin** and **Maria Lvova-Belova** for the

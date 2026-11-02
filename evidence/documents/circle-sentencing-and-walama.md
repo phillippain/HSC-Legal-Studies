@@ -14,6 +14,7 @@ document: Crime/Sentencing and Punishment/Circle Sentencing Case.docx
 source: https://bocsar.nsw.gov.au
 related: bocsar-circle-sentencing, bugmy-v-the-queen-2013, young-offenders-act-1997
 added: 2026-10-19
+updated_at: 2026-10-24 21:47
 ---
 
 - **Circle sentencing** began at **Nowra Local Court in 2002**. An Aboriginal offender who has pleaded

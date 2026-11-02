@@ -14,6 +14,7 @@ document: News Articles/Crime/The Conversation 23Sept26 - Rape myths and sexual 
 source: https://theconversation.com/rape-myths-shape-how-we-respond-to-sexual-violence-what-are-they-and-what-impact-do-they-have-292594
 related: abc-2026-nsw-sexual-assault-prerecorded-evidence, evidence-amendment-tendency-coincidence-2020, use-of-evidence-and-witnesses
 added: 2026-09-24
+updated_at: 2026-10-24 21:47
 ---
 
 Jane Gilmore (Monash University), published the day after the NSW reforms were introduced, explaining

@@ -14,6 +14,7 @@ document: Family/Final Report of the Special Inquiry into Children and Young Peo
 source: https://www.acyp.nsw.gov.au/
 related: telegraph-2025-aca-ended, care-and-protection-of-children-evidence-sheet, smh-2026-marcus-foster-care, smh-2023-child-protection-failures, nit-2024-family-is-culture, inquest-blgn-and-dg-2018
 added: 2026-10-23
+updated_at: 2026-10-24 21:54
 ---
 
 > "They just move me around like a doggy in the pound pretty much, moving cage to cage."

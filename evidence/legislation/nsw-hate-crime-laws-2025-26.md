@@ -13,6 +13,7 @@ criteria: rights, responsiveness, ruleoflaw, society
 source: https://www.nsw.gov.au/ministerial-releases/stronger-protections-for-lgbtqia-community-pass-parliament
 related: crimes-act-1900-key-offences, lees-and-jarrett-protest-powers, terrorism-police-powers-act-2002
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 ## 2025: inciting racial hatred

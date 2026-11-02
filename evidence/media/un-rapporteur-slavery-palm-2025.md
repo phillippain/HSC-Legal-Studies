@@ -14,6 +14,7 @@ document: Human Rights/UN criticises Australia’s anti-slavery laws: Inside nat
 source: https://www.smh.com.au/national/no-health-cover-no-home-no-money-and-forced-to-choose-between-their-visa-or-their-baby-20250819-p5mo6g.html
 related: modern-slavery-act-2018, modern-slavery-in-australia, four-corners-2026-food-supply-chain, conversation-2026-migration-dfv, temporary-visas-family-violence-2026, iccpr-1966
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 **Tomoya Obokata**, the UN Special Rapporteur on contemporary forms of slavery, reported after an

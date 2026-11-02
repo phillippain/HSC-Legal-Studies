@@ -14,6 +14,7 @@ document: Cases/Human Rights/Abdel-Hady v Commonwealth [2026] HCA 17 - Evidence 
 source: https://www.hcourt.gov.au/cases-and-judgments/judgments/judgments-1998-current/abdel-hady-v-commonwealth-australia
 related: ombudsman-wrongful-detention-2026, australian-constitution-rights-and-powers, human-rights-in-australia-common-law-courts-media-charter, detention-and-interrogation-rights
 added: 2026-10-26
+updated_at: 2026-10-26 12:17
 ---
 
 In ***Al-Kateb v Godwin*** (2004) the High Court held 4:3 that indefinite immigration detention was

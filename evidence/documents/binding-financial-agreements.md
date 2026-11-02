@@ -14,6 +14,7 @@ document: Family/Binding Financial Agreements.pdf
 source: https://www.legislation.gov.au/C2004A00275/latest/text
 related: beitel-beitel-2026, family-law-amendment-act-2024-property, family-law-act-1975, amadio-1983, khoshaba-2006, pratley-pratley-no9-2026, silberman-figgins-2026
 added: 2026-10-24
+updated_at: 2026-10-24 13:27
 ---
 
 The private alternative to a court-ordered property settlement: a **contract** about how property,

@@ -13,6 +13,7 @@ criteria: justice, society, rights
 source: https://www.judcom.nsw.gov.au/publications/benchbks/children/CM_Sentencing_juvenile_offenders_on_indictment.html
 related: children-criminal-proceedings-act-1987, r-v-sld-2002, bugmy-v-the-queen-2013
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 - **R v GDP (1991)**: a 14-year-old's custodial sentence for extensive property damage was set aside

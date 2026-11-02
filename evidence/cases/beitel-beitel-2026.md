@@ -14,6 +14,7 @@ document: Jade Cases/Raw Cases/Beitel & Beitel [2026] FedCFamC1F 495.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: pratley-pratley-no9-2026, family-law-act-1975, amadio-1983, fry-read-no2-2026
 added: 2026-10-24
+updated_at: 2026-10-24 09:45
 ---
 
 The wife and her late husband married in **April 1996** and made a **financial agreement under s 90C

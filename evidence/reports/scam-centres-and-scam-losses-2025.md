@@ -13,6 +13,7 @@ criteria: enforceability, accessibility, society, rights
 source: https://www.accc.gov.au/
 related: modern-slavery-in-australia, cyber-sanctions-medibank
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 ## The losses

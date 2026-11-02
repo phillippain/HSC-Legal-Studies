@@ -14,6 +14,7 @@ document: Cases/Shelter/Radaich v Smith (1959) 101 CLR 209 - Case Summary.pdf
 source: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1959/45.html
 related: residential-tenancies-act-2010, boarding-houses-act-2012
 added: 2026-10-23
+updated_at: 2026-10-24 10:52
 ---
 
 Maria Radaich ran a milk bar in a Mosman lock-up shop under a five-year deed of 29 May 1954 that called her a **licensee**. She asked the Fair Rents Board to fix a fair rent; the owners said a licence was outside its jurisdiction.

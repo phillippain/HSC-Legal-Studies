@@ -13,6 +13,7 @@ criteria: justice, society, rights
 document: Cases/Crime/R v Blair [2026] NSWDC 382 - Evidence Summary.pdf
 related: bugmy-v-the-queen-2013, hamzy-v-commissioner-2026, crimes-administration-of-sentences-act-1999, crimes-sentencing-procedure-act-1999, r-v-walker-2026
 added: 2026-10-24
+updated_at: 2026-10-24 14:59
 ---
 
 On 11 January 2025, in a cell at Clarence Correctional Centre (a privately run maximum-security prison

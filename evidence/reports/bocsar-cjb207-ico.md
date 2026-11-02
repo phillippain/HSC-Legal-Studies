@@ -13,6 +13,7 @@ criteria: resource, society, justice
 source: https://bocsar.nsw.gov.au
 related: crimes-sentencing-procedure-act-1999, nswlrc-report-139-sentencing-2013
 added: 2026-10-19
+updated_at: 2026-10-24 21:47
 ---
 
 BOCSAR compared offenders given an intensive correction order with similar offenders given a prison

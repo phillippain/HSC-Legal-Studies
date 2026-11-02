@@ -13,6 +13,7 @@ criteria: accessibility, rights, enforceability, justice
 document: Cases/Human Rights/Cordle v Brooks [2026] FedCFamC2G 2081 - Evidence Summary.pdf
 related: australian-human-rights-commission-act-1986, commonwealth-discrimination-acts-housing, ktm24-v-rio-tinto-2026, australian-constitution-rights-and-powers
 added: 2026-10-24
+updated_at: 2026-10-24 21:55
 ---
 
 At a Wurgabup Rifle Club (WA) meeting on 7 November 2020, the Treasurer made an Australia Day remark

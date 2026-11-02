@@ -13,6 +13,7 @@ criteria: rights, ruleoflaw, justice, enforceability
 document: Crime/Criminal Trial Process/3c. Legal representation & Standard and burden of Proof.docx
 related: legal-representation-and-legal-aid, use-of-evidence-and-witnesses
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Joshua Higgins was convicted in the Local Court on three counts of assaulting his wife, and appealed

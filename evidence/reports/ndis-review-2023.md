@@ -13,6 +13,7 @@ criteria: accessibility, resource, responsiveness, rights
 source: https://www.ndisreview.gov.au/
 related: disability-royal-commission-2023, drc-government-response-2024, administrative-review-tribunal-act-2024, disability-discrimination-act-1992
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 The NDIS, created by the *National Disability Insurance Scheme Act 2013* (Cth), funds individual plans for about 650,000 people and had grown to more than $40 billion a year by 2023. The Albanese Government commissioned Bruce Bonyhady and Lisa Paul to review it.

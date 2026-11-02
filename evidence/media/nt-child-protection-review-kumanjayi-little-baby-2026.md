@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Family - NT Child Protection Review Kumanjay
 source: https://www.abc.net.au/news/2026-10-24/advocates-react-to-kumanjayi-little-baby-report-findings/107301294
 related: children-and-young-persons-care-and-protection-act-1998, care-and-protection-of-children-evidence-sheet, alpurrurulam-remote-nt-violence-2026, remote-nt-womens-safety-2026, nit-2024-family-is-culture, smh-2023-child-protection-failures, royal-commissions-acts
 added: 2026-10-23
+updated_at: 2026-10-26 09:56
 ---
 
 **Kumanjayi Little Baby**, a young Aboriginal girl, went missing from an Alice Springs town camp in

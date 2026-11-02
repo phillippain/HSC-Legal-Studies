@@ -14,6 +14,7 @@ document: Cases/Shelter/Senthilkumaran v Gosan (No 2) [2023] NSWSC 442 - Case Su
 source: https://www.caselaw.nsw.gov.au/
 related: anti-discrimination-act-1977, boarding-houses-act-2012, residential-tenancies-act-2010, shelter-discrimination-evidence-sheet, shelter-dispute-resolution-map
 added: 2026-10-23
+updated_at: 2026-10-24 10:52
 ---
 
 A resident of a registered general boarding house (14 bedrooms, 15 occupants) received a termination notice on 23 January 2023 after complaints from other residents. He sued the managing agent in the Supreme Court, alleging **racial discrimination** and fraud. Button J had refused an injunction on 6 February 2023.

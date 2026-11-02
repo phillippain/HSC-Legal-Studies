@@ -14,6 +14,7 @@ document: Family/NSW ends unaccredited emergency care for vulnerable children.pd
 source: https://www.dailytelegraph.com.au/
 related: acyp-special-inquiry-aca-2024, care-and-protection-of-children-evidence-sheet, smh-2026-marcus-foster-care, nit-2024-family-is-culture
 added: 2026-10-23
+updated_at: 2026-10-24 10:51
 ---
 
 For the first time in **more than two decades**, no child in NSW was living in unaccredited

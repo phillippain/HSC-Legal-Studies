@@ -13,6 +13,7 @@ criteria: rights, enforceability, accessibility, responsiveness, justice
 document: Family/Evidence Summaries/Baby broker: The ‘crazy car salesman’ brokering babies and holding embryos ‘hostage’.pdf
 related: daniels-rooney-2026, wilkerson-croxford-2026, croc-1989
 added: 2026-09-19
+updated_at: 2026-10-24 10:34
 ---
 
 | Issue | Evidence | The legal link |

@@ -14,6 +14,7 @@ document: Human Rights/HR - Nazi Salute Mandatory Minimum ANU Stickers Evidence 
 source: https://www.abc.net.au/news/2026-10-30/act-man-sentenced-nazi-salute-white-supremacist-stickers-anu/107328220
 related: hate-crimes-reform-2025-cth-and-nsw, nsw-hate-crime-laws-2025-26, abdul-wahab-v-r-2026, one-punch-laws-mandatory-sentencing
 added: 2026-11-03
+updated_at: 2026-11-03 08:40
 ---
 
 **Zachery James Hook** pleaded guilty (29 June 2026) to offensive behaviour on Commonwealth premises for neo-Nazi

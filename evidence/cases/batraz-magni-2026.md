@@ -13,6 +13,7 @@ criteria: rights, justice, enforceability
 document: Cases/Family/Batraz and Magni [2026] FedCFamC1F 626 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Batraz and Magni [2026] FedCFamC1F 626 - Case Summary.pdf
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 A father and mother disputed final parenting orders for their nine-year-old son, who had not seen his father since March 2024. On 16 September 2026 Jarrett J ordered that the child live with the mother, that she have sole parental responsibility and that he spend no time and have no communication with his father. The risk came from a deliberate pattern of threats and accusations, not one incident. Protective injunctions and a harmful proceedings order were also made.

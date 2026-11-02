@@ -14,6 +14,7 @@ document: Crime/Aboriginal-run rehab as an alternative to custody (Evidence summ
 source: https://www.abc.net.au/news/2026-10-17/aboriginal-controlled-rehabilitation-amid-australian-meth-crisis/107220668
 related: bocsar-circle-sentencing, bocsar-cjb279-jas-diversion, atsi-customary-law, nit-2024-family-is-culture, young-offenders-in-the-cjs, telegraph-2026-adult-crime-adult-time
 added: 2026-10-19
+updated_at: 2026-10-24 21:47
 ---
 
 An ABC feature on **Bunjilwarra** (Victoria, 12 beds, ages 16–25, run by the Victorian Aboriginal

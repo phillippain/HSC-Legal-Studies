@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Griffith NSW Childcare Abuse Charges Evidence Summ
 source: https://www.abc.net.au/news/2026-10-30/former-childcare-worker-ashley-griffith-child-abuse-offences-nsw/107326918
 related: childcare-safety-reforms-enforcement-gaps-2026, nsw-early-learning-child-safety-laws-2025, child-protection-working-with-children-act-2012, police-and-law-enforcement-agencies
 added: 2026-11-03
+updated_at: 2026-11-03 08:40
 ---
 
 Former childcare worker **Ashley Griffith** pleaded guilty in Queensland to **307 offences** (including 28 rapes)

@@ -13,6 +13,7 @@ criteria: justice, rights, ruleoflaw, resource
 source: https://www.nntt.gov.au/News-and-Publications/latest-news/Pages/Commonwealth-of-Australia-v-Yunupingu-Summary.aspx
 related: northern-territory-v-griffiths-timber-creek-2019, mabo-no2-1992, milirrpum-v-nabalco-1971, australian-constitution-rights-and-powers
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 The late Dr Galarrwuy Yunupingu, for the Gumatj clan of the Gove Peninsula — the same country as *Milirrpum* — claimed compensation for Commonwealth grants over Gumatj land between 1939 and 1969 (the bauxite leases among them), before the *Racial Discrimination Act 1975* made such acts compensable under the *Native Title Act*.

@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Alpurrurulam - remote NT family violence aft
 source: https://www.abc.net.au/news/2026-10-21/calls-for-action-on-violence-in-nt-communities/107291562
 related: remote-nt-womens-safety-2026, ahrc-yissa-shelter-closure-2026, crimes-domestic-personal-violence-act-2007, conversation-2026-dv-prevention-funding, nit-2024-family-is-culture, atsi-customary-law
 added: 2026-10-22
+updated_at: 2026-10-24 21:47
 ---
 
 On **12 October 2026** a 16-year-old girl died at the clinic in **Alpurrurulam**, a dry community

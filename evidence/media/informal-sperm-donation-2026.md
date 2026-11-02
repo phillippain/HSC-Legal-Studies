@@ -13,6 +13,7 @@ criteria: enforceability, rights, responsiveness, accessibility
 document: Family/Evidence Summaries/Family - Informal Sperm Donation Turkey Baster Evidence Summary.pdf
 related: surrogacy-act-2010-and-art-act-2007, masson-v-parsons-2019, art-law-reform-2019-2025, family-law-act-1975, surrogacy-birth-technology-evidence-file, telegraph-2025-public-ivf-postcode-lottery
 added: 2026-10-28
+updated_at: 2026-10-28 13:05
 ---
 
 Cost, waiting lists and donor shortages are pushing Australians from regulated IVF to **private sperm

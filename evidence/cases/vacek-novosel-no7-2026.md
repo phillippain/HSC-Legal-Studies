@@ -13,6 +13,7 @@ criteria: enforceability, resource, justice, responsiveness
 document: Cases/Family/Vacek & Novosel (No 7) [2026] FedCFamC2F 1040 - Case Summary.pdf
 related: family-law-act-1975, tanvil-batta-2026
 added: 2026-09-22
+updated_at: 2026-10-24 21:28
 ---
 
 The seventh judgment in one family's litigation. Earlier orders required the husband to pay the

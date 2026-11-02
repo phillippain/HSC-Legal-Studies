@@ -13,6 +13,7 @@ criteria: rights, justice, ruleoflaw
 document: Cases/Crime/Pele v R [2026] NSWCCA 172 - Evidence Summary.pdf
 related: hoang-v-the-queen-2022, skaf-brothers-rule-of-law, jury-act-1977, role-of-juries, chris-dawson-judge-alone-2022
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Pele was tried in October 2024 for specially aggravated kidnapping and aggravated break and enter

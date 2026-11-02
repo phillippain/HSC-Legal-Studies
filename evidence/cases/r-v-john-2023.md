@@ -14,6 +14,7 @@ document: Cases/Crime/R v John [2023] NSWChC 6 - Case Summary.pdf
 source: https://www.judcom.nsw.gov.au/publications/benchbks/children/cm_important_cases_youth_koori_court.html
 related: circle-sentencing-and-walama, children-criminal-proceedings-act-1987, croc-1989, bugmy-v-the-queen-2013, sentencing-young-offenders-gdp-kt, bocsar-cjb248-youth-koori-court, young-offenders-act-1997
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 The **Youth Koori Court** began as a pilot at Parramatta Children's Court in 2015 and expanded to

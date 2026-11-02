@@ -13,6 +13,7 @@ criteria: resource, responsiveness, enforceability, justice, rights
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1986-209
 related: criminal-procedure-act-1986, crimes-sentencing-procedure-act-1999, odpp-prosecution-guidelines, bocsar-criminal-courts-dec-2025, nswlrc-report-139-sentencing-2013, use-of-evidence-and-witnesses, abc-2026-nsw-sexual-assault-prerecorded-evidence
 added: 2026-10-22
+updated_at: 2026-10-24 21:55
 ---
 
 Most indictable matters in NSW end in a guilty plea, but before 2018 a large share were entered

@@ -14,6 +14,7 @@ document: Cases/Crime/R v White [2025] NSWSC 243 - Case Summary.pdf
 source: https://www.ruleoflaw.org.au/case-note-kristian-white
 related: chris-dawson-judge-alone-2022, lepra-2002, lecc-act-2016, victims-rights-and-support-act-2013, r-v-pullen-2018, crimes-sentencing-procedure-act-1999
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 Clare Nowland, 95, with dementia and using a walking frame, was walking the Yallambee Lodge aged-care

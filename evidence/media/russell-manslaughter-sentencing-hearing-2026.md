@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Russell Manslaughter Sentencing Hearing Evidence S
 source: https://www.abc.net.au/news/2026-10-23/tyrone-russell-sentenced-manslaughter/107299636
 related: crimes-sentencing-procedure-act-1999, crimes-act-homicide-defences, crimes-act-1900-key-offences, victims-rights-and-support-act-2013, jury-act-1977, markarian-v-the-queen-2005
 added: 2026-10-26
+updated_at: 2026-10-26 09:56
 ---
 
 **Samuel Liszczak** was shot dead on 9 November 2023 between Taree and Port Macquarie. **Tyrone Russell**

@@ -13,6 +13,7 @@ criteria: justice, rights, society
 document: Cases/Crime/R v Walker [2026] NSWDC 384 - Evidence Summary.pdf
 related: crimes-domestic-personal-violence-act-2007, bugmy-v-the-queen-2013, early-appropriate-guilty-plea-reforms-2018, r-v-billings-2026, r-v-blair-2026, bail-act-2013
 added: 2026-10-24
+updated_at: 2026-10-24 14:59
 ---
 
 Walker, 25, used a hammer to force the door of a home where the victim had sought refuge, knowing

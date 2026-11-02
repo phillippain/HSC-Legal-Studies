@@ -13,6 +13,7 @@ criteria: rights, ruleoflaw, responsiveness, society
 document: Cases/Crime/Jarrett v State of New South Wales [2026] NSWCA 62 - Case Summary.pdf
 source: https://www.caselaw.nsw.gov.au
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 - **February 2025**: a move-on power for protests near places of worship. *Lees v State of NSW* (Mitchelmore J, 16 October 2025): **invalid**. The Crimes Act offence of harassing worshippers remains. (*The Australian*, 16 October 2025.)

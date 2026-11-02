@@ -12,6 +12,7 @@ themes: crime.t.balance, crime.t.moral, crime.t.effectiveness
 criteria: ruleoflaw, resource, rights, justice, enforceability
 related: defences-to-criminal-charges, the-adversary-system-and-court-jurisdiction, royall-v-the-queen-1991, crimes-act-1900-key-offences, nsw-mobile-phone-detection-cameras, miller-v-the-queen-2016, summary-offences-act-1988
 added: 2026-09-20
+updated_at: 2026-10-24 21:47
 ---
 
 A reference note.

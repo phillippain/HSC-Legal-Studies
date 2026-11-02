@@ -13,6 +13,7 @@ criteria: responsiveness, society, justice, rights
 document: Crime/Criminal Trial Process/3d. Defences to Criminal Charges.docx
 related: r-v-singh-2012, defences-to-criminal-charges
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 After *R v Singh* (2012) and a parliamentary review, NSW replaced provocation with **extreme

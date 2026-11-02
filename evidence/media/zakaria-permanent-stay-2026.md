@@ -14,6 +14,7 @@ document: Crime/Criminal Trial Process/Zakaria permanent stay - AFP removal on t
 source: https://www.abc.net.au/news/2026-10-31/masood-zakaria-afp-turkiye-permanent-stay-application/107327138
 related: the-adversary-system-and-court-jurisdiction, police-and-law-enforcement-agencies, detention-and-interrogation-rights, dietrich-v-the-queen-1992, hamzy-v-commissioner-2026, international-crime-evidence-summary-2026, extradition-act-1988
 added: 2026-10-19
+updated_at: 2026-11-03 08:40
 ---
 
 Masood Zakaria, 31, charged over the **20 October 2021** Guildford murders of Salim and Toufik

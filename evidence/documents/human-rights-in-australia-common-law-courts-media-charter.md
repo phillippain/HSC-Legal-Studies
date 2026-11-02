@@ -12,6 +12,7 @@ themes: inv.t.justice, inv.t.values
 criteria: rights, enforceability, accessibility, ruleoflaw, society, justice
 related: individual-rights-and-responsibilities, kioa-v-west-1985, australian-communist-party-1951, ombudsman-and-statutory-bodies
 added: 2026-09-20
+updated_at: 2026-10-24 21:54
 ---
 
 A reference note.

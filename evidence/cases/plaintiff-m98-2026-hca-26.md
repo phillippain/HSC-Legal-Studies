@@ -12,6 +12,7 @@ themes: hr.t.sovereignty, hr.t.compliance, inv.t.justice
 criteria: accessibility, rights, ruleoflaw, justice
 document: Jade Cases/Completed Case Summaries/05_Plaintiff_M98-2025_v_Minister_2026_HCA_26.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 A Malaysian national assigned female at birth who identifies as male arrived in 2017 and applied for

@@ -13,6 +13,7 @@ criteria: justice, rights, accessibility, resource
 document: Cases/Family/Daalman & Daalman (No 2) [2026] FedCFamC2F 830 - Case Summary.pdf
 related: olmstead-olmstead-2026, connor-cosgrove-no2-2018, family-law-amendment-act-2023
 added: 2026-09-24
+updated_at: 2026-10-24 10:52
 ---
 
 A husband of 69, permanently incapacitated since 2012, with **$886,337 of injury payouts** on one

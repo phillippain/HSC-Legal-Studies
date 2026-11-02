@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, rights, ruleoflaw, society, justice
 document: Crime/Taser_Taser_Taser__A_Case_Study_on_Law_and_Procedure_Pertaining_To_Police_Tasers__Felicity_Graham.pdf
 related: dpp-v-carr-2002, r-v-rondo-2001, balzan-inquest-2025, use-of-evidence-and-witnesses, atsi-customary-law, bocsar-circle-sentencing
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 Wilcannia, 20 February 2011. Three officers came to arrest **Phillip Bugmy** at his grandmother's

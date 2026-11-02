@@ -14,6 +14,7 @@ document: Cases/Crime/R v Schade [2026] NSWSC 1345 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - R v Schade [2026] NSWSC 1345 - Case Summary.pdf
 related: crimes-sentencing-procedure-act-1999
 added: 2026-10-29
+updated_at: 2026-10-29 07:50
 ---
 
 ## Held

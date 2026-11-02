@@ -13,6 +13,7 @@ criteria: responsiveness, accessibility, enforceability, rights, resource, justi
 document: Cases/Family/DFFH & Haraldson [2026] FedCFamC1F 598 - Case Summary.pdf
 related: care-and-protection-of-children-evidence-sheet, croc-1989, family-law-act-1975, kegler-mansons-2026, kurbonova-hennigsen-2026, deng-2026
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 Two boys, six and four. Their parents married in Country B in 2017; a report of family violence in

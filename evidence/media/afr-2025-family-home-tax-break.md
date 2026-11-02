@@ -14,6 +14,7 @@ document: Shelter/Tax on the family home is ‘elephant in the room’ of reform
 source: https://www.afr.com/
 related: income-tax-assessment-act-1997-housing, first-home-buyer-concessions-nsw, federal-budget-2026-housing-tax-changes, abc-2025-home-owners-welfare-state, grattan-more-homes-better-cities-2025, smh-2025-renting-retirees-grattan, housing-shelter-or-asset-2026
 added: 2026-10-24
+updated_at: 2026-10-24 10:57
 ---
 
 Written after Treasurer **Jim Chalmers'** economic roundtable declared a consensus on

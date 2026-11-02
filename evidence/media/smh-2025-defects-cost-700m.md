@@ -14,6 +14,7 @@ document: Shelter/Sydney’s building defects cost $700m a year, but what is bei
 source: https://www.smh.com.au/national/nsw/stuart-didn-t-think-much-of-the-storage-room-then-he-came-home-to-a-flooded-flat-20250404-p5lpr6.html
 related: mascot-towers-s430-investigation-2023, afr-2019-opal-tower-defects, design-building-practitioners-act-2020, residential-apartment-buildings-act-2020, pafburn-2024, building-defects-reform-sequence
 added: 2026-10-24
+updated_at: 2026-10-24 10:51
 ---
 
 The *Herald*'s **Shoddy Sydney** series asks how far NSW has come since Opal Tower and Mascot

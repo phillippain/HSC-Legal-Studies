@@ -14,6 +14,7 @@ document: Shelter/Evidence Sheets/Shelter - Housing Delivery Authority 4000 Home
 source: https://www.nsw.gov.au/ministerial-releases/more-than-4000-homes-declared-state-significant
 related: planning-system-reforms-act-2025, environmental-planning-and-assessment-act-1979, nsw-planning-law-shelter-sheet, grattan-sydney-housing-2026
 added: 2026-10-28
+updated_at: 2026-10-28 08:25
 ---
 
 The **Housing Delivery Authority** (announced November 2024; written into the Act in 2025) is a panel of three

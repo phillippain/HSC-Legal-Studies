@@ -14,6 +14,7 @@ document: Family/Australia's complex patchwork of surrogacy laws is leaving some
 source: https://www.abc.net.au/news/
 related: international-surrogacy-parentage-declarations, masson-v-parsons-2019, farnell-chanbua-2016, surrogacy-birth-technology-evidence-file, smh-2026-surrogacy-baby-broker
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 In January 2025 **Justice Catherine Carew** of the Federal Circuit and Family Court **refused a

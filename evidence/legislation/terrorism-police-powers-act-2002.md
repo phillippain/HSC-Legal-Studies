@@ -12,6 +12,7 @@ themes: crime.t.balance, crime.t.reform
 criteria: rights, responsiveness, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2002-115
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 - **Part 2A — preventative detention (2005)**: a court order can detain a person aged **16+** for up to **14 days** to prevent an imminent terrorist act or preserve evidence after one. Not for questioning.

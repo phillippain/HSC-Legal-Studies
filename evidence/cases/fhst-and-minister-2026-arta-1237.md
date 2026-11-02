@@ -14,6 +14,7 @@ document: Cases/Human Rights/FHST_citizenship_admin_law_summary.pdf
 source: https://www.arta.gov.au/
 related: hallmann-v-southern-cross-no3-2026, administrative-review-tribunal-act-2024, refugee-2208816-2026-arta-1391, croc-1989, plaintiff-m98-2026-hca-26, samuelu-v-minister-2026
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 "FHST" is an **11-year-old Japanese citizen and Australian permanent resident**. Her father, an

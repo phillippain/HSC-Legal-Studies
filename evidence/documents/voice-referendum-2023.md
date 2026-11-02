@@ -14,6 +14,7 @@ source: https://results.aec.gov.au/29581/Website/ReferendumNationalResults-29581
 related: referendums-1901-2023-results, referendum-1967, australian-constitution-rights-and-powers
 added: 2026-10-24
 document11: Preliminary/Year 11 - Referendums 1967 and 2023 Compared Evidence Summary.pdf
+updated_at: 2026-10-26 09:40
 ---
 
 The Uluru Statement from the Heart (2017) asked for a constitutionally enshrined Voice to Parliament. The Albanese Government put a single question: to recognise Aboriginal and Torres Strait Islander peoples by establishing a Voice that "may make representations to the Parliament and the Executive Government" on matters relating to them, with Parliament to decide its composition and powers (proposed s 129).

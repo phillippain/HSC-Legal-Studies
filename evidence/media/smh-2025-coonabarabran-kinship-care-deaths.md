@@ -14,6 +14,7 @@ document: Family/Coonabarabran: Children removed from parents before alleged mur
 source: https://www.smh.com.au/
 related: smh-2025-jack-died-in-state-care, children-and-young-persons-care-and-protection-act-1998, lsj-2023-adoption-legacy-of-complexity, acyp-special-inquiry-aca-2024, smh-2024-foster-carers-quitting, inquest-db-2025, nit-2024-family-is-culture
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 Two boys, **aged six and seven** — one of whom **lived with cancer** — were found dead at a home in

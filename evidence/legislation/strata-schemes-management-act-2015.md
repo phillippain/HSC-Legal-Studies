@@ -14,6 +14,7 @@ document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2015-050
 related: cooper-2020, shelter-dispute-resolution-map, ncat-act-2013
 added: 2026-09-19
+updated_at: 2026-10-24 10:51
 ---
 
 Roughly one in ten Australians lives in strata. The scheme's own **by-laws** bind them, the **owners

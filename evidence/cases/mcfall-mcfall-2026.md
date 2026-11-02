@@ -13,6 +13,7 @@ criteria: justice, resource, accessibility
 document: Cases/Family/McFall and McFall [2026] FedCFamC1F 570 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - McFall and McFall [2026] FedCFamC1F 570 - Case Summary.pdf
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 After a relationship of over 26 years, a wife on a disability support pension asked for $250,000 for legal costs, spousal maintenance and valuations of a family farm run through two trusts. On 26 August 2026 McNab J, at an interim stage, ordered a $150,000 part property payment, $500 a week in maintenance (rising to $1,500 if she leaves), joint valuations and mediation, and left the trusts for the final hearing.

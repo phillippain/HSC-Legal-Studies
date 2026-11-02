@@ -14,6 +14,7 @@ source: https://www.lecc.nsw.gov.au/news-and-publications/publications/final-rep
 document: Crime/LECC Strip Search Inquiry - Fact Sheet 1 (2020).pdf
 related: young-offenders-in-the-cjs, bocsar-recorded-crime-june-2026
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 The library copy is the Commission's **Fact Sheet 1**, a one-page summary of the inquiry.

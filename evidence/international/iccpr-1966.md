@@ -11,6 +11,7 @@ support: hr.2.1, hr.2.2, hr.2.9, inv.6.2, inv.6.3, inv.7.2, inv.7.3, inv.6.4
 themes: hr.t.sovereignty, hr.t.compliance, inv.t.values, inv.t.justice
 criteria: enforceability, rights, ruleoflaw
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Australia ratified the ICCPR in **1980**. Because Australia is a **dualist** state, ratification does

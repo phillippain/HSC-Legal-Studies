@@ -13,6 +13,7 @@ criteria: justice, ruleoflaw, resource
 document: Cases/Family/Gin and Hing (No 14) [2026] FedCFamC1F 618 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Gin and Hing (No 14) [2026] FedCFamC1F 618 - Case Summary.pdf
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 Parenting litigation over one child has run since 2010. A father representing himself argued that a judge’s case-management comments created an apprehension of bias. On 14 September 2026 Johns J held bias was not established and the delay told against him, but called the application finely balanced, expected an appeal, and recused herself on prudential grounds. This is an interlocutory decision, not a parenting decision.

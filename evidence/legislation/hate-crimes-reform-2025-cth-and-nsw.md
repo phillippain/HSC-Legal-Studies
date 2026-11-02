@@ -14,6 +14,7 @@ document: News Articles/Human Rights/Antisemitism Law reform.pdf
 source: https://humanrights.gov.au/about/news/explainer-new-national-and-nsw-hate-crime-laws
 related: smh-2025-swastika-flag-charges, anti-discrimination-act-1977, wertheim-v-haddad-2025, smh-2025-hate-speech-lgbtiq-excluded, crimes-act-1900-key-offences, australian-human-rights-commission-act-1986, iccpr-1966, crimes-sentencing-procedure-act-1999
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 Two legislatures, three weeks, after a wave of attacks on the Jewish community in late 2024 and early

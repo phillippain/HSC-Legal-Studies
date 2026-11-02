@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Daniel Billings trial: Molly Ticehurst’s f
 source: https://www.smh.com.au/national/nsw/molly-s-family-thought-this-stage-of-their-nightmare-was-about-to-be-over-then-the-phone-rang-20260523-p5zzz2.html
 related: crimes-domestic-personal-violence-act-2007, crimes-sentencing-procedure-act-1999
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Daniel Billings **pleaded guilty** to murdering Molly Ticehurst in a 2024 domestic violence attack.

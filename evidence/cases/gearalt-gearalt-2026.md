@@ -13,6 +13,7 @@ criteria: rights, enforceability, justice
 document: Cases/Family/Gearalt and Gearalt [2026] FedCFamC1F 656 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Gearalt and Gearalt [2026] FedCFamC1F 656 - Case Summary.pdf
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 A final ADVO barred a father from going where the mother or three children lived. The parents and the Independent Children’s Lawyer then agreed to interim orders: the mother leaves the family home and the children live there with him. On 28 September 2026 Simpson J gave short reasons under s 69ZL, found the orders in the children’s best interests, and declared them inconsistent with the ADVO under ss 68P and 68Q. These are interim consent orders made on the papers, not a final decision.

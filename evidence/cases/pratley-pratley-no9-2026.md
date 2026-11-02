@@ -14,6 +14,7 @@ document: Jade Cases/Raw Cases/Pratley & Pratley (No 9) [2026] FedCFamC1F 398.rt
 source: https://www.fedcfamcourt.gov.au/
 related: connor-cosgrove-no2-2018, family-law-act-1975, family-law-amendment-act-2023
 added: 2026-10-24
+updated_at: 2026-10-24 09:45
 ---
 
 A long marriage in which the parties built **a highly successful business together**. After

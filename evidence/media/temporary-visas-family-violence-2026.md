@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Temporary visas and family violence (Evidenc
 source: https://www.abc.net.au/news/2026-10-19/migrant-temporary-visas-family-violence-risk/106737340
 related: conversation-2026-migration-dfv, crimes-act-1900-s54d, crimes-domestic-personal-violence-act-2007, remote-nt-womens-safety-2026, good-weekend-2025-forced-marriage, conversation-2026-dv-prevention-funding
 added: 2026-10-19
+updated_at: 2026-10-24 21:54
 ---
 
 The **family violence provisions** in Division 1.5 and Schedule 2 of the *Migration Regulations 1994*

@@ -12,6 +12,7 @@ themes: shel.t.reform, shel.t.effectiveness, shel.t.cooperation
 criteria: responsiveness, rights, enforceability, justice
 related: residential-tenancies-act-2010
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Before the reform, **45%** of NSW leases ended with **no reason given**. One year after the

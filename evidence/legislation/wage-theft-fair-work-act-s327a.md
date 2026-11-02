@@ -13,6 +13,7 @@ criteria: responsiveness, enforceability, rights, society
 source: https://www.normans.com.au/news/new-criminal-wage-theft-laws-commenced-on-1-january-2025
 related: crimes-act-1900-key-offences
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 From **1 January 2025** an employer commits an offence if it **intentionally** engages in conduct that

@@ -13,6 +13,7 @@ criteria: rights, enforceability, accessibility, responsiveness, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2013-097
 related: residential-land-lease-communities-amendment-act-2024, brooms-head-over-55s-rule-ncat-2026, holiday-parks-long-term-casual-occupation-act-2002, ncat-act-2013, strata-schemes-management-act-2015, retirement-villages-act-1999
 added: 2026-10-22
+updated_at: 2026-10-24 21:28
 ---
 
 A **land lease community** (once called a residential park or caravan park) is a place where

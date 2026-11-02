@@ -12,6 +12,7 @@ themes: shel.t.effectiveness, shel.t.values, shel.t.reform
 criteria: accessibility, society, rights, justice
 related: icescr-1966, anao-haff-2026
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Anglicare surveys every listing advertised on a single weekend and tests each against income

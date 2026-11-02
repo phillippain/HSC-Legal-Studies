@@ -13,6 +13,7 @@ criteria: society, responsiveness, resource
 source: https://www.firesticks.org.au/
 related: indigenous-rangers-and-protected-areas, aiatsis-kinship-and-country, royal-commissions-acts
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Cultural burning is cool, patchy, seasonal burning read from Country — the right fire for each plant community, lit by the people with responsibility for it. It is an obligation under Lore, suppressed for most of the twentieth century and re-emerging through Indigenous-led practice.

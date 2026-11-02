@@ -14,6 +14,7 @@ document: Family/Domestic violence community prevalence measures BOCSAR.pdf
 source: https://bocsar.nsw.gov.au/topic-areas/domestic-violence/domestic-violence-community-prevalence-measures.html
 related: bocsar-coercive-control-june-2026, bocsar-cjb278-dfv-typology, crimes-domestic-personal-violence-act-2007, family-law-council-2024-disincentives-and-systems-abuse, conversation-2026-dv-prevention-funding, bocsar-recorded-crime-june-2026
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 A short BOCSAR page that is more useful than its length suggests, because it is about **how you would

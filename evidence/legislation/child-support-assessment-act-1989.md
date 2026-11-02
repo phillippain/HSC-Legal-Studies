@@ -13,6 +13,7 @@ criteria: enforceability, accessibility, resource, responsiveness, justice
 source: https://www.legislation.gov.au/C2004A03854/latest/text
 related: wnzp-child-support-2026, xtxd-child-support-2026, copeland-masters-2025, three-child-support-reviews-2026, family-law-act-1975, administrative-review-tribunal-act-2024, lone-fathers-association
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 Until 1988 a separated parent seeking money for a child had to sue the other parent in court for

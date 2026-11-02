@@ -14,6 +14,7 @@ document: Cases/Family/Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case 
 document11: Cases/Year 11/Year 11 - Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary.pdf
 related: pratley-pratley-no9-2026
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 After a property judgment of 18 June 2026 gave the wife 58 per cent, she asked for $500,000 in costs of two abandoned trials (June and October 2023) and the final trial (October 2025). On 24 September 2026 Gill J held the husband’s late disclosure caused both losses and ordered $67,715.06, offset against what she owed him. This is a final costs ruling, not a property decision.

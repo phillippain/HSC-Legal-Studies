@@ -13,6 +13,7 @@ criteria: resource, responsiveness, society, enforceability
 related: anglicare-rental-affordability-2026
 document: Shelter/Housing Australia Future Fund.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 10:51
 ---
 
 As at May 2026, **1,432** of a targeted **40,000** Housing Australia Future Fund homes had been

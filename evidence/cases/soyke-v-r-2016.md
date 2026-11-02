@@ -13,6 +13,7 @@ criteria: justice, enforceability, society
 document: Cases/Crime/Soyke v R [2016] NSWCCA 112 - Case Summary.pdf
 related: cdpp-v-tk-2018, criminal-code-cth-transnational-offences, untoc-and-cybercrime-convention
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 ## Facts

@@ -14,6 +14,7 @@ document: Crime/Criminal Trial Process/3b. Pleas & Charge negotiation.docx
 related: crimes-sentencing-procedure-act-1999, shine-v-r-2016
 source: https://theconversation.com/plea-bargains-and-the-efficiencies-of-justice-8440
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Koch severely beat his former partner. Police gathered extensive evidence and charged him with

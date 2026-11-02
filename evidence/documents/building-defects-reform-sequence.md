@@ -13,6 +13,7 @@ criteria: responsiveness, enforceability, rights, society, justice
 document: Shelter/12LS 2026 AT4 Q30b Response Structure.docx
 related: brookfield-multiplex-2014, pafburn-2024, design-building-practitioners-act-2020, residential-apartment-buildings-act-2020
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 ## The sequence

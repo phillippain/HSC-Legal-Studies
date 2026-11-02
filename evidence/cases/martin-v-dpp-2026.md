@@ -13,6 +13,7 @@ criteria: justice, rights, ruleoflaw
 document: Cases/Crime/Martin v DPP (NSW) [2026] NSWSC 1288 - Case Summary.pdf
 related: woolmington-v-dpp-1935, criminal-procedure-act-1986, evidence-act-1995, the-adversary-system-and-court-jurisdiction
 added: 2026-10-28
+updated_at: 2026-10-28 08:24
 ---
 
 Mr Martin was tried in the **Local Court** over four days (June and December 2025; 241 pages of

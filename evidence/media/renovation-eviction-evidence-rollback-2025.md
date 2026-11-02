@@ -14,6 +14,7 @@ document: Shelter/Renovation eviction evidence rollback - LSJ 31 July 2025.pdf
 source: https://lsj.com.au/articles/new-eviction-laws-criticised-by-renters-advocates/
 related: residential-tenancies-amendment-act-2024, residential-tenancies-act-2010, nsw-rental-taskforce-2025, nsw-tenancy-law-the-last-decade, taap-funding-submission-2024, tenants-union-enews-feb-2025, tenants-union-digest-aug-2025
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 The *Residential Tenancies Amendment Act 2024* (NSW) ended no-grounds evictions from **19 May

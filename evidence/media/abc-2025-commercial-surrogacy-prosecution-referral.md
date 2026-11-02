@@ -14,6 +14,7 @@ document: Family/Australian couple could face prosecution after using commercial
 source: https://www.abc.net.au/news/2025-05-01/queensland-couple-commercial-surrogacy-court-application-baby/105227774
 related: abc-2025-surrogacy-patchwork, surrogacy-act-2010-and-art-act-2007, international-surrogacy-parentage-declarations, farnell-chanbua-2016, overseas-surrogacy-as-a-commonwealth-issue, telegraph-2025-colombian-surrogacy-nightmare, smh-2025-surrogacy-inquiry
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 A Brisbane couple who had been trying to have a child for **more than 15 years** paid a company

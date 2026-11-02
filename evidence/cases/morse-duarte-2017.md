@@ -13,6 +13,7 @@ criteria: rights, society, justice, responsiveness
 document: Family/Cases/2.3 Family law cases.pdf
 related: kendrick-kendrick-2016, crimes-domestic-personal-violence-act-2007, care-and-protection-of-children-evidence-sheet
 added: 2026-09-20
+updated_at: 2026-10-24 21:47
 ---
 
 The parents separated around September 2013; the three children lived with their mother under

@@ -14,6 +14,7 @@ document: Crime/Media/Crime - AFP Youth Radicalisation Data Evidence Summary.pdf
 source: https://www.abc.net.au/news/2026-10-27/afp-data-shatters-youth-radicalisation-assumptions/107316300
 related: young-offenders-in-the-cjs, terrorism-police-powers-act-2002, online-safety-act-2021-and-social-media-minimum-age, nsw-firearms-reforms-and-gun-buyback-2026
 added: 2026-10-28
+updated_at: 2026-10-28 08:25
 ---
 
 The AFP analysed **55 radicalised children**, all **boys aged 12 to 17**. **All** were radicalised wholly or

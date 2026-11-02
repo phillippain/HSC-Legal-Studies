@@ -14,6 +14,7 @@ document: Cases/Shelter/Anderson v Kincumber [2025] NSWCATCD 90 - Case Summary.p
 source: https://www.caselaw.nsw.gov.au/
 related: residential-land-lease-communities-act-2013, residential-land-lease-communities-amendment-act-2024, fair-trading-act-1987, kincumber-nautical-village-v-morris-2021, brooms-head-over-55s-rule-ncat-2026
 added: 2026-10-23
+updated_at: 2026-10-24 10:52
 ---
 
 Michael Anderson signed a site agreement at Kincumber Nautical Village on 3 January 2020. The site fee rose each year by **CPI plus 3.75% plus a share of the operator's cost rises**. In November 2023 the operator gave notice of a rise from $242 to $268 a week from 7 December 2023. His Tenants' Union solicitors applied to NCAT on 19 March 2024.

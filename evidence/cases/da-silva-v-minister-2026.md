@@ -13,6 +13,7 @@ criteria: rights, ruleoflaw, accessibility, responsiveness, justice
 document: Jade Cases/Completed Case Summaries/Da Silva v Minister Case Summary.pdf
 related: samuelu-v-minister-2026, croc-1989
 added: 2026-09-19
+updated_at: 2026-10-24 21:55
 ---
 
 In 2017 a delegate cancelled Mr Da Silva's partner visa on character grounds. In January 2019 the

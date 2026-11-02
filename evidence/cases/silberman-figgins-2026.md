@@ -14,6 +14,7 @@ document: Jade Cases/Raw Cases/Silberman & Figgins [2026] FedCFamC1F 490.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: pratley-pratley-no9-2026, beitel-beitel-2026, legal-representation-and-legal-aid, family-law-act-1975
 added: 2026-10-24
+updated_at: 2026-10-24 09:45
 ---
 
 Ms Silberman **lives with significant disabilities and is not in paid employment**. Interim orders

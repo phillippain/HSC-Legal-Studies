@@ -12,6 +12,7 @@ themes: inv.t.justice
 criteria: ruleoflaw, rights, justice, society
 related: kable-v-dpp-1996, kioa-v-west-1985, basic-legal-concepts
 added: 2026-09-19
+updated_at: 2026-10-24 10:51
 ---
 
 The *Communist Party Dissolution Act 1950* (Cth) dissolved the Communist Party, allowed the

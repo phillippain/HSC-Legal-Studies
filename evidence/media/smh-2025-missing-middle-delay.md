@@ -14,6 +14,7 @@ document: Shelter/Australia housing crisis: Planned 100,000 new homes in NSW sti
 source: https://www.smh.com.au/national/nsw/these-changes-promised-to-deliver-100-000-homes-fourteen-months-later-they-re-still-not-here-20250219-p5ldab.html
 related: grattan-housing-affordability-2018, nsw-no-grounds-reform-2026, housing-shelter-or-asset-2026, first-home-guarantee-expansion-2025, group-renting-cotenancy-2026
 added: 2026-10-24
+updated_at: 2026-10-24 09:16
 ---
 
 The Minns government announced its **"missing middle"** policy in **November 2023** — low- and

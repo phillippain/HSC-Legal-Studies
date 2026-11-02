@@ -13,6 +13,7 @@ criteria: rights, responsiveness, society, justice
 document: Crime/Media/Crime - Youth Crime Younger Offenders Online Recruitment Evidence Summary.pdf
 related: afp-youth-radicalisation-data-2026, young-offenders-act-1997, bail-act-2013, young-offenders-in-the-cjs, guardian-2025-youth-detention-bail, marsden-park-teen-bail-refused-2026, telegraph-2026-adult-crime-adult-time
 added: 2026-11-02
+updated_at: 2026-11-02 07:01
 ---
 
 Police and the AFP warn of younger children involved in violent crime and recruited online by organised crime.

@@ -13,6 +13,7 @@ criteria: justice, rights, society
 document: Cases/Crime/Bugmy v The Queen [2013] HCA 37 - Case Summary.pdf
 related: crimes-sentencing-procedure-act-1999, bocsar-circle-sentencing, r-v-billings-2026, veen-v-the-queen-no2-1988, r-v-john-2023, circle-sentencing-and-walama
 added: 2026-10-19
+updated_at: 2026-10-24 21:47
 ---
 
 William Bugmy, an Aboriginal man from Wilcannia who grew up amid alcohol abuse and violence, began

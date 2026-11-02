@@ -15,6 +15,7 @@ document11: Preliminary/Year 11 - Experiences with the Law - NT Teen Terror Char
 source: https://www.abc.net.au/news/2026-10-29/nt-teen-terror-charges-extremism-3d-printed-gun-schematics/107322362
 related: afp-youth-radicalisation-data-2026, young-offenders-in-the-cjs, terrorism-police-powers-act-2002, nsw-firearms-reforms-and-gun-buyback-2026
 added: 2026-10-30
+updated_at: 2026-10-30 07:35
 ---
 
 After a Crime Stoppers tip-off about violent extremist material online, the NT Joint Counter Terrorism Team

@@ -14,6 +14,7 @@ document: Family/Foster carers beg for support as record numbers quit the system
 source: https://www.smh.com.au/national/nsw/foster-carers-beg-for-support-as-record-numbers-quit-the-system-20240301-p5f967.html
 related: acyp-special-inquiry-aca-2024, telegraph-2025-aca-ended, smh-2026-marcus-foster-care, care-and-protection-of-children-evidence-sheet, nit-2024-family-is-culture
 added: 2026-10-23
+updated_at: 2026-10-24 08:27
 ---
 
 ## The supply problem behind every other problem

@@ -14,6 +14,7 @@ document: Shelter/Evidence Sheets/Shelter - House Prices Seventh Fall and Invest
 source: https://www.abc.net.au/news/2026-11-02/house-prices-fall-in-october-biggest-downturn-40-years-cotality/107325214
 related: federal-budget-2026-housing-tax-changes, income-tax-assessment-act-1997-housing, housing-shelter-or-asset-2026, grattan-sydney-housing-2026, build-to-rent-tax-concessions-2024
 added: 2026-11-03
+updated_at: 2026-11-03 08:40
 ---
 
 National home values fell **1.2%** in October 2026, a **seventh** monthly fall, leaving them **6.7%** (about $63,400) below

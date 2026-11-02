@@ -13,6 +13,7 @@ criteria: rights, responsiveness, society
 source: https://www.legislation.vic.gov.au/in-force/acts/yarra-river-protection-wilip-gin-birrarung-murron-act-2017
 related: walker-v-nsw-1994, atsi-customary-law, mldrin-basin-aboriginal-water
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 *Wilip-gin Birrarung murron* is Woi-wurrung for "keep the Birrarung alive". The Act opens with a preamble in Woi-wurrung and English written by the Wurundjeri, recognising the river as the lifeblood of the Wurundjeri and their "intrinsic connection" to it.

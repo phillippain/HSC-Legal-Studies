@@ -12,6 +12,7 @@ themes: crime.t.effectiveness, crime.t.compliance, hr.t.sovereignty, inv.t.value
 criteria: enforceability, ruleoflaw, society, responsiveness, justice
 document: Human Rights/12LEG3 2026 International Crime Evidence Summary.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 International crime is criminal conduct with a significant international dimension: it either

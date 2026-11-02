@@ -14,6 +14,7 @@ document: Family/Life Without Barriers CPOC.pdf
 source: https://www.dailytelegraph.com.au/
 related: smh-2024-foster-carers-quitting, acyp-special-inquiry-aca-2024, telegraph-2025-aca-ended, smh-2026-marcus-foster-care, children-and-young-persons-care-and-protection-act-1998, inquest-db-2025
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 A Sunday Telegraph special report in which **five former and current staff** of **Life Without

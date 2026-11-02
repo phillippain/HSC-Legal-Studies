@@ -14,6 +14,7 @@ document: Cases/Family/HCV v Children’s Guardian - NSW Caselaw.pdf
 source: https://www.caselaw.nsw.gov.au/
 related: gta-v-childrens-guardian-2026, child-protection-working-with-children-act-2012, child-protection-offenders-registration-act-2000, ncat-act-2013, early-appropriate-guilty-plea-reforms-2018
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 In 2002, aged 19 and a college student in Queensland, HCV pleaded guilty to one count of **unlawful

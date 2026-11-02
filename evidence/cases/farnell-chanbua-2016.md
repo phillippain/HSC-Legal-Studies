@@ -13,6 +13,7 @@ criteria: rights, enforceability, society, justice, responsiveness
 document: Family/Cases/3.3 Family law cases.pdf
 related: surrogacy-birth-technology-evidence-file, smh-2026-surrogacy-baby-broker, telegraph-2025-monash-ivf-mixup
 added: 2026-09-20
+updated_at: 2026-10-24 08:27
 ---
 
 After years of trying and **ten IVF cycles**, the Farnells engaged **commercial surrogacy in

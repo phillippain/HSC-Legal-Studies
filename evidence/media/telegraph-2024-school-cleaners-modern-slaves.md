@@ -14,6 +14,7 @@ document: Human Rights/School cleaners are 'modern slaves' and taxpayers foot bi
 source: https://www.dailytelegraph.com.au/
 related: modern-slavery-act-2018, smh-2024-sarah-sexual-servitude, smh-2025-embassies-domestic-workers, global-slavery-index-2023, wage-theft-fair-work-act-s327a, un-rapporteur-slavery-palm-2025
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 In **April 2024** the NSW Anti-slavery Commissioner, **Dr James Cockayne**, wrote to several Minns

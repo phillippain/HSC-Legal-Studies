@@ -13,6 +13,7 @@ criteria: accessibility, resource, justice, responsiveness
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1979-078
 related: lsj-2025-legal-aid-housing-demand, taap-funding-submission-2024, dietrich-v-the-queen-1992, ncat-tenancy-disputes, community-justice-centres-act-1983, shelter-dispute-resolution-map
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 The Act creates the **Legal Aid Commission of New South Wales** (trading as Legal Aid NSW) as an

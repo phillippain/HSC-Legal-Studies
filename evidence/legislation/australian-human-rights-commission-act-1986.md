@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, responsiveness, rights, justice
 source: https://www.legislation.gov.au/C2004A03366/latest/text
 related: commonwealth-discrimination-acts-housing, ahrc-balancing-act-2026, ahrc-yissa-shelter-closure-2026, ombudsman-and-statutory-bodies, human-rights-in-australia-common-law-courts-media-charter, iccpr-1966, croc-1989, australian-constitution-rights-and-powers, anti-discrimination-act-1977
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 The **Australian Human Rights Commission** (the Human Rights and Equal Opportunity Commission until

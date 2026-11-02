@@ -14,6 +14,7 @@ document: Crime/Criminal Trial Process/Town Hall protest CCTV subpoena ruling (E
 source: https://www.abc.net.au/news/2026-10-20/nsw-new-cctv-of-police-town-hall-sydney-protest/107285036
 related: lecc-operation-makalu-2026, lees-and-jarrett-protest-powers, lepra-2002, use-of-evidence-and-witnesses, the-adversary-system-and-court-jurisdiction, crimes-act-1900-key-offences
 added: 2026-10-21
+updated_at: 2026-10-24 21:54
 ---
 
 **Sixteen protesters**, led by Adam Adelpour, face trial over the **9 February 2026** Town Hall rally

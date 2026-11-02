@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, justice, resource, rights
 document: Cases/Family/Copeland and Masters [2025] ARTA 3315 - Case Summary.pdf
 related: brigham-hibler-2026, swynnerton-swynnerton-2026, three-child-support-reviews-2026
 added: 2026-10-12
+updated_at: 2026-10-24 10:52
 ---
 
 A father paying child support for two children, with **less than 14% care**, paid **$409.38** of

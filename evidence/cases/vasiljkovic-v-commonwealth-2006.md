@@ -13,6 +13,7 @@ criteria: enforceability, rights, ruleoflaw, justice
 document: Cases/Crime/Vasiljkovic v Commonwealth [2006] HCA 40 - Case Summary.pdf
 related: extradition-act-1988, international-crime-evidence-summary-2026, prosecutor-v-duterte-icc
 added: 2026-10-23
+updated_at: 2026-10-24 21:54
 ---
 
 ## Facts

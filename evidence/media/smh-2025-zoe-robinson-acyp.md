@@ -14,6 +14,7 @@ document: Family/Lunch with Zoe Robinson: The time Mark Latham savaged the NSW a
 source: https://www.smh.com.au/
 related: acyp-special-inquiry-aca-2024, telegraph-2025-aca-ended, children-and-young-persons-care-and-protection-act-1998, croc-1989, smh-2026-marcus-foster-care, telegraph-2025-life-without-barriers-whistleblowers, senate-youth-justice-inquiry-2026
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 A profile of **Zoe Robinson**, the **NSW Advocate for Children and Young People** — the statutory

@@ -12,6 +12,7 @@ themes: exp.t.values, exp.t.justice
 criteria: society, rights, justice, responsiveness, accessibility
 related: law-in-practice-responses-and-effectiveness, law-reform-conditions-agencies-mechanisms
 added: 2026-09-20
+updated_at: 2026-10-24 10:51
 ---
 
 A reference note. Every example below is a record in this finder, so an investigation can be built

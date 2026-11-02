@@ -14,6 +14,7 @@ document: Shelter/Torrens Title Example Contract of Sale.pdf
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1919-006
 related: contract-for-sale-of-land-2022-residential, conveyancing-act-1919, law-society-selling-a-home-checklist, guide-to-purchasing-your-home-nsw, real-property-act-1900, environmental-planning-and-assessment-act-1979
 added: 2026-10-24
+updated_at: 2026-10-24 21:28
 ---
 
 Despite the library filename, this is not a residential Torrens example. It is the **contract for the

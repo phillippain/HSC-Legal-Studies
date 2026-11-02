@@ -12,6 +12,7 @@ themes: crime.t.balance, crime.t.moral, crime.t.reform
 criteria: rights, justice, ruleoflaw
 related: dpp-nsw-v-nw-doli-incapax, children-criminal-proceedings-act-1987, bocsar-cjb268-doli-incapax, doli-incapax-diversion-reforms-2025
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 RP was convicted of sexual offences against his younger brother, committed when RP was between

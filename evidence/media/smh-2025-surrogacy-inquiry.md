@@ -13,6 +13,7 @@ criteria: accessibility, responsiveness, rights, resource, justice
 document: Family/Surrogacy Australia: Inquiry examines how government can make path to parenthood easier.pdf
 related: surrogacy-birth-technology-evidence-file, heraldsun-2025-ivf-medicare-definition
 added: 2026-09-20
+updated_at: 2026-10-24 10:51
 ---
 
 Jennifer McCloy carried a baby for her best friend, Edwina Peach, after multiple miscarriages. She

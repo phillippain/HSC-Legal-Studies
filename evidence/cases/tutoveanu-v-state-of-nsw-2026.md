@@ -13,6 +13,7 @@ criteria: accessibility, rights, enforceability
 document: Cases/Human Rights/Tutoveanu v State of NSW [2026] FCA 1624 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Tutoveanu v State of NSW [2026] FCA 1624 - Case Summary.pdf
 added: 2026-11-03
+updated_at: 2026-11-03 08:23
 ---
 
 After the Australian Human Rights Commission terminated his complaint (20 March 2026, s 46PH(1)(c)), Mr

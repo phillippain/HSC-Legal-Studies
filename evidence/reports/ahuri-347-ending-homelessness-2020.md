@@ -14,6 +14,7 @@ document: Shelter/AHURI Final Report 347 - Ending homelessness in Australia (202
 source: https://www.ahuri.edu.au/research/final-reports/347
 related: homelessness-nsw-place-to-call-home-2025, shelter-homelessness-evidence-sheet, abs-homelessness-census-2021, guardian-2025-pari-move-on, right-to-housing-comparative, ahuri-fr454-renttech-2026
 added: 2026-10-22
+updated_at: 2026-10-24 08:27
 ---
 
 The **Australian Housing and Urban Research Institute** is the national, government-funded housing

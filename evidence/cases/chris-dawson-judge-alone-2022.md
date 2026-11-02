@@ -14,6 +14,7 @@ document: Cases/Crime/R v Dawson [2022] NSWSC 1131 - Case Summary.pdf
 source: https://www.ruleoflaw.org.au/case-note-chris-dawson
 related: r-v-kl-2025, kristian-white-clare-nowland, woolmington-v-dpp-1935, hoang-v-the-queen-2022, jury-act-1977
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 Lynette Dawson was last heard from on 8 January 1982. Her husband Christopher, a teacher at Cromer

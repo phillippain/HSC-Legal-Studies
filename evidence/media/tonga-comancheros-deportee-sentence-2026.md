@@ -13,6 +13,7 @@ criteria: enforceability, society, responsiveness, justice
 document: Crime/Media/Crime - Tonga Comancheros Deportee Sentence Evidence Summary.pdf
 related: criminal-code-cth-transnational-offences, untoc-and-cybercrime-convention, nsw-organised-crime-reforms-2026, kioa-v-west-1985, aap-2026-weipa-people-smuggling
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 Eneasi Taumoefolau moved to Australia from Tonga as a child in 1989 and was **deported in October

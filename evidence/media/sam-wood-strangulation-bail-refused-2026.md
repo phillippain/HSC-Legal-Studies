@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Family - Sam Wood Strangulation Charges Bail
 source: https://www.abc.net.au/news/2026-10-31/qld-sam-wood-denied-bail-what-happens-next/107328044
 related: crimes-domestic-personal-violence-act-2007, crimes-act-1900-s54d, bail-act-2013, marsden-park-teen-bail-refused-2026
 added: 2026-11-02
+updated_at: 2026-11-02 07:01
 ---
 
 Television personality **Sam Wood** was charged with **assault occasioning bodily harm** and **choking, suffocation or

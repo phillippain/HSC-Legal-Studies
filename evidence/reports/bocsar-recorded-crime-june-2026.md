@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, society, justice
 source: https://bocsar.nsw.gov.au
 document: Cases/BOCSAR/BOCSAR June2026 Crime Summary.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 58 pages, 13 major offences, 62 offence types, 28 SA4s. Published quarterly — the September

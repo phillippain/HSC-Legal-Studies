@@ -13,6 +13,7 @@ criteria: ruleoflaw, justice, enforceability, rights
 document: Cases/Crime/Nulyarimma v Thompson [1999] FCA 1192 - Case Summary.pdf
 related: international-law-and-australian-law, rome-statute-1998, international-crime-evidence-summary-2026
 added: 2026-10-23
+updated_at: 2026-10-24 21:54
 ---
 
 ## Facts

@@ -14,6 +14,7 @@ document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx
 source: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWCA/2006/41.html
 related: amadio-1983, shelter-dispute-resolution-map
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 The Khoshabas, a couple with limited English and limited financial experience, mortgaged their home

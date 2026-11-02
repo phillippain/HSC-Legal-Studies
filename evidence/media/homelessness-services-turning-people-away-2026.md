@@ -14,6 +14,7 @@ document: Shelter/Evidence Sheets/Shelter - Homelessness Services Turning People
 source: https://www.newsbeep.com/au/943844/
 related: homelessness-nsw-place-to-call-home-2025, shelter-homelessness-evidence-sheet, abs-homelessness-census-2021, ahuri-347-ending-homelessness-2020, housing-australia-future-fund-act-2023
 added: 2026-10-29
+updated_at: 2026-10-29 06:58
 ---
 
 A UNSW survey for Homelessness Australia, released before the mid-year budget update, found almost **two in three**

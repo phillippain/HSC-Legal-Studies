@@ -13,6 +13,7 @@ criteria: rights, ruleoflaw, enforceability, justice
 document: Crime/NSW Police Powers - Two-Page Summary.pdf
 related: detention-and-interrogation-rights, dpp-v-carr-2002
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Police stopped Rondo because a young man was driving an expensive car in a manner they thought did

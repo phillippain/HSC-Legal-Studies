@@ -13,6 +13,7 @@ criteria: accessibility, resource, justice, responsiveness, enforceability
 document: Cases/Family/Van & Aixin (No 3) [2026] FedCFamC1F 601 - Case Summary.pdf
 related: charis-charis-no2-2026, zeelan-abney-no3-2026, family-courts-and-dispute-resolution, daalman-daalman-no2-2026, family-law-act-1975
 added: 2026-10-22
+updated_at: 2026-10-24 08:27
 ---
 
 A separated couple with a seven-year-old, property proceedings still running. In August 2025 the

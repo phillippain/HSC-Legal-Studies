@@ -14,6 +14,7 @@ document: Family/International Surrogacy BBC Article.pdf
 source: https://www.bbc.com/news
 related: re-z-foreign-surrogacy-2024-ewfc-304, farnell-chanbua-2016, international-surrogacy-parentage-declarations, abc-2025-commercial-surrogacy-prosecution-referral, overseas-surrogacy-as-a-commonwealth-issue, croc-1989
 added: 2026-10-24
+updated_at: 2026-10-24 21:55
 ---
 
 A summary, with an evidence table, of a BBC piece by **Claire Fenton-Glynn** (a Cambridge academic

@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, ruleoflaw
 source: https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html
 related: extradition-act-1988, modern-slavery-in-australia, scam-centres-and-scam-losses-2025
 added: 2026-10-20
+updated_at: 2026-10-24 08:27
 ---
 
 ## UNTOC (the Palermo Convention)

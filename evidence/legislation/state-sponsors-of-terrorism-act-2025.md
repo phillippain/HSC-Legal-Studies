@@ -13,6 +13,7 @@ criteria: responsiveness, enforceability, society
 source: https://www.foreignminister.gov.au/minister/penny-wong/media-release/islamic-revolutionary-guard-listed-state-sponsor-terrorism
 related: r-v-lodhi-2006, terrorism-police-powers-act-2002
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 ## What happened

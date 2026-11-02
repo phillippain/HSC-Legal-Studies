@@ -14,6 +14,7 @@ document: Shelter/More-homes-better-cities-Grattan-2025-briefing-pack.pdf
 source: https://grattan.edu.au/report/more-homes-better-cities/
 related: grattan-sydney-housing-2026, nsw-planning-law-shelter-sheet, shelter-affordability-evidence-sheet, four-corners-2026-unaffordable, hilda-2026-housing-brief
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 A 39-slide briefing pack (with its chart data in the companion spreadsheet) from the Grattan

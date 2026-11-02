@@ -14,6 +14,7 @@ document: Family/Alberdingk_Family_CaseStudy.pdf
 source: https://www.fedcfamcourt.gov.au/
 related: cerinza-moreau-2026, hemswold-hemswold-2026, melzer-powles-no2-2026, morse-duarte-2017, escarro-kopp-2026, family-law-amendment-act-2023, schindeler-2019-supervised-contact-orders
 added: 2026-10-24
+updated_at: 2026-10-24 13:46
 ---
 
 The parents lived together from 2015 and separated in **January 2024**; sons **X born 2017** and

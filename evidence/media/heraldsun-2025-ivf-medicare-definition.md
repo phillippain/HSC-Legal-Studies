@@ -13,6 +13,7 @@ criteria: accessibility, rights, responsiveness, society, justice
 document: Family/Single women, same-sex couples to get Medicare rebate for IVF | Herald Sun.pdf
 related: surrogacy-birth-technology-evidence-file, telegraph-2025-monash-ivf-mixup
 added: 2026-09-20
+updated_at: 2026-10-24 10:51
 ---
 
 The Medicare rebate turned on a definition of **infertility** framed around an inability to conceive

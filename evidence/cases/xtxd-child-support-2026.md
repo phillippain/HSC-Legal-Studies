@@ -13,6 +13,7 @@ criteria: accessibility, responsiveness, enforceability, justice, resource
 document: Cases/Family/XTXD and Child Support Registrar [2026] ARTA 2401 - Case Summary.pdf
 related: wnzp-child-support-2026, three-child-support-reviews-2026, devine-kitson-2026, glancey-glancey-2026, swynnerton-swynnerton-2026, rolland-fraser-2025
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 A daughter born 14 November 2006, in a child support case opened in April 2021 with care recorded at

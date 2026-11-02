@@ -13,6 +13,7 @@ criteria: society, resource, justice
 source: https://bocsar.nsw.gov.au/research-evaluations/2012/cjb160-youth-justice-conferences-versus-childrens-court-a-comparison-of-re-offending.html
 related: young-offenders-act-1997, school-bus-youth-justice-conference-2014
 added: 2026-10-20
+updated_at: 2026-10-24 08:30
 ---
 
 Young people given a youth justice conference in 2007 were matched (propensity scores) with

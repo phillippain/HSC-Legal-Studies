@@ -13,6 +13,7 @@ criteria: enforceability, justice, rights, responsiveness
 document: Cases/Family/Gizela & Elmas [2026] FedCFamC1F 494 - Case Summary.pdf
 related: kawakami-urbonaite-2026, patchett-tapley-2026, inquest-blgn-and-dg-2018
 added: 2026-09-24
+updated_at: 2026-10-24 10:52
 ---
 
 Four children of a sibling group of five, serious untested risks in **both** households, and a

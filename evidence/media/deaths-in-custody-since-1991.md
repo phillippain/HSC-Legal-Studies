@@ -14,6 +14,7 @@ source: https://sbs.com.au/nitv/article/35-years-since-the-royal-commission-into
 related: rciadic-1991, custody-notification-service, bocsar-custody-june-2026, royal-commissions-acts
 added: 2026-10-24
 document11: Preliminary/Year 11 - Royal Commission into Aboriginal Deaths in Custody Evidence Summary.pdf
+updated_at: 2026-10-26 09:40
 ---
 
 On the 35th anniversary of the National Report, NITV reported Senator Lidia Thorpe's count of **at least 630** Aboriginal and Torres Strait Islander deaths in custody since April 1991, and her statement that the majority of the 339 recommendations "had not been properly implemented". The Australian Institute of Criminology's Deaths in Custody program, which the Commission itself recommended, publishes the official annual series and is the primary source for any year's figure.

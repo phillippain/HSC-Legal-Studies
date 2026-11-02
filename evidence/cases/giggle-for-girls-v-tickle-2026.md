@@ -14,6 +14,7 @@ document: Cases/Human Rights/Giggle for Girls Pty Ltd v Tickle [2026] FCAFC 64 -
 source: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/full/2026/2026fcafc0064/summaries/2026fcafc0064-summary
 related: commonwealth-discrimination-acts-housing, australian-human-rights-commission-act-1986, ktm24-v-rio-tinto-2026, cordle-v-brooks-2026, anti-discrimination-act-1977
 added: 2026-10-26
+updated_at: 2026-10-26 12:17
 ---
 
 **Roxanne Tickle**, a transgender woman, was removed from **Giggle for Girls**, a women-only social app,

@@ -14,6 +14,7 @@ document: Shelter/Evidence Sheets/Evidence Sheet - Housing as shelter or asset (
 source: https://www.abc.net.au/news/2026-10-14/why-the-housing-market-is-the-great-australian-talking-point/107247464
 related: icescr-1966, right-to-housing-comparative, shelter-what-it-means, nsw-no-grounds-reform-2026, anglicare-rental-affordability-2026, abs-homelessness-census-2021, four-corners-2026-unaffordable, grattan-sydney-housing-2026
 added: 2026-10-16
+updated_at: 2026-10-24 21:54
 ---
 
 An ABC business analysis arguing that Australians' fixation on housing is **necessity, not

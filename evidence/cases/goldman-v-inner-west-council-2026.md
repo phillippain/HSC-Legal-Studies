@@ -13,6 +13,7 @@ criteria: rights, enforceability, accessibility, justice
 document: Cases/Human Rights/Goldman v Inner West Council [2026] NSWCATAD 288.pdf
 related: hgy-v-secretary-ministry-of-health-2026, fowler-v-forestville-rsl-2026, haji-zadeh-v-woolworths-2026
 added: 2026-09-25
+updated_at: 2026-10-24 21:54
 ---
 
 Clementine Goldman drove sweepers, tippers and rubbish trucks, first for a labour hire company at

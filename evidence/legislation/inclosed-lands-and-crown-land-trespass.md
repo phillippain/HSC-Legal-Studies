@@ -13,6 +13,7 @@ criteria: enforceability, rights, justice, society, ruleoflaw
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1901-033
 related: limitation-act-1969-adverse-possession, rogers-v-registrar-general-2024, sydney-public-reserves-public-safety-act-2017, lepra-2002, guardian-2025-pari-move-on, summary-offences-act-1988, shelter-what-it-means
 added: 2026-10-22
+updated_at: 2026-10-24 21:47
 ---
 
 Squatting is not an offence in itself in NSW, but getting into the building almost always is. Three

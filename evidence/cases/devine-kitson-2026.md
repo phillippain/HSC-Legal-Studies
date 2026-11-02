@@ -13,6 +13,7 @@ criteria: enforceability, accessibility, ruleoflaw, justice
 document: Cases/Family/Devine and Kitson 2026 ARTA 1944 - Case Summary.pdf
 related: glancey-glancey-2026, palgrave-blackwall-2026
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Mr Devine did not lodge tax returns for six financial years. Where a parent does not lodge, the

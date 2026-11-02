@@ -14,6 +14,7 @@ document: Crime/Young Offenders/Narrabeen Lagoon 13-year-old charged (Evidence s
 source: https://www.abc.net.au/news/2026-10-17/women-report-sexual-offences-narrabeen-lagoon-walking-trails/107279134
 related: rp-v-the-queen-2016, dpp-nsw-v-nw-doli-incapax, children-criminal-proceedings-act-1987, young-offenders-act-1997, doli-incapax-diversion-reforms-2025, bocsar-cjb268-doli-incapax, bail-act-2013, young-offenders-in-the-cjs
 added: 2026-10-21
+updated_at: 2026-10-24 21:47
 ---
 
 Between **1 and 12 October 2026** police allege a series of incidents on the Narrabeen Lagoon

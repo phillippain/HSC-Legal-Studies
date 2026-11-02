@@ -12,6 +12,7 @@ themes: crime.t.reform, crime.t.moral, crime.t.compliance, fam.t.reform
 criteria: responsiveness, enforceability, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1900-040
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Inserted by the *Crimes Legislation Amendment (Coercive Control) Act 2022* (NSW) and commenced

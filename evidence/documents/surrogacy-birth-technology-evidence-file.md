@@ -13,6 +13,7 @@ criteria: accessibility, responsiveness, rights, enforceability, justice
 document: Family/Surrogacy and Birth Tech/Surrogacy_Birth_Technology_Evidence_File (2).docx
 related: smh-2026-surrogacy-baby-broker, daniels-rooney-2026, wilkerson-croxford-2026, croc-1989
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 An evidence file organised the way the syllabus asks — legislation, case law, media and

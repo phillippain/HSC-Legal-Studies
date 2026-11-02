@@ -13,6 +13,7 @@ criteria: rights, enforceability, accessibility, responsiveness, ruleoflaw
 source: https://www.legislation.qld.gov.au/view/html/inforce/current/act-2019-005
 related: australian-constitution-rights-and-powers, australian-human-rights-commission-act-1986, human-rights-in-australia-common-law-courts-media-charter, iccpr-1966, icescr-1966, kable-v-dpp-1996
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 Australia is the only Western democracy without a national bill or charter of rights. Three

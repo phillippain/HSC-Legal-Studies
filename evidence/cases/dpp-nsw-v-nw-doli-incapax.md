@@ -13,6 +13,7 @@ criteria: rights, ruleoflaw, society, justice
 document: Crime/Young Offenders/Young Offenders Case Studies.pdf
 related: children-criminal-proceedings-act-1987, croc-1989
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 NW was taken into his grandmother's care in May 2014. He had a pattern of indecent assaults and

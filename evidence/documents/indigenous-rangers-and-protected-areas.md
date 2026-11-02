@@ -13,6 +13,7 @@ criteria: society, resource, responsiveness
 source: https://www.niaa.gov.au/indigenous-affairs/closing-gap/implementation-measures/double-number-indigenous-rangers
 related: aiatsis-kinship-and-country, firesticks-cultural-burning, mldrin-basin-aboriginal-water, yarra-river-protection-act-2017
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Since the first Indigenous Protected Area at Nantawarrina (SA) in 1998, Traditional Owners have voluntarily dedicated their land and sea country to conservation under their own management plans, funded by the Commonwealth. Ranger groups — employed through Aboriginal organisations, not government — do the work: cultural burning, weed and feral control, threatened-species monitoring, protection of sites, biosecurity and sea patrols.

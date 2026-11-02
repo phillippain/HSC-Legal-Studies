@@ -14,6 +14,7 @@ document: Jade Cases/Raw Cases/Sullivan & Warren [2026] FedCFamC1F 550.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: cadel-galea-2026, melzer-powles-no2-2026, seaton-fogarty-2018, morse-duarte-2017, family-law-amendment-act-2023, care-and-protection-of-children-evidence-sheet
 added: 2026-10-24
+updated_at: 2026-10-24 09:45
 ---
 
 Proceedings begun in 2019 about a child born in 2018. The mother had alleged for years that the

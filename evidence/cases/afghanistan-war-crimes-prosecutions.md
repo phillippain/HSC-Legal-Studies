@@ -13,6 +13,7 @@ criteria: justice, rights, resource, ruleoflaw, enforceability
 source: https://www.cdpp.gov.au/
 related: rome-statute-1998, international-crime-evidence-summary-2026
 added: 2026-10-20
+updated_at: 2026-10-24 10:52
 ---
 
 ## The steps

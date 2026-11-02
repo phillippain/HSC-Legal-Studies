@@ -13,6 +13,7 @@ criteria: rights, accessibility, enforceability, responsiveness, resource
 source: https://www.legislation.gov.au/C2024A00104/latest/text
 related: retirement-villages-act-1999, commonwealth-discrimination-acts-housing, shelter-discrimination-evidence-sheet, housing-act-2001, icescr-1966
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 Residential aged care is shelter for about 190,000 Australians at any time, and the law governing

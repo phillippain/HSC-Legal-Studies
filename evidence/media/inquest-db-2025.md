@@ -14,6 +14,7 @@ document: Family/Mohammed Khazma murder Toddler’s child protection case closed
 source: https://coroners.nsw.gov.au/documents/findings/2025/Findings_-_Inquest_into_the_death_of_DB.pdf
 related: acyp-special-inquiry-aca-2024, inquest-blgn-and-dg-2018, smh-2023-child-protection-failures, care-and-protection-of-children-evidence-sheet, smh-2026-marcus-foster-care
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 **DB** was two years and nine months old when she was murdered in December 2016 by **Mohammed

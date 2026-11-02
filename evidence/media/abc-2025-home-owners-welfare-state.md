@@ -13,6 +13,7 @@ criteria: resource, society, rights, responsiveness, justice
 document: Shelter/Australia is now a 'home owners' welfare state', and income inequality is worse than we think - ABC News.pdf
 related: hilda-2026-housing-brief, federal-budget-2026-housing-tax-changes, four-corners-2026-unaffordable, grattan-sydney-housing-2026, shelter-affordability-evidence-sheet
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 Professors **Peter Siminski** (UTS) and **Roger Wilkins** (Melbourne Institute) argue that standard

@@ -12,6 +12,7 @@ themes: inv.t.justice, inv.t.values
 criteria: responsiveness, resource, ruleoflaw, enforceability, society
 related: court-hierarchy-and-jurisdiction, law-reform-conditions-agencies-mechanisms
 added: 2026-09-19
+updated_at: 2026-10-24 10:51
 ---
 
 ## The legislative process

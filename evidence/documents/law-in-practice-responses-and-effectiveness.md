@@ -12,6 +12,7 @@ themes: exp.t.values, exp.t.justice
 criteria: enforceability, responsiveness, accessibility, resource, rights, society, ruleoflaw, justice
 related: law-in-practice-choosing-an-issue, shelter-dispute-resolution-map, ombudsman-and-statutory-bodies
 added: 2026-09-20
+updated_at: 2026-10-24 10:51
 ---
 
 ## Legal responses

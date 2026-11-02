@@ -13,6 +13,7 @@ criteria: justice, enforceability, responsiveness, rights, resource
 document: Cases/Family/Zeelan & Abney (No 3) [2026] FedCFamC1F 605 - Case Summary.pdf
 related: sha-cham-2017, daalman-daalman-no2-2026, connor-cosgrove-no2-2018, charis-charis-no2-2026, family-law-act-1975, family-law-amendment-act-2023
 added: 2026-10-22
+updated_at: 2026-10-24 08:27
 ---
 
 A casual relationship from September 2016; she moved into his apartment in **November 2017** (the

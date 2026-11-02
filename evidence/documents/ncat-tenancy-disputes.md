@@ -13,6 +13,7 @@ criteria: accessibility, resource, enforceability, rights, justice
 document: Shelter/Going to NCAT from Tenants Union.pdf
 related: residential-tenancies-act-2010, residential-tenancies-amendment-act-2024
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 Excessive rent increases, repairs not done, a bond withheld — under the *Residential Tenancies Act

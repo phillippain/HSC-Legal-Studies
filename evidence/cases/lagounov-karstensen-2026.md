@@ -14,6 +14,7 @@ document: Jade Cases/Raw Cases/Lagounov & Karstensen [2026] FedCFamC1F 524.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: hemswold-hemswold-2026, sullivan-warren-2026, escarro-kopp-2026, family-courts-and-dispute-resolution, family-law-amendment-act-2023, family-law-act-1975
 added: 2026-10-24
+updated_at: 2026-10-24 09:47
 ---
 
 Two children, **X born 2021** and **Y born 2023**. Proceedings had run since 2024, an **Independent

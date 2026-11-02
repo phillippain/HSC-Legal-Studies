@@ -14,6 +14,7 @@ document: Family/Tsehay Hawkins: Yellow Wiggle on looking for her birth parents.
 source: https://www.smh.com.au/
 related: integrated-birth-certificates-act-2020, adoption-act-2000, lsj-2023-adoption-legacy-of-complexity, smh-2025-korea-adoption-inquiry, australian-2025-adoption-aboriginality, croc-1989, adoption-of-amb-and-jje-2018
 added: 2026-10-24
+updated_at: 2026-10-24 21:55
 ---
 
 **Tsehay Hawkins**, 19, the Yellow Wiggle, was born in **Addis Ababa in 2005** and **adopted in 2006**

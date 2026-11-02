@@ -14,6 +14,7 @@ document: Human Rights/HR - NSW Human Rights Act Inquiry Evidence Summary.pdf
 source: https://www.parliament.nsw.gov.au/bills/Pages/Profiles/human-rights-bill-2025.aspx
 related: charters-of-rights-act-vic-qld, human-rights-in-australia-common-law-courts-media-charter, qld-prison-human-rights-exemption-2026, anti-discrimination-act-1977
 added: 2026-11-03
+updated_at: 2026-11-03 08:40
 ---
 
 The **Human Rights Bill 2025 (NSW)** was referred to a Legislative Assembly committee on 18 March 2026; 120+ civil

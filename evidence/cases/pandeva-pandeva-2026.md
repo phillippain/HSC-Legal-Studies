@@ -13,6 +13,7 @@ criteria: rights, responsiveness, justice
 document: Cases/Family/Pandeva_and_Pandeva_case_study_card.pdf
 related: ashtoreth-valeria-2026, daniels-rooney-2026
 added: 2026-09-19
+updated_at: 2026-10-24 10:52
 ---
 
 X, born 2016, was conceived through **egg donation** by Ms E, the partner of a friend of the

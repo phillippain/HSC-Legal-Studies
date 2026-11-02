@@ -14,6 +14,7 @@ document: Cases/Human Rights/F260097.rtf
 source: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/full/2026/2026fcafc0097
 related: mabo-no2-1992, native-title-act-1993, wik-1996
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 This is the most useful recent native title judgment for showing students what recognition costs and what it delivers. Not because the law changed — it did not — but because of the arithmetic of the case.

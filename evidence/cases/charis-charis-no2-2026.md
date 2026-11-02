@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, rights, resource, justice
 document: Cases/Family/Charis & Charis (No 2) [2026] FedCFamC1F 572 - Case Summary.pdf
 related: zeelan-abney-no3-2026, vacek-novosel-no7-2026, family-law-act-1975, family-courts-and-dispute-resolution, daalman-daalman-no2-2026
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 Final property orders on **31 October 2025** divided the assets roughly equally and gave the husband

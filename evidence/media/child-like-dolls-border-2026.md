@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Child-like Dolls at the Border Evidence Summary.pd
 source: https://www.unsw.edu.au/newsroom/news/2026/08/child-like-sex-dolls-stopped-australias-border-early-protection-warning
 related: police-and-law-enforcement-agencies, police-act-1990-and-afp-act-1979, children-and-young-persons-care-and-protection-act-1998, extradition-act-1988
 added: 2026-10-26
+updated_at: 2026-10-26 12:17
 ---
 
 Researchers who work with the ABF argue that border detections of **child-like sex dolls** carry

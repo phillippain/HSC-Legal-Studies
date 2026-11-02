@@ -13,6 +13,7 @@ criteria: rights, justice, responsiveness, society
 source: https://www.abc.net.au/news/2026-09-11/daniel-billings-sentenced-for-murder-of-molly-ticehurst/107137504
 related: greta-bus-crash-reform-2026
 added: 2026-10-20
+updated_at: 2026-10-24 08:27
 ---
 
 Molly Ticehurst, 28, a childcare worker and mother, was murdered at her Forbes home late on

@@ -12,6 +12,7 @@ themes: crime.t.reform, crime.t.effectiveness, crime.t.moral
 criteria: justice, accessibility, society
 source: https://en.wikipedia.org/wiki/Operation_Yewtree
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 London's Metropolitan Police began Operation Yewtree in October 2012 after a television documentary exposed sexual abuse by the late BBC presenter Jimmy Savile. Large numbers of people came forward about abuse that had happened decades earlier, and the investigation widened to other well-known figures.

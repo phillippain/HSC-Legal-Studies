@@ -14,6 +14,7 @@ document: Shelter/Guardian 2025 - Pari rough sleeper moved on by police (applica
 source: https://www.theguardian.com/australia-news/2025/aug/08/pari-just-wants-to-get-a-good-nights-sleep-but-each-morning-hes-woken-by-nsw-police-telling-him-to-move-on
 related: lepra-2002, shelter-homelessness-evidence-sheet, homelessness-nsw-place-to-call-home-2025, ahuri-347-ending-homelessness-2020, smh-2026-homeless-birth, ahrc-yissa-shelter-closure-2026, right-to-housing-comparative
 added: 2026-10-22
+updated_at: 2026-10-24 08:27
 ---
 
 **Pari Nikau**, a New Zealand citizen, was sleeping rough at Sydney's Central Station after being

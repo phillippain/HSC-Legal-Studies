@@ -13,6 +13,7 @@ criteria: enforceability, justice, responsiveness, ruleoflaw
 source: https://www.icj-cij.org/case/192
 related: rome-statute-1998, icc-under-pressure-2025-26
 added: 2026-10-20
+updated_at: 2026-10-24 10:52
 ---
 
 South Africa brought proceedings on **29 December 2023**, alleging that Israel was breaching the

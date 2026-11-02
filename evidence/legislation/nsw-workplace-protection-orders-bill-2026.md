@@ -14,6 +14,7 @@ document: Crime/NSW Workplace Protection Orders bill (Evidence summary 22Oct26).
 source: https://www.nsw.gov.au/ministerial-releases/new-scheme-to-better-protect-workers-from-abuse-violence
 related: crimes-domestic-personal-violence-act-2007, crimes-act-1900-key-offences, nsw-knife-scanning-2026, law-reform-conditions-agencies-mechanisms, young-offenders-in-the-cjs
 added: 2026-10-22
+updated_at: 2026-10-24 21:47
 ---
 
 On **20 October 2026** the Attorney General, Police Minister and Industrial Relations Minister

@@ -13,6 +13,7 @@ criteria: rights, enforceability, justice, society, accessibility
 document: Shelter/12LS 2026 AT4 Q30b Response Structure.docx
 related: icescr-1966, shelter-homelessness-evidence-sheet, international-law-and-australian-law
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 **ICESCR art 11** recognises the right to an adequate standard of living including housing. What

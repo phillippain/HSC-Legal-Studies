@@ -14,6 +14,7 @@ document: Family/Two of Us: Marita and Ashlee McNamara.pdf
 source: https://www.smh.com.au/national/in-ashlee-s-childhood-of-drug-deals-and-violence-grandma-s-home-was-a-safe-haven-20240820-p5k3pz.html
 related: smh-2025-coonabarabran-kinship-care-deaths, children-and-young-persons-care-and-protection-act-1998, smh-2025-jack-died-in-state-care, alrc-135-family-law-for-the-future-2019, family-law-act-1975
 added: 2026-10-24
+updated_at: 2026-10-24 13:56
 ---
 
 Statistics on kinship care tell you how many children are in it. This piece tells you what the legal process felt like from inside one of those arrangements, in the two voices that lived it.

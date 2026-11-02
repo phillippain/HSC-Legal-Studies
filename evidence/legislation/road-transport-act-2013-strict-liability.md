@@ -13,6 +13,7 @@ criteria: enforceability, rights, resource, society, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2013-018
 related: crime-nature-and-classification, crimes-act-1900-key-offences, nsw-mobile-phone-detection-cameras, lepra-2002, greta-bus-crash-reform-2026, erin-patterson-crime-concepts, bocsar-recorded-crime-june-2026
 added: 2026-10-22
+updated_at: 2026-10-24 21:47
 ---
 
 Most crimes need *mens rea* — a guilty mind. **Strict liability** offences do not: the prosecution

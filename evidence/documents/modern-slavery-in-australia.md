@@ -13,6 +13,7 @@ criteria: enforceability, rights, society, justice, responsiveness
 document: Human Rights/Understanding and responding to modern slavery in Australia.pdf
 related: modern-slavery-act-2018, four-corners-2026-food-supply-chain, good-weekend-2025-forced-marriage
 added: 2026-09-20
+updated_at: 2026-10-24 21:54
 ---
 
 ## The continuum

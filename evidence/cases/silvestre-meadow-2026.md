@@ -13,6 +13,7 @@ criteria: accessibility, justice, resource
 document: Cases/Family/Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary.pdf
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 In a pending parenting and property case, a self-represented mother filed five interlocutory applications. She sought to remove the Independent Children’s Lawyer, compel counselling, set aside consent orders for sale of the home, and gain maintenance, sole schooling decisions and money. On 22 September 2026 Jarrett J dismissed them, apart from limited mortgage orders. This is an interim decision, not a trial.

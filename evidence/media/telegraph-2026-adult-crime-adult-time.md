@@ -13,6 +13,7 @@ criteria: responsiveness, rights, society, ruleoflaw, justice
 related: children-criminal-proceedings-act-1987, young-offenders-act-1997, bocsar-cjb279-jas-diversion
 document: News Articles/NSW Adult Crime Adult Time Daily 8Sept26.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 After two men were shot dead in Sydney's organised-crime conflict, the Minns government announced

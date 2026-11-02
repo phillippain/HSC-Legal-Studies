@@ -13,6 +13,7 @@ criteria: enforceability, rights, society, justice, accessibility
 document: Human Rights/Forced marriage in Australia women who escape – and the new legal precedent.pdf
 related: modern-slavery-in-australia, modern-slavery-act-2018, criminal-code-cth-transnational-offences
 added: 2026-09-20
+updated_at: 2026-10-24 21:47
 ---
 
 The AFP dealt with **91 forced-marriage cases** in a year, thought to be a small fraction of the real

@@ -14,6 +14,7 @@ document: Crime/Media/Australia slavery: Woman forced into sexual servitude advi
 source: https://www.smh.com.au/
 related: modern-slavery-act-2018, modern-slavery-in-australia, global-slavery-index-2023, un-rapporteur-slavery-palm-2025, criminal-code-cth-transnational-offences, anti-slavery-australia-frontline-guide-2024
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 "Sarah" left a religious cult at 21, then a controlling relationship, and was isolated and in debt.

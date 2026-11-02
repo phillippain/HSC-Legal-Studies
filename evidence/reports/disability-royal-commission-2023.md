@@ -13,6 +13,7 @@ criteria: rights, justice, responsiveness, accessibility, society
 source: https://disability.royalcommission.gov.au/publications/final-report
 related: drc-government-response-2024, disability-discrimination-act-1992, crpd-2006, ndis-review-2023, disability-commissioners-ahrc-nsw, royal-commissions-acts
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Established in April 2019 after years of advocacy by disability organisations and a Senate inquiry, the Commission held 32 public hearings and received almost 8,000 submissions and 1,785 private sessions.

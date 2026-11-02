@@ -14,6 +14,7 @@ document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx
 source: https://lgnsw.org.au/Public/Public/Media-Releases/2025/0131-Community-justice-centres-closure.aspx
 related: shelter-dispute-resolution-map, ncat-annual-report-2024-25
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Community Justice Centres, established under the *Community Justice Centres Act 1983* (NSW),

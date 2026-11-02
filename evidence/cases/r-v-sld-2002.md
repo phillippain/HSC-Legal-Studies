@@ -12,6 +12,7 @@ themes: crime.t.moral, crime.t.balance, crime.t.discretion
 criteria: justice, society, rights
 related: children-criminal-proceedings-act-1987, sentencing-young-offenders-gdp-kt, bugmy-v-the-queen-2013
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 In January 2001 SLD, aged 13, abducted a three-year-old girl from her bed on the Central Coast and

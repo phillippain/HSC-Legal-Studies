@@ -13,6 +13,7 @@ criteria: enforceability, justice, ruleoflaw, rights, accessibility
 source: https://www.icc-cpi.int/resource-library/core-legal-texts
 related: international-crime-evidence-summary-2026, prosecutor-v-duterte-icc, putin-warrant-icc-2023, icc-under-pressure-2025-26, afghanistan-war-crimes-prosecutions, icty-1993-2017
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 Adopted in Rome on **17 July 1998** (not 1968, as one textbook prints it); the Court began on

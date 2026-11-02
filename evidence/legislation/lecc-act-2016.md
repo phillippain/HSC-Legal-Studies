@@ -13,6 +13,7 @@ criteria: enforceability, accessibility, ruleoflaw, rights, responsiveness
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2016-061
 related: lecc-operation-makalu-2026, lecc-strip-search-inquiry-2020, police-act-1990-and-afp-act-1979, lepra-2002, ombudsman-and-statutory-bodies, ombudsman-act-1974, icac-act-1988, telegraph-2022-kempsey-baby-strip-search, kristian-white-clare-nowland
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 Before 2017 complaints about NSW police went two ways: corruption to the **Police Integrity

@@ -14,6 +14,7 @@ document: News Articles/Family/‘This is a man who couldn’t cope’- Experts 
 source: https://www.smh.com.au/
 related: smh-2025-tracking-apps-coercive-control, crimes-act-1900-s54d, bocsar-coercive-control-june-2026, crimes-domestic-personal-violence-act-2007, smh-2026-fairleigh-coercive-control, inquest-db-2025, family-law-council-2024-disincentives-and-systems-abuse
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 **Lilie James**, a 21-year-old sports coach, was murdered at St Andrew's Cathedral School in October

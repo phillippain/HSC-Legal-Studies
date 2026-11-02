@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, rights, ruleoflaw, society, justice
 document: Crime/Police Powers Summary.pdf
 related: police-and-law-enforcement-agencies, detention-and-interrogation-rights, r-v-rondo-2001, dpp-v-carr-2002, lepra-reasonable-suspicion-authorities-2020, nsw-knife-scanning-2026, balzan-inquest-2025
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 The ***Law Enforcement (Powers and Responsibilities) Act 2002*** (NSW) came out of a **Wood Royal

@@ -13,6 +13,7 @@ criteria: resource, responsiveness, society, accessibility, enforceability
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1979-203
 related: nsw-planning-law-shelter-sheet, grattan-more-homes-better-cities-2025, grattan-sydney-housing-2026, tenants-union-digest-aug-2025, four-corners-2026-unaffordable, shelter-affordability-evidence-sheet
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 The EP&A Act is NSW's planning statute. It matters to Shelter because every home needs

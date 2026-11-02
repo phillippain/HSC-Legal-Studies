@@ -13,6 +13,7 @@ criteria: resource, accessibility, responsiveness, rights, society, justice
 document: Shelter/Changes to First Home Guarantee Scheme.pdf
 related: grattan-housing-affordability-2018, housing-shelter-or-asset-2026, anglicare-rental-affordability-2026, shelter-affordability-evidence-sheet
 added: 2026-10-24
+updated_at: 2026-10-24 09:16
 ---
 
 The First Home Guarantee lets a buyer purchase with a **5% deposit**, with the government

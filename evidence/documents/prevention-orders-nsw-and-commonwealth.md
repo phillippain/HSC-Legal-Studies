@@ -14,6 +14,7 @@ document: Crime/PREVENTION ORDERS NSW and Commonwealth.docx
 source: https://legislation.nsw.gov.au/
 related: crimes-high-risk-offenders-act-2006, child-protection-offenders-registration-act-2000, crimes-domestic-personal-violence-act-2007, criminal-code-cth-transnational-offences, r-v-lodhi-2006, hate-crimes-reform-2025-cth-and-nsw, crimes-sentencing-procedure-act-1999, guardian-2026-gps-tracking
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 Preventive orders are the part of the criminal justice system that acts **before** an offence, or

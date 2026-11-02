@@ -13,6 +13,7 @@ criteria: responsiveness, justice, rights
 document: Cases/Family/Maryvonne and Maryvonne [2026] FedCFamC1F 630 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Maryvonne and Maryvonne [2026] FedCFamC1F 630 - Case Summary.pdf
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 Two New Zealand-born parents separated in July 2026 in a remote Northern Territory town. The mother sought urgent interim orders to relocate with their two-year-old child to New Zealand. On 17 September 2026 Taglieri J refused: housing was available, key facts were disputed and untested, and no risk of harm was shown. The orders are interim, pending expert evidence and a final hearing.

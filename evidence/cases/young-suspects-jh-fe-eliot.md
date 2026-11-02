@@ -11,6 +11,7 @@ support: crime.3.7, crime.5.2, hr.2.10, exp.2.3
 themes: crime.t.compliance, crime.t.balance, crime.t.effectiveness
 criteria: rights, enforceability, ruleoflaw
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 - ***JH v R*** [2019] NSWSC 192: a 16-year-old was arrested for smoking on the Manly Corso. The arrest was not reasonably necessary (LEPRA s 99), so the resist-arrest charge was set aside.

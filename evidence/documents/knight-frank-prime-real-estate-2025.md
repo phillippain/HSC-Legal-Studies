@@ -14,6 +14,7 @@ document: Shelter/USD1m Prime Real Estate.pdf
 source: https://www.knightfrank.com/wealthreport
 related: reb-2024-fifty-years-price-to-income, grattan-housing-affordability-2018, housing-shelter-or-asset-2026, anglicare-rental-affordability-2026, right-to-housing-comparative
 added: 2026-10-24
+updated_at: 2026-10-24 09:16
 ---
 
 An infographic ranking world cities by the floor area **US$1 million** buys in **prime** residential

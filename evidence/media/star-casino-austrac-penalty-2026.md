@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Star Casino AUSTRAC Money Laundering Penalty Evide
 source: https://www.abc.net.au/news/2026-10-28/star-entertainment-fined-over-casino-money-laundering-austrac/107317384
 related: aml-ctf-tranche-2-2026, untoc-and-cybercrime-convention, international-crime-evidence-summary-2026
 added: 2026-10-30
+updated_at: 2026-10-30 07:35
 ---
 
 AUSTRAC began investigating The Star in 2021 and filed **civil penalty proceedings** in November 2022, alleging a

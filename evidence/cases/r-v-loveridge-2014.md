@@ -13,6 +13,7 @@ criteria: justice, society, responsiveness
 document: Cases/Crime/R v Loveridge [2014] NSWCCA 120 - Case Summary.pdf
 related: one-punch-laws-mandatory-sentencing, crimes-sentencing-procedure-act-1999, markarian-v-the-queen-2005, veen-v-the-queen-no2-1988
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 On the night of 7 July 2012 Kieran Loveridge, 18, drunk and a month into a probation order for an

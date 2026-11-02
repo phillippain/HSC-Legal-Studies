@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/AHRC Balancing Act - working parents and car
 source: https://humanrights.gov.au/__data/assets/pdf_file/0022/93721/AHRC_BALANCING_ACT_FINAL.pdf
 related: ombudsman-and-statutory-bodies, human-rights-in-australia-common-law-courts-media-charter, shelter-discrimination-evidence-sheet, wage-theft-fair-work-act-s327a, law-reform-conditions-agencies-mechanisms, violence-against-women-media-campaigns
 added: 2026-10-21
+updated_at: 2026-10-24 21:55
 ---
 
 Released **19 October 2026**, the same day Four Corners aired allegations from **104 women** of

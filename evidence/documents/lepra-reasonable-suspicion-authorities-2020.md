@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, rights, ruleoflaw, justice
 document: Crime/Table-of-Authorities-for-Reasonable-Suspicion-to-Stop-and-Search-under-Sections-21-36-LEPRA.pdf
 related: r-v-rondo-2001, dpp-v-carr-2002, balzan-inquest-2025, police-and-law-enforcement-agencies, nsw-knife-scanning-2026, use-of-evidence-and-witnesses
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 A practitioner's table collecting the authorities on **reasonable suspicion** under **ss 21 and 36

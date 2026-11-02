@@ -13,6 +13,7 @@ criteria: enforceability, rights, justice, resource, responsiveness
 document: Cases/Family/Kegler & Mansons [2026] FedCFamC1F 587 - Case Summary.pdf
 related: dffh-haraldson-2026, murali-murali-no2-2026, selley-dorner-2026, billings-clowes-no2-2026, family-law-act-1975, family-law-amendment-act-2023, care-and-protection-of-children-evidence-sheet
 added: 2026-10-22
+updated_at: 2026-10-24 08:27
 ---
 
 A boy of 8 and a girl of 5, living with their maternal grandparents since November 2023, when their

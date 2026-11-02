@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Family - SA Informal Child Removals Evidence
 source: https://www.abc.net.au/news/2026-10-27/informal-removal-of-sa-children-against-mums-wishes/107310402
 related: children-and-young-persons-care-and-protection-act-1998, nt-child-protection-review-kumanjayi-little-baby-2026, ombudsman-and-statutory-bodies, care-and-protection-of-children-evidence-sheet
 added: 2026-10-28
+updated_at: 2026-10-28 08:25
 ---
 
 Across three complaints, SA's Department for Child Protection changed where children lived by placing

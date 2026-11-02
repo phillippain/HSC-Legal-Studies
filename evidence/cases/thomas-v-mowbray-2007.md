@@ -14,6 +14,7 @@ document: Cases/Crime/Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf
 related: r-v-lodhi-2006, terrorism-police-powers-act-2002, criminal-code-cth-transnational-offences
 added: 2026-10-23
+updated_at: 2026-10-24 21:54
 ---
 
 ## Facts

@@ -13,6 +13,7 @@ criteria: enforceability, society
 source: https://aapnews.aap.com.au/news/campers-stunned-as-boat-arrivals-look-for-bakery-feed
 related: criminal-code-cth-transnational-offences, untoc-and-cybercrime-convention
 added: 2026-10-20
+updated_at: 2026-10-20 12:15
 ---
 
 About **12 people**, believed to be Chinese nationals, came ashore near **Pennefather Beach** on Cape

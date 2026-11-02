@@ -11,6 +11,7 @@ support: crime.3.6, crime.4.8, inv.1.7, dis.1.5, dis.1.4
 themes: crime.t.effectiveness, crime.t.balance, crime.t.reform
 criteria: justice, rights, ruleoflaw
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 | Route | Law |

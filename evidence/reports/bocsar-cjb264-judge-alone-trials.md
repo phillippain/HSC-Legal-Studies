@@ -12,6 +12,7 @@ themes: crime.t.balance, crime.t.effectiveness, crime.t.reform
 criteria: rights, justice, resource, society
 document: Cases/BOCSAR/BOCSAR CJB264 - Effect of judge-alone trials (2024).pdf
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 BOCSAR compared **5,064 jury** and **805 judge-alone** trials finalised in the NSW District and

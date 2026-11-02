@@ -13,6 +13,7 @@ criteria: enforceability, justice, resource, accessibility
 document: Cases/Family/Jelen & Jelen [2026] FedCFamC1F 532 - Case Summary.pdf
 related: family-law-act-1975, vacek-novosel-no7-2026, tanvil-batta-2026
 added: 2026-09-24
+updated_at: 2026-10-24 10:52
 ---
 
 Married 2006, two children, separated 2020–21, divorced October 2024. The husband, 51, trades

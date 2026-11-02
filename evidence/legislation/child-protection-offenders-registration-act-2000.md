@@ -13,6 +13,7 @@ criteria: society, rights, enforceability
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2000-042
 related: crimes-high-risk-offenders-act-2006
 added: 2026-10-19
+updated_at: 2026-10-20 10:47
 ---
 
 - Registrable persons report personal details to police: address, vehicles, employment, online

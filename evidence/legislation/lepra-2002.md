@@ -13,6 +13,7 @@ criteria: rights, enforceability, ruleoflaw, justice
 document: Crime/NSW Police Powers - Two-Page Summary.pdf
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2002-103
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 LEPRA consolidated police powers that had been spread across many Acts and the common law.

@@ -14,6 +14,7 @@ document: Crime/Inquest_into_the_death_of_Bradley_Vincent_Balzan.pdf
 source: https://coroners.nsw.gov.au/documents/findings/2025/Inquest_into_the_death_of_Bradley_Vincent_Balzan.pdf
 related: r-v-rondo-2001, dpp-v-carr-2002, police-and-law-enforcement-agencies, lepra-reasonable-suspicion-authorities-2020, taser-bugmy-case-study-2014, ombudsman-and-statutory-bodies
 added: 2026-10-23
+updated_at: 2026-10-24 10:51
 ---
 
 **Eight minutes.** Bradley Balzan, 20, left his home in St Marys at 10:11am on 23 December 2020.

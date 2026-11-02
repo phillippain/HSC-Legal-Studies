@@ -13,6 +13,7 @@ criteria: justice, accessibility, enforceability
 document: Cases/Family/SRQY and Child Support Registrar [2026] ARTA 2480 - Case Summary.pdf
 related: child-support-assessment-act-1989, three-child-support-reviews-2026, wnzp-child-support-2026, xtxd-child-support-2026, administrative-review-tribunal-act-2024
 added: 2026-10-28
+updated_at: 2026-10-28 08:24
 ---
 
 Two high-school boys moved to **boarding school** (2022 and 2024), with fees paid by their **maternal

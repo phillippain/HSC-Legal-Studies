@@ -13,6 +13,7 @@ criteria: enforceability, accessibility, ruleoflaw, rights, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1990-047
 related: police-and-law-enforcement-agencies, lepra-2002, lecc-act-2016, lecc-operation-makalu-2026, lecc-strip-search-inquiry-2020, jones-v-commissioner-of-police-2026, hamzy-v-commissioner-2026, reporting-and-investigating-crime
 added: 2026-10-22
+updated_at: 2026-10-24 13:22
 ---
 
 Policing is a **state** power. The Commonwealth has no general police power and the AFP exists for

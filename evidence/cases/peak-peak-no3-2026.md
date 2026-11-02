@@ -14,6 +14,7 @@ document: Jade Cases/Raw Cases/Peak & Peak (No 3) [2026] FedCFamC1F 553.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: pratley-pratley-no9-2026, harlow-harlow-no3-2026, duffy-duffy-2026, silberman-figgins-2026, family-law-act-1975
 added: 2026-10-24
+updated_at: 2026-10-24 09:48
 ---
 
 The property trial finished on **18 February 2026** and Johns J **reserved judgment**. On that last

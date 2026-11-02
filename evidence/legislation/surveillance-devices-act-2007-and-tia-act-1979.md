@@ -13,6 +13,7 @@ criteria: rights, enforceability, ruleoflaw, responsiveness, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2007-064
 related: technology-and-the-individual, guardian-2026-gps-tracking, kmart-camera-glasses-2026, nsw-mobile-phone-detection-cameras, privacy-act-1988-and-2024-reforms, lepra-2002, cd-v-commonwealth-2025-anom, nsw-break-and-enter-and-covert-stalking-reforms-2026, lecc-act-2016
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 Two Acts draw the line between lawful and unlawful surveillance — one for devices in NSW, one for

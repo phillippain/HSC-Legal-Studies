@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Homeless Birth - Evidence Summary Table.pdf
 source: https://www.smh.com.au/national/a-mother-had-been-living-in-a-tent-for-months-then-she-went-into-labour-20260505-p5zty1.html
 related: shelter-homelessness-evidence-sheet, shelter-social-housing-evidence-sheet
 added: 2026-09-19
+updated_at: 2026-10-24 10:51
 ---
 
 A woman living in a tent through her pregnancy went into labour still homeless. Homes NSW,

@@ -14,6 +14,7 @@ document: Shelter/Flood-proof Sirius College set to reopen, ease Lismore rents |
 source: https://www.couriermail.com.au/news/nsw/rebuilt-lismore-student-housing-offers-relief-from-recordhigh-rent-costs/news-story/0e8274a71076a2f88744483cf1821d7d
 related: anglicare-rental-affordability-2026, hilda-2026-housing-brief, shelter-affordability-evidence-sheet, tenants-union-digest-aug-2025, shelter-homelessness-evidence-sheet
 added: 2026-10-22
+updated_at: 2026-10-24 08:27
 ---
 
 A short regional story with two useful pieces of evidence in it.

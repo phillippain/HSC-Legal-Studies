@@ -12,6 +12,7 @@ themes: crime.t.balance, crime.t.effectiveness
 criteria: accessibility, resource, justice
 source: https://www.thelawyermag.com/au/news/general/legal-aid-nsw-to-tighten-family-law-representation-services-amid-funding-shortfall/575571
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 - From **1 July 2026**, Legal Aid NSW limits representation in parenting and property cases to **domestic violence victims and Aboriginal people**; Independent Children's Lawyers restricted at final hearings unless a party is self-represented.

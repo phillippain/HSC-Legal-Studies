@@ -13,6 +13,7 @@ criteria: accessibility, resource, responsiveness, society
 document: Family/Evidence Summaries/Family - My IVF Support Mental Health Fertility Treatment Evidence Summary.pdf
 related: surrogacy-act-2010-and-art-act-2007, art-law-reform-2019-2025, telegraph-2025-monash-ivf-mixup, male-infertility-undiagnosed-2026, informal-sperm-donation-2026
 added: 2026-10-28
+updated_at: 2026-10-28 13:05
 ---
 
 About **1 in 3** people in fertility treatment report anxiety or depression, but (per the article) fewer than

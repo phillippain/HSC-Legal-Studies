@@ -13,6 +13,7 @@ criteria: justice, rights, responsiveness, enforceability
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1900-040
 related: abortion-law-reform-act-2019, law-reform-commission-acts, crimes-act-1900-key-offences
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Saxon Mullins' complaint against Luke Lazarus went through two trials and two appeals (2015–2017) and ended with no conviction: the Court of Criminal Appeal accepted a finding that Lazarus had an honest belief in consent even though Mullins had not consented. Her 2018 *Four Corners* interview led the Attorney-General to refer consent law to the NSW Law Reform Commission, whose Report 148 (2020) recommended an affirmative model.

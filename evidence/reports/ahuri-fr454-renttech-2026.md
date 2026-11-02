@@ -14,6 +14,7 @@ document: Shelter/12LS 2026 AT4 Q30b Response Structure.docx
 source: https://www.ahuri.edu.au/analysis/news/new-laws-needed-protect-renters-data-hungry-proptech
 related: residential-tenancies-amendment-act-2024, shelter-discrimination-evidence-sheet
 added: 2026-09-19
+updated_at: 2026-10-24 13:22
 ---
 
 PropTech platforms now stand between applicants and landlords. They collect **identity documents**

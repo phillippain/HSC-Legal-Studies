@@ -13,6 +13,7 @@ criteria: accessibility, society, rights, responsiveness, justice
 document: Shelter/Homelessness Evidence Sheet.pdf
 related: abs-homelessness-census-2021, icescr-1966
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 | Indicator | 2016 | 2021 |

@@ -13,6 +13,7 @@ criteria: society, justice, resource, responsiveness
 document: Cases/Crime/R v Pullen [2018] NSWCCA 264 - Case Summary.pdf
 related: crimes-sentencing-procedure-act-1999, kristian-white-clare-nowland, road-transport-act-2013-strict-liability, nswlrc-report-139-sentencing-2013, bocsar-cjb207-ico
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 Dominic Pullen, 23, drove after drinking and using cannabis, slid into a parked semi-trailer in a

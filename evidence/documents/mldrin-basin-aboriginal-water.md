@@ -13,6 +13,7 @@ criteria: rights, responsiveness, resource, justice
 source: https://mldrin.org/
 related: yarra-river-protection-act-2017, indigenous-rangers-and-protected-areas, aiatsis-kinship-and-country
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 MLDRIN is a confederation of Traditional Owner Nations along the southern Basin, formed at a Yorta Yorta-hosted meeting in 1998 to speak for Country in water policy. Its Echuca Declaration (2007) defines **cultural flows**: water entitlements legally and beneficially owned by Nations, of a quantity and quality to improve the spiritual, cultural, environmental, social and economic conditions of those Nations.

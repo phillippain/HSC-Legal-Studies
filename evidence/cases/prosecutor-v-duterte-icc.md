@@ -13,6 +13,7 @@ criteria: justice, enforceability, rights, ruleoflaw
 source: https://www.icc-cpi.int/philippines/duterte
 related: rome-statute-1998, icc-under-pressure-2025-26, putin-warrant-icc-2023
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 Rodrigo Duterte ran a **'war on drugs'** as mayor of Davao and then as President of the Philippines

@@ -14,6 +14,7 @@ document: Family/ALRC Report (2019).pdf
 source: https://www.alrc.gov.au/publication/family-law-report/
 related: family-law-amendment-act-2023, family-law-act-1975, family-law-council-2024-disincentives-and-systems-abuse, federal-circuit-and-family-court-act-2021, family-courts-and-dispute-resolution, law-reform-commission-acts, children-and-young-persons-care-and-protection-act-1998
 added: 2026-10-24
+updated_at: 2026-10-24 21:55
 ---
 
 The first comprehensive review of the family law system since the *Family Law Act* commenced in 1976.

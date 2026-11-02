@@ -13,6 +13,7 @@ criteria: rights, ruleoflaw, justice, enforceability
 document: Crime/Criminal Trial Process/3d. Evidence, including witnesses.docx
 related: use-of-evidence-and-witnesses, detention-and-interrogation-rights
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Phyllis Jane O'Brien was murdered at Katoomba in August 2003; police recovered a DNA profile from

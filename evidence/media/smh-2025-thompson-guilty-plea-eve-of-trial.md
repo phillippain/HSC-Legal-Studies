@@ -14,6 +14,7 @@ document: Family/Tyrone Thompson pleads guilty to 2022 murder.pdf
 source: https://www.smh.com.au/national/nsw/the-jealous-killer-who-mackenzie-couldn-t-escape-20250402-p5lohg.html
 related: cowdery-charge-negotiation-criminality-principle, early-appropriate-guilty-plea-reforms-2018, crimes-domestic-personal-violence-act-2007, crimes-sentencing-procedure-act-1999, bocsar-cjb278-dfv-typology, smh-2025-lilie-james-inquest, the-king-v-rowan-2024
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 **Mackenzie Anderson** was killed in her Newcastle home in **March 2022**, not quite 22 years old.

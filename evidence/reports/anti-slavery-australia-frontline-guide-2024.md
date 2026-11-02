@@ -14,6 +14,7 @@ document: Human Rights/mybluesky.org.au-Frontline Worker Guide.pdf
 source: https://mybluesky.org.au/frontline-worker-guide
 related: modern-slavery-act-2018, global-slavery-index-2023, good-weekend-2025-forced-marriage, amwchr-forced-marriage-referral-guide, criminal-code-cth-transnational-offences, marriage-act-1961, modern-slavery-in-australia
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 A 54-page practice guide produced by **Anti-Slavery Australia at the University of Technology

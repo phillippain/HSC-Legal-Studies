@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, rights, justice
 document: Jade Cases/Raw Cases/Haji Zadeh v Woolworths Group Limited - NSW Caselaw.pdf
 related: fowler-v-forestville-rsl-2026, jones-v-commissioner-of-police-2026
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 On 20 August 2025 Mr Haji Zadeh asked a Woolworths employee at Ermington for help finding an item.

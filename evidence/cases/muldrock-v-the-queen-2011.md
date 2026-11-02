@@ -13,6 +13,7 @@ criteria: justice, rights, ruleoflaw
 document: Cases/Crime/Muldrock v The Queen [2011] HCA 39 - Case Summary.pdf
 related: crimes-sentencing-procedure-act-1999, one-punch-laws-mandatory-sentencing, markarian-v-the-queen-2005, hurt-delzotto-v-the-king-2024
 added: 2026-10-19
+updated_at: 2026-10-24 21:47
 ---
 
 Derek Muldrock, 30, with an intellectual disability (a full-scale IQ of 62), pleaded guilty to sexual

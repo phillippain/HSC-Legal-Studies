@@ -15,6 +15,7 @@ document11: Cases/Year 11/Year 11 - Fimmano v Anderson [2024] NSWCATAP 22 - Case
 source: https://www.caselaw.nsw.gov.au/
 related: residential-tenancies-act-2010, ncat-act-2013, ncat-tenancy-disputes, shelter-dispute-resolution-map
 added: 2026-10-23
+updated_at: 2026-10-24 14:39
 ---
 
 A tenant of a Pyrmont studio complained to NSW Fair Trading about repairs and told his landlords' agent he would apply to the Tribunal. A termination notice under s 85 of the *Residential Tenancies Act 2010* (NSW) followed. NCAT declared it a **retaliatory notice** (s 115), ordered the landlords to provide an oven that reaches 200 degrees and to reinstate dimmer switches, and found the rent **excessive** under s 44 because facilities had been withdrawn (refund $2,687.27).

@@ -13,6 +13,7 @@ criteria: enforceability, rights, ruleoflaw, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1969-031
 related: rogers-v-registrar-general-2024, willis-v-abraham-no2-2025, real-property-act-1900, shelter-what-it-means, inclosed-lands-and-crown-land-trespass
 added: 2026-10-22
+updated_at: 2026-10-24 21:28
 ---
 
 "Squatter's rights" is not a right to squat. It is the combined effect of two statutes:

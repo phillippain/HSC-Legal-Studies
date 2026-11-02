@@ -14,6 +14,7 @@ document: Human Rights/HR - Digital Duty of Care Bill Evidence Summary.pdf
 source: https://www.abc.net.au/news/2026-10-28/federal-politics-live-blog-oct-28/107315976
 related: ai-chatbots-children-digital-duty-2026, online-safety-act-2021-and-social-media-minimum-age, croc-1989, technology-and-the-individual, kmart-camera-glasses-2026, human-rights-in-australia-common-law-courts-media-charter, law-reform-conditions-agencies-mechanisms, guardian-2026-gps-tracking
 added: 2026-10-16
+updated_at: 2026-10-29 06:58
 ---
 
 The *Online Safety Amendment (Digital Duty of Care) Bill 2026* (Cth) was introduced on **15 October

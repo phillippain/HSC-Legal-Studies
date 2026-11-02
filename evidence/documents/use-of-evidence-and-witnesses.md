@@ -13,6 +13,7 @@ criteria: rights, ruleoflaw, justice, society
 document: Crime/Criminal Trial Process/3d. Evidence, including witnesses.docx
 related: r-v-white-2005, evidence-amendment-tendency-coincidence-2020
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 ## Types

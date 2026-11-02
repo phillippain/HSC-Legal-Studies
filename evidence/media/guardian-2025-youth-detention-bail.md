@@ -14,6 +14,7 @@ document: News Articles/Crime/Number of NSW children in youth detention up by on
 source: https://www.theguardian.com/australia-news/2025/feb/18/nsw-youth-detention-children-custody-bail-laws-bocsar-data-ntwnfb
 related: bail-act-2013, young-offenders-in-the-cjs, young-offenders-act-1997, telegraph-2026-adult-crime-adult-time, bocsar-custody-june-2026, bocsar-cjb279-jas-diversion
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 ## The numbers

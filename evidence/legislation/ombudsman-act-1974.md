@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, responsiveness, resource, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1974-068
 related: ombudsman-and-statutory-bodies, ombudsman-wrongful-detention-2026, disputes-with-the-state-review, non-legal-methods-disputes-with-the-state, icac-act-1988, lecc-act-2016, australian-human-rights-commission-act-1986, administrative-decisions-review-act-1997
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 The ombudsman is a Swedish idea (1809) that reached NSW in 1974 and the Commonwealth in 1976: an

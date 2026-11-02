@@ -13,6 +13,7 @@ criteria: justice, rights, ruleoflaw, society
 document: Cases/Crime/Zecevic v DPP (Vic) (1987) 162 CLR 645 - Case Summary.pdf
 related: symons-v-r-2024, woolmington-v-dpp-1935, crimes-act-homicide-defences, the-king-v-rowan-2024, defences-to-criminal-charges, r-v-kl-2025
 added: 2026-10-22
+updated_at: 2026-10-24 21:47
 ---
 
 On 16 July 1983 Fadil Zecevic argued with his tenant Harold Triebel in the Ascot Vale units they

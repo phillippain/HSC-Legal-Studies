@@ -13,6 +13,7 @@ criteria: accessibility, resource, enforceability, ruleoflaw, justice
 document: Cases/Family/Three child support reviews - comparison sheet.pdf
 related: devine-kitson-2026, glancey-glancey-2026, palgrave-blackwall-2026
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 | | Devine and Kitson | Glancey and Glancey | Palgrave and Blackwall |

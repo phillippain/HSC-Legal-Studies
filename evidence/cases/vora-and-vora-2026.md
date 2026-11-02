@@ -14,6 +14,7 @@ document: Cases/Family/Vora and Vora [2026] FedCFamC1A 188 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Vora and Vora [2026] FedCFamC1A 188 - Case Summary.pdf
 related: klimova-and-klimova-2026
 added: 2026-10-26
+updated_at: 2026-10-27 08:03
 ---
 
 Parents of two young children had **equal-time consent orders** (23 April 2024). After a case

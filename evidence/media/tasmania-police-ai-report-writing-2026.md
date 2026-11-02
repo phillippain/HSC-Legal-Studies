@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Police AI Report Writing Trial Evidence Summary.pd
 source: https://www.abc.net.au/news/2026-10-23/ai-assisted-police-report-writing-dv-domestic-violence/107297138
 related: police-and-law-enforcement-agencies, evidence-act-1995, technology-and-the-individual, crimes-domestic-personal-violence-act-2007, surveillance-devices-act-2007-and-tia-act-1979
 added: 2026-10-26
+updated_at: 2026-10-26 09:56
 ---
 
 In 2025 Tasmania Police tested **Draft One** (made by US company **Axon**), which turns body-worn camera

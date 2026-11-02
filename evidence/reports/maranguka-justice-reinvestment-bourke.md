@@ -13,6 +13,7 @@ criteria: society, resource, accessibility, justice
 source: https://www.justreinvest.org.au/community/bourke-maranguka/
 related: bocsar-cjb249-youth-on-track, circle-sentencing-and-walama
 added: 2026-10-20
+updated_at: 2026-10-24 08:30
 ---
 
 Bourke, in far western NSW, had some of the highest rates of youth offending and domestic violence

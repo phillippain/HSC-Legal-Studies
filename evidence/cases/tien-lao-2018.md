@@ -13,6 +13,7 @@ criteria: rights, society, justice, ruleoflaw, responsiveness
 document: Family/Cases/3.1 Family law cases.pdf
 related: commonwealth-v-act-2013, landon-yin-2016
 added: 2026-09-20
+updated_at: 2026-10-24 10:51
 ---
 
 The couple met in 1996 and married in 1998. Before the marriage the respondent had told the applicant

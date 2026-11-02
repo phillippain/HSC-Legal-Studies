@@ -13,6 +13,7 @@ criteria: justice, rights, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1900-040
 related: defences-to-criminal-charges, crimes-amendment-provocation-2014
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 | Defence | Section | Effect |

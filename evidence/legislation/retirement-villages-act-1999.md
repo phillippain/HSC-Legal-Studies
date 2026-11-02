@@ -13,6 +13,7 @@ criteria: rights, accessibility, enforceability, responsiveness, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1999-081
 related: aged-care-act-2024, residential-land-lease-communities-act-2013, strata-schemes-management-act-2015, ncat-act-2013, commonwealth-discrimination-acts-housing, shelter-discrimination-evidence-sheet
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 A **retirement village** is a complex for people over 55 (or retired) who pay an ingoing

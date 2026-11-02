@@ -13,6 +13,7 @@ criteria: justice, rights, resource, responsiveness
 source: https://www.hcourt.gov.au/assets/publications/judgment-summaries/2019/hca-7-2019-03-13.pdf
 related: mabo-no2-1992, native-title-act-1993, commonwealth-v-yunupingu-2025, wik-1996
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Between 1980 and 1996 the Northern Territory built roads, water tanks and other public works over 53 lots in the town of Timber Creek, extinguishing or impairing the Ngaliwurru and Nungali Peoples' non-exclusive native title. The *Native Title Act 1993* (Cth) Part 2 Division 5 gives a right to compensation for such acts.

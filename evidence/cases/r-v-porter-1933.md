@@ -13,6 +13,7 @@ criteria: justice, rights, society
 document: Cases/Crime/R v Porter (1933) 55 CLR 182 - Case Summary.pdf
 related: mhcifpa-2020-s14, woolmington-v-dpp-1935, r-v-kl-2025, shine-v-r-2016, defences-to-criminal-charges
 added: 2026-10-22
+updated_at: 2026-10-24 21:47
 ---
 
 Bertram Porter, separated from his wife and caring for their 11-month-old son, made "desperate but

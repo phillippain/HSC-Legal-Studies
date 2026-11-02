@@ -13,6 +13,7 @@ criteria: responsiveness, rights, justice, resource
 source: https://www.dss.gov.au/disability-royal-commission
 related: disability-royal-commission-2023, disability-discrimination-act-1992, ndis-review-2023, crpd-2006
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Ten months after the final report, the Commonwealth published its response alongside a joint response from all governments on the recommendations they share.

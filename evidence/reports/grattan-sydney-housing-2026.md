@@ -14,6 +14,7 @@ document: Shelter/Evidence Sheets/Evidence Sheet - Insights from the Grattan Ins
 source: https://grattan.edu.au/wp-content/uploads/2026/02/Grattan-Institute-How-to-Tackle-Sydneys-Housing-Crisis.pdf
 related: shelter-affordability-evidence-sheet, nsw-planning-law-shelter-sheet
 added: 2026-09-19
+updated_at: 2026-10-24 10:51
 ---
 
 | Finding | What it shows |

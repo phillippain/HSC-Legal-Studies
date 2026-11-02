@@ -14,6 +14,7 @@ document: Cases/BOCSAR/CJB280-Report-Petrol-Thefts.pdf
 source: https://bocsar.nsw.gov.au
 related: bocsar-recorded-crime-june-2026
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Independently peer reviewed. Three empirical approaches: **two-way fixed effects** and

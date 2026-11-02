@@ -13,6 +13,7 @@ criteria: accessibility, justice, rights
 document: Cases/Family/Odalis and Odalis (No 2) [2026] FedCFamC1F 609 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Odalis and Odalis (No 2) [2026] FedCFamC1F 609 - Case Summary.pdf
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 A mother in a parenting case ended her lawyers’ retainer on 30 August 2026, days before a five-day trial. On 31 August the trial was vacated, partly because the Family Report predated overnight time with her. On 15 September 2026 Gill J dismissed her objection to a subpoena for her psychologist’s notes and let the father’s lawyers, not the father, inspect them. This is a procedural judgment, not the final decision.

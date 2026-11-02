@@ -14,6 +14,7 @@ source: https://www.aec.gov.au/elections/referendums/referendum_dates_and_result
 related: referendum-1967, voice-referendum-2023, australian-constitution-rights-and-powers, commonwealth-v-tasmania-1983
 added: 2026-10-24
 document11: Preliminary/Year 11 - Referendums 1967 and 2023 Compared Evidence Summary.pdf
+updated_at: 2026-10-26 09:40
 ---
 
 Section 128 is the only way to alter the Constitution: a bill passed by both houses (or one house twice), then a vote of electors in which the proposal must win a **double majority** — a majority of voters nationally *and* a majority of voters in a majority of the states (four of six). Territory votes count in the national total only.

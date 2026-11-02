@@ -13,6 +13,7 @@ criteria: responsiveness, society, rights
 source: https://thedailyaus.com.au/news/nsw-government-responds-to-2024-drug-summit-findings
 related: bocsar-cjb272-eddi, aboriginal-rehab-ice-crisis-2026
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 The NSW Drug Summit (late 2024) produced 56 recommendations. The government's response

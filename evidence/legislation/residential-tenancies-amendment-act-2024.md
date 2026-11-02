@@ -13,6 +13,7 @@ criteria: responsiveness, rights, enforceability, society, justice
 document: Shelter/NSW rental laws What are the changes?.pdf
 related: residential-tenancies-act-2010, nsw-no-grounds-reform-2026, nsw-tenancy-law-the-last-decade
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Passed in **October 2024**, in force **19 May 2025**, amending the *Residential Tenancies Act 2010*

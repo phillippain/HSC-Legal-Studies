@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, responsiveness, rights, justice
 source: https://www.hcourt.gov.au/
 related: surrogacy-birth-technology-evidence-file, international-surrogacy-parentage-declarations, farnell-chanbua-2016, family-law-act-1975, sha-cham-2017
 added: 2026-10-23
+updated_at: 2026-10-24 10:51
 ---
 
 ## Held

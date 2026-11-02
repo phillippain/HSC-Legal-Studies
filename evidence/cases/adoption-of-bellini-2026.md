@@ -13,6 +13,7 @@ criteria: rights, justice, society
 document: Cases/Family/Adoption of Bellini [2026] NSWSC 1341 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Adoption of Bellini [2026] NSWSC 1341 - Case Summary.pdf
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 Foster carers who had raised two young children since 2023 asked the NSW Supreme Court to adopt them. The Minister held parental responsibility until age 18, the birth mother opposed, and the birth fathers could not be identified. On 29 October 2026 McGrath J held adoption was clearly preferable to the alternatives, dispensed with consent and notice, approved a name change and registered an adoption plan with twelve contact visits a year.

@@ -15,6 +15,7 @@ document11: Preliminary/Year 11 - Investigating the Law - Qld Prison Rights Over
 source: https://www.abc.net.au/news/2026-10-27/queensland-prisons-human-rights-deaths-in-custody-fears/107277276
 related: charters-of-rights-act-vic-qld, human-rights-in-australia-common-law-courts-media-charter, deaths-in-custody-since-1991, kariong-period-products-inspection-2026
 added: 2026-10-28
+updated_at: 2026-10-30 07:35
 ---
 
 Introduced on **15 September 2026**, clause 4 of the bill inserts **s 5B** into the *Corrective Services Act

@@ -13,6 +13,7 @@ criteria: responsiveness, accessibility, resource, enforceability, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1923-029
 related: ombudsman-and-statutory-bodies, law-reform-conditions-agencies-mechanisms, icac-act-1988, ombudsman-act-1974, aged-care-act-2024, nsw-drug-summit-response-2025, child-protection-offenders-registration-act-2000, greta-bus-crash-reform-2026
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 A royal commission is an inquiry appointed by the Governor or Governor-General, usually headed by a

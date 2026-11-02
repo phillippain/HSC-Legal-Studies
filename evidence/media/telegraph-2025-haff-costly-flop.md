@@ -13,6 +13,7 @@ criteria: resource, responsiveness, enforceability, society
 document: Shelter/Housing Australia Future Fund (HAFF) Daily Telegraph.pdf
 related: anao-haff-2026, shelter-social-housing-evidence-sheet, four-corners-2026-unaffordable, homelessness-nsw-place-to-call-home-2025
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 A front-section exclusive in the last weeks before the 2025 federal election. The **Housing

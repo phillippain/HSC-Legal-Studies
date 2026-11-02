@@ -15,6 +15,7 @@ document11: Preliminary/Year 11 - Disputes under the Law - Bathla Land Contract 
 source: https://www.abc.net.au/news/2026-10-29/bathla-land-deals-a-warning-sign-years-before-collapse/107283434
 related: conveyancing-act-1919, guide-to-purchasing-your-home-nsw, law-society-selling-a-home-checklist, mckell-building-contract-for-sale
 added: 2026-10-30
+updated_at: 2026-10-30 07:35
 ---
 
 Between 2023 and 2025, Bathla-linked buyers failed to complete three land purchases worth a combined **$130m**. In

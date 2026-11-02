@@ -13,6 +13,7 @@ criteria: rights, enforceability, accessibility, justice
 document: Shelter/Discrimination Evidence Sheet.pdf
 related: icescr-1966, udhr-1948
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 ## The protections

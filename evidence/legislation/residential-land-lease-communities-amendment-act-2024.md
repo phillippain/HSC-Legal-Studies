@@ -14,6 +14,7 @@ document: Shelter/Residential Land Lease Community Laws Get Updated.pdf
 source: https://www.tenants.org.au/thenoticeboard/news/rllc-laws-updated
 related: brooms-head-over-55s-rule-ncat-2026, ncat-act-2013, ncat-tenancy-disputes, residential-tenancies-amendment-act-2024, nsw-tenancy-law-the-last-decade, shelter-dispute-resolution-map
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 **Land lease communities** (formerly "residential parks") are the tenure in which a person owns a

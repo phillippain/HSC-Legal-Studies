@@ -14,6 +14,7 @@ source: https://www.austlii.edu.au/au/other/IndigLRes/rciadic/
 related: deaths-in-custody-since-1991, custody-notification-service, royal-commissions-acts, circle-sentencing-and-walama, bocsar-custody-june-2026
 added: 2026-10-24
 document11: Preliminary/Year 11 - Royal Commission into Aboriginal Deaths in Custody Evidence Summary.pdf
+updated_at: 2026-10-26 09:40
 ---
 
 Established in October 1987 by the Hawke Government with the states, after a campaign by families and the Committee to Defend Black Rights over a wave of deaths in police and prison cells, the Commission investigated every Aboriginal and Torres Strait Islander death in custody between 1 January 1980 and 31 May 1989 — **99 deaths**, each the subject of its own report.

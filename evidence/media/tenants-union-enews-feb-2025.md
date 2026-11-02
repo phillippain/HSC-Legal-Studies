@@ -14,6 +14,7 @@ document: Shelter/Tenant ENews 24 Feb 2025.pdf
 source: https://www.tenants.org.au/
 related: residential-tenancies-amendment-act-2024, nsw-rental-taskforce-2025, renovation-eviction-evidence-rollback-2025, taap-funding-submission-2024, tenants-union-digest-aug-2025, nsw-tenancy-law-the-last-decade
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 A snapshot of an NGO at work in the gap between a law passing and commencing. The *Residential

@@ -13,6 +13,7 @@ criteria: enforceability, rights, society, accessibility, justice
 document: Human Rights/Modern Slavery/Four Corners - Modern Slavery in the Food Supply Chain (handout).pdf
 related: modern-slavery-act-2018, modern-slavery-in-australia
 added: 2026-09-20
+updated_at: 2026-10-24 21:55
 ---
 
 The episode tracks **one violation across two jurisdictions**. Ghana gives the offshore supply-chain

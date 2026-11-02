@@ -14,6 +14,7 @@ document: News Articles/Family/The Conversation 23Sept26 - DV response not preve
 source: https://theconversation.com/australia-is-responding-to-domestic-violence-after-the-event-not-preventing-it-from-happening-292453
 related: crimes-act-1900-s54d, violence-against-women-media-campaigns, bocsar-cjb278-dfv-typology
 added: 2026-09-24
+updated_at: 2026-10-24 21:47
 ---
 
 Vincent Hurley, Lecturer in Criminology (police and policing) at Macquarie University, writing after

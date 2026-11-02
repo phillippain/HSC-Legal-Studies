@@ -12,6 +12,7 @@ themes: crime.t.balance, crime.t.effectiveness, crime.t.discretion
 criteria: rights, justice, society, resource
 document: Cases/BOCSAR/BOCSAR June 2026 Custody Trends.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 13,960 adults in custody (▲6.2% in a year) and 242 young people in detention (▼16.6% over ten

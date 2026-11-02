@@ -13,6 +13,7 @@ criteria: justice, ruleoflaw, enforceability
 document: Cases/Crime/Klomfar v R [2019] NSWCCA 61 - Case Summary.pdf
 related: flower-mafiti-v-r-2024, criminal-code-cth-transnational-offences
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 ## Facts

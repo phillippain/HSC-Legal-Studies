@@ -13,6 +13,7 @@ criteria: rights, responsiveness, enforceability, justice
 document: Cases/Family/Kawakami & Urbonaite [2026] FedCFamC1F 593 - Case Summary.pdf
 related: croc-1989, family-law-amendment-act-2023, gizela-elmas-2026
 added: 2026-09-24
+updated_at: 2026-10-24 10:52
 ---
 
 X, 13, and Y, 8. A decade of family violence between the parents, with the **mother identified as

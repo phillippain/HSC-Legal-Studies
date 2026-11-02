@@ -13,6 +13,7 @@ criteria: resource, accessibility, enforceability, responsiveness, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2012-059
 related: housing-act-2001, aboriginal-housing-act-1998, housing-australia-future-fund-act-2023, shelter-social-housing-evidence-sheet, homelessness-nsw-place-to-call-home-2025, residential-tenancies-act-2010
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 "Social housing" is two things: **public housing** owned by the state (Homes NSW), and **community

@@ -14,6 +14,7 @@ document: Cases/Family/Boleno & Newcombe [2026] FedCFamC1A 191 - Case Summary.pd
 document11: Cases/Year 11/Year 11 - Boleno & Newcombe [2026] FedCFamC1A 191 - Case Summary.pdf
 related: rangel-bird-no-2-2026
 added: 2026-11-03
+updated_at: 2026-11-03 08:23
 ---
 
 A father appealed final parenting orders (29 May 2026) limiting his time with his young daughter to

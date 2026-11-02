@@ -12,6 +12,7 @@ themes: shel.t.compliance, shel.t.effectiveness, shel.t.reform
 criteria: enforceability, rights, resource, justice
 related: design-building-practitioners-act-2020, brookfield-multiplex-2014
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 The High Court held that the statutory duty in s 37 of the *Design and Building Practitioners Act

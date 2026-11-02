@@ -13,6 +13,7 @@ criteria: ruleoflaw, rights, justice, society
 document: Cases/Crime/Kable v DPP (NSW) (1996) 189 CLR 51 - Case Summary.pdf
 related: australian-communist-party-1951, hamzy-v-commissioner-2026, fardon-v-ag-qld-2004, crimes-high-risk-offenders-act-2006, australian-constitution-rights-and-powers, veen-v-the-queen-no2-1988
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 Gregory Kable was sentenced in 1990 for the manslaughter of his wife (diminished responsibility).

@@ -14,6 +14,7 @@ document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2013-002
 related: ncat-annual-report-2024-25, burns-v-corbett-2018, residential-tenancies-act-2010
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 ## The two provisions worth naming

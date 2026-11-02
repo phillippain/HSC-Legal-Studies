@@ -14,6 +14,7 @@ related: crimes-act-1900-s54d, smh-2026-fairleigh-coercive-control
 document: News Articles/Family/The Conversation 18Sept26 - Migration policy and DV victim-survivors.pdf
 source: https://theconversation.com/how-the-governments-new-immigration-policy-will-cause-more-trauma-for-victim-survivors-of-domestic-violence-292352
 added: 2026-09-21
+updated_at: 2026-10-24 21:54
 ---
 
 Marie Segrave, Professor of Criminology at the University of Melbourne, on the migration changes

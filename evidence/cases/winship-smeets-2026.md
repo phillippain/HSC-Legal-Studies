@@ -13,6 +13,7 @@ criteria: resource, justice, accessibility
 document: Cases/Family/Winship and Smeets [2026] FedCFamC1F 659 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Winship and Smeets [2026] FedCFamC1F 659 - Case Summary.pdf
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 Parenting proceedings begun in 2023 were listed on 6 February 2026 for a five-day final hearing from 14 September. At a Mention on 9 September a self-represented father orally asked to vacate it, saying he needed time with a new legal team. He had not paid his lawyers’ retainer. Curran J refused in ex tempore reasons: no proper basis, delay would distress the children, and court time is a public resource. This was an interlocutory ruling only.

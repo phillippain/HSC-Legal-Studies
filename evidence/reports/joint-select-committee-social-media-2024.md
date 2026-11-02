@@ -13,6 +13,7 @@ criteria: responsiveness, society, enforceability, rights
 source: https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Social_Media_and_Australian_Society
 related: online-safety-act-2021-and-social-media-minimum-age, online-safety-age-restricted-platforms-rules-2025, digital-duty-of-care-bill-2026, age-assurance-technology-trial-2025, under-16-social-media-ban-enforcement-2026
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Established in May 2024 as Meta withdrew from paying for news and public concern about young people's mental health grew, the Committee took evidence from platforms, researchers, eSafety, parents and young people through 2024.

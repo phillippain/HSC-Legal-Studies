@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, rights, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1919-006
 related: real-property-act-1900, home-building-act-1989, national-consumer-credit-protection-act-2009, first-home-buyer-concessions-nsw, design-building-practitioners-act-2020, shelter-dispute-resolution-map
 added: 2026-10-22
+updated_at: 2026-10-24 21:28
 ---
 
 Buying a home in NSW is a two-stage process: a **contract** (governed by this Act) and then

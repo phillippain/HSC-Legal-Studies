@@ -13,6 +13,7 @@ criteria: enforceability, rights, responsiveness, ruleoflaw
 source: https://www.un.org/en/about-us/un-charter/full-text
 related: udhr-1948, iccpr-1966, icescr-1966, rome-statute-1998, south-africa-v-israel-icj, human-rights-promotion-and-enforcement-international, international-law-and-australian-law, icc-under-pressure-2025-26
 added: 2026-10-22
+updated_at: 2026-10-24 21:47
 ---
 
 The Charter is both a **treaty** and the **constitution of the UN**. It was drafted at San

@@ -12,6 +12,7 @@ themes: dis.t.justice, dis.t.values
 criteria: accessibility, rights, justice
 document11: Cases/Year 11/Year 11 - Kathy (a pseudonym) (No 2) [2026] NSWCATGD 21 - Case Summary.pdf
 added: 2026-11-03
+updated_at: 2026-11-03 08:23
 ---
 
 A carer sought an adjournment the night before a guardianship hearing, with no medical certificate and

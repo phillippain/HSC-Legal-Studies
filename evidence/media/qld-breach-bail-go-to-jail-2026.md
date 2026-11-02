@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Qld Breach Bail Go to Jail Laws Evidence Summary.p
 source: https://www.abc.net.au/news/2026-10-30/qld-breach-bail-go-to-jail-pass-despite-concerns/107324160
 related: bail-act-2013, qld-prison-human-rights-exemption-2026, charters-of-rights-act-vic-qld, one-punch-laws-mandatory-sentencing, sam-wood-strangulation-bail-refused-2026, youth-crime-younger-offenders-2026
 added: 2026-11-03
+updated_at: 2026-11-03 08:40
 ---
 
 Introduced on 27 August and passed in late October 2026, the Bill commences on **30 November 2026**. The government

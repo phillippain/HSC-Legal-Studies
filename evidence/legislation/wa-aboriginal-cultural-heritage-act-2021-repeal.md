@@ -13,6 +13,7 @@ criteria: rights, responsiveness, enforceability, society
 source: https://www.wa.gov.au/organisation/department-of-planning-lands-and-heritage/aboriginal-cultural-heritage
 related: walker-v-nsw-1994, yarra-river-protection-act-2017, aboriginal-land-rights-act-1983, law-reform-conditions-agencies-mechanisms
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 On 24 May 2020 Rio Tinto blasted two rock shelters in Juukan Gorge in the Pilbara with evidence of 46,000 years of continuous occupation, on the country of the Puutu Kunti Kurrama and Pinikura peoples. The destruction was lawful: a consent under s 18 of the *Aboriginal Heritage Act 1972* (WA), granted in 2013, could not be revisited and the Traditional Owners had no right of appeal. A Commonwealth parliamentary inquiry (*A Way Forward*, 2021) called the 1972 Act unfit, and Rio Tinto's chief executive and chairman resigned.

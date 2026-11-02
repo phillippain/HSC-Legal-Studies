@@ -13,6 +13,7 @@ criteria: justice, rights, society
 document: Cases/Crime/CDPP v TK (a child) [2018] VChC 4 - Case Summary.pdf
 related: soyke-v-r-2016, criminal-code-cth-transnational-offences
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 ## Facts

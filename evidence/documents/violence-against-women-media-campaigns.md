@@ -13,6 +13,7 @@ criteria: society, responsiveness, enforceability, rights, justice
 document: Family/Cases/2.4.3 Family law cases.pdf
 related: care-and-protection-of-children-evidence-sheet, crimes-domestic-personal-violence-act-2007, smh-2026-fairleigh-coercive-control
 added: 2026-09-20
+updated_at: 2026-10-24 08:27
 ---
 
 Domestic violence was long treated as private — closed courtrooms and reporting restrictions kept it

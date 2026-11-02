@@ -13,6 +13,7 @@ criteria: society, rights, justice
 source: https://aiatsis.gov.au/explore/kinship
 related: atsi-customary-law, walker-v-nsw-1994, yarra-river-protection-act-2017, indigenous-rangers-and-protected-areas
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 AIATSIS is the national Indigenous research institution; its explainers are written and reviewed with Aboriginal and Torres Strait Islander authors and are the safest classroom source for content that carries ICIP obligations.

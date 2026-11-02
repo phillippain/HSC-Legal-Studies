@@ -13,6 +13,7 @@ criteria: enforceability, rights, justice
 document: Cases/Family/Marga and Buster [2026] FedCFamC1F 622 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Marga and Buster [2026] FedCFamC1F 622 - Case Summary.pdf
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 A mother stopped a nine-year-old child’s court-ordered time with the father from November 2022, and the child came to believe in abuse allegations the mother later abandoned in written submissions. On 17 September 2026 Brasch J found no abuse, found three acts of family violence by the father against the mother, held the mother an unacceptable risk of emotional harm, and made final orders: the child lives with the father after a 12-week moratorium on time with the mother.

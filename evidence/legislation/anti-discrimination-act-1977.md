@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, rights, justice, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1977-048
 related: commonwealth-discrimination-acts-housing, shelter-discrimination-evidence-sheet, ncat-act-2013, group-renting-cotenancy-2026, residential-tenancies-act-2010, boarding-houses-act-2012
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 NSW's own discrimination statute, older than every Commonwealth equivalent. It works attribute by

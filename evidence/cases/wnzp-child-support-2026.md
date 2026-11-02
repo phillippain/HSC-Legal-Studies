@@ -13,6 +13,7 @@ criteria: accessibility, responsiveness, enforceability, resource, justice
 document: Cases/Family/WNZP and Child Support Registrar [2026] ARTA 2398 - Case Summary.pdf
 related: xtxd-child-support-2026, three-child-support-reviews-2026, devine-kitson-2026, glancey-glancey-2026, palgrave-blackwall-2026, rolland-fraser-2025, copeland-masters-2025
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 Two daughters, born 2012 and 2016. Care was recorded at **14% / 86%** (mother / father) from

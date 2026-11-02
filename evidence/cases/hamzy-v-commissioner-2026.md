@@ -13,6 +13,7 @@ criteria: rights, ruleoflaw, accessibility, justice
 document: Cases/Crime/Hamzy v Commissioner of Corrective Services [2026] NSWCA 140 - Case Summary.pdf
 related: kable-v-dpp-1996, crimes-administration-of-sentences-act-1999, fardon-v-ag-qld-2004, dietrich-v-the-queen-1992
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 Bassam Hamzy is serving 40 years and 3 months (expiring 14 June 2042) for murder, conspiracy to

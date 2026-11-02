@@ -14,6 +14,7 @@ document: Cases/Crime/SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Su
 document11: Cases/Year 11/Year 11 - SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary.pdf
 related: secretary-dcceew-v-dalton-2026
 added: 2026-11-03
+updated_at: 2026-11-03 08:23
 ---
 
 A formwork subcontractor pleaded guilty under s 32 of the *Work Health and Safety Act 2011* (NSW) after a

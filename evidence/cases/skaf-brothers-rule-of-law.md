@@ -14,6 +14,7 @@ document: Cases/Crime/R v Skaf [2004] NSWCCA 37 - Case Summary.pdf
 source: https://www.ruleoflaw.org.au
 related: hoang-v-the-queen-2022, jury-act-1977, role-of-juries, crimes-sentencing-procedure-act-1999, use-of-evidence-and-witnesses, r-v-lodhi-2006
 added: 2026-10-13
+updated_at: 2026-10-24 21:47
 ---
 
 > This case concerns serious sexual offences against teenage girls. The case note itself carries a

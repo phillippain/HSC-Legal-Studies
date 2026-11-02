@@ -13,6 +13,7 @@ criteria: rights, responsiveness, justice, society
 document: Crime/Bail or Remand & the presumption of innocence.pdf
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2013-026
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 ## How a decision is made

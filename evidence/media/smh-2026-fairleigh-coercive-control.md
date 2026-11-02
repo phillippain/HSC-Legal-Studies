@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, rights, justice
 related: crimes-act-1900-s54d, bocsar-recorded-crime-june-2026, crimes-domestic-personal-violence-act-2007
 document: Cases/Family/Coercive Control Worked Example Crime & Family.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Callum Fairleigh, 34 — the first person in NSW to serve prison time for coercive control.

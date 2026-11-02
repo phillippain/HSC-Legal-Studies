@@ -13,6 +13,7 @@ criteria: rights, justice, accessibility, enforceability
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2013-037
 related: crimes-sentencing-procedure-act-1999
 added: 2026-10-19
+updated_at: 2026-10-20 10:47
 ---
 
 - **Charter of Victims Rights:** courtesy, compassion and respect; information about services and

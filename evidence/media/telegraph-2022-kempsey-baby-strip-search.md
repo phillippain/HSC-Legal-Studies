@@ -11,6 +11,7 @@ support: crime.5.2, hr.2.10, exp.2.3
 themes: crime.t.compliance, crime.t.discretion
 criteria: rights, enforceability
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 The *Daily Telegraph* reported in March 2022 that the family of an eight-month-old boy was suing the State after the baby was allegedly strip searched before a visit to a jail in Kempsey in 2018.

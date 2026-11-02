@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Former Teacher Jailed Sex Offences Against Student
 source: https://www.abc.net.au/news/2026-10-28/tayla-lee-brailey-sentencing/107318292
 related: crimes-sentencing-procedure-act-1999, early-appropriate-guilty-plea-reforms-2018, markarian-v-the-queen-2005, child-protection-working-with-children-act-2012
 added: 2026-10-29
+updated_at: 2026-10-30 07:35
 ---
 
 A former Sydney high school teacher, arrested in August 2024, pleaded guilty in Campbelltown Local Court

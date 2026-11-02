@@ -14,6 +14,7 @@ document: Family/Family Law (Property) changes are coming - what you need to kno
 source: https://www.ag.gov.au/families-and-marriage/publications/family-law-property-changes-10-june-2025-fact-sheet-separating-couples
 related: family-law-act-1975, family-law-amendment-act-2023, duffy-duffy-2026, binding-financial-agreements, family-law-council-2024-disincentives-and-systems-abuse, alrc-135-family-law-for-the-future-2019, silberman-figgins-2026, pratley-pratley-no9-2026
 added: 2026-10-24
+updated_at: 2026-10-24 13:26
 ---
 
 Described by practitioners as the biggest change to family law property settlements since **binding

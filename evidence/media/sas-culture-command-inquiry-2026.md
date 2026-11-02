@@ -15,6 +15,7 @@ document11: Preliminary/Year 11 - Investigating the Law - SAS Inquiry Global Leg
 source: https://www.abc.net.au/news/2026-10-29/secret-inquiry-into-afghanistan-special-forces-slams-sas/107321098
 related: afghanistan-war-crimes-prosecutions, roberts-smith-v-fairfax-no41-2023, international-crime-evidence-summary-2026, icc-under-pressure-2025-26
 added: 2026-10-30
+updated_at: 2026-10-30 07:35
 ---
 
 The **Brereton Afghanistan Inquiry** (2020) found credible information that **39** people were unlawfully killed in

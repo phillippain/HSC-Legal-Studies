@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Violence against children study 2026 (Eviden
 source: https://www.sydney.edu.au/news-opinion/news/2026/10/14/sharp-rise-in-violence-and-sexual-violence-against-australian-children-research.html
 related: care-and-protection-of-children-evidence-sheet, smh-2023-child-protection-failures, smh-2026-marcus-foster-care, croc-1989, nit-2024-family-is-culture, conversation-2026-dv-prevention-funding
 added: 2026-10-16
+updated_at: 2026-10-24 21:54
 ---
 
 A University of Sydney study published in **JAMA Network Open** on **14 October 2026** compared three

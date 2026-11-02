@@ -14,6 +14,7 @@ document: Jade Cases/Raw Cases/Duffy & Duffy [2026] FedCFamC2F 1076.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: fry-read-no2-2026, pratley-pratley-no9-2026, beitel-beitel-2026, family-law-act-1975, family-law-amendment-act-2023
 added: 2026-10-24
+updated_at: 2026-10-24 21:55
 ---
 
 A long relationship. The husband lives in **Australia**, the wife in **Country B**, and the property

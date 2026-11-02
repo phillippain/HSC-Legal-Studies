@@ -12,6 +12,7 @@ themes: inv.t.justice, inv.t.values
 criteria: ruleoflaw, accessibility, justice, rights
 related: the-adversary-system-and-court-jurisdiction, donoghue-v-stevenson-1932, court-hierarchy-and-jurisdiction
 added: 2026-09-20
+updated_at: 2026-10-24 21:47
 ---
 
 A reference note.

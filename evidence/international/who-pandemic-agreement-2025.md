@@ -13,6 +13,7 @@ criteria: responsiveness, enforceability, society, resource
 source: https://www.who.int/news/item/20-05-2025-world-health-assembly-adopts-historic-pandemic-agreement-to-make-the-world-more-equitable-and-safer-from-future-pandemics
 related: un-charter-1945, international-law-and-australian-law, falepili-union-treaty-2023, human-rights-promotion-and-enforcement-international
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 The WHO is the UN's specialised agency for health — an intergovernmental organisation of 194 member states governed by the World Health Assembly. After COVID-19 exposed the failures of the existing *International Health Regulations* (late reporting, vaccine hoarding), members agreed in December 2021 to negotiate a binding instrument.

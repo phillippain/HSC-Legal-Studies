@@ -13,6 +13,7 @@ criteria: society, rights, enforceability, responsiveness
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1999-093
 related: hamzy-v-commissioner-2026, smh-2026-fairleigh-coercive-control, skaf-brothers-rule-of-law, victims-rights-and-support-act-2013
 added: 2026-10-19
+updated_at: 2026-10-24 21:47
 ---
 
 - **Classification:** Corrective Services NSW classifies inmates by risk, from minimum to maximum

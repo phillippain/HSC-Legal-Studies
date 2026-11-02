@@ -12,6 +12,7 @@ themes: shel.t.reform, shel.t.compliance, shel.t.effectiveness, inv.t.values
 criteria: enforceability, rights, responsiveness, justice
 related: brookfield-multiplex-2014, pafburn-2024
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 Section 37 imposes a duty on any person carrying out construction work to **exercise reasonable care

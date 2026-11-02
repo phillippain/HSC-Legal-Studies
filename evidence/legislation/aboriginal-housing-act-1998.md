@@ -13,6 +13,7 @@ criteria: accessibility, resource, responsiveness, society, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-047
 related: housing-act-2001, community-housing-providers-national-law-act-2012, shelter-social-housing-evidence-sheet, abs-homelessness-census-2021, tenants-union-enews-feb-2025, ahrc-yissa-shelter-closure-2026, native-title-act-1993
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 Aboriginal and Torres Strait Islander people are about 3.4% of the NSW population and roughly a

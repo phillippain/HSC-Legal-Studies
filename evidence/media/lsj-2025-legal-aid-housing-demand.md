@@ -13,6 +13,7 @@ criteria: accessibility, resource, responsiveness, justice
 document: Shelter/Cost of living pressures drive record demand for housing legal assistance.pdf
 related: taap-funding-submission-2024, ncat-tenancy-disputes, ncat-annual-report-2024-25, residential-tenancies-amendment-act-2024, nsw-rental-taskforce-2025, dietrich-v-the-queen-1992
 added: 2026-10-22
+updated_at: 2026-10-24 08:27
 ---
 
 Legal Aid NSW's 2023–24 annual report recorded a **19% increase** in demand for housing-related legal

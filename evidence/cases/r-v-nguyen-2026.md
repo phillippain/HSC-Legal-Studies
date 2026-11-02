@@ -14,6 +14,7 @@ document: Cases/Crime/R v Nguyen [2026] NSWDC 393 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - R v Nguyen [2026] NSWDC 393 - Case Summary.pdf
 related: crimes-sentencing-procedure-act-1999, r-v-bale-2026
 added: 2026-10-29
+updated_at: 2026-10-29 07:50
 ---
 
 ## Held

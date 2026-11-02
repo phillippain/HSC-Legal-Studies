@@ -13,6 +13,7 @@ criteria: justice, ruleoflaw, enforceability
 document: Cases/Crime/Roberts-Smith v Fairfax Media (No 41) [2023] FCA 555 - Case Summary.pdf
 related: afghanistan-war-crimes-prosecutions, international-crime-evidence-summary-2026
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 ## Facts

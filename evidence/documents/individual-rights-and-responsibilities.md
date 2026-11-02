@@ -12,6 +12,7 @@ themes: inv.t.justice, inv.t.values
 criteria: rights, enforceability, ruleoflaw, accessibility, justice
 related: international-law-and-australian-law, australian-communist-party-1951, kioa-v-west-1985
 added: 2026-09-20
+updated_at: 2026-10-24 21:54
 ---
 
 A reference note. The cases and statutes that evidence each point are elsewhere in this finder.

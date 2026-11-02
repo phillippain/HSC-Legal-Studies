@@ -14,6 +14,7 @@ document: News Articles/Human Rights/Men charged in Sydney after alleged display
 source: https://www.smh.com.au/national/nsw/men-arrested-after-alleged-display-of-swastika-flag-20250206-p5la98.html
 related: hate-crimes-reform-2025-cth-and-nsw, crimes-act-1900-key-offences, anti-discrimination-act-1977, wertheim-v-haddad-2025, bail-act-2013, smh-2025-hate-speech-lgbtiq-excluded
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Police were called to a bar on **Liverpool Street in Kings Cross** at about **4.30pm on Thursday 6

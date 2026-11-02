@@ -14,6 +14,7 @@ document: Crime/Media/Crime - WA Police Facial Recognition Trial Evidence Summar
 source: https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial
 related: tasmania-police-ai-report-writing-2026, technology-and-the-individual, privacy-act-1988-and-2024-reforms, surveillance-devices-act-2007-and-tia-act-1979, police-and-law-enforcement-agencies, police-powers-expansion-since-lepra, kmart-camera-glasses-hsc-2026
 added: 2026-11-03
+updated_at: 2026-11-03 08:53
 ---
 
 In a trial that ended on **31 October 2026**, WA Police scanned **1,380,882** faces from marked vans over **100 deployments at 43 locations** (including three operations at the Perth royal show) and matched them against a police alert list. The result: **122 arrests**, **146** engagements with registered sex offenders, **10** welfare checks and **nine incorrect alerts**. Vans are off the road while police run an internal evaluation.

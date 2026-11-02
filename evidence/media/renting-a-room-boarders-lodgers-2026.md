@@ -13,6 +13,7 @@ criteria: rights, accessibility, enforceability, responsiveness
 document: Shelter/Shelter - Renting a Room Boarders and Lodgers Evidence Summary.pdf
 related: boarding-houses-act-2012, residential-tenancies-act-2010, residential-tenancies-amendment-act-2024, group-renting-cotenancy-2026, shelter-what-it-means, ncat-tenancy-disputes, tenants-union-enews-feb-2025
 added: 2026-10-23
+updated_at: 2026-10-24 08:27
 ---
 
 An ABC lifestyle feature on taking in a housemate to cover costs (with an estimate of up to **13

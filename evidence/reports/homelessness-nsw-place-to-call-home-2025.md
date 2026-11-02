@@ -14,6 +14,7 @@ document: Shelter/Homelessness NSW - A place to call home (Dec 2025).pdf
 source: https://homelessnessnsw.org.au/aplacetocallhome/
 related: shelter-homelessness-evidence-sheet, abs-homelessness-census-2021, shelter-social-housing-evidence-sheet, ahuri-347-ending-homelessness-2020, guardian-2025-pari-move-on, ahrc-yissa-shelter-closure-2026, anglicare-rental-affordability-2026
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 Homelessness NSW is the not-for-profit **peak body** for 200+ specialist homelessness services and

@@ -13,6 +13,7 @@ criteria: rights, accessibility, society, justice, ruleoflaw
 document: Family/Cases/1.3 Family law cases.pdf
 related: family-law-act-1975, landon-yin-2016
 added: 2026-09-20
+updated_at: 2026-10-24 08:27
 ---
 
 Mr Sha married Ms B in 1997. In 2011, while still married, he met Ms Cham. From early 2012 they were

@@ -14,6 +14,7 @@ document: Crime/Haines attack charges - MP security briefing (Evidence summary 2
 source: https://www.abc.net.au/news/2026-10-21/helen-haines-attack-live-updates-brendan-nugent-court-hearing/107290276
 related: crimes-act-1900-key-offences, police-and-law-enforcement-agencies, the-adversary-system-and-court-jurisdiction, dpp-v-carr-2002, detention-and-interrogation-rights, bail-act-2013
 added: 2026-10-21
+updated_at: 2026-10-26 09:56
 ---
 
 On **Monday 19 October 2026**, at about 3:35pm, the independent MP for Indi, **Helen Haines**, 65,

@@ -13,6 +13,7 @@ criteria: accessibility, resource, responsiveness, justice
 source: https://www.legislation.gov.au/C2021A00012/latest/text
 related: family-courts-and-dispute-resolution, family-law-act-1975, family-law-amendment-act-2023, smh-2026-ticehurst-sentencing-delay, lone-fathers-association, australian-constitution-rights-and-powers
 added: 2026-10-22
+updated_at: 2026-10-24 21:55
 ---
 
 Family law disputes in Australia are heard by a federal court under the *Family Law Act 1975*

@@ -14,6 +14,7 @@ document: News Articles/Shelter/Parramatta Road site for build-to-rent.pdf
 source: https://www.smh.com.au/
 related: build-to-rent-tax-concessions-2024, housing-australia-future-fund-act-2023, planning-system-reforms-act-2025, nras-ending-2026, smh-2025-missing-middle-delay, pawson-2023-social-housing-in-australia, shelter-social-housing-evidence-sheet
 added: 2026-10-24
+updated_at: 2026-10-24 11:40
 ---
 
 The government developer **Landcom** earmarked a former **WestConnex dive site on Parramatta Road in

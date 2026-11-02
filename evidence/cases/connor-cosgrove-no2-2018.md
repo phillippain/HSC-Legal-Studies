@@ -13,6 +13,7 @@ criteria: justice, rights, society, enforceability
 document: Family/Cases/2.2.2 Family law cases.pdf
 related: family-law-act-1975, three-child-support-reviews-2026
 added: 2026-09-20
+updated_at: 2026-10-24 21:28
 ---
 
 The couple cohabited from 1999, married in 2000, had **five children**, and divorced in 2015. From

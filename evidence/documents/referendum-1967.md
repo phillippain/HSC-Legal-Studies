@@ -14,6 +14,7 @@ source: https://aiatsis.gov.au/explore/1967-referendum
 related: referendums-1901-2023-results, voice-referendum-2023, native-title-act-1993, mabo-meriam-claim-1982
 added: 2026-10-24
 document11: Preliminary/Year 11 - Referendums 1967 and 2023 Compared Evidence Summary.pdf
+updated_at: 2026-10-26 09:40
 ---
 
 The Constitution of 1901 excluded "aboriginal natives" from the Commonwealth's race power (s 51(xxvi)) and from being counted "in reckoning the numbers of the people" (s 127). A petition launched in 1957 by the Aboriginal-Australian Fellowship (Faith Bandler and Jessie Street among its leaders) gathered just over 100,000 signatures; the Federal Council for the Advancement of Aborigines and Torres Strait Islanders (FCAATSI, founded 1958) carried the campaign and led the 1967 Yes vote, and the 1965 Freedom Ride built public support.

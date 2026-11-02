@@ -12,6 +12,7 @@ themes: shel.t.effectiveness, shel.t.values
 criteria: accessibility, society, rights, justice
 related: anglicare-rental-affordability-2026, icescr-1966
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 **122,494** people were counted as experiencing homelessness on Census night 2021. About **289,000**

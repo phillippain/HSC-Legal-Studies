@@ -12,6 +12,7 @@ themes: crime.t.compliance, crime.t.reform, crime.t.moral
 criteria: enforceability, society, responsiveness
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1900-040
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 - **s 316**: an adult who knows or believes a serious indictable offence has been committed, and has information that might be of material help to police, commits an offence by failing without reasonable excuse to bring it to police attention.

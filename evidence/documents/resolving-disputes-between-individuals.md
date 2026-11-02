@@ -12,6 +12,7 @@ themes: dis.t.justice, dis.t.values
 criteria: accessibility, resource, enforceability, justice, rights
 related: shelter-dispute-resolution-map, ncat-annual-report-2024-25, lgnsw-2025-cjc-closure
 added: 2026-09-20
+updated_at: 2026-10-24 21:28
 ---
 
 A reference note. The worked instances — NCAT's caseload, the closure of the Community Justice

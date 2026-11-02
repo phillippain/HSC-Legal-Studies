@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Marsden Park Teen Bail Refused Evidence Summary.pd
 source: https://www.abc.net.au/news/2026-10-31/nsw-teen-charged-over-marsden-park-alleged-stabbing/107331370
 related: bail-act-2013, young-offenders-in-the-cjs, guardian-2025-youth-detention-bail, youth-crime-younger-offenders-2026
 added: 2026-11-02
+updated_at: 2026-11-02 07:01
 ---
 
 Police shut down a house party in Marsden Park on the night of **30 October 2026**; a 17-year-old was arrested

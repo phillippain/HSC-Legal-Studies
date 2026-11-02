@@ -13,6 +13,7 @@ criteria: rights, accessibility, resource, enforceability
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1988-025
 related: crimes-act-1900-key-offences, nsw-hate-crime-laws-2025-26, nsw-knife-scanning-2026
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 Summary offences are less serious offences heard by a **magistrate alone** in the **Local Court**.

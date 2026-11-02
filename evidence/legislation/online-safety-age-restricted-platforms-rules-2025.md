@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, ruleoflaw, accessibility
 source: https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions
 related: online-safety-act-2021-and-social-media-minimum-age, under-16-social-media-ban-enforcement-2026, joint-select-committee-social-media-2024, age-assurance-technology-trial-2025, digital-duty-of-care-bill-2026
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 The *Online Safety Amendment (Social Media Minimum Age) Act 2024* (Cth) set the principle — platforms must take reasonable steps to prevent under-16s holding accounts — and left the detail to legislative rules. The Minister for Communications made the Rules in July 2025, announcing on 30 July 2025 that YouTube would not be exempt after all.

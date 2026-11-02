@@ -13,6 +13,7 @@ criteria: ruleoflaw, justice, rights, society
 document: Cases/Crime/Kadir v The Queen; Grech v The Queen [2020] HCA 1 - Case Summary.pdf
 related: evidence-act-1995, ridgeway-v-the-queen-1995
 added: 2026-10-23
+updated_at: 2026-10-24 10:52
 ---
 
 ## Facts

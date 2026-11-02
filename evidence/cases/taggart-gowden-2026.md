@@ -14,6 +14,7 @@ document: Cases/Family/Taggart & Gowden [2026] FedCFamC2F 673 (Summary).pdf
 source: https://www.fedcfamcourt.gov.au/
 related: surrogacy-act-2010-and-art-act-2007, masson-v-parsons-2019, international-surrogacy-parentage-declarations, abc-2025-commercial-surrogacy-prosecution-referral, qld-unrelated-twins-2026, nit-2024-family-is-culture, family-law-act-1975
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 The case the surrogacy dot point has been waiting for.

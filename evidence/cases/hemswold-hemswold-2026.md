@@ -14,6 +14,7 @@ document: Jade Cases/Raw Cases/Hemswold & Hemswold [2026] FedCFamC2F 264.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: melzer-powles-no2-2026, sullivan-warren-2026, cadel-galea-2026, escarro-kopp-2026, family-law-amendment-act-2023
 added: 2026-10-24
+updated_at: 2026-10-24 09:45
 ---
 
 Two children, **X born 2019** and **Y born 2022**. Y was an infant when the parties separated and

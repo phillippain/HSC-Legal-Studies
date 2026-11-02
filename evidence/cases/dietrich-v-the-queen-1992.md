@@ -13,6 +13,7 @@ criteria: accessibility, rights, ruleoflaw, justice
 document: Cases/Crime/Dietrich v The Queen (1992) 177 CLR 292 - Case Summary.pdf
 related: legal-representation-and-legal-aid, iccpr-1966, legal-aid-commission-act-1979, symons-v-r-2024, lawyer-magazine-2026-legal-aid-nsw
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Olaf Dietrich was arrested at Melbourne Airport in December 1986 with heroin concealed in his body

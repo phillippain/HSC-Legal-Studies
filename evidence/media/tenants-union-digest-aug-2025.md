@@ -14,6 +14,7 @@ document: Shelter/Tenants Union August Housing News Digest.pdf
 source: https://www.tenants.org.au/
 related: tenants-union-enews-feb-2025, renovation-eviction-evidence-rollback-2025, residential-tenancies-amendment-act-2024, nsw-rental-taskforce-2025, nsw-planning-law-shelter-sheet, ncat-tenancy-disputes
 added: 2026-10-22
+updated_at: 2026-10-24 08:27
 ---
 
 A 21-page digest of housing news the Tenants' Union circulates to advice services and members,

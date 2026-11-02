@@ -14,6 +14,7 @@ document: Family/Family Law Court orders for supervised contact in custodial dis
 source: https://doi.org/10.1017/cha.2019.42
 related: hemswold-hemswold-2026, lagounov-karstensen-2026, alberdingk-alberdingk-2026, melzer-powles-no2-2026, escarro-kopp-2026, family-courts-and-dispute-resolution, family-law-council-2024-disincentives-and-systems-abuse
 added: 2026-10-24
+updated_at: 2026-10-24 13:46
 ---
 
 A peer-reviewed study of **what actually happens** when a court orders supervised contact — the order

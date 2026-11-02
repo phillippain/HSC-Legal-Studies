@@ -29,6 +29,13 @@ def main():
     if d["meta"]["records"] != len(recs):
         fail.append("meta.records disagrees with the item count")
 
+    # 1b. every card says when it last changed, and the masthead can say when the evidence did
+    for it in d["items"]:
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}", it.get("updatedAt", "")):
+            fail.append(f"{it['id']}: no `updated_at` stamp — run build/stamp_records.py")
+    if not d["meta"].get("changedAt") or not d["meta"].get("builtAt"):
+        fail.append("meta.changedAt / meta.builtAt missing — the masthead cannot show when the site last changed")
+
     # 2. every tag on the page resolves, and core/support never carry a theme
     tag_ids = set(idx)
     theme_ids = {k for k, v in idx.items() if v["kind"] == "theme"}

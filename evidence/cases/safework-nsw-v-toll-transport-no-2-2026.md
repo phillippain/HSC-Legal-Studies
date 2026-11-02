@@ -14,6 +14,7 @@ document: Cases/Crime/SafeWork NSW v Toll Transport (No 2) [2026] NSWIC 63 - Cas
 document11: Cases/Year 11/Year 11 - SafeWork NSW v Toll Transport (No 2) [2026] NSWIC 63 - Case Summary.pdf
 related: markarian-v-the-queen-2005, veen-v-the-queen-no2-1988
 added: 2026-10-26
+updated_at: 2026-10-27 08:03
 ---
 
 On 20 December 2022 a Toll Transport worker's ankle was crushed freeing a jammed pallet with a

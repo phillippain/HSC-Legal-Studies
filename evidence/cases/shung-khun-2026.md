@@ -13,6 +13,7 @@ criteria: rights, enforceability, responsiveness, accessibility, justice
 document: Cases/Family/Shung & Khun [2026] FedCFamC1F 613 - Case Summary.pdf
 related: kurbonova-hennigsen-2026, croc-1989, billings-clowes-no2-2026, seaton-fogarty-2018, family-law-act-1975, deng-2026
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 Two brothers, X (born 2009) and Y (born 2014). The family moved to Australia in January 2020; the

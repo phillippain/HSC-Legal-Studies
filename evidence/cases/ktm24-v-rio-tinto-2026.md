@@ -13,6 +13,7 @@ criteria: enforceability, accessibility, rights, justice
 document: Cases/Human Rights/KTM24 v Rio Tinto Limited (Strike Out) [2026] FCA 1579 - Evidence Summary.pdf
 related: australian-human-rights-commission-act-1986, ahrc-balancing-act-2026, commonwealth-discrimination-acts-housing, cordle-v-brooks-2026
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 **KTM24** (a court-ordered pseudonym), funded by Omni Bridgeway, complained to the **AHRC** in February

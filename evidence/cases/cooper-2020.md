@@ -13,6 +13,7 @@ criteria: rights, responsiveness, justice
 related: residential-tenancies-act-2010
 document: Cases/Shelter/Cooper_v_The_Owners_SP_58068_2020_NSWCA_250_Case_Summary_1.pdf
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 The Court of Appeal held that a by-law imposing a blanket prohibition on keeping animals in a strata

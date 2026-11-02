@@ -14,6 +14,7 @@ document: Human Rights/HR - Secretaries Board Social Media Clips Evidence Summar
 source: https://theconversation.com/top-bureaucrats-dont-want-to-be-criticised-on-social-media-but-their-fix-may-be-unconstitutional-291448
 related: australian-constitution-rights-and-powers, human-rights-in-australia-common-law-courts-media-charter, online-safety-act-2021-and-social-media-minimum-age, joint-select-committee-social-media-2024
 added: 2026-10-26
+updated_at: 2026-10-26 12:17
 ---
 
 The **Secretaries Board** (heads of Commonwealth departments) told a parliamentary standards committee

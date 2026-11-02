@@ -13,6 +13,7 @@ criteria: enforceability, justice, rights
 document: Cases/Family/Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary.pdf
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 After a husband was charged with assaulting his wife and the couple separated in January 2024, he sold the family home to Ms Mandel, his long-term partner outside the marriage, and moved large sums overseas. In a final judgment the husband did not contest, Christie J set the transfer aside under s 106B on 15 September 2026, gave the wife all the Australian assets, and gave her sole decision-making for their child.

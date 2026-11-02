@@ -15,6 +15,7 @@ document11: Preliminary/Year 11 - UN Experts and Stalled Custody Bills Law Refor
 source: https://www.ohchr.org/en/press-releases/2026/10/australia-un-experts-concerned-failure-vote-bills-protecting-women-and
 related: lecc-strip-search-inquiry-2020, telegraph-2022-kempsey-baby-strip-search, young-offenders-in-the-cjs, australian-constitution-rights-and-powers, detention-and-interrogation-rights
 added: 2026-10-27
+updated_at: 2026-10-29 06:58
 ---
 
 Senator **Lidia Thorpe** introduced two private senator's bills on **18 August 2026** amending the

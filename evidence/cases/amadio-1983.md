@@ -14,6 +14,7 @@ document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx
 source: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/HCA/1983/14.html
 related: khoshaba-2006, shelter-dispute-resolution-map
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 Mr and Mrs Amadio, an elderly Italian-born couple with limited English, guaranteed their son's

@@ -14,6 +14,7 @@ document: Human Rights/HR - AI Chatbots and Children Digital Duty of Care Eviden
 source: https://theconversation.com/there-are-risks-when-children-use-ai-chatbots-does-australias-new-digital-duty-of-care-address-them-294352
 related: digital-duty-of-care-bill-2026, online-safety-act-2021-and-social-media-minimum-age, under-16-social-media-ban-enforcement-2026, technology-and-the-individual, croc-1989
 added: 2026-10-29
+updated_at: 2026-10-29 06:58
 ---
 
 eSafety surveyed **1,950** children aged 10 to 17 (February–March 2026): **78%** had used an AI assistant and **8%**

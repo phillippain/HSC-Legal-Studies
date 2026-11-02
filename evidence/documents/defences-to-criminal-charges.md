@@ -12,6 +12,7 @@ themes: crime.t.balance, crime.t.moral, crime.t.effectiveness
 criteria: rights, ruleoflaw, justice
 document: Crime/Criminal Trial Process/3d. Defences to Criminal Charges.docx
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 **Complete defences** justify the accused's actions — charges dropped, or an acquittal. **Partial

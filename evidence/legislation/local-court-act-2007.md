@@ -12,6 +12,7 @@ themes: crime.t.reform, crime.t.effectiveness
 criteria: accessibility, resource, society
 source: https://www.thelawyermag.com/au/practice-areas/public-sector/change-of-magistrate-title-to-judge-takes-effect-in-nsw-local-court/570448
 added: 2026-10-20
+updated_at: 2026-10-24 21:55
 ---
 
 - The Local Court hears summary offences, indictable offences dealt with summarily, first appearances, bail and charge certification. Sentencing limit: 2 years for one offence, 5 years in total (Crimes (Sentencing Procedure) Act s 58).

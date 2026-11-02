@@ -13,6 +13,7 @@ criteria: justice, responsiveness, society
 source: https://bocsar.nsw.gov.au/documents/publications/cjb/cjb251-300/CJB268-Report-court-outcomes-on-doli-incapax.pdf
 related: rp-v-the-queen-2016, doli-incapax-diversion-reforms-2025, children-criminal-proceedings-act-1987
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 For 10–13-year-olds in the NSW Children's Court, 2015–16 to 2022–23:

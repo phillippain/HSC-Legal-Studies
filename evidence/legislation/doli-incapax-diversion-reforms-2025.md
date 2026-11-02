@@ -13,6 +13,7 @@ criteria: responsiveness, accessibility, rights, justice
 source: https://www.lawsociety.com.au/sites/default/files/2026-07/Legislative%20Changes%20to%20the%20Young%20Offenders%20Act%201987%201.7.26.pdf
 related: rp-v-the-queen-2016, bocsar-cjb268-doli-incapax, young-offenders-act-1997, children-criminal-proceedings-act-1987
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 ## The review

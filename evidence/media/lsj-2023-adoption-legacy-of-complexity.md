@@ -14,6 +14,7 @@ document: Family/LSJ - The care of children a legacy of complexity.pdf
 source: https://lsj.com.au/articles/for-the-care-of-children-a-legacy-of-complexity/
 related: adoption-act-2000, children-and-young-persons-care-and-protection-act-1998, adoption-of-amb-and-jje-2018, australian-2025-adoption-aboriginality, smh-2025-korea-adoption-inquiry, nit-2024-family-is-culture, acyp-special-inquiry-aca-2024
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 A Law Society Journal survey of NSW adoption law, written for lawyers, which is why it is unusually

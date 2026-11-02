@@ -13,6 +13,7 @@ criteria: justice, enforceability, ruleoflaw, rights
 document: Cases/Crime/Prosecutor v Karadzic (ICTY, IT-95-5-18-T) 2016 - Case Summary.pdf
 related: rome-statute-1998, international-crime-evidence-summary-2026, prosecutor-v-duterte-icc
 added: 2026-10-23
+updated_at: 2026-10-24 21:54
 ---
 
 ## Facts and verdict

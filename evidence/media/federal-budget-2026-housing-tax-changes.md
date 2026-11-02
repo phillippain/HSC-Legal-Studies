@@ -13,6 +13,7 @@ criteria: responsiveness, society, resource, accessibility, justice
 document: Shelter/2026 LS Shelter Federal Budget Update.pdf
 related: abc-2025-home-owners-welfare-state, four-corners-2026-unaffordable, housing-shelter-or-asset-2026, hilda-2026-housing-brief, grattan-more-homes-better-cities-2025, anglicare-rental-affordability-2026, anao-haff-2026
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 The 2026 Budget made the first change to **negative gearing** and the **capital gains tax discount**

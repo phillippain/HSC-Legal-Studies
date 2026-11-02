@@ -14,6 +14,7 @@ document: Preliminary/Kmart camera glasses - law reform lag (Preliminary evidenc
 source: https://www.smartcompany.com.au/technology/privacy-watchdog-investigates-software-company-behind-89-kmart-smart-glasses/
 related: technology-and-the-individual, law-reform-conditions-agencies-mechanisms, law-in-practice-responses-and-effectiveness, individual-rights-and-responsibilities
 added: 2026-10-07
+updated_at: 2026-10-24 21:28
 ---
 
 Anko camera glasses — **$89**, 8MP stills, 1080p video, paired to the Chinese **HeyCyan** app — went on

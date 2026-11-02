@@ -13,6 +13,7 @@ criteria: rights, justice, society, responsiveness
 document: Cases/Family/Patchett & Tapley [2026] FedCFamC1F 504 - Case Summary.pdf
 related: family-law-amendment-act-2023, croc-1989, gizela-elmas-2026
 added: 2026-09-24
+updated_at: 2026-10-24 08:27
 ---
 
 Four Aboriginal children, aged 18 to 8, of parents who never married. The mother's partner, Mr B,

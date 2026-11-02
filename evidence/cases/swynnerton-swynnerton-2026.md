@@ -13,6 +13,7 @@ criteria: accessibility, justice, responsiveness
 document: Cases/Family/Swynnerton and Swynnerton [2026] ARTA 2033 - Case Summary.pdf
 related: brigham-hibler-2026, three-child-support-reviews-2026
 added: 2026-09-22
+updated_at: 2026-10-24 10:52
 ---
 
 Parents of four children separated but kept living in the same house, both working shifts. Child

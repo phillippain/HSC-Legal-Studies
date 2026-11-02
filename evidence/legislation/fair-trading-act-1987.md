@@ -13,6 +13,7 @@ criteria: enforceability, accessibility, responsiveness, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1987-068
 related: nsw-rental-taskforce-2025, residential-tenancies-act-2010, residential-tenancies-amendment-act-2024, tenants-union-digest-aug-2025, renovation-eviction-evidence-rollback-2025, home-building-act-1989, ncat-tenancy-disputes
 added: 2026-10-22
+updated_at: 2026-10-24 21:28
 ---
 
 Most of the Shelter statutes say what landlords, agents, operators and builders must do; the *Fair

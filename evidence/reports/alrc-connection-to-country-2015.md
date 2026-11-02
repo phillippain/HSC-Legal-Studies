@@ -13,6 +13,7 @@ criteria: accessibility, responsiveness, justice, resource
 source: https://www.alrc.gov.au/publication/connection-to-country-review-of-the-native-title-act-1993-cth-alrc-report-126/
 related: native-title-act-1993, mabo-no2-1992, law-reform-commission-acts, commonwealth-v-yunupingu-2025
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 The Attorney-General referred the connection requirements of the *Native Title Act 1993* (s 223) and the authorisation and joinder provisions to the ALRC in 2013, after two decades in which proving native title had become slower and more expensive than *Mabo* had implied — *Yorta Yorta* (2002) had required claimants to show their traditional laws and customs had been observed "substantially uninterrupted" since sovereignty.

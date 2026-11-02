@@ -13,6 +13,7 @@ criteria: justice, rights, responsiveness
 source: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/nt/NTSC/1971/14.html
 related: mabo-no2-1992, native-title-act-1993, mabo-meriam-claim-1982
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 The Yolngu clans of Yirrkala (whose 1963 bark petitions had already gone to the Commonwealth Parliament) sued to stop a bauxite mine on the Gove Peninsula, claiming the land was theirs under their own law.

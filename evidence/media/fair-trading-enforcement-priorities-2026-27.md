@@ -14,6 +14,7 @@ document: Shelter/Evidence Sheets/Shelter - Fair Trading priorities 2026-27 rent
 source: https://www.nsw.gov.au/departments-and-agencies/customer-service/media-releases/nsw-fair-trading-publishes-its-compliance-and-enforcement-priorities
 related: nsw-rental-taskforce-2025, residential-tenancies-amendment-act-2024, residential-tenancies-act-2010, fair-trading-act-1987, strata-schemes-legislation-amendment-miscellaneous-bill-2025, ncat-tenancy-disputes
 added: 2026-10-28
+updated_at: 2026-10-30 07:35
 ---
 
 Fair Trading's 2026–27 priorities are **renting**, **property and strata**, and **consumer goods**. In

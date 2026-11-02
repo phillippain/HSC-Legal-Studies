@@ -13,6 +13,7 @@ criteria: responsiveness, rights, enforceability, resource, society, justice
 document: Family/CPOC/Care_Protection_Children_Notes.pdf
 related: family-law-act-1975, family-law-amendment-act-2023, croc-1989, smh-2026-marcus-foster-care
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Built around the syllabus criteria, one heading at a time, with a verdict on each.

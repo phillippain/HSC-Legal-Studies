@@ -14,6 +14,7 @@ document: News Articles/Human Rights/Hate speech laws: NSW Labor’s ‘cruel’
 source: https://www.smh.com.au/politics/nsw/nsw-labor-slammed-for-cruel-new-hate-speech-laws-that-won-t-protect-lgbtiq-community-20250206-p5la3c.html
 related: nsw-hate-crime-laws-2025-26, wertheim-v-haddad-2025, human-rights-in-australia-common-law-courts-media-charter, udhr-1948, iccpr-1966
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 After a spate of antisemitic violence in Sydney, Premier **Chris Minns** announced in February 2025

@@ -14,6 +14,7 @@ document: Jade Cases/Completed Case Summaries/03_Wannell_and_Luxford_2026_FedCFa
 document11: Cases/Year 11/Year 11 - Wannell and Luxford [2026] FedCFamC2F 930 - Case Summary.pdf
 related: croc-1989, billings-clowes-no2-2026, merran-salter-2026
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 Two children, Y (2012) and X (2014), had lived week-about after a long history of cooperative

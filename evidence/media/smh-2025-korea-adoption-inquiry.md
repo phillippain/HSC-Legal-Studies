@@ -14,6 +14,7 @@ document: Family/South Korea adoption: Labor pledges to investigate Australia-Ko
 source: https://www.smh.com.au/world/asia/labor-pledges-to-investigate-australia-korea-adoption-program-20250410-p5lqp5.html
 related: australian-2025-adoption-aboriginality, croc-1989
 added: 2026-09-19
+updated_at: 2026-10-24 21:55
 ---
 
 A **landmark South Korean inquiry** found systemic fraud and abuse in that country's adoption

@@ -15,6 +15,7 @@ document11: Cases/Year 11/Year 11 - Garcia v NAB [1998] HCA 48 - Case Summary.pd
 source: https://www.hcourt.gov.au/
 related: amadio-1983, khoshaba-2006, shelter-dispute-resolution-map
 added: 2026-10-23
+updated_at: 2026-10-24 13:21
 ---
 
 Jean Garcia signed a $270,000 guarantee of her husband's company debts on 25 November 1987 in under a minute with no explanation. It was secured by an "all moneys" mortgage over the Wahroonga family home that she did not realise stood behind it. The bank demanded about $327,000 and claimed possession.

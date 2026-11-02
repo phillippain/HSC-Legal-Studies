@@ -13,6 +13,7 @@ criteria: enforceability, accessibility, ruleoflaw, justice
 document: Cases/Family/Glancey and Glancey 2026 ARTA 1945 - Case Summary.pdf
 related: devine-kitson-2026, palgrave-blackwall-2026
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Two children, born 2008 and 2011, with a child support case registered since 2009. For years the

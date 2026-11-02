@@ -13,6 +13,7 @@ criteria: justice, rights, society
 source: https://www.hcourt.gov.au/
 related: crime-nature-and-classification, crimes-act-1900-key-offences
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 In three appeals from South Australia, young men were convicted of murder after a group assault in

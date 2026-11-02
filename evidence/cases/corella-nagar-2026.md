@@ -13,6 +13,7 @@ criteria: justice, rights, accessibility, resource
 document: Cases/Family/Corella & Nagar [2026] FedCFamC2F 1037 - Case Summary.pdf
 related: duff-horner-2026, sha-cham-2017, family-law-act-1975
 added: 2026-09-22
+updated_at: 2026-10-24 21:28
 ---
 
 A man now 67 claimed a de facto relationship of 25 years — June 1998 to July 2023 — with a woman now

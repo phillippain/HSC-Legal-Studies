@@ -14,6 +14,7 @@ document: Human Rights/Recognising and Responding to forced marriage.pdf
 source: https://amwchr.org.au/
 related: anti-slavery-australia-frontline-guide-2024, good-weekend-2025-forced-marriage, modern-slavery-act-2018, criminal-code-cth-transnational-offences, global-slavery-index-2023
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 Two pages, produced by the **Australian Muslim Women's Centre for Human Rights** and funded by the

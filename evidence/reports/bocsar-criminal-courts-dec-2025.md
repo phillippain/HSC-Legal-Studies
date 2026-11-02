@@ -13,6 +13,7 @@ criteria: resource, accessibility, rights, justice
 document: Cases/BOCSAR/12LS BOCSAR Update July26.pdf
 source: https://bocsar.nsw.gov.au/research-evaluations/2026/criminal-court-statistics-dec-2025.html
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 156,256 defendants in finalised appearances, up **21.0%** on 2021. **86.4%** were found guilty of at

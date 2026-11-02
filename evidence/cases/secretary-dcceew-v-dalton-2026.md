@@ -14,6 +14,7 @@ document: Cases/Crime/Secretary DCCEEW v Dalton [2026] NSWLEC 138 - Case Summary
 document11: Cases/Year 11/Year 11 - Secretary DCCEEW v Dalton [2026] NSWLEC 138 - Case Summary.pdf
 related: safework-nsw-v-axentra-projects-2026
 added: 2026-11-03
+updated_at: 2026-11-03 08:23
 ---
 
 A landholder pleaded guilty at the first opportunity to two counts of clearing native vegetation in a

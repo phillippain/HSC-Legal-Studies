@@ -13,6 +13,7 @@ criteria: enforceability, rights, accessibility, resource, responsiveness
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1989-147
 related: design-building-practitioners-act-2020, residential-apartment-buildings-act-2020, conveyancing-act-1919, strata-schemes-management-act-2015, ncat-act-2013, shelter-dispute-resolution-map
 added: 2026-10-22
+updated_at: 2026-10-24 21:28
 ---
 
 The *Home Building Act* is the consumer-protection statute for residential construction. It sits

@@ -13,6 +13,7 @@ criteria: justice, accessibility, resource, enforceability
 document: Cases/Family/Olmstead & Olmstead [2026] FedCFamC1A 153 - Case Summary.pdf
 related: daalman-daalman-no2-2026, family-law-act-1975
 added: 2026-09-24
+updated_at: 2026-10-24 21:28
 ---
 
 A husband and wife who married in 1998 and separated in 2023 after about 25 years; four adult

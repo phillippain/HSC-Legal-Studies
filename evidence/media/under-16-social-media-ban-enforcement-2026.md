@@ -13,6 +13,7 @@ criteria: enforceability, rights, responsiveness, society
 document: Human Rights/HR - Under-16 Social Media Ban Lawsuit Evidence Summary.pdf
 related: online-safety-act-2021-and-social-media-minimum-age, croc-1989, digital-duty-of-care-bill-2026, privacy-act-1988-and-2024-reforms, technology-and-the-individual, australian-human-rights-commission-act-1986
 added: 2026-10-23
+updated_at: 2026-10-24 21:55
 ---
 
 The **Social Media Minimum Age** obligation (*Online Safety Act 2021* s 63D) commenced on **10 December

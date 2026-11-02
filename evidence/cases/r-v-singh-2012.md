@@ -13,6 +13,7 @@ criteria: society, justice, responsiveness, rights
 document: Cases/Crime/R v Singh [2012] NSWSC 637 - Case Summary.pdf
 related: crimes-amendment-provocation-2014, defences-to-criminal-charges, crimes-act-homicide-defences, r-v-kl-2025, symons-v-r-2024
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Chamanjot Singh, about 22, and Manpreet Kaur, 27, married in India in 2008 in a match that let one

@@ -14,6 +14,7 @@ document: Shelter/Opal Tower.pdf
 source: https://www.afr.com/property/what-are-australias-other-defective-towers-aside-from-sydney-s-opal-tower-20190108-h19ue8
 related: mascot-towers-s430-investigation-2023, smh-2025-defects-cost-700m, brookfield-multiplex-2014, pafburn-2024, design-building-practitioners-act-2020, building-defects-reform-sequence
 added: 2026-10-24
+updated_at: 2026-10-24 10:51
 ---
 
 Residents of **Opal Tower** at Sydney Olympic Park were evacuated on **Christmas Eve 2018** after

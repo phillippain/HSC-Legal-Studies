@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, ruleoflaw, justice, responsiveness
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1997-076
 related: disputes-with-the-state-review, ncat-act-2013, administrative-review-tribunal-act-2024, ombudsman-act-1974, hgy-v-secretary-ministry-of-health-2026, goldman-v-inner-west-council-2026, housing-act-2001, kioa-v-west-1985
 added: 2026-10-22
+updated_at: 2026-10-24 13:22
 ---
 
 The NSW counterpart to the Commonwealth's ART and ADJR Acts. Originally the *Administrative

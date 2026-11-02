@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Bondi Attack False Injury Claim Charge Evidence Su
 source: https://www.abc.net.au/news/2026-10-28/nsw-man-charged-over-bondi-terror-attack-injury-claim/107317020
 related: victims-rights-and-support-act-2013, bail-act-2013, crimes-act-1900-key-offences, nsw-firearms-reforms-and-gun-buyback-2026
 added: 2026-10-29
+updated_at: 2026-10-29 06:58
 ---
 
 The **Bondi Beach terror attack** (14 December 2025) killed 15 people; 41 were taken to hospital. On **27

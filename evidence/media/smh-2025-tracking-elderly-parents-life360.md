@@ -14,6 +14,7 @@ document: News Articles/Family/Tracking Elderly Parents for Safety: How Life360 
 source: https://www.smh.com.au/technology/why-tracking-your-parents-is-about-to-be-the-next-big-thing-20250228-p5lfzr.html
 related: smh-2025-tracking-apps-coercive-control, guardian-2026-gps-tracking, crimes-domestic-personal-violence-act-2007, privacy-act-1988-and-2024-reforms, surveillance-devices-act-2007-and-tia-act-1979
 added: 2026-10-24
+updated_at: 2026-10-24 13:59
 ---
 
 The best use of this article in a Legal Studies answer is as the **mirror image** of the coercive-control reporting. The technology is identical. The legal and moral character of its use turns entirely on consent, capacity and purpose — and the law has no clean way to test any of the three inside a family.

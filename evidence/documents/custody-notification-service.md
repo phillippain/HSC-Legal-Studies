@@ -11,6 +11,7 @@ support: crime.5.2, hr.2.10, hr.2.4, exp.2.3
 themes: crime.t.reform, crime.t.balance
 criteria: rights, accessibility, justice
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 When an Aboriginal or Torres Strait Islander person is detained, the **custody manager must notify** the Aboriginal Legal Service's Custody Notification Service, which gives legal advice and checks on the person's welfare. Notification has been **mandatory since 2016**.

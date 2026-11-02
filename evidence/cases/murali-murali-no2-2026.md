@@ -13,6 +13,7 @@ criteria: rights, enforceability, justice, responsiveness, resource
 document: Cases/Family/Murali & Murali (No 2) [2026] FedCFamC1F 604 - Case Summary.pdf
 related: kegler-mansons-2026, selley-dorner-2026, billings-clowes-no2-2026, morse-duarte-2017, family-law-act-1975, care-and-protection-of-children-evidence-sheet
 added: 2026-10-22
+updated_at: 2026-10-24 21:47
 ---
 
 Together from December 2012; their only child born in 2020. In November 2022, during an argument,

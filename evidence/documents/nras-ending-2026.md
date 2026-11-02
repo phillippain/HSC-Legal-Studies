@@ -14,6 +14,7 @@ document: Shelter/The end of the NRAS & what's next.pdf
 source: https://theconversation.com/au
 related: housing-australia-future-fund-act-2023, anao-haff-2026, telegraph-2025-haff-costly-flop, build-to-rent-tax-concessions-2024, rental-subsidies-cra-and-nsw, pawson-2023-social-housing-in-australia, anglicare-rental-affordability-2026, smh-2025-renting-retirees-grattan
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 The **National Rental Affordability Scheme** was a Commonwealth housing supply policy introduced by

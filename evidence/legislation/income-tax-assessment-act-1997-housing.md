@@ -13,6 +13,7 @@ criteria: resource, society, responsiveness, justice
 source: https://www.legislation.gov.au/C2004A05138/latest/text
 related: federal-budget-2026-housing-tax-changes, abc-2025-home-owners-welfare-state, housing-shelter-or-asset-2026, four-corners-2026-unaffordable, first-home-buyer-concessions-nsw, grattan-more-homes-better-cities-2025
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 Tax law is Shelter law by effect rather than design. Nothing in the *Income Tax Assessment Act* is

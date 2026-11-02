@@ -14,6 +14,7 @@ document: Shelter/Commonwealth and NSW Build to Rent.pdf
 source: https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/build-to-rent-development-tax-concessions
 related: housing-australia-future-fund-act-2023, smh-2025-landcom-parramatta-road-btr, income-tax-assessment-act-1997-housing, nras-ending-2026, afr-2025-family-home-tax-break, planning-system-reforms-act-2025, rental-subsidies-cra-and-nsw
 added: 2026-10-24
+updated_at: 2026-10-24 11:39
 ---
 
 **Build to rent (BTR)** means large residential developments designed, built and **retained under

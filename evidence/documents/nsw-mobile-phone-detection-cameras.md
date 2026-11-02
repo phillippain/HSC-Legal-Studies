@@ -13,6 +13,7 @@ criteria: enforceability, resource, rights, society
 source: https://www.mynrma.com.au/open-road/news/2025/most-common-offences-caught-on-camera-nsw
 related: crime-nature-and-classification
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 ## The scheme

@@ -13,6 +13,7 @@ criteria: accessibility, resource, enforceability, justice
 document: Cases/Family/Brigham and Hibler [2026] ARTA 2053 - Case Summary.pdf
 related: three-child-support-reviews-2026, swynnerton-swynnerton-2026, fernley-masson-2026
 added: 2026-09-22
+updated_at: 2026-10-24 21:28
 ---
 
 Seven years of **private collect** — the parents paying each other directly — ended when Child

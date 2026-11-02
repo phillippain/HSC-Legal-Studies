@@ -12,6 +12,7 @@ themes: fam.t.compliance, crime.t.compliance, crime.t.effectiveness
 criteria: enforceability, rights, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2007-080
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 **s 14** makes contravening an apprehended domestic violence order an offence — maximum 2 years

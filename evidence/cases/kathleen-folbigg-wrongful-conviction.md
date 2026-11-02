@@ -12,6 +12,7 @@ themes: crime.t.effectiveness, crime.t.reform, crime.t.moral
 criteria: justice, rights, responsiveness, ruleoflaw
 source: https://www.ruleoflaw.org.au/case-note-kathleen-folbigg
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 Four children died between 1989 and 1999. Folbigg was arrested in April 2001 and in 2003 a jury

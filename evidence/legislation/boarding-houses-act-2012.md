@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, rights, responsiveness, justice
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2012-074
 related: residential-tenancies-act-2010, tenants-union-enews-feb-2025, ncat-act-2013, anti-discrimination-act-1977, environmental-planning-and-assessment-act-1979, shelter-what-it-means
 added: 2026-10-22
+updated_at: 2026-10-24 08:27
 ---
 
 Boarders and lodgers — people who rent a room, usually with shared facilities and without exclusive

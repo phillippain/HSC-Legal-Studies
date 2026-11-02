@@ -14,6 +14,7 @@ document: Crime/Charge Negotiation- Nicholas Cowdrey.docx
 source: https://www.odpp.nsw.gov.au/
 related: odpp-prosecution-guidelines, early-appropriate-guilty-plea-reforms-2018, criminal-procedure-act-1986, r-v-koch-2009, smh-2025-thompson-guilty-plea-eve-of-trial, crimes-sentencing-procedure-act-1999, use-of-evidence-and-witnesses
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Written by **Nicholas Cowdery**, Director of Public Prosecutions for NSW from 1994 to 2011 — so this

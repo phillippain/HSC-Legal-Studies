@@ -14,6 +14,7 @@ document: Family/Court Based Family Dispute Resolution.pdf
 source: https://www.fcfcoa.gov.au/fl/pubs/court-based-fdr
 related: federal-circuit-and-family-court-act-2021, family-law-act-1975, family-law-amendment-act-2024-property
 added: 2026-10-24
+updated_at: 2026-10-24 13:59
 ---
 
 Most students learn family dispute resolution as the thing that happens **before** court: s 60I requires a certificate from an accredited FDR practitioner before a parenting application can be filed. This fact sheet is about the other kind — the conference the court orders **after** proceedings have started, under s 13C(1)(b) of the *Family Law Act 1975* (Cth).

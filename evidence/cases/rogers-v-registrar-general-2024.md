@@ -14,6 +14,7 @@ document: Shelter/Squatter’s rights case of the Gymea Bay fibro.pdf
 source: https://www.smh.com.au/national/nsw/how-squatter-s-rights-delivered-a-sydney-home-to-one-man-20240731-p5jxxh.html
 related: willis-v-abraham-no2-2025, real-property-act-1900, shelter-what-it-means
 added: 2026-10-22
+updated_at: 2026-10-24 21:28
 ---
 
 Joseph Saric, a Croatian migrant and ship's engineer, died of cancer in July 1968 — divorced, out of

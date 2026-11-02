@@ -13,6 +13,7 @@ criteria: justice, rights, enforceability
 document: Cases/Crime/Proudman v Dayman [1941] HCA 28 - Case Summary.pdf
 related: road-transport-act-2013-strict-liability, crime-nature-and-classification, defences-to-criminal-charges, woolmington-v-dpp-1935
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 Annie Proudman was convicted under s 30 of the *Road Traffic Act 1934–1939* (SA) of **permitting a

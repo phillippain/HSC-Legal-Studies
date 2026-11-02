@@ -13,6 +13,7 @@ criteria: rights, enforceability, accessibility, responsiveness, justice
 document: Cases/Human Rights/HGY v Secretary, Ministry of Health [2026] NSWCATAD 278 - Case Summary.pdf
 related: fowler-v-forestville-rsl-2026, haji-zadeh-v-woolworths-2026, jones-v-commissioner-of-police-2026
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 An existing employee of a State-operated health service applied for a further position within the

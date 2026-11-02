@@ -14,6 +14,7 @@ document: Cases/Family/Klimova and Klimova [2026] FedCFamC1A 190 - Case Summary.
 document11: Cases/Year 11/Year 11 - Klimova and Klimova [2026] FedCFamC1A 190 - Case Summary.pdf
 related: vora-and-vora-2026
 added: 2026-10-26
+updated_at: 2026-10-27 08:03
 ---
 
 A mother with **no lawyer at trial**, assisted by an interpreter, appealed final parenting orders

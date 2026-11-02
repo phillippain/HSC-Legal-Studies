@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Family - Parenting Policy Gap Commentary Evi
 source: https://theconversation.com/parents-have-one-of-australias-most-important-jobs-so-why-dont-we-have-policy-for-them-293334
 related: family-law-act-1975, children-and-young-persons-care-and-protection-act-1998, childhood-physical-abuse-by-parents-study-2026, croc-1989
 added: 2026-10-29
+updated_at: 2026-10-29 06:58
 ---
 
 Professor **Daryl Higgins** says parents carry primary responsibility for children (**CRC art 18**) yet are "largely

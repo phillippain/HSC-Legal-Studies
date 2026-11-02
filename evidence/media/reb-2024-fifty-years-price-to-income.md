@@ -14,6 +14,7 @@ document: News Articles/Shelter/50 years of data shows stark change in income-to
 source: https://www.realestatebusiness.com.au/industry/29004-50-years-of-data-shows-stark-change-in-income-to-house-price-ratio
 related: grattan-housing-affordability-2018, housing-shelter-or-asset-2026, anglicare-rental-affordability-2026, abs-homelessness-census-2021, first-home-guarantee-expansion-2025
 added: 2026-10-24
+updated_at: 2026-10-24 09:16
 ---
 
 ## The numbers

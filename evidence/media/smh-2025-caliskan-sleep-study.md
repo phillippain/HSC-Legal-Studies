@@ -12,6 +12,7 @@ themes: crime.t.moral, crime.t.effectiveness
 criteria: justice, rights
 document: Crime/Media/Prosecutors drop murder charge against woman after sleep study.pdf
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 Ilknur Caliskan was charged with murdering her husband, Serdar, who was stabbed during a camping trip near Mount Disappointment in September 2023. Her lawyers flagged **parasomnia** (sleepwalking) as a possible defence; she was bailed in April 2024 to undergo a sleep study in Sydney, as no suitable expert was available in Victoria. In February 2025 prosecutors told the Supreme Court the case had been **discontinued**, without giving reasons.

@@ -14,6 +14,7 @@ source: https://robodebt.royalcommission.gov.au/
 related: royal-commissions-acts, ombudsman-and-statutory-bodies, administrative-review-tribunal-act-2024, kathleen-folbigg-wrongful-conviction
 added: 2026-10-24
 document11: Preliminary/Year 11 - Robodebt Royal Commission Evidence Summary.pdf
+updated_at: 2026-10-26 09:40
 ---
 
 From 2015 to 2019 Centrelink raised debts by "income averaging" — dividing a year's ATO income evenly across fortnights — and put the onus on welfare recipients to disprove them. About 470,000 debts were unlawful. A Federal Court class action settled in 2020 for $1.8 billion (repayments, interest and $112 million compensation), and the Commonwealth conceded the method was unlawful.

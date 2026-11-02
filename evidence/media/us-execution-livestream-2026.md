@@ -14,6 +14,7 @@ document: Human Rights/US execution livestream and the death penalty (Evidence s
 source: https://www.abc.net.au/news/2026-10-16/trump-cancels-livestream-execution-fort-hood/107273194
 related: iccpr-1966, human-rights-promotion-and-enforcement-international, human-rights-in-australia-common-law-courts-media-charter, digital-duty-of-care-bill-2026, robinson-mexico-sentencing-2026
 added: 2026-10-21
+updated_at: 2026-10-24 21:47
 ---
 
 **Nidal Hasan**, the Army psychiatrist who killed 13 people and injured 32 at Fort Hood on

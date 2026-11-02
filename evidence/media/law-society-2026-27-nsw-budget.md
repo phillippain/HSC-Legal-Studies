@@ -12,6 +12,7 @@ themes: crime.t.effectiveness
 criteria: resource, accessibility, justice
 source: https://www.thelawyermag.com/au/news/general/nsw-law-soc-flags-limited-courts-investment-in-2026-27-state-budget/580088
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 - Courts received a 'meagre' share of the $116.7 billion infrastructure program to 2030.

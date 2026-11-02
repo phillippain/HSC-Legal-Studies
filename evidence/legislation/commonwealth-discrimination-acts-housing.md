@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, rights, justice
 source: https://www.legislation.gov.au/C2004A00274/latest/text
 related: anti-discrimination-act-1977, shelter-discrimination-evidence-sheet, ahrc-balancing-act-2026, ahrc-yissa-shelter-closure-2026, icescr-1966, crpd-2006
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 The Commonwealth's discrimination laws rest on the external affairs power: each Act gives domestic

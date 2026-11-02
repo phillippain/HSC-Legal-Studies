@@ -13,6 +13,7 @@ criteria: resource, accessibility, responsiveness, rights, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2001-052
 related: shelter-social-housing-evidence-sheet, homelessness-nsw-place-to-call-home-2025, aboriginal-housing-act-1998, community-housing-providers-national-law-act-2012, housing-australia-future-fund-act-2023, residential-tenancies-act-2010, guardian-2025-pari-move-on
 added: 2026-10-22
+updated_at: 2026-10-24 08:27
 ---
 
 The *Housing Act 2001* is the statutory basis for public housing in NSW. It replaced the *Housing Act

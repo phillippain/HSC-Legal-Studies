@@ -13,6 +13,7 @@ criteria: rights, justice, ruleoflaw
 document: Cases/Year 11/McCall v SMRT Log Pty Ltd (Privilege) [2026] NSWSC 1308 - Evidence Summary.pdf
 related: evidence-act-1995, the-adversary-system-and-court-jurisdiction, civil-procedure-act-2005, use-of-evidence-and-witnesses
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 During a civil trial over a Hunter Valley property held as tenants in common, Ms McCall spent four days

@@ -14,6 +14,7 @@ document: Family/Tracking apps coercive control report: Research by Australian e
 source: https://www.smh.com.au/
 related: smh-2025-lilie-james-inquest, guardian-2026-gps-tracking, kmart-camera-glasses-hsc-2026, bocsar-coercive-control-june-2026, crimes-act-1900-s54d, online-safety-act-2021-and-social-media-minimum-age, digital-duty-of-care-bill-2026, family-law-council-2024-disincentives-and-systems-abuse
 added: 2026-10-24
+updated_at: 2026-11-02 08:19
 ---
 
 The record that explains why a criminal offence is not enough: the behaviour the law now calls

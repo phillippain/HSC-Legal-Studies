@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, society
 source: https://www.legislation.gov.au/C2004A04868/latest
 related: rome-statute-1998, aml-ctf-tranche-2-2026, modern-slavery-act-2018, abc-2026-cocaine-seizure
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 | Crime | Law | Maximum |

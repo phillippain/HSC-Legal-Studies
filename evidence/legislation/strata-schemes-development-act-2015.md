@@ -13,6 +13,7 @@ criteria: rights, enforceability, justice, society, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2015-051
 related: strata-schemes-management-act-2015, strata-schemes-legislation-amendment-miscellaneous-bill-2025, real-property-act-1900, environmental-planning-and-assessment-act-1979, ncat-act-2013
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 Strata title — ownership of a **lot** (the apartment) plus a share of the **common property** — was

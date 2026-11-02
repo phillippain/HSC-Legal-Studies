@@ -14,6 +14,7 @@ document: Jade Cases/Raw Cases/Harlow & Harlow (No 3) [2026] FedCFamC1F 527.rtf
 source: https://www.fedcfamcourt.gov.au/
 related: pratley-pratley-no9-2026, beitel-beitel-2026, duffy-duffy-2026, court-hierarchy-and-jurisdiction, federal-circuit-and-family-court-act-2021, australian-constitution-rights-and-powers, family-law-act-1975
 added: 2026-10-24
+updated_at: 2026-10-24 21:55
 ---
 
 Mr and Ms Harlow married in 1980, separated in January 2023 and divorced in March 2024. The husband

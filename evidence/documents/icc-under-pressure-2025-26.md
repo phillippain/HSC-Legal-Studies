@@ -13,6 +13,7 @@ criteria: enforceability, ruleoflaw, justice, responsiveness
 source: https://www.justsecurity.org/
 related: rome-statute-1998, putin-warrant-icc-2023, prosecutor-v-duterte-icc, south-africa-v-israel-icj
 added: 2026-10-20
+updated_at: 2026-10-24 21:47
 ---
 
 ## Pressure from outside

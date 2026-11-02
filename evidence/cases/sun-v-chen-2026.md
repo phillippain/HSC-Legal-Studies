@@ -13,6 +13,7 @@ criteria: rights, enforceability, ruleoflaw, justice
 document: Jade Cases/Completed Case Summaries/Sun_v_Chen_case_summary.pdf
 related: pafburn-2024, design-building-practitioners-act-2020
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 Ms Sun engaged a building company, later in administration, to build three houses. She claimed its

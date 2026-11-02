@@ -13,6 +13,7 @@ criteria: accessibility, enforceability, rights, justice
 document: Jade Cases/Raw Cases/Fowler v Forestville RSL Club Ltd - NSW Caselaw.pdf
 related: haji-zadeh-v-woolworths-2026, jones-v-commissioner-of-police-2026, shelter-discrimination-evidence-sheet
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 Ms Fowler and Mr Alecci, husband and wife, are members of a registered club. In **2020** Ms Fowler

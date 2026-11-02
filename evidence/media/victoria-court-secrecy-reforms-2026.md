@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Victoria Court Secrecy Reforms Evidence Summary.pd
 source: https://theconversation.com/secrecy-in-victorias-courts-is-rife-here-are-6-reforms-that-would-make-the-system-better-286756
 related: the-adversary-system-and-court-jurisdiction, australian-constitution-rights-and-powers, human-rights-in-australia-common-law-courts-media-charter, law-reform-commission-acts
 added: 2026-10-26
+updated_at: 2026-10-26 12:18
 ---
 
 A 2013 change to Victoria's **Open Courts Act** from "physical safety" to "safety" let courts suppress an

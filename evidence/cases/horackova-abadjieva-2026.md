@@ -13,6 +13,7 @@ criteria: ruleoflaw, justice, enforceability
 document: Cases/Family/Horackova and Abadjieva [2026] FedCFamC1F 665 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Horackova and Abadjieva [2026] FedCFamC1F 665 - Case Summary.pdf
 added: 2026-10-29
+updated_at: 2026-10-30 07:20
 ---
 
 A woman applied on 13 March 2026 for a decree of nullity because her husband was still married to Ms F when they married in mid-2024. He agreed the marriage should be void but said he did not know. Campton J, giving ex tempore reasons in a final first-instance decision on 29 September 2026, did not accept his evidence, declared the marriage null and void, and ordered him to pay $2,190 costs.

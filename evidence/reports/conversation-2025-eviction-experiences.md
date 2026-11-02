@@ -14,6 +14,7 @@ document: Shelter/The Conversation Eviction Experiences.pdf
 source: https://theconversation.com/au
 related: nsw-no-grounds-reform-2026, residential-tenancies-amendment-act-2024, renovation-eviction-evidence-rollback-2025, tenants-union-digest-aug-2025, smh-2025-renting-retirees-grattan, afr-2025-investors-quitting-apartments, ncat-tenancy-disputes
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 **In-depth interviews with 53 private tenants** in NSW and Queensland, by researchers at UTS and the

@@ -13,6 +13,7 @@ criteria: rights, enforceability, responsiveness, accessibility, society, justic
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2012-051
 related: hcv-v-childrens-guardian-2026, gta-v-childrens-guardian-2026, children-and-young-persons-care-and-protection-act-1998, child-protection-offenders-registration-act-2000, ncat-act-2013, administrative-decisions-review-act-1997, care-and-protection-of-children-evidence-sheet
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 The **Working With Children Check**. Its object is to protect children by **not permitting certain

@@ -13,6 +13,7 @@ criteria: rights, responsiveness, accessibility, justice
 document: Cases/Family/Palgrave and Blackwall 2026 ARTA 1947 - Case Summary.pdf
 related: devine-kitson-2026, glancey-glancey-2026
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 From July 2014 Services Australia recorded the mother as providing **100%** of the child's care. On

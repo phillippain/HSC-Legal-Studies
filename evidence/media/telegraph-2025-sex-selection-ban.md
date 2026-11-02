@@ -14,6 +14,7 @@ document: Family/Gender Selection.pdf
 source: https://www.dailytelegraph.com.au/
 related: surrogacy-act-2010-and-art-act-2007, art-law-reform-2019-2025, telegraph-2025-monash-ivf-mixup, heraldsun-2025-ivf-medicare-definition, telegraph-2025-colombian-surrogacy-nightmare, qld-unrelated-twins-2026
 added: 2026-10-24
+updated_at: 2026-10-24 21:54
 ---
 
 Selecting a baby's sex for non-medical reasons is **banned in Australia on ethical grounds**. The ban

@@ -12,6 +12,7 @@ themes: inv.t.values, inv.t.justice
 criteria: enforceability, rights, responsiveness, society, justice
 related: international-law-and-australian-law, four-corners-2026-food-supply-chain, udhr-1948
 added: 2026-09-20
+updated_at: 2026-10-24 21:47
 ---
 
 A reference note.

@@ -15,6 +15,7 @@ document11: Preliminary/Year 11 - Changing the Law - DV Suicide Inquiry Evidence
 source: https://www.abc.net.au/news/2026-10-29/inquiry-into-domestic-violence-and-suicide-victim-survival-story/107283316
 related: crimes-act-1900-s54d, bocsar-coercive-control-june-2026, smh-2026-fairleigh-coercive-control, crimes-domestic-personal-violence-act-2007
 added: 2026-10-30
+updated_at: 2026-10-30 07:35
 ---
 
 Referred by Social Services Minister Tanya Plibersek and adopted on 28 October 2025, the House committee inquiry

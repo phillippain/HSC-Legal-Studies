@@ -13,6 +13,7 @@ criteria: accessibility, resource, society, responsiveness, justice
 document: Shelter/Evidence Sheets/Evidence Sheet - NSW Planning laws & policy.pdf
 related: grattan-sydney-housing-2026, shelter-affordability-evidence-sheet
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 ## Affordability

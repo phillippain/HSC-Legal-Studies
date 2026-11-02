@@ -13,6 +13,7 @@ criteria: accessibility, resource, rights, ruleoflaw, justice
 document: Crime/Criminal Trial Process/3c. Legal representation & Standard and burden of Proof.docx
 related: dietrich-v-the-queen-1992, r-v-higgins-2013
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 ## Legal aid — the three tests

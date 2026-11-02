@@ -13,6 +13,7 @@ criteria: enforceability, rights, responsiveness, society, ruleoflaw
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2017-038
 related: lepra-2002, guardian-2025-pari-move-on, shelter-homelessness-evidence-sheet, inclosed-lands-and-crown-land-trespass, homelessness-nsw-place-to-call-home-2025, abs-homelessness-census-2021
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 In mid-2017 a camp of rough sleepers grew in **Martin Place**, metres from the NSW Parliament and

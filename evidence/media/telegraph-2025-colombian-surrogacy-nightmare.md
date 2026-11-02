@@ -14,6 +14,7 @@ document: Family/Melbourne couple’s Colombian IVF surrogacy nightmare | Daily 
 source: https://www.dailytelegraph.com.au/
 related: abc-2025-commercial-surrogacy-prosecution-referral, abc-2025-surrogacy-patchwork, smh-2026-surrogacy-baby-broker, bbc-fenton-glynn-international-surrogacy-rules, telegraph-2025-public-ivf-postcode-lottery, surrogacy-act-2010-and-art-act-2007
 added: 2026-10-24
+updated_at: 2026-10-24 21:55
 ---
 
 Charles and Emmanuel, a Melbourne couple in their thirties, signed with **Tammuz Family**, an

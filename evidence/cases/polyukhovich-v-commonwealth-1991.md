@@ -13,6 +13,7 @@ criteria: ruleoflaw, justice, rights, enforceability
 document: Cases/Crime/Polyukhovich v The Commonwealth (1991) 172 CLR 501 - Case Summary.pdf
 related: afghanistan-war-crimes-prosecutions, international-law-and-australian-law, rome-statute-1998
 added: 2026-10-23
+updated_at: 2026-10-24 21:54
 ---
 
 ## Facts

@@ -13,6 +13,7 @@ criteria: rights, enforceability, responsiveness, society
 source: https://www.legislation.gov.au/C2004A07352/latest/text
 related: marriage-amendment-2017-and-relationships-register, family-law-act-1975, australian-constitution-rights-and-powers, good-weekend-2025-forced-marriage, commonwealth-v-act-2013
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 Marriage is a Commonwealth matter under **s 51(xxi)** of the Constitution, so one Act applies

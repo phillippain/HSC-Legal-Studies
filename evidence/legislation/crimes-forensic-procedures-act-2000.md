@@ -13,6 +13,7 @@ criteria: rights, enforceability, justice
 document: Crime/NSW Police Powers - Search & Forensic Procedures.pdf
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2000-059
 added: 2026-10-20
+updated_at: 2026-10-24 21:54
 ---
 
 - Police must first seek the suspect's **informed consent**.

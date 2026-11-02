@@ -13,6 +13,7 @@ criteria: enforceability, rights, responsiveness, justice, accessibility
 document: Cases/Family/Selley & Dorner [2026] FedCFamC2F 1161 - Case Summary (v2).pdf
 related: kawakami-urbonaite-2026, patchett-tapley-2026, family-law-amendment-act-2023, murchin-enfield-no3-2026, murali-murali-no2-2026, kegler-mansons-2026
 added: 2026-10-15
+updated_at: 2026-10-24 08:27
 ---
 
 A girl of 11 with ADHD and a boy of 8; parents who married in 2013 and separated in March 2021, both

@@ -13,6 +13,7 @@ criteria: justice, enforceability, ruleoflaw, society
 document: Cases/Crime/Hurt v The King; Delzotto v The King [2024] HCA 8 - Case Summary.pdf
 related: markarian-v-the-queen-2005, muldrock-v-the-queen-2011, one-punch-laws-mandatory-sentencing, criminal-code-cth-transnational-offences, online-safety-act-2021-and-social-media-minimum-age
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 Raymond Hurt (ACT) and Enrico Delzotto (NSW), each with a prior child sexual abuse conviction, were

@@ -13,6 +13,7 @@ criteria: rights, society, justice, ruleoflaw
 document: Cases/Crime/Fardon v Attorney-General (Qld) [2004] HCA 46 - Case Summary.pdf
 related: kable-v-dpp-1996, veen-v-the-queen-no2-1988, crimes-high-risk-offenders-act-2006, hamzy-v-commissioner-2026, australian-constitution-rights-and-powers
 added: 2026-10-23
+updated_at: 2026-10-24 21:54
 ---
 
 Robert Fardon was sentenced in 1989 to 14 years for rape, sodomy and assault. Weeks before his

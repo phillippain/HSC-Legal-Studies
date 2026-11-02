@@ -14,6 +14,7 @@ document: Crime/Media/Revesby daycare murder plot: Ata Misi and Iese Esera refus
 source: https://www.dailytelegraph.com.au/
 related: bail-act-2013, statement-on-bail-chief-justice-2025, hamzy-v-commissioner-2026, police-and-law-enforcement-agencies
 added: 2026-10-23
+updated_at: 2026-10-24 21:47
 ---
 
 Police allege five men were hired to carry out a contract killing outside a Revesby daycare centre,

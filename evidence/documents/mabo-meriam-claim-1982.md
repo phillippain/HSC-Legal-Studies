@@ -13,6 +13,7 @@ criteria: justice, rights, accessibility, resource
 source: https://aiatsis.gov.au/explore/mabo-case
 related: mabo-no2-1992, milirrpum-v-nabalco-1971, native-title-act-1993, wik-1996
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 Eddie Koiki Mabo, a Torres Strait Islander working as a gardener at James Cook University, learned from historians Henry Reynolds and Noel Loos that under Australian law he did not own the land on Mer (Murray Island) that his family had held for generations. A 1981 land rights conference at the university led to the claim.

@@ -14,6 +14,7 @@ source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1983-042
 related: nswalc-60000th-land-claim-2026, nsw-audit-office-aboriginal-land-claims-2022, metropolitan-lalc-2026, native-title-act-1993, mabo-no2-1992
 added: 2026-10-24
 document11: Preliminary/Year 11 - NSW Land Rights and the Land Claims Backlog Evidence Summary.pdf
+updated_at: 2026-10-26 09:40
 ---
 
 Passed by the Wran Government after the 1980 Keane parliamentary inquiry, the Act is compensation legislation: it recognises that land was taken without consent and returns land, not native title. It predates *Mabo* by nine years and works independently of the *Native Title Act 1993* (Cth).

@@ -14,6 +14,7 @@ document: News Articles/Shelter/Shelter - Landlords pull out of flats in city ma
 source: https://www.afr.com/
 related: residential-tenancies-amendment-act-2024, nsw-no-grounds-reform-2026, smh-2025-renting-retirees-grattan, conversation-2025-eviction-experiences, grattan-sydney-housing-2026, smh-2025-missing-middle-delay, knight-frank-prime-real-estate-2025
 added: 2026-10-24
+updated_at: 2026-10-24 10:46
 ---
 
 The counter-argument record. Every other item in this part of the library is about renters; this one

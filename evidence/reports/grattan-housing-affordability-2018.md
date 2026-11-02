@@ -14,6 +14,7 @@ document: Shelter/901-Housing-affordability.pdf
 source: https://grattan.edu.au/report/housing-affordability-re-imagining-the-australian-dream/
 related: grattan-sydney-housing-2026, housing-shelter-or-asset-2026, anglicare-rental-affordability-2026, abs-homelessness-census-2021, nsw-no-grounds-reform-2026, right-to-housing-comparative
 added: 2026-10-24
+updated_at: 2026-10-24 09:16
 ---
 
 The report that set the terms of the Australian housing debate. Its central finding is a claim about

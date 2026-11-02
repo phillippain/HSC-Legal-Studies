@@ -14,6 +14,7 @@ document: Crime/Media/Crime - Kariong Intake Centre Period Products Inspection E
 source: https://www.abc.net.au/news/2026-10-28/women-without-period-products-central-coast-custodial-facility/107302970
 related: bail-act-2013, bocsar-custody-june-2026, statement-on-bail-chief-justice-2025, deaths-in-custody-since-1991, un-experts-custody-bills-2026, ombudsman-and-statutory-bodies
 added: 2026-10-28
+updated_at: 2026-10-28 08:25
 ---
 
 Kariong Intake and Transit Centre (Central Coast) receives people refused bail before transfer to a

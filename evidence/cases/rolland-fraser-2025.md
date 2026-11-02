@@ -13,6 +13,7 @@ criteria: justice, resource, responsiveness, accessibility
 document: Jade Cases/Completed Case Summaries/04_Rolland_and_Fraser_2025_ARTA_3430.pdf
 related: devine-kitson-2026, three-child-support-reviews-2026
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Both parents enrolled a child at a private school and signed the enrolment forms; the father said he

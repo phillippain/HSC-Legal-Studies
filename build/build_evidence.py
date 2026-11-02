@@ -6,7 +6,8 @@ past questions on each syllabus tag, so the evidence finder can say how often a 
 point has been examined. If index.html is missing those counts are simply omitted.
 """
 
-import json, os, re, sys, datetime
+import json, os, re, sys, datetime, subprocess
+from zoneinfo import ZoneInfo
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "build"))
@@ -14,6 +15,8 @@ import md
 from evidence_lib import load_records, syllabus_index, check_tags, TYPES, CRITERIA
 
 syl = json.load(open(f"{ROOT}/data/syllabus.json"))
+# Stamp new and edited records first, so each card carries when it was added / last changed.
+subprocess.run([sys.executable, f"{ROOT}/build/stamp_records.py"], check=True)
 recs, problems = load_records()
 idx = syllabus_index(syl)
 problems += check_tags(recs, idx)
@@ -235,13 +238,19 @@ for r in recs:
         "source": r.get("source", ""), "file": r["file"],
         "doc": r.get("document", ""),
         "doc11": r.get("document11", ""),
+        "addedOn": r.get("added", ""),            # the date it was filed
+        "addedAt": r.get("added_at", ""),         # date and time, Sydney — new records only
+        "updatedAt": r.get("updated_at", ""),     # date and time, Sydney
         "qn": qcount(r["core"]),
         "body": md.render(r["body"]),
     })
 
 data = {
     "meta": {
-        "built": datetime.date.today().isoformat(),
+        "built": datetime.datetime.now(ZoneInfo("Australia/Sydney")).date().isoformat(),
+        "builtAt": datetime.datetime.now(ZoneInfo("Australia/Sydney")).strftime("%Y-%m-%d %H:%M"),
+        # the newest add or change to any card: moves only when the evidence itself does
+        "changedAt": max([x for r in recs for x in (r.get("updated_at", ""), r.get("added_at", ""))] or [""]),
         "syllabus": syl["meta"]["syllabus"],
         "records": len(items),
     },

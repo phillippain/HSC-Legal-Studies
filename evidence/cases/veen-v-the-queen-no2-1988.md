@@ -13,6 +13,7 @@ criteria: justice, rights, society, ruleoflaw
 document: Cases/Crime/Veen v The Queen (No 2) (1988) 164 CLR 465 - Case Summary.pdf
 related: kable-v-dpp-1996, fardon-v-ag-qld-2004, markarian-v-the-queen-2005, crimes-sentencing-procedure-act-1999, crimes-high-risk-offenders-act-2006, bugmy-v-the-queen-2013
 added: 2026-10-23
+updated_at: 2026-10-24 21:54
 ---
 
 Veen, an Aboriginal man with alcohol-related brain damage, killed a man in 1975 and was convicted of

@@ -13,6 +13,7 @@ criteria: accessibility, rights, resource, enforceability, justice
 document: Cases/Shelter/CPX26_HSC_Legal_Studies_Case_Summary_Updated.pdf
 related: shelter-discrimination-evidence-sheet, crpd-2006
 added: 2026-09-19
+updated_at: 2026-10-24 21:54
 ---
 
 A mother — **self-represented** — and her child alleged that their social housing did not accommodate

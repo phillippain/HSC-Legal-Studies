@@ -12,6 +12,7 @@ themes: chg.t.values, chg.t.justice
 criteria: accessibility, resource, responsiveness, justice
 related: mabo-no2-1992, wik-1996
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Enacted in response to *Mabo (No 2)*. It establishes a process for claiming and determining native

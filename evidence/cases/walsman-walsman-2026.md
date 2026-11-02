@@ -13,6 +13,7 @@ criteria: rights, responsiveness, justice
 document: Jade Cases/Completed Case Summaries/02_Walsman_and_Walsman_2026_FedCFamC2F_391.pdf
 related: family-law-amendment-act-2023, pandeva-pandeva-2026
 added: 2026-09-19
+updated_at: 2026-10-24 10:52
 ---
 
 Married 2012, separated February 2021. X born 2015 with a neurological condition, later epilepsy, a

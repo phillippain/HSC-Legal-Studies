@@ -14,6 +14,7 @@ document: Family/GPS Tracking - Evidence Summary Table.pdf
 source: https://www.theguardian.com/australia-news/2026/may/05/nsw-to-criminalise-secret-gps-tracking-after-report-highlighting-number-of-devices-bought-by-dv-offenders
 related: crimes-act-1900-s54d, crimes-domestic-personal-violence-act-2007
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 NSW is creating a specific criminal offence for **unauthorised GPS tracking**, after a report on the

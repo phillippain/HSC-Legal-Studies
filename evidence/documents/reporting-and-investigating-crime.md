@@ -12,6 +12,7 @@ themes: crime.t.discretion, crime.t.compliance, crime.t.effectiveness
 criteria: enforceability, resource, rights, accessibility, justice
 related: detention-and-interrogation-rights, r-v-rondo-2001, r-v-white-2005, bocsar-recorded-crime-june-2026
 added: 2026-09-20
+updated_at: 2026-10-24 08:27
 ---
 
 A reference note.

@@ -12,6 +12,7 @@ themes: shel.t.effectiveness, shel.t.reform
 criteria: rights, enforceability, justice
 related: design-building-practitioners-act-2020, pafburn-2024
 added: 2026-09-19
+updated_at: 2026-10-24 21:28
 ---
 
 The High Court held that the builder owed **no duty of care** in negligence to a subsequent owners

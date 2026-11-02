@@ -14,6 +14,7 @@ document: Shelter/12LS 2026 AT4 Q30a Response Structure.docx
 source: https://ncat.nsw.gov.au/documents/reports/ncat-annual-report-2024-2025.pdf
 related: ncat-act-2013, shelter-dispute-resolution-map, burns-v-corbett-2018
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 | Measure | 2024–25 |

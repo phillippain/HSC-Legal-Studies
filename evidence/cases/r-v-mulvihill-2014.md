@@ -13,6 +13,7 @@ criteria: ruleoflaw, justice, society, rights
 document: Crime/Criminal Trial Process/3a. Court Jurisdiction, the Adversary System & Legal Personnel.docx
 related: the-adversary-system-and-court-jurisdiction
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 Rachelle Yeo was found dead in her North Curl Curl home in July 2012 with fatal stab wounds. Paul

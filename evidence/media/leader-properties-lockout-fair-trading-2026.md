@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, rights
 source: https://www.nsw.gov.au/departments-and-agencies/fair-trading/news/leader-properties-investment-pty-ltd-director-wan-hao-cai-disciplined-unlawful-lockout
 related: residential-tenancies-act-2010, fair-trading-act-1987, fimmano-v-anderson-2024
 added: 2026-10-23
+updated_at: 2026-10-23 16:06
 ---
 
 NSW Fair Trading announced that **Leader Properties Investment Pty Ltd** and its director **Wan Hao Cai** were disciplined for the unlawful lockout of a tenant under the *Residential Tenancies Act 2010* (NSW). The company was penalised **$22,000** and the director **$11,000**, with training and reprimands also imposed.

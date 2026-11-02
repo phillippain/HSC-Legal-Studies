@@ -13,6 +13,7 @@ criteria: rights, responsiveness, accessibility, justice
 document: Family/Adoption_saga_boys_not_Indigenous_under__Australian_The_Weekend_Australian_The_Australian_Magazine_The_Australia___March_3_2025__p3.pdf
 related: mabo-no2-1992
 added: 2026-09-19
+updated_at: 2026-10-24 08:27
 ---
 
 Two boys — John, 14, and William, 11 — have lived continuously with a non-Aboriginal couple since

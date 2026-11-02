@@ -13,6 +13,7 @@ criteria: enforceability, responsiveness, society, rights, justice
 document: Human Rights/12LS 2026 Proposed Changes to Australian Modern Slavery Protections.pdf
 related: modern-slavery-in-australia, four-corners-2026-food-supply-chain
 added: 2026-09-20
+updated_at: 2026-10-24 21:47
 ---
 
 ## The Act as it stands

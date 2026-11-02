@@ -13,6 +13,7 @@ criteria: accessibility, resource, ruleoflaw, justice, rights
 document: Crime/Criminal Trial Process/3a. Court Jurisdiction, the Adversary System & Legal Personnel.docx
 related: r-v-mulvihill-2014, legal-representation-and-legal-aid
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 ## Jurisdiction

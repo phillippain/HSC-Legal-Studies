@@ -14,6 +14,7 @@ document: Family/Evidence Summaries/Family - Childcare Safety Reforms and Enforc
 source: https://www.abc.net.au/news/2026-10-27/childcare-industry-faces-reckoning-but-safety-gaps-remain/107288858
 related: nsw-early-learning-child-safety-laws-2025, smh-2025-childcare-regulation-affinity, child-protection-working-with-children-act-2012
 added: 2026-10-28
+updated_at: 2026-10-28 08:25
 ---
 
 ## What changed (2025–26)

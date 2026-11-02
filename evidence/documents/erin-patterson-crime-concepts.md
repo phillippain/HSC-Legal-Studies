@@ -13,6 +13,7 @@ criteria: enforceability, rights, society, ruleoflaw, justice
 document: Crime/Mushroom Murders Case - Crime Concepts.pdf
 related: role-of-juries, defences-to-criminal-charges
 added: 2026-09-19
+updated_at: 2026-10-24 21:47
 ---
 
 A single trial mapped across the Crime topic, which is what makes it useful — most cases reach two

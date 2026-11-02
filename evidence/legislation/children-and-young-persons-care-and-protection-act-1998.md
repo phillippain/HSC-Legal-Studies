@@ -13,6 +13,7 @@ criteria: rights, enforceability, responsiveness, resource, justice, accessibili
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-157
 related: dffh-haraldson-2026, care-and-protection-of-children-evidence-sheet, smh-2023-child-protection-failures, smh-2026-marcus-foster-care, nit-2024-family-is-culture, adoption-act-2000, croc-1989, inquest-blgn-and-dg-2018, violence-against-children-study-2026
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 Child protection is state law, and this Act is NSW's. It gives the Department of Communities and

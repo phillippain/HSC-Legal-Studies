@@ -13,6 +13,7 @@ criteria: rights, responsiveness, accessibility, justice, society
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2000-075
 related: adoption-of-amb-and-jje-2018, australian-2025-adoption-aboriginality, smh-2025-korea-adoption-inquiry, children-and-young-persons-care-and-protection-act-1998, croc-1989, marriage-amendment-2017-and-relationships-register, care-and-protection-of-children-evidence-sheet
 added: 2026-10-22
+updated_at: 2026-10-24 21:54
 ---
 
 Adoption is a **state** matter (the Commonwealth has no power over it), administered in NSW by the

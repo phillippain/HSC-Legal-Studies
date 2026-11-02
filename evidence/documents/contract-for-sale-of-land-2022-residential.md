@@ -14,6 +14,7 @@ document: Shelter/Contract_of_Sale House.pdf
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1919-006
 related: conveyancing-act-1919, real-property-act-1900, guide-to-purchasing-your-home-nsw, law-society-selling-a-home-checklist, mckell-building-contract-for-sale, amadio-1983, rogers-v-registrar-general-2024
 added: 2026-10-24
+updated_at: 2026-10-24 21:28
 ---
 
 The **standard form contract** published jointly by the **Law Society of NSW** and the **Real Estate

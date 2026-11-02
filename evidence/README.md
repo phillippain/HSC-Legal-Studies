@@ -46,7 +46,8 @@ added: 2026-09-19
 | `criteria` | | Any of `resource`, `accessibility`, `enforceability`, `responsiveness`, `rights`, `society`, `ruleoflaw`, `justice` |
 | `source` | | A URL |
 | `related` | | Other evidence ids, which become "See also" links |
-| `added` | | When you filed it |
+| `added` | | The date you filed it |
+| `added_at`, `updated_at` | | **Written by the build, not by you.** When the card was added and last changed, in Sydney time (`YYYY-MM-DD HH:MM`). They appear on the card and in the strip under the masthead |
 
 The **id** is the filename without `.md`. It must be unique across the whole folder.
 
@@ -81,3 +82,18 @@ Then:
 python3 build/build_evidence.py     # -> evidence.html
 python3 build/verify_evidence.py    # checks the built page
 ```
+
+## When a card was added or changed
+
+Every build runs `build/stamp_records.py` first. It keeps a fingerprint of each record in
+`data/stamps.json`: a record it has never seen gets `added_at` and `updated_at`; a record whose text
+differs from its fingerprint gets a new `updated_at`. It does not matter how the file was edited,
+so the add-evidence skill, `ingest.py refresh` and a hand edit all stamp the same way. The stamp is
+written into the record, so it survives a git checkout (which resets every file's modified time).
+
+The page shows two times in the masthead: **Evidence last changed** (the newest stamp on any card)
+and **Site rebuilt**. Commit `data/stamps.json` with the records.
+
+A bulk edit, such as retagging or tidying, would otherwise mark hundreds of cards as updated. After
+one, run `python3 build/stamp_records.py --absorb` before building, and the edited records keep
+their old times.

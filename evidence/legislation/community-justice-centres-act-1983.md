@@ -13,6 +13,7 @@ criteria: accessibility, resource, responsiveness, justice
 source: https://legislation.nsw.gov.au/view/html/repealed/current/act-1983-127
 related: lgnsw-2025-cjc-closure, shelter-dispute-resolution-map, resolving-disputes-between-individuals, ncat-act-2013, ncat-tenancy-disputes, civil-procedure-act-2005, legal-aid-commission-act-1979
 added: 2026-10-22
+updated_at: 2026-10-24 10:51
 ---
 
 **Community Justice Centres (CJC)** began as a 1980 pilot and were put on a statutory footing in

@@ -13,6 +13,7 @@ criteria: enforceability, rights, accessibility, resource
 source: https://minister.infrastructure.gov.au/wells/media-release/albanese-government-releases-age-assurance-technology-trial-findings
 related: online-safety-age-restricted-platforms-rules-2025, online-safety-act-2021-and-social-media-minimum-age, under-16-social-media-ban-enforcement-2026, privacy-act-1988-and-2024-reforms
 added: 2026-10-24
+updated_at: 2026-10-24 21:47
 ---
 
 The 2024 Act required platforms to take "reasonable steps" without saying how. The Government commissioned an independent trial — run by the UK-based Age Check Certification Scheme with Australian partners — of the technologies platforms might use, and released the final report in August 2025, four months before the obligation began.
