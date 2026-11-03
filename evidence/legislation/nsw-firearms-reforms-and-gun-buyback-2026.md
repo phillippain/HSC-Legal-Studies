@@ -10,12 +10,12 @@ core: chg.6.1, chg.3.1, chg.3.2, crime.1.9
 support: crime.2.1, chg.1.6, chg.2.1, chg.2.3, chg.4.1, chg.4.2, inv.5.2, inv.3.3, crime.6.1
 themes: chg.t.effectiveness, chg.t.values, chg.t.justice, crime.t.reform, crime.t.balance
 criteria: responsiveness, society, rights, enforceability, resource
-document: Crime/Media/Crime - NSW Gun Buyback and Firearm Caps Evidence Summary.pdf
+document: Crime/Media/Crime - National gun buyback after Bondi - day one (4Nov26) Evidence Summary.pdf
 document11: Preliminary/Year 11 - National Gun Buyback Law Reform After Bondi Evidence Summary.pdf
 source: https://www.nsw.gov.au/ministerial-releases/national-gun-buyback-to-begin-nsw-on-november-2-bookings-to-surrender-open-today
 related: nsw-hate-crime-laws-2025-26, terrorism-police-powers-act-2002, royal-commissions-acts, law-reform-conditions-agencies-mechanisms
 added: 2026-10-27
-updated_at: 2026-11-03 08:40
+updated_at: 2026-11-04 07:17
 ---
 
 The **Bondi Beach terrorist attack** on 14 December 2025 killed 15 people. Ten days later NSW passed the
@@ -42,6 +42,10 @@ with 34 more from early December; initial bookings were **full on day one**. The
 through in **three days** after Bondi. The Premier expects the demand-driven scheme to cost "hundreds of millions";
 existing owners above the caps face no immediate seizure, and permits to exceed them await regulations. The caps have
 become an **election issue** that the Opposition says it would revisit — a reform that may be reversed.
+
+Firearms theft is part of the crime-prevention case: **417** firearms were stolen in NSW in 2024 (about **1.1 a day**).
+Removing NCAT review narrows external checks on police licensing decisions. Phase two (from 2027) pays up to
+$10,000 for higher-value firearms.
 
 ## The buyback
 

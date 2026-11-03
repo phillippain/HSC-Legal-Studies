@@ -488,11 +488,20 @@ Cases/Year 11/Year 11 - Lee and Minister for Immigration and Citizenship [2026] 
 Cases/Year 11/Year 11 - Kathy (a pseudonym) (No 2) [2026] NSWCATGD 21 - Case Summary.pdf | dis.2.5, inv.1.6
 Crime/Media/Crime - Griffith NSW Childcare Abuse Charges Evidence Summary.pdf | crime.2.4, crime.2.5, crime.4.3
 Crime/Criminal Trial Process/Zakaria permanent stay - AFP removal on trial (Evidence summary 3Nov26).pdf | crime.3.1, crime.2.1
-Crime/Media/Crime - NSW Gun Buyback and Firearm Caps Evidence Summary.pdf | crime.1.9, crime.2.1
+Crime/Media/Crime - National gun buyback after Bondi - day one (3Nov26) Evidence Summary.pdf | crime.1.9, crime.2.1
 Crime/Media/Crime - Qld Breach Bail Go to Jail Laws Evidence Summary.pdf | crime.2.5, crime.4.1, crime.5.4
 Family/Evidence Summaries/Family - Child Support Financial Abuse Evidence Summary.pdf | fam.2.2, fam.2.4
 Human Rights/HR - NSW Human Rights Act Inquiry Evidence Summary.pdf | hr.2.14, hr.2.12
 Human Rights/HR - Nazi Salute Mandatory Minimum ANU Stickers Evidence Summary.pdf | hr.2.9, hr.3.1
 Shelter/Evidence Sheets/Shelter - House Prices Seventh Fall and Investor Tax Changes Evidence Summary.pdf | shel.1.4, shel.3.1
 Crime/Media/Crime - WA Police Facial Recognition Trial Evidence Summary.pdf | crime.2.1, crime.2.3
-Human Rights/HR - Reddit High Court Social Media Ban Challenge Evidence Summary.pdf | hr.2.8, hr.3.1
+Human Rights/HR - Reddit v under-16s ban (High Court) - Guardian Evidence Summary.pdf | hr.2.8, hr.3.1
+Crime/Media/Crime - Lamarre-Condon Double Murder Trial Self-Defence Evidence Summary.pdf | crime.3.8, crime.3.6, crime.3.9
+Crime/Media/Crime - National gun buyback after Bondi - day one (4Nov26) Evidence Summary.pdf | crime.1.9, crime.2.1
+Crime/Media/Crime - Wanderers Fans Police Powers Evidence Summary.pdf | crime.2.1, crime.1.9
+Family/Evidence Summaries/Family - Child Support Financial Abuse (updated 4Nov26) Evidence Summary.pdf | fam.2.2, fam.2.4
+Human Rights/HR - HRW Solitary Confinement Prisoners with Disabilities SA Evidence Summary.pdf | hr.2.12, hr.3.1
+Human Rights/HR - Reddit v under-16s ban (High Court) - hearing Evidence Summary.pdf | hr.2.8, hr.3.1
+Human Rights/HR - UN Rapporteur Refused Youth Detention Access Evidence Summary.pdf | hr.2.2, hr.2.1
+Shelter/Evidence Sheets/Shelter - RBA Rate Hike and Housing Affordability Evidence Summary.pdf | shel.1.4, shel.2.1
+Shelter/Evidence Sheets/Shelter - Right Help Right Time Homelessness Evidence Summary.pdf | shel.3.2, shel.2.6

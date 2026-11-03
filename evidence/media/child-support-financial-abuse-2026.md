@@ -10,11 +10,11 @@ core: fam.2.2, fam.2.4
 support: fam.2.5, fam.1.5, fam.2.7, dis.3.4, exp.6.2
 themes: fam.t.effectiveness, fam.t.reform, fam.t.compliance
 criteria: enforceability, accessibility, justice, rights
-document: Family/Evidence Summaries/Family - Child Support Financial Abuse Evidence Summary.pdf
+document: Family/Evidence Summaries/Family - Child Support Financial Abuse (updated 4Nov26) Evidence Summary.pdf
 source: https://www.abc.net.au/news/2026-11-02/financial-abuse-via-services-australias-child-support/107295686
 related: child-support-assessment-act-1989, srqy-and-child-support-registrar-2026, three-child-support-reviews-2026, family-law-act-1975
 added: 2026-11-03
-updated_at: 2026-11-03 08:40
+updated_at: 2026-11-04 07:17
 ---
 
 "Chloe" (a pseudonym) says her former partner's income fell on paper from more than **$300,000** to under
@@ -33,6 +33,14 @@ abuse is family violence under the *Family Law Act* (s 4AB(2A)).
 **$2.0 billion** in Agency Collect debt is owed by 229,235 paying parents (March 2026). The **$182.6m** 2026–27 reform
 package mostly starts on **1 July 2027** — too late for Chloe — and ends mandatory information exchange between
 parents.
+
+## Expert comment (4 November summary)
+
+Dr **Amira Aftab** (Macquarie Law School) and **Amy Kilpatrick** (Care Financial and Consumer Law Centre) say the scheme's
+trust in self-reported income and slow correction through tax returns leaves victim-survivors carrying the burden of
+proof (change of assessment, s 117(2)). Agency Collect can garnish wages (Registration and Collection Act s 72D);
+Private Collect is unmonitored, so the true debt is unknown. Chloe's bank statements were allegedly used to harass her
+in the **property settlement**, not the child support assessment.
 
 ## Use it for
 
