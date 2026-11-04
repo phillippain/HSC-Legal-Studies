@@ -3,19 +3,19 @@ type: media
 title: Darwin teenager charged with terrorism and 3D-gun blueprint offences (ABC, 29 October 2026)
 short: NT teen terror charges
 citation: Evidence summary of an ABC News report, 29 October 2026, and the NT Joint Counter Terrorism Team statement; Criminal Code Act 1995 (Cth) ss 101.5, 474.45C, 474.45H; Crimes Act 1914 (Cth) ss 15AA, 20C
-date: 2026-10-29
+date: 2026-11-04
 jurisdiction: Commonwealth offences heard in the NT Youth Justice Court, Darwin; AFP, NT Police and ASIO
 significance: A child faces adult Commonwealth terrorism charges, including a 2026 offence for 3D-printed gun blueprints — federal counter-terrorism law meeting youth justice in bail, identity and sentencing.
 core: crime.6.1, crime.5.3, crime.2.5
 support: crime.5.1, crime.5.2, crime.5.4, crime.2.3, crime.2.4, crime.1.8, crime.1.9, exp.2.3, exp.1.3, exp.3.2
 themes: crime.t.balance, crime.t.effectiveness, crime.t.reform
 criteria: rights, justice, society, enforceability
-document: Crime/Media/Crime - NT Teen Terror Charges Evidence Summary.pdf
+document: Crime/Media/Crime - NT Teen Terrorism Charge and Youth Bail Evidence Summary.pdf
 document11: Preliminary/Year 11 - Experiences with the Law - NT Teen Terror Charges Evidence Summary.pdf
 source: https://www.abc.net.au/news/2026-10-29/nt-teen-terror-charges-extremism-3d-printed-gun-schematics/107322362
 related: afp-youth-radicalisation-data-2026, young-offenders-in-the-cjs, terrorism-police-powers-act-2002, nsw-firearms-reforms-and-gun-buyback-2026
 added: 2026-10-30
-updated_at: 2026-10-30 07:35
+updated_at: 2026-11-05 07:33
 ---
 
 After a Crime Stoppers tip-off about violent extremist material online, the NT Joint Counter Terrorism Team
@@ -37,6 +37,15 @@ for **9 November 2026**. **All matters are allegations; he is presumed innocent.
 
 13 youths aged 14–17 have been charged with extremist-material offences since 2024. The INSLM (2019) recommended
 that terrorism charges carrying 15 years or more always be tried on indictment, not in children's courts.
+
+## A second teenager (4 November 2026)
+
+A week later the NT Joint Counter Terrorism Team raided a Top End home (3 November) and charged a **girl** with a
+**s 101.5** terrorism documents offence; she appeared in the Youth Justice Court on 4 November before Judge Giles
+O'Brien-Hartcher, with bail listed for **13 November**. That makes **two** Top End teenagers charged in a week; AFP
+figures report 26 youths charged with terrorism-type offences by JCTTs since 2020. The child cannot be named, and her
+best interests must be weighed at bail (Youth Justice Act 2005 (NT) s 50), but the **s 15AA(3AA)** presumption against
+bail still applies — community protection is paramount. CRC art 37: detention as a last resort.
 
 ## Use it for
 

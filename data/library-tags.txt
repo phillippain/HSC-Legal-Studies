@@ -502,6 +502,32 @@ Crime/Media/Crime - Wanderers Fans Police Powers Evidence Summary.pdf | crime.2.
 Family/Evidence Summaries/Family - Child Support Financial Abuse (updated 4Nov26) Evidence Summary.pdf | fam.2.2, fam.2.4
 Human Rights/HR - HRW Solitary Confinement Prisoners with Disabilities SA Evidence Summary.pdf | hr.2.12, hr.3.1
 Human Rights/HR - Reddit v under-16s ban (High Court) - hearing Evidence Summary.pdf | hr.2.8, hr.3.1
-Human Rights/HR - UN Rapporteur Refused Youth Detention Access Evidence Summary.pdf | hr.2.2, hr.2.1
+Human Rights/HR - UN rapporteur refused detention access - Amnesty release Evidence Summary.pdf | hr.2.2, hr.2.1
 Shelter/Evidence Sheets/Shelter - RBA Rate Hike and Housing Affordability Evidence Summary.pdf | shel.1.4, shel.2.1
 Shelter/Evidence Sheets/Shelter - Right Help Right Time Homelessness Evidence Summary.pdf | shel.3.2, shel.2.6
+Cases/Crime/R v Sharma [2026] NSWDC 402 - Case Summary.pdf | crime.3.8, crime.1.2
+Cases/Year 11/Year 11 - R v Sharma [2026] NSWDC 402 - Case Summary.pdf | dis.1.2, dis.1.4
+Cases/Crime/O'Connell v DPP; DPP v O'Connell [2026] HCA 41 - Case Summary.pdf | crime.4.5, crime.3.9
+Cases/Year 11/Year 11 - O'Connell v DPP; DPP v O'Connell [2026] HCA 41 - Case Summary.pdf | dis.1.4, dis.1.6
+Cases/Family/Rogge and Loos (Child support) [2026] ARTA 2605 - Case Summary.pdf | fam.2.2, fam.2.5
+Cases/Year 11/Year 11 - Rogge and Loos (Child support) [2026] ARTA 2605 - Case Summary.pdf | dis.3.4, dis.2.5
+Cases/Family/Daphne & Nirmal [2026] FedCFamC2F 58 - Case Summary.pdf | fam.2.2, fam.2.4
+Cases/Year 11/Year 11 - Daphne & Nirmal [2026] FedCFamC2F 58 - Case Summary.pdf | dis.2.7, exp.1.1
+Cases/Family/Statham & Statham [2026] FedCFamC2F 182 - Case Summary.pdf | fam.2.3
+Cases/Year 11/Year 11 - Statham & Statham [2026] FedCFamC2F 182 - Case Summary.pdf | dis.2.7, dis.2.5
+Cases/Family/Rahman & Rahman (No 3) [2026] FedCFamC2F 1203 - Case Summary.pdf | fam.2.3
+Cases/Year 11/Year 11 - Rahman & Rahman (No 3) [2026] FedCFamC2F 1203 - Case Summary.pdf | dis.2.4, dis.2.8
+Cases/Human Rights/Gavin v Greenstone Financial Services Pty Ltd [2026] NSWCATAD 339 - Case Summary.pdf | hr.2.11, hr.2.9
+Cases/Year 11/Year 11 - Gavin v Greenstone Financial Services Pty Ltd [2026] NSWCATAD 339 - Case Summary.pdf | dis.2.5, dis.2.7
+Crime/Media/Crime - AFP Operation Integrity Fusion 235m Commonwealth Fraud Evidence Summary.pdf | crime.2.3, crime.1.5
+Crime/Media/Crime - McKenna High Risk Offender Supervision Order Evidence Summary.pdf | crime.4.8
+Crime/Media/Crime - NT Teen Terrorism Charge and Youth Bail Evidence Summary.pdf | crime.6.1, crime.5.3, crime.2.5
+Crime/Media/Crime - OConnell v DPP High Court Murder Conviction Reinstated Evidence Summary.pdf | crime.4.5, crime.3.9
+Family/Evidence Summaries/Family - DV Commissioner Manosphere Warning Evidence Summary.pdf | fam.2.4, fam.2.6
+Human Rights/HR - UN rapporteur refused detention access - ABC report Evidence Summary.pdf | hr.2.2, hr.2.1
+Crime/Crime - Bail Laws in NSW 2026 Explainer.pdf | crime.2.5, crime.5.3
+Shelter/Evidence Sheets/Shelter - Lydias Legacy Tiny Homes Planning Rules Evidence Summary.pdf | shel.3.2, shel.2.8
+Shelter/Evidence Sheets/Shelter - Priced Out of Parenthood Sydney House Prices and Births Evidence Summary.pdf | shel.1.4, shel.1.3
+Shelter/Evidence Sheets/Shelter - Right Help Right Time Early Intervention Release Evidence Summary.pdf | shel.3.2, shel.2.6
+Shelter/Evidence Sheets/Shelter - Short Stay Levy for Community Housing Evidence Summary.pdf | shel.3.4, shel.1.4
+Preliminary/Year 11 - Reddit v under-16s ban (High Court) Evidence Summary.pdf | inv.5.4, inv.7.2

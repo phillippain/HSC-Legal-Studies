@@ -7,14 +7,15 @@ date: 2026-11-04
 jurisdiction: High Court of Australia (Commonwealth)
 significance: Reddit and a libertarian group ask the High Court to strike down the under-16s social media ban, testing whether an implied freedom, not a bill of rights, can check a law protecting children.
 core: hr.2.8, hr.3.1
-support: hr.2.11, hr.2.9, hr.2.13, chg.1.3, chg.6.1, inv.7.4
+support: inv.5.4, inv.7.2, inv.4.5, hr.2.11, hr.2.9, hr.2.13, chg.1.3, chg.6.1, inv.7.4
 themes: hr.t.values, hr.t.effectiveness, hr.t.compliance
 criteria: rights, ruleoflaw, enforceability, responsiveness, society
 document: Human Rights/HR - Reddit v under-16s ban (High Court) - hearing Evidence Summary.pdf
+document11: Preliminary/Year 11 - Reddit v under-16s ban (High Court) Evidence Summary.pdf
 source: https://www.theguardian.com/australia-news/2026/nov/03/reddit-and-libertarian-group-challenge-australias-under-16s-social-media-ban-in-high-court
 related: australian-constitution-rights-and-powers, online-safety-act-2021-and-social-media-minimum-age, under-16-social-media-ban-enforcement-2026, digital-duty-of-care-bill-2026, online-safety-age-restricted-platforms-rules-2025, joint-select-committee-social-media-2024, croc-1989, technology-and-the-individual
 added: 2026-11-03
-updated_at: 2026-11-04 07:17
+updated_at: 2026-11-05 07:33
 ---
 
 The first major legal challenge to the under-16s social media ban was heard in the High Court on **3 and 4 November 2026**. Australia has no guaranteed right to free speech, so both challengers rely on the **implied freedom of political communication**: they say stopping under-16s holding accounts burdens political communication, and the Commonwealth says the law serves a legitimate purpose, reducing harm from features such as algorithms, infinite scroll and notifications. **No decision has been made.**

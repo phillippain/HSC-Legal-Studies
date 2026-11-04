@@ -10,12 +10,12 @@ core: shel.3.2, shel.2.6
 support: shel.1.1, shel.1.4, shel.3.4, fam.2.4, chg.2.2
 themes: shel.t.reform, shel.t.effectiveness, shel.t.values
 criteria: accessibility, resource, responsiveness, society
-document: Shelter/Evidence Sheets/Shelter - Right Help Right Time Homelessness Evidence Summary.pdf
+document: Shelter/Evidence Sheets/Shelter - Right Help Right Time Early Intervention Release Evidence Summary.pdf
 source: https://www.nsw.gov.au/ministerial-releases/2026-street-count
 related: homelessness-services-turning-people-away-2026, homelessness-nsw-place-to-call-home-2025, shelter-homelessness-evidence-sheet, abs-homelessness-census-2021
 added: 2026-11-04
 added_at: 2026-11-04 07:17
-updated_at: 2026-11-04 07:17
+updated_at: 2026-11-05 07:33
 ---
 
 ## Claims v official data
@@ -30,6 +30,13 @@ updated_at: 2026-11-04 07:17
 | $1bn over four years avoids up to $2.1bn in costs | **No costing published** |
 
 The 2021 Census counted 35,011 people homeless in NSW. Several figures come from Homelessness NSW, itself a signatory.
+
+## Updated summary (5 November)
+
+The campaign's open letter to **Premier Chris Minns** proposes a **Preventing Harm Framework**, shifting spending from crisis
+to early intervention. Spokespeople included Ben Keneally (Uniting), Dom Rowe (Homelessness NSW) and Delia Donovan (DV NSW).
+**59 people a day** were turned away from NSW homelessness services in 2024–25. The 75% rough-sleeping rise and the
+12,478 waitlist are Homelessness NSW analyses of government data.
 
 ## Use it for
 
