@@ -14005,8 +14005,8 @@
    "ext": "pdf",
    "bytes": 285956,
    "mtime": 1793850119,
-   "bucket": "resource",
-   "kind": "teaching",
+   "bucket": "evidence",
+   "kind": "case",
    "tags": [
     "crime.1.2",
     "crime.1.5",
@@ -14028,8 +14028,8 @@
    "ext": "pdf",
    "bytes": 685255,
    "mtime": 1793850070,
-   "bucket": "resource",
-   "kind": "teaching",
+   "bucket": "evidence",
+   "kind": "case",
    "tags": [
     "crime.1.2",
     "crime.1.5",

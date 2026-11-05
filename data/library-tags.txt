@@ -531,5 +531,5 @@ Shelter/Evidence Sheets/Shelter - Priced Out of Parenthood Sydney House Prices a
 Shelter/Evidence Sheets/Shelter - Right Help Right Time Early Intervention Release Evidence Summary.pdf | shel.3.2, shel.2.6
 Shelter/Evidence Sheets/Shelter - Short Stay Levy for Community Housing Evidence Summary.pdf | shel.3.4, shel.1.4
 Preliminary/Year 11 - Reddit v under-16s ban (High Court) Evidence Summary.pdf | inv.5.4, inv.7.2
-Crime/Crime - Coercive Control in NSW 2-page Explainer (Nov 2026).pdf | @resource, crime.1.2, crime.1.5, crime.1.6, crime.2.5, crime.3.6, crime.3.8, crime.4.4, fam.2.4
-Crime/Crime - Coercive Control in NSW Full Explainer (Nov 2026).pdf | @resource, crime.1.2, crime.1.5, crime.1.6, crime.2.5, crime.3.6, crime.3.8, crime.4.4, fam.2.4
+Crime/Crime - Coercive Control in NSW 2-page Explainer (Nov 2026).pdf | crime.1.2, crime.1.5, crime.1.6, crime.2.5, crime.3.6, crime.3.8, crime.4.4, fam.2.4
+Crime/Crime - Coercive Control in NSW Full Explainer (Nov 2026).pdf | crime.1.2, crime.1.5, crime.1.6, crime.2.5, crime.3.6, crime.3.8, crime.4.4, fam.2.4
