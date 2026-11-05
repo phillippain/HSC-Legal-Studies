@@ -13999,6 +13999,40 @@
    "primary": true
   },
   {
+   "path": "Crime/Crime - Coercive Control in NSW 2-page Explainer (Nov 2026).pdf",
+   "name": "Crime - Coercive Control in NSW 2-page Explainer (Nov 2026)",
+   "file": "Crime - Coercive Control in NSW 2-page Explainer (Nov 2026).pdf",
+   "ext": "pdf",
+   "bytes": 285956,
+   "mtime": 1793850119,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime",
+    "fam.2.4"
+   ],
+   "dupe": "crimecoercivecontrolinnsw2pageexplainernov2026",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Crime - Coercive Control in NSW Full Explainer (Nov 2026).pdf",
+   "name": "Crime - Coercive Control in NSW Full Explainer (Nov 2026)",
+   "file": "Crime - Coercive Control in NSW Full Explainer (Nov 2026).pdf",
+   "ext": "pdf",
+   "bytes": 685255,
+   "mtime": 1793850070,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime",
+    "fam.2.4"
+   ],
+   "dupe": "crimecoercivecontrolinnswfullexplainernov2026",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Crime Booklet Try this one.pdf",
    "name": "Crime Booklet Try this one",
    "file": "Crime Booklet Try this one.pdf",
