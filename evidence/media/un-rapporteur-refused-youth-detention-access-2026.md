@@ -2,20 +2,21 @@
 type: media
 title: NT and Queensland shut a UN expert out of youth detention (Amnesty International, 2 November 2026)
 short: UN rapporteur refused detention access
-citation: Evidence summaries of an Amnesty International Australia media release, 2 November 2026, and Chloe Chomicki, ABC News, 4 November 2026, on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)
-date: 2026-11-04
+citation: Evidence summaries of an Amnesty International Australia media release, 2 November 2026, Chloe Chomicki, ABC News, 4 November 2026, and Roxanne Fitzgerald, ABC News, 5 November 2026, on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)
+date: 2026-11-05
 jurisdiction: UN Human Rights Council special procedures; Northern Territory and Queensland youth detention; Commonwealth answerable internationally
 significance: A UN expert invited to Australia was refused entry to two youth detention centres holding mostly First Nations children — the third UN access dispute since 2022.
 core: hr.2.2, hr.2.1
 support: hr.2.12, hr.3.1, hr.1.3, crime.5.4, crime.5.3, inv.6.2, inv.6.3, inv.6.4, inv.5.2, exp.4.1, exp.5.1
 themes: hr.t.sovereignty, hr.t.compliance, hr.t.effectiveness
 criteria: rights, enforceability, responsiveness
-document: Human Rights/HR - UN rapporteur refused detention access - ABC report Evidence Summary.pdf
+document: Human Rights/HR - UN rapporteur refused detention access - NT scandal report Evidence Summary.pdf
+document11: Preliminary/Year 11 - UN Rapporteur Refused Youth Detention Access Evidence Summary.pdf
 source: https://www.amnesty.org.au/un-special-rapporteur-refused-access-into-youth-detention-centres/
 related: un-experts-custody-bills-2026, senate-youth-justice-inquiry-2026, croc-1989, young-offenders-in-the-cjs, qld-breach-bail-go-to-jail-2026
 added: 2026-11-04
 added_at: 2026-11-04 07:17
-updated_at: 2026-11-05 07:33
+updated_at: 2026-11-06 08:09
 ---
 
 The Special Rapporteur's official visit runs **2–13 November 2026**. The NT and Queensland refused planned visits to
@@ -43,6 +44,20 @@ across Queensland's centres). First Nations young people are detained at **26 ti
 Queensland's mandatory 12 months for serious offending on bail starts on 30 November. Special Rapporteurs visit under UN
 terms of reference, **not OPCAT**; cooperation rests on invitation. Preliminary findings are due in Sydney on **13
 November 2026**.
+
+## ABC report (5 November 2026): "It would be a scandal"
+
+Roxanne Fitzgerald's report accuses the NT government of hiding what is happening inside Holtze. The Special Rapporteur, **Dr Albert K. Barume**, is on a country visit to seven locations (2–13 November) under Australia's **2008 standing invitation** to UN special procedures; the refusal of Holtze and Cleveland was announced in a late-October statement.
+
+| UN framework expects | What happened (as reported) |
+|---|---|
+| Access to all places of detention; contact with every branch of government | NT and Queensland refused both access and meetings, according to his statement |
+| Invitation given by the Commonwealth for all of Australia | The federal Attorney-General's office says access is for each state and territory, and the refusal does not reflect the federal government's position |
+| Independent preventive monitoring (OPCAT, ratified 2017) | Queensland's inspector not nominated; the NT's designation law was not in effect as at April 2024 |
+
+- **Pattern**: the NT blocked the UN Working Group on Arbitrary Detention in December 2025; in 2022 the UN torture-prevention subcommittee ended its Australian visit after NSW and Queensland refused access. The NT lowered the minimum age of criminal responsibility to **10** in October 2024.
+- **Allegations in the article (unverified)**: Holtze recorded **127** detainee-on-detainee assaults, nine self-harm hospitalisations and two sexual assaults in its first year (from an earlier FOI-based ABC report, not retrieved), and spit hoods have been reintroduced. John Lawrence SC says the NT government has "a lot to hide" — an opinion, not a finding.
+- No Queensland government response appears in the ABC, AAP or Amnesty reports. A special rapporteur's access rests on consent and terms of reference, **not a treaty right of entry**; preliminary findings are due **13 November**.
 
 ## Use it for
 

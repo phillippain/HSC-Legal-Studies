@@ -11,11 +11,11 @@ support: inv.5.4, inv.7.2, inv.4.5, hr.2.11, hr.2.9, hr.2.13, chg.1.3, chg.6.1, 
 themes: hr.t.values, hr.t.effectiveness, hr.t.compliance
 criteria: rights, ruleoflaw, enforceability, responsiveness, society
 document: Human Rights/HR - Reddit v under-16s ban (High Court) - hearing Evidence Summary.pdf
-document11: Preliminary/Year 11 - Reddit v under-16s ban (High Court) Evidence Summary.pdf
+document11: Preliminary/Year 11 - Reddit High Court Social Media Ban Challenge Evidence Summary.pdf
 source: https://www.theguardian.com/australia-news/2026/nov/03/reddit-and-libertarian-group-challenge-australias-under-16s-social-media-ban-in-high-court
 related: australian-constitution-rights-and-powers, online-safety-act-2021-and-social-media-minimum-age, under-16-social-media-ban-enforcement-2026, digital-duty-of-care-bill-2026, online-safety-age-restricted-platforms-rules-2025, joint-select-committee-social-media-2024, croc-1989, technology-and-the-individual
 added: 2026-11-03
-updated_at: 2026-11-05 07:33
+updated_at: 2026-11-06 08:09
 ---
 
 The first major legal challenge to the under-16s social media ban was heard in the High Court on **3 and 4 November 2026**. Australia has no guaranteed right to free speech, so both challengers rely on the **implied freedom of political communication**: they say stopping under-16s holding accounts burdens political communication, and the Commonwealth says the law serves a legitimate purpose, reducing harm from features such as algorithms, infinite scroll and notifications. **No decision has been made.**
@@ -55,6 +55,20 @@ About **5 million** accounts have been blocked, removed or restricted since 10 D
 a BMJ study of 408 young people in one state found **85%** still used restricted platforms. Maximum fine: **$49.5m**.
 Because Australia has no bill of rights, children's CROC rights to expression and information can be argued only
 indirectly, through the implied freedom.
+
+## Day two: the Commonwealth's case (AFR, 4 November 2026)
+
+Janek Drevikovsky's report for the *Australian Financial Review* (paywalled; text supplied) covers day two of *Reddit, Inc. v Commonwealth* (S166/2025), heard by seven justices with all states and territories intervening for the Commonwealth. The Commonwealth **conceded a burden** on political communication but called it "indirect and modest", so the contest was about justification.
+
+| | Reddit | Commonwealth |
+|---|---|---|
+| Purpose | Cannot be read narrowly using a rule made after the challenge began (the Amendment Rules were registered 25 March 2026) | Targets harmful design features such as infinite scroll and autoplay |
+| Suitable | Under-inclusive and easily circumvented | Under-inclusiveness irrelevant; millions of accounts closed |
+| Necessary | Less restrictive options: design rules, time limits, push-notification bans, a digital duty of care | Alternatives insufficient; banning features would still need age checks |
+| Balance | Ill-targeted law | At least seven credible risks (addiction, sleeplessness, ADHD, depression); Parliament entitled to act without scientific consensus |
+
+- **Checked**: AFR's "nearly 5 million" accounts is a government figure — the published number is **4.7 million** deactivated, removed or restricted (platform-supplied, preliminary); account ownership fell only from **52.4% to 42.1%**, and eSafety found no significant change in wellbeing or sleep after three months. The Act passed on 29 November 2024, Reddit filed on **12 December 2025**; the Digital Freedom Project's teenage plaintiffs were removed over costs risk.
+- **Not independently verified**: the AFR's account of Chief Justice Gageler questioning why the later rule could not inform the law's purpose, and the "indirect and modest" wording, appear only in the AFR. Decision reserved, reported as unlikely before early 2027.
 
 ## Use it for
 

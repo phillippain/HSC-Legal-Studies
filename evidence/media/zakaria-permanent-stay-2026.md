@@ -2,19 +2,20 @@
 type: media
 title: Zakaria seeks permanent stay over alleged unlawful deportation — the Crown concession and suppressed AFP evidence (2026)
 short: Zakaria permanent stay
-citation: HSC Legal Studies evidence summaries, 19, 21 and 26 October and 2 and 3 November 2026; built on ABC News of 18, 19, 22, 24 and 31 October 2026 with its earlier reports of September 2025 and July 2026, AAP, the AFP's December 2023 release, Moti v The Queen [2011] HCA 50 and the abuse-of-process authorities
-date: 2026-10-31
+citation: HSC Legal Studies evidence summaries, 19, 21 and 26 October and 2, 3 and 6 November 2026; built on ABC News of 18, 19, 22, 24 and 31 October and 5 November 2026, AAP of 4 November 2026 with its earlier reports of September 2025 and July 2026, AAP, the AFP's December 2023 release, Moti v The Queen [2011] HCA 50 and the abuse-of-process authorities
+date: 2026-11-05
 jurisdiction: NSW Supreme Court (Justice Edward Muston); Commonwealth AFP conduct overseas
 significance: A court is asked to refuse to try two murder charges because of how the accused was brought before it — the integrity of the court set against the public interest in a trial.
 core: crime.3.1, crime.2.1, crime.3.6
 support: crime.3.9, hr.2.13, crime.2.3, crime.2.4, crime.2.6, crime.3.3, crime.3.5, crime.3.7, crime.6.2, hr.2.4, hr.2.10, inv.1.6, inv.1.7, inv.3.1, inv.3.2, inv.6.2, inv.7.1, dis.3.2, exp.5, exp.6, dis.1.5, dis.1.4, dis.1.6
 themes: crime.t.discretion, crime.t.balance, crime.t.compliance, crime.t.effectiveness, inv.t.justice
 criteria: accessibility, enforceability, responsiveness, rights, ruleoflaw, justice
-document: Crime/Criminal Trial Process/Zakaria permanent stay - AFP removal on trial (Evidence summary 3Nov26).pdf
-source: https://www.abc.net.au/news/2026-10-31/masood-zakaria-afp-turkiye-permanent-stay-application/107327138
+document: Crime/Criminal Trial Process/Zakaria permanent stay - rule of law and AFP removal (Evidence summary 6Nov26).pdf
+document11: Preliminary/Year 11 - Zakaria Stay Bid and the Rule of Law Evidence Summary.pdf
+source: https://www.abc.net.au/news/2026-11-05/masood-zakaria-permanent-stay-application-afp/107350620
 related: the-adversary-system-and-court-jurisdiction, police-and-law-enforcement-agencies, detention-and-interrogation-rights, dietrich-v-the-queen-1992, hamzy-v-commissioner-2026, international-crime-evidence-summary-2026, extradition-act-1988
 added: 2026-10-19
-updated_at: 2026-11-03 08:40
+updated_at: 2026-11-06 08:09
 ---
 
 Masood Zakaria, 31, charged over the **20 October 2021** Guildford murders of Salim and Toufik
@@ -96,6 +97,29 @@ including conspiracy to murder, the murder charges following later.
 The live ABC headline now reads that AFP officers are "protected from prosecution" as their evidence is suppressed. An
 unlawful removal alone does not require a stay: under *Moti*, the focus is on what Australian officials did or knew.
 
+## Week three (to 5 November 2026)
+
+- **AFP Ankara officer (4 November, AAP)** denied using any "leverage" on Turkish authorities, but accepted that AFP
+  material may have encouraged Turkish police to remove him, and said Türkiye had threatened to send him to Lebanon.
+- **Lead contractor (5 November, ABC)** testified that **no contractor zip-tied** Zakaria on the flight. He said Turkish
+  authorities tied him at boarding and the ties were later removed; photographs of him in flexi cuffs on the flight had
+  been shown to the court, so the point is **disputed**.
+- The 5 November article gives the payment as **$1 million**; earlier ABC reports say **$1.1 million** to two firms.
+  An AFP officer said Skytraders invoiced the AFP, which paid, but denied promising Türkiye it would pay.
+- Hart's CEO said two AFP contracts moved **two other accused men**, who are subject to non-publication orders.
+- Commissioner Barrett and former Commissioner Kershaw were reported as **no longer needing to testify**; no reason has
+  been reported. AFP officers' evidence was reported as protected from use to prosecute them under Australian or Turkish
+  law; the provision used was not reported.
+- On his return he also faced warrants for directing a criminal group, cocaine supply and proceeds of crime offences.
+- Two senior NSW Police officers gave similar evidence that they wanted extradition; one learned of the contractor flight
+  only on landing in Darwin.
+
+## Rule of law reading (Year 11 summary)
+
+The same hearing works as a **rule of law** example: government bound by law at home and abroad, set against a court's
+duty to try serious charges. A stay would follow *Moti* only if Australian officials' **knowledge and conduct** are
+established; Ierace J's 2025 finding of prima facie unlawfulness under Turkish law did not find that the AFP knew.
+
 ## The test, and why the 2025 ruling matters
 
 A permanent stay rests on the court's **inherent power** to prevent its process being abused: would
@@ -136,4 +160,4 @@ argument still to come and no Crown response. The $1.1 million figure, the email
 only reporting of it, and "credible prima facie evidence" is not a final finding. The year he left
 Australia (2021 or 2022), his age and the contractors' names are reported inconsistently; the
 extradition treaty is confirmed only from law-firm sources. His alleged Alameddine role is unproven.
-Check the eventual Muston J judgment before relying on any finding.
+Payment figures differ between reports ($1m v $1.1m). 'Kidnapping' is the defence's word. Treaty status comes from a law-firm list, not DFAT. Check the eventual Muston J judgment before relying on any finding.

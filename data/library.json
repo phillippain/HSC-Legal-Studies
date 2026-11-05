@@ -3577,6 +3577,22 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - Calvary Catholic Hospital Service Cuts Evidence Summary.pdf",
+   "name": "Family - Calvary Catholic Hospital Service Cuts Evidence Summary",
+   "file": "Family - Calvary Catholic Hospital Service Cuts Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209078,
+   "mtime": 1793909732,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "family"
+   ],
+   "dupe": "familycalvarycatholichospitalservicecutsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Family - Child Support Financial Abuse (updated 4Nov26) Evidence Summary.pdf",
    "name": "Family - Child Support Financial Abuse (updated 4Nov26) Evidence Summary",
    "file": "Family - Child Support Financial Abuse (updated 4Nov26) Evidence Summary.pdf",
@@ -3725,6 +3741,23 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - Mehajer Domestic Violence Charges and Bail Refusal Evidence Summary.pdf",
+   "name": "Family - Mehajer Domestic Violence Charges and Bail Refusal Evidence Summary",
+   "file": "Family - Mehajer Domestic Violence Charges and Bail Refusal Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207865,
+   "mtime": 1793909724,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "family",
+    "fam.2.4"
+   ],
+   "dupe": "familymehajerdomesticviolencechargesandbailrefusalevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Family - My IVF Support Mental Health Fertility Treatment Evidence Summary.pdf",
    "name": "Family - My IVF Support Mental Health Fertility Treatment Evidence Summary",
    "file": "Family - My IVF Support Mental Health Fertility Treatment Evidence Summary.pdf",
@@ -3791,6 +3824,23 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - NT Youth Domestic Violence Support Gap Evidence Summary.pdf",
+   "name": "Family - NT Youth Domestic Violence Support Gap Evidence Summary",
+   "file": "Family - NT Youth Domestic Violence Support Gap Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209877,
+   "mtime": 1793909725,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "family",
+    "fam.2.4"
+   ],
+   "dupe": "familyntyouthdomesticviolencesupportgapevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Family - Parenting Policy Gap Commentary Evidence Summary.pdf",
    "name": "Family - Parenting Policy Gap Commentary Evidence Summary",
    "file": "Family - Parenting Policy Gap Commentary Evidence Summary.pdf",
@@ -3804,6 +3854,23 @@
     "fam.1.5"
    ],
    "dupe": "familyparentingpolicygapcommentaryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Family/Evidence Summaries/Family - Pilbara Child Protection Crisis Evidence Summary.pdf",
+   "name": "Family - Pilbara Child Protection Crisis Evidence Summary",
+   "file": "Family - Pilbara Child Protection Crisis Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209733,
+   "mtime": 1793909726,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "family",
+    "fam.3.4"
+   ],
+   "dupe": "familypilbarachildprotectioncrisisevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4448,6 +4515,20 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Antakirinja Matu-Yankunytjatjara Aboriginal Corporation RNTBC v State of South Australia [2026] FCA 1663 - Case Summary.pdf",
+   "name": "Year 11 - Antakirinja Matu-Yankunytjatjara Aboriginal Corporation RNTBC v State of South Australia [2026] FCA 1663 - Case Summary",
+   "file": "Year 11 - Antakirinja Matu-Yankunytjatjara Aboriginal Corporation RNTBC v State of South Australia [2026] FCA 1663 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 291126,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [],
+   "dupe": "year11antakirinjamatuyankunytjatjaraaboriginalcorporationrntbcvstateofsouthaustralia2026fca1663casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary.pdf",
    "name": "Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary",
    "file": "Year 11 - Austin v Victoria (No 3) [2026] FCA 1054 - Case Summary.pdf",
@@ -4549,6 +4630,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Christinsen & Nykvist [2026] FedCFamC1F 653 - Case Summary.pdf",
+   "name": "Year 11 - Christinsen & Nykvist [2026] FedCFamC1F 653 - Case Summary",
+   "file": "Year 11 - Christinsen & Nykvist [2026] FedCFamC1F 653 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 274428,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "year11christinsennykvist2026fedcfamc1f653casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Coric & Coric (No 2) [2026] FedCFamC2F 1266 - Case Summary.pdf",
    "name": "Year 11 - Coric & Coric (No 2) [2026] FedCFamC2F 1266 - Case Summary",
    "file": "Year 11 - Coric & Coric (No 2) [2026] FedCFamC2F 1266 - Case Summary.pdf",
@@ -4582,6 +4679,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Danby & Sorner [2026] FedCFamC1F 639 - Case Summary.pdf",
+   "name": "Year 11 - Danby & Sorner [2026] FedCFamC1F 639 - Case Summary",
+   "file": "Year 11 - Danby & Sorner [2026] FedCFamC1F 639 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 273860,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "year11danbysorner2026fedcfamc1f639casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Daphne & Nirmal [2026] FedCFamC2F 58 - Case Summary.pdf",
    "name": "Year 11 - Daphne & Nirmal [2026] FedCFamC2F 58 - Case Summary",
    "file": "Year 11 - Daphne & Nirmal [2026] FedCFamC2F 58 - Case Summary.pdf",
@@ -4611,6 +4724,22 @@
     "dis.2.7"
    ],
    "dupe": "year11duanandrenno62026fedcfamc1f617casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Dwayne & Evonne [2026] FedCFamC1F 644 - Case Summary.pdf",
+   "name": "Year 11 - Dwayne & Evonne [2026] FedCFamC1F 644 - Case Summary",
+   "file": "Year 11 - Dwayne & Evonne [2026] FedCFamC1F 644 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 268765,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "year11dwayneevonne2026fedcfamc1f644casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4711,6 +4840,38 @@
     "inv.1.6"
    ],
    "dupe": "year11ginandhingno142026fedcfamc1f618casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Gittings & Gittings [2026] FedCFamC1F 648 - Case Summary.pdf",
+   "name": "Year 11 - Gittings & Gittings [2026] FedCFamC1F 648 - Case Summary",
+   "file": "Year 11 - Gittings & Gittings [2026] FedCFamC1F 648 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 269776,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "year11gittingsgittings2026fedcfamc1f648casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Gulshan & Gulshan (No 3) [2026] FedCFamC1F 667 - Case Summary.pdf",
+   "name": "Year 11 - Gulshan & Gulshan (No 3) [2026] FedCFamC1F 667 - Case Summary",
+   "file": "Year 11 - Gulshan & Gulshan (No 3) [2026] FedCFamC1F 667 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 269288,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "year11gulshangulshanno32026fedcfamc1f667casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4967,6 +5128,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Petersson & Alfero [2026] FedCFamC1F 651 - Case Summary.pdf",
+   "name": "Year 11 - Petersson & Alfero [2026] FedCFamC1F 651 - Case Summary",
+   "file": "Year 11 - Petersson & Alfero [2026] FedCFamC1F 651 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 274953,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "year11peterssonalfero2026fedcfamc1f651casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary.pdf",
    "name": "Year 11 - Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary",
    "file": "Year 11 - Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary.pdf",
@@ -5098,6 +5275,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Robustelli & Dustin (No 3) [2026] FedCFamC1F 628 - Case Summary.pdf",
+   "name": "Year 11 - Robustelli & Dustin (No 3) [2026] FedCFamC1F 628 - Case Summary",
+   "file": "Year 11 - Robustelli & Dustin (No 3) [2026] FedCFamC1F 628 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 275622,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "year11robustellidustinno32026fedcfamc1f628casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Rogge and Loos (Child support) [2026] ARTA 2605 - Case Summary.pdf",
    "name": "Year 11 - Rogge and Loos (Child support) [2026] ARTA 2605 - Case Summary",
    "file": "Year 11 - Rogge and Loos (Child support) [2026] ARTA 2605 - Case Summary.pdf",
@@ -5194,6 +5387,34 @@
     "dis.2.5"
    ],
    "dupe": "year11silvestreandmeadow2026fedcfamc1f642casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Singh v District Court of NSW [2026] NSWCCA 180 - Case Summary.pdf",
+   "name": "Year 11 - Singh v District Court of NSW [2026] NSWCCA 180 - Case Summary",
+   "file": "Year 11 - Singh v District Court of NSW [2026] NSWCCA 180 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 278763,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [],
+   "dupe": "year11singhvdistrictcourtofnsw2026nswcca180casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - State of NSW v Leuthwaite (preliminary) [2026] NSWSC 1388 - Case Summary.pdf",
+   "name": "Year 11 - State of NSW v Leuthwaite (preliminary) [2026] NSWSC 1388 - Case Summary",
+   "file": "Year 11 - State of NSW v Leuthwaite (preliminary) [2026] NSWSC 1388 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 274557,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [],
+   "dupe": "year11stateofnswvleuthwaitepreliminary2026nswsc1388casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5610,6 +5831,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Christinsen & Nykvist [2026] FedCFamC1F 653 - Case Summary.pdf",
+   "name": "Christinsen & Nykvist [2026] FedCFamC1F 653 - Case Summary",
+   "file": "Christinsen & Nykvist [2026] FedCFamC1F 653 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 304742,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "christinsennykvist2026fedcfamc1f653casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Coercive Control Worked Example Crime & Family.pdf",
    "name": "Coercive Control Worked Example Crime & Family",
    "file": "Coercive Control Worked Example Crime & Family.pdf",
@@ -5787,6 +6024,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Danby & Sorner [2026] FedCFamC1F 639 - Case Summary.pdf",
+   "name": "Danby & Sorner [2026] FedCFamC1F 639 - Case Summary",
+   "file": "Danby & Sorner [2026] FedCFamC1F 639 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 308131,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "danbysorner2026fedcfamc1f639casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Daphne & Nirmal [2026] FedCFamC2F 58 - Case Summary.pdf",
    "name": "Daphne & Nirmal [2026] FedCFamC2F 58 - Case Summary",
    "file": "Daphne & Nirmal [2026] FedCFamC2F 58 - Case Summary.pdf",
@@ -5866,6 +6119,22 @@
     "fam.2.2"
    ],
    "dupe": "duanandrenno62026fedcfamc1f617casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Dwayne & Evonne [2026] FedCFamC1F 644 - Case Summary.pdf",
+   "name": "Dwayne & Evonne [2026] FedCFamC1F 644 - Case Summary",
+   "file": "Dwayne & Evonne [2026] FedCFamC1F 644 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 300983,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "dwayneevonne2026fedcfamc1f644casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5967,6 +6236,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Gittings & Gittings [2026] FedCFamC1F 648 - Case Summary.pdf",
+   "name": "Gittings & Gittings [2026] FedCFamC1F 648 - Case Summary",
+   "file": "Gittings & Gittings [2026] FedCFamC1F 648 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 305924,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "gittingsgittings2026fedcfamc1f648casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Gizela & Elmas [2026] FedCFamC1F 494 - Case Summary.pdf",
    "name": "Gizela & Elmas [2026] FedCFamC1F 494 - Case Summary",
    "file": "Gizela & Elmas [2026] FedCFamC1F 494 - Case Summary.pdf",
@@ -6012,6 +6297,22 @@
     "fam.1.5"
    ],
    "dupe": "glanceyandglanceychildsupport2026arta194515july2026",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Gulshan & Gulshan (No 3) [2026] FedCFamC1F 667 - Case Summary.pdf",
+   "name": "Gulshan & Gulshan (No 3) [2026] FedCFamC1F 667 - Case Summary",
+   "file": "Gulshan & Gulshan (No 3) [2026] FedCFamC1F 667 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 304367,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "gulshangulshanno32026fedcfamc1f667casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6405,6 +6706,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Petersson & Alfero [2026] FedCFamC1F 651 - Case Summary.pdf",
+   "name": "Petersson & Alfero [2026] FedCFamC1F 651 - Case Summary",
+   "file": "Petersson & Alfero [2026] FedCFamC1F 651 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 303898,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "peterssonalfero2026fedcfamc1f651casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary.pdf",
    "name": "Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary",
    "file": "Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary.pdf",
@@ -6450,6 +6767,22 @@
     "family"
    ],
    "dupe": "rangelbirdno22026fedcfamc1a193casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Robustelli & Dustin (No 3) [2026] FedCFamC1F 628 - Case Summary.pdf",
+   "name": "Robustelli & Dustin (No 3) [2026] FedCFamC1F 628 - Case Summary",
+   "file": "Robustelli & Dustin (No 3) [2026] FedCFamC1F 628 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 306250,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "family"
+   ],
+   "dupe": "robustellidustinno32026fedcfamc1f628casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8442,6 +8775,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Singh v District Court of NSW [2026] NSWCCA 180 - Case Summary.pdf",
+   "name": "Singh v District Court of NSW [2026] NSWCCA 180 - Case Summary",
+   "file": "Singh v District Court of NSW [2026] NSWCCA 180 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 305927,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "singhvdistrictcourtofnsw2026nswcca180casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Soyke v R [2016] NSWCCA 112 - Case Summary.pdf",
    "name": "Soyke v R [2016] NSWCCA 112 - Case Summary",
    "file": "Soyke v R [2016] NSWCCA 112 - Case Summary.pdf",
@@ -8455,6 +8804,22 @@
     "crime.4.2"
    ],
    "dupe": "soykevr2016nswcca112casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/State of NSW v Leuthwaite (preliminary) [2026] NSWSC 1388 - Case Summary.pdf",
+   "name": "State of NSW v Leuthwaite (preliminary) [2026] NSWSC 1388 - Case Summary",
+   "file": "State of NSW v Leuthwaite (preliminary) [2026] NSWSC 1388 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 291491,
+   "mtime": 1793910221,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "stateofnswvleuthwaitepreliminary2026nswsc1388casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8902,6 +9267,38 @@
    "primary": true
   },
   {
+   "path": "Human Rights/HR - Australia Sudan Human Rights Sanctions Evidence Summary.pdf",
+   "name": "HR - Australia Sudan Human Rights Sanctions Evidence Summary",
+   "file": "HR - Australia Sudan Human Rights Sanctions Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207457,
+   "mtime": 1793909720,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "humanrights"
+   ],
+   "dupe": "hraustraliasudanhumanrightssanctionsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - Digital Detox in Schools Screen and AI Limits Evidence Summary.pdf",
+   "name": "HR - Digital Detox in Schools Screen and AI Limits Evidence Summary",
+   "file": "HR - Digital Detox in Schools Screen and AI Limits Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210898,
+   "mtime": 1793909731,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "humanrights"
+   ],
+   "dupe": "hrdigitaldetoxinschoolsscreenandailimitsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/HR - Digital Duty of Care Bill Evidence Summary.pdf",
    "name": "HR - Digital Duty of Care Bill Evidence Summary",
    "file": "HR - Digital Duty of Care Bill Evidence Summary.pdf",
@@ -8915,6 +9312,22 @@
     "hr.2.9"
    ],
    "dupe": "hrdigitaldutyofcarebillevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - Great Powers Sovereignty and Human Rights Enforcement Evidence Summary.pdf",
+   "name": "HR - Great Powers Sovereignty and Human Rights Enforcement Evidence Summary",
+   "file": "HR - Great Powers Sovereignty and Human Rights Enforcement Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211705,
+   "mtime": 1793909730,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "humanrights"
+   ],
+   "dupe": "hrgreatpowerssovereigntyandhumanrightsenforcementevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8949,6 +9362,22 @@
     "hr.2.12"
    ],
    "dupe": "hrnswhumanrightsactinquiryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - NZ Election Treaty of Waitangi and Maori Rights Evidence Summary.pdf",
+   "name": "HR - NZ Election Treaty of Waitangi and Maori Rights Evidence Summary",
+   "file": "HR - NZ Election Treaty of Waitangi and Maori Rights Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211266,
+   "mtime": 1793909722,
+   "bucket": "evidence",
+   "kind": "international",
+   "tags": [
+    "humanrights"
+   ],
+   "dupe": "hrnzelectiontreatyofwaitangiandmaorirightsevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -9000,6 +9429,22 @@
     "hr.2.9"
    ],
    "dupe": "hrqldprisonshumanrightsexemptionevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - Reddit v under-16s ban (High Court) - AFR Evidence Summary.pdf",
+   "name": "HR - Reddit v under-16s ban (High Court) - AFR Evidence Summary",
+   "file": "HR - Reddit v under-16s ban (High Court) - AFR Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211527,
+   "mtime": 1793909729,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "humanrights"
+   ],
+   "dupe": "hrredditvunder16sbanhighcourtafrevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -9137,6 +9582,23 @@
     "hr.2.1"
    ],
    "dupe": "hrunrapporteurrefuseddetentionaccessamnestyreleaseevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - UN rapporteur refused detention access - NT scandal report Evidence Summary.pdf",
+   "name": "HR - UN rapporteur refused detention access - NT scandal report Evidence Summary",
+   "file": "HR - UN rapporteur refused detention access - NT scandal report Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209770,
+   "mtime": 1793909720,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "humanrights",
+    "crime.2"
+   ],
+   "dupe": "hrunrapporteurrefuseddetentionaccessntscandalreportevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -10501,6 +10963,20 @@
    "primary": true
   },
   {
+   "path": "Preliminary/Year 11 - Economic Disadvantage and Renters Access to Justice Evidence Summary.pdf",
+   "name": "Year 11 - Economic Disadvantage and Renters Access to Justice Evidence Summary",
+   "file": "Year 11 - Economic Disadvantage and Renters Access to Justice Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210075,
+   "mtime": 1793911628,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [],
+   "dupe": "year11economicdisadvantageandrentersaccesstojusticeevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Preliminary/Year 11 - Experiences with the Law - NT Teen Terror Charges Evidence Summary.pdf",
    "name": "Year 11 - Experiences with the Law - NT Teen Terror Charges Evidence Summary",
    "file": "Year 11 - Experiences with the Law - NT Teen Terror Charges Evidence Summary.pdf",
@@ -10514,6 +10990,20 @@
     "exp.1.3"
    ],
    "dupe": "year11experienceswiththelawntteenterrorchargesevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Great Powers and the Global Legal System Evidence Summary.pdf",
+   "name": "Year 11 - Great Powers and the Global Legal System Evidence Summary",
+   "file": "Year 11 - Great Powers and the Global Legal System Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 212552,
+   "mtime": 1793911625,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [],
+   "dupe": "year11greatpowersandthegloballegalsystemevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -10569,6 +11059,22 @@
    "primary": true
   },
   {
+   "path": "Preliminary/Year 11 - NT Young People Domestic Violence Access to Justice Evidence Summary.pdf",
+   "name": "Year 11 - NT Young People Domestic Violence Access to Justice Evidence Summary",
+   "file": "Year 11 - NT Young People Domestic Violence Access to Justice Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210543,
+   "mtime": 1793911627,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.2.4"
+   ],
+   "dupe": "year11ntyoungpeopledomesticviolenceaccesstojusticeevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Preliminary/Year 11 - National Gun Buyback Law Reform After Bondi Evidence Summary.pdf",
    "name": "Year 11 - National Gun Buyback Law Reform After Bondi Evidence Summary",
    "file": "Year 11 - National Gun Buyback Law Reform After Bondi Evidence Summary.pdf",
@@ -10584,6 +11090,50 @@
     "chg.4.2"
    ],
    "dupe": "year11nationalgunbuybacklawreformafterbondievidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - OConnell High Court Murder Appeal Evidence Summary.pdf",
+   "name": "Year 11 - OConnell High Court Murder Appeal Evidence Summary",
+   "file": "Year 11 - OConnell High Court Murder Appeal Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206292,
+   "mtime": 1793911623,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [],
+   "dupe": "year11oconnellhighcourtmurderappealevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Pilbara Child Protection and Aboriginal Children Evidence Summary.pdf",
+   "name": "Year 11 - Pilbara Child Protection and Aboriginal Children Evidence Summary",
+   "file": "Year 11 - Pilbara Child Protection and Aboriginal Children Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211410,
+   "mtime": 1793911628,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.3.4"
+   ],
+   "dupe": "year11pilbarachildprotectionandaboriginalchildrenevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Reddit High Court Social Media Ban Challenge Evidence Summary.pdf",
+   "name": "Year 11 - Reddit High Court Social Media Ban Challenge Evidence Summary",
+   "file": "Year 11 - Reddit High Court Social Media Ban Challenge Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211143,
+   "mtime": 1793911625,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [],
+   "dupe": "year11reddithighcourtsocialmediabanchallengeevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -10690,6 +11240,36 @@
     "inv.5.2"
    ],
    "dupe": "year11unexpertsandstalledcustodybillslawreformevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - UN Rapporteur Refused Youth Detention Access Evidence Summary.pdf",
+   "name": "Year 11 - UN Rapporteur Refused Youth Detention Access Evidence Summary",
+   "file": "Year 11 - UN Rapporteur Refused Youth Detention Access Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208886,
+   "mtime": 1793911626,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.2"
+   ],
+   "dupe": "year11unrapporteurrefusedyouthdetentionaccessevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Zakaria Stay Bid and the Rule of Law Evidence Summary.pdf",
+   "name": "Year 11 - Zakaria Stay Bid and the Rule of Law Evidence Summary",
+   "file": "Year 11 - Zakaria Stay Bid and the Rule of Law Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206581,
+   "mtime": 1793911624,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [],
+   "dupe": "year11zakariastaybidandtheruleoflawevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -12827,6 +13407,23 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - Anglicare Essential Workers Rental Snapshot Evidence Summary.pdf",
+   "name": "Shelter - Anglicare Essential Workers Rental Snapshot Evidence Summary",
+   "file": "Shelter - Anglicare Essential Workers Rental Snapshot Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206211,
+   "mtime": 1793909723,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "shelter",
+    "shel.2.2"
+   ],
+   "dupe": "shelteranglicareessentialworkersrentalsnapshotevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - Bathla Failed Land Settlements Evidence Summary.pdf",
    "name": "Shelter - Bathla Failed Land Settlements Evidence Summary",
    "file": "Shelter - Bathla Failed Land Settlements Evidence Summary.pdf",
@@ -13010,6 +13607,23 @@
     "shel.2.6"
    ],
    "dupe": "shelterrighthelprighttimehomelessnessevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Short Stay Levy and Land Tax for Community Housing Evidence Summary.pdf",
+   "name": "Shelter - Short Stay Levy and Land Tax for Community Housing Evidence Summary",
+   "file": "Shelter - Short Stay Levy and Land Tax for Community Housing Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207646,
+   "mtime": 1793909723,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shelter",
+    "shel.3.4"
+   ],
+   "dupe": "sheltershortstaylevyandlandtaxforcommunityhousingevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -15080,6 +15694,22 @@
    "primary": true
   },
   {
+   "path": "Crime/Criminal Trial Process/Zakaria permanent stay - rule of law and AFP removal (Evidence summary 6Nov26).pdf",
+   "name": "Zakaria permanent stay - rule of law and AFP removal (Evidence summary 6Nov26)",
+   "file": "Zakaria permanent stay - rule of law and AFP removal (Evidence summary 6Nov26).pdf",
+   "ext": "pdf",
+   "bytes": 204310,
+   "mtime": 1793909718,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "crime.3"
+   ],
+   "dupe": "zakariapermanentstayruleoflawandafpremovalevidencesummary6nov26",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Criminal Trial Process/Zakaria permanent stay - week one and Crown concession (Evidence summary 26Oct26).pdf",
    "name": "Zakaria permanent stay - week one and Crown concession (Evidence summary 26Oct26)",
    "file": "Zakaria permanent stay - week one and Crown concession (Evidence summary 26Oct26).pdf",
@@ -16416,6 +17046,22 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - OConnell High Court Murder Conviction Restored Evidence Summary.pdf",
+   "name": "Crime - OConnell High Court Murder Conviction Restored Evidence Summary",
+   "file": "Crime - OConnell High Court Murder Conviction Restored Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 204731,
+   "mtime": 1793909717,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "crimeoconnellhighcourtmurderconvictionrestoredevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - OConnell v DPP High Court Murder Conviction Reinstated Evidence Summary.pdf",
    "name": "Crime - OConnell v DPP High Court Murder Conviction Reinstated Evidence Summary",
    "file": "Crime - OConnell v DPP High Court Murder Conviction Reinstated Evidence Summary.pdf",
@@ -16429,6 +17075,22 @@
     "crime.3.9"
    ],
    "dupe": "crimeoconnellvdpphighcourtmurderconvictionreinstatedevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Operation Integrity Fusion Commonwealth Fraud Evidence Summary.pdf",
+   "name": "Crime - Operation Integrity Fusion Commonwealth Fraud Evidence Summary",
+   "file": "Crime - Operation Integrity Fusion Commonwealth Fraud Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207924,
+   "mtime": 1793909719,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime"
+   ],
+   "dupe": "crimeoperationintegrityfusioncommonwealthfraudevidencesummary",
    "copyOf": null,
    "primary": true
   },

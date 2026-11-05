@@ -16,7 +16,7 @@ source: https://www.abc.net.au/news/2026-11-04/high-court-reinstates-canberra-ma
 related: martin-v-dpp-2026, jury-act-1977, crimes-act-homicide-defences, the-adversary-system-and-court-jurisdiction
 added: 2026-11-05
 added_at: 2026-11-05 07:33
-updated_at: 2026-11-05 07:33
+updated_at: 2026-11-06 08:09
 ---
 
 In April 2022 **Michael O'Connell** drove off with Ms Jordan on the bonnet of his car; she fell and died. In a
@@ -36,6 +36,20 @@ sentenced to 15 years. In 2025 the **ACT Court of Appeal** (2–1, McCallum CJ d
 The ABC headline says the murder conviction was "reinstated"; strictly, the unreasonable-verdict ground was **remitted,
 not decided**.
 
+## Media report (ABC, 4 November) — added facts
+
+- **Sentences**: 15 years with a 10-year non-parole period (7 February 2024); resentenced on manslaughter on 9 December 2025
+  to **10 years, non-parole six and a half years**, backdated to October 2022, parole eligibility April 2029. The report
+  does not say which sentence applies after the High Court's orders.
+- **Appeal steps**: special leave determined 5 February 2026; seven justices heard the joined appeals on **12 May 2026**.
+  The Court of Appeal's two orders were months apart (acquittal on murder 27 June 2025; manslaughter substituted 29 September
+  2025), McCallum CJ dissenting both times and preferring a retrial to substitution.
+- **Evidence**: the jury attended a **view of the scene**; speed estimates ranged from about **37.5 to 63.1 km/h** and
+  O'Connell's accounts varied; he did not give evidence at trial. Ms Jordan fell from the bonnet of his ute early on Good
+  Friday 2022 and died two days later.
+- **Context**: O'Connell was at her home despite bail conditions banning contact, and the resentencing judge said the killing
+  occurred in a **family violence context**.
+
 ## Use it for
 
 - **crime.4.5 (appeals)** — every layer of appeal at work, and the limits on appeal judges second-guessing a jury.
@@ -43,5 +57,5 @@ not decided**.
 
 ## Caution
 
-A **class case summary**; the file's paragraph numbers appear one too high, so quotes are cited to the reasons only.
+The media-report facts above come from a class evidence summary of the ABC article and Canberra reports, not the judgment; a claim that a 13-year-old witness was central is unverified and the witness must not be identified. A **class case summary**; the file's paragraph numbers appear one too high, so quotes are cited to the reasons only.
 Edelman J's point about probability was not a ground of appeal.

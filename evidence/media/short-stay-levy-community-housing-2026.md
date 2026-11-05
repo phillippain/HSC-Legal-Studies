@@ -10,12 +10,12 @@ core: shel.3.4, shel.1.4
 support: shel.2.2, shel.2.6, shel.3.1, chg.2.2, chg.1.6
 themes: shel.t.reform, shel.t.effectiveness
 criteria: resource, responsiveness, accessibility
-document: Shelter/Evidence Sheets/Shelter - Short Stay Levy for Community Housing Evidence Summary.pdf
+document: Shelter/Evidence Sheets/Shelter - Short Stay Levy and Land Tax for Community Housing Evidence Summary.pdf
 source: https://www.abc.net.au/news/2026-11-04/community-housing-body-calls-for-short-stay-levy/107341406
 related: community-housing-providers-national-law-act-2012, housing-act-2001, right-help-right-time-homelessness-2026, nsw-planning-law-shelter-sheet
 added: 2026-11-05
 added_at: 2026-11-05 07:33
-updated_at: 2026-11-05 07:33
+updated_at: 2026-11-06 08:09
 ---
 
 The **Community Housing Industry Association NSW** (CEO Luke Achterstraat) presented research at NSW Parliament on 4
@@ -32,6 +32,22 @@ about **$26bn** over 10 years. NSW's $6.6bn Building Homes for NSW program promi
 | Housing revenue | Yes | None |
 
 The Government, Opposition, Greens and industry responded; NSW announced a short-term rental review in December 2023.
+
+## The land tax package, and how the figures check (second summary, 6 November 2026)
+
+A second class summary of the same ABC article tests the claims. Almost all of the **$26bn** over 10 years comes from **land tax changes ($25.9bn)**; the levy itself would raise about $1.35bn over 10 years.
+
+| | Current NSW setting | CHIA NSW proposal |
+|---|---|---|
+| General land tax | $100 plus 1.6% above $1.075m | Rate rises to 2% |
+| Premium land tax | 2% above $6.571m | 2.5% for larger holdings; new 2.9% rate above $50m |
+| Threshold and home | $1.075m; principal place of residence exempt | Both kept |
+| Rezoning gains | No windfall charge reported | Charge on value uplift, about $80m a year |
+| Funding model | $6.6bn Building Homes for NSW, set through the budget | Dedicated long-term pool to avoid funding cliffs |
+
+- **Victoria's evidence**: its levy raised **$85.8m in 2025 against a $75m forecast**; listings growth slowed from about 22% to 2.6%, then fell 0.5% in 2026 — but Victoria has not said which homes the money funded.
+- **Competing estimates**: Homelessness NSW estimated about **$50m a year** for the same 7.5% levy (August 2026), far below CHIA's $135m; no modelling was published. Its waitlist figure was **68,247** households (May 2026); CHIA's "record 72,000" was not checked against DCJ data.
+- NSW's halfway report records **5,175** homes delivered since early 2023. Critics: ASTRA (short stays house medical travellers and people escaping family violence), the Greens (levies raise little), the Opposition (slow spending). Any change needs NSW legislation; no bill or timetable is given.
 
 ## Use it for
 
