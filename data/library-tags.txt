@@ -533,3 +533,21 @@ Shelter/Evidence Sheets/Shelter - Short Stay Levy for Community Housing Evidence
 Preliminary/Year 11 - Reddit v under-16s ban (High Court) Evidence Summary.pdf | inv.5.4, inv.7.2
 Crime/Crime - Coercive Control in NSW 2-page Explainer (Nov 2026).pdf | crime.1.2, crime.1.5, crime.1.6, crime.2.5, crime.3.6, crime.3.8, crime.4.4, fam.2.4
 Crime/Crime - Coercive Control in NSW Full Explainer (Nov 2026).pdf | crime.1.2, crime.1.5, crime.1.6, crime.2.5, crime.3.6, crime.3.8, crime.4.4, fam.2.4
+Cases/Crime/R v Xerri (a pseudonym) [2026] NSWCCA 183 - Case Summary.pdf | crime.3.8, crime.4.5
+Cases/Year 11/Year 11 - R v Xerri (a pseudonym) [2026] NSWCCA 183 - Case Summary.pdf | chg.1.3, chg.3.3
+Cases/Crime/Gatt v R [2026] NSWCCA 182 - Case Summary.pdf | crime.4.5, crime.4.3
+Cases/Year 11/Year 11 - Gatt v R [2026] NSWCCA 182 - Case Summary.pdf | dis.1.7, dis.1.8
+Cases/Crime/Brooker v R [2026] NSWCCA 181 - Case Summary.pdf | crime.4.3, crime.4.5
+Cases/Year 11/Year 11 - Brooker v R [2026] NSWCCA 181 - Case Summary.pdf | dis.1.7
+Cases/Crime/Staunton v El Matari [2026] FCA 1622 - Case Summary.pdf | crime.4.8, crime.6.1
+Cases/Year 11/Year 11 - Staunton v El Matari [2026] FCA 1622 - Case Summary.pdf | dis.1.1, inv.1.6
+Cases/Crime/State of NSW v Mustapha [2026] NSWSC 1406 - Case Summary.pdf | crime.4.8, crime.6.1
+Cases/Year 11/Year 11 - State of NSW v Mustapha [2026] NSWSC 1406 - Case Summary.pdf | dis.1.1
+Cases/Crime/Application by Matthew Milat (s 78 review) [2026] NSWSC 966 - Case Summary.pdf | crime.5.4, crime.4.8
+Cases/Year 11/Year 11 - Application by Matthew Milat (s 78 review) [2026] NSWSC 966 - Case Summary.pdf | inv.4.2, exp.2.3
+Cases/Human Rights/Priestley v Blackfisch Films Pty Ltd [2026] NSWCATAD 343 - Case Summary.pdf | hr.2.11, hr.2.9
+Cases/Year 11/Year 11 - Priestley v Blackfisch Films Pty Ltd [2026] NSWCATAD 343 - Case Summary.pdf | dis.2.5, dis.2.4
+Cases/Crime/SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary (updated 7Nov26).pdf | crime.4.6, crime.4.3
+Cases/Year 11/Year 11 - SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary (updated 7Nov26).pdf | dis.1.3, dis.1.7
+Cases/Year 11/Year 11 - Grayson Family Ltd Partnership LLLP v Lynch [2026] FCA 1667 - Case Summary.pdf | dis.2.4, dis.2.5
+Cases/Year 11/Year 11 - Australian Dance Arts Pty Ltd v Gincop Nominees 3 Pty Ltd [2026] NSWSC 1379 - Case Summary.pdf | dis.2.4, dis.2.3

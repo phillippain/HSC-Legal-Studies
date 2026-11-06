@@ -10,11 +10,11 @@ core: crime.4.2, crime.4.3, crime.4.6, dis.1.7
 support: crime.4.1, dis.1.8, dis.1.5, dis.1.3, inv.1.4, inv.3.2, exp.1.1
 themes: crime.t.compliance, crime.t.effectiveness, crime.t.balance, dis.t.justice
 criteria: enforceability, society, justice
-document: Cases/Crime/SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary.pdf
-document11: Cases/Year 11/Year 11 - SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary.pdf
+document: Cases/Crime/SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary (updated 7Nov26).pdf
+document11: Cases/Year 11/Year 11 - SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary (updated 7Nov26).pdf
 related: secretary-dcceew-v-dalton-2026
 added: 2026-11-03
-updated_at: 2026-11-03 08:23
+updated_at: 2026-11-07 10:07
 ---
 
 A formwork subcontractor pleaded guilty under s 32 of the *Work Health and Safety Act 2011* (NSW) after a
