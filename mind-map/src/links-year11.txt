@@ -1,0 +1,203 @@
+# Year 11 links (Legal Studies 11-12 syllabus). DRAFT for teacher review.
+# Format:  TYPE STRENGTH idA idB | one-sentence reason
+#   TYPE     b = builds on / leads to (A leads to B)   s = same concept in another place
+#            t = tension or conflict                    l = legal vs non-legal response
+#   STRENGTH m = main link   w = weaker link
+# A link whose two ends sit in different courses is shown as a Year 11 -> Year 12 bridge.
+
+# ---------------------------------------------------------------- Investigating the law
+b m inv.1.1 inv.1.2 | Once you know what law is and does, you can ask what makes a law effective.
+b w inv.1.2 inv.1.7 | Laws that are clear, known and applied equally are the rule of law at work.
+b m inv.1.4 inv.1.6 | Procedural fairness (a fair hearing, no bias) is how the principle of fairness is delivered in a decision.
+b m inv.1.6 inv.1.7 | Procedural fairness protects people from arbitrary decisions, which is the heart of the rule of law.
+b m inv.1.7 inv.1.8 | When the rule of law is weak, the result is an absence of law or a misuse of it.
+b w inv.1.5 inv.1.4 | Ethics shape what a community thinks is fair, and so which principles of justice its law adopts.
+s w inv.1.3 dis.1.1 | Classifying law (criminal/civil, public/private) is the first step to the purposes of criminal law in Disputes.
+b w inv.1.7 dis.3.2 | Where government power is misused, individuals and groups end up in disputes with the state.
+
+b m inv.2.1 inv.2.2 | Customary Lore is significant and diverse, and Elders are the people who uphold it and resolve disputes under it.
+b m inv.2.3 inv.2.4 | The connection between Country, People, practice and kinship is the source of responsibility for caring for Country.
+s m inv.2.2 exp.2.4 | Elders' mediation and traditional dispute resolution is a model for culturally inclusive justice processes.
+s m inv.2.2 crime.4.7 | Circle sentencing brings Elders into the sentencing process.
+s m inv.2.1 chg.5.2 | Native title recognises rights and interests that come from traditional laws and customs.
+s w inv.2.4 chg.5.2 | Connection to, and responsibility for, Country is what native title is about.
+
+b m inv.3.1 inv.3.2 | Common law is built from judges' decisions, and precedent is the doctrine that makes those decisions binding.
+b m inv.3.3 inv.3.4 | Parliament passes statutes that can give other bodies the power to make detailed rules.
+b m inv.3.2 inv.4.1 | Precedent only works because courts are arranged in a hierarchy where higher courts bind lower ones.
+b m inv.3.3 inv.4.4 | Statutes are made through the structure and processes of parliament.
+t w inv.3.1 inv.3.3 | Judge-made common law v parliament's statutes: parliament can override or codify the common law.
+s m inv.3.2 chg.5.4 | Mabo and Wik show precedent developing the common law, and then legislation responding.
+
+b m inv.4.1 inv.4.3 | The adversarial system operates inside the court structure.
+s m inv.4.1 crime.3.1 | Court jurisdiction and hierarchy are applied to criminal matters in the Crime topic.
+s m inv.4.3 crime.3.2 | The adversary system is studied in Year 11 and then applied in depth in the criminal trial process.
+s m inv.4.2 crime.5.3 | The Children's Court is where young offenders are dealt with.
+s m inv.4.2 exp.2.3 | Young people's contact with legal processes happens largely in the Children's Court.
+s w inv.4.2 fam.3.4 | Care and protection matters are heard in the Children's Court.
+b m inv.4.4 inv.4.5 | Parliament makes law; courts then interpret and apply it, so each depends on the other.
+t w inv.4.5 inv.5.3 | Parliamentary supremacy v judicial independence: the separation of powers sets limits on each.
+
+b m inv.5.1 inv.5.2 | The Constitution created the federal system, and divides power between governments.
+b w inv.5.2 inv.5.3 | Dividing power between governments is one way of limiting it, and separating it between branches is another.
+b m inv.5.3 inv.5.4 | Because power is separated, the High Court (not parliament) interprets the Constitution.
+b w inv.5.4 inv.5.5 | Changing the words of the Constitution is for the people through a referendum, not for the court.
+s m inv.5.2 fam.1.2 | State and federal jurisdiction in family law is the division of powers in action.
+s m inv.5.3 hr.2.8 | The separation and division of powers return in the Human Rights topic as part of the role of the Constitution.
+s w inv.5.4 hr.2.11 | The High Court's interpretation of the Constitution is one of the ways rights are protected in Australia.
+
+b m inv.6.1 inv.6.3 | Obligations on states come from customary international law and the instruments (such as treaties) they sign.
+t m inv.6.2 inv.6.3 | State sovereignty v international responsibility: a state governs itself, but is bound by what it has agreed to.
+b w inv.6.3 inv.6.4 | The UN exists to help states meet their responsibilities and to keep the peace.
+b w inv.6.4 inv.6.6 | The UN works through international courts and tribunals to resolve disputes between states.
+l m inv.6.6 inv.6.7 | Courts apply law with limited power to enforce it, while NGOs add non-legal pressure and monitoring.
+l w inv.6.5 inv.6.7 | Cooperation through intergovernmental organisations and pressure from NGOs both push states towards compliance.
+b m inv.6.1 hr.1.3 | The UDHR, ICCPR and ICESCR are the formal instruments that Year 11's sources of international law lead to.
+s m inv.6.2 hr.2.1 | State sovereignty is the central idea again when the Human Rights topic asks how rights are enforced.
+s m inv.6.4 hr.2.2 | The purpose of the UN becomes its specific role in promoting and enforcing human rights.
+s m inv.6.5 hr.2.3 | Intergovernmental organisations are studied again for their role in human rights.
+s m inv.6.6 hr.2.4 | International courts and tribunals return as a way of enforcing rights.
+s m inv.6.7 hr.2.5 | Non-government organisations are studied again for their role in human rights.
+b m inv.6.3 hr.2.7 | Australia's international obligations only become enforceable at home when they are incorporated into domestic law.
+b w inv.6.6 crime.6.2 | International courts and tribunals are a main way of dealing with international crime.
+
+b m inv.7.1 inv.7.2 | Rights come with responsibilities, and both arise from the sources of law.
+b m inv.7.2 inv.7.3 | Because rights come from several sources, protection exists at both domestic and international levels.
+b m inv.7.3 inv.7.4 | A right is only as strong as the consequences when it is breached.
+b m inv.7.1 hr.1.1 | The relationship between rights and responsibilities leads into defining human rights.
+s m inv.7.2 hr.2.8 | The Constitution is one source of rights and is examined as a protection in the Human Rights topic.
+s m inv.7.2 hr.2.9 | Statute law is a source of rights in Year 11 and a protection in the Human Rights topic.
+s m inv.7.2 hr.2.10 | Common law is a source of rights in Year 11 and a protection in the Human Rights topic.
+s m inv.7.3 hr.2.7 | Domestic and international protection meet where treaties are incorporated into Australian law.
+b w inv.1.5 hr.1.2 | Changing ethics drive the growing recognition of human rights.
+
+# ---------------------------------------------------------------- Disputes under the law
+b m dis.1.1 dis.1.2 | A crime is defined by its elements, which is what the purpose of criminal law is built on.
+b m dis.1.2 dis.1.3 | Once the elements are understood, crimes can be sorted by type.
+b m dis.1.4 dis.1.5 | The prosecution's burden and standard of proof shape how a criminal trial is run.
+b m dis.1.5 dis.1.6 | Court procedure is carried out by the legal personnel and the jury.
+b m dis.1.6 dis.1.7 | A verdict leads to punishment, so the aims of punishment come next.
+b m dis.1.7 dis.1.8 | Applying a real case lets you test the key concepts of justice.
+b m dis.1.2 crime.1.2 | The elements of a crime lead into the nature of crime studied in the HSC.
+b m dis.1.2 crime.1.4 | Causation is introduced as an element and is examined in depth in Crime.
+b m dis.1.3 crime.1.3 | Strict liability is one type of crime studied further in the HSC.
+b m dis.1.3 crime.1.6 | Summary and indictable offences are met first as types of crime.
+b m dis.1.4 crime.3.6 | The burden and standard of proof are applied to the trial process.
+b m dis.1.5 crime.3.1 | Procedures in NSW criminal courts lead into court jurisdiction.
+b m dis.1.6 crime.3.3 | Legal personnel in the criminal trial are studied in more depth in Crime.
+b m dis.1.6 crime.3.9 | The role of the jury is studied further, including verdicts.
+b m dis.1.7 crime.4.2 | The aims of punishment become the purposes of punishment in sentencing.
+s w dis.1.5 dis.2.5 | Both criminal and civil procedures are carried out in courts, but civil disputes also have tribunals and ADR.
+b m dis.1.5 crime.3.5 | Legal representation in criminal courts leads into legal aid in the HSC.
+
+b m dis.2.1 dis.2.2 | The purpose of civil law leads to its elements: breach, causation and loss.
+b m dis.2.2 dis.2.3 | Torts and contracts are the two main types of civil law.
+b m dis.2.4 dis.2.5 | The burden and standard of proof affect how civil disputes are resolved in tribunals and courts.
+b m dis.2.5 dis.2.6 | Procedures in tribunals and courts are carried out by legal personnel and, in some cases, a jury.
+b m dis.2.6 dis.2.7 | The outcome of civil proceedings is a remedy.
+b m dis.2.7 dis.2.8 | A civil case lets you test the key concepts of justice.
+s m dis.1.1 dis.2.1 | Criminal and civil law have different purposes: to punish and protect, v to compensate and restore.
+s m dis.1.2 dis.2.2 | Both criminal and civil law ask whether the elements have been proved, but the elements differ.
+s m dis.1.4 dis.2.4 | Beyond reasonable doubt in criminal law compares with the balance of probabilities in civil law.
+s m dis.1.7 dis.2.7 | Punishment in criminal law compares with remedies in civil law.
+b m dis.2.3 shel.2.2 | The law of contract underlies the leasing relationship between landlord and tenant.
+b w dis.2.3 shel.2.1 | A contract for the sale of land is how a purchase is made.
+b m dis.2.5 shel.2.6 | Tribunals and courts in civil disputes are applied to shelter disputes through NCAT.
+b m dis.2.5 shel.2.7 | Alternative dispute resolution in civil law leads into ADR in shelter.
+b m dis.2.5 fam.2.5 | Dispute resolution methods in civil disputes are applied to family disputes.
+b w dis.2.7 fam.2.3 | Remedies for loss are applied when property is divided after separation.
+
+b m dis.3.1 dis.3.2 | The purpose of administrative law explains why individuals and groups come into dispute with the state.
+l m dis.3.3 dis.3.4 | NGOs and the media apply non-legal pressure, while government reviews, courts and tribunals give formal remedies.
+b w dis.3.2 dis.3.3 | Many disputes with the state are first taken up by NGOs and the media.
+b m dis.3.4 dis.3.5 | When review and courts are not enough, an Ombudsman can investigate a complaint and recommend a remedy.
+b m dis.3.5 dis.3.6 | Large or systemic problems go beyond individual complaints and can lead to a royal commission.
+b m dis.3.6 dis.3.7 | The findings and recommendations are the product of the royal commission.
+b m dis.3.7 dis.3.8 | The two royal commissions give cases through which to test the concepts of justice.
+b m inv.1.6 dis.3.4 | Procedural fairness is a main ground on which government decisions are challenged in review.
+s m dis.3.3 chg.2.2 | NGOs and the media are informal drivers of change as well as ways of addressing disputes.
+s m dis.3.3 hr.2.12 | The role of NGOs and the media in disputes with the state carries into human rights in Australia.
+s w dis.3.3 hr.2.13 | The media's role in disputes with the state carries into human rights in Australia.
+b m dis.3.4 hr.2.11 | Courts and tribunals reviewing government decisions are a main way rights are protected in Australia.
+b m dis.3.5 hr.2.4 | An Ombudsman is an independent statutory authority, and so is an example of one of the human rights protectors.
+s m dis.3.7 chg.2.3 | Royal commissions are a formal driver of law reform.
+s w dis.3.7 crime.2.5 | The Royal Commission into Aboriginal Deaths in Custody led to recommendations on custody and imprisonment as a last resort.
+
+# ---------------------------------------------------------------- Changing the law
+b m chg.1.1 chg.2.1 | Changing values create pressure on lawmakers, which people express through activism and advocacy.
+b w chg.1.6 chg.2.1 | Unmet needs of individuals and groups are what advocacy and public opinion respond to.
+b w chg.1.2 chg.2.3 | Law that no longer fits society prompts formal review through inquiries and law reform commissions.
+b w chg.1.5 chg.3.1 | Outdated laws are fixed through amendments and repeals.
+l m chg.2.2 chg.2.3 | Informal methods (individuals, advocacy groups, media) v formal methods (parliament, courts, commissions): non-legal pressure against legal process.
+b m chg.2.2 chg.3.2 | Public pressure creates the political will that the executive needs to act.
+b m chg.2.3 chg.3.1 | Formal inquiries lead to bills that parliament can pass.
+b m chg.2.3 chg.3.3 | Judicial decisions are both a formal driver and a judicial method of change.
+b m chg.3.1 chg.4.1 | Reform that is passed produces benefits that can be measured.
+b m chg.3.2 chg.3.1 | Political will and parliamentary debate decide whether a bill becomes law.
+b m chg.3.3 chg.4.1 | Judicial precedents and interpretation also produce outcomes of reform.
+t w chg.4.1 chg.4.2 | Benefits v limitations: reform rarely achieves everything it aims to, so outcomes must be weighed.
+b m chg.1.3 chg.6.2 | Technology is the reason for change in the social media case study.
+s m chg.1.1 inv.1.5 | Changing values and ethics are linked: values change what the community expects of the law.
+s m chg.1.4 inv.6.3 | Upholding international standards is how international responsibilities affect domestic law reform.
+b m chg.1.4 hr.2.7 | Upholding international standards is the reason treaties are incorporated into domestic law.
+b m chg.1.1 fam.3.1 | Changing values drove the recognition of same-sex relationships.
+b w chg.1.3 crime.2.3 | New technology changes how crime is investigated, and the law has to keep up.
+b w chg.1.3 fam.3.3 | Technology in birth and reproduction has outrun family law, which has had to be reformed.
+s w chg.2.2 hr.2.13 | The media is an informal driver of law reform in human rights.
+s w chg.2.2 fam.2.7 | The media drives debate and reform in family law.
+s w chg.2.2 shel.2.10 | The media drives debate and reform in shelter law.
+s w chg.2.2 fam.2.6 | NGOs are advocates for reform in family law.
+s w chg.2.2 shel.2.9 | NGOs are advocates for reform in shelter law, notably the tenant and housing groups.
+s m chg.2.3 hr.2.14 | The Charter debate is an argument about whether to use formal law reform to protect rights.
+
+b m chg.5.1 chg.5.2 | Land rights legislation in NSW came first, and native title followed once terra nullius was overturned.
+b m chg.5.2 chg.5.3 | Native title law was driven by Aboriginal Peoples' initiatives and policy review.
+b m chg.5.3 chg.5.4 | The Mabo and Wik decisions were the result of those initiatives.
+b m chg.5.4 chg.5.5 | The decisions and legislation had both benefits and limitations.
+s m chg.5.4 chg.3.3 | Mabo and Wik are judicial methods of change: overturning an old doctrine and creating precedent.
+s m chg.5.2 chg.1.1 | Overturning terra nullius reflected changing community values.
+b m chg.6.1 chg.6.2 | The overview of the area leads to the reasons for change.
+b m chg.6.2 chg.6.3 | The reasons for change set the drivers.
+b m chg.6.3 chg.6.4 | The drivers lead to the processes of change.
+b m chg.6.4 chg.6.5 | The processes of change produce the outcomes.
+s w chg.6.4 chg.3.1 | The case study applies the legislative method of change.
+t w chg.6.5 exp.1.3 | Protecting young people v respecting their evolving capacity: an age limit protects but also restricts.
+s w chg.6.2 exp.1.1 | The need to protect young people is the reason for the change.
+
+# ---------------------------------------------------------------- Experiences with the law
+b m exp.1.1 exp.1.2 | Young people's need for protection explains the ways they come into contact with the legal system.
+b m exp.1.2 exp.1.3 | Contact with the legal system raises particular issues for young people.
+b m exp.1.3 exp.2.3 | The issues faced by young people arise in legal processes involving police and the Children's Court.
+b m exp.2.1 exp.2.3 | Protection under law shapes how police and courts must deal with young people.
+l m exp.2.2 exp.2.5 | Statutory authorities that advocate for young people v NGOs that represent them.
+l m exp.2.3 exp.2.4 | Formal court processes v alternative approaches such as diversion, justice reinvestment and culturally inclusive processes.
+b m exp.2.3 exp.3.1 | Contact with legal processes is judged against indicators of success.
+b m exp.2.4 exp.3.1 | Alternative approaches are judged by whether they achieve better outcomes.
+b w exp.3.2 exp.3.1 | Barriers explain why indicators of success are not met.
+b m exp.4.1 exp.4.2 | The group's need for protection explains its contact with the legal system.
+b m exp.4.2 exp.4.3 | Contact with the legal system raises issues for the group.
+b m exp.4.3 exp.5.3 | The issues for the group arise in legal processes.
+l m exp.5.2 exp.5.5 | Statutory authorities for the group v NGOs that represent them.
+l m exp.5.3 exp.5.4 | Formal legal processes v alternative approaches for the group.
+b m exp.5.3 exp.6.1 | Legal processes are judged against indicators of success for the group.
+b w exp.6.2 exp.6.1 | Barriers explain why indicators are not met.
+s w exp.1.1 exp.4.1 | The same question (the need for protection) is asked of the second group.
+s w exp.1.2 exp.4.2 | The same question (why people come into contact with the system) is asked of the second group.
+s w exp.1.3 exp.4.3 | The same question (issues arising) is asked of the second group.
+s w exp.2.1 exp.5.1 | The same question (protection under law) is asked of the second group.
+s w exp.2.2 exp.5.2 | The same question (authorities that advocate) is asked of the second group.
+s w exp.2.3 exp.5.3 | The same question (legal processes) is asked of the second group.
+s w exp.2.4 exp.5.4 | The same question (alternative approaches) is asked of the second group.
+s w exp.2.5 exp.5.5 | The same question (NGOs) is asked of the second group.
+s w exp.3.1 exp.6.1 | The same question (indicators of success) is asked of the second group.
+s w exp.3.2 exp.6.2 | The same question (barriers) is asked of the second group.
+b m exp.1.1 fam.3.4 | The need to protect young people leads to the care and protection system.
+b m exp.1.3 crime.5.1 | The age of criminal responsibility is an issue for young people that is examined in Crime.
+b m exp.2.3 crime.5.2 | Contact with police leads to the rights of children when questioned or arrested.
+b m exp.2.3 crime.5.3 | Contact with the Children's Court leads to its procedures and operation.
+b m exp.2.4 crime.5.5 | Diversion and alternative approaches lead to alternatives to court.
+b w exp.2.4 crime.4.7 | Alternative approaches to justice lead to circle sentencing and restorative justice.
+b w exp.2.1 fam.1.5 | Protection under domestic and international law includes parents' and children's rights.
+b w exp.1.3 crime.4.2 | Recidivism leads to questions about rehabilitation as a purpose of punishment.
+s w exp.2.5 fam.2.6 | NGOs representing young people parallel the role of NGOs in family law.
+s w exp.2.5 hr.2.12 | NGOs representing a group parallel the role of NGOs in human rights.

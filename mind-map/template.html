@@ -1,0 +1,675 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>HSC Legal Studies Topic Map</title>
+<meta name="description" content="An interactive map of the Legal Studies course: how every dot point builds on, repeats in, clashes with or is answered by others.">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600;700&display=swap">
+<style>
+/* Topic colours are the same five validated hues as the Question and Evidence Finders. */
+:root{
+  --bg:#ffffff; --surface:#ffffff; --surface-2:#f4f5f7; --surface-3:#e8eaef; --line:#e2e5ea; --line-2:#cdd2da;
+  --ink:#14161a; --ink-2:#474d57; --ink-3:#6b717c; --navy:#0F2A4D; --on-navy:#fff;
+  --t1:#4338ca; --t1b:#eceafb; --t2:#be123c; --t2b:#fce9ed; --t3:#0e8fae; --t3b:#e4f4f8; --t4:#9c7a12; --t4b:#f7f0dc; --t5:#8b1a7d; --t5b:#f8e8f5;
+  /* link kinds: told apart by line pattern and glyph as well as colour */
+  --k-b:#1f3864; --k-s:#0f766e; --k-t:#c2410c; --k-l:#7c3aed;
+  /* exam-skill bands */
+  --sk1:#d6e6f5; --sk2:#cfe8dc; --sk3:#f5e4b1; --sk4:#f3c5b8; --sk1i:#2a5d8f; --sk2i:#1c6b4b; --sk3i:#7a5a00; --sk4i:#a3341a;
+  --focus:#4338ca; --r:12px; --r-sm:8px;
+  --sh:0 1px 2px rgba(17,20,26,.05),0 6px 18px -10px rgba(17,20,26,.18);
+  --sans:"Inter","Segoe UI",Roboto,-apple-system,Helvetica,Arial,sans-serif; --display:"Fraunces",Georgia,serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){
+  --bg:#0e1319; --surface:#151b23; --surface-2:#1b222c; --surface-3:#242d39; --line:#2a3340; --line-2:#3a4555;
+  --ink:#eaeef3; --ink-2:#b7c0cc; --ink-3:#8b96a5; --navy:#1b2a44;
+  --t1:#8b5cf0; --t1b:#241c3a; --t2:#e0485f; --t2b:#33151d; --t3:#1db5d6; --t3b:#0f2a33; --t4:#c3a73a; --t4b:#2a2714; --t5:#c06bd6; --t5b:#2b1733;
+  --k-b:#8fb0ee; --k-s:#3cc7b8; --k-t:#ff8a52; --k-l:#b695ff;
+  --sk1:#1d3550; --sk2:#17382c; --sk3:#3b3210; --sk4:#40201a; --sk1i:#8fc0ee; --sk2i:#74d3a8; --sk3i:#e5c75f; --sk4i:#f2937d; --focus:#9a85f5;
+  --sh:0 1px 2px rgba(0,0,0,.4),0 8px 20px -10px rgba(0,0,0,.6)}}
+:root[data-theme=dark]{
+  --bg:#0e1319; --surface:#151b23; --surface-2:#1b222c; --surface-3:#242d39; --line:#2a3340; --line-2:#3a4555;
+  --ink:#eaeef3; --ink-2:#b7c0cc; --ink-3:#8b96a5; --navy:#1b2a44;
+  --t1:#8b5cf0; --t1b:#241c3a; --t2:#e0485f; --t2b:#33151d; --t3:#1db5d6; --t3b:#0f2a33; --t4:#c3a73a; --t4b:#2a2714; --t5:#c06bd6; --t5b:#2b1733;
+  --k-b:#8fb0ee; --k-s:#3cc7b8; --k-t:#ff8a52; --k-l:#b695ff;
+  --sk1:#1d3550; --sk2:#17382c; --sk3:#3b3210; --sk4:#40201a; --sk1i:#8fc0ee; --sk2i:#74d3a8; --sk3i:#e5c75f; --sk4i:#f2937d; --focus:#9a85f5;
+  --sh:0 1px 2px rgba(0,0,0,.4),0 8px 20px -10px rgba(0,0,0,.6)}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 var(--sans);padding:14px max(16px,env(safe-area-inset-right)) 28px max(16px,env(safe-area-inset-left))}
+body.drawer-open{padding-bottom:46vh}
+svg.i{width:1em;height:1em;vertical-align:-.14em;fill:currentColor;flex:none}
+button{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+[hidden]{display:none!important}
+
+/* ---------- masthead ---------- */
+header.mast{display:flex;flex-direction:column;gap:12px;margin-bottom:12px}
+.mtop{display:flex;flex-wrap:wrap;gap:10px 22px;align-items:flex-start;justify-content:space-between}
+h1{font:800 clamp(26px,3.4vw,40px)/1.05 var(--display);letter-spacing:-.015em;margin:0;text-wrap:balance}
+h1 small{display:block;font:500 15px/1.45 var(--sans);color:var(--ink-2);margin-top:8px;letter-spacing:0;max-width:62ch}
+.draft{display:inline-block;font:700 11px/1 var(--sans);letter-spacing:.08em;text-transform:uppercase;background:#fff3cd;color:#6b4e00;border:1px solid #e6c766;padding:4px 8px;border-radius:99px;vertical-align:middle;margin-left:8px}
+.tools{display:flex;flex-wrap:wrap;gap:8px 10px;justify-content:flex-end;align-items:flex-end}
+.grp{display:flex;flex-direction:column;gap:3px}
+.gl{font:700 10.5px/1 var(--sans);letter-spacing:.09em;text-transform:uppercase;color:var(--ink-3)}
+.seg{display:inline-flex;border:1px solid var(--line-2);border-radius:var(--r-sm);overflow:hidden;background:var(--surface)}
+.seg button{border:0;background:none;padding:0 14px;height:40px;cursor:pointer;font-weight:600;color:var(--ink-2);border-right:1px solid var(--line)}
+.seg button:last-child{border-right:0}
+.seg button[aria-pressed=true]{background:var(--navy);color:var(--on-navy)}
+.btn{display:inline-flex;align-items:center;gap:7px;height:40px;padding:0 14px;border:1px solid var(--line-2);border-radius:var(--r-sm);background:var(--surface);cursor:pointer;font-weight:600}
+.btn:hover:not(:disabled){background:var(--surface-3)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.big{height:48px;padding:0 20px;font-size:15.5px;font-weight:700;border:2px solid var(--navy)}
+.btn.big:hover:not(:disabled){background:var(--navy);color:var(--on-navy)}
+.search{position:relative}
+input[type=search]{font:inherit;height:40px;width:240px;max-width:100%;padding:0 12px;border:1px solid var(--line-2);border-radius:var(--r-sm);background:var(--surface);color:var(--ink)}
+.sug{position:absolute;z-index:60;top:100%;left:0;margin-top:3px;min-width:320px;max-height:340px;overflow:auto;background:var(--surface);border:1px solid var(--line-2);border-radius:var(--r-sm);box-shadow:var(--sh)}
+.sug button{display:flex;gap:8px;align-items:center;width:100%;text-align:left;border:0;background:none;padding:7px 10px;cursor:pointer}
+.sug button:hover,.sug button:focus-visible{background:var(--surface-2)}
+.dotc{width:10px;height:10px;border-radius:50%;flex:none;background:var(--tc)}
+
+/* control strip */
+.ctl{display:flex;flex-wrap:wrap;gap:10px 22px;align-items:center;padding:10px 14px;background:var(--surface-2);border:1px solid var(--line);border-radius:var(--r)}
+.kinds{display:flex;flex-wrap:wrap;gap:6px 14px}
+.kind{display:inline-flex;align-items:center;gap:7px;cursor:pointer;font-weight:600;user-select:none}
+.kind input{accent-color:var(--navy);width:16px;height:16px}
+svg.sw{width:34px;height:12px;overflow:visible;flex:none;vertical-align:-1px}
+.kind svg.sw{width:46px;height:14px}
+.kind small{font-weight:400;color:var(--ink-3)}
+.sl{display:flex;align-items:center;gap:8px}
+.sl input[type=range]{width:120px;accent-color:var(--navy)}
+.sl span{font-size:12px;color:var(--ink-3)}
+.chk{display:inline-flex;gap:6px;align-items:center;font-weight:600;cursor:pointer}
+.chk input{accent-color:var(--navy);width:16px;height:16px}
+.stat{margin-left:auto;font-size:13px;color:var(--ink-2)}
+.prog-all{display:inline-flex;align-items:center;gap:8px;font-weight:600}
+.pbar{width:110px;height:8px;background:var(--surface-3);border-radius:99px;overflow:hidden}
+.pbar i{display:block;height:100%;background:var(--k-s);width:0}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;margin:10px 2px 12px;font-size:12.5px;color:var(--ink-2);align-items:center}
+.legend .lg{display:inline-flex;align-items:center;gap:6px}
+.sq{display:inline-block;width:18px;height:14px;border-radius:4px;border:1px solid var(--line-2)}
+
+/* ---------- board ---------- */
+.boardwrap{position:relative}
+#lines{position:absolute;left:0;top:0;pointer-events:none;z-index:20;overflow:visible}
+#lines .hit{pointer-events:stroke;cursor:help}
+#lines .mb{pointer-events:all;cursor:pointer}
+.yrow{margin-bottom:18px}
+.yh{display:flex;align-items:center;gap:10px;font:700 12px/1 var(--sans);letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);margin:6px 0 8px}
+.yh:after{content:"";flex:1;height:1px;background:var(--line)}
+.panels{display:grid;grid-template-columns:repeat(auto-fit,minmax(262px,1fr));gap:12px;align-items:start}
+.panel{background:var(--tb);border:1px solid var(--line);border-top:5px solid var(--tc);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh)}
+.ph{display:flex;align-items:center;gap:10px;width:100%;text-align:left;border:0;background:none;padding:10px 12px 8px;cursor:default}
+.ph .ic{width:34px;height:34px;border-radius:9px;background:var(--tc);color:#fff;display:grid;place-items:center;font-size:17px;flex:none}
+.ph h2{margin:0;font:800 19px/1.1 var(--display);color:var(--ink)}
+.ph .pm{font-size:12px;color:var(--ink-2)}
+.ph .prog{margin-left:auto;font:700 12px var(--sans);color:var(--tc);background:var(--surface);border:1px solid var(--line);border-radius:99px;padding:2px 8px;white-space:nowrap}
+.pbody{padding:2px 10px 12px}
+.grp2{margin-top:8px}
+.grp2 h3{margin:0 0 5px;font:700 11.5px/1.25 var(--sans);letter-spacing:.07em;text-transform:uppercase;color:var(--ink-2)}
+.chips{display:flex;flex-direction:column;gap:5px}
+.node{position:relative;display:flex;align-items:flex-start;gap:7px;text-align:left;width:100%;padding:6px 8px 6px 8px;border:1px solid var(--line-2);border-left:5px solid var(--tc);border-radius:8px;background:var(--surface);cursor:pointer;line-height:1.3;min-height:34px;transition:opacity .15s,box-shadow .15s}
+.node:hover{box-shadow:0 0 0 2px var(--tc)}
+.nn{font:600 11px/1.5 ui-monospace,Menlo,Consolas,monospace;color:var(--ink-3);min-width:24px;flex:none;padding-top:1px}
+.nt{font-weight:500;color:var(--ink);overflow-wrap:anywhere}
+.mk{margin-left:auto;padding-left:4px;flex:none;display:flex;gap:3px;align-items:center;font-size:12px;min-height:16px}
+.mk .tick{color:#fff;background:var(--k-s);width:16px;height:16px;border-radius:50%;display:none;place-items:center;font-size:10px}
+.node.done .tick{display:grid}
+.node.done{border-color:color-mix(in srgb,var(--k-s) 60%,var(--line-2))}
+body.rev .node.done{opacity:.4}
+.node .gl2{flex:none;font:700 12px/1.3 var(--sans);color:var(--lc,var(--ink))}.node .gl2:empty{display:none}
+.node.sel{box-shadow:0 0 0 3px var(--ink),0 6px 16px -6px rgba(0,0,0,.4);z-index:3}
+.has-sel .node:not(.sel):not([data-lk]){opacity:.32}
+.has-sel .node[data-lk]{--lc:var(--k-b);box-shadow:0 0 0 2px var(--lc)}
+.node[data-lk*=t]{--lc:var(--k-t)} .node[data-lk*=l]{--lc:var(--k-l)} .node[data-lk=s]{--lc:var(--k-s)}
+.node .st{position:absolute;left:-5px;top:-9px;min-width:20px;height:20px;border-radius:99px;background:var(--navy);color:#fff;font:700 11px/20px var(--sans);text-align:center;padding:0 5px;display:none}
+.node[data-step] .st{display:block}
+.node.past{opacity:.5}
+.node.future{opacity:.28}
+/* year 11 nodes use a hatched edge so they read as a different course */
+.node.y11{border-left-style:solid}
+.tagy{font:700 9.5px/1 var(--sans);letter-spacing:.06em;color:var(--t5);border:1px solid currentColor;border-radius:4px;padding:1px 3px;margin-right:4px;vertical-align:1px}
+
+/* heat */
+.h0{background:var(--surface)} .h1{background:color-mix(in srgb,var(--tc) 12%,var(--surface))}
+.h2{background:color-mix(in srgb,var(--tc) 24%,var(--surface))} .h3{background:color-mix(in srgb,var(--tc) 38%,var(--surface))}
+.h4{background:color-mix(in srgb,var(--tc) 54%,var(--surface))} .h5{background:color-mix(in srgb,var(--tc) 72%,var(--surface));color:#fff}
+.h5 .nt,.h5 .nn{color:#fff}
+.node.never{border-style:dashed;border-left-style:solid}
+.node.na{background:var(--surface-2)}
+.hb{font:700 11px/1 var(--sans);background:var(--surface);color:var(--ink);border:1px solid var(--line-2);border-radius:99px;padding:2px 6px}
+.od{color:var(--k-t);font-size:13px}
+/* skill */
+.node.b1{background:var(--sk1)} .node.b2{background:var(--sk2)} .node.b3{background:var(--sk3)} .node.b4{background:var(--sk4)}
+.node.bmc{background:repeating-linear-gradient(135deg,var(--surface) 0 6px,var(--surface-2) 6px 12px)}
+.skb{font:800 11px/1 var(--sans);border-radius:4px;padding:2px 5px;color:#fff}
+.skb.b1{background:var(--sk1i)} .skb.b2{background:var(--sk2i)} .skb.b3{background:var(--sk3i)} .skb.b4{background:var(--sk4i)} .skb.bmc{background:var(--ink-3)}
+
+/* theme view */
+.sub{font:700 10.5px/1 var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--tc);margin:8px 0 4px;display:flex;align-items:center;gap:6px}
+.thdesc{font-size:12px;color:var(--ink-2);padding:0 12px 4px}
+
+/* ---------- drawer ---------- */
+#drawer{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--surface);border-top:3px solid var(--tc,var(--navy));box-shadow:0 -10px 30px -12px rgba(0,0,0,.35);max-height:46vh;overflow:auto;padding:12px max(16px,env(safe-area-inset-right)) 16px max(16px,env(safe-area-inset-left))}
+#drawer .dh{display:flex;gap:10px;align-items:flex-start;margin-bottom:8px}
+#drawer h2{margin:0;font:800 20px/1.2 var(--display)}
+.crumb{font-size:12px;color:var(--ink-2);display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-bottom:3px}
+.pill{display:inline-flex;align-items:center;gap:5px;font:700 11px/1 var(--sans);border-radius:99px;padding:3px 8px;background:var(--tb);color:var(--tc);border:1px solid color-mix(in srgb,var(--tc) 40%,transparent)}
+.dgrid{display:grid;grid-template-columns:minmax(220px,1fr) minmax(300px,1.7fr) minmax(220px,1fr);gap:16px}
+.dgrid h4{margin:0 0 6px;font:700 11px/1.2 var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+.dgrid ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:7px}
+.lk{display:block;width:100%;text-align:left;border:1px solid var(--line);border-left:4px solid var(--c);background:var(--surface);border-radius:8px;padding:6px 8px;cursor:pointer}
+.lk:hover{background:var(--surface-2)}
+.lk b{font-family:ui-monospace,Menlo,monospace;font-size:11px;color:var(--ink-3);margin-right:5px}
+.lk .why{display:block;font-size:12.5px;color:var(--ink-2);margin-top:2px}
+.lg2{margin-bottom:10px}
+.lg2 h5{margin:0 0 5px;display:flex;align-items:center;gap:7px;font:700 13px/1.2 var(--sans);color:var(--ink)}
+
+.more{font-size:12px;color:var(--ink-3);margin-top:4px}
+.yrs{display:flex;gap:2px;margin:4px 0 2px}
+.yrs i{flex:1;height:16px;border-radius:3px;background:var(--surface-3);position:relative}
+.yrs i.l1{background:color-mix(in srgb,var(--tc) 28%,var(--surface))}.yrs i.l2{background:color-mix(in srgb,var(--tc) 58%,var(--surface))}.yrs i.l3{background:var(--tc)}
+.yl{display:flex;justify-content:space-between;font-size:10.5px;color:var(--ink-3)}
+.facts{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0}
+.fact{font-size:12px;background:var(--surface-2);border:1px solid var(--line);border-radius:6px;padding:3px 8px}
+.fact b{font-weight:700}
+.ev{display:flex;gap:6px;align-items:flex-start;font-size:13px}
+.ev a{color:var(--ink);text-decoration:underline;text-decoration-color:var(--line-2);text-underline-offset:2px}
+.ev a:hover{text-decoration-color:var(--tc)}
+.ev .ty{flex:none;font:700 9.5px/1 var(--sans);text-transform:uppercase;letter-spacing:.05em;border-radius:4px;padding:3px 5px;background:var(--surface-3);color:var(--ink-2);margin-top:2px;min-width:54px;text-align:center}
+.ev .pdf{font-size:11px;font-weight:700;margin-left:4px;white-space:nowrap}
+.dact{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0}
+.dact a,.dact button{display:inline-flex;gap:6px;align-items:center;height:34px;padding:0 12px;border:1px solid var(--line-2);border-radius:8px;background:var(--surface);cursor:pointer;font-weight:600;text-decoration:none;color:var(--ink)}
+.dact a:hover,.dact button:hover{background:var(--surface-3)}
+.dact .rv[aria-pressed=true]{background:var(--k-s);color:#fff;border-color:var(--k-s)}
+.x{margin-left:auto;border:0;background:var(--surface-2);width:34px;height:34px;border-radius:8px;cursor:pointer;flex:none}
+#pathcard{position:fixed;left:50%;transform:translateX(-50%);bottom:14px;z-index:55;width:min(760px,calc(100vw - 24px));background:var(--surface);border:2px solid var(--navy);border-radius:var(--r);box-shadow:var(--sh);padding:12px 14px}
+#pathcard h3{margin:0 0 2px;font:800 17px/1.2 var(--display)}
+#pathcard .pn{font:700 11px/1 var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+#pathcard p{margin:6px 0}
+#pathcard .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.dots{display:flex;gap:4px;margin:4px 0 8px}.dots i{flex:1;height:5px;border-radius:3px;background:var(--surface-3)}.dots i.on{background:var(--navy)}
+.edgepop{position:absolute;z-index:70;max-width:320px;background:var(--navy);color:#fff;border-radius:8px;padding:8px 10px;font-size:13px;box-shadow:var(--sh)}
+.edgepop b{display:block;font-size:11px;letter-spacing:.07em;text-transform:uppercase;opacity:.8;margin-bottom:2px}
+
+/* ---------- dialogs ---------- */
+dialog{border:0;border-radius:16px;padding:0;max-width:min(920px,calc(100vw - 24px));width:100%;box-shadow:0 20px 60px -10px rgba(0,0,0,.5);background:var(--surface);color:var(--ink)}
+dialog::backdrop{background:rgba(15,20,30,.55)}
+.dlg{padding:18px 20px 20px;max-height:84vh;overflow:auto}
+.dlg h2{margin:0 0 4px;font:800 24px/1.15 var(--display)}
+.dlg h3{margin:16px 0 6px;font:700 15px/1.3 var(--sans)}
+.dlg p,.dlg li{color:var(--ink-2)}
+.dlg .top{display:flex;gap:10px;align-items:flex-start}
+.pw{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px;margin-top:12px}
+.pwc{text-align:left;border:1px solid var(--line-2);border-radius:12px;background:var(--surface);padding:12px;cursor:pointer;display:flex;flex-direction:column;gap:6px}
+.pwc:hover{border-color:var(--navy);box-shadow:var(--sh)}
+.pwc b{font:700 15px/1.25 var(--display)}
+.pwc span{font-size:12.5px;color:var(--ink-2)}
+.pwc .ch{display:flex;gap:3px;margin-top:auto;align-items:center;flex-wrap:wrap}
+.pwc .ch i{width:11px;height:11px;border-radius:50%;background:var(--tc)}
+.pwc .ch em{font:700 11px var(--sans);font-style:normal;color:var(--ink-3);margin-left:6px}
+#flowbody{position:relative;display:flex;gap:46px;align-items:flex-start;overflow:auto;padding:10px 4px 16px}
+.fcol{display:flex;flex-direction:column;gap:7px;min-width:190px;max-width:230px;z-index:2}
+.fcol h4{margin:0 0 2px;font:700 10.5px/1.2 var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+.fbox{text-align:left;border:1px solid var(--line-2);border-left:5px solid var(--tc);background:var(--surface);border-radius:8px;padding:6px 8px;cursor:pointer;font-size:13px;line-height:1.3}
+.fbox:hover{box-shadow:0 0 0 2px var(--tc)}
+.fbox.cur{box-shadow:0 0 0 3px var(--ink);font-weight:600}
+.fbox b{font:600 11px ui-monospace,Menlo,monospace;color:var(--ink-3);margin-right:5px}
+
+/* ---------- small screens ---------- */
+@media (max-width:900px){
+  #lines{display:none}
+  .dgrid{grid-template-columns:1fr}
+  #drawer{max-height:62vh}
+  body.drawer-open{padding-bottom:60vh}
+  .panels{grid-template-columns:1fr}
+  .ph{cursor:pointer}
+  .panel.collapsed .pbody,.panel.collapsed .thdesc{display:none}
+  .ph:after{content:"\25BE";margin-left:6px;color:var(--ink-3)}
+  .panel.collapsed .ph:after{content:"\25B8"}
+  .tools{justify-content:flex-start}
+  .seg button{padding:0 10px}
+  .stat{margin-left:0;width:100%}
+  input[type=search]{width:100%}
+  .search{flex:1 1 200px}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+/* ---------- print: the whole map on paper, plus the selected dot point ---------- */
+@media print{
+  @page{size:A3 landscape;margin:10mm}
+  body{padding:0;font-size:11px;background:#fff;color:#000;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  .tools,.ctl,#pathcard,dialog,.sug,#lines,.x,.dact,.legend .noprint{display:none!important}
+  #drawer{position:static;max-height:none;box-shadow:none;border:1px solid #999;margin-top:10px;break-inside:avoid}
+  body.drawer-open{padding-bottom:0}
+  .panels{grid-template-columns:repeat(4,1fr)}
+  .panel{break-inside:avoid-column;box-shadow:none}
+  .panel.collapsed .pbody{display:block!important}
+  .has-sel .node:not(.sel):not([data-lk]){opacity:1}
+  .node{min-height:0;padding:3px 20px 3px 6px}
+}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>__ICONS__</defs></svg>
+
+<header class="mast">
+  <div class="mtop">
+    <h1>HSC Legal Studies Topic Map<span class="draft" id="draftTag" hidden>Draft: links under review</span>
+      <small>See how the course fits together. Pick a dot point to see what leads to it, what it leads to, where the same idea returns, where interests clash and where law and non-legal responses meet.</small></h1>
+    <div class="tools">
+      <div class="grp"><span class="gl">Course</span><div class="seg" id="segCourse" role="group" aria-label="Course">
+        <button data-v="y11" aria-pressed="false">Year 11</button><button data-v="y12" aria-pressed="true">Year 12</button><button data-v="both" aria-pressed="false">Both</button></div></div>
+      <div class="grp"><span class="gl">View the map by</span><div class="seg" id="segView" role="group" aria-label="View">
+        <button data-v="topic" aria-pressed="true">Topic</button><button data-v="theme" aria-pressed="false">Theme</button><button data-v="heat" aria-pressed="false">Past questions</button><button data-v="skill" aria-pressed="false">Exam skill</button></div></div>
+      <div class="grp"><span class="gl">Find a dot point</span><div class="search"><input type="search" id="q" placeholder="Search, e.g. bail or 4.2" autocomplete="off" aria-label="Search dot points"><div class="sug" id="sug" hidden></div></div></div>
+    </div>
+  </div>
+  <div class="tools" style="justify-content:flex-start">
+    <button class="btn big" id="btnClear"><svg class="i"><use href="#g-close"/></svg>Clear</button>
+    <button class="btn big" id="btnPath"><svg class="i"><use href="#g-route"/></svg>Pathways</button>
+    <button class="btn big" id="btnFlow" disabled><svg class="i"><use href="#g-layers"/></svg>Flow viewer</button>
+    <button class="btn" id="btnPrint"><svg class="i"><use href="#g-print"/></svg>Print</button>
+    <button class="btn" id="btnHelp"><svg class="i"><use href="#g-help"/></svg>Help</button>
+    <button class="btn" id="btnTheme" title="Light, dark or automatic">Colours: <span id="thLbl">Auto</span></button>
+  </div>
+</header>
+
+<section class="ctl" aria-label="Link settings">
+  <div class="kinds" id="kinds"></div>
+  <label class="sl"><span>Fewer links</span><input type="range" id="detail" min="1" max="3" step="1" value="2" aria-label="How many links to show"><span>More links</span></label>
+  <label class="chk" id="brWrap" hidden><input type="checkbox" id="bridges" checked>Year 11 to Year 12 bridges</label>
+  <label class="chk"><input type="checkbox" id="rev">Fade what I have revised</label>
+  <span class="prog-all"><span class="pbar"><i id="pbar"></i></span><span id="ptxt"></span></span>
+  <span class="stat" id="stat"></span>
+</section>
+<div class="legend" id="legend"></div>
+
+<div class="boardwrap" id="wrap"><svg id="lines" aria-hidden="true"></svg><div id="board"></div></div>
+<p class="legend" style="margin-top:18px">Dot point numbers are the same ones used in the <a href="../index.html">Question Finder</a> and the <a href="../evidence.html">Evidence Finder</a>. Year 12 follows the 2009 syllabus; Year 11 follows the Legal Studies 11&ndash;12 syllabus. Your ticks are saved on this device only.</p>
+
+<aside id="drawer" hidden aria-live="polite"></aside>
+<div id="pathcard" hidden></div>
+
+<dialog id="dlgPath"><div class="dlg"><div class="top"><div><h2>Pathways</h2><p>A pathway walks one idea through the course, a step at a time. Pick one to start.</p></div><button class="x" data-close aria-label="Close">&times;</button></div><div class="pw" id="pwList"></div></div></dialog>
+<dialog id="dlgFlow"><div class="dlg"><div class="top"><div><h2 id="flowT">Flow viewer</h2><p id="flowS"></p></div><button class="x" data-close aria-label="Close">&times;</button></div><div id="flowbody"></div><div id="flowExtra"></div></div></dialog>
+<dialog id="dlgHelp"><div class="dlg"><div class="top"><h2>How to use the map</h2><button class="x" data-close aria-label="Close">&times;</button></div>
+<h3>Read a dot point</h3><p>Click any box. Boxes joined to it stay bright; the rest fade. On a computer the links are drawn as lines. The panel at the bottom explains <i>why</i> each link exists, shows how often the dot point has been examined, and lists evidence, case summaries and the past questions for it.</p>
+<h3>The four kinds of link</h3><ul id="helpKinds"></ul>
+<h3>The four views</h3><ul><li><b>Topic</b> groups dot points the way the syllabus does.</li><li><b>Theme</b> regroups them under the themes and challenges that run across topics (for example <i>Compliance &amp; non-compliance</i> or <i>Law reform</i>), so you can see one theme through Crime, Human Rights, Family and Shelter at once.</li><li><b>Past questions</b> shades each HSC dot point by how often it has been a core focus of a question since 2011, and flags any that have not been core for six years or more. Year 11 content is not examined in the HSC, so it stays grey.</li><li><b>Exam skill</b> colours each dot point by the highest demand a written question on it has reached (D describe, E explain, A analyse, V evaluate), so you know how far to take your answer.</li></ul>
+<h3>Pathways, Flow viewer, Print</h3><p><b>Pathways</b> are guided walks through one idea. <b>Flow viewer</b> opens for the dot point you have selected and shows what leads into it and out of it, two steps each way. <b>Print</b> prints the whole map on A3 landscape, with the selected dot point's details underneath.</p>
+<h3>Keep track</h3><p>Tick <b>I have revised this</b> in the bottom panel. Ticks are stored in this browser only, so they will not follow you to another device.</p>
+<h3>About the links</h3><p>The links are a teaching judgement, not part of the syllabus. They are written to help you make connections, so if one seems wrong or one is missing, tell your teacher.</p>
+<p style="margin-top:14px"><button class="btn" id="resetDone">Clear all my ticks</button></p></div></dialog>
+
+<script>
+"use strict";
+const D = __DATA__;
+const $ = (s, r = document) => r.querySelector(s), $$ = (s, r = document) => [...r.querySelectorAll(s)];
+const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const N = D.nodes, TOP = Object.fromEntries(D.topics.map(t => [t.k, t])), THEME = Object.fromEntries(D.themes.map(t => [t.k, t]));
+const KIND = {
+  b: { name: "Builds on / leads to", short: "Leads to", css: "--k-b", dash: "", sw: "Arrow shows the direction: one dot point leads to or builds on the next", glyph: "→" },
+  s: { name: "Same concept elsewhere", short: "Same idea", css: "--k-s", dash: "7 5", sw: "The same idea returns in another place in the course", glyph: "≈" },
+  t: { name: "Tension or conflict", short: "Tension", css: "--k-t", dash: "2 4", sw: "Two interests, rights or aims pull in different directions", glyph: "×" },
+  l: { name: "Legal v non-legal", short: "Legal / non-legal", css: "--k-l", dash: "10 3 2 3", sw: "A legal response set beside a non-legal one (NGOs, media, community)", glyph: "⇄" }
+};
+const BAND = { describe: ["D", "Describe", 1], explain: ["E", "Explain", 2], analyse: ["A", "Analyse", 3], evaluate: ["V", "Evaluate", 4] };
+const store = { get(k, d) { try { const v = localStorage.getItem("hsc-ls-map-" + k); return v == null ? d : v; } catch (e) { return d; } },
+                set(k, v) { try { localStorage.setItem("hsc-ls-map-" + k, v); } catch (e) {} } };
+const isY11 = id => TOP[N[id].t].course === "y11";
+const yearOf = id => isY11(id) ? "y11" : "y12";
+const num = id => id.split(".").slice(1).join(".");
+
+const ST = { course: store.get("course", "y12"), view: store.get("view", "topic"), sel: null, on: { b: 1, s: 1, t: 1, l: 1 }, detail: 2,
+             bridges: true, rev: false, done: new Set(JSON.parse(store.get("done", "[]"))), path: null, pi: 0, collapsed: {} };
+if (!["y11", "y12", "both"].includes(ST.course)) ST.course = "y12";
+if (!["topic", "theme", "heat", "skill"].includes(ST.view)) ST.view = "topic";
+
+/* adjacency */
+const ADJ = {}; Object.keys(N).forEach(i => ADJ[i] = []);
+D.edges.forEach(e => { ADJ[e.a].push(e); ADJ[e.b].push(e); });
+const inCourse = id => ST.course === "both" || yearOf(id) === ST.course;
+function edgeOn(e) {
+  if (!ST.on[e.ty] || e.lv > ST.detail) return false;
+  if (e.br && !(ST.course === "both" && ST.bridges)) return false;
+  return inCourse(e.a) && inCourse(e.b);
+}
+const other = (e, id) => e.a === id ? e.b : e.a;
+
+/* ------------------------------------------------------------------ render board */
+function chip(id, extra) {
+  const n = N[id], t = TOP[n.t], q = n.q;
+  const cls = ["node", yearOf(id)]; let badge = "";
+  const hsc = !isY11(id), tot = q.c + q.ci;
+  if (ST.view === "heat") {
+    if (!hsc) { cls.push("na"); badge = '<span class="hb" title="Not examined in the HSC">&ndash;</span>'; }
+    else {
+      const lv = tot === 0 ? 0 : tot === 1 ? 1 : tot <= 3 ? 2 : tot <= 6 ? 3 : tot <= 10 ? 4 : 5;
+      cls.push("h" + lv); if (!tot) cls.push("never");
+      const od = tot === 0 || q.last <= D.meta.overdueBefore;
+      badge = (od ? '<svg class="i od" title="Not a core focus for six or more years"><use href="#g-clock"/></svg>' : "") + `<span class="hb" title="Core in ${q.c} direct and ${q.ci} section-wide questions">${tot}</span>`;
+    }
+  } else if (ST.view === "skill") {
+    if (!hsc) cls.push("na");
+    else if (q.top) { const b = BAND[q.top]; cls.push("b" + b[2]); badge = `<span class="skb b${b[2]}" title="Highest demand: ${b[1]}">${b[0]}</span>`; }
+    else { cls.push("bmc"); badge = `<span class="skb bmc" title="${q.mc ? "Multiple choice only so far" : "No written question yet"}">${q.mc ? "MC" : "&ndash;"}</span>`; }
+  }
+  const mk = `<span class="mk">${badge}<span class="tick"><svg class="i"><use href="#g-check"/></svg></span></span>`;
+  return `<button class="${cls.join(" ")}${ST.done.has(id) ? " done" : ""}" data-id="${id}" style="--tc:var(--t${t.slot});--tb:var(--t${t.slot}b)" aria-pressed="false"><span class="st"></span><span class="nn">${esc(num(id))}</span><span class="nt">${extra || ""}${esc(n.s)}</span>${mk}<span class="gl2"></span></button>`;
+}
+function panelHead(icon, title, meta, prog) {
+  return `<button class="ph" type="button"><span class="ic"><svg class="i"><use href="#${icon}"/></svg></span><span><h2>${esc(title)}</h2><div class="pm">${esc(meta)}</div></span><span class="prog">${prog}</span></button>`;
+}
+function progOf(ids) { const d = ids.filter(i => ST.done.has(i)).length; return `${d}/${ids.length}`; }
+function topicPanel(t) {
+  const ids = t.groups.flatMap(g => g.nodes);
+  const body = t.groups.map(g => `<div class="grp2"><h3>${esc(g.label)}</h3><div class="chips">${g.nodes.map(i => chip(i)).join("")}</div></div>`).join("");
+  return `<section class="panel" data-panel="${t.k}" style="--tc:var(--t${t.slot});--tb:var(--t${t.slot}b)">${panelHead(t.icon, t.label, t.part + " · " + t.weight, progOf(ids))}<div class="pbody">${body}</div></section>`;
+}
+function themePanel(th) {
+  const ids = Object.keys(N).filter(i => N[i].th === th.k && inCourse(i));
+  if (!ids.length) return "";
+  const by = {}; ids.forEach(i => (by[N[i].t] = by[N[i].t] || []).push(i));
+  const body = D.topics.filter(t => by[t.k]).map(t => `<div class="sub" style="--tc:var(--t${t.slot})"><span class="dotc"></span>${esc(t.label)}</div><div class="chips">${by[t.k].map(i => chip(i)).join("")}</div>`).join("");
+  return `<section class="panel" data-panel="${th.k}" style="--tc:${th.colour};--tb:var(--surface-2)">${panelHead("g-target", th.label, ids.length + " dot points", progOf(ids))}<div class="thdesc">${esc(th.full)}</div><div class="pbody">${body}</div></section>`;
+}
+function renderBoard() {
+  const b = $("#board"); let h = "";
+  if (ST.view === "theme") {
+    h = `<div class="panels">${D.themes.map(themePanel).join("")}</div>`;
+  } else {
+    const rows = [["y11", "Year 11 (Preliminary) · Legal Studies 11–12 syllabus"], ["y12", "Year 12 (HSC) · 2009 syllabus"]].filter(r => ST.course === "both" || ST.course === r[0]);
+    h = rows.map(r => `<div class="yrow">${rows.length > 1 ? `<div class="yh">${r[1]}</div>` : ""}<div class="panels">${D.topics.filter(t => t.course === r[0]).map(topicPanel).join("")}</div></div>`).join("");
+  }
+  b.innerHTML = h;
+  $$(".panel", b).forEach((p, i) => { if (innerWidth <= 900) { const k = p.dataset.panel; const c = k in ST.collapsed ? ST.collapsed[k] : i > 0; p.classList.toggle("collapsed", c); } });
+  renderLegend(); renderStat(); renderProgress();
+}
+function renderLegend() {
+  let h = "";
+  if (ST.view === "heat") h = `<span class="lg"><b>Core questions since ${D.meta.years[0]}:</b></span>` + [["h0", "0"], ["h1", "1"], ["h2", "2–3"], ["h3", "4–6"], ["h4", "7–10"], ["h5", "11+"]].map(x => `<span class="lg"><span class="sq ${x[0]}" style="--tc:var(--t1)"></span>${x[1]}</span>`).join("") +
+    `<span class="lg"><svg class="i od"><use href="#g-clock"/></svg>not a core focus for 6+ years</span><span class="lg"><span class="sq" style="border-style:dashed"></span>never core</span><span class="lg"><span class="sq" style="background:var(--surface-2)"></span>Year 11 (not examined in the HSC)</span><span class="lg">Count includes questions on the whole section</span>`;
+  else if (ST.view === "skill") h = `<span class="lg"><b>Highest demand reached by a written question:</b></span>` + Object.entries(BAND).map(([k, b]) => `<span class="lg"><span class="skb b${b[2]}">${b[0]}</span>${b[1]}</span>`).join("") +
+    `<span class="lg"><span class="skb bmc">MC</span>multiple choice only</span><span class="lg"><span class="skb bmc">&ndash;</span>no written question yet</span>`;
+  else if (ST.view === "theme") h = `<span class="lg">Each dot point sits under its main theme. The bottom panel names the theme.</span>`;
+  else h = `<span class="lg">Each box shows the syllabus number and the dot point. The coloured bar is its topic.</span>`;
+  $("#legend").innerHTML = h;
+}
+function visibleIds() { return Object.keys(N).filter(inCourse); }
+function renderStat() {
+  const ids = visibleIds(), set = new Set(ids);
+  const links = D.edges.filter(e => set.has(e.a) && set.has(e.b) && edgeOn(e)).length;
+  $("#stat").textContent = `${ids.length} dot points · ${links} links shown`;
+}
+function renderProgress() {
+  const ids = visibleIds(), d = ids.filter(i => ST.done.has(i)).length;
+  $("#ptxt").textContent = `Revised ${d} of ${ids.length}`; $("#pbar").style.width = (ids.length ? d / ids.length * 100 : 0) + "%";
+  $$(".panel").forEach(p => {
+    const k = p.dataset.panel; let list;
+    if (THEME_KEYS.has(k)) list = Object.keys(N).filter(i => N[i].th === k && inCourse(i)); else list = TOP[k].groups.flatMap(g => g.nodes);
+    $(".prog", p).textContent = progOf(list);
+  });
+}
+const THEME_KEYS = new Set(D.themes.map(t => t.k));
+
+/* ------------------------------------------------------------------ selection and highlight */
+function select(id, opt) {
+  opt = opt || {};
+  if (!id) { ST.sel = null; refresh(); return; }
+  if (!inCourse(id)) { setCourse("both", true); }
+  ST.path = null; $("#pathcard").hidden = true;
+  ST.sel = id; refresh();
+  const el = $(`.node[data-id="${id}"]`);
+  if (el) { const p = el.closest(".panel"); if (p && p.classList.contains("collapsed")) { p.classList.remove("collapsed"); ST.collapsed[p.dataset.panel] = false; }
+    if (opt.scroll) el.scrollIntoView({ block: "center", behavior: "smooth" }); }
+  try { history.replaceState(null, "", "#" + id); } catch (e) {}
+  setTimeout(draw, opt.scroll ? 420 : 0);
+}
+function applyMarks() {
+  const sel = ST.sel, path = ST.path;
+  document.body.classList.toggle("has-sel", !!(sel || path));
+  $$(".node[data-id]").forEach(el => { el.classList.remove("sel", "past", "future"); el.removeAttribute("data-lk"); el.removeAttribute("data-step"); el.setAttribute("aria-pressed", "false"); $(".gl2", el).textContent = ""; $(".st", el).textContent = ""; });
+  if (path) {
+    const ids = D.pathways[path.p].ids;
+    ids.forEach((id, k) => { $$(`.node[data-id="${id}"]`).forEach(el => { el.setAttribute("data-lk", "b"); el.setAttribute("data-step", k + 1); $(".st", el).textContent = k + 1; el.classList.toggle("future", k > ST.pi); el.classList.toggle("sel", k === ST.pi); }); });
+    return;
+  }
+  if (!sel) return;
+  $$(`.node[data-id="${sel}"]`).forEach(el => { el.classList.add("sel"); el.setAttribute("aria-pressed", "true"); });
+  const seen = {};
+  ADJ[sel].filter(edgeOn).forEach(e => { const o = other(e, sel); (seen[o] = seen[o] || new Set()).add(e.ty); });
+  Object.entries(seen).forEach(([o, types]) => {
+    const pri = ["t", "l", "b", "s"].filter(x => types.has(x)); const ty = pri.join("");
+    $$(`.node[data-id="${o}"]`).forEach(el => { el.setAttribute("data-lk", ty); $(".gl2", el).textContent = pri.map(x => KIND[x].glyph).join(""); });
+  });
+}
+
+/* ------------------------------------------------------------------ links drawn over the panels */
+const NS = "http://www.w3.org/2000/svg";
+function rectOf(el, base) { const r = el.getBoundingClientRect(); return { x: r.left - base.left, y: r.top - base.top, w: r.width, h: r.height }; }
+function curve(a, b) {
+  const ax = a.x + a.w / 2, ay = a.y + a.h / 2, bx = b.x + b.w / 2, by = b.y + b.h / 2; let s, e, c1, c2;
+  if (Math.abs(bx - ax) >= Math.abs(by - ay) * 0.6) {
+    const dir = bx >= ax ? 1 : -1; s = [dir > 0 ? a.x + a.w : a.x, ay]; e = [dir > 0 ? b.x : b.x + b.w, by];
+    const k = Math.max(50, Math.abs(e[0] - s[0]) * 0.5) * dir; c1 = [s[0] + k, s[1]]; c2 = [e[0] - k, e[1]];
+  } else {
+    const dir = by >= ay ? 1 : -1; s = [ax, dir > 0 ? a.y + a.h : a.y]; e = [bx, dir > 0 ? b.y : b.y + b.h];
+    const k = Math.max(40, Math.abs(e[1] - s[1]) * 0.5) * dir; c1 = [s[0], s[1] + k]; c2 = [e[0], e[1] - k];
+  }
+  const mid = [(s[0] + 3 * c1[0] + 3 * c2[0] + e[0]) / 8, (s[1] + 3 * c1[1] + 3 * c2[1] + e[1]) / 8];
+  return { d: `M${s[0]},${s[1]} C${c1[0]},${c1[1]} ${c2[0]},${c2[1]} ${e[0]},${e[1]}`, mid };
+}
+function mkEl(tag, attrs) { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; }
+let popEl = null;
+function popup(html, x, y) { if (popEl) popEl.remove(); popEl = document.createElement("div"); popEl.className = "edgepop"; popEl.innerHTML = html; $("#wrap").appendChild(popEl);
+  popEl.style.left = Math.max(4, Math.min(x - 20, $("#wrap").clientWidth - 330)) + "px"; popEl.style.top = (y + 14) + "px"; }
+document.addEventListener("click", e => { if (popEl && !e.target.closest(".mb")) { popEl.remove(); popEl = null; } });
+function draw() {
+  const svg = $("#lines"); svg.innerHTML = ""; if (popEl) { popEl.remove(); popEl = null; }
+  if (innerWidth <= 900) return;
+  const wrap = $("#wrap"), base = wrap.getBoundingClientRect();
+  svg.setAttribute("width", wrap.scrollWidth); svg.setAttribute("height", wrap.scrollHeight);
+  const defs = mkEl("defs", {}); Object.entries(KIND).forEach(([k, v]) => { const m = mkEl("marker", { id: "ar" + k, viewBox: "0 0 10 10", refX: 9, refY: 5, markerWidth: 7, markerHeight: 7, orient: "auto-start-reverse" });
+    m.appendChild(mkEl("path", { d: "M0,0 L10,5 L0,10 z", fill: `var(${v.css})` })); defs.appendChild(m); });
+  const pm = mkEl("marker", { id: "arp", viewBox: "0 0 10 10", refX: 9, refY: 5, markerWidth: 6, markerHeight: 6, orient: "auto-start-reverse" }); pm.appendChild(mkEl("path", { d: "M0,0 L10,5 L0,10 z", fill: "var(--navy)" })); defs.appendChild(pm);
+  svg.appendChild(defs);
+  const first = id => $(`.node[data-id="${id}"]`);
+  if (ST.path) {
+    const ids = D.pathways[ST.path.p].ids;
+    for (let k = 0; k < ids.length - 1 && k < ST.pi; k++) { const a = first(ids[k]), b = first(ids[k + 1]); if (!a || !b) continue;
+      const ra2 = rectOf(a, base), rb2 = rectOf(b, base); const gap = Math.max(rb2.y - (ra2.y + ra2.h), ra2.y - (rb2.y + rb2.h)); if (Math.abs(ra2.x - rb2.x) < 40 && gap < 16) continue;
+      const c = curve(ra2, rb2); svg.appendChild(mkEl("path", { d: c.d, fill: "none", stroke: "var(--navy)", "stroke-width": 3.2, "marker-end": "url(#arp)", opacity: .9 })); }
+    return;
+  }
+  if (!ST.sel) return;
+  const A = first(ST.sel); if (!A) return; const ra = rectOf(A, base);
+  ADJ[ST.sel].filter(edgeOn).forEach(e => {
+    const o = other(e, ST.sel), B = first(o); if (!B) return; const rb = rectOf(B, base), K = KIND[e.ty];
+    const out = e.a === ST.sel, from = e.ty === "b" && !out ? rb : ra, to = e.ty === "b" && !out ? ra : rb;
+    const c = curve(from, to), col = `var(${K.css})`;
+    const g = mkEl("g", {});
+    g.appendChild(mkEl("path", { d: c.d, fill: "none", stroke: col, "stroke-width": e.st === "m" ? 2.6 : 1.7, "stroke-dasharray": K.dash, "marker-end": e.ty === "b" ? "url(#arb)" : "", opacity: e.st === "m" ? 1 : .75 }));
+    const hit = mkEl("path", { d: c.d, fill: "none", stroke: "transparent", "stroke-width": 12, class: "hit" }); const ti = mkEl("title", {}); ti.textContent = e.why; hit.appendChild(ti); g.appendChild(hit);
+    const mb = mkEl("g", { class: "mb", transform: `translate(${c.mid[0]},${c.mid[1]})`, tabindex: 0, role: "button", "aria-label": K.name + ": " + e.why });
+    mb.appendChild(mkEl("circle", { r: 10, fill: "var(--surface)", stroke: col, "stroke-width": 2 })); const tx = mkEl("text", { "text-anchor": "middle", "dominant-baseline": "central", "font-size": 12, "font-weight": 700, fill: col }); tx.textContent = K.glyph; mb.appendChild(tx);
+    const show = ev => { const pt = c.mid; popup(`<b>${esc(K.name)}</b>${esc(e.why)}`, pt[0], pt[1]); ev && ev.stopPropagation(); };
+    mb.addEventListener("click", show); mb.addEventListener("keydown", ev => { if (ev.key === "Enter" || ev.key === " ") show(ev); });
+    g.appendChild(mb); svg.appendChild(g);
+  });
+}
+Object.keys(KIND).forEach(k => {}); /* markers are created in draw() */
+
+/* ------------------------------------------------------------------ drawer */
+function swatch(k) { const K = KIND[k]; return `<svg class="sw" viewBox="0 0 46 14"><line x1="1" y1="7" x2="${k === "b" ? 38 : 45}" y2="7" stroke="var(${K.css})" stroke-width="3" ${K.dash ? `stroke-dasharray="${K.dash}"` : ""}/>${k === "b" ? `<path d="M36,2 L45,7 L36,12 z" fill="var(${K.css})"/>` : ""}</svg>`; }
+function drawer() {
+  const d = $("#drawer"), id = ST.sel;
+  if (!id) { d.hidden = true; document.body.classList.remove("drawer-open"); return; }
+  const n = N[id], t = TOP[n.t], q = n.q, th = THEME[n.th], hsc = !isY11(id);
+  d.style.setProperty("--tc", `var(--t${t.slot})`); d.style.setProperty("--tb", `var(--t${t.slot}b)`);
+  const sec = t.groups.find(g => g.id === n.g);
+  /* links */
+  const groups = [["b-in", "Builds on (what leads here)", "b", e => e.ty === "b" && e.b === id], ["b-out", "Leads on to", "b", e => e.ty === "b" && e.a === id],
+                  ["t", "Tension or conflict with", "t", e => e.ty === "t"], ["l", "Legal v non-legal", "l", e => e.ty === "l"], ["s", "The same idea elsewhere", "s", e => e.ty === "s"]];
+  let hidden = 0, lk = "";
+  groups.forEach(([key, title, k, f]) => {
+    const all = ADJ[id].filter(f); const sh = all.filter(edgeOn); hidden += all.filter(e => !edgeOn(e) && inCourseOnly(e, id)).length;
+    if (!sh.length) return;
+    lk += `<div class="lg2"><h5>${swatch(k)}${esc(title)} <span class="more">(${sh.length})</span></h5><ul>${sh.map(e => { const o = other(e, id); const on = N[o];
+      return `<li><button class="lk" data-go="${o}" style="--c:var(--t${TOP[on.t].slot})"><b>${esc(num(o))}</b>${isY11(o) ? '<span class="tagy">Y11</span>' : ""}${esc(on.s)}<span class="why">${esc(e.why)}</span></button></li>`; }).join("")}</ul></div>`;
+  });
+  if (!lk) lk = `<p class="more">No links are showing for this dot point with the current settings.</p>`;
+  if (hidden) lk += `<p class="more">${hidden} more link${hidden > 1 ? "s" : ""} hidden by the link settings. Move the slider towards More links.</p>`;
+  /* facts */
+  let ex = "";
+  if (hsc) {
+    const yrs = q.yrs.split("").map((c, i) => `<i class="l${c}" title="${D.meta.years[0] + i}: ${["not tagged", "supporting", "core (whole section)", "core"][+c]}"></i>`).join("");
+    const bands = Object.entries(q.bands).map(([k, v]) => `<span class="fact"><b>${BAND[k][1]}</b> ${v}</span>`).join("");
+    const verbs = Object.entries(q.verbs).map(([k, v]) => `${esc(k)} ×${v}`).join(", ");
+    const od = !(q.c + q.ci) || q.last <= D.meta.overdueBefore;
+    ex = `<h4>In the HSC since ${D.meta.years[0]}</h4><div class="facts"><span class="fact"><b>${q.c}</b> core</span>${q.ci ? `<span class="fact"><b>${q.ci}</b> core on whole section</span>` : ""}<span class="fact"><b>${q.s + q.si}</b> supporting</span>${q.mc ? `<span class="fact"><b>${q.mc}</b> multiple choice</span>` : ""}</div>
+      <div class="yrs">${yrs}</div><div class="yl"><span>${D.meta.years[0]}</span><span>${D.meta.years[1]}</span></div>
+      ${od ? `<p class="more" style="color:var(--k-t)"><svg class="i"><use href="#g-clock"/></svg> ${q.last ? "Last a core focus in " + q.last + ", so it is overdue." : "Never a core focus so far."}</p>` : `<p class="more">Last a core focus in ${q.last}.</p>`}
+      ${bands ? `<h4 style="margin-top:8px">Demand of written questions</h4><div class="facts">${bands}</div>${verbs ? `<p class="more">Common directive words: ${verbs}</p>` : ""}` : ""}`;
+  } else ex = `<h4>In the HSC</h4><p class="more">Year 11 content is not examined directly in the HSC. The bridge links show where it is used again.</p>`;
+  /* evidence */
+  const ev = n.ev; const evShow = ev.slice(0, 10);
+  const evh = ev.length ? `<ul>${evShow.map(e => `<li class="ev"><span class="ty">${esc(e.t)}</span><span><a href="${D.meta.ev}${encodeURIComponent(e.id)}">${esc(e.n)}</a>${e.u ? `<a class="pdf" href="${esc(e.u)}" target="_blank" rel="noopener">PDF</a>` : ""}</span></li>`).join("")}</ul>${ev.length > 10 ? `<p class="more">and ${ev.length - 10} more in the Evidence Finder.</p>` : ""}` : `<p class="more">No evidence written up for this dot point yet.</p>`;
+  d.hidden = false; document.body.classList.add("drawer-open");
+  d.innerHTML = `<div class="dh"><div><div class="crumb"><span class="pill"><svg class="i"><use href="#${t.icon}"/></svg>${esc(t.label)}</span><span>${esc(t.part)}</span><span>› ${esc(sec ? sec.label : "")}</span></div><h2>${esc(id.replace(/^[a-z]+\./, ""))}  ${esc(n.l)}</h2>${n.d ? `<p style="margin:4px 0 0;color:var(--ink-2)">${esc(n.d)}</p>` : ""}</div><button class="x" id="dClose" aria-label="Close">&times;</button></div>
+    <div class="dgrid"><div>
+      <div class="dact"><button class="rv" id="dDone" aria-pressed="${ST.done.has(id)}"><svg class="i"><use href="#g-check"/></svg>I have revised this</button>${hsc ? `<a href="${D.meta.qf}${id}"><svg class="i"><use href="#g-search"/></svg>Past questions</a>` : ""}<button id="dFlow"><svg class="i"><use href="#g-layers"/></svg>Flow viewer</button></div>
+      <p class="more" style="margin:0 0 8px">Theme: <b style="color:${th.colour}">${esc(th.label)}</b></p>${ex}</div>
+      <div><h4>How it connects</h4>${lk}</div>
+      <div><h4>Evidence and case summaries (${ev.length})</h4>${evh}</div></div>`;
+}
+function inCourseOnly(e, id) { return inCourse(e.a) && inCourse(e.b) && (!e.br || (ST.course === "both")); }
+
+/* ------------------------------------------------------------------ pathways */
+function openPaths() {
+  const list = D.pathways.map((p, i) => ({ p, i })).filter(x => ST.course === "both" || x.p.course === "both" || x.p.course === ST.course || true);
+  $("#pwList").innerHTML = list.map(({ p, i }) => { const first = N[p.ids[0]], t = TOP[first.t];
+    return `<button class="pwc" data-p="${i}" style="--tc:var(--t${t.slot})"><b>${esc(p.title)}</b><span>${esc(p.blurb)}</span><span class="ch">${p.ids.map(id => `<i style="background:var(--t${TOP[N[id].t].slot})"></i>`).join("")}<em>${p.ids.length} steps · ${p.course === "y11" ? "Year 11" : p.course === "y12" ? "Year 12" : "Years 11–12"}</em></span></button>`; }).join("");
+  $("#dlgPath").showModal();
+}
+function startPath(i) {
+  const p = D.pathways[i];
+  if (p.course === "both" && ST.course !== "both") setCourse("both", true); else if (p.course !== "both" && ST.course !== p.course && ST.course !== "both") setCourse(p.course, true);
+  ST.path = { p: i }; ST.pi = 0; ST.sel = null; $("#dlgPath").close(); refresh(); pathCard(); scrollToStep();
+}
+function scrollToStep() { const id = D.pathways[ST.path.p].ids[ST.pi]; const el = $(`.node[data-id="${id}"]`); if (el) { const p = el.closest(".panel"); if (p) p.classList.remove("collapsed"); el.scrollIntoView({ block: "center", behavior: "smooth" }); setTimeout(draw, 450); } }
+function pathCard() {
+  const c = $("#pathcard"); if (!ST.path) { c.hidden = true; return; }
+  const p = D.pathways[ST.path.p], id = p.ids[ST.pi], n = N[id], last = ST.pi === p.ids.length - 1;
+  const prev = ST.pi ? p.ids[ST.pi - 1] : null; const e = prev && ADJ[id].find(x => other(x, id) === prev);
+  c.hidden = false; document.body.classList.add("drawer-open"); $("#drawer").hidden = true;
+  c.innerHTML = `<div class="pn">${esc(p.title)} · step ${ST.pi + 1} of ${p.ids.length}</div><div class="dots">${p.ids.map((_, k) => `<i class="${k <= ST.pi ? "on" : ""}"></i>`).join("")}</div>
+    <h3>${esc(num(id))} ${esc(n.l)}</h3>${n.d ? `<p>${esc(n.d)}</p>` : ""}${e ? `<p><b>${esc(KIND[e.ty].short)}:</b> ${esc(e.why)}</p>` : ""}${last ? `<p><b>The idea:</b> ${esc(p.closing)}</p>` : ""}
+    <div class="row"><button class="btn" id="pPrev" ${ST.pi ? "" : "disabled"}>Back</button><button class="btn big" id="pNext">${last ? "Finish" : "Next step"}</button><button class="btn" id="pOpen">Open this dot point</button><button class="btn" id="pExit">Leave pathway</button></div>`;
+}
+function endPath() { ST.path = null; $("#pathcard").hidden = true; refresh(); }
+
+/* ------------------------------------------------------------------ flow viewer */
+function flowOpen() {
+  if (!ST.sel) return; const id = ST.sel;
+  const inn = i => D.edges.filter(e => e.ty === "b" && e.b === i && inCourse(e.a) && (!e.br || ST.course === "both")).map(e => e.a);
+  const out = i => D.edges.filter(e => e.ty === "b" && e.a === i && inCourse(e.b) && (!e.br || ST.course === "both")).map(e => e.b);
+  const lv = {}; const cols = [];
+  const grow = (start, fn, depth) => { let cur = [start], seen = new Set([start, id]); const res = []; for (let d = 0; d < depth; d++) { const nx = []; cur.forEach(x => fn(x).forEach(y => { if (!seen.has(y)) { seen.add(y); nx.push(y); } })); res.push(nx); cur = nx; } return res; };
+  const up = grow(id, inn, 2), dn = grow(id, out, 2);
+  const colsDef = [["Two steps before", up[1]], ["One step before", up[0]], ["Selected", [id]], ["One step on", dn[0]], ["Two steps on", dn[1]]].filter(c => c[1].length);
+  const box = i => `<button class="fbox${i === id ? " cur" : ""}" data-fid="${i}" style="--tc:var(--t${TOP[N[i].t].slot})"><b>${esc(num(i))}</b>${isY11(i) ? '<span class="tagy">Y11</span>' : ""}${esc(N[i].s)}</button>`;
+  $("#flowT").textContent = N[id].s; $("#flowS").textContent = "What leads into this dot point and what it leads on to. Click any box to move along the chain.";
+  $("#flowbody").innerHTML = colsDef.map(c => `<div class="fcol"><h4>${c[0]}</h4>${c[1].slice(0, 9).map(box).join("")}${c[1].length > 9 ? `<span class="more">+${c[1].length - 9} more</span>` : ""}</div>`).join("") || '<p class="more">This dot point has no "leads to" links with the current settings.</p>';
+  const extra = ["t", "l", "s"].map(k => { const l = ADJ[id].filter(e => e.ty === k && edgeOn(e)); return l.length ? `<h3>${swatch(k)} ${esc(KIND[k].name)}</h3><ul style="padding-left:18px">${l.map(e => `<li><a href="#" data-fid="${other(e, id)}"><b>${esc(num(other(e, id)))}</b> ${esc(N[other(e, id)].s)}</a> – ${esc(e.why)}</li>`).join("")}</ul>` : ""; }).join("");
+  $("#flowExtra").innerHTML = extra + `<p style="margin-top:12px"><button class="btn" id="fShow">Show on the map</button></p>`;
+  if (!$("#dlgFlow").open) $("#dlgFlow").showModal();
+  requestAnimationFrame(flowLines);
+}
+function flowLines() {
+  const body = $("#flowbody"); $$("svg.fl", body).forEach(s => s.remove()); const base = body.getBoundingClientRect(); if (!body.children.length) return;
+  const svg = mkEl("svg", { class: "fl", width: body.scrollWidth, height: body.scrollHeight, style: "position:absolute;left:0;top:0;pointer-events:none;z-index:1" });
+  const defs = mkEl("defs", {}); const m = mkEl("marker", { id: "arf", viewBox: "0 0 10 10", refX: 9, refY: 5, markerWidth: 7, markerHeight: 7, orient: "auto" }); m.appendChild(mkEl("path", { d: "M0,0 L10,5 L0,10 z", fill: "var(--k-b)" })); defs.appendChild(m); svg.appendChild(defs);
+  const pos = {}; $$(".fbox", body).forEach(b => { const r = b.getBoundingClientRect(); pos[b.dataset.fid] = { x: r.left - base.left + body.scrollLeft, y: r.top - base.top + body.scrollTop, w: r.width, h: r.height }; });
+  D.edges.filter(e => e.ty === "b" && pos[e.a] && pos[e.b] && e.a !== e.b).forEach(e => { const a = pos[e.a], b = pos[e.b]; if (a.x >= b.x) return; const c = curve(a, b); svg.appendChild(mkEl("path", { d: c.d, fill: "none", stroke: "var(--k-b)", "stroke-width": 2, "marker-end": "url(#arf)", opacity: .8 })); });
+  body.appendChild(svg);
+}
+
+/* ------------------------------------------------------------------ search */
+function search(q) {
+  q = q.trim().toLowerCase(); if (!q) return [];
+  return Object.keys(N).filter(inCourse).map(id => { const n = N[id]; const hay = (n.l + " " + n.d).toLowerCase(); let s = 0;
+    if (num(id) === q || id === q) s = 100; else if (n.l.toLowerCase().startsWith(q)) s = 60; else if (n.l.toLowerCase().includes(q)) s = 40; else if (hay.includes(q)) s = 15; else if (TOP[n.t].label.toLowerCase().startsWith(q)) s = 5;
+    return [id, s]; }).filter(x => x[1]).sort((a, b) => b[1] - a[1]).slice(0, 12).map(x => x[0]);
+}
+
+/* ------------------------------------------------------------------ wiring */
+function refresh() { renderBoard(); applyMarks(); drawer(); $("#btnFlow").disabled = !ST.sel; if (ST.path) pathCard(); setTimeout(draw, 0); }
+function setCourse(c, quiet) { ST.course = c; store.set("course", c); $$("#segCourse button").forEach(b => b.setAttribute("aria-pressed", b.dataset.v === c)); $("#brWrap").hidden = c !== "both"; if (ST.sel && !inCourse(ST.sel)) ST.sel = null; if (!quiet) { ST.path = null; $("#pathcard").hidden = true; refresh(); } }
+function setView(v) { ST.view = v; store.set("view", v); $$("#segView button").forEach(b => b.setAttribute("aria-pressed", b.dataset.v === v)); ST.path = null; $("#pathcard").hidden = true; refresh(); }
+function toggleDone(id) { ST.done.has(id) ? ST.done.delete(id) : ST.done.add(id); store.set("done", JSON.stringify([...ST.done])); $$(`.node[data-id="${id}"]`).forEach(el => el.classList.toggle("done", ST.done.has(id))); renderProgress(); const b = $("#dDone"); if (b) b.setAttribute("aria-pressed", ST.done.has(id)); }
+
+$("#kinds").innerHTML = Object.entries(KIND).map(([k, K]) => `<label class="kind" title="${esc(K.sw)}"><input type="checkbox" data-k="${k}" checked>${swatch(k)}<span>${esc(K.name)}</span></label>`).join("");
+$("#helpKinds").innerHTML = Object.entries(KIND).map(([k, K]) => `<li>${swatch(k)} <b>${esc(K.name)}.</b> ${esc(K.sw)}.</li>`).join("");
+$("#draftTag").hidden = !D.meta.draft;
+$("#kinds").addEventListener("change", e => { const k = e.target.dataset.k; if (k) { ST.on[k] = e.target.checked ? 1 : 0; refresh(); } });
+$("#detail").addEventListener("input", e => { ST.detail = +e.target.value; renderStat(); applyMarks(); drawer(); draw(); });
+$("#bridges").addEventListener("change", e => { ST.bridges = e.target.checked; renderStat(); applyMarks(); drawer(); draw(); });
+$("#rev").addEventListener("change", e => { document.body.classList.toggle("rev", e.target.checked); });
+$("#segCourse").addEventListener("click", e => { const b = e.target.closest("button"); if (b) setCourse(b.dataset.v); });
+$("#segView").addEventListener("click", e => { const b = e.target.closest("button"); if (b) setView(b.dataset.v); });
+$("#board").addEventListener("click", e => {
+  const ph = e.target.closest(".ph"); if (ph && innerWidth <= 900) { const p = ph.closest(".panel"); p.classList.toggle("collapsed"); ST.collapsed[p.dataset.panel] = p.classList.contains("collapsed"); return; }
+  const n = e.target.closest(".node"); if (!n) return;
+  if (ST.path) { const i = D.pathways[ST.path.p].ids.indexOf(n.dataset.id); if (i >= 0) { ST.pi = i; applyMarks(); pathCard(); draw(); return; } }
+  select(ST.sel === n.dataset.id ? null : n.dataset.id);
+});
+$("#drawer").addEventListener("click", e => {
+  const go = e.target.closest("[data-go]"); if (go) { select(go.dataset.go, { scroll: true }); return; }
+  if (e.target.closest("#dClose")) { select(null); try { history.replaceState(null, "", location.pathname); } catch (x) {} return; }
+  if (e.target.closest("#dDone")) { toggleDone(ST.sel); return; }
+  if (e.target.closest("#dFlow")) flowOpen();
+});
+$("#btnClear").addEventListener("click", () => { ST.sel = null; ST.path = null; $("#pathcard").hidden = true; $("#q").value = ""; $("#sug").hidden = true; refresh(); try { history.replaceState(null, "", location.pathname); } catch (x) {} });
+$("#btnPath").addEventListener("click", openPaths);
+$("#btnFlow").addEventListener("click", flowOpen);
+$("#btnPrint").addEventListener("click", () => { $$(".panel.collapsed").forEach(p => p.classList.remove("collapsed")); window.print(); });
+$("#btnHelp").addEventListener("click", () => $("#dlgHelp").showModal());
+$("#resetDone").addEventListener("click", () => { if (confirm("Clear all your ticks on this device?")) { ST.done.clear(); store.set("done", "[]"); refresh(); } });
+$("#pwList").addEventListener("click", e => { const c = e.target.closest("[data-p]"); if (c) startPath(+c.dataset.p); });
+$("#pathcard").addEventListener("click", e => {
+  const p = ST.path && D.pathways[ST.path.p];
+  if (e.target.closest("#pNext")) { if (ST.pi >= p.ids.length - 1) { endPath(); return; } ST.pi++; applyMarks(); pathCard(); scrollToStep(); }
+  else if (e.target.closest("#pPrev")) { ST.pi--; applyMarks(); pathCard(); scrollToStep(); }
+  else if (e.target.closest("#pOpen")) { const id = p.ids[ST.pi]; endPath(); select(id, { scroll: true }); }
+  else if (e.target.closest("#pExit")) endPath();
+});
+$$("dialog").forEach(d => { d.addEventListener("click", e => { if (e.target === d || e.target.closest("[data-close]")) d.close(); }); });
+$("#dlgFlow").addEventListener("click", e => {
+  const f = e.target.closest("[data-fid]"); if (f) { e.preventDefault(); ST.sel = f.dataset.fid; if (!inCourse(ST.sel)) setCourse("both", true); flowOpen(); refresh(); return; }
+  if (e.target.closest("#fShow")) { $("#dlgFlow").close(); $(`.node[data-id="${ST.sel}"]`)?.scrollIntoView({ block: "center", behavior: "smooth" }); setTimeout(draw, 450); }
+});
+const qi = $("#q"), sug = $("#sug");
+qi.addEventListener("input", () => { const r = search(qi.value); sug.hidden = !r.length; sug.innerHTML = r.map(id => `<button data-id="${id}" style="--tc:var(--t${TOP[N[id].t].slot})"><span class="dotc"></span><span><b style="font-family:ui-monospace,monospace;font-size:11px;color:var(--ink-3)">${esc(num(id))}</b> ${esc(N[id].s)} <small style="color:var(--ink-3)">${esc(TOP[N[id].t].label)} \u203A ${esc((TOP[N[id].t].groups.find(g => g.id === N[id].g) || {}).label || "")}</small></span></button>`).join(""); });
+sug.addEventListener("click", e => { const b = e.target.closest("button"); if (b) { select(b.dataset.id, { scroll: true }); sug.hidden = true; qi.value = ""; } });
+qi.addEventListener("keydown", e => { if (e.key === "Enter") { const r = search(qi.value); if (r[0]) { select(r[0], { scroll: true }); sug.hidden = true; qi.value = ""; } } });
+document.addEventListener("click", e => { if (!e.target.closest(".search")) sug.hidden = true; });
+document.addEventListener("keydown", e => { if (e.key === "Escape" && !document.querySelector("dialog[open]")) { if (ST.path) endPath(); else if (ST.sel) select(null); } if (e.key === "/" && document.activeElement.tagName !== "INPUT") { e.preventDefault(); qi.focus(); } });
+let rz; addEventListener("resize", () => { clearTimeout(rz); rz = setTimeout(() => { draw(); if ($("#dlgFlow").open) flowLines(); }, 120); });
+document.fonts && document.fonts.ready.then(() => draw());
+
+/* theme toggle: auto, light, dark */
+const TH_CYCLE = ["auto", "light", "dark"]; let thMode = store.get("theme", "auto");
+function applyTheme() { if (thMode === "auto") document.documentElement.removeAttribute("data-theme"); else document.documentElement.setAttribute("data-theme", thMode); $("#thLbl").textContent = { auto: "Auto", light: "Light", dark: "Dark" }[thMode]; }
+$("#btnTheme").addEventListener("click", () => { thMode = TH_CYCLE[(TH_CYCLE.indexOf(thMode) + 1) % 3]; store.set("theme", thMode); applyTheme(); setTimeout(draw, 50); });
+applyTheme();
+
+/* boot */
+$$("#segCourse button").forEach(b => b.setAttribute("aria-pressed", b.dataset.v === ST.course)); $$("#segView button").forEach(b => b.setAttribute("aria-pressed", b.dataset.v === ST.view)); $("#brWrap").hidden = ST.course !== "both";
+const h0 = decodeURIComponent(location.hash.slice(1)); if (h0 && N[h0]) { if (!inCourse(h0)) ST.course = yearOf(h0); ST.sel = h0; setCourse(ST.course, true); }
+refresh();
+if (ST.sel) setTimeout(() => $(`.node[data-id="${ST.sel}"]`)?.scrollIntoView({ block: "center" }), 80);
+addEventListener("hashchange", () => { const h = decodeURIComponent(location.hash.slice(1)); if (N[h] && h !== ST.sel) select(h, { scroll: true }); });
+</script>
+</body>
+</html>

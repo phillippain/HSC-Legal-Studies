@@ -277,6 +277,7 @@ def refresh(commit_msg=None):
     run([py, "build/evidence_lib.py"])
     run([py, "build/build_evidence.py"])
     run([py, "build/verify_evidence.py"])
+    run([py, "build/build_mindmap.py"])   # question counts and evidence lists on the map
 
     lib = json.load(open(os.path.join(ROOT, "data", "library.json")))["files"]
     ids = m["files"]
@@ -301,7 +302,8 @@ def refresh(commit_msg=None):
         who = subprocess.run(["git", "log", "-1", "--format=%an%n%ae"], cwd=ROOT,
                              capture_output=True, text=True).stdout.split("\n")
         subprocess.run(["git", "add", "evidence", "evidence.html", "data/library.json",
-                        "data/library-tags.txt", "data/drive-links.json", "data/ingest-log.jsonl"],
+                        "data/library-tags.txt", "data/drive-links.json", "data/ingest-log.jsonl",
+                        "mind-map/index.html", "mind-map/links-review.html"],
                        cwd=ROOT, check=False)
         r = subprocess.run(["git", "-c", f"user.name={who[0]}", "-c", f"user.email={who[1]}",
                             "commit", "-m", commit_msg], cwd=ROOT, capture_output=True, text=True)

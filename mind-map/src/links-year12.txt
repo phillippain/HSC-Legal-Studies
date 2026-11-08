@@ -1,0 +1,177 @@
+# Year 12 (HSC, 2009 syllabus) links. DRAFT for teacher review.
+# Format:  TYPE STRENGTH idA idB | one-sentence reason
+#   TYPE     b = builds on / leads to (A leads to B)   s = same concept in another place
+#            t = tension or conflict                    l = legal vs non-legal response
+#   STRENGTH m = main link   w = weaker link
+
+# ---------------------------------------------------------------- Crime 1: the nature of crime
+b m crime.1.1 crime.1.2 | Defining crime leads to what must be proved: a guilty act and a guilty mind.
+t m crime.1.2 crime.1.3 | Fairness to the accused v protecting the public: strict liability removes the need to prove mens rea.
+b m crime.1.2 crime.1.4 | The guilty act must be shown to have caused the harm.
+b m crime.1.2 crime.3.6 | The prosecution must prove these elements beyond reasonable doubt.
+b w crime.1.2 crime.3.8 | Defences answer the elements, by denying the mental state or justifying or excusing the act.
+b m crime.1.5 crime.1.6 | Categories of crime sort offences by kind, and summary and indictable sorts them by seriousness.
+b m crime.1.6 crime.3.1 | Whether an offence is summary or indictable decides which court has jurisdiction.
+b w crime.1.7 crime.4.3 | A person's role in the crime affects their culpability and so the sentence.
+b m crime.1.8 crime.1.9 | Prevention strategies are designed around the factors that influence criminal behaviour.
+l m crime.1.9 crime.4.2 | Social prevention (education, housing, community programs) acts before a crime; punishment is the legal response afterwards.
+s w crime.1.9 crime.4.2 | Deterrence is part of situational prevention and one purpose of punishment.
+s w crime.1.5 crime.6.1 | Categories of crime are mirrored in the categories of international crime.
+s w crime.1.5 fam.2.4 | The coercive control offence shows how a family issue becomes an offence against the person.
+
+# ---------------------------------------------------------------- Crime 2: the investigation process
+b m crime.2.1 crime.2.3 | Police powers authorise search, seizure and the use of warrants.
+b m crime.2.2 crime.2.3 | A report to police starts an investigation.
+b m crime.2.3 crime.2.4 | Evidence gathered in an investigation is the basis for arrest and charge.
+b m crime.2.4 crime.2.5 | Once a person is charged, bail or remand must be decided.
+b m crime.2.4 crime.2.6 | An arrested person can be detained and questioned.
+t m crime.2.1 crime.2.6 | Police powers to detect crime v suspects' rights: the more power police have, the more the rights of suspects need protecting.
+t m crime.2.5 crime.3.6 | Community safety v the presumption of innocence: bail is decided before guilt is proved.
+b m crime.2.5 crime.3.1 | After bail or remand, the matter goes to court.
+b m crime.2.6 crime.3.5 | Suspects' right to legal advice leads to legal representation in court.
+t m crime.3.7 crime.2.3 | Finding the truth v protecting the process: improperly gathered evidence may be excluded.
+s m crime.2.6 crime.5.2 | Children have extra protections when questioned or arrested.
+s m crime.2.4 crime.5.2 | Arrest and charge of a child bring specific safeguards.
+s w crime.2.5 fam.2.4 | Bail conditions can protect victims of domestic violence.
+b m inv.1.6 crime.3.2 | Procedural fairness is the principle behind a fair trial in the adversary system.
+b w inv.1.6 crime.2.6 | A fair hearing and the rights of suspects both come from procedural fairness.
+b m inv.1.4 crime.3.5 | Access and equality in justice are what legal aid is designed to provide.
+
+# ---------------------------------------------------------------- Crime 3: the trial process
+b m crime.3.1 crime.3.3 | The court (Local, District or Supreme) determines which magistrate or judge hears the case.
+b m crime.3.2 crime.3.3 | The adversary system gives each legal person a particular role.
+b m crime.3.5 crime.3.2 | The adversary system only works if both sides are represented.
+b m crime.3.4 crime.3.6 | A not-guilty plea means the prosecution must prove its case.
+b m crime.3.4 crime.4.3 | An early guilty plea and charge negotiation can reduce the sentence.
+t m crime.3.4 crime.4.4 | Efficiency v the victim's voice: charge negotiation saves court time but can leave victims feeling sidelined.
+b m crime.3.6 crime.3.7 | The standard of proof is met through evidence and witnesses.
+b m crime.3.7 crime.3.9 | The jury decides the facts from the evidence presented.
+b m crime.3.8 crime.3.9 | A defence is put to the jury, which decides whether it succeeds.
+b m crime.3.9 crime.4.1 | A guilty verdict leads to sentencing.
+b w crime.3.9 crime.4.5 | A conviction can be appealed.
+s m crime.3.1 inv.4.1 | Court jurisdiction applies the hierarchy of courts.
+s m crime.3.9 dis.1.6 | The jury's role is first studied in Year 11.
+t w crime.3.9 crime.3.2 | Lay decision-makers v legal expertise: juries can bring community values but may lack legal knowledge.
+
+# ---------------------------------------------------------------- Crime 4: sentencing and punishment
+b m crime.4.1 crime.4.2 | Guidelines direct a court to consider the purposes of punishment.
+b m crime.4.2 crime.4.3 | The purposes of punishment determine how much weight is given to the factors.
+b m crime.4.3 crime.4.6 | The factors in a case lead to the type of penalty.
+b m crime.4.4 crime.4.3 | Victim impact statements are one of the factors a court takes into account.
+b m crime.4.6 crime.4.5 | A sentence that is too harsh or too lenient can be appealed.
+b m crime.4.6 crime.4.8 | A prison sentence leads to post-sentencing questions such as classification, parole and registration.
+t m crime.4.2 crime.4.7 | Punishment v restoration: retribution and deterrence look back at the crime, while circle sentencing and restorative justice repair harm.
+t m crime.4.2 crime.4.8 | Community protection v individual liberty: continued detention and preventative detention extend punishment beyond the sentence.
+t w crime.4.1 crime.4.3 | Rules v discretion: guidelines and standard non-parole periods structure the sentence, but judges still weigh the facts.
+s m crime.4.7 crime.5.5 | Restorative approaches appear for both adult and young offenders.
+b m dis.1.7 crime.4.2 | The aims of punishment in Year 11 become the purposes of punishment.
+
+# ---------------------------------------------------------------- Crime 5: young offenders
+b m crime.5.1 crime.5.2 | Once a child is old enough to be criminally responsible, they have rights when dealt with by police.
+b m crime.5.2 crime.5.3 | A child who is charged is dealt with in the Children's Court.
+b m crime.5.2 crime.5.5 | Police can use alternatives to court instead of charging a child.
+b m crime.5.3 crime.5.4 | The Children's Court imposes penalties that are specific to children.
+t m crime.5.1 crime.5.4 | Accountability v protection: children can be held responsible, but they are still developing and the system aims to rehabilitate.
+s m crime.5.4 crime.4.6 | Penalties for children are a version of the general types of penalty.
+s m crime.5.3 inv.4.2 | The Children's Court is a specialist court.
+s w crime.5.2 inv.1.6 | A fair process for children needs particular care.
+
+# ---------------------------------------------------------------- Crime 6: international crime
+b m crime.6.1 crime.6.2 | Categories of international crime lead to the ways of dealing with them.
+t m crime.6.2 hr.2.1 | State sovereignty v international justice: dealing with international crime depends on states giving up some control.
+s m crime.6.2 hr.2.4 | International courts and tribunals deal with international crimes and human rights violations.
+s m crime.6.2 hr.2.2 | The UN has a role in both international crime and human rights.
+s m crime.6.1 hr.3.1 | Genocide and torture are both international crimes and human rights issues.
+
+# ---------------------------------------------------------------- Human Rights
+b m hr.1.1 hr.1.2 | Defining human rights leads to how recognition of them developed.
+b m hr.1.2 hr.1.3 | Developing recognition led to the formal statements.
+t m hr.1.3 hr.2.1 | Universal rights v state sovereignty: states signed up, but enforcement depends on their cooperation.
+t m hr.2.1 hr.2.2 | State sovereignty v the UN: the UN can scrutinise and pressure states but cannot override them.
+b w hr.2.2 hr.2.4 | The UN has set up, or works through, courts and tribunals.
+s w hr.2.2 hr.2.3 | Intergovernmental organisations work alongside the UN to promote rights.
+l m hr.2.4 hr.2.5 | Courts and tribunals have legal authority but limited power to enforce; NGOs add non-legal pressure.
+l m hr.2.4 hr.2.6 | Courts and tribunals have legal authority but limited power to enforce; the media adds public pressure.
+b w hr.2.5 hr.2.6 | NGOs gather the evidence that the media publicise.
+b m hr.2.7 hr.2.8 | Treaties become domestic law through the Constitution (such as the external affairs power).
+b m hr.2.7 hr.2.9 | Incorporation happens when parliament passes a statute.
+b m hr.2.8 hr.2.9 | The Constitution enables the parliament to legislate, and also limits it.
+b w hr.2.9 hr.2.10 | Statute can override or codify the common law protections of rights.
+b m hr.2.9 hr.2.11 | Courts and tribunals interpret and apply statute law.
+b m hr.2.10 hr.2.11 | Courts develop and apply the common law.
+t m hr.2.14 hr.2.8 | Parliamentary sovereignty v judicial power: a Charter would give courts a bigger role in protecting rights.
+b w hr.2.7 hr.2.14 | The patchwork of incorporation is part of the argument for a Charter.
+b w hr.2.9 hr.2.14 | Gaps in statute and common law protections feed the argument for a Charter.
+l m hr.2.11 hr.2.12 | Courts and tribunals give legal remedies; NGOs in Australia advocate and support.
+l m hr.2.11 hr.2.13 | Courts and tribunals give legal remedies; the media in Australia exposes and shapes opinion.
+b w hr.2.12 hr.2.13 | NGOs bring cases to light that the media then report.
+b m hr.2.4 hr.3.1 | The contemporary issue is analysed through the role of courts and tribunals.
+b m hr.2.5 hr.3.1 | The contemporary issue is analysed through the role of NGOs.
+s m hr.2.5 hr.2.12 | NGOs in international and Australian contexts play the same kind of role at different levels.
+s m hr.2.6 hr.2.13 | The media in international and Australian contexts plays the same kind of role at different levels.
+s m hr.1.3 shel.1.2 | The right to shelter is part of the ICESCR.
+s w hr.1.3 fam.1.5 | International instruments are a source of rights and obligations of parents and children.
+s w hr.2.7 shel.1.2 | How the international right to shelter is recognised in Australia depends on incorporation.
+s w hr.2.7 fam.1.5 | International standards on children's rights are only enforceable in Australia if incorporated.
+s w hr.3.1 shel.1.2 | Human rights issues (such as refugees) raise questions about the right to shelter.
+s w hr.3.1 fam.3.4 | The abuse of children is both a human rights issue and a child protection issue.
+
+# ---------------------------------------------------------------- Family
+b m fam.1.1 fam.1.3 | The concept of family leads to the legal requirements of marriage.
+b m fam.1.1 fam.1.4 | The difficulty of defining family leads to alternative relationships.
+t w fam.1.3 fam.1.4 | Clear legal status v diverse relationships: marriage has set requirements, while alternative relationships have to prove themselves for similar rights.
+b m fam.1.4 fam.3.1 | Alternative relationships led to the recognition of same-sex relationships.
+b m fam.1.3 fam.2.1 | Marriage ending leads to divorce.
+b m fam.1.5 fam.2.2 | Parents' rights and obligations continue after separation.
+b m fam.1.5 fam.3.2 | The changing nature of parental responsibility builds on parents' rights and obligations.
+t m fam.1.5 fam.3.4 | Parental autonomy v state protection: the state may intervene to protect a child from harm.
+t m fam.1.5 fam.3.3 | Intended parents' wishes v the rights of the child and surrogate: who the legal parents are.
+s m fam.1.6 fam.3.4 | Adoption is one way of providing permanent care for children who cannot stay with their family.
+s m fam.3.4 inv.4.2 | Care and protection matters are heard in the Children's Court.
+b m fam.2.1 fam.2.2 | A divorce leads to arrangements for children.
+b m fam.2.1 fam.2.3 | A divorce leads to the division of property.
+b m fam.2.4 fam.2.2 | Family violence affects parenting arrangements, because safety is paramount.
+t m fam.2.2 fam.2.4 | A meaningful relationship with both parents v protection from harm: the law has to balance both.
+b m fam.2.2 fam.2.5 | Parenting disputes are resolved through courts and dispute resolution.
+b m fam.2.3 fam.2.5 | Property disputes are resolved through courts and dispute resolution.
+b m fam.2.4 fam.2.5 | Family violence matters involve courts and other mechanisms.
+l m fam.2.5 fam.2.6 | Courts and dispute resolution v NGOs: legal processes alongside non-legal support.
+l m fam.2.5 fam.2.7 | Courts and dispute resolution v the media: legal processes alongside public debate.
+b w fam.2.6 fam.2.7 | NGOs raise issues that the media then publicise.
+s m fam.2.6 hr.2.12 | The role of NGOs recurs across topics.
+s m fam.2.7 hr.2.13 | The role of the media recurs across topics.
+s m fam.2.6 shel.2.9 | The role of NGOs recurs across topics.
+s m fam.2.7 shel.2.10 | The role of the media recurs across topics.
+s m fam.2.5 shel.2.5 | Dispute resolution methods recur across topics.
+s m fam.2.5 shel.2.7 | Alternative dispute resolution is used in family and shelter disputes.
+s m fam.2.5 shel.2.6 | The roles of courts and tribunals recur across topics.
+s w fam.2.4 crime.2.5 | Domestic violence connects the family law and criminal law systems.
+s w fam.3.1 shel.3.2 | Recognition of same-sex relationships and discrimination in housing both concern equality before the law.
+b m fam.3.3 fam.1.6 | Surrogacy and birth technologies raise questions that overlap with adoption.
+b w fam.3.2 fam.2.2 | Changing ideas of parental responsibility affect what happens to children after separation.
+
+# ---------------------------------------------------------------- Shelter
+b m shel.1.1 shel.1.2 | Defining shelter leads to whether it is a right.
+b m shel.1.2 shel.1.3 | If shelter is a right, governments have an obligation to provide it.
+b m shel.1.3 shel.1.4 | Obligations lead to the types of shelter.
+b m shel.1.3 shel.3.4 | Government obligations are met in part through social housing.
+b m shel.1.4 shel.2.1 | The types of shelter lead to purchasing.
+b m shel.1.4 shel.2.2 | The types of shelter lead to leasing.
+b w shel.1.4 shel.2.4 | The types of shelter include aged care, residential parks and squats.
+b m shel.2.1 shel.2.5 | Purchasing can lead to disputes.
+b m shel.2.2 shel.2.5 | Leasing can lead to disputes.
+b m shel.2.3 shel.2.5 | Protection for tenants, landlords, boarders and lodgers leads to dispute resolution when it fails.
+b m shel.2.5 shel.2.6 | Disputes are decided by courts and tribunals.
+b m shel.2.5 shel.2.7 | Disputes are also resolved by ADR.
+t w shel.2.6 shel.2.7 | Binding decisions v speed and cost: tribunals give enforceable orders, while ADR is quicker but depends on cooperation.
+l m shel.2.6 shel.2.9 | Courts and tribunals give legal remedies; NGOs give advice and advocacy.
+l m shel.2.6 shel.2.10 | Courts and tribunals give legal remedies; the media shapes public opinion.
+l w shel.2.8 shel.2.9 | Government organisations v NGOs: both support those securing shelter.
+b w shel.2.9 shel.2.10 | NGOs bring issues to the media's attention.
+t m shel.2.2 shel.3.1 | Landlords' investment v tenants' affordability: protections for tenants can reduce returns, while affordability pressure demands more.
+b m shel.3.1 shel.3.3 | Unaffordability can lead to homelessness.
+b w shel.3.2 shel.3.3 | Discrimination in access to housing can lead to homelessness.
+b m shel.3.3 shel.3.4 | Homelessness is addressed through social housing.
+s m shel.2.1 shel.3.1 | The cost of purchasing is a main driver of affordability.
+s w shel.3.2 hr.2.9 | Discrimination in shelter is dealt with through anti-discrimination statutes.
+s w fam.2.3 shel.2.1 | Family property and housing purchase overlap when a family home is divided.
