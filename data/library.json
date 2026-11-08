@@ -3577,6 +3577,26 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - ACT Police Family Violence Text Trial Evidence Summary.pdf",
+   "name": "Family - ACT Police Family Violence Text Trial Evidence Summary",
+   "file": "Family - ACT Police Family Violence Text Trial Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 205942,
+   "mtime": 1794170435,
+   "bucket": "evidence",
+   "kind": "legislation",
+   "tags": [
+    "fam.2.4",
+    "crime.2.5",
+    "crime.2.1",
+    "crime.1.9",
+    "chg.1.3"
+   ],
+   "dupe": "familyactpolicefamilyviolencetexttrialevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Family - Calvary Catholic Hospital Service Cuts Evidence Summary.pdf",
    "name": "Family - Calvary Catholic Hospital Service Cuts Evidence Summary",
    "file": "Family - Calvary Catholic Hospital Service Cuts Evidence Summary.pdf",
@@ -3656,6 +3676,28 @@
     "fam.1.5"
    ],
    "dupe": "familychildhoodphysicalabusebyparentsstudyevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Family/Evidence Summaries/Family - Country Lawyers and the DFV Crisis Evidence Summary.pdf",
+   "name": "Family - Country Lawyers and the DFV Crisis Evidence Summary",
+   "file": "Family - Country Lawyers and the DFV Crisis Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209246,
+   "mtime": 1794170433,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.4",
+    "fam.2.6",
+    "crime.3.5",
+    "fam.2.5",
+    "fam.1.2",
+    "chg.1.6",
+    "inv.1.4"
+   ],
+   "dupe": "familycountrylawyersandthedfvcrisisevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -9620,6 +9662,27 @@
    "primary": true
   },
   {
+   "path": "Human Rights/HR - Digital Duty of Care Bill Right to Sue Evidence Summary.pdf",
+   "name": "HR - Digital Duty of Care Bill Right to Sue Evidence Summary",
+   "file": "HR - Digital Duty of Care Bill Right to Sue Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209963,
+   "mtime": 1794170431,
+   "bucket": "evidence",
+   "kind": "legislation",
+   "tags": [
+    "hr.3.1",
+    "hr.2.9",
+    "hr.2.12",
+    "hr.2.13",
+    "hr.2.7",
+    "chg.1.3"
+   ],
+   "dupe": "hrdigitaldutyofcarebillrighttosueevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/HR - Great Powers Sovereignty and Human Rights Enforcement Evidence Summary.pdf",
    "name": "HR - Great Powers Sovereignty and Human Rights Enforcement Evidence Summary",
    "file": "HR - Great Powers Sovereignty and Human Rights Enforcement Evidence Summary.pdf",
@@ -9649,6 +9712,32 @@
     "hr.3.1"
    ],
    "dupe": "hrhrwsolitaryconfinementprisonerswithdisabilitiessaevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - Hanson 18C High Court Appeal Evidence Summary.pdf",
+   "name": "HR - Hanson 18C High Court Appeal Evidence Summary",
+   "file": "HR - Hanson 18C High Court Appeal Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207928,
+   "mtime": 1794171276,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.8",
+    "hr.2.9",
+    "hr.2.7",
+    "hr.2.11",
+    "hr.2.4",
+    "hr.1.3",
+    "hr.2.14",
+    "inv.5.4",
+    "inv.7.2",
+    "inv.7.3",
+    "chg.3.3"
+   ],
+   "dupe": "hrhanson18chighcourtappealevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -9852,6 +9941,28 @@
     "hr.3.1"
    ],
    "dupe": "hrunexpertsshacklingandstripsearchbillsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - UN Rapporteur Blocked From Youth Jails Evidence Summary.pdf",
+   "name": "HR - UN Rapporteur Blocked From Youth Jails Evidence Summary",
+   "file": "HR - UN Rapporteur Blocked From Youth Jails Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211169,
+   "mtime": 1794170431,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.2",
+    "hr.2.1",
+    "hr.2.12",
+    "hr.3.1",
+    "crime.5.4",
+    "inv.6.2",
+    "inv.6.4"
+   ],
+   "dupe": "hrunrapporteurblockedfromyouthjailsevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -11375,6 +11486,28 @@
     "fam.2.4"
    ],
    "dupe": "year11ntyoungpeopledomesticviolenceaccesstojusticeevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - National E-bike Safety Standards Evidence Summary.pdf",
+   "name": "Year 11 - National E-bike Safety Standards Evidence Summary",
+   "file": "Year 11 - National E-bike Safety Standards Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211162,
+   "mtime": 1794170435,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "chg.1.3",
+    "chg.3.2",
+    "chg.6.1",
+    "chg.6.4",
+    "inv.5.2",
+    "inv.3.4",
+    "chg.4.2"
+   ],
+   "dupe": "year11nationalebikesafetystandardsevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -13847,6 +13980,25 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - NSW Short Stay Levy Proposal Evidence Summary.pdf",
+   "name": "Shelter - NSW Short Stay Levy Proposal Evidence Summary",
+   "file": "Shelter - NSW Short Stay Levy Proposal Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208406,
+   "mtime": 1794170432,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.4",
+    "shel.1.4",
+    "shel.2.2",
+    "chg.2.2"
+   ],
+   "dupe": "shelternswshortstaylevyproposalevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - Priced Out of Parenthood Sydney House Prices and Births Evidence Summary.pdf",
    "name": "Shelter - Priced Out of Parenthood Sydney House Prices and Births Evidence Summary",
    "file": "Shelter - Priced Out of Parenthood Sydney House Prices and Births Evidence Summary.pdf",
@@ -13915,9 +14067,9 @@
    "primary": true
   },
   {
-   "path": "Shelter/Evidence Sheets/Shelter - Short Stay Levy and Land Tax for Community Housing Evidence Summary.pdf",
-   "name": "Shelter - Short Stay Levy and Land Tax for Community Housing Evidence Summary",
-   "file": "Shelter - Short Stay Levy and Land Tax for Community Housing Evidence Summary.pdf",
+   "path": "Shelter/Evidence Sheets/Shelter - Short Stay Levy for Community Housing - Land Tax (6Nov26) Evidence Summary.pdf",
+   "name": "Shelter - Short Stay Levy for Community Housing - Land Tax (6Nov26) Evidence Summary",
+   "file": "Shelter - Short Stay Levy for Community Housing - Land Tax (6Nov26) Evidence Summary.pdf",
    "ext": "pdf",
    "bytes": 207646,
    "mtime": 1793909723,
@@ -13927,7 +14079,7 @@
     "shelter",
     "shel.3.4"
    ],
-   "dupe": "sheltershortstaylevyandlandtaxforcommunityhousingevidencesummary",
+   "dupe": "sheltershortstaylevyforcommunityhousinglandtax6nov26evidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -17125,6 +17277,30 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - Demerit Points Black Market Evidence Summary.pdf",
+   "name": "Crime - Demerit Points Black Market Evidence Summary",
+   "file": "Crime - Demerit Points Black Market Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207325,
+   "mtime": 1794170428,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.3",
+    "crime.4.2",
+    "crime.1.5",
+    "crime.1.6",
+    "crime.2.1",
+    "crime.3.1",
+    "crime.4.6",
+    "crime.1.8",
+    "chg.1.3"
+   ],
+   "dupe": "crimedemeritpointsblackmarketevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - Exercise App Stalking Evidence Summary.pdf",
    "name": "Crime - Exercise App Stalking Evidence Summary",
    "file": "Crime - Exercise App Stalking Evidence Summary.pdf",
@@ -17174,6 +17350,27 @@
     "crime.4.3"
    ],
    "dupe": "crimegriffithnswchildcareabusechargesevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Indigenous Jurors SA Report Evidence Summary.pdf",
+   "name": "Crime - Indigenous Jurors SA Report Evidence Summary",
+   "file": "Crime - Indigenous Jurors SA Report Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207133,
+   "mtime": 1794170427,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.3.9",
+    "crime.3.2",
+    "inv.1.4",
+    "inv.4.3",
+    "chg.1.6",
+    "chg.2.3"
+   ],
+   "dupe": "crimeindigenousjurorssareportevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -17259,6 +17456,26 @@
     "crime.3.1"
    ],
    "dupe": "crimenswprisoninquestsmentalhealthfailuresevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - NSW Prisons Mental Health Care Evidence Summary.pdf",
+   "name": "Crime - NSW Prisons Mental Health Care Evidence Summary",
+   "file": "Crime - NSW Prisons Mental Health Care Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207179,
+   "mtime": 1794170426,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.4.8",
+    "crime.3.1",
+    "crime.4.6",
+    "hr.2.4",
+    "hr.3.1"
+   ],
+   "dupe": "crimenswprisonsmentalhealthcareevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -17350,6 +17567,30 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - New Street Services Youth Sexual Harm Program Evidence Summary.pdf",
+   "name": "Crime - New Street Services Youth Sexual Harm Program Evidence Summary",
+   "file": "Crime - New Street Services Youth Sexual Harm Program Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210961,
+   "mtime": 1794170430,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.5.5",
+    "crime.5.1",
+    "crime.5.3",
+    "crime.1.8",
+    "crime.1.9",
+    "crime.4.2",
+    "crime.5.4",
+    "fam.3.4",
+    "chg.1.6"
+   ],
+   "dupe": "crimenewstreetservicesyouthsexualharmprogramevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - OConnell High Court Murder Conviction Restored Evidence Summary.pdf",
    "name": "Crime - OConnell High Court Murder Conviction Restored Evidence Summary",
    "file": "Crime - OConnell High Court Murder Conviction Restored Evidence Summary.pdf",
@@ -17379,6 +17620,28 @@
     "crime.3.9"
    ],
    "dupe": "crimeoconnellvdpphighcourtmurderconvictionreinstatedevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Offshore Fugitive Reward and Extradition Evidence Summary.pdf",
+   "name": "Crime - Offshore Fugitive Reward and Extradition Evidence Summary",
+   "file": "Crime - Offshore Fugitive Reward and Extradition Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211010,
+   "mtime": 1794170429,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.6.2",
+    "crime.2.4",
+    "crime.2.2",
+    "crime.2.3",
+    "crime.6.1",
+    "inv.6.2",
+    "inv.6.3"
+   ],
+   "dupe": "crimeoffshorefugitiverewardandextraditionevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -17533,6 +17796,29 @@
     "crime.3.7"
    ],
    "dupe": "crimevictoriacourtsecrecyreformsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Victorian Youth Rehabilitation Detention Pledge Evidence Summary.pdf",
+   "name": "Crime - Victorian Youth Rehabilitation Detention Pledge Evidence Summary",
+   "file": "Crime - Victorian Youth Rehabilitation Detention Pledge Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207858,
+   "mtime": 1794170427,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.5.4",
+    "crime.5.5",
+    "crime.5.1",
+    "crime.5.3",
+    "crime.2.5",
+    "crime.4.2",
+    "chg.1.6",
+    "chg.3.2"
+   ],
+   "dupe": "crimevictorianyouthrehabilitationdetentionpledgeevidencesummary",
    "copyOf": null,
    "primary": true
   },

@@ -2,21 +2,21 @@
 type: media
 title: NT and Queensland shut a UN expert out of youth detention (Amnesty International, 2 November 2026)
 short: UN rapporteur refused detention access
-citation: Evidence summaries of an Amnesty International Australia media release, 2 November 2026, Chloe Chomicki, ABC News, 4 November 2026, and Roxanne Fitzgerald, ABC News, 5 November 2026, on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)
-date: 2026-11-05
+citation: Evidence summaries of an Amnesty International Australia media release, 2 November 2026, Chloe Chomicki, ABC News, 4 November 2026, and Roxanne Fitzgerald, ABC News, 5 November 2026 (summarised 6 and 9 November), on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)
+date: 2026-11-09
 jurisdiction: UN Human Rights Council special procedures; Northern Territory and Queensland youth detention; Commonwealth answerable internationally
 significance: A UN expert invited to Australia was refused entry to two youth detention centres holding mostly First Nations children — the third UN access dispute since 2022.
 core: hr.2.2, hr.2.1
 support: hr.2.12, hr.3.1, hr.1.3, crime.5.4, crime.5.3, inv.6.2, inv.6.3, inv.6.4, inv.5.2, exp.4.1, exp.5.1
 themes: hr.t.sovereignty, hr.t.compliance, hr.t.effectiveness
 criteria: rights, enforceability, responsiveness
-document: Human Rights/HR - UN rapporteur refused detention access - NT scandal report Evidence Summary.pdf
+document: Human Rights/HR - UN Rapporteur Blocked From Youth Jails Evidence Summary.pdf
 document11: Preliminary/Year 11 - UN Rapporteur Refused Youth Detention Access Evidence Summary.pdf
-source: https://www.amnesty.org.au/un-special-rapporteur-refused-access-into-youth-detention-centres/
+source: https://www.abc.net.au/news/2026-11-05/united-nations-blocked-from-inspecting-darwin-youth-jail/107343550
 related: un-experts-custody-bills-2026, senate-youth-justice-inquiry-2026, croc-1989, young-offenders-in-the-cjs, qld-breach-bail-go-to-jail-2026
 added: 2026-11-04
 added_at: 2026-11-04 07:17
-updated_at: 2026-11-06 08:09
+updated_at: 2026-11-09 08:01
 ---
 
 The Special Rapporteur's official visit runs **2–13 November 2026**. The NT and Queensland refused planned visits to
@@ -58,6 +58,24 @@ Roxanne Fitzgerald's report accuses the NT government of hiding what is happenin
 - **Pattern**: the NT blocked the UN Working Group on Arbitrary Detention in December 2025; in 2022 the UN torture-prevention subcommittee ended its Australian visit after NSW and Queensland refused access. The NT lowered the minimum age of criminal responsibility to **10** in October 2024.
 - **Allegations in the article (unverified)**: Holtze recorded **127** detainee-on-detainee assaults, nine self-harm hospitalisations and two sexual assaults in its first year (from an earlier FOI-based ABC report, not retrieved), and spit hoods have been reintroduced. John Lawrence SC says the NT government has "a lot to hide" — an opinion, not a finding.
 - No Queensland government response appears in the ABC, AAP or Amnesty reports. A special rapporteur's access rests on consent and terms of reference, **not a treaty right of entry**; preliminary findings are due **13 November**.
+
+## International standards v what the NT and Queensland did (summary of 9 November 2026)
+
+A fuller class summary of the 5 November ABC report sets the governments' conduct against the standards they have accepted.
+
+| International expectation | NT / Queensland |
+|---|---|
+| Access to detention guaranteed under the terms of reference | Holtze and Cleveland tours cancelled |
+| Meetings with central and local officials | Requested meetings in the Torres Strait, Townsville and Darwin not held |
+| Detention of children as a last resort (2017 Rapporteur) | NT reforms and Queensland's 2024 laws remove "last resort" |
+| Age 10 below international standards (UN bodies) | NT lowered the age back to 10 (October 2024) |
+| Humane treatment (CROC art 37); the NPM opposes spit hoods | NT reintroduced spit hoods for children |
+| OPCAT: appoint, legislate and resource NPMs | NT Ombudsman is interim NPM; Queensland Ombudsman inspects youth centres |
+
+- **Access was given before**: the previous Rapporteur visited Cleveland in **2017**, so refusal is a change in practice.
+- **Government responses**: NT Corrections says independent oversight already exists; in December 2025 the NT minister cited
+  operational capacity, safety and workforce when refusing UN access. Queensland gave no reason but wished the Rapporteur well.
+- **Critics**: the HRLC says the Commonwealth should use levers such as funding.
 
 ## Use it for
 
