@@ -2,7 +2,7 @@
 type: media
 title: Indigenous people "very rarely" sit on SA juries, report finds (ABC, 7 November 2026)
 short: SA Indigenous jurors report
-citation: Evidence summary of Rachael Merritt, ABC News, 7 November 2026, reporting SALRI, The 'Many Knots' of a 'Jury of Your Peers' — Indigenous Juror Participation in South Australia (AIJA, September 2026); Juries Act 1927 (SA) ss 6, 8, 12; Jury Act 1977 (NSW) Sch 1
+citation: Evidence summaries (9 and 10 November 2026) of Rachael Merritt, ABC News, 7 November 2026, reporting SALRI, The 'Many Knots' of a 'Jury of Your Peers' — Indigenous Juror Participation in South Australia (AIJA, September 2026); Juries Act 1927 (SA) ss 6, 8, 12; Jury Act 1977 (NSW) Sch 1
 date: 2026-11-07
 jurisdiction: South Australia (Sheriff's Office, Supreme and District Courts); NSW compared
 significance: The jury is meant to be a jury of peers, yet Indigenous people are rarely offered jury service in SA. SALRI's 34 recommendations target the roll, criminal-history disqualification and cultural safety.
@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-07/indigneous-people-underrepresente
 related: role-of-juries, jury-act-1977, pele-v-r-2026, deaths-in-custody-since-1991
 added: 2026-11-09
 added_at: 2026-11-09 08:01
-updated_at: 2026-11-09 08:01
+updated_at: 2026-11-10 08:36
 ---
 
 The South Australian Law Reform Institute (SALRI) made **34 recommendations** to the SA Attorney-General (law stated at
@@ -36,6 +36,13 @@ Indigenous juror numbers. The Attorney-General says the government will respond 
 
 SALRI also recommends **cultural obligations** as a ground for excusal, but rejects automatic exemption. Barriers stack:
 each stage — roll, jury district, disqualification, summons, challenge — removes more Indigenous people.
+
+## Second summary (10 November 2026)
+
+A [second class summary of the ABC report](https://drive.google.com/file/d/1SRVqR8OmZPdEXNCnRbvDtOSGX6OsYzxY/view) adds prison figures: **890** Indigenous prisoners in SA, about
+**26%** of 3,416 (June 2025, calculated from ABS counts), and a national Indigenous imprisonment rate about **12.5 times** the
+non-Indigenous rate (Law Council). SALRI found the main barriers arise outside the courtroom, in how the jury pool is built
+and filtered.
 
 ## Use it for
 

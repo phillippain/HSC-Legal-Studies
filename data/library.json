@@ -3680,6 +3680,23 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - Country Lawyers and the DFV Crisis - Second Summary Evidence Summary.pdf",
+   "name": "Family - Country Lawyers and the DFV Crisis - Second Summary Evidence Summary",
+   "file": "Family - Country Lawyers and the DFV Crisis - Second Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207584,
+   "mtime": 1794259337,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.4",
+    "fam.2.6"
+   ],
+   "dupe": "familycountrylawyersandthedfvcrisissecondsummaryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Family - Country Lawyers and the DFV Crisis Evidence Summary.pdf",
    "name": "Family - Country Lawyers and the DFV Crisis Evidence Summary",
    "file": "Family - Country Lawyers and the DFV Crisis Evidence Summary.pdf",
@@ -3763,6 +3780,23 @@
     "fam.3.3"
    ],
    "dupe": "familyinformalspermdonationturkeybasterevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Family/Evidence Summaries/Family - Katherine Courthouse Fence and DV Safety Evidence Summary.pdf",
+   "name": "Family - Katherine Courthouse Fence and DV Safety Evidence Summary",
+   "file": "Family - Katherine Courthouse Fence and DV Safety Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208178,
+   "mtime": 1794259338,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.4",
+    "fam.2.5"
+   ],
+   "dupe": "familykatherinecourthousefenceanddvsafetyevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -3980,6 +4014,23 @@
     "fam.2.4"
    ],
    "dupe": "familytasmaniafamilyviolencedefinitionevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Family/Evidence Summaries/Family - WA Indigenous Child Protection Port Hedland Evidence Summary.pdf",
+   "name": "Family - WA Indigenous Child Protection Port Hedland Evidence Summary",
+   "file": "Family - WA Indigenous Child Protection Port Hedland Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 212734,
+   "mtime": 1794259338,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.3.4",
+    "fam.1.5"
+   ],
+   "dupe": "familywaindigenouschildprotectionporthedlandevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4656,6 +4707,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf",
+   "name": "Year 11 - Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary",
+   "file": "Year 11 - Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271533,
+   "mtime": 1794259800,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.7",
+    "dis.1.5",
+    "dis.1.8"
+   ],
+   "dupe": "year11blackvrtrautschvr2026nswcca185casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Boleno & Newcombe [2026] FedCFamC1A 191 - Case Summary.pdf",
    "name": "Year 11 - Boleno & Newcombe [2026] FedCFamC1A 191 - Case Summary",
    "file": "Year 11 - Boleno & Newcombe [2026] FedCFamC1A 191 - Case Summary.pdf",
@@ -4702,6 +4771,26 @@
     "dis.1.8"
    ],
    "dupe": "year11bunningvcross1978hca22casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Cai v Trip A Deal Pty Ltd [2026] NSWCATCD 135 - Case Summary.pdf",
+   "name": "Year 11 - Cai v Trip A Deal Pty Ltd [2026] NSWCATCD 135 - Case Summary",
+   "file": "Year 11 - Cai v Trip A Deal Pty Ltd [2026] NSWCATCD 135 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 265972,
+   "mtime": 1794259800,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.4",
+    "dis.2.5",
+    "dis.2.2",
+    "dis.2.3",
+    "dis.2.7"
+   ],
+   "dupe": "year11caivtripadealptyltd2026nswcatcd135casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5068,6 +5157,25 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - LB v R [2026] NSWDC 405 - Case Summary.pdf",
+   "name": "Year 11 - LB v R [2026] NSWDC 405 - Case Summary",
+   "file": "Year 11 - LB v R [2026] NSWDC 405 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 267062,
+   "mtime": 1794259800,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.4",
+    "dis.1.5",
+    "dis.1.6",
+    "dis.1.8"
+   ],
+   "dupe": "year11lbvr2026nswdc405casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Large v R [2026] NSWCCA 175 - Case Summary.pdf",
    "name": "Year 11 - Large v R [2026] NSWCCA 175 - Case Summary",
    "file": "Year 11 - Large v R [2026] NSWCCA 175 - Case Summary.pdf",
@@ -5166,6 +5274,24 @@
     "inv.4.3"
    ],
    "dupe": "year11maryvonneandmaryvonne2026fedcfamc1f630casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Massen & Massen [2026] FedCFamC1A 200 - Case Summary.pdf",
+   "name": "Year 11 - Massen & Massen [2026] FedCFamC1A 200 - Case Summary",
+   "file": "Year 11 - Massen & Massen [2026] FedCFamC1A 200 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 288568,
+   "mtime": 1794259800,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "dis.2.8",
+    "dis.2.7"
+   ],
+   "dupe": "year11massenmassen2026fedcfamc1a200casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5335,6 +5461,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - R v RK [2026] NSWSC 1414 - Case Summary.pdf",
+   "name": "Year 11 - R v RK [2026] NSWSC 1414 - Case Summary",
+   "file": "Year 11 - R v RK [2026] NSWSC 1414 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 273348,
+   "mtime": 1794259800,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.7",
+    "dis.1.5",
+    "dis.1.8"
+   ],
+   "dupe": "year11rvrk2026nswsc1414casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - R v Schade [2026] NSWSC 1345 - Case Summary.pdf",
    "name": "Year 11 - R v Schade [2026] NSWSC 1345 - Case Summary",
    "file": "Year 11 - R v Schade [2026] NSWSC 1345 - Case Summary.pdf",
@@ -5464,6 +5608,25 @@
     "dis.2.5"
    ],
    "dupe": "year11roggeandlooschildsupport2026arta2605casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - SafeWork NSW v AJ Bristow & Sons Pty Limited (No 3) [2026] NSWIC 68 - Case Summary.pdf",
+   "name": "Year 11 - SafeWork NSW v AJ Bristow & Sons Pty Limited (No 3) [2026] NSWIC 68 - Case Summary",
+   "file": "Year 11 - SafeWork NSW v AJ Bristow & Sons Pty Limited (No 3) [2026] NSWIC 68 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 276505,
+   "mtime": 1794259800,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.3",
+    "dis.1.4",
+    "dis.1.5",
+    "dis.1.1"
+   ],
+   "dupe": "year11safeworknswvajbristowsonsptylimitedno32026nswic68casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5742,6 +5905,24 @@
     "dis.2.7"
    ],
    "dupe": "year11warlandvhuang2023nswcatcd115casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Wick & Hopper [2026] FedCFamC1A 198 - Case Summary.pdf",
+   "name": "Year 11 - Wick & Hopper [2026] FedCFamC1A 198 - Case Summary",
+   "file": "Year 11 - Wick & Hopper [2026] FedCFamC1A 198 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271245,
+   "mtime": 1794259800,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "dis.2.4",
+    "dis.2.8"
+   ],
+   "dupe": "year11wickhopper2026fedcfamc1a198casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6722,6 +6903,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Massen & Massen [2026] FedCFamC1A 200 - Case Summary.pdf",
+   "name": "Massen & Massen [2026] FedCFamC1A 200 - Case Summary",
+   "file": "Massen & Massen [2026] FedCFamC1A 200 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 297025,
+   "mtime": 1794259800,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.3",
+    "fam.2.5",
+    "fam.1.1"
+   ],
+   "dupe": "massenmassen2026fedcfamc1a200casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/McFall and McFall [2026] FedCFamC1F 570 - Case Summary.pdf",
    "name": "McFall and McFall [2026] FedCFamC1F 570 - Case Summary",
    "file": "McFall and McFall [2026] FedCFamC1F 570 - Case Summary.pdf",
@@ -7320,6 +7519,25 @@
     "family"
    ],
    "dupe": "wannellluxford2026fedcfamc2f930",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Wick & Hopper [2026] FedCFamC1A 198 - Case Summary.pdf",
+   "name": "Wick & Hopper [2026] FedCFamC1A 198 - Case Summary",
+   "file": "Wick & Hopper [2026] FedCFamC1A 198 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 302093,
+   "mtime": 1794259800,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.5",
+    "fam.2.2",
+    "fam.3.2",
+    "fam.2.4"
+   ],
+   "dupe": "wickhopper2026fedcfamc1a198casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8116,6 +8334,26 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf",
+   "name": "Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary",
+   "file": "Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 296448,
+   "mtime": 1794259800,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.5",
+    "crime.4.1",
+    "crime.4.6",
+    "crime.2.1"
+   ],
+   "dupe": "blackvrtrautschvr2026nswcca185casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Brooker v R [2026] NSWCCA 181 - Case Summary.pdf",
    "name": "Brooker v R [2026] NSWCCA 181 - Case Summary",
    "file": "Brooker v R [2026] NSWCCA 181 - Case Summary.pdf",
@@ -8409,6 +8647,26 @@
     "crime.4.3"
    ],
    "dupe": "klomfarvr2019nswcca61casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/LB v R [2026] NSWDC 405 - Case Summary.pdf",
+   "name": "LB v R [2026] NSWDC 405 - Case Summary",
+   "file": "LB v R [2026] NSWDC 405 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 289413,
+   "mtime": 1794259800,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7",
+    "crime.3.6",
+    "crime.5.3",
+    "crime.2.3",
+    "crime.4.5"
+   ],
+   "dupe": "lbvr2026nswdc405casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8806,6 +9064,27 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/R v RK [2026] NSWSC 1414 - Case Summary.pdf",
+   "name": "R v RK [2026] NSWSC 1414 - Case Summary",
+   "file": "R v RK [2026] NSWSC 1414 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 302449,
+   "mtime": 1794259800,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.5.4",
+    "crime.4.2",
+    "crime.4.3",
+    "crime.4.7",
+    "crime.6.1",
+    "crime.3.4"
+   ],
+   "dupe": "rvrk2026nswsc1414casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/R v Schade [2026] NSWSC 1345 - Case Summary.pdf",
    "name": "R v Schade [2026] NSWSC 1345 - Case Summary",
    "file": "R v Schade [2026] NSWSC 1345 - Case Summary.pdf",
@@ -8999,6 +9278,26 @@
     "crime.6.2"
    ],
    "dupe": "robertssmithvfairfaxmediano412023fca555casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/SafeWork NSW v AJ Bristow & Sons Pty Limited (No 3) [2026] NSWIC 68 - Case Summary.pdf",
+   "name": "SafeWork NSW v AJ Bristow & Sons Pty Limited (No 3) [2026] NSWIC 68 - Case Summary",
+   "file": "SafeWork NSW v AJ Bristow & Sons Pty Limited (No 3) [2026] NSWIC 68 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 299450,
+   "mtime": 1794259800,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.1.3",
+    "crime.3.6",
+    "crime.3.1",
+    "crime.1.7",
+    "crime.4.3"
+   ],
+   "dupe": "safeworknswvajbristowsonsptylimitedno32026nswic68casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -9963,6 +10262,23 @@
     "inv.6.4"
    ],
    "dupe": "hrunrapporteurblockedfromyouthjailsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - UN Rapporteur Refused Detention Access - 10Nov26 Summary Evidence Summary.pdf",
+   "name": "HR - UN Rapporteur Refused Detention Access - 10Nov26 Summary Evidence Summary",
+   "file": "HR - UN Rapporteur Refused Detention Access - 10Nov26 Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209183,
+   "mtime": 1794259335,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.2",
+    "hr.2.1"
+   ],
+   "dupe": "hrunrapporteurrefuseddetentionaccess10nov26summaryevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -13844,6 +14160,23 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - Anglicare Essential Workers Rental Snapshot - WA Follow-up Evidence Summary.pdf",
+   "name": "Shelter - Anglicare Essential Workers Rental Snapshot - WA Follow-up Evidence Summary",
+   "file": "Shelter - Anglicare Essential Workers Rental Snapshot - WA Follow-up Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209123,
+   "mtime": 1794259336,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "shel.3.1",
+    "shel.2.2"
+   ],
+   "dupe": "shelteranglicareessentialworkersrentalsnapshotwafollowupevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - Anglicare Essential Workers Rental Snapshot Evidence Summary.pdf",
    "name": "Shelter - Anglicare Essential Workers Rental Snapshot Evidence Summary",
    "file": "Shelter - Anglicare Essential Workers Rental Snapshot Evidence Summary.pdf",
@@ -13995,6 +14328,41 @@
     "chg.2.2"
    ],
    "dupe": "shelternswshortstaylevyproposalevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Older Women Co-housing Darra - Second Summary Evidence Summary.pdf",
+   "name": "Shelter - Older Women Co-housing Darra - Second Summary Evidence Summary",
+   "file": "Shelter - Older Women Co-housing Darra - Second Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208768,
+   "mtime": 1794191840,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.4",
+    "shel.1.2"
+   ],
+   "dupe": "shelterolderwomencohousingdarrasecondsummaryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Older Women Co-housing Darra Evidence Summary.pdf",
+   "name": "Shelter - Older Women Co-housing Darra Evidence Summary",
+   "file": "Shelter - Older Women Co-housing Darra Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209325,
+   "mtime": 1794259336,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.4",
+    "shel.1.2",
+    "shel.3.1"
+   ],
+   "dupe": "shelterolderwomencohousingdarraevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -17226,6 +17594,25 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - BOCSAR Police Diversion Disparities Evidence Summary.pdf",
+   "name": "Crime - BOCSAR Police Diversion Disparities Evidence Summary",
+   "file": "Crime - BOCSAR Police Diversion Disparities Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207430,
+   "mtime": 1794259339,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.5.5",
+    "crime.2.1",
+    "crime.5.4",
+    "crime.1.8"
+   ],
+   "dupe": "crimebocsarpolicediversiondisparitiesevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - Bondi Attack False Injury Claim Charge Evidence Summary.pdf",
    "name": "Crime - Bondi Attack False Injury Claim Charge Evidence Summary",
    "file": "Crime - Bondi Attack False Injury Claim Charge Evidence Summary.pdf",
@@ -17715,6 +18102,24 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - R v RK [2026] NSWSC 1414 Teen Terror Plan CCO Evidence Summary.pdf",
+   "name": "Crime - R v RK [2026] NSWSC 1414 Teen Terror Plan CCO Evidence Summary",
+   "file": "Crime - R v RK [2026] NSWSC 1414 Teen Terror Plan CCO Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206956,
+   "mtime": 1794259333,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.5.4",
+    "crime.4.2",
+    "crime.4.7"
+   ],
+   "dupe": "crimervrk2026nswsc1414teenterrorplanccoevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - Russell Manslaughter Sentencing Hearing Evidence Summary.pdf",
    "name": "Crime - Russell Manslaughter Sentencing Hearing Evidence Summary",
    "file": "Crime - Russell Manslaughter Sentencing Hearing Evidence Summary.pdf",
@@ -17729,6 +18134,22 @@
     "crime.3.9"
    ],
    "dupe": "crimerussellmanslaughtersentencinghearingevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - SA Indigenous Jurors Report - SALRI Second Summary Evidence Summary.pdf",
+   "name": "Crime - SA Indigenous Jurors Report - SALRI Second Summary Evidence Summary",
+   "file": "Crime - SA Indigenous Jurors Report - SALRI Second Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208142,
+   "mtime": 1794259334,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.3.9"
+   ],
+   "dupe": "crimesaindigenousjurorsreportsalrisecondsummaryevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -17836,6 +18257,25 @@
     "crime.2.3"
    ],
    "dupe": "crimewapolicefacialrecognitiontrialevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Wagga DV Murder Accessories Bail Evidence Summary.pdf",
+   "name": "Crime - Wagga DV Murder Accessories Bail Evidence Summary",
+   "file": "Crime - Wagga DV Murder Accessories Bail Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208406,
+   "mtime": 1794259334,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.5",
+    "crime.1.7",
+    "crime.2.4",
+    "fam.2.4"
+   ],
+   "dupe": "crimewaggadvmurderaccessoriesbailevidencesummary",
    "copyOf": null,
    "primary": true
   },

@@ -16,7 +16,7 @@ source: https://www.abc.net.au/news/2026-11-05/united-nations-blocked-from-inspe
 related: un-experts-custody-bills-2026, senate-youth-justice-inquiry-2026, croc-1989, young-offenders-in-the-cjs, qld-breach-bail-go-to-jail-2026
 added: 2026-11-04
 added_at: 2026-11-04 07:17
-updated_at: 2026-11-09 08:01
+updated_at: 2026-11-10 08:36
 ---
 
 The Special Rapporteur's official visit runs **2–13 November 2026**. The NT and Queensland refused planned visits to
@@ -76,6 +76,12 @@ A fuller class summary of the 5 November ABC report sets the governments' conduc
 - **Government responses**: NT Corrections says independent oversight already exists; in December 2025 the NT minister cited
   operational capacity, safety and workforce when refusing UN access. Queensland gave no reason but wished the Rapporteur well.
 - **Critics**: the HRLC says the Commonwealth should use levers such as funding.
+
+## Another summary (10 November 2026)
+
+A [further class summary of the 5 November ABC report](https://drive.google.com/file/d/1carJR_ffyzU94SSDwVeywpXLRB5DR6Yu/view) counts **three** UN monitoring visits obstructed since 2022 —
+the Subcommittee on Prevention of Torture, the Working Group on Arbitrary Detention and now the Special Rapporteur — and
+stresses that his powers come from cooperation, not compulsion.
 
 ## Use it for
 
