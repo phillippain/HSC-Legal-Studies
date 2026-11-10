@@ -12,6 +12,8 @@ criteria: responsiveness, rights, justice, ruleoflaw
 source: https://www.parliament.nsw.gov.au/tp/files/47069/r133.pdf
 related: bail-act-2013, r-v-fesus-2014, lindt-siege-inquest-findings-2017
 added: 2026-10-29
+added_at: 2026-11-10 12:04
+updated_at: 2026-11-10 12:04
 ---
 
 The Attorney General referred bail law to the Commission on **8 June 2011**. The Commission received 40 submissions, held 19 consultation meetings and reported in **April 2012**, concluding that a new, simplified Bail Act was required (para 0.1).

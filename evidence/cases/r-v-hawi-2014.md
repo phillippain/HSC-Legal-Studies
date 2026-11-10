@@ -12,6 +12,8 @@ criteria: responsiveness, rights, society, enforceability
 source: https://www.abc.net.au/news/2014-06-23/bikie-boss-mick-hawi-granted-bail-airport-brawl-murder-retrial/5544126
 related: bail-act-2013, r-v-fesus-2014, nswlrc-report-133-bail-2012
 added: 2026-10-29
+added_at: 2026-11-10 12:04
+updated_at: 2026-11-10 12:04
 ---
 
 **Mahmoud ('Mick') Hawi**, a former president of the Comanchero Motorcycle Club's Sydney chapter, was convicted by a jury in 2011 of the murder of Anthony Zervas in the Sydney Airport brawl of 22 March 2009. He appealed and the Court of Criminal Appeal divided, so a retrial was ordered.

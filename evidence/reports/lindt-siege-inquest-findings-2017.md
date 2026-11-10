@@ -13,6 +13,8 @@ criteria: responsiveness, enforceability, rights, society
 source: https://coroners.nsw.gov.au/documents/findings/2017/lindt_cafe_findings-and-recommendations.pdf
 related: bail-act-2013, nswlrc-report-133-bail-2012, r-v-fesus-2014
 added: 2026-10-29
+added_at: 2026-11-10 12:04
+updated_at: 2026-11-10 12:04
 ---
 
 Man Haron Monis took hostages in the Lindt Chocolat Café, Martin Place, at about 9.41 am on **15 December 2014**; the siege ended about 2.13 am on **16 December**. Hostages Tori Johnson and Katrina Dawson and Monis died. He was on bail when it began.

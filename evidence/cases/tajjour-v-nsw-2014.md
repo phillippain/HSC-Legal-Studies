@@ -13,6 +13,8 @@ criteria: rights, society, ruleoflaw, enforceability
 source: https://www.hcourt.gov.au/cases/case_s154-2013
 related: lees-and-jarrett-protest-powers, r-v-rondo-2001, nsw-organised-crime-reforms-2026
 added: 2026-10-30
+added_at: 2026-11-10 12:04
+updated_at: 2026-11-10 12:04
 ---
 
 **Crimes Act 1900 (NSW) s 93X** (2012) makes it an offence to *habitually consort* with convicted offenders after an official police warning (maximum 3 years). Three people charged with consorting challenged the law in the High Court.

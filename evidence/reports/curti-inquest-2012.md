@@ -13,6 +13,8 @@ criteria: rights, enforceability, ruleoflaw, responsiveness
 source: https://www.sydneycriminallawyers.com.au/blog/nsw-police-spend-1-2-million-defending-officers-thuggish-behaviour/
 related: kristian-white-clare-nowland, lepra-2002
 added: 2026-10-30
+added_at: 2026-11-10 12:04
+updated_at: 2026-11-10 12:04
 ---
 
 **Roberto Laudisio Curti**, a 21-year-old Brazilian student, died in the Sydney CBD on 18 March 2012 after a pursuit by police over the theft of two packets of biscuits. He was unarmed and affected by LSD. Officers tasered him repeatedly (including in 'drive stun' mode while he was held on the ground), used capsicum spray and handcuffs.

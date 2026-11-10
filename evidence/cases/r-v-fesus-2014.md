@@ -12,6 +12,8 @@ criteria: responsiveness, rights, society, justice
 source: https://www.illawarramercury.com.au/story/2355609/accused-wife-killer-steve-fesus-granted-bail/
 related: bail-act-2013, r-v-hawi-2014, nswlrc-report-133-bail-2012, lindt-siege-inquest-findings-2017
 added: 2026-10-29
+added_at: 2026-11-10 12:04
+updated_at: 2026-11-10 12:04
 ---
 
 **Steven (Steve) Fesus** was charged in July 2013 with murdering his wife, Jodie, who went missing from their Shellharbour home in 1997; her remains were found about five weeks later in a shallow grave near Gerroa.

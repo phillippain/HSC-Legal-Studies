@@ -13,6 +13,8 @@ criteria: rights, ruleoflaw, enforceability, justice
 source: https://www.austlii.edu.au/au/other/IndigLRes/rciadic/
 related: lepra-2002, custody-notification-service
 added: 2026-10-30
+added_at: 2026-11-10 12:04
+updated_at: 2026-11-10 12:04
 ---
 
 On 27 April 1989 members of the Special Weapons and Operations Section raided a house in Marrickville before dawn, looking for John Porter, who was wanted for shooting police officers. Porter was not there. **David Gundy**, an Aboriginal man asleep in his bedroom with his young son, was shot dead by police.

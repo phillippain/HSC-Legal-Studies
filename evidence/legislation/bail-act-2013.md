@@ -14,7 +14,7 @@ document: Crime/Bail or Remand & the presumption of innocence.pdf
 related: nswlrc-report-133-bail-2012, r-v-fesus-2014, r-v-hawi-2014, lindt-siege-inquest-findings-2017
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-2013-026
 added: 2026-10-20
-updated_at: 2026-10-24 21:54
+updated_at: 2026-11-10 12:04
 ---
 
 ## How a decision is made

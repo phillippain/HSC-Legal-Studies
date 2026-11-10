@@ -13,6 +13,8 @@ criteria: rights, enforceability, resource, justice
 source: https://www.abc.net.au/news/
 related: crimes-forensic-procedures-act-2000, farah-jama-2009, r-v-white-2005
 added: 2026-10-30
+added_at: 2026-11-10 12:04
+updated_at: 2026-11-10 12:04
 ---
 
 In January 1999 a 91-year-old woman, Rita Knight, was raped and assaulted in her home in Wee Waa, in north-west NSW. In **April 2000** police asked every man in the town aged 18 to 45 (about 600) to give a voluntary mouth swab for DNA comparison: Australia's first mass DNA screening.
