@@ -564,8 +564,6 @@ Human Rights/HR - Hanson 18C High Court Appeal Evidence Summary.pdf | hr.2.8, hr
 Human Rights/HR - UN Rapporteur Blocked From Youth Jails Evidence Summary.pdf | hr.2.2, hr.2.1, hr.2.12, hr.3.1, crime.5.4, inv.6.2, inv.6.4
 Shelter/Evidence Sheets/Shelter - NSW Short Stay Levy Proposal Evidence Summary.pdf | shel.3.4, shel.1.4, shel.2.2, chg.2.2
 Preliminary/Year 11 - National E-bike Safety Standards Evidence Summary.pdf | chg.1.3, chg.3.2, chg.6.1, chg.6.4, inv.5.2, inv.3.4, chg.4.2
-Cases/Crime/LB v R [2026] NSWDC 405 - Case Summary.pdf | crime.3.7, crime.3.6, crime.5.3, crime.2.3, crime.4.5
-Cases/Year 11/Year 11 - LB v R [2026] NSWDC 405 - Case Summary.pdf | dis.1.4, dis.1.5, dis.1.6, dis.1.8
 Cases/Crime/SafeWork NSW v AJ Bristow & Sons Pty Limited (No 3) [2026] NSWIC 68 - Case Summary.pdf | crime.1.3, crime.3.6, crime.3.1, crime.1.7, crime.4.3
 Cases/Year 11/Year 11 - SafeWork NSW v AJ Bristow & Sons Pty Limited (No 3) [2026] NSWIC 68 - Case Summary.pdf | dis.1.3, dis.1.4, dis.1.5, dis.1.1
 Cases/Crime/Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf | crime.4.3, crime.4.5, crime.4.1, crime.4.6, crime.2.1
@@ -588,3 +586,32 @@ Human Rights/HR - UN Rapporteur Refused Detention Access - 10Nov26 Summary Evide
 Shelter/Evidence Sheets/Shelter - Anglicare Essential Workers Rental Snapshot - WA Follow-up Evidence Summary.pdf | shel.3.1, shel.2.2
 Shelter/Evidence Sheets/Shelter - Older Women Co-housing Darra Evidence Summary.pdf | shel.3.4, shel.1.2, shel.3.1
 Shelter/Evidence Sheets/Shelter - Older Women Co-housing Darra - Second Summary Evidence Summary.pdf | shel.3.4, shel.1.2
+Cases/Crime/LB v R [2026] NSWDC 405 - Case Summary.pdf | crime.3.7, crime.3.6, crime.5.3, crime.2.3, crime.4.5
+Cases/Year 11/Year 11 - LB v R [2026] NSWDC 405 - Case Summary.pdf | dis.1.4, dis.1.5, dis.1.6, dis.1.8
+Cases/Crime/R v Binge [2026] NSWDC 409 - Case Summary.pdf | crime.4.3, crime.4.1, crime.4.2, crime.4.8, crime.1.5
+Cases/Year 11/Year 11 - R v Binge [2026] NSWDC 409 - Case Summary.pdf | dis.1.7, dis.1.5, dis.1.8
+Cases/Crime/R v DL [2026] NSWDC 406 - Case Summary.pdf | crime.4.3, crime.4.1, crime.4.4, crime.4.8, crime.3.9
+Cases/Year 11/Year 11 - R v DL [2026] NSWDC 406 - Case Summary.pdf | dis.1.7, dis.1.6, dis.1.8
+Cases/Human Rights/2217075 (Refugee) [2026] ARTA 2676 - Case Summary.pdf | hr.3.1, hr.2.9, hr.2.11, hr.1.2
+Cases/Year 11/Year 11 - 2217075 (Refugee) [2026] ARTA 2676 - Case Summary.pdf | exp.4.1, exp.5.1, exp.5.3, exp.4.3, exp.6.1
+Cases/Human Rights/2305552 (Refugee) [2026] ARTA 2673 - Case Summary.pdf | hr.3.1, hr.2.9, hr.2.11, hr.2.1
+Cases/Year 11/Year 11 - 2305552 (Refugee) [2026] ARTA 2673 - Case Summary.pdf | exp.5.1, exp.5.3, exp.4.1, exp.6.2, exp.6.1, dis.3.4
+Cases/Human Rights/2552942 (Refugee) [2026] ARTA 2678 - Case Summary.pdf | hr.3.1, hr.2.9, hr.2.11, hr.2.1
+Cases/Year 11/Year 11 - 2552942 (Refugee) [2026] ARTA 2678 - Case Summary.pdf | exp.5.3, exp.5.1, exp.6.2, dis.3.4, dis.3.8
+Cases/Year 11/Year 11 - Peers v Eastern Health [2026] FCA 1677 - Case Summary.pdf | inv.4.1, inv.5.2, inv.5.1, inv.5.4, inv.4.5, dis.2.5, dis.3.4
+Crime/Media/Crime - BOCSAR CJB 282 (police diversion gap) - AAP Report Evidence Summary.pdf | crime.5.5, crime.2.1
+Crime/Media/Crime - Black v R; Trautsch v R [2026] NSWCCA 185 Police Assault Appeal Evidence Summary.pdf | crime.4.5, crime.4.3
+Human Rights/HR - Digital Duty of Care Bill - Google Privacy Warning Evidence Summary.pdf | hr.3.1, hr.2.9
+Human Rights/HR - UN Rapporteur Refused Detention Access - NITV 10Nov26 Evidence Summary.pdf | hr.2.2, hr.2.1
+Shelter/Evidence Sheets/Shelter - Older Women Co-housing Darra - Third Summary Evidence Summary.pdf | shel.3.4, shel.1.2
+Crime/Media/Crime - Casula School Stabbing Youth Charge Evidence Summary.pdf | crime.5.3, crime.2.5, crime.5.2, crime.1.9
+Crime/Media/Crime - Frontier AI Safety Regulator and Criminal Law Reform Evidence Summary.pdf | crime.1.7, crime.6.1, crime.6.2, chg.1.3
+Crime/Media/Crime - Tasmanian Nazi Salute Jail Sentence Evidence Summary.pdf | crime.4.2, crime.4.6, crime.1.6, hr.2.9
+Family/Evidence Summaries/Family - Tamworth DV Sentencing Son Assaulted Mother Evidence Summary.pdf | fam.2.4, crime.4.6, crime.4.3
+Family/Evidence Summaries/Family - Victoria Clares Law Pledge Evidence Summary.pdf | fam.2.4, fam.2.6, chg.3.2
+Shelter/Evidence Sheets/Shelter - Hunter Social Housing Waitlist Evidence Summary.pdf | shel.3.4, shel.3.1, shel.2.8
+Shelter/Evidence Sheets/Shelter - Mortgage Prison and Refinancing Evidence Summary.pdf | shel.2.1, shel.3.1
+Shelter/Evidence Sheets/Shelter - Northern Rivers Temporary Housing Villages Evidence Summary.pdf | shel.2.8, shel.3.3, shel.1.3, shel.1.4
+Shelter/Evidence Sheets/Shelter - REINSW Blames NSW Rental Reforms Evidence Summary.pdf | shel.2.2, shel.3.1, shel.2.3
+Shelter/Evidence Sheets/Shelter - Supportive Housing to End Rough Sleeping Evidence Summary.pdf | shel.3.3, shel.3.4, shel.1.2, shel.2.9
+Shelter/Evidence Sheets/Shelter - Victorian Underquoting Laws and Price Guides Evidence Summary.pdf | shel.2.1, shel.2.8

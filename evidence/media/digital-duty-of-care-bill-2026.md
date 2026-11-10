@@ -2,7 +2,7 @@
 type: media
 title: Digital duty of care bill: could Australians sue big tech? — passes the House; faith groups push for a right to sue (2026)
 short: Digital duty of care bill
-citation: HSC Legal Studies evidence summaries, 16 and 29 October and 9 November 2026 (the last on Paul Sakkal, The Sydney Morning Herald, 9 November 2026); built on ABC News of 15 and 28 October 2026 (federal politics live blog), AAP, the AHRC submission of 23 September 2026 and law firm analyses of the September 2026 exposure draft
+citation: HSC Legal Studies evidence summaries, 16 and 29 October and 9 and 11 November 2026 (on Paul Sakkal, The Sydney Morning Herald, and Sam Buckingham-Jones, The Australian Financial Review, both 9 November 2026); built on ABC News of 15 and 28 October 2026 (federal politics live blog), AAP, the AHRC submission of 23 September 2026 and law firm analyses of the September 2026 exposure draft
 date: 2026-11-09
 jurisdiction: Commonwealth
 significance: The bill would replace a reactive, complaints-based online safety scheme with one enforceable statutory duty, and the government is now open to letting victims of online harm sue.
@@ -14,7 +14,7 @@ document: Human Rights/HR - Digital Duty of Care Bill Right to Sue Evidence Summ
 source: https://www.smh.com.au/politics/federal/the-new-legal-weapon-aimed-at-big-tech-20261109-p61cbr.html
 related: ai-chatbots-children-digital-duty-2026, hanson-faruqi-18c-high-court-2026, online-safety-act-2021-and-social-media-minimum-age, croc-1989, technology-and-the-individual, kmart-camera-glasses-2026, human-rights-in-australia-common-law-courts-media-charter, law-reform-conditions-agencies-mechanisms, guardian-2026-gps-tracking
 added: 2026-10-16
-updated_at: 2026-11-09 08:01
+updated_at: 2026-11-11 08:07
 ---
 
 The *Online Safety Amendment (Digital Duty of Care) Bill 2026* (Cth) was introduced on **15 October
@@ -77,6 +77,14 @@ poll found **72%** support compensation for people harmed by platform content.
 - People can already sue in negligence or under the Australian Consumer Law, but without a specific statutory duty.
 - The **Royal Commission on Antisemitism and Social Cohesion** (final report due 18 December 2026) heard criticism of X and
   Telegram; these are not findings. eSafety recorded 27,581 illegal and restricted content complaints in 2025–26.
+
+## Google's privacy warning (AFR, 9 November 2026)
+
+At the Senate hearing on 9 November Google warned that proposed **s 27D** — age checks wherever children could foreseeably meet
+pornography — could reach **email and private file storage** such as Gmail and Drive. It sets children's protection (CROC arts 17,
+34) against the right to privacy of correspondence (ICCPR art 17). Failing s 27D carries up to **60,000 penalty units**; services
+must offer at least **two** age-assurance methods. The headline's "scan" is a conditional warning, not a plan, and the article has
+no government or eSafety response. [Class evidence summary](https://drive.google.com/file/d/1gIlpdX02-nfWgHWkfCjsajnzFr2jFppe/view).
 
 ## Use it for
 

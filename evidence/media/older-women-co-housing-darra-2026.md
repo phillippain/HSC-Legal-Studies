@@ -2,7 +2,7 @@
 type: media
 title: Australia-first co-housing gives older women secure homes at Darra, Brisbane (ABC, 9 November 2026)
 short: Older women co-housing Darra
-citation: Evidence summaries (9 and 10 November 2026) of Meghan Dansie and Lexy Hamilton-Smith, ABC News, 9 November 2026; Planning Act 2016 (Qld) and Planning Regulation 2017 (Qld) (rooming accommodation); Sex Discrimination Act 1984 (Cth) s 7D; Age Discrimination Act 2004 (Cth) s 33; State Environmental Planning Policy (Housing) 2021 (NSW)
+citation: Evidence summaries (9, 10 and 11 November 2026) of Meghan Dansie and Lexy Hamilton-Smith, ABC News, 9 November 2026; Planning Act 2016 (Qld) and Planning Regulation 2017 (Qld) (rooming accommodation); Sex Discrimination Act 1984 (Cth) s 7D; Age Discrimination Act 2004 (Cth) s 33; State Environmental Planning Policy (Housing) 2021 (NSW)
 date: 2026-11-09
 jurisdiction: Queensland (Brisbane City Council planning approval); Commonwealth anti-discrimination law; NSW compared
 significance: A charity's 50-year-lease model gives older women secure homes, but planning law has no co-housing category, so it was approved as a boarding house — law lagging behind a growing shelter need.
@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-09/queensland-sharing-friends-women-
 related: shelter-homelessness-evidence-sheet, abs-homelessness-census-2021, nsw-planning-law-shelter-sheet, commonwealth-discrimination-acts-housing, lydias-legacy-tiny-homes-planning-2026
 added: 2026-11-10
 added_at: 2026-11-10 08:36
-updated_at: 2026-11-10 08:36
+updated_at: 2026-11-11 08:07
 ---
 
 Five women moved into the first project of the charity **Sharing with Friends** (Older Women Co-Housing Association Qld). Each
@@ -39,6 +39,8 @@ The next project needs about **$200,000** per resident, excluding women with few
 
 A [second class summary of the same report](https://drive.google.com/file/d/12svJBmpQ7bEtMQ9orCPDtLI8ALfmmLOz/view) compares the model
 with the *Residential Tenancies and Rooming Accommodation Act 2008* and the *Retirement Villages Act 1999* (Qld).
+
+A [third class summary](https://drive.google.com/file/d/15Gjxle3eDz5TQUdwnmQ7ldCxUBtMWE2J/view) (prepared 11 November) covers the same ABC report.
 
 ## Use it for
 

@@ -16,7 +16,7 @@ source: https://www.abc.net.au/news/2026-11-05/united-nations-blocked-from-inspe
 related: un-experts-custody-bills-2026, senate-youth-justice-inquiry-2026, croc-1989, young-offenders-in-the-cjs, qld-breach-bail-go-to-jail-2026
 added: 2026-11-04
 added_at: 2026-11-04 07:17
-updated_at: 2026-11-10 08:36
+updated_at: 2026-11-11 08:07
 ---
 
 The Special Rapporteur's official visit runs **2–13 November 2026**. The NT and Queensland refused planned visits to
@@ -82,6 +82,13 @@ A fuller class summary of the 5 November ABC report sets the governments' conduc
 A [further class summary of the 5 November ABC report](https://drive.google.com/file/d/1carJR_ffyzU94SSDwVeywpXLRB5DR6Yu/view) counts **three** UN monitoring visits obstructed since 2022 —
 the Subcommittee on Prevention of Torture, the Working Group on Arbitrary Detention and now the Special Rapporteur — and
 stresses that his powers come from cooperation, not compulsion.
+
+## First Nations media coverage (NITV, 10 November 2026)
+
+Carli Willis's NITV report centres community and Social Justice Commissioner voices: **120** submissions from First Nations people
+came in before the visit, and communities called on the Prime Minister to step in. NT Parliament answers record **209** physical
+assaults at Holtze in 2025. The final report goes to the Human Rights Council in **September 2027**.
+[Class evidence summary of the NITV report](https://drive.google.com/file/d/1_YTkhro4VP6UM6LzGsAJjmc1BElC5vkP/view).
 
 ## Use it for
 

@@ -12,10 +12,10 @@ themes: crime.t.discretion, crime.t.moral, crime.t.balance, crime.t.compliance
 criteria: justice, ruleoflaw, enforceability
 document: Cases/Crime/Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf
-related: crimes-sentencing-procedure-act-1999, markarian-v-the-queen-2005, police-and-law-enforcement-agencies
+related: crimes-sentencing-procedure-act-1999, r-v-binge-2026, markarian-v-the-queen-2005, police-and-law-enforcement-agencies
 added: 2026-11-10
 added_at: 2026-11-10 08:36
-updated_at: 2026-11-10 08:36
+updated_at: 2026-11-11 08:07
 ---
 
 On 22 January 2023 two on-duty NSW police officers attended a woman in distress; they assaulted her and used OC spray, and
@@ -31,6 +31,13 @@ weapon. The District Court sentenced Black to **5 years 9 months** and Trautsch 
 | What sentences on resentencing? | Black **3 years 2 months** (non-parole 2 years 1 month); Trautsch **3 years** (non-parole 2 years) |
 
 Sentencing is an "instinctive synthesis" (*Markarian*); the appeal court corrects errors in how discretion is exercised.
+
+## In the media (ABC, 10 November 2026)
+
+Amy Greenbank's ABC report names the officers as **Nathan Black** and **Timothy Trautsch**, says the woman was in **psychosis**, and
+notes the assault lasted about **18 minutes** on body-worn video and CCTV; Black's non-parole period now ends 7 September 2027. It
+includes the family's reaction, but calls the head sentence a "maximum sentence".
+[Class evidence summary of the ABC report](https://drive.google.com/file/d/1zjKuf3xGv43lnUeVokGn1ss7iI1GaDfA/view).
 
 ## Use it for
 
