@@ -1,0 +1,470 @@
+{
+ "generated": "2026-11-04T07:24:15",
+ "today": "2026-11-04",
+ "window_start": "2026-11-02",
+ "basis": "the last digest (2026-11-03 09:16), looking back a day",
+ "site_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
+ "counts": {
+  "new": 6,
+  "updated": 3
+ },
+ "groups": [
+  {
+   "key": "crime",
+   "label": "Crime",
+   "part": "HSC Core Part I",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "lamarre-condon-murder-trial-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Ex-officer's double murder trial tests self-defence law (ABC, 3 November 2026)",
+     "short": "Lamarre-Condon murder trial",
+     "citation": "Evidence summary of Jamie McKinnell, ABC News, 3 November 2026, reporting R v Lamarre-Condon (NSW Supreme Court, Adams J, jury trial); Crimes Act 1900 (NSW) ss 18, 418–421",
+     "date": "2026-11-03",
+     "added": "2026-11-04",
+     "significance": "A former police officer accused of two murders with his service pistol runs self-defence: the Crown must disprove it beyond reasonable doubt, and excessive self-defence could reduce murder to manslaughter.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.3.8",
+      "crime.3.6",
+      "crime.3.9"
+     ],
+     "core_labels": [
+      "Defences to criminal charges",
+      "Burden and standard of proof",
+      "The role of juries, including verdicts"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lamarre-condon-murder-trial-2026",
+     "document": "Crime/Media/Crime - Lamarre-Condon Double Murder Trial Self-Defence Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1TiNOqw-2rZx-L9d1b-dXmtgQXtqUzOpN/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-03/beau-lamarre-condon-told-police-not-a-bad-person/107342440",
+     "lead": "Former NSW police officer **Beau Lamarre-Condon** has pleaded not guilty to the **murders** of Jesse Baird and Luke\nDavies, allegedly shot with his police pistol on 19 February 2024; he surrendered at Bondi four days later and has\nbeen in custody since. The jury trial is expected to run about three months. On 3 November a police officer's\nstatement of what the accused told police was read to the jury. **He is presumed innocent; nothing has been\ndecided.**",
+     "use_it_for": "- **crime.3.8 (defences)** — self-defence and excessive self-defence in a live jury trial; pair with *Zecevic*.\n- **crime.3.6** — the burden of disproof on the Crown.\n- **crime.3.9** — a jury deciding contested facts; reports differ on whether 12 or 15 jurors are sitting.",
+     "caution": "A **class evidence summary of one day of Crown evidence**; the defence case had not been heard. Treat the victims'\nfamilies with care. Check the verdict before using any outcome.",
+     "sections": {
+      "Crown v defence (as opened)": "| | Crown | Defence |\n|---|---|---|\n| Why he entered | Planned to kill Mr Baird after an alleged obsession | Went to collect belongings |\n| The pistol | Taken from a Balmain station locker on 16 February | Carried because protocol barred leaving it in a car |\n| Shootings | Three shots; Mr Davies killed to leave no witness | Two struggles over the gun, Mr Baird first with a knife |\n| Afterwards | Deliberate cover-up | Panic after the deaths |\n| Result sought | Murder, self-defence excluded beyond reasonable doubt | Not guilty — self-defence |",
+      "The law": "Self-defence (s 418) is a complete defence if the accused believed the conduct necessary and it was a reasonable\nresponse to the circumstances as perceived. Once raised, the **Crown must disprove it** beyond reasonable doubt\n(s 419). If the belief was genuine but the response unreasonable, **excessive self-defence** (s 421) reduces murder to\nmanslaughter. Agreed facts include the disguise and moving the bodies.",
+      "Use it for": "- **crime.3.8 (defences)** — self-defence and excessive self-defence in a live jury trial; pair with *Zecevic*.\n- **crime.3.6** — the burden of disproof on the Crown.\n- **crime.3.9** — a jury deciding contested facts; reports differ on whether 12 or 15 jurors are sitting.",
+      "Caution": "A **class evidence summary of one day of Crown evidence**; the defence case had not been heard. Treat the victims'\nfamilies with care. Check the verdict before using any outcome."
+     },
+     "path": "evidence/media/lamarre-condon-murder-trial-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "wanderers-fans-police-powers-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Wanderers chair calls police over-policing of fans unacceptable (ABC/AAP, 2 November 2026)",
+     "short": "Wanderers fans police powers",
+     "citation": "Evidence summary of AAP copy published by ABC News, 2 November 2026; LEPRA 2002 (NSW) Part 14 (directions) and s 21 (searches); Police Act 1990 (NSW) Part 8A complaints; LECC oversight",
+     "date": "2026-11-02",
+     "added": "2026-11-04",
+     "significance": "Fans say police ordered drums and banners surrendered and posted riot squad officers behind supporter bays — discretionary public order powers whose reasons are not public.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.1"
+     ],
+     "core_labels": [
+      "Police powers"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wanderers-fans-police-powers-2026",
+     "document": "Crime/Media/Crime - Wanderers Fans Police Powers Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/10lJWtepB2-wlc8EEmtGQ72Nw1O0pb9an/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-02/western-sydney-wanderers-chair-slams-police-over-fan-treatment/107338162",
+     "lead": "Western Sydney Wanderers chair **Paul Lederer** said police treatment of fans had reached a \"tipping point\". The Red\nand Black Bloc (RBB) held a **20-minute silent protest** at the 31 October match. As reported by the club and fans:\n\n| What police did | What the club and fans say |\n|---|---|\n| Directed the RBB to surrender drums, a megaphone and banners two hours before kick-off | Fans want equal treatment and common sense |\n| Up to 20 public order and riot squad officers behind supporter bays | No justification; intimidating for families |\n| Hundreds held outside the Sydney derby (16 October) for up to 30 minutes | Repeated issues all season |\n| No reason or legal power published | The club…",
+     "use_it_for": "- **crime.2.1** — discretionary police powers and the thresholds of reasonable belief and suspicion; who checks them.\n- **Balance** — public order against freedom of expression and assembly.",
+     "caution": "A **class evidence summary of a one-sided club statement**: NSW Police and the APL had not responded. All figures come\nfrom the club or the RBB; the powers used are inferred.",
+     "sections": {
+      "Use it for": "- **crime.2.1** — discretionary police powers and the thresholds of reasonable belief and suspicion; who checks them.\n- **Balance** — public order against freedom of expression and assembly.",
+      "Caution": "A **class evidence summary of a one-sided club statement**: NSW Police and the APL had not responded. All figures come\nfrom the club or the RBB; the powers used are inferred."
+     },
+     "path": "evidence/media/wanderers-fans-police-powers-2026.md",
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "humanrights",
+   "label": "Human Rights",
+   "part": "HSC Core Part II",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "hrw-sa-solitary-confinement-disability-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Human Rights Watch finds SA prisons isolate prisoners with disabilities (1 November 2026)",
+     "short": "HRW SA solitary confinement",
+     "citation": "Evidence summary of Human Rights Watch, 'They Just Locked Me Away: Solitary Confinement and Abuse of People with Disabilities in Prisons in the State of South Australia' (report and news release, 1 November 2026); Correctional Services Act 1982 (SA) ss 20–20G, 36; Mandela Rules 43–45; Convention against Torture; CRPD arts 9, 14",
+     "date": "2026-11-01",
+     "added": "2026-11-04",
+     "significance": "Twelve of 14 interviewees with psychosocial disabilities were held in solitary — an NGO measuring SA prison practice against the Mandela Rules before Australia's next UN torture review.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.2.12",
+      "hr.3.1"
+     ],
+     "core_labels": [
+      "The role of non-government organisations (Australia)",
+      "A contemporary issue illustrating the promotion and/or enforcement of human rights"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-hrw-sa-solitary-confinement-disability-2026",
+     "document": "Human Rights/HR - HRW Solitary Confinement Prisoners with Disabilities SA Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1GElPw1cBUC2XU-8oKPJRdEHj94RvbfbM/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.hrw.org/news/2026/11/02/australia-solitary-confinement-harming-prisoners-with-disabilities",
+     "lead": "HRW interviewed **42** people (June 2025 – June 2026) across nine SA prisons: **12 of 14** interviewees with psychosocial\ndisabilities had been held in solitary, **4** for 15 days or longer; a wheelchair user spent **8 days** without an\naccessible bathroom. SA publishes no data on prisoners with disabilities; the Department refused HRW access to two\nprisons and its reply is annexed.",
+     "use_it_for": "- **hr.2.12 (NGOs)** — research, a right of reply and a media launch timed before a UN review: the reach and limits of\n  non-legal measures.\n- **hr.3.1** — rights of prisoners with disability; set beside the NSW inquests and Queensland exemption cards.",
+     "caution": "A **class evidence summary of NGO advocacy research**; interview accounts are not independently tested.",
+     "sections": {
+      "UN standards v South Australia": "| | International standard | South Australia |\n|---|---|---|\n| Definition | Solitary = 22+ hours a day without meaningful contact (Rule 44) | \"Separation\"; s 36 sets no daily-hours test |\n| Duration | Over 15 consecutive days is prolonged and prohibited (Rules 43–44) | 30-day directions, extendable repeatedly, no cap |\n| Disability | Prohibited where it worsens a disability (Rule 45; CAT 2022) | No disability limit in the Act |\n| Review | Independent review, last resort | Chief Executive orders; Minister told after 5 days |\n| Oversight | Independent OPCAT mechanism | Official Visitors report to the Minister; DCS says they are not OPCAT |\n\nSection 36 requires a written direction within 24 hou…",
+      "Use it for": "- **hr.2.12 (NGOs)** — research, a right of reply and a media launch timed before a UN review: the reach and limits of\n  non-legal measures.\n- **hr.3.1** — rights of prisoners with disability; set beside the NSW inquests and Queensland exemption cards.",
+      "Caution": "A **class evidence summary of NGO advocacy research**; interview accounts are not independently tested."
+     },
+     "path": "evidence/media/hrw-sa-solitary-confinement-disability-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "un-rapporteur-refused-youth-detention-access-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "NT and Queensland shut a UN expert out of youth detention (Amnesty International, 2 November 2026)",
+     "short": "UN rapporteur refused detention access",
+     "citation": "Evidence summary of an Amnesty International Australia media release, 2 November 2026, on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)",
+     "date": "2026-11-02",
+     "added": "2026-11-04",
+     "significance": "A UN expert invited to Australia was refused entry to two youth detention centres holding mostly First Nations children — the third UN access dispute since 2022.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.2.2",
+      "hr.2.1"
+     ],
+     "core_labels": [
+      "The role of the United Nations",
+      "State sovereignty"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-un-rapporteur-refused-youth-detention-access-2026",
+     "document": "Human Rights/HR - UN Rapporteur Refused Youth Detention Access Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1_FL8EjEcTJKORAOgBTzlPYdOUNEQx3uQ/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.amnesty.org.au/un-special-rapporteur-refused-access-into-youth-detention-centres/",
+     "lead": "The Special Rapporteur's official visit runs **2–13 November 2026**. The NT and Queensland refused planned visits to\n**Holtze** and **Cleveland**, where about **97%** of children at Cleveland were Aboriginal and/or Torres Strait Islander at\ninspection. It is the second time in under a year the NT has blocked UN experts. First Nations young people are detained at **25.7 per 10,000** (2024–25), against a\nClosing the Gap target of a 30% fall by 2031; the Productivity Commission assesses no change.",
+     "use_it_for": "- **hr.2.2 / hr.2.1** — UN monitoring inside a sovereign, federal state; the Commonwealth answers internationally for\n  detention run by states and territories.\n- **Year 11 (the global legal system)** — state sovereignty and the UN's role.",
+     "caution": "A **class evidence summary of an NGO advocacy release**; no government explanation is included.",
+     "sections": {
+      "What the mandate asks v what happened": "| UN terms of reference | November 2026 |\n|---|---|\n| Access to all places of detention | Holtze and Cleveland visits refused |\n| Confidential contact with detainees | No in-centre contact with children |\n| Contact with authorities in every branch | NT and Qld refused to engage, the Rapporteur says |\n| Freedom of movement | Visit otherwise proceeding |\n| Findings reported to the Human Rights Council | Precedent: the WGAD relied on public reports for the NT |\n\nThe terms of reference are UN guidelines, not a treaty: visits depend on the state's invitation and cooperation.",
+      "Use it for": "- **hr.2.2 / hr.2.1** — UN monitoring inside a sovereign, federal state; the Commonwealth answers internationally for\n  detention run by states and territories.\n- **Year 11 (the global legal system)** — state sovereignty and the UN's role.",
+      "Caution": "A **class evidence summary of an NGO advocacy release**; no government explanation is included."
+     },
+     "path": "evidence/media/un-rapporteur-refused-youth-detention-access-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "guardian-2026-reddit-high-court-social-media-ban",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Reddit and the Digital Freedom Project take the under-16s social media ban to the High Court (The Guardian, 3 November 2026)",
+     "short": "Reddit v under-16s ban (High Court)",
+     "citation": "Evidence summary of Josh Taylor, The Guardian Australia, 3 November 2026, on Reddit, Inc v Commonwealth (S166/2025) and Digital Freedom Project Incorporated v Commonwealth (S163/2025), heard 3 and 4 November 2026; read with Part 4A of the Online Safety Act 2021 (Cth) and eSafety's March 2026 survey",
+     "date": "2026-11-04",
+     "added": "2026-11-03",
+     "significance": "Reddit and a libertarian group ask the High Court to strike down the under-16s social media ban, testing whether an implied freedom, not a bill of rights, can check a law protecting children.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.2.8",
+      "hr.3.1"
+     ],
+     "core_labels": [
+      "The role of the Constitution",
+      "A contemporary issue illustrating the promotion and/or enforcement of human rights"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-guardian-2026-reddit-high-court-social-media-ban",
+     "document": "Human Rights/HR - Reddit v under-16s ban (High Court) - hearing Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1oomZ2bUejYXU40zq5yRa_QUye82SiWAY/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.theguardian.com/australia-news/2026/nov/03/reddit-and-libertarian-group-challenge-australias-under-16s-social-media-ban-in-high-court",
+     "lead": "The first major legal challenge to the under-16s social media ban was heard in the High Court on **3 and 4 November 2026**. Australia has no guaranteed right to free speech, so both challengers rely on the **implied freedom of political communication**: they say stopping under-16s holding accounts burdens political communication, and the Commonwealth says the law serves a legitimate purpose, reducing harm from features such as algorithms, infinite scroll and notifications. **No decision has been made.**",
+     "use_it_for": "- **hr.2.8 The role of the Constitution**: no bill of rights, an implied freedom made by judges, and a court asked to weigh a new community value (child safety online) against it. Fits HSC 2024 Q22 (the Constitution and changing values); the summary's exemplar paragraph answers it.\n- **hr.3.1 A contemporary issue**, with hr.2.11 (courts) and hr.2.9 (statute law); also compliance, as eSafety investigates five platforms.",
+     "caution": "A preview of an **undecided case**, not a judgment: update this record when the Court rules. The parties' submissions could not be opened, so their arguments are as reported. Read from a saved copy of the Guardian article. The tests come from secondary summaries; check the High Court's reasons before quoting them.",
+     "sections": {
+      "The two challenges": "| | Reddit | Digital Freedom Project (led by NSW Libertarian MP John Ruddick) |\n|---|---|---|\n| Argument | Platforms are a common source of political information; teens could not post, comment or react on politics | Adopts much the same argument on the burden on political communication |\n| Hurdle | Whether the burden is justified | The Commonwealth says the group has **no standing**: it has not identified any activity of its own that is impeded. Its two teenage plaintiffs withdrew in July |",
+      "How the court decides": "An implied-freedom case asks, in turn: is there a burden on political communication; is the law's purpose legitimate; is it suitable, necessary and adequate in balance (the structured proportionality test from *McCloy v NSW* (2015)). Commentators are divided: Prof Anne Twomey saw a possible mismatch between purpose and effect; Prof Luke Beck expected the challenges to fail.",
+      "The numbers, checked": "- **Ten** platforms had to restrict under-16 accounts from **10 December 2025**. The Prime Minister says more than **5 million** accounts were suspended; eSafety reported about **4.7 million** by mid-December 2025. These count accounts, not children.\n- eSafety's March 2026 survey found the share of under-16s holding an account fell from **52.4% to 42.1%**: a modest but real fall, and evidence for both sides on whether the ban works.\n- The maximum penalty was doubled from **$49.5 million to $99 million** by an Act assented to on 11 September 2026; the Guardian's \"nearly $100m\" is consistent.\n- The government says the **digital duty of care** bill would \"require the same action\"; the bill is s…",
+      "The hearing (3–4 November 2026, ABC)": "All seven justices heard the joined special case; state and territory attorneys-general intervened for the\nCommonwealth.\n\n| | Challengers (Reddit, Digital Freedom Project) | Commonwealth and states |\n|---|---|---|\n| Burden | Stops young people speaking, organising and reaching audiences cheaply | Indirect and modest |\n| Whose freedom | Serious for a group without the vote | The freedom protects electors' communication |\n| Purpose | Accept protecting young people is legitimate | Protects children from engagement-driven features |\n| Effectiveness | Under-16s evade age checks; content still viewable logged out | Rules are consultative, targeted, adjustable |\n| Reddit's status | Seeks a declarat…",
+      "Use it for": "- **hr.2.8 The role of the Constitution**: no bill of rights, an implied freedom made by judges, and a court asked to weigh a new community value (child safety online) against it. Fits HSC 2024 Q22 (the Constitution and changing values); the summary's exemplar paragraph answers it.\n- **hr.3.1 A contemporary issue**, with hr.2.11 (courts) and hr.2.9 (statute law); also compliance, as eSafety investigates five platforms.",
+      "Caution": "A preview of an **undecided case**, not a judgment: update this record when the Court rules. The parties' submissions could not be opened, so their arguments are as reported. Read from a saved copy of the Guardian article. The tests come from secondary summaries; check the High Court's reasons before quoting them."
+     },
+     "path": "evidence/media/guardian-2026-reddit-high-court-social-media-ban.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "c0a6e42",
+        "subject": "Evidence: file the 4 Nov inbox — six new records, three cards updated"
+       }
+      ],
+      "latest_sha": "c0a6e42",
+      "added_text": "---\ntype: media\ntitle: Reddit and the Digital Freedom Project take the under-16s social media ban to the High Court (The Guardian, 3 November 2026)\nshort: Reddit v under-16s ban (High Court)\ncitation: Evidence summary of Josh Taylor, The Guardian Australia, 3 November 2026, on Reddit, Inc v Commonwealth (S166/2025) and Digital Freedom Project Incorporated v Commonwealth (S163/2025), heard 3 and 4 November 2026; read with Part 4A of the Online Safety Act 2021 (Cth) and eSafety's March 2026 survey\ndate: 2026-11-04\njurisdiction: High Court of Australia (Commonwealth)\nsignificance: Reddit and a libertarian group ask the High Court to strike down the under-16s social media ban, testing whether an implied freedom, not a bill of rights, can check a law protecting children.\ncore: hr.2.8, hr.3.1\nsupport: hr.2.11, hr.2.9, hr.2.13, chg.1.3, chg.6.1, inv.7.4\nthemes: hr.t.values, hr.t.effectiveness, hr.t.compliance\ncriteria: rights, ruleoflaw, enforceability, responsiveness, society\ndocument: Human Rights/HR - Reddit v under-16s ban (High Court) - hearing Evidence Summary.pdf\nsource: https://www.theguardian.com/australia-news/2026/nov/03/reddit-and-libertarian-group-challenge-australias-under-16s-social-media-ban-in-high-court\nrelated: australian-constitution-rights-and-powers, online-safety-act-2021-and-social-media-minimum-age, under-16-social-media-ban-enforcement-2026, digital-duty-of-care-bill-2026, online-safety-age-restricted-platforms-rules-2025, joint-select-committee-social-medi…",
+      "removed_lines": 0,
+      "added_lines": 65
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "family",
+   "label": "Family",
+   "part": "HSC Option 3",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "child-support-financial-abuse-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Mother told to pay child support to an ex she says owes her $15,000 (ABC, 2 November 2026)",
+     "short": "Child support financial abuse",
+     "citation": "Evidence summary of Tahlia Roy, ABC News, 2 November 2026; Child Support (Assessment) Act 1989 (Cth) ss 63A–64AH, 98B, 98C, 117(2); Family Law Act 1975 (Cth) s 4AB(2A); 2026–27 Budget child support package",
+     "date": "2026-11-02",
+     "added": "2026-11-03",
+     "significance": "A low income estimate can reverse who pays: a mother says her abusive ex used the scheme's rules so she, the main carer, now owes him — a protective law turned into a tool of financial abuse.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.2",
+      "fam.2.4"
+     ],
+     "core_labels": [
+      "Legal consequences of separation — children",
+      "Dealing with domestic violence"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-child-support-financial-abuse-2026",
+     "document": "Family/Evidence Summaries/Family - Child Support Financial Abuse (updated 4Nov26) Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1RwKbfNgIhVDMwy67L3UkfcX0fdkF6BRi/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-02/financial-abuse-via-services-australias-child-support/107295686",
+     "lead": "\"Chloe\" (a pseudonym) says her former partner's income fell on paper from more than **$300,000** to under\n**$20,000** through income estimates, so that from November 2026 she — the main carer — must pay him. Financial\nabuse is family violence under the *Family Law Act* (s 4AB(2A)).",
+     "use_it_for": "- **fam.2.2** — child support as a consequence of separation, and enforcement gaps.\n- **fam.2.4** — systems abuse: legal processes used to continue control after separation.",
+     "caution": "A **class evidence summary of one parent's account**, not independently verified; neither the ex-partner nor\nServices Australia responded on the case.",
+     "sections": {
+      "Meant to work v can be misused": "| | How it should work | How it can be misused |\n|---|---|---|\n| Income estimates | Allowed only if income has fallen **15%+** | About **half** of 70,000 estimates a year are incorrect |\n| Reconciliation | Replaced by actual income; 10% penalty if 110%+ | Needs tax returns — 200,000+ payers had not lodged for two years |\n| Collection | Agency Collect enforces | Private Collect assumed paid; 70% of financially abused women on it not paid in full |\n| Challenging income | Change of assessment (s 98C) | Burden falls on the victim-survivor to prove the other parent's income |\n\n**$2.0 billion** in Agency Collect debt is owed by 229,235 paying parents (March 2026). The **$182.6m** 2026–27 reform\npa…",
+      "Expert comment (4 November summary)": "Dr **Amira Aftab** (Macquarie Law School) and **Amy Kilpatrick** (Care Financial and Consumer Law Centre) say the scheme's\ntrust in self-reported income and slow correction through tax returns leaves victim-survivors carrying the burden of\nproof (change of assessment, s 117(2)). Agency Collect can garnish wages (Registration and Collection Act s 72D);\nPrivate Collect is unmonitored, so the true debt is unknown. Chloe's bank statements were allegedly used to harass her\nin the **property settlement**, not the child support assessment.",
+      "Use it for": "- **fam.2.2** — child support as a consequence of separation, and enforcement gaps.\n- **fam.2.4** — systems abuse: legal processes used to continue control after separation.",
+      "Caution": "A **class evidence summary of one parent's account**, not independently verified; neither the ex-partner nor\nServices Australia responded on the case."
+     },
+     "path": "evidence/media/child-support-financial-abuse-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "c0a6e42",
+        "subject": "Evidence: file the 4 Nov inbox — six new records, three cards updated"
+       }
+      ],
+      "latest_sha": "c0a6e42",
+      "added_text": "---\ntype: media\ntitle: Mother told to pay child support to an ex she says owes her $15,000 (ABC, 2 November 2026)\nshort: Child support financial abuse\ncitation: Evidence summary of Tahlia Roy, ABC News, 2 November 2026; Child Support (Assessment) Act 1989 (Cth) ss 63A–64AH, 98B, 98C, 117(2); Family Law Act 1975 (Cth) s 4AB(2A); 2026–27 Budget child support package\ndate: 2026-11-02\njurisdiction: Commonwealth — Services Australia (Child Support Registrar), DSS, ATO\nsignificance: A low income estimate can reverse who pays: a mother says her abusive ex used the scheme's rules so she, the main carer, now owes him — a protective law turned into a tool of financial abuse.\ncore: fam.2.2, fam.2.4\nsupport: fam.2.5, fam.1.5, fam.2.7, dis.3.4, exp.6.2\nthemes: fam.t.effectiveness, fam.t.reform, fam.t.compliance\ncriteria: enforceability, accessibility, justice, rights\ndocument: Family/Evidence Summaries/Family - Child Support Financial Abuse (updated 4Nov26) Evidence Summary.pdf\nsource: https://www.abc.net.au/news/2026-11-02/financial-abuse-via-services-australias-child-support/107295686\nrelated: child-support-assessment-act-1989, srqy-and-child-support-registrar-2026, three-child-support-reviews-2026, family-law-act-1975\nadded: 2026-11-03\nupdated_at: 2026-11-04 07:17\n---\n\n\"Chloe\" (a pseudonym) says her former partner's income fell on paper from more than **$300,000** to under\n**$20,000** through income estimates, so that from November 2026 she — the main carer — must pay him. Financial\nab…",
+      "removed_lines": 0,
+      "added_lines": 53
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "shelter",
+   "label": "Shelter",
+   "part": "HSC Option 5",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "rba-rate-hike-housing-affordability-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "A rate hike to 4.85% tests legal protections for owners and renters (ABC live blog, 3 November 2026)",
+     "short": "RBA rate hike housing affordability",
+     "citation": "Evidence summary of ABC News live coverage, 3 November 2026, with the RBA Monetary Policy Board decision; National Consumer Credit Protection Act 2009 (Cth) ss 47, 131 and National Credit Code s 72; Residential Tenancies Act 2010 (NSW) ss 41, 43",
+     "date": "2026-11-03",
+     "added": "2026-11-04",
+     "significance": "A fifth rate rise in 2026 adds about $456 a month to a $600,000 loan: borrowers have enforceable hardship rights and AFCA, but NSW renters face limits only on the timing, not the size, of increases.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.1.4",
+      "shel.2.1"
+     ],
+     "core_labels": [
+      "Types of shelter",
+      "Purchasing"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-rba-rate-hike-housing-affordability-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - RBA Rate Hike and Housing Affordability Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1nfwwlZieKlmIOsb4eSmkob2bb428mWw7/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216",
+     "lead": "On **3 November 2026** the RBA lifted the cash rate 0.25 points to **4.85%** by a 6–3 vote — about **$456 a month**\nmore on a $600,000 loan than in January (Canstar). AFCA home loan complaints rose **21%** to 7,014 in 2025–26; Westpac\nwas penalised **$26m** for ignoring hardship notices.",
+     "use_it_for": "- **shel.1.4** — affordability and the cost of credit; **shel.2.1** — legal protections for borrowers.\n- **Comparison** — owners' rights slow loss of the home; neither regime limits what shelter costs over time.",
+     "caution": "A **class evidence summary of rolling market coverage** that says little about legal rights; the legal framework comes\nfrom the summary's other sources. Canstar figures were not checked against its release.",
+     "sections": {
+      "Owners v renters": "| | Owner-occupier with a mortgage | NSW renter |\n|---|---|---|\n| How costs rise | Variable repayments rise as lenders pass hikes on | Only through the s 41 rent increase process |\n| Limits | Serviceability buffer at approval; s 131 unsuitability test | Once per 12 months, 60 days' notice — **no cap on amount** |\n| Hardship | **s 72 hardship notice**; written answer within 21 days | No hardship variation right; s 43 reduction only in limited cases |\n| Disputes | **AFCA** (free); lender generally pauses enforcement | NCAT, judged against market rent |\n| Losing the home | Default notice, 30 days to remedy | Reasonable ground needed since May 2025 |",
+      "Use it for": "- **shel.1.4** — affordability and the cost of credit; **shel.2.1** — legal protections for borrowers.\n- **Comparison** — owners' rights slow loss of the home; neither regime limits what shelter costs over time.",
+      "Caution": "A **class evidence summary of rolling market coverage** that says little about legal rights; the legal framework comes\nfrom the summary's other sources. Canstar figures were not checked against its release."
+     },
+     "path": "evidence/media/rba-rate-hike-housing-affordability-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "right-help-right-time-homelessness-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Coalition urges a $1bn homelessness prevention push — Right Help, Right Time (4 November 2026)",
+     "short": "Right Help Right Time homelessness",
+     "citation": "Evidence summary of a Medianet media release, 4 November 2026, launching the Right Help, Right Time campaign and open letter at NSW Parliament (Uniting NSW.ACT, NCOSS, Mission Australia, Homelessness NSW, Domestic Violence NSW, Youth Action and others), checked against AIHW, Street Count and DCJ data",
+     "date": "2026-11-04",
+     "added": "2026-11-04",
+     "significance": "Eleven NGOs frame homelessness as a failure of early help and seek $1bn over four years; most of their figures check out, but the claim that it would save $2.1bn is unsupported.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.3.2",
+      "shel.2.6"
+     ],
+     "core_labels": [
+      "Discrimination",
+      "The roles of courts and tribunals"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-right-help-right-time-homelessness-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - Right Help Right Time Homelessness Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/11-R6LTRNL4vCzs2AUMAeUGoa7AFRjHyt/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.nsw.gov.au/ministerial-releases/2026-street-count",
+     "lead": "",
+     "use_it_for": "- **shel.3.2 / shel.2.6** — NGOs and the media as drivers of law and policy reform on homelessness; prevention versus\n  crisis response.\n- **Evaluating sources** — an advocacy release whose claims can be checked against official data.",
+     "caution": "A **class evidence summary of a sector campaign release** with no cited sources and no government response. The source\nlink is the NSW Street Count release used to check the figures.",
+     "sections": {
+      "Claims v official data": "| Coalition claim | Official or primary data |\n|---|---|\n| Nearly 700,000 in NSW at risk of homelessness | Impact Economics model: **696,442** (2022) — a model, not a headcount |\n| Almost two in three seeking emergency housing don't get it | AIHW 2024–25: **35%** of clients needing it were provided it |\n| Rough sleeping up 75% in five years | Street Count: **1,319** (2020) → **2,308** (2026) |\n| Priority waitlist doubled | **5,800** (June 2021) → **12,478** (March 2026) |\n| Rents up 48% | Median $460 → $680, 2020–25 (DCJ, via Homelessness NSW) |\n| $1bn over four years avoids up to $2.1bn in costs | **No costing published** |\n\nThe 2021 Census counted 35,011 people homeless in NSW. Several fig…",
+      "Use it for": "- **shel.3.2 / shel.2.6** — NGOs and the media as drivers of law and policy reform on homelessness; prevention versus\n  crisis response.\n- **Evaluating sources** — an advocacy release whose claims can be checked against official data.",
+      "Caution": "A **class evidence summary of a sector campaign release** with no cited sources and no government response. The source\nlink is the NSW Street Count release used to check the figures."
+     },
+     "path": "evidence/media/right-help-right-time-homelessness-2026.md",
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "changing",
+   "label": "Changing the law",
+   "part": "Year 11 (Preliminary) Focus area 3",
+   "course": "preliminary",
+   "items": [
+    {
+     "id": "nsw-firearms-reforms-and-gun-buyback-2026",
+     "status": "updated",
+     "type": "legislation",
+     "type_label": "Legislation",
+     "title": "NSW firearms reforms after Bondi and the National Gun Buyback (2025–2027)",
+     "short": "National gun buyback after Bondi",
+     "citation": "Terrorism and Other Legislation Amendment Act 2025 (NSW) (passed 24 December 2025); National Gun Buyback, NSW Government media release, 26 October 2026, and joint Commonwealth–NSW release, 16 August 2026",
+     "date": "2026-11-02",
+     "added": "2026-10-27",
+     "significance": "After the 14 December 2025 Bondi Beach terror attack, NSW capped gun numbers, cut licences to two years and removed NCAT review, then opened a buyback for up to 274,000 firearms.",
+     "topic": "changing",
+     "also_topics": [
+      "crime"
+     ],
+     "core": [
+      "chg.6.1",
+      "chg.3.1",
+      "chg.3.2",
+      "crime.1.9"
+     ],
+     "core_labels": [
+      "Overview of the area of law reform",
+      "Legislative methods — bills, amendments, repeals",
+      "Executive methods — political will, parliamentary debate, ministerial directions",
+      "Crime prevention: situational and social"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nsw-firearms-reforms-and-gun-buyback-2026",
+     "document": "Crime/Media/Crime - National gun buyback after Bondi - day one (4Nov26) Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1npw5GQgYH7spmgkP6bYuWQK4oMyR97XA/view",
+     "document_missing_id": false,
+     "document11": "Preliminary/Year 11 - National Gun Buyback Law Reform After Bondi Evidence Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/14kUaov8BM1D4TeIq6wF9GQ7sw_-gGHkQ/view",
+     "document11_missing_id": false,
+     "source": "https://www.nsw.gov.au/ministerial-releases/national-gun-buyback-to-begin-nsw-on-november-2-bookings-to-surrender-open-today",
+     "lead": "The **Bondi Beach terrorist attack** on 14 December 2025 killed 15 people. Ten days later NSW passed the\n**Terrorism and Other Legislation Amendment Act 2025**, and in August 2026 NSW became the first state to\njoin a **National Gun Buyback**, citing recommendations 13 and 14 of a Royal Commission interim report.\nBookings opened on 26 October 2026; surrenders run from **2 November 2026** at six police stations,\nwidening in stages to February 2027, for about 12 months.",
+     "use_it_for": "- **chg.6 (an area of law reform)** — event as a reason; Royal Commission recommendations and public\n  opinion as drivers; **legislative** (the 2025 Act) and **executive** (the scheme) methods.\n- **chg.4.1 / chg.4.2** — fewer guns against fixed compensation (one farmer paid $2,900 for a gun worth\n  $850 under the schedule), uneven national uptake (Queensland, Victoria and the NT declined) and\n  divided research on the 1996 Port Arthur buyback.\n- **inv.5.2** — a state law with a Commonwealth-funded scheme: division of powers and cooperation.",
+     "caution": "A **class evidence summary of a government media release** with a political purpose; it omits prices\nand partisan claims are disputed. The 18% of licence holders and $42.8 million Registry figures are\nunverified. Several provisions await proclamation and the cap-exception regulation is unfinished.",
+     "sections": {
+      "Before and after": "| | Before | After the 2025 Act |\n|---|---|---|\n| Number of guns | No fixed cap | **4** (recreational hunting, vermin) or **10** (most other genuine reasons); collectors and dealers unlimited |\n| Licence term | Up to 5 years | **2 years** (licences from 1 July 2026) |\n| Review of decisions | External appeal to **NCAT** | Internal review only (except Firearm Prohibition Orders) |\n| Permit to acquire | — | Safe-storage inspection and terrorism-related checks first |\n| Categories | Straight-pull, pump, lever-release lower | Moved to Category C; belt-fed prohibited |\n| Club membership | Not required for all A/B holders | Required once proclaimed |",
+      "Day one (2 November 2026)": "The buyback began on **2 November 2026** at six stations (Dubbo, Griffith, Grafton, Penrith, Sutherland, Narellan),\nwith 34 more from early December; initial bookings were **full on day one**. The Act (No 86 of 2025) was rushed\nthrough in **three days** after Bondi. The Premier expects the demand-driven scheme to cost \"hundreds of millions\";\nexisting owners above the caps face no immediate seizure, and permits to exceed them await regulations. The caps have\nbecome an **election issue** that the Opposition says it would revisit — a reform that may be reversed.\n\nFirearms theft is part of the crime-prevention case: **417** firearms were stolen in NSW in 2024 (about **1.1 a day**).\nRemoving NCAT…",
+      "The buyback": "Notice letter → book through the **Gun Safe** portal (no walk-ins) → surrender at a station → fixed\ncompensation (**$450–$1,000** per firearm; Phase 2 valuations above $3,000, capped at $10,000) →\ndestruction, funded by the Commonwealth. Up to **274,000** firearms (about 24% of NSW's registered\nguns) could be surrendered.",
+      "For HSC Crime": "The HSC summary (28 October) frames the same reform as **crime prevention**:\n\n- **Situational prevention** (crime.1.9) — reducing access to firearms, with the 1996–97 buyback (about\n  650,000 guns) as the comparison: Leigh and Neill linked it to about 200 fewer deaths a year; others find\n  existing trends explain much of the fall.\n- **Police administering reform** (crime.2.1) — NSW Police run the Registry, the Gun Safe portal and station\n  surrenders; licensees over the caps will not have firearms seized immediately, and compliance rules are not\n  yet published. Unauthorised possession carries up to 5 years (14 for pistols and prohibited firearms).\n- **Balance** — community safety against la…",
+      "Use it for": "- **chg.6 (an area of law reform)** — event as a reason; Royal Commission recommendations and public\n  opinion as drivers; **legislative** (the 2025 Act) and **executive** (the scheme) methods.\n- **chg.4.1 / chg.4.2** — fewer guns against fixed compensation (one farmer paid $2,900 for a gun worth\n  $850 under the schedule), uneven national uptake (Queensland, Victoria and the NT declined) and\n  divided research on the 1996 Port Arthur buyback.\n- **inv.5.2** — a state law with a Commonwealth-funded scheme: division of powers and cooperation.",
+      "Caution": "A **class evidence summary of a government media release** with a political purpose; it omits prices\nand partisan claims are disputed. The 18% of licence holders and $42.8 million Registry figures are\nunverified. Several provisions await proclamation and the cap-exception regulation is unfinished."
+     },
+     "path": "evidence/legislation/nsw-firearms-reforms-and-gun-buyback-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "c0a6e42",
+        "subject": "Evidence: file the 4 Nov inbox — six new records, three cards updated"
+       },
+       {
+        "sha": "99c4c0f",
+        "subject": "Evidence: file the 3 Nov inbox — six new records, two cards updated"
+       }
+      ],
+      "latest_sha": "c0a6e42",
+      "added_text": "date: 2026-11-02\ndocument: Crime/Media/Crime - National gun buyback after Bondi - day one (4Nov26) Evidence Summary.pdf\nupdated_at: 2026-11-04 07:17\n## Day one (2 November 2026)\n\nThe buyback began on **2 November 2026** at six stations (Dubbo, Griffith, Grafton, Penrith, Sutherland, Narellan),\nwith 34 more from early December; initial bookings were **full on day one**. The Act (No 86 of 2025) was rushed\nthrough in **three days** after Bondi. The Premier expects the demand-driven scheme to cost \"hundreds of millions\";\nexisting owners above the caps face no immediate seizure, and permits to exceed them await regulations. The caps have\nbecome an **election issue** that the Opposition says it would revisit — a reform that may be reversed.\n\nFirearms theft is part of the crime-prevention case: **417** firearms were stolen in NSW in 2024 (about **1.1 a day**).\nRemoving NCAT review narrows external checks on police licensing decisions. Phase two (from 2027) pays up to\n$10,000 for higher-value firearms.\n",
+      "removed_lines": 2,
+      "added_lines": 15
+     },
+     "in_site_build": true
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "2 commit(s) on this Mac have not been pushed (as of the last fetch): card links will not work for those cards until Push origin.",
+  "1 bulk commit(s) touching more than 30 cards were ignored as retagging, not content updates."
+ ]
+}

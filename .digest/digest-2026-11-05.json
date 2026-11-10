@@ -1,0 +1,821 @@
+{
+ "generated": "2026-11-05T07:36:20",
+ "today": "2026-11-05",
+ "window_start": "2026-11-03",
+ "basis": "the last digest (2026-11-04 07:25), looking back a day",
+ "site_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
+ "counts": {
+  "new": 14,
+  "updated": 4
+ },
+ "groups": [
+  {
+   "key": "crime",
+   "label": "Crime",
+   "part": "HSC Core Part I",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "nsw-bail-laws-explainer-2026",
+     "status": "new",
+     "type": "document",
+     "type_label": "Document",
+     "title": "Bail laws in NSW (2026) — explainer poster with flow chart, tests and case studies",
+     "short": "Bail laws in NSW explainer 2026",
+     "citation": "HSC Legal Studies class resource, 'Bail Laws in NSW', updated 4 November 2026; Bail Act 2013 (NSW) ss 16A–22C, 28B, 40, 70A; Williams v R [2026] NSWCCA 17; R v TB [2025] NSWSC 38",
+     "date": "2026-11-04",
+     "added": "2026-11-05",
+     "significance": "A three-page colour explainer of how NSW bail works in 2026 — who decides, the three tests, the 2024 DV reforms, the s 22C youth test extended to 2028, and two recent cases.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.5",
+      "crime.5.3"
+     ],
+     "core_labels": [
+      "Bail or remand",
+      "Children's Court — procedures and operation"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nsw-bail-laws-explainer-2026",
+     "document": "Crime/Crime - Bail Laws in NSW 2026 Explainer.pdf",
+     "document_url": "https://drive.google.com/file/d/12me-XrQw0u1QE5WDVFxYIfGFrUJ2SshL/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A redesigned class poster (flow chart, colour-coded tests, NEW/UPDATED badges) setting out the *Bail Act 2013* (NSW):\n\n- **Why bail:** presumption of innocence, right to liberty, equality before the law.\n- **Who decides:** police; Local Court judges (called Magistrates until 28 March 2026); District and Supreme Courts, which\n  hear bail **de novo**. Registrars and other authorised justices no longer decide bail (**s 70A**, from 14 March 2025).\n- **Three tests:** automatic release (s 21), **show cause** (s 16A — never for an accused under 18 at the time of the\n  offence), and the **unacceptable risk** test (ss 17–20).\n- **2024 DV reforms:** show cause for serious DV offences (s 16B(1)(c1)) an…",
+     "use_it_for": "- **crime.2.5 (bail or remand)** — a one-stop revision sheet; pair with the Marsden Park, Queensland and Sam Wood cards.",
+     "caution": "A **class-made resource**. Some details were still to be checked against the consolidated Act (commencement dates and\ns 16B lettering), and the two case studies rely on commentary rather than the judgments.",
+     "sections": {
+      "Use it for": "- **crime.2.5 (bail or remand)** — a one-stop revision sheet; pair with the Marsden Park, Queensland and Sam Wood cards.",
+      "Caution": "A **class-made resource**. Some details were still to be checked against the consolidated Act (commencement dates and\ns 16B lettering), and the two case studies rely on commentary rather than the judgments."
+     },
+     "path": "evidence/documents/nsw-bail-laws-explainer-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "afp-operation-integrity-fusion-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Five charged as the AFP alleges $235m fraud on federal programs — Operation Integrity Fusion (ABC, 4 November 2026)",
+     "short": "AFP Operation Integrity Fusion",
+     "citation": "Evidence summary of Andi Yu, ABC News, 4 November 2026, and the AFP and Fraud Fusion Taskforce release; Criminal Code (Cth) ss 142.2, 400.9(1A); Crimes Act 1914 (Cth) s 3E",
+     "date": "2026-11-04",
+     "added": "2026-11-05",
+     "significance": "A three-month operation bundling seven investigations — 26 search warrants, 28+ terabytes of data seized and five people charged — shows the Commonwealth investigation process for white-collar crime.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.3",
+      "crime.1.5"
+     ],
+     "core_labels": [
+      "Investigating crime",
+      "Categories of crime"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-afp-operation-integrity-fusion-2026",
+     "document": "Crime/Media/Crime - AFP Operation Integrity Fusion 235m Commonwealth Fraud Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1DtMFCKLgR27vr_T3Jr6C7cjc0XiQ_UJE/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-04/federal-police-five-charged-ndis-welfare-fraud/107344388",
+     "lead": "The AFP-led **Fraud Fusion Taskforce** alleges **$235m** in actual and potential fraud across seven investigations into\nthe NDIS, Centrelink and other programs. Over three months police executed **26 search warrants** in four states and\nseized 44 devices and 37 cloud accounts. **Five people are charged; four investigations have no arrests yet.**\n\n| Operation | Allegation | Status |\n|---|---|---|\n| Hawk (NDIA) | Over $700,000 taken through false invoices | Charged by Victoria Police; Horsham court 3 December |\n| Inca-Varrakai (NDIA) | An NDIA employee gave 78 participants' records to linked providers | **s 142.2** abuse of public office (max 5 years); Adelaide 9 December |\n| Cedar (Services A…",
+     "use_it_for": "- **crime.2.3** — multi-agency detection, warrants (Crimes Act s 3E) and digital seizure at scale.\n- **crime.1.5** — white-collar crime and offences against the Commonwealth.\n- **Balance** — investigation powers against suspects' rights and the privacy of people whose records were misused.",
+     "caution": "A **class evidence summary of a report following a police release**; the $235m is a police estimate including potential\nfraud. All matters are allegations.",
+     "sections": {
+      "Use it for": "- **crime.2.3** — multi-agency detection, warrants (Crimes Act s 3E) and digital seizure at scale.\n- **crime.1.5** — white-collar crime and offences against the Commonwealth.\n- **Balance** — investigation powers against suspects' rights and the privacy of people whose records were misused.",
+      "Caution": "A **class evidence summary of a report following a police release**; the $235m is a police estimate including potential\nfraud. All matters are allegations."
+     },
+     "path": "evidence/media/afp-operation-integrity-fusion-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "oconnell-v-dpp-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "O'Connell v DPP; DPP v O'Connell [2026] HCA 41 — appeal courts must allow for the jury's advantages",
+     "short": "O'Connell v DPP",
+     "citation": "[2026] HCA 41 (Gageler CJ, Gordon, Edelman, Steward, Gleeson, Jagot and Beech-Jones JJ, 4 November 2026)",
+     "date": "2026-11-04",
+     "added": "2026-11-05",
+     "significance": "The ACT Court of Appeal overturned a jury's murder verdict as unreasonable and entered manslaughter; a unanimous High Court said it failed to allow fully for the jury's advantages and sent the case back.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.5",
+      "crime.3.9"
+     ],
+     "core_labels": [
+      "Appeals",
+      "The role of juries, including verdicts"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-oconnell-v-dpp-2026",
+     "document": "Cases/Crime/O'Connell v DPP; DPP v O'Connell [2026] HCA 41 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1raggRuOA7LxbcbavY0YwvdfE-Y0QIDJG/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - O'Connell v DPP; DPP v O'Connell [2026] HCA 41 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1WfXh7JvBYCKQeq149HyK7sPbF_yMkxrs/view",
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-04/high-court-reinstates-canberra-mans-murder-conviction/107344352",
+     "lead": "In April 2022 **Michael O'Connell** drove off with Ms Jordan on the bonnet of his car; she fell and died. In a\ncircumstantial case, a **jury convicted him of murder** (reckless indifference to the probability of death); he was\nsentenced to 15 years. In 2025 the **ACT Court of Appeal** (2–1, McCallum CJ dissenting) held the verdict\n**unreasonable** and entered **manslaughter** (10 years). Both sides appealed.",
+     "use_it_for": "- **crime.4.5 (appeals)** — every layer of appeal at work, and the limits on appeal judges second-guessing a jury.\n- **crime.3.9 (juries)** — respect for the jury's advantages in seeing the evidence.",
+     "caution": "A **class case summary**; the file's paragraph numbers appear one too high, so quotes are cited to the reasons only.\nEdelman J's point about probability was not a ground of appeal.",
+     "sections": {
+      "Three courts, three answers": "| | Jury (2023) | ACT Court of Appeal (2025) | High Court (4 November 2026) |\n|---|---|---|---|\n| Verdict | Murder | Murder set aside; **manslaughter** entered, 2–1 | DPP appeal allowed **unanimously**; orders set aside |\n| Reasoning | — | Jury's advantages could not resolve its doubt; speed critical | Majority failed to make full allowance for the jury's advantages (*M v The Queen*), and decided on a hypothesis not raised at trial |\n| Substitution | — | Entered the lesser verdict the jury rejected | O'Connell's appeal on s 37O dismissed |\n| Result | 15 years | 10 years | **Remitted**: the Court of Appeal must decide the unreasonable-verdict ground again |\n\nThe ABC headline says the murder c…",
+      "Use it for": "- **crime.4.5 (appeals)** — every layer of appeal at work, and the limits on appeal judges second-guessing a jury.\n- **crime.3.9 (juries)** — respect for the jury's advantages in seeing the evidence.",
+      "Caution": "A **class case summary**; the file's paragraph numbers appear one too high, so quotes are cited to the reasons only.\nEdelman J's point about probability was not a ground of appeal."
+     },
+     "path": "evidence/cases/oconnell-v-dpp-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "r-v-sharma-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "R v Sharma [2026] NSWDC 402 — act proven but not criminally responsible: the mental health impairment defence",
+     "short": "R v Sharma",
+     "citation": "[2026] NSWDC 402 (Noman SC DCJ, judge alone, 4 November 2026)",
+     "date": "2026-11-04",
+     "added": "2026-11-05",
+     "significance": "A man who wounded his wife was found 'act proven but not criminally responsible' because a delusional disorder stopped him reasoning about wrongfulness — detention and Tribunal review, not a sentence.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.3.8",
+      "crime.1.2"
+     ],
+     "core_labels": [
+      "Defences to criminal charges",
+      "The elements of crime: actus reus, mens rea"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-sharma-2026",
+     "document": "Cases/Crime/R v Sharma [2026] NSWDC 402 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/14YQkHS_k11cjMcH1YnFj8WY2rMuTk2wM/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - R v Sharma [2026] NSWDC 402 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/15CXC5zOz8Lu5WTtwYf-LcGBAQRUmGa2s/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "**Rajendra Sharma** was charged with **wounding his wife with intent to murder** (alternatively intent to cause grievous\nbodily harm) and breaching an AVO, after an assault on 23 June 2024. A delusional fixation about her fidelity had\ndeveloped from 2021. Crown and defence agreed the **mental health impairment** defence was established, and the\nmatter was heard by a judge alone.",
+     "use_it_for": "- **crime.3.8 (defences)** — a complete defence that turns on mens rea and capacity, proved by the accused on the\n  balance of probabilities.\n- **crime.1.2** — why criminal responsibility needs a guilty mind.\n- **Balance** — community protection and the victim's interests through detention and Tribunal oversight rather than\n  punishment.",
+     "caution": "A **class case summary**. A special verdict is **not a conviction**; the diagnosis is unsettled. The victim and son are not\nnamed. Family violence context: teach with care.",
+     "sections": {
+      "Held": "- On two psychiatrists' evidence, Noman SC DCJ was satisfied **on the balance of probabilities** that a delusional\n  disorder meant Mr Sharma **could not reason about whether his act was wrong** (s 28).\n- **Special verdict** (s 31): \"**act proven but not criminally responsible**\" — covering the AVO breach too.\n- **Orders**: detention (ss 33–34) and referral to the **Mental Health Review Tribunal**, which decides release. The\n  victim's statement was received.",
+      "Use it for": "- **crime.3.8 (defences)** — a complete defence that turns on mens rea and capacity, proved by the accused on the\n  balance of probabilities.\n- **crime.1.2** — why criminal responsibility needs a guilty mind.\n- **Balance** — community protection and the victim's interests through detention and Tribunal oversight rather than\n  punishment.",
+      "Caution": "A **class case summary**. A special verdict is **not a conviction**; the diagnosis is unsettled. The victim and son are not\nnamed. Family violence context: teach with care."
+     },
+     "path": "evidence/cases/r-v-sharma-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "mckenna-high-risk-offender-supervision-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "WA serial child sex offender freed under a 41-condition supervision order (ABC, 4 November 2026)",
+     "short": "McKenna high risk offender order",
+     "citation": "Evidence summary of Jake Sturmer, ABC News, 4 November 2026, reporting Solomon J's decision in the Supreme Court of WA under the High Risk Serious Offenders Act 2020 (WA); Fardon v Attorney-General (Qld) [2004] HCA 46; Garlett v Western Australia [2022] HCA 30",
+     "date": "2026-11-04",
+     "added": "2026-11-05",
+     "significance": "The court found Dennis McKenna a high risk serious offender but chose 41 supervision conditions over indefinite detention — post-sentence orders weighing community protection against liberty.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.8"
+     ],
+     "core_labels": [
+      "Post-sentencing considerations"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-mckenna-high-risk-offender-supervision-2026",
+     "document": "Crime/Media/Crime - McKenna High Risk Offender Supervision Order Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1L4PQEydwnjLsrm5EYfa7d-Jv1aueEa9k/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-04/dennis-mckenna-serial-paedophile-freed-within-weeks/107345760",
+     "lead": "**Dennis McKenna** has served **15.5 years** in prison since 2011 for child sex offences. The State applied for a\nrestriction order; on 4 November 2026 Justice Solomon found him a **high risk serious offender** but made a\n**supervision order** with **41 conditions** (including no contact with his 29 victims, per the ABC) rather than a\ncontinuing detention order. Release is expected within weeks.",
+     "use_it_for": "- **crime.4.8 (post-sentencing)** — preventive orders, supervision and the end of a sentence.\n- **Balance and rights** — detention for what a person might do, not what they have done.",
+     "caution": "A **class evidence summary of a news report**; the judgment was not located. Earlier reports counted 28 victims; the\nABC's 29 is unexplained.",
+     "sections": {
+      "Continuing detention v supervision (WA, s 48)": "| | Continuing detention order | Supervision order (McKenna) |\n|---|---|---|\n| Where | Stays in custody after the sentence ends | Released under conditions |\n| Duration | Indefinite, until rescinded (s 26) | For the period stated (s 27) |\n| Test | State proves an unacceptable risk to a high degree | Court must be satisfied supervision adequately manages the risk |\n| Paramount | **Community protection** | Community protection |\n\n*Fardon* (2004) upheld post-sentence preventive detention; *Garlett* (2022) upheld WA's scheme. Victims' interests enter\nonly through conditions.",
+      "Use it for": "- **crime.4.8 (post-sentencing)** — preventive orders, supervision and the end of a sentence.\n- **Balance and rights** — detention for what a person might do, not what they have done.",
+      "Caution": "A **class evidence summary of a news report**; the judgment was not located. Earlier reports counted 28 victims; the\nABC's 29 is unexplained."
+     },
+     "path": "evidence/media/mckenna-high-risk-offender-supervision-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "nt-teen-terror-charges-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Darwin teenager charged with terrorism and 3D-gun blueprint offences (ABC, 29 October 2026)",
+     "short": "NT teen terror charges",
+     "citation": "Evidence summary of an ABC News report, 29 October 2026, and the NT Joint Counter Terrorism Team statement; Criminal Code Act 1995 (Cth) ss 101.5, 474.45C, 474.45H; Crimes Act 1914 (Cth) ss 15AA, 20C",
+     "date": "2026-11-04",
+     "added": "2026-10-30",
+     "significance": "A child faces adult Commonwealth terrorism charges, including a 2026 offence for 3D-printed gun blueprints — federal counter-terrorism law meeting youth justice in bail, identity and sentencing.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.6.1",
+      "crime.5.3",
+      "crime.2.5"
+     ],
+     "core_labels": [
+      "Categories of international crime",
+      "Children's Court — procedures and operation",
+      "Bail or remand"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nt-teen-terror-charges-2026",
+     "document": "Crime/Media/Crime - NT Teen Terrorism Charge and Youth Bail Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/15Sg0XCuW-6SE-LL3KzCnGw7JyFBV9PfE/view",
+     "document_missing_id": false,
+     "document11": "Preliminary/Year 11 - Experiences with the Law - NT Teen Terror Charges Evidence Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1GuE3RewH7-HrLDFFcSN5Kmcf1-Df0Yls/view",
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-10-29/nt-teen-terror-charges-extremism-3d-printed-gun-schematics/107322362",
+     "lead": "After a Crime Stoppers tip-off about violent extremist material online, the NT Joint Counter Terrorism Team\nexecuted warrants in Darwin on **28 October 2026** and charged an unnamed teenager with three Commonwealth\noffences: **s 101.5** (collecting or making documents likely to facilitate terrorism, max 10 or 15 years) and two\nonline-material offences, including **s 474.45C** aimed at 3D-printed firearm blueprints (max 5 years each).\nPolice said there was no information the teen could access or make a firearm. He was remanded; bail is listed\nfor **9 November 2026**. **All matters are allegations; he is presumed innocent.**",
+     "use_it_for": "- **crime.6.1 / crime.5.3** — Commonwealth terrorism law applied to a child, and how youth justice principles are\n  modified.\n- **crime.2.5** — a presumption against bail for a child.\n- **Year 11 (Experiences with the law — young people)** — contact with police and the Children's Court; barriers\n  to justice. Pair with the AFP youth radicalisation card.",
+     "caution": "A **class evidence summary of a police-sourced report**; no defence or court voice. The teen must not be\nidentified. Check the 9 November bail outcome.",
+     "sections": {
+      "Children v adults charged with terrorism offences": "| | Adult | Child |\n|---|---|---|\n| Offences and maximums | Same | Same — no lower federal ceiling |\n| Court | Adult courts exercising federal jurisdiction | Youth court; s 20C lets it treat the charge as a territory offence |\n| Bail | s 15AA presumption against bail: exceptional circumstances | Same test; community protection paramount, child's best interests primary |\n| Bail appealed | Prosecution notice stays the grant | Same — the Law Council says it should not apply to children |\n| Sentencing | s 19AG limits discretion | Age, maturity and family weighed; the Law Council wants an s 19AG exemption |\n\n13 youths aged 14–17 have been charged with extremist-material offences since 2024. The I…",
+      "A second teenager (4 November 2026)": "A week later the NT Joint Counter Terrorism Team raided a Top End home (3 November) and charged a **girl** with a\n**s 101.5** terrorism documents offence; she appeared in the Youth Justice Court on 4 November before Judge Giles\nO'Brien-Hartcher, with bail listed for **13 November**. That makes **two** Top End teenagers charged in a week; AFP\nfigures report 26 youths charged with terrorism-type offences by JCTTs since 2020. The child cannot be named, and her\nbest interests must be weighed at bail (Youth Justice Act 2005 (NT) s 50), but the **s 15AA(3AA)** presumption against\nbail still applies — community protection is paramount. CRC art 37: detention as a last resort.",
+      "Use it for": "- **crime.6.1 / crime.5.3** — Commonwealth terrorism law applied to a child, and how youth justice principles are\n  modified.\n- **crime.2.5** — a presumption against bail for a child.\n- **Year 11 (Experiences with the law — young people)** — contact with police and the Children's Court; barriers\n  to justice. Pair with the AFP youth radicalisation card.",
+      "Caution": "A **class evidence summary of a police-sourced report**; no defence or court voice. The teen must not be\nidentified. Check the 9 November bail outcome."
+     },
+     "path": "evidence/media/nt-teen-terror-charges-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "1660bf1",
+        "subject": "Evidence: file the 5 Nov inbox — fourteen new records, four cards updated"
+       }
+      ],
+      "latest_sha": "1660bf1",
+      "added_text": "date: 2026-11-04\ndocument: Crime/Media/Crime - NT Teen Terrorism Charge and Youth Bail Evidence Summary.pdf\nupdated_at: 2026-11-05 07:33\n## A second teenager (4 November 2026)\n\nA week later the NT Joint Counter Terrorism Team raided a Top End home (3 November) and charged a **girl** with a\n**s 101.5** terrorism documents offence; she appeared in the Youth Justice Court on 4 November before Judge Giles\nO'Brien-Hartcher, with bail listed for **13 November**. That makes **two** Top End teenagers charged in a week; AFP\nfigures report 26 youths charged with terrorism-type offences by JCTTs since 2020. The child cannot be named, and her\nbest interests must be weighed at bail (Youth Justice Act 2005 (NT) s 50), but the **s 15AA(3AA)** presumption against\nbail still applies — community protection is paramount. CRC art 37: detention as a last resort.\n",
+      "removed_lines": 2,
+      "added_lines": 12
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "humanrights",
+   "label": "Human Rights",
+   "part": "HSC Core Part II",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "gavin-v-greenstone-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Gavin v Greenstone Financial Services Pty Ltd [2026] NSWCATAD 339 — interim reinstatement refused",
+     "short": "Gavin v Greenstone",
+     "citation": "[2026] NSWCATAD 339 (Dr L Kirk, Senior Member, 4 November 2026)",
+     "date": "2026-11-04",
+     "added": "2026-11-05",
+     "significance": "A probationary employee with endometriosis asked NCAT to reinstate her while her disability discrimination complaint is investigated; the Tribunal applied injunction principles and refused.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.2.11",
+      "hr.2.9"
+     ],
+     "core_labels": [
+      "The role of courts and tribunals",
+      "The role of statute law"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-gavin-v-greenstone-2026",
+     "document": "Cases/Human Rights/Gavin v Greenstone Financial Services Pty Ltd [2026] NSWCATAD 339 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1TRYNwnpKVzw5292C2H7AsdFtx7QgHnDl/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Gavin v Greenstone Financial Services Pty Ltd [2026] NSWCATAD 339 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1zUQgiACM434B6JWCi-FgaxnLrrMWs519/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "Ms Gavin began as a claims agent on **13 April 2026** with six months' probation. During a performance improvement plan\nshe disclosed **endometriosis** and asked for adjustments (19 August); the employer decided to terminate (4 September).\nShe complained to **Anti-Discrimination NSW** and asked NCAT for **interim orders** reinstating her. She appeared for\nherself; the employer had counsel.",
+     "use_it_for": "- **hr.2.11 / hr.2.9** — how state anti-discrimination law is enforced: complaint to Anti-Discrimination NSW, then NCAT.\n- **Access to justice** — a self-represented worker against a represented employer; interim relief is hard to win.",
+     "caution": "A **class case summary of a procedural ruling only**. The employer's submissions mis-cite two sections.",
+     "sections": {
+      "Held — application dismissed (17 September; reasons 4 November 2026)": "- The s 105 interim power is guided by the principles for an **interlocutory injunction**: a **prima facie case** and the\n  **balance of convenience**.\n- No prima facie case on the evidence, and the balance favoured the employer.\n- The **complaint itself is undecided**.",
+      "Use it for": "- **hr.2.11 / hr.2.9** — how state anti-discrimination law is enforced: complaint to Anti-Discrimination NSW, then NCAT.\n- **Access to justice** — a self-represented worker against a represented employer; interim relief is hard to win.",
+      "Caution": "A **class case summary of a procedural ruling only**. The employer's submissions mis-cite two sections."
+     },
+     "path": "evidence/cases/gavin-v-greenstone-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "guardian-2026-reddit-high-court-social-media-ban",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Reddit and the Digital Freedom Project take the under-16s social media ban to the High Court (The Guardian, 3 November 2026)",
+     "short": "Reddit v under-16s ban (High Court)",
+     "citation": "Evidence summary of Josh Taylor, The Guardian Australia, 3 November 2026, on Reddit, Inc v Commonwealth (S166/2025) and Digital Freedom Project Incorporated v Commonwealth (S163/2025), heard 3 and 4 November 2026; read with Part 4A of the Online Safety Act 2021 (Cth) and eSafety's March 2026 survey",
+     "date": "2026-11-04",
+     "added": "2026-11-03",
+     "significance": "Reddit and a libertarian group ask the High Court to strike down the under-16s social media ban, testing whether an implied freedom, not a bill of rights, can check a law protecting children.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.2.8",
+      "hr.3.1"
+     ],
+     "core_labels": [
+      "The role of the Constitution",
+      "A contemporary issue illustrating the promotion and/or enforcement of human rights"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-guardian-2026-reddit-high-court-social-media-ban",
+     "document": "Human Rights/HR - Reddit v under-16s ban (High Court) - hearing Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1oomZ2bUejYXU40zq5yRa_QUye82SiWAY/view",
+     "document_missing_id": false,
+     "document11": "Preliminary/Year 11 - Reddit v under-16s ban (High Court) Evidence Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1alIjZpwO5PHr5N23TN-_NHYYir21yjId/view",
+     "document11_missing_id": false,
+     "source": "https://www.theguardian.com/australia-news/2026/nov/03/reddit-and-libertarian-group-challenge-australias-under-16s-social-media-ban-in-high-court",
+     "lead": "The first major legal challenge to the under-16s social media ban was heard in the High Court on **3 and 4 November 2026**. Australia has no guaranteed right to free speech, so both challengers rely on the **implied freedom of political communication**: they say stopping under-16s holding accounts burdens political communication, and the Commonwealth says the law serves a legitimate purpose, reducing harm from features such as algorithms, infinite scroll and notifications. **No decision has been made.**",
+     "use_it_for": "- **hr.2.8 The role of the Constitution**: no bill of rights, an implied freedom made by judges, and a court asked to weigh a new community value (child safety online) against it. Fits HSC 2024 Q22 (the Constitution and changing values); the summary's exemplar paragraph answers it.\n- **hr.3.1 A contemporary issue**, with hr.2.11 (courts) and hr.2.9 (statute law); also compliance, as eSafety investigates five platforms.",
+     "caution": "A preview of an **undecided case**, not a judgment: update this record when the Court rules. The parties' submissions could not be opened, so their arguments are as reported. Read from a saved copy of the Guardian article. The tests come from secondary summaries; check the High Court's reasons before quoting them.",
+     "sections": {
+      "The two challenges": "| | Reddit | Digital Freedom Project (led by NSW Libertarian MP John Ruddick) |\n|---|---|---|\n| Argument | Platforms are a common source of political information; teens could not post, comment or react on politics | Adopts much the same argument on the burden on political communication |\n| Hurdle | Whether the burden is justified | The Commonwealth says the group has **no standing**: it has not identified any activity of its own that is impeded. Its two teenage plaintiffs withdrew in July |",
+      "How the court decides": "An implied-freedom case asks, in turn: is there a burden on political communication; is the law's purpose legitimate; is it suitable, necessary and adequate in balance (the structured proportionality test from *McCloy v NSW* (2015)). Commentators are divided: Prof Anne Twomey saw a possible mismatch between purpose and effect; Prof Luke Beck expected the challenges to fail.",
+      "The numbers, checked": "- **Ten** platforms had to restrict under-16 accounts from **10 December 2025**. The Prime Minister says more than **5 million** accounts were suspended; eSafety reported about **4.7 million** by mid-December 2025. These count accounts, not children.\n- eSafety's March 2026 survey found the share of under-16s holding an account fell from **52.4% to 42.1%**: a modest but real fall, and evidence for both sides on whether the ban works.\n- The maximum penalty was doubled from **$49.5 million to $99 million** by an Act assented to on 11 September 2026; the Guardian's \"nearly $100m\" is consistent.\n- The government says the **digital duty of care** bill would \"require the same action\"; the bill is s…",
+      "The hearing (3–4 November 2026, ABC)": "All seven justices heard the joined special case; state and territory attorneys-general intervened for the\nCommonwealth.\n\n| | Challengers (Reddit, Digital Freedom Project) | Commonwealth and states |\n|---|---|---|\n| Burden | Stops young people speaking, organising and reaching audiences cheaply | Indirect and modest |\n| Whose freedom | Serious for a group without the vote | The freedom protects electors' communication |\n| Purpose | Accept protecting young people is legitimate | Protects children from engagement-driven features |\n| Effectiveness | Under-16s evade age checks; content still viewable logged out | Rules are consultative, targeted, adjustable |\n| Reddit's status | Seeks a declarat…",
+      "Use it for": "- **hr.2.8 The role of the Constitution**: no bill of rights, an implied freedom made by judges, and a court asked to weigh a new community value (child safety online) against it. Fits HSC 2024 Q22 (the Constitution and changing values); the summary's exemplar paragraph answers it.\n- **hr.3.1 A contemporary issue**, with hr.2.11 (courts) and hr.2.9 (statute law); also compliance, as eSafety investigates five platforms.",
+      "Caution": "A preview of an **undecided case**, not a judgment: update this record when the Court rules. The parties' submissions could not be opened, so their arguments are as reported. Read from a saved copy of the Guardian article. The tests come from secondary summaries; check the High Court's reasons before quoting them."
+     },
+     "path": "evidence/media/guardian-2026-reddit-high-court-social-media-ban.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "1660bf1",
+        "subject": "Evidence: file the 5 Nov inbox — fourteen new records, four cards updated"
+       },
+       {
+        "sha": "c0a6e42",
+        "subject": "Evidence: file the 4 Nov inbox — six new records, three cards updated"
+       }
+      ],
+      "latest_sha": "1660bf1",
+      "added_text": "---\ntype: media\ntitle: Reddit and the Digital Freedom Project take the under-16s social media ban to the High Court (The Guardian, 3 November 2026)\nshort: Reddit v under-16s ban (High Court)\ncitation: Evidence summary of Josh Taylor, The Guardian Australia, 3 November 2026, on Reddit, Inc v Commonwealth (S166/2025) and Digital Freedom Project Incorporated v Commonwealth (S163/2025), heard 3 and 4 November 2026; read with Part 4A of the Online Safety Act 2021 (Cth) and eSafety's March 2026 survey\ndate: 2026-11-04\njurisdiction: High Court of Australia (Commonwealth)\nsignificance: Reddit and a libertarian group ask the High Court to strike down the under-16s social media ban, testing whether an implied freedom, not a bill of rights, can check a law protecting children.\ncore: hr.2.8, hr.3.1\nsupport: inv.5.4, inv.7.2, inv.4.5, hr.2.11, hr.2.9, hr.2.13, chg.1.3, chg.6.1, inv.7.4\nthemes: hr.t.values, hr.t.effectiveness, hr.t.compliance\ncriteria: rights, ruleoflaw, enforceability, responsiveness, society\ndocument: Human Rights/HR - Reddit v under-16s ban (High Court) - hearing Evidence Summary.pdf\ndocument11: Preliminary/Year 11 - Reddit v under-16s ban (High Court) Evidence Summary.pdf\nsource: https://www.theguardian.com/australia-news/2026/nov/03/reddit-and-libertarian-group-challenge-australias-under-16s-social-media-ban-in-high-court\nrelated: australian-constitution-rights-and-powers, online-safety-act-2021-and-social-media-minimum-age, under-16-social-media-ban-enforcement-2026,…",
+      "removed_lines": 0,
+      "added_lines": 66
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "un-rapporteur-refused-youth-detention-access-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "NT and Queensland shut a UN expert out of youth detention (Amnesty International, 2 November 2026)",
+     "short": "UN rapporteur refused detention access",
+     "citation": "Evidence summaries of an Amnesty International Australia media release, 2 November 2026, and Chloe Chomicki, ABC News, 4 November 2026, on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)",
+     "date": "2026-11-04",
+     "added": "2026-11-04",
+     "significance": "A UN expert invited to Australia was refused entry to two youth detention centres holding mostly First Nations children — the third UN access dispute since 2022.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.2.2",
+      "hr.2.1"
+     ],
+     "core_labels": [
+      "The role of the United Nations",
+      "State sovereignty"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-un-rapporteur-refused-youth-detention-access-2026",
+     "document": "Human Rights/HR - UN rapporteur refused detention access - ABC report Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1S04Avhl4sHHAcA6RNhOYbY8TW1_AFeK2/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.amnesty.org.au/un-special-rapporteur-refused-access-into-youth-detention-centres/",
+     "lead": "The Special Rapporteur's official visit runs **2–13 November 2026**. The NT and Queensland refused planned visits to\n**Holtze** and **Cleveland**, where about **97%** of children at Cleveland were Aboriginal and/or Torres Strait Islander at\ninspection. It is the second time in under a year the NT has blocked UN experts. First Nations young people are detained at **25.7 per 10,000** (2024–25), against a\nClosing the Gap target of a 30% fall by 2031; the Productivity Commission assesses no change.",
+     "use_it_for": "- **hr.2.2 / hr.2.1** — UN monitoring inside a sovereign, federal state; the Commonwealth answers internationally for\n  detention run by states and territories.\n- **Year 11 (the global legal system)** — state sovereignty and the UN's role.",
+     "caution": "A **class evidence summary of an NGO advocacy release**; no government explanation is included.",
+     "sections": {
+      "What the mandate asks v what happened": "| UN terms of reference | November 2026 |\n|---|---|\n| Access to all places of detention | Holtze and Cleveland visits refused |\n| Confidential contact with detainees | No in-centre contact with children |\n| Contact with authorities in every branch | NT and Qld refused to engage, the Rapporteur says |\n| Freedom of movement | Visit otherwise proceeding |\n| Findings reported to the Human Rights Council | Precedent: the WGAD relied on public reports for the NT |\n\nThe terms of reference are UN guidelines, not a treaty: visits depend on the state's invitation and cooperation.",
+      "ABC report (4 November 2026)": "Queensland gave a brief statement; the NT and the Commonwealth did not respond. Cleveland held **101** children against a\nsafe capacity of **95** (August 2025); about **90%** at Cleveland identified as Aboriginal or Torres Strait Islander (68.2%\nacross Queensland's centres). First Nations young people are detained at **26 times** the non-Indigenous rate (2023–24).\nQueensland's mandatory 12 months for serious offending on bail starts on 30 November. Special Rapporteurs visit under UN\nterms of reference, **not OPCAT**; cooperation rests on invitation. Preliminary findings are due in Sydney on **13\nNovember 2026**.",
+      "Use it for": "- **hr.2.2 / hr.2.1** — UN monitoring inside a sovereign, federal state; the Commonwealth answers internationally for\n  detention run by states and territories.\n- **Year 11 (the global legal system)** — state sovereignty and the UN's role.",
+      "Caution": "A **class evidence summary of an NGO advocacy release**; no government explanation is included."
+     },
+     "path": "evidence/media/un-rapporteur-refused-youth-detention-access-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "1660bf1",
+        "subject": "Evidence: file the 5 Nov inbox — fourteen new records, four cards updated"
+       }
+      ],
+      "latest_sha": "1660bf1",
+      "added_text": "---\ntype: media\ntitle: NT and Queensland shut a UN expert out of youth detention (Amnesty International, 2 November 2026)\nshort: UN rapporteur refused detention access\ncitation: Evidence summaries of an Amnesty International Australia media release, 2 November 2026, and Chloe Chomicki, ABC News, 4 November 2026, on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)\ndate: 2026-11-04\njurisdiction: UN Human Rights Council special procedures; Northern Territory and Queensland youth detention; Commonwealth answerable internationally\nsignificance: A UN expert invited to Australia was refused entry to two youth detention centres holding mostly First Nations children — the third UN access dispute since 2022.\ncore: hr.2.2, hr.2.1\nsupport: hr.2.12, hr.3.1, hr.1.3, crime.5.4, crime.5.3, inv.6.2, inv.6.3, inv.6.4, inv.5.2, exp.4.1, exp.5.1\nthemes: hr.t.sovereignty, hr.t.compliance, hr.t.effectiveness\ncriteria: rights, enforceability, responsiveness\ndocument: Human Rights/HR - UN rapporteur refused detention access - ABC report Evidence Summary.pdf\nsource: https://www.amnesty.org.au/un-special-rapporteur-refused-access-into-youth-detention-centres/\nrelated: un-experts-custody-bills-2026, senate-youth-justice-inquiry-2026, croc-1989, young-offenders-in-the-cjs, qld-breach-bail-go-to-jail-2026\nadded: 2026-11-04\nadded_at: 2026-11…",
+      "removed_lines": 0,
+      "added_lines": 55
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "family",
+   "label": "Family",
+   "part": "HSC Option 3",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "dv-commissioner-manosphere-warning-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "DV Commissioner warns online misogyny is outpacing the law (ABC, 5 November 2026)",
+     "short": "DV Commissioner manosphere warning",
+     "citation": "Evidence summary of Claudia Long, ABC News, 5 November 2026, interviewing Micaela Cronin, Domestic, Family and Sexual Violence Commissioner; National Plan to End Violence against Women and Children 2022–2032 and its Second Action Plan; Online Safety Act 2021 (Cth) and the Digital Duty of Care Bill 2026",
+     "date": "2026-11-05",
+     "added": "2026-11-05",
+     "significance": "Harmful attitudes form online years before any offence: the Commissioner calls for funded prevention, a digital duty of care and action on overdue recommendations — the limits of reactive DV law.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.4",
+      "fam.2.6"
+     ],
+     "core_labels": [
+      "Dealing with domestic violence",
+      "The role of non-government organisations"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-dv-commissioner-manosphere-warning-2026",
+     "document": "Family/Evidence Summaries/Family - DV Commissioner Manosphere Warning Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1kPj9e_8bw87j08WTLuqyDuSWPljBf4Ho/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-05/dv-commissioner-warns-of-manosphere-threat/107341914",
+     "lead": "Commissioner **Micaela Cronin** says online misogyny (\"the manosphere\") is shaping young men's attitudes faster than\nlaw and policy can respond. In one survey **24.7%** of boys aged 13–17 agreed feminism may be violently resisted; **70%**\nof 2,600+ teachers saw manosphere ideas affect students in the past year; reported sexual violence rose **64%** over 15\nyears. Of 21 Rapid Review recommendations (August 2024), responses have been \"progressive\".",
+     "use_it_for": "- **fam.2.4** — the effectiveness of legal and non-legal responses to DV; prevention versus punishment.\n- **fam.2.6** — statutory and non-government bodies driving reform.",
+     "caution": "A **class evidence summary of a report built around one official's views**; some study figures and wording in the article\ndo not match the originals (the 24.7% is boys 13–17, not \"Gen Z men\").",
+     "sections": {
+      "Legal v non-legal responses": "| | Legal | Non-legal |\n|---|---|---|\n| Timing | Mostly after harm; coercive control (s 54D) from 1 July 2024 | Prevention and early intervention target attitudes first |\n| Online | Digital duty of care Bill (passed the House 28 October) | Respectful relationships education; 95% of teachers say some students need it |\n| Oversight | Courts, police | The Commission monitors the National Plan; Second Action Plan from 2027 |",
+      "Use it for": "- **fam.2.4** — the effectiveness of legal and non-legal responses to DV; prevention versus punishment.\n- **fam.2.6** — statutory and non-government bodies driving reform.",
+      "Caution": "A **class evidence summary of a report built around one official's views**; some study figures and wording in the article\ndo not match the originals (the 24.7% is boys 13–17, not \"Gen Z men\")."
+     },
+     "path": "evidence/media/dv-commissioner-manosphere-warning-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "daphne-nirmal-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Daphne & Nirmal [2026] FedCFamC2F 58 — family violence, unacceptable risk and graduated time",
+     "short": "Daphne & Nirmal",
+     "citation": "[2026] FedCFamC2F 58 (Judge Suthers, Newcastle, 21 January 2026)",
+     "date": "2026-01-21",
+     "added": "2026-11-05",
+     "significance": "The court found a father committed family violence and that unsupervised time was an unacceptable risk — even though his intimidation conviction and AVO had been overturned on appeal.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.2",
+      "fam.2.4"
+     ],
+     "core_labels": [
+      "Legal consequences of separation — children",
+      "Dealing with domestic violence"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-daphne-nirmal-2026",
+     "document": "Cases/Family/Daphne & Nirmal [2026] FedCFamC2F 58 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1dcUWAyAihyKidNpq9awCiiZVhzELluZU/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Daphne & Nirmal [2026] FedCFamC2F 58 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1CDlmOfJ5YEcAAXWYy80cW5nKAQw8XAOi/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "Two parents sought final parenting orders for children aged **10 and 8**. In 2023 the father was found guilty of\nintimidation and a two-year AVO protected the mother, but in early 2025 the **District Court quashed the conviction and\ndismissed the AVO**. The trial ran over four days in September 2025.",
+     "use_it_for": "- **fam.2.2 / fam.2.4** — best interests and safety under the 2024 parenting provisions; family violence findings in\n  family law.\n- **Civil v criminal standard** — the same conduct, different outcomes in different courts.",
+     "caution": "A **class case summary**; sensitive (family violence, children). The independent children's lawyer is named\ninconsistently, and the catchwords and reasons cite different sections.",
+     "sections": {
+      "Held — Judge Suthers": "- The father was a **perpetrator of family violence** (including controlling behaviour at a doorway incident) — the\n  family court decides on the **balance of probabilities**, so a quashed criminal conviction does not decide the issue.\n- Unsupervised time posed an **unacceptable risk** to the children.\n- **Orders (38 parts):** children live with the mother, who has **sole parental responsibility**; time with the father\n  begins **supervised** and graduates, with safe changeovers; a neutral expert explains the orders to the children,\n  whose wish to see their father is respected.\n- The judge criticised **both** parents for escalating the conflict.",
+      "Use it for": "- **fam.2.2 / fam.2.4** — best interests and safety under the 2024 parenting provisions; family violence findings in\n  family law.\n- **Civil v criminal standard** — the same conduct, different outcomes in different courts.",
+      "Caution": "A **class case summary**; sensitive (family violence, children). The independent children's lawyer is named\ninconsistently, and the catchwords and reasons cite different sections."
+     },
+     "path": "evidence/cases/daphne-nirmal-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "rahman-rahman-no3-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Rahman & Rahman (No 3) [2026] FedCFamC2F 1203 — no full and frank disclosure, no property order",
+     "short": "Rahman & Rahman (No 3)",
+     "citation": "[2026] FedCFamC2F 1203 (Judge Murdoch, Sydney, 11 August 2026)",
+     "date": "2026-08-11",
+     "added": "2026-11-05",
+     "significance": "A husband sought 55% of a 40-year marriage's property but repeatedly failed to disclose his overseas companies and accounts — so the court dismissed his application.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.3"
+     ],
+     "core_labels": [
+      "Legal consequences of separation — property"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-rahman-rahman-no3-2026",
+     "document": "Cases/Family/Rahman & Rahman (No 3) [2026] FedCFamC2F 1203 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1J5uMQa0W4sV-jMvegaAVYakSXvPzU9Qz/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Rahman & Rahman (No 3) [2026] FedCFamC2F 1203 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1JUR_FwmD5UAvEoO3XNaImbZzu3api9RK/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "The parties married in 1986 and emigrated in 1992. The husband filed for property orders in February 2025 seeking **55%**\nof the net property; the wife had dropped her own claim. After interim orders (a $50,000 partial settlement and a\ndisclosure deadline) he missed the trial date, filed his affidavit and financial statement late, and made an unsuccessful\nrecusal application.",
+     "use_it_for": "- **fam.2.3** — the steps in a property settlement and why disclosure is the foundation.\n- **Year 11 (civil law)** — the burden of proof in civil proceedings.",
+     "caution": "A **class case summary** (pseudonyms). One paragraph of the judgment is corrupted, and hearing dates differ between the\nheader and the reasons.",
+     "sections": {
+      "Held — application dismissed": "- The husband breached his duty of **full and frank disclosure**: his overseas company interests and bank accounts were\n  never identified or valued.\n- Without that, the court could not find it **just and equitable** to alter property interests; the husband bore the\n  **onus** and had not shown the facts for the orders he sought. The wife held nearly all the known assets.\n- Costs were reserved.",
+      "Use it for": "- **fam.2.3** — the steps in a property settlement and why disclosure is the foundation.\n- **Year 11 (civil law)** — the burden of proof in civil proceedings.",
+      "Caution": "A **class case summary** (pseudonyms). One paragraph of the judgment is corrupted, and hearing dates differ between the\nheader and the reasons."
+     },
+     "path": "evidence/cases/rahman-rahman-no3-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "rogge-and-loos-child-support-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Rogge and Loos (Child support) [2026] ARTA 2605 — no calendars, so the Tribunal splits the difference",
+     "short": "Rogge and Loos (Child support)",
+     "citation": "[2026] ARTA 2605 (General Member S Hoffman, Perth, 25 August 2026)",
+     "date": "2026-08-25",
+     "added": "2026-11-05",
+     "significance": "Two self-represented parents disputed how many nights their daughter spent with each; with no records, the Tribunal set aside a 75/25 decision and fixed care at 70/30.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.2",
+      "fam.2.5"
+     ],
+     "core_labels": [
+      "Legal consequences of separation — children",
+      "The roles of courts and dispute resolution methods"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-rogge-and-loos-child-support-2026",
+     "document": "Cases/Family/Rogge and Loos (Child support) [2026] ARTA 2605 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1rw-IT0--r4N-8XoUJGFvoyaQgMQEQa2O/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Rogge and Loos (Child support) [2026] ARTA 2605 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1gW0O_f_3RkO0ugm4dOjACa2dCX91ywgN/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A 2016 parenting plan recorded care of a girl (born 2012) as **65% mother, 35% father**. In 2024 the mother told Child\nSupport that care had changed from 14 August 2022; on objection, Child Support decided **75/25**. The father sought\nreview. Both parents were self-represented; the hearing was by video with an interpreter.",
+     "use_it_for": "- **fam.2.2** — care percentages drive child support; small changes in nights change who pays.\n- **fam.2.5 / tribunals** — informal, accessible review for self-represented parents, and its limits when evidence is\n  missing.",
+     "caution": "A **class case summary** of a single-member decision (pseudonyms). The decision has no paragraph numbers, and the\nnight arithmetic and the mother's 2024 overseas claim are loosely reasoned.",
+     "sections": {
+      "Held — decision set aside": "- Neither parent had kept a calendar. The Tribunal accepted the father had not provided all the care the plan expected,\n  but could not fix the exact nights.\n- It **split the difference**: 254 nights to the mother, 111 to the father — **70/30** from 14 August 2022, with the old\n  65/35 revoked as of 13 August 2022.",
+      "Use it for": "- **fam.2.2** — care percentages drive child support; small changes in nights change who pays.\n- **fam.2.5 / tribunals** — informal, accessible review for self-represented parents, and its limits when evidence is\n  missing.",
+      "Caution": "A **class case summary** of a single-member decision (pseudonyms). The decision has no paragraph numbers, and the\nnight arithmetic and the mother's 2024 overseas claim are loosely reasoned."
+     },
+     "path": "evidence/cases/rogge-and-loos-child-support-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "statham-statham-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Statham & Statham [2026] FedCFamC2F 182 — property settlement after a husband's bankruptcy",
+     "short": "Statham & Statham",
+     "citation": "[2026] FedCFamC2F 182 (Judge Colquhoun, Sydney, 17 February 2026)",
+     "date": "2026-02-17",
+     "added": "2026-11-05",
+     "significance": "The husband's only asset — shares giving a right to live in the family apartment — had vested in his bankruptcy trustee, yet the court divided the property and gave the shares to the wife.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.3"
+     ],
+     "core_labels": [
+      "Legal consequences of separation — property"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-statham-statham-2026",
+     "document": "Cases/Family/Statham & Statham [2026] FedCFamC2F 182 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/14jA8GBS2ktOXHnb08nzplU2LGNYkVBFK/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Statham & Statham [2026] FedCFamC2F 182 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1O2yvRgkU7iYcq2M8HRa0hK5joZIuxEVa/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "In 2015–16 the husband bought company shares, secured by a loan, that carried the **right to occupy an apartment** where\nthe wife and children lived; from 2021 the wife paid the loan. In early 2023 the husband became **bankrupt** and the\nshares vested in his **trustee**; the bank sued for possession. The wife sought property orders, and days before the\nhearing the husband's agent registered a **charge** on the shares.",
+     "use_it_for": "- **fam.2.3** — property orders under s 79 and the Family Law Act's power to bind a bankruptcy trustee (s 90AE).\n- **Contributions** — financial contributions (loan payments) and housing for the children.",
+     "caution": "A **class case summary** (pseudonyms). Marriage length and separation date are muddled in the judgment; coercive control\nallegations were not determined; some statutory extracts are not verbatim.",
+     "sections": {
+      "Held — Judge Colquhoun": "- It was **just and equitable** to alter property interests even though the main asset had vested in the trustee.\n- Using a **two-pool** approach, the wife's contributions to the shares were assessed at **100%**: the shares were\n  **transferred to her** and she takes over the loan.\n- The court could not order the non-party agent to remove the charge, so it ordered the **husband** to remove it. His\n  adjournment request was refused.",
+      "Use it for": "- **fam.2.3** — property orders under s 79 and the Family Law Act's power to bind a bankruptcy trustee (s 90AE).\n- **Contributions** — financial contributions (loan payments) and housing for the children.",
+      "Caution": "A **class case summary** (pseudonyms). Marriage length and separation date are muddled in the judgment; coercive control\nallegations were not determined; some statutory extracts are not verbatim."
+     },
+     "path": "evidence/cases/statham-statham-2026.md",
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "shelter",
+   "label": "Shelter",
+   "part": "HSC Option 5",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "short-stay-levy-community-housing-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Peak body pitches a 7.5% short-stay levy to fund NSW social housing (ABC, 4 November 2026)",
+     "short": "Short-stay levy for community housing",
+     "citation": "Evidence summary of Declan Bowring, ABC News, 4 November 2026, on CHIA NSW's commissioned research (McKell Institute land tax modelling); Short Stay Levy Act 2024 (Vic); State Environmental Planning Policy (Housing) 2021 (NSW)",
+     "date": "2026-11-04",
+     "added": "2026-11-05",
+     "significance": "With 72,000 households on the waitlist, CHIA NSW proposes a 7.5% levy on short stays, as Victoria has, to raise $135m a year — a peak body driving law reform through new taxes.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.3.4",
+      "shel.1.4"
+     ],
+     "core_labels": [
+      "Social housing",
+      "Types of shelter"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-short-stay-levy-community-housing-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - Short Stay Levy for Community Housing Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/19c9t5dHCSVNWcwwgOK-vBYRjEC3GfyXr/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-04/community-housing-body-calls-for-short-stay-levy/107341406",
+     "lead": "The **Community Housing Industry Association NSW** (CEO Luke Achterstraat) presented research at NSW Parliament on 4\nNovember 2026: a **7.5%** short-stay levy could raise about **$135m a year**, and its broader options (mostly land tax)\nabout **$26bn** over 10 years. NSW's $6.6bn Building Homes for NSW program promises 8,400 public homes.",
+     "use_it_for": "- **shel.3.4** — funding social and community housing; a hypothecated tax versus planning caps.\n- **Law reform** — a non-government stakeholder proposing a new law.",
+     "caution": "A **class evidence summary of an advocacy proposal**; the revenue figures are CHIA NSW and McKell modelling, not\nindependently verified, and the report was not obtained.",
+     "sections": {
+      "Victoria v NSW": "| | Victoria (levy) | NSW (planning controls) |\n|---|---|---|\n| Law | *Short Stay Levy Act 2024*, from 1 January 2025 | SEPP (Housing) 2021, framework from 1 November 2021 |\n| Mechanism | **7.5%** of booking fees for stays under 28 days, earmarked for housing | Mandatory register, code of conduct; 180-day cap on non-hosted stays in some areas |\n| Who pays | Booking platform, or the owner for direct bookings | Host registers; $65 first-year fee |\n| Housing revenue | Yes | None |\n\nThe Government, Opposition, Greens and industry responded; NSW announced a short-term rental review in December 2023.",
+      "Use it for": "- **shel.3.4** — funding social and community housing; a hypothecated tax versus planning caps.\n- **Law reform** — a non-government stakeholder proposing a new law.",
+      "Caution": "A **class evidence summary of an advocacy proposal**; the revenue figures are CHIA NSW and McKell modelling, not\nindependently verified, and the report was not obtained."
+     },
+     "path": "evidence/media/short-stay-levy-community-housing-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "priced-out-of-parenthood-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Priced out of parenthood — Sydney house prices and falling births (SMH, 5 November 2026)",
+     "short": "Priced out of parenthood",
+     "citation": "Evidence summary of Matt Wade and Bronte Gossling, The Sydney Morning Herald, 5 November 2026, reporting unpublished KPMG analysis (Terry Rawnsley); ABS Births 2024",
+     "date": "2026-11-05",
+     "added": "2026-11-05",
+     "significance": "Sydney neighbourhoods with median house prices of $400k–$900k fell from 199 to 86 in five years, and births hit a 20-year low — unaffordable shelter shaping whether people start families.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.1.4",
+      "shel.1.3"
+     ],
+     "core_labels": [
+      "Types of shelter",
+      "Obligation to provide shelter"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-priced-out-of-parenthood-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - Priced Out of Parenthood Sydney House Prices and Births Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1KEGmGAGqCZekDnOsvUwcVpP6YilHM7-y/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.smh.com.au/",
+     "lead": "KPMG compared house prices and births across Greater Sydney neighbourhoods in 2019 and 2024. Neighbourhoods with median\nprices of **$400k–$900k** fell from **199 to 86**; Greater Sydney had **58,122** births in 2024, a reported 20-year low.\nSydney's fertility rate (**1.4**) compares with **1.98** in NSW outside Sydney (ABS gives NSW overall as 1.46). The\nSydney median house price is **$1.66m** (September quarter 2026), 7.9% below its peak. One family moved to Newcastle to\nafford a home.",
+     "use_it_for": "- **shel.1.4 / shel.1.3** — affordability and its social consequences; whether planning, tax and lending laws are doing\n  enough, fast enough.",
+     "caution": "A **class evidence summary of a news report of unpublished consultancy analysis**; neighbourhood and regional fertility\nfigures were not independently checked. No government response.",
+     "sections": {
+      "The legal levers (not discussed in the article)": "Planning (the Housing SEPP's low- and mid-rise reforms), stamp duty concessions for first home buyers, the\nCommonwealth 5% Deposit Scheme and the National Housing Accord.",
+      "Use it for": "- **shel.1.4 / shel.1.3** — affordability and its social consequences; whether planning, tax and lending laws are doing\n  enough, fast enough.",
+      "Caution": "A **class evidence summary of a news report of unpublished consultancy analysis**; neighbourhood and regional fertility\nfigures were not independently checked. No government response."
+     },
+     "path": "evidence/media/priced-out-of-parenthood-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "lydias-legacy-tiny-homes-planning-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Tiny homes for homeless people stalled by caravan-era planning rules (ABC, 4 November 2026)",
+     "short": "Lydia's Legacy tiny homes",
+     "citation": "Evidence summary of Brooke Chandler, ABC Illawarra, 4 November 2026; Local Government (Manufactured Home Estates, Caravan Parks, Camping Grounds and Moveable Dwellings) Regulation 2021 (NSW) cl 77; Local Government Act 1993 (NSW) s 68; Wingecarribee LEP 2010 cl 5.5",
+     "date": "2026-11-04",
+     "added": "2026-11-05",
+     "significance": "A charity's plan to put tiny homes for homeless people on private rural land stalls because clause 77 lets a moveable dwelling be lived in long term only by the owner's household or disaster victims.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.3.2",
+      "shel.2.8"
+     ],
+     "core_labels": [
+      "Discrimination",
+      "The role of government organisations"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lydias-legacy-tiny-homes-planning-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - Lydias Legacy Tiny Homes Planning Rules Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/17sKbddMBEo0a-_q_0E08gjyDIOA3KmAO/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-04/tiny-homes-for-rich-region-rough-sleepers/107335212",
+     "lead": "About **72** people are homeless each night in the Southern Highlands; priority social housing waits are about 5 years\nand average waits over 10 (Argyle Housing). Southern Highlands charity **Lydia's Legacy** wants to place moveable tiny\nhomes (8 m by 2.5 m, up to **$150,000** each) on private rural land offered by a landowner.",
+     "use_it_for": "- **shel.3.2 / shel.2.8** — planning law, not tenancy law, deciding whether shelter is provided at all; law reform lagging\n  a housing crisis.",
+     "caution": "A **class evidence summary of a local feature**, sympathetic to the charity; figures are service-provider estimates.",
+     "sections": {
+      "Granny flat v tiny home on wheels": "| | Granny flat (secondary dwelling) | Tiny home on wheels (moveable dwelling) |\n|---|---|---|\n| Legal category | A dwelling under the planning instruments and LEP | A caravan, if registrable as a trailer |\n| Approval | Development application; fast-track CDC unavailable in rural zones | No approval if the **cl 77** exemption applies; otherwise DA and s 68 |\n| Who may live there | Can be rented once approved | Long term only by the **owner's household** or disaster victims — not a homeless tenant |\n\nA 2026 Legislative Council inquiry reported in March; the government supported **3 of 6** relevant recommendations in\nprinciple.",
+      "Use it for": "- **shel.3.2 / shel.2.8** — planning law, not tenancy law, deciding whether shelter is provided at all; law reform lagging\n  a housing crisis.",
+      "Caution": "A **class evidence summary of a local feature**, sympathetic to the charity; figures are service-provider estimates."
+     },
+     "path": "evidence/media/lydias-legacy-tiny-homes-planning-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "right-help-right-time-homelessness-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Coalition urges a $1bn homelessness prevention push — Right Help, Right Time (4 November 2026)",
+     "short": "Right Help Right Time homelessness",
+     "citation": "Evidence summary of a Medianet media release, 4 November 2026, launching the Right Help, Right Time campaign and open letter at NSW Parliament (Uniting NSW.ACT, NCOSS, Mission Australia, Homelessness NSW, Domestic Violence NSW, Youth Action and others), checked against AIHW, Street Count and DCJ data",
+     "date": "2026-11-04",
+     "added": "2026-11-04",
+     "significance": "Eleven NGOs frame homelessness as a failure of early help and seek $1bn over four years; most of their figures check out, but the claim that it would save $2.1bn is unsupported.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.3.2",
+      "shel.2.6"
+     ],
+     "core_labels": [
+      "Discrimination",
+      "The roles of courts and tribunals"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-right-help-right-time-homelessness-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - Right Help Right Time Early Intervention Release Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1rh1VVOAPedH1PsD91sAD2HZP1q4YDohu/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.nsw.gov.au/ministerial-releases/2026-street-count",
+     "lead": "",
+     "use_it_for": "- **shel.3.2 / shel.2.6** — NGOs and the media as drivers of law and policy reform on homelessness; prevention versus\n  crisis response.\n- **Evaluating sources** — an advocacy release whose claims can be checked against official data.",
+     "caution": "A **class evidence summary of a sector campaign release** with no cited sources and no government response. The source\nlink is the NSW Street Count release used to check the figures.",
+     "sections": {
+      "Claims v official data": "| Coalition claim | Official or primary data |\n|---|---|\n| Nearly 700,000 in NSW at risk of homelessness | Impact Economics model: **696,442** (2022) — a model, not a headcount |\n| Almost two in three seeking emergency housing don't get it | AIHW 2024–25: **35%** of clients needing it were provided it |\n| Rough sleeping up 75% in five years | Street Count: **1,319** (2020) → **2,308** (2026) |\n| Priority waitlist doubled | **5,800** (June 2021) → **12,478** (March 2026) |\n| Rents up 48% | Median $460 → $680, 2020–25 (DCJ, via Homelessness NSW) |\n| $1bn over four years avoids up to $2.1bn in costs | **No costing published** |\n\nThe 2021 Census counted 35,011 people homeless in NSW. Several fig…",
+      "Updated summary (5 November)": "The campaign's open letter to **Premier Chris Minns** proposes a **Preventing Harm Framework**, shifting spending from crisis\nto early intervention. Spokespeople included Ben Keneally (Uniting), Dom Rowe (Homelessness NSW) and Delia Donovan (DV NSW).\n**59 people a day** were turned away from NSW homelessness services in 2024–25. The 75% rough-sleeping rise and the\n12,478 waitlist are Homelessness NSW analyses of government data.",
+      "Use it for": "- **shel.3.2 / shel.2.6** — NGOs and the media as drivers of law and policy reform on homelessness; prevention versus\n  crisis response.\n- **Evaluating sources** — an advocacy release whose claims can be checked against official data.",
+      "Caution": "A **class evidence summary of a sector campaign release** with no cited sources and no government response. The source\nlink is the NSW Street Count release used to check the figures."
+     },
+     "path": "evidence/media/right-help-right-time-homelessness-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "1660bf1",
+        "subject": "Evidence: file the 5 Nov inbox — fourteen new records, four cards updated"
+       }
+      ],
+      "latest_sha": "1660bf1",
+      "added_text": "---\ntype: media\ntitle: Coalition urges a $1bn homelessness prevention push — Right Help, Right Time (4 November 2026)\nshort: Right Help Right Time homelessness\ncitation: Evidence summary of a Medianet media release, 4 November 2026, launching the Right Help, Right Time campaign and open letter at NSW Parliament (Uniting NSW.ACT, NCOSS, Mission Australia, Homelessness NSW, Domestic Violence NSW, Youth Action and others), checked against AIHW, Street Count and DCJ data\ndate: 2026-11-04\njurisdiction: NSW — Minns Government, Homes NSW, NSW Treasury; Commonwealth co-funding\nsignificance: Eleven NGOs frame homelessness as a failure of early help and seek $1bn over four years; most of their figures check out, but the claim that it would save $2.1bn is unsupported.\ncore: shel.3.2, shel.2.6\nsupport: shel.1.1, shel.1.4, shel.3.4, fam.2.4, chg.2.2\nthemes: shel.t.reform, shel.t.effectiveness, shel.t.values\ncriteria: accessibility, resource, responsiveness, society\ndocument: Shelter/Evidence Sheets/Shelter - Right Help Right Time Early Intervention Release Evidence Summary.pdf\nsource: https://www.nsw.gov.au/ministerial-releases/2026-street-count\nrelated: homelessness-services-turning-people-away-2026, homelessness-nsw-place-to-call-home-2025, shelter-homelessness-evidence-sheet, abs-homelessness-census-2021\nadded: 2026-11-04\nadded_at: 2026-11-04 07:17\nupdated_at: 2026-11-05 07:33\n---\n\n## Claims v official data\n\n| Coalition claim | Official or primary data |\n|---|---|\n| Nearly 700,000 in N…",
+      "removed_lines": 0,
+      "added_lines": 50
+     },
+     "in_site_build": true
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "2 commit(s) on this Mac have not been pushed (as of the last fetch): card links will not work for those cards until Push origin.",
+  "1 bulk commit(s) touching more than 30 cards were ignored as retagging, not content updates."
+ ]
+}

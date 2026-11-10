@@ -1,0 +1,757 @@
+{
+ "generated": "2026-11-10T08:40:11",
+ "today": "2026-11-10",
+ "window_start": "2026-11-08",
+ "basis": "the last digest (2026-11-09 08:06), looking back a day",
+ "site_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
+ "counts": {
+  "new": 12,
+  "updated": 4
+ },
+ "groups": [
+  {
+   "key": "crime",
+   "label": "Crime",
+   "part": "HSC Core Part I",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "bocsar-cjb282-police-diversion-disparities",
+     "status": "new",
+     "type": "report",
+     "type_label": "Report & statistics",
+     "title": "Aboriginal children far less likely to be diverted from court — BOCSAR Crime and Justice Bulletin 282 (October 2026)",
+     "short": "BOCSAR CJB 282 (police diversion gap)",
+     "citation": "Evidence summary of M Zappia, Examining disparities in police diversion between Aboriginal and non-Aboriginal children in NSW, Crime and Justice Bulletin No 282 (BOCSAR, October 2026; released 10 November 2026); Young Offenders Act 1997 (NSW) ss 7, 8, 13–14",
+     "date": "2026-11-10",
+     "added": "2026-11-10",
+     "significance": "Even where diversion was legally available, police sent 54% of Aboriginal children's matters to court against 24% of others. About 8 points of the 30-point gap cannot be explained by legal factors.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.5.5",
+      "crime.2.1"
+     ],
+     "core_labels": [
+      "Alternatives to court",
+      "Police powers"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-bocsar-cjb282-police-diversion-disparities",
+     "document": "Crime/Media/Crime - BOCSAR Police Diversion Disparities Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1o59c3JNXHIMMuqRn-3UZ1ipvwbTIxbx9/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-10/nsw-aboriginal-children-less-likely-to-receive-police-diversion/107365038",
+     "lead": "BOCSAR analysed **56,742** police events involving **23,605** children. **68%** of Aboriginal children's events went to court\nagainst **38%** of non-Aboriginal children's; among events eligible for YOA diversion the figures were **54%** and **24%**.",
+     "use_it_for": "- **crime.5.5 / crime.2.1** — police discretion under the YOA and whether it is applied fairly.\n- **Effectiveness** — diversion is the law's main tool for keeping children out of court; unequal use undermines it.",
+     "caution": "A **class summary of a statistical bulletin**: the findings are associations, not proof of bias or its cause.",
+     "sections": {
+      "How police dealt with eligible matters": "| | Aboriginal children | Non-Aboriginal children |\n|---|---|---|\n| Sent to court | 54% | 24% |\n| Warned | 10% | 22% |\n| Cautioned | 30% | 48% |\n| On bail when proceeded against | About 30% | About 13% |\n| First formal contact sent to court | 10% | 5% |\n\nOf the **30-point** gap, about 22 points link to offence type (5), bail status (5) and prior contact (the rest); about\n**8 points are unexplained** (18–22 explained under other weightings). The gap grows from 15 points at ages 10–11 to 36 at 17,\nbecause each formal contact makes later diversion less likely.",
+      "The diversion ladder": "Section 7 says the least restrictive suitable option should be used and Aboriginal over-representation addressed through\ndiversion. Excluded offences (s 8) go to court; warnings suit non-violent summary offences; cautions needed an admission\n(from 1 July 2026 a non-denial statement suffices, with a three-cautions-in-three-years limit); conferences for more serious\neligible offending.\n\n- **History**: BOCSAR found 64.8% of eligible Indigenous young people diverted against 85.1% of others (2013); the youth\n  diversion rate fell from 51.3% to 46.8% (2024); the Productivity Commission says NSW is worsening on Closing the Gap Target 11.",
+      "Use it for": "- **crime.5.5 / crime.2.1** — police discretion under the YOA and whether it is applied fairly.\n- **Effectiveness** — diversion is the law's main tool for keeping children out of court; unequal use undermines it.",
+      "Caution": "A **class summary of a statistical bulletin**: the findings are associations, not proof of bias or its cause."
+     },
+     "path": "evidence/reports/bocsar-cjb282-police-diversion-disparities.md",
+     "in_site_build": true
+    },
+    {
+     "id": "black-v-r-trautsch-v-r-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Black v R; Trautsch v R [2026] NSWCCA 185 — former police officers' sentences cut for errors with aggravating factors",
+     "short": "Black v R; Trautsch v R",
+     "citation": "[2026] NSWCCA 185 (Dhanji, McNaughton and Coleman JJ, 9 November 2026)",
+     "date": "2026-11-09",
+     "added": "2026-11-10",
+     "significance": "Two former officers who assaulted a vulnerable woman and used OC spray won sentence appeals: gratuitous cruelty could not aggravate the assaults, and trust and authority were double counted.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.3",
+      "crime.4.5"
+     ],
+     "core_labels": [
+      "Factors affecting a sentencing decision",
+      "Appeals"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-black-v-r-trautsch-v-r-2026",
+     "document": "Cases/Crime/Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1Uef_o1IL3NRw0_YGejW--vsF8LqUHHJM/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1DRuN-xPY2SQqpfj49VjG4WV5osWiy4oX/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "On 22 January 2023 two on-duty NSW police officers attended a woman in distress; they assaulted her and used OC spray, and\nBlack also sent protected video. Both pleaded guilty (10% discount) to common assault and unauthorised use of a prohibited\nweapon. The District Court sentenced Black to **5 years 9 months** and Trautsch to **5 years 6 months** (8 August 2025).",
+     "use_it_for": "- **crime.4.3 / crime.4.5** — statutory aggravating factors and appeals against sentence.\n- **Moral and ethical standards** — police who abuse their position are still sentenced on correct principles.",
+     "caution": "Manifest excess was not decided, and Trautsch's hospital evidence was not admitted. Coleman J's reasons are at [142], not\n[147] as the judgment header says.",
+     "sections": {
+      "The three questions": "| Issue | Held |\n|---|---|\n| Can an assault be aggravated by **gratuitous cruelty** (s 21A(2)(f))? | Not the assaults here; the factor needs pain as an end in itself |\n| Was it an error to find both **abuse of trust and abuse of authority** (s 21A(2)(k))? | Yes — counting both without explanation risked double weight |\n| What sentences on resentencing? | Black **3 years 2 months** (non-parole 2 years 1 month); Trautsch **3 years** (non-parole 2 years) |\n\nSentencing is an \"instinctive synthesis\" (*Markarian*); the appeal court corrects errors in how discretion is exercised.",
+      "Use it for": "- **crime.4.3 / crime.4.5** — statutory aggravating factors and appeals against sentence.\n- **Moral and ethical standards** — police who abuse their position are still sentenced on correct principles.",
+      "Caution": "Manifest excess was not decided, and Trautsch's hospital evidence was not admitted. Coleman J's reasons are at [142], not\n[147] as the judgment header says."
+     },
+     "path": "evidence/cases/black-v-r-trautsch-v-r-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "lb-v-r-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "LB v R [2026] NSWDC 405 — a speed camera photo, identification evidence and a fanciful alternative theory",
+     "short": "LB v R",
+     "citation": "[2026] NSWDC 405 (Newlinds SC DCJ, 6 November 2026)",
+     "date": "2026-11-06",
+     "added": "2026-11-10",
+     "significance": "A young person's convictions rested on a speed camera photo the magistrate compared with him in court. The photo was admissible, not unfairly prejudicial, and the \"someone else did it\" theory was fanciful.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.3.7",
+      "crime.3.6"
+     ],
+     "core_labels": [
+      "Use of evidence, including witnesses",
+      "Burden and standard of proof"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lb-v-r-2026",
+     "document": "Cases/Crime/LB v R [2026] NSWDC 405 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1lL3FnjsLdYhOesZXRJqe1r3-4BaILxqU/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - LB v R [2026] NSWDC 405 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1CNEm4vo7XAMNd167Tp0GT34ybYcJtWS8/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "At 1.30am on 6 June 2025 an intruder took a woman's car keys and drove off in her car; about six minutes later a speed\ncamera photographed it, and a matching balaclava was later found inside. The young person (initials only, s 15A) was\nconvicted in the Children's Court of aggravated break and enter and taking a conveyance. **Identity** was the only issue.",
+     "use_it_for": "- **crime.3.7 / crime.3.6** — admissibility and discretionary exclusion of evidence; proof beyond reasonable doubt on a\n  circumstantial case.\n- **crime.5.3** — a Children's Court conviction tested on appeal, with the young person's identity protected.",
+     "caution": "The file gives two dates for the Children's Court decision (16 and 17 July 2026).",
+     "sections": {
+      "The three questions": "| Issue | Held |\n|---|---|\n| Was the photo admissible (s 55), or should it be excluded or limited (ss 137, 136)? | Admissible — facial features clearly visible; warnings (including on unconscious racial bias) reduced the danger of unfair prejudice |\n| Could the Children's Court be satisfied beyond reasonable doubt that LB was the driver? | Yes, on the whole circumstantial case (photo, fingerprints, body-worn video) |\n| Was the idea that another person did it excluded? | Yes — the alternative theory was fanciful |\n\nAppeal **dismissed**; convictions confirmed. The first hearing was adjourned because only a photocopy of the photo was available.",
+      "Use it for": "- **crime.3.7 / crime.3.6** — admissibility and discretionary exclusion of evidence; proof beyond reasonable doubt on a\n  circumstantial case.\n- **crime.5.3** — a Children's Court conviction tested on appeal, with the young person's identity protected.",
+      "Caution": "The file gives two dates for the Children's Court decision (16 and 17 July 2026)."
+     },
+     "path": "evidence/cases/lb-v-r-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "r-v-rk-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "R v RK [2026] NSWSC 1414 — a 14-year-old who prepared a terrorist act gets a community correction order, not jail",
+     "short": "R v RK",
+     "citation": "[2026] NSWSC 1414 (Campbell J, 9 November 2026)",
+     "date": "2026-11-09",
+     "added": "2026-11-10",
+     "significance": "A rare non-custodial sentence for an offence carrying life: youth, remorse and excellent prospects outweighed general deterrence, with a three-year community correction order and strict device conditions.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.5.4",
+      "crime.4.2"
+     ],
+     "core_labels": [
+      "Penalties for children",
+      "The purposes of punishment"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-rk-2026",
+     "document": "Cases/Crime/R v RK [2026] NSWSC 1414 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1xUbWhmFuEI-SR8km_DQRE0rSJLdRMlYp/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - R v RK [2026] NSWSC 1414 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1QtqG-frNfNiG2gtvvTPO6b2cN77fmGOC/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "Between 30 June and 8 August 2024 RK, then **14**, did online research and sent messages about an attack on a marathon —\nno plan, date or materials. The AFP arrested him at home on 7 August 2024; bail was granted on very strict conditions and\neased after full compliance. He pleaded guilty to acts in preparation for a terrorist act (maximum **life**), with two\nfurther offences on a s 16BA schedule.",
+     "use_it_for": "- **crime.5.4** — penalties for children; rehabilitation even for crimes against the state.\n- **crime.4.2 / crime.4.7** — general deterrence against rehabilitation; a community-based alternative to prison.",
+     "caution": "RK is a young person identified by initials only. The judgment prints some statute references inconsistently (s 16AG v\n19AG; 1995 v 1999).",
+     "sections": {
+      "The three questions": "| Issue | Held |\n|---|---|\n| How serious was the offending, judged on its own (*Muldrock*)? | At the lowest level of objective seriousness |\n| How do terrorism sentencing principles interact with youth? | Youth carries less weight for serious offending (*Alou*), but earlier principles are not rigid formulae (*Hoolash*) |\n| Was full-time imprisonment the only appropriate sentence (s 17A)? | No — remorse genuine, prospects of rehabilitation excellent |\n\n**Order**: a 3-year community correction order from 9 November 2026 — Youth Justice supervision until 18, then community\ncorrections; one mobile phone, no encrypted apps, devices available on demand. A continuing detention or extended\nsupervisi…",
+      "In the media (ABC, 9 November 2026)": "Sarah Gerathy's ABC report (\"Boy who planned marathon terror attack at 14 avoids jail\") notes that comparable NSW cases for\nunder-18 s 101.6 offenders produced head sentences of **7.5 to 16 years** (Public Defenders table, updated October 2025),\nthough their facts differ. [Class evidence summary of the ABC report](https://drive.google.com/file/d/1E1eqzA1H0CXMGhBfOSGSDZRqSSoyHFwB/view).",
+      "Use it for": "- **crime.5.4** — penalties for children; rehabilitation even for crimes against the state.\n- **crime.4.2 / crime.4.7** — general deterrence against rehabilitation; a community-based alternative to prison.",
+      "Caution": "RK is a young person identified by initials only. The judgment prints some statute references inconsistently (s 16AG v\n19AG; 1995 v 1999)."
+     },
+     "path": "evidence/cases/r-v-rk-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "safework-nsw-v-aj-bristow-no3-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "SafeWork NSW v AJ Bristow & Sons Pty Limited (No 3) [2026] NSWIC 68 — guilty after sandstone blocks killed a stonemason",
+     "short": "SafeWork v AJ Bristow (No 3)",
+     "citation": "[2026] NSWIC 68 (Taylor J, President, 9 November 2026)",
+     "date": "2026-11-09",
+     "added": "2026-11-10",
+     "significance": "A builder was found guilty after heavy sandstone blocks tipped and killed a subcontracted stonemason. Hiring a specialist did not remove its own duty, and the cause of the fall did not need to be proved.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.1.3",
+      "crime.3.6"
+     ],
+     "core_labels": [
+      "Strict liability offences",
+      "Burden and standard of proof"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-safework-nsw-v-aj-bristow-no3-2026",
+     "document": "Cases/Crime/SafeWork NSW v AJ Bristow & Sons Pty Limited (No 3) [2026] NSWIC 68 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1TlE5wQ9JFbh1_2ulNWOl6QA_zPk1Wscr/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - SafeWork NSW v AJ Bristow & Sons Pty Limited (No 3) [2026] NSWIC 68 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/19mRqbOu_wAJfEHZ4s03sR7U6qjLtUHpF/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "On **5 August 2022**, during restoration of a heritage school façade, two heavy sandstone blocks tipped forward after the\nbrick parapet holding them down had been removed; the stonemason, subcontracted through a specialist business, died at the\nscene. After a judge-alone trial (from 17 March 2026), Taylor J found the company **guilty** of a Category 2 offence under\ns 32 — exposing a worker to a risk of death or serious injury.",
+     "use_it_for": "- **crime.1.3** — a strict-liability regulatory offence, with a company as offender (crime.1.7).\n- **crime.3.6** — the prosecution must prove each particular; two failed.\n- **Compliance** — courts push duty holders to manage risk before harm occurs.",
+     "caution": "A **verdict only**: no penalty yet. Directions for sentencing were listed for 19 November 2026.",
+     "sections": {
+      "The three questions": "| Issue | Held |\n|---|---|\n| Did being principal contractor decide the duty? | Not decisive — the s 19 duty turns on the business's own conduct |\n| Was the risk reasonably practicable to prevent, judged without hindsight, and could it rely on a specialist subcontractor? | Yes, preventable; reliance on a specialist did not discharge its duty |\n| Did failures that began before the charge date expose a worker to risk? | Yes — no accident is needed to prove the risk |\n\nThree of five pleaded failures were proved. The cause of the fall remains unknown.",
+      "Use it for": "- **crime.1.3** — a strict-liability regulatory offence, with a company as offender (crime.1.7).\n- **crime.3.6** — the prosecution must prove each particular; two failed.\n- **Compliance** — courts push duty holders to manage risk before harm occurs.",
+      "Caution": "A **verdict only**: no penalty yet. Directions for sentencing were listed for 19 November 2026."
+     },
+     "path": "evidence/cases/safework-nsw-v-aj-bristow-no3-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "wagga-dv-murder-accessories-bail-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Three charged as accessories after the alleged DV murder of Danielle Madgwick in Wagga (ABC, 9 November 2026)",
+     "short": "Wagga DV murder accessories",
+     "citation": "Evidence summary of Jostina Basta, ABC Riverina, 9 November 2026; Crimes Act 1900 (NSW) ss 18, 19A, 349; Bail Act 2013 (NSW) ss 16A, 16B, 19 as amended in 2024",
+     "date": "2026-11-09",
+     "added": "2026-11-10",
+     "significance": "Three people were charged as accessories after the fact and refused bail. The case shows arrest, charge and bail at the earliest stage, and NSW's 2024 domestic violence bail reforms.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.5",
+      "crime.1.7"
+     ],
+     "core_labels": [
+      "Bail or remand",
+      "Parties to a crime"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wagga-dv-murder-accessories-bail-2026",
+     "document": "Crime/Media/Crime - Wagga DV Murder Accessories Bail Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1-MVgN6OXMsU-gbHQmwBNmsVQj7Sd43Hw/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-09/three-charged-with-accessory-to-alleged-dv-stabbing-murder-wagga/107362302",
+     "lead": "**Danielle Madgwick**, 23, was found stabbed at a Kooringal home on 19 September 2026; her alleged partner, 31, was charged\nwith murder that night. On 7 November police executed a search warrant and charged three others — men aged 18 and 56 and a\nwoman aged 53 — as **accessories after the fact**; all were refused police bail and next appear on 23 December. No one has\nbeen convicted.",
+     "use_it_for": "- **crime.2.5** — show cause and unacceptable risk; the presumption of innocence against community protection.\n- **crime.1.7** — parties to a crime: an accessory's liability depends on proof of the principal offence.",
+     "caution": "A **brief police-sourced report**; all charges are allegations. Counts of women killed differ by source (Counting Dead Women\n41; Australian Femicide Watch 52 in 2026).",
+     "sections": {
+      "Principal v accessory": "| | Murder | Accessory after the fact |\n|---|---|---|\n| Law | Crimes Act ss 18, 19A | s 349 |\n| Conduct | Act or omission causing death | Knowingly assisting the principal after the crime |\n| Fault | Intent to kill or cause GBH, or reckless indifference | Knows the offence was committed; aims to help avoid arrest or punishment |\n| Maximum | Life | 25 years |\n| Bail starting point | Show cause (punishable by life) | Not expressly listed; s 16B(k) may apply (unverified) |",
+      "The 2024 DV bail reforms": "After **Molly Ticehurst** was killed in April 2024, NSW made serious intimate partner DV offences show cause, required\nelectronic monitoring unless the interests of justice say otherwise, allowed grants of bail to be stayed while prosecutors\napply to the Supreme Court, and required bail decisions to consider red-flag behaviour and victims' views. BOCSAR found\n53.5% of adults refused police bail in 2023 were later granted bail by courts.",
+      "Use it for": "- **crime.2.5** — show cause and unacceptable risk; the presumption of innocence against community protection.\n- **crime.1.7** — parties to a crime: an accessory's liability depends on proof of the principal offence.",
+      "Caution": "A **brief police-sourced report**; all charges are allegations. Counts of women killed differ by source (Counting Dead Women\n41; Australian Femicide Watch 52 in 2026)."
+     },
+     "path": "evidence/media/wagga-dv-murder-accessories-bail-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "sa-indigenous-jurors-report-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Indigenous people \"very rarely\" sit on SA juries, report finds (ABC, 7 November 2026)",
+     "short": "SA Indigenous jurors report",
+     "citation": "Evidence summaries (9 and 10 November 2026) of Rachael Merritt, ABC News, 7 November 2026, reporting SALRI, The 'Many Knots' of a 'Jury of Your Peers' — Indigenous Juror Participation in South Australia (AIJA, September 2026); Juries Act 1927 (SA) ss 6, 8, 12; Jury Act 1977 (NSW) Sch 1",
+     "date": "2026-11-07",
+     "added": "2026-11-09",
+     "significance": "The jury is meant to be a jury of peers, yet Indigenous people are rarely offered jury service in SA. SALRI's 34 recommendations target the roll, criminal-history disqualification and cultural safety.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.3.9"
+     ],
+     "core_labels": [
+      "The role of juries, including verdicts"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-sa-indigenous-jurors-report-2026",
+     "document": "Crime/Media/Crime - Indigenous Jurors SA Report Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1WF0lOB6wW2UDFSNFEwCLIVt54R85aIVQ/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-07/indigneous-people-underrepresented-in-juries-in-sa/107256812",
+     "lead": "The South Australian Law Reform Institute (SALRI) made **34 recommendations** to the SA Attorney-General (law stated at\n30 April 2026). About **37%** of Australian prisoners were Indigenous (30 June 2025), but there is **no reliable data** on\nIndigenous juror numbers. The Attorney-General says the government will respond \"in due course\".",
+     "use_it_for": "- **crime.3.9** — whether a jury of 12 drawn from the roll reflects the community, especially for Indigenous accused.\n- **Law reform** — a university law reform body reporting to an Attorney-General; compare NSWLRC Report 117 (2007), which\n  found Indigenous people were 7% of prisoners but under 0.5% of jurors in a 1994 review.",
+     "caution": "A **class evidence summary of a news report of an academic report**; the article gives no hard juror figures because none\nexist.",
+     "sections": {
+      "Current law v SALRI": "| Stage | Now | SALRI recommends |\n|---|---|---|\n| Source list | Electoral roll only; Indigenous voters under-enrolled | Supplementary lists, possibly SA First Nations Voice data (Canadian model) |\n| Criminal history (s 12) | Any imprisonable conviction in five years disqualifies | A proportionate sliding scale, narrower exclusions |\n| Driving | Licence disqualification over six months disqualifies | Remove it as a ground |\n| Summons | Formal, legalistic; post unreliable in many communities | Plainer summons explaining jury service |\n| Regional courts | District Court circuits only Port Augusta and Mount Gambier | Add Port Pirie, Berri, Port Lincoln (resources permitting) |\n| Peremptory chal…",
+      "Second summary (10 November 2026)": "A [second class summary of the ABC report](https://drive.google.com/file/d/1SRVqR8OmZPdEXNCnRbvDtOSGX6OsYzxY/view) adds prison figures: **890** Indigenous prisoners in SA, about\n**26%** of 3,416 (June 2025, calculated from ABS counts), and a national Indigenous imprisonment rate about **12.5 times** the\nnon-Indigenous rate (Law Council). SALRI found the main barriers arise outside the courtroom, in how the jury pool is built\nand filtered.",
+      "Use it for": "- **crime.3.9** — whether a jury of 12 drawn from the roll reflects the community, especially for Indigenous accused.\n- **Law reform** — a university law reform body reporting to an Attorney-General; compare NSWLRC Report 117 (2007), which\n  found Indigenous people were 7% of prisoners but under 0.5% of jurors in a 1994 review.",
+      "Caution": "A **class evidence summary of a news report of an academic report**; the article gives no hard juror figures because none\nexist."
+     },
+     "path": "evidence/media/sa-indigenous-jurors-report-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "0aa1e30",
+        "subject": "Evidence: file the 10 Nov inbox — seven decisions (nos 110-116), five new media/report records, four cards updated"
+       }
+      ],
+      "latest_sha": "0aa1e30",
+      "added_text": "---\ntype: media\ntitle: Indigenous people \"very rarely\" sit on SA juries, report finds (ABC, 7 November 2026)\nshort: SA Indigenous jurors report\ncitation: Evidence summaries (9 and 10 November 2026) of Rachael Merritt, ABC News, 7 November 2026, reporting SALRI, The 'Many Knots' of a 'Jury of Your Peers' — Indigenous Juror Participation in South Australia (AIJA, September 2026); Juries Act 1927 (SA) ss 6, 8, 12; Jury Act 1977 (NSW) Sch 1\ndate: 2026-11-07\njurisdiction: South Australia (Sheriff's Office, Supreme and District Courts); NSW compared\nsignificance: The jury is meant to be a jury of peers, yet Indigenous people are rarely offered jury service in SA. SALRI's 34 recommendations target the roll, criminal-history disqualification and cultural safety.\ncore: crime.3.9\nsupport: crime.3.2, inv.1.4, inv.4.3, chg.1.6, chg.2.3\nthemes: crime.t.reform, crime.t.balance, crime.t.effectiveness\ncriteria: justice, accessibility, society, rights\ndocument: Crime/Media/Crime - Indigenous Jurors SA Report Evidence Summary.pdf\nsource: https://www.abc.net.au/news/2026-11-07/indigneous-people-underrepresented-in-juries-in-sa/107256812\nrelated: role-of-juries, jury-act-1977, pele-v-r-2026, deaths-in-custody-since-1991\nadded: 2026-11-09\nadded_at: 2026-11-09 08:01\nupdated_at: 2026-11-10 08:36\n---\n\nThe South Australian Law Reform Institute (SALRI) made **34 recommendations** to the SA Attorney-General (law stated at\n30 April 2026). About **37%** of Australian prisoners were Indigenous (30 June 20…",
+      "removed_lines": 0,
+      "added_lines": 56
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "humanrights",
+   "label": "Human Rights",
+   "part": "HSC Core Part II",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "un-rapporteur-refused-youth-detention-access-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "NT and Queensland shut a UN expert out of youth detention (Amnesty International, 2 November 2026)",
+     "short": "UN rapporteur refused detention access",
+     "citation": "Evidence summaries of an Amnesty International Australia media release, 2 November 2026, Chloe Chomicki, ABC News, 4 November 2026, and Roxanne Fitzgerald, ABC News, 5 November 2026 (summarised 6 and 9 November), on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)",
+     "date": "2026-11-09",
+     "added": "2026-11-04",
+     "significance": "A UN expert invited to Australia was refused entry to two youth detention centres holding mostly First Nations children — the third UN access dispute since 2022.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.2.2",
+      "hr.2.1"
+     ],
+     "core_labels": [
+      "The role of the United Nations",
+      "State sovereignty"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-un-rapporteur-refused-youth-detention-access-2026",
+     "document": "Human Rights/HR - UN Rapporteur Blocked From Youth Jails Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1M1T0cP1D89efOzU4c0iDRbjWQjkPU8J-/view",
+     "document_missing_id": false,
+     "document11": "Preliminary/Year 11 - UN Rapporteur Refused Youth Detention Access Evidence Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1N6raFwz8V3_DLG2ri43sXGDt0-DotV20/view",
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-05/united-nations-blocked-from-inspecting-darwin-youth-jail/107343550",
+     "lead": "The Special Rapporteur's official visit runs **2–13 November 2026**. The NT and Queensland refused planned visits to\n**Holtze** and **Cleveland**, where about **97%** of children at Cleveland were Aboriginal and/or Torres Strait Islander at\ninspection. It is the second time in under a year the NT has blocked UN experts. First Nations young people are detained at **25.7 per 10,000** (2024–25), against a\nClosing the Gap target of a 30% fall by 2031; the Productivity Commission assesses no change.",
+     "use_it_for": "- **hr.2.2 / hr.2.1** — UN monitoring inside a sovereign, federal state; the Commonwealth answers internationally for\n  detention run by states and territories.\n- **Year 11 (the global legal system)** — state sovereignty and the UN's role.",
+     "caution": "A **class evidence summary of an NGO advocacy release**; no government explanation is included.",
+     "sections": {
+      "What the mandate asks v what happened": "| UN terms of reference | November 2026 |\n|---|---|\n| Access to all places of detention | Holtze and Cleveland visits refused |\n| Confidential contact with detainees | No in-centre contact with children |\n| Contact with authorities in every branch | NT and Qld refused to engage, the Rapporteur says |\n| Freedom of movement | Visit otherwise proceeding |\n| Findings reported to the Human Rights Council | Precedent: the WGAD relied on public reports for the NT |\n\nThe terms of reference are UN guidelines, not a treaty: visits depend on the state's invitation and cooperation.",
+      "ABC report (4 November 2026)": "Queensland gave a brief statement; the NT and the Commonwealth did not respond. Cleveland held **101** children against a\nsafe capacity of **95** (August 2025); about **90%** at Cleveland identified as Aboriginal or Torres Strait Islander (68.2%\nacross Queensland's centres). First Nations young people are detained at **26 times** the non-Indigenous rate (2023–24).\nQueensland's mandatory 12 months for serious offending on bail starts on 30 November. Special Rapporteurs visit under UN\nterms of reference, **not OPCAT**; cooperation rests on invitation. Preliminary findings are due in Sydney on **13\nNovember 2026**.",
+      "ABC report (5 November 2026): \"It would be a scandal\"": "Roxanne Fitzgerald's report accuses the NT government of hiding what is happening inside Holtze. The Special Rapporteur, **Dr Albert K. Barume**, is on a country visit to seven locations (2–13 November) under Australia's **2008 standing invitation** to UN special procedures; the refusal of Holtze and Cleveland was announced in a late-October statement.\n\n| UN framework expects | What happened (as reported) |\n|---|---|\n| Access to all places of detention; contact with every branch of government | NT and Queensland refused both access and meetings, according to his statement |\n| Invitation given by the Commonwealth for all of Australia | The federal Attorney-General's office says access is for …",
+      "International standards v what the NT and Queensland did (summary of 9 November 2026)": "A fuller class summary of the 5 November ABC report sets the governments' conduct against the standards they have accepted.\n\n| International expectation | NT / Queensland |\n|---|---|\n| Access to detention guaranteed under the terms of reference | Holtze and Cleveland tours cancelled |\n| Meetings with central and local officials | Requested meetings in the Torres Strait, Townsville and Darwin not held |\n| Detention of children as a last resort (2017 Rapporteur) | NT reforms and Queensland's 2024 laws remove \"last resort\" |\n| Age 10 below international standards (UN bodies) | NT lowered the age back to 10 (October 2024) |\n| Humane treatment (CROC art 37); the NPM opposes spit hoods | NT reintr…",
+      "Another summary (10 November 2026)": "A [further class summary of the 5 November ABC report](https://drive.google.com/file/d/1carJR_ffyzU94SSDwVeywpXLRB5DR6Yu/view) counts **three** UN monitoring visits obstructed since 2022 —\nthe Subcommittee on Prevention of Torture, the Working Group on Arbitrary Detention and now the Special Rapporteur — and\nstresses that his powers come from cooperation, not compulsion.",
+      "Use it for": "- **hr.2.2 / hr.2.1** — UN monitoring inside a sovereign, federal state; the Commonwealth answers internationally for\n  detention run by states and territories.\n- **Year 11 (the global legal system)** — state sovereignty and the UN's role.",
+      "Caution": "A **class evidence summary of an NGO advocacy release**; no government explanation is included."
+     },
+     "path": "evidence/media/un-rapporteur-refused-youth-detention-access-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "0aa1e30",
+        "subject": "Evidence: file the 10 Nov inbox — seven decisions (nos 110-116), five new media/report records, four cards updated"
+       },
+       {
+        "sha": "5162e32",
+        "subject": "Evidence: file the 9 Nov inbox — nine new records, four cards updated"
+       }
+      ],
+      "latest_sha": "0aa1e30",
+      "added_text": "citation: Evidence summaries of an Amnesty International Australia media release, 2 November 2026, Chloe Chomicki, ABC News, 4 November 2026, and Roxanne Fitzgerald, ABC News, 5 November 2026 (summarised 6 and 9 November), on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)\ndate: 2026-11-09\ndocument: Human Rights/HR - UN Rapporteur Blocked From Youth Jails Evidence Summary.pdf\nsource: https://www.abc.net.au/news/2026-11-05/united-nations-blocked-from-inspecting-darwin-youth-jail/107343550\nupdated_at: 2026-11-10 08:36\n## International standards v what the NT and Queensland did (summary of 9 November 2026)\n\nA fuller class summary of the 5 November ABC report sets the governments' conduct against the standards they have accepted.\n\n| International expectation | NT / Queensland |\n|---|---|\n| Access to detention guaranteed under the terms of reference | Holtze and Cleveland tours cancelled |\n| Meetings with central and local officials | Requested meetings in the Torres Strait, Townsville and Darwin not held |\n| Detention of children as a last resort (2017 Rapporteur) | NT reforms and Queensland's 2024 laws remove \"last resort\" |\n| Age 10 below international standards (UN bodies) | NT lowered the age back to 10 (October 2024) |\n| Humane treatment (CROC art 37); the NPM opposes spit hoods | NT reintroduced spit hoods fo…",
+      "removed_lines": 5,
+      "added_lines": 29
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "family",
+   "label": "Family",
+   "part": "HSC Option 3",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "katherine-courthouse-fence-dv-safety-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Courthouse fence plan raises DV safety fears in Katherine (ABC, 9 November 2026)",
+     "short": "Katherine courthouse fence DV safety",
+     "citation": "Evidence summary of James Elton, ABC News, 9 November 2026, with ABC reporting of January 2026; Domestic and Family Violence Act 2007 (NT) as amended 2023; Criminal Procedure Act 1986 (NSW) (comparison)",
+     "date": "2026-11-09",
+     "added": "2026-11-10",
+     "significance": "DVOs only protect victim-survivors who can attend court safely. Katherine has one shared entrance and no safe room, and the sector says a fence against vandalism could trap victims near perpetrators.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.4",
+      "fam.2.5"
+     ],
+     "core_labels": [
+      "Dealing with domestic violence",
+      "The roles of courts and dispute resolution methods"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-katherine-courthouse-fence-dv-safety-2026",
+     "document": "Family/Evidence Summaries/Family - Katherine Courthouse Fence and DV Safety Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1Y1iSFaDhwhVR7X-OHYJfNlXEZWTjUfJD/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-09/katherine-courthouse-fence-vandalism-domestic-violence-safety/107356232",
+     "lead": "Katherine Local Court handled an estimated **588** domestic and personal violence applications in 2025–26; police recorded\n**79** DV-related assaults in Katherine in October 2025 alone. The NT's intimate partner homicide rate is about **7 times** the\nnational average, and **$2.55m** will expand the specialist DFV court model to two more NT locations from 2027–28.",
+     "use_it_for": "- **fam.2.4 / fam.2.5** — the practical conditions that decide whether DV law works; courts as places of risk.\n- **Non-legal responses** — the women's legal service (KWILS) and the sector as advocates (fam.2.6).",
+     "caution": "A **class evidence summary of a news report** leading with the sector's criticism; no cost figures or incident data. The 588\nfigure is a court estimate.",
+     "sections": {
+      "What Katherine has v what the sector asks for": "| | Katherine now / proposed fence | Sector asks for |\n|---|---|---|\n| Entry | One entrance and screening point shared by victims and perpetrators | Separate victim-survivor entrance and exit |\n| Waiting | No separate waiting room; waits can last hours | Private waiting or safe room, as in Darwin |\n| Private meetings | One room, often occupied; advice given near a busy intersection | Twice the space for legal services |\n| Grounds | Open garden; fence would funnel everyone through one gate | Alternative entrances before any fence |\n| Specialist list | No specialist DFV approach (2023) | Alice Springs-style specialist court |\n\nNSW requires a safe room, safe waiting area or alternative arrangem…",
+      "Use it for": "- **fam.2.4 / fam.2.5** — the practical conditions that decide whether DV law works; courts as places of risk.\n- **Non-legal responses** — the women's legal service (KWILS) and the sector as advocates (fam.2.6).",
+      "Caution": "A **class evidence summary of a news report** leading with the sector's criticism; no cost figures or incident data. The 588\nfigure is a court estimate."
+     },
+     "path": "evidence/media/katherine-courthouse-fence-dv-safety-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "wa-aboriginal-child-protection-port-hedland-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Elders say WA ministers pass the buck on Aboriginal child safety in Port Hedland (ABC analysis, 7 November 2026)",
+     "short": "WA Aboriginal child protection Port Hedland",
+     "citation": "Evidence summary of Keane Bourke, ABC News analysis, 7 November 2026; Children and Community Services Act 2004 (WA) ss 8, 12, 28, 32, 43, 44; Coroners Act 1996 (WA) ss 22, 24; Children and Young Persons (Care and Protection) Act 1998 (NSW) (comparison)",
+     "date": "2026-11-07",
+     "added": "2026-11-10",
+     "significance": "WA legislates an Aboriginal Child Placement Principle, yet has Australia's highest over-representation and spends 4.4% on family support. Port Hedland tests who answers for failures.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.3.4",
+      "fam.1.5"
+     ],
+     "core_labels": [
+      "Care and protection of children",
+      "Legal rights and obligations of parents and children"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wa-aboriginal-child-protection-port-hedland-2026",
+     "document": "Family/Evidence Summaries/Family - WA Indigenous Child Protection Port Hedland Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1z1K9ptjforFnsGylKuevgRrrjaXUyu4V/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-07/don-punch-under-fire-passing-buck-indigenous-child-protection/107356516",
+     "lead": "Pilbara elders accuse Aboriginal Affairs Minister Don Punch of passing the buck, with responsibility split across ministers.\nAfter reports of children living unsupervised in South Hedland, ministers announced measures (23 September 2026), a senior\ncoordinator was appointed (10 October), and on 15 October the Attorney-General requested an **inquest** on fresh evidence\ninto three children killed by their mother in 2022, with a short review of the *Coroners Act*.",
+     "use_it_for": "- **fam.3.4** — care and protection of children; the gap between legislated principles and outcomes for Aboriginal children.\n- **Accountability** — the coroner's role and its limits (inv.4.2); compare NSW's Family is Culture reforms.",
+     "caution": "A **labelled analysis piece** mixing reporting with the reporter's view; the \"~19 times\" figure in the article is unsourced.",
+     "sections": {
+      "WA law on paper v outcomes": "| | On paper | In practice |\n|---|---|---|\n| Placement (s 12) | Family first, then Aboriginal community carers | 52.6% with kin; **30.8%** with non-Indigenous carers (2024) |\n| Prevention (s 32) | CEO may provide services before investigation or removal | **4.4%** of spending on family support (national 15.6%) |\n| Partnership | 2021 amendments require consultation with Aboriginal representative organisations | Not proclaimed in force |\n| Connection (s 8) | Best interests include cultural identity | Reunification 7% (2022–23); 73.4% on long-term orders |\n| Oversight | Inquest mandatory for deaths of children held in care (s 22) | Port Hedland children not in care: inquest refused, then reques…",
+      "Use it for": "- **fam.3.4** — care and protection of children; the gap between legislated principles and outcomes for Aboriginal children.\n- **Accountability** — the coroner's role and its limits (inv.4.2); compare NSW's Family is Culture reforms.",
+      "Caution": "A **labelled analysis piece** mixing reporting with the reporter's view; the \"~19 times\" figure in the article is unsourced."
+     },
+     "path": "evidence/media/wa-aboriginal-child-protection-port-hedland-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "massen-massen-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Massen & Massen [2026] FedCFamC1A 200 — a $23 million family gift and \"opaque\" reasons send a property case back",
+     "short": "Massen & Massen",
+     "citation": "[2026] FedCFamC1A 200 (Williams, Kari and Parker JJ, 6 November 2026)",
+     "date": "2026-11-06",
+     "added": "2026-11-10",
+     "significance": "A $23m trust gift from the husband's mother was treated as a contribution by both spouses without adequate reasons. The Full Court set aside an order and sent the property case to a different judge.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.3",
+      "fam.2.5"
+     ],
+     "core_labels": [
+      "Legal consequences of separation — property",
+      "The roles of courts and dispute resolution methods"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-massen-massen-2026",
+     "document": "Cases/Family/Massen & Massen [2026] FedCFamC1A 200 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1EQWXEs055Ldl6aYbDA2smkxQMr7L9MO-/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Massen & Massen [2026] FedCFamC1A 200 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1LKlLLHqP61ickcZtOtNEiKzLFaMLYrss/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "The couple (both 41, pseudonyms, three children) married in 2009 and separated in early 2024. Net assets of\n**$56,170,382** came almost entirely from the husband's parents: after the family business sold for $250m, **$23,000,000**\nwas paid into a trust in January 2019. Final orders (26 May 2026) gave the husband 67% and the wife 33%, and vested a\nproperty in the wife (Order 22(a)).",
+     "use_it_for": "- **fam.2.3** — gifts from extended family in the property pool under s 79.\n- **Just outcomes** — adequate reasons as part of procedural fairness; a long, costly case ends in a rehearing.",
+     "caution": "The Court did not decide whose gift the $23m was. The file gives two dates for the mother giving up control of the trust.",
+     "sections": {
+      "The three questions": "| Issue | Held |\n|---|---|\n| Were the reasons for treating the $23m as both parties' contribution adequate, given earlier findings? | No — \"opaque\"; parties must be able to see why |\n| Was the finding open on the evidence? | Not decided separately once the reasons failed |\n| Rehear, or decide on appeal? | Remit the s 79 applications to a **different judge** |\n\nAppeal **allowed**; Order 22(a) set aside.",
+      "Use it for": "- **fam.2.3** — gifts from extended family in the property pool under s 79.\n- **Just outcomes** — adequate reasons as part of procedural fairness; a long, costly case ends in a rehearing.",
+      "Caution": "The Court did not decide whose gift the $23m was. The file gives two dates for the mother giving up control of the trust."
+     },
+     "path": "evidence/cases/massen-massen-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "wick-hopper-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Wick & Hopper [2026] FedCFamC1A 198 — interim orders splitting siblings between two states survive appeal",
+     "short": "Wick & Hopper",
+     "citation": "[2026] FedCFamC1A 198 (Christie J, 4 November 2026)",
+     "date": "2026-11-04",
+     "added": "2026-11-10",
+     "significance": "A father appealed interim orders placing two children with him in Queensland and the youngest with the mother in Canberra. Same-day reasons were adequate, and untested family violence claims could be weighed as risk.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.5",
+      "fam.2.2"
+     ],
+     "core_labels": [
+      "The roles of courts and dispute resolution methods",
+      "Legal consequences of separation — children"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wick-hopper-2026",
+     "document": "Cases/Family/Wick & Hopper [2026] FedCFamC1A 198 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/19X-A5AVFWLtlLMjH0GiQjwaYdJ1ZbaI7/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Wick & Hopper [2026] FedCFamC1A 198 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/14GB8Fl_ri-NjFjcq__tTZy0kR54qkenX/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A family living in regional Queensland separated after a police protection notice and a temporary protection order for the\nmother (December 2025). The mother moved to Canberra with the youngest child. On 8 May 2026 a Division 2 judge made interim\norders on the day — \"the least worst decision\" — placing the children (16, 14 and 10, pseudonyms) in two homes.",
+     "use_it_for": "- **fam.2.5 / fam.2.2** — interim parenting orders, an Independent Children's Lawyer and appeal as a check.\n- **fam.2.4** — family violence allegations treated as risk, not findings.",
+     "caution": "The family violence allegations are **untested**, and the primary judge's reasons are not in the file.",
+     "sections": {
+      "The three grounds": "| Ground | Held |\n|---|---|\n| Were same-day (ex tempore) reasons for splitting the siblings inadequate? | No — adequate for an interim hearing |\n| Did the mother's unilateral move change parental responsibility (s 61C), making Canberra a \"baseline\"? | No — both parents keep parental responsibility after separation and a move |\n| Could the judge rely on untested allegations, and did he breach s 102NH? | Risk can be weighed without findings; no breach |\n\nAppeal **dismissed**; the father pays **$4,250** costs. The Court admitted his drug-test results on appeal.",
+      "Use it for": "- **fam.2.5 / fam.2.2** — interim parenting orders, an Independent Children's Lawyer and appeal as a check.\n- **fam.2.4** — family violence allegations treated as risk, not findings.",
+      "Caution": "The family violence allegations are **untested**, and the primary judge's reasons are not in the file."
+     },
+     "path": "evidence/cases/wick-hopper-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "country-lawyers-dfv-crisis-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Country lawyers on the frontline of the domestic and family violence crisis (ABC, 7 November 2026)",
+     "short": "Country lawyers and the DFV crisis",
+     "citation": "Evidence summaries (9 and 10 November 2026) of Jeremy Story Carter, ABC News, 7 November 2026; Community Legal Centres Australia figures; National Legal Assistance Partnership review (2024); National Access to Justice Partnership (from 1 July 2025); Crimes (Domestic and Personal Violence) Act 2007 (NSW) ss 16, 48; Crimes Act 1900 (NSW) s 54D; Family Law Act 1975 (Cth) s 4AB",
+     "date": "2026-11-07",
+     "added": "2026-11-09",
+     "significance": "DFV law only protects victims who can reach a lawyer — DFV is about 75% of rural community legal centre work, and centres turn away around 400 victim-survivors a day.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.4",
+      "fam.2.6"
+     ],
+     "core_labels": [
+      "Dealing with domestic violence",
+      "The role of non-government organisations"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-country-lawyers-dfv-crisis-2026",
+     "document": "Family/Evidence Summaries/Family - Country Lawyers and the DFV Crisis Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1AVkmr5ye4doG-_SlkDTe9uMVqQWmRQEm/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-07/domestic-family-violence-crisis-overwhelms-country-lawyers/107312866",
+     "lead": "DFV is **40–50%** of community legal centre (CLC) work nationally and about **75%** in rural and remote areas. Funding\nfor CLCs and women's legal services rose **74%** to **$833m** for 2025–30, but a $15.8m request for regional DFV and\nfamily law services was not funded. The article follows a Victorian program placing early-career lawyers in the regions.",
+     "use_it_for": "- **fam.2.4 / fam.2.6** — the role of NGOs (CLCs, women's legal services) in making DFV law work.\n- **Access to justice** — geography and funding as barriers (crime.3.5 for legal aid).",
+     "caution": "A **sympathetic feature**; the 40–50%, 75% and 400-a-day figures come from Community Legal Centres Australia without\npublished method.",
+     "sections": {
+      "City v country": "| | National / metropolitan | Regional and remote |\n|---|---|---|\n| DFV share of CLC work | About 40–50% | About 75% |\n| Coercive control incidents (NSW 2024–25) | Greater Sydney 2.3 per 100,000 | Regional NSW 5.9 per 100,000 |\n| Service reach | WDVCAS statewide by phone | A Mid-North Coast centre \"could double and still not meet need\" |\n| Workforce incentives | HELP debt relief for rural doctors, nurse practitioners, remote teachers | None for regional CLC lawyers, despite NLAP review Rec 26 |",
+      "The pathway depends on lawyers": "Police can seek a provisional ADVO (s 25) and must apply when all protected persons are children (s 48(3)); the court\napplies the s 16 fear test on the balance of probabilities. CLCs handle family law, housing and financial abuse. NSW's\ncoercive control offence (s 54D) produced **297 incidents but only 9 charges** in its first year.",
+      "Second summary (10 November 2026)": "A [second class summary of the same ABC feature](https://drive.google.com/file/d/16At5rWL_Y5KW3XaNo1LIaXwH92Z0hjmv/view) frames the story as protection on paper against access to a lawyer\nin regional areas, adding examples from Central Australia and Palm Island (Qld). It notes the **74%** funding rise is a\ngovernment figure covering CLCs and women's legal services combined, while the 40–50%, 75% and ~400-a-day figures come from\nthe sector peak body.",
+      "Use it for": "- **fam.2.4 / fam.2.6** — the role of NGOs (CLCs, women's legal services) in making DFV law work.\n- **Access to justice** — geography and funding as barriers (crime.3.5 for legal aid).",
+      "Caution": "A **sympathetic feature**; the 40–50%, 75% and 400-a-day figures come from Community Legal Centres Australia without\npublished method."
+     },
+     "path": "evidence/media/country-lawyers-dfv-crisis-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "0aa1e30",
+        "subject": "Evidence: file the 10 Nov inbox — seven decisions (nos 110-116), five new media/report records, four cards updated"
+       }
+      ],
+      "latest_sha": "0aa1e30",
+      "added_text": "---\ntype: media\ntitle: Country lawyers on the frontline of the domestic and family violence crisis (ABC, 7 November 2026)\nshort: Country lawyers and the DFV crisis\ncitation: Evidence summaries (9 and 10 November 2026) of Jeremy Story Carter, ABC News, 7 November 2026; Community Legal Centres Australia figures; National Legal Assistance Partnership review (2024); National Access to Justice Partnership (from 1 July 2025); Crimes (Domestic and Personal Violence) Act 2007 (NSW) ss 16, 48; Crimes Act 1900 (NSW) s 54D; Family Law Act 1975 (Cth) s 4AB\ndate: 2026-11-07\njurisdiction: Commonwealth legal assistance funding shared with states and territories; examples from Victoria, NSW, the NT and Queensland\nsignificance: DFV law only protects victims who can reach a lawyer — DFV is about 75% of rural community legal centre work, and centres turn away around 400 victim-survivors a day.\ncore: fam.2.4, fam.2.6\nsupport: crime.3.5, fam.2.5, fam.1.2, chg.1.6, inv.1.4\nthemes: fam.t.effectiveness, fam.t.reform\ncriteria: accessibility, resource, justice\ndocument: Family/Evidence Summaries/Family - Country Lawyers and the DFV Crisis Evidence Summary.pdf\nsource: https://www.abc.net.au/news/2026-11-07/domestic-family-violence-crisis-overwhelms-country-lawyers/107312866\nrelated: legal-aid-commission-act-1979, lawyer-magazine-2026-legal-aid-nsw, crimes-domestic-personal-violence-act-2007, coercive-control-nsw-full-explainer-2026, bocsar-coercive-control-june-2026, remote-nt-womens-safety-2026\nadded:…",
+      "removed_lines": 0,
+      "added_lines": 55
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "shelter",
+   "label": "Shelter",
+   "part": "HSC Option 5",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "older-women-co-housing-darra-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Australia-first co-housing gives older women secure homes at Darra, Brisbane (ABC, 9 November 2026)",
+     "short": "Older women co-housing Darra",
+     "citation": "Evidence summaries (9 and 10 November 2026) of Meghan Dansie and Lexy Hamilton-Smith, ABC News, 9 November 2026; Planning Act 2016 (Qld) and Planning Regulation 2017 (Qld) (rooming accommodation); Sex Discrimination Act 1984 (Cth) s 7D; Age Discrimination Act 2004 (Cth) s 33; State Environmental Planning Policy (Housing) 2021 (NSW)",
+     "date": "2026-11-09",
+     "added": "2026-11-10",
+     "significance": "A charity's 50-year-lease model gives older women secure homes, but planning law has no co-housing category, so it was approved as a boarding house — law lagging behind a growing shelter need.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.3.4",
+      "shel.1.2"
+     ],
+     "core_labels": [
+      "Social housing",
+      "Right to shelter"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-older-women-co-housing-darra-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - Older Women Co-housing Darra Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1Vw96cAXzsX8Nabd0nXj0cZHMKH7eHsxc/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-09/queensland-sharing-friends-women-co-housing-project/107337800",
+     "lead": "Five women moved into the first project of the charity **Sharing with Friends** (Older Women Co-Housing Association Qld). Each\npaid **$120,000** for a **50-year lease** of a private studio, refunded with CPI on leaving or death (less renovation costs);\nweekly contributions are about $180–200. Census night 2021 counted **7,325** homeless women aged 55+, up from 5,234 in 2011;\n58.8% of 288,970 specialist homelessness clients in 2024–25 were female.",
+     "use_it_for": "- **shel.3.4 / shel.1.2** — non-government responses to homelessness among older women; planning law as a barrier.\n- **Law reform** — the charity wants co-housing written into planning law.",
+     "caution": "A **sympathetic human-interest report** with no government, council or planning voice; terms come from the charity's FAQ, and\nthe legal basis for \"cannot be evicted\" is not explained.",
+     "sections": {
+      "Boarding house v the Darra model": "| | Boarding house / rooming accommodation | Darra co-housing |\n|---|---|---|\n| Planning label | Rooming accommodation; boarding houses listed | No co-housing category exists |\n| Right to occupy | Rooms, with shared facilities | 50-year lease of a self-contained studio, plus shared spaces |\n| What residents pay | Rent | $120,000 buy-in, refunded plus CPI |\n| Who runs it | A provider, possibly accredited | Charity owns the land; residents manage the community |\n| Resale | — | Cannot be sold on the open market, keeping it affordable |\n\nAnti-discrimination law allows women-only, age-based housing as a special measure (SDA s 7D; ADA s 33) but does not create or\nfund it. NSW's Housing SEPP separa…",
+      "Use it for": "- **shel.3.4 / shel.1.2** — non-government responses to homelessness among older women; planning law as a barrier.\n- **Law reform** — the charity wants co-housing written into planning law.",
+      "Caution": "A **sympathetic human-interest report** with no government, council or planning voice; terms come from the charity's FAQ, and\nthe legal basis for \"cannot be evicted\" is not explained."
+     },
+     "path": "evidence/media/older-women-co-housing-darra-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "anglicare-essential-workers-rental-snapshot-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Essential workers priced out of almost all rental listings (ABC News, 5 November 2026, on Anglicare Australia's Essential Workers Report 2026)",
+     "short": "Anglicare essential workers rental snapshot",
+     "citation": "Amy Rossbach and Emma Johnson, ABC News, 5 November 2026, and Rachel Jennings, Andrew Chounding and Amy Rossbach, ABC News, 7 November 2026 (WA follow-up); Anglicare Australia, Rental Affordability Snapshot: Essential Workers Report 2026 (listings surveyed 14–15 March 2026); Residential Tenancies Act 2010 (NSW) s 44",
+     "date": "2026-11-05",
+     "added": "2026-11-06",
+     "significance": "Full-time work in essential jobs no longer secures an affordable rental: most of 16 occupations can afford about 1% of listings, testing whether tenancy law and housing policy deliver affordability, not just security.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.3.1",
+      "shel.2.2"
+     ],
+     "core_labels": [
+      "Affordability",
+      "Leasing — rights and obligations of landlords and tenants"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-anglicare-essential-workers-rental-snapshot-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - Anglicare Essential Workers Rental Snapshot Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1_qT6v_zsYUrDI-K0GZU34hZkksliB39W/view",
+     "document_missing_id": false,
+     "document11": "Preliminary/Year 11 - Economic Disadvantage and Renters Access to Justice Evidence Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/11oRxsbMbCW1ksFlw5r3qzSiTvbtEc9zN/view",
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-05/essential-workers-priced-out-of-rental-market/107346978",
+     "lead": "Anglicare Australia tested **48,776 rental listings** (collected 14–15 March 2026) against the full-time adult award wage of **16 essential occupations**. \"Affordable\" means rent of no more than 30% of a single person's income. A nurse could afford **1.1%** of listings (558), a hospitality worker **0.7%** (338), and **no** listings were affordable for a hospitality worker in the NT. Ten of the 16 occupations could afford fewer than 1%; teachers fared best at 3.3%. Rents rose **40.6%** from July 2021 to 2026 against wage growth of **18.8%**.",
+     "use_it_for": "- **shel.3.1 (affordability)** — evidence that legal security of tenure has not delivered affordability.\n- **shel.2.2 / shel.2.6** — landlord and tenant rights; NCAT's limits under s 44.\n- **shel.2.9 / shel.2.10** — Anglicare and the Tenants' Union as NGO reformers; the media's role.\n- **Year 11** — economic disadvantage and access to justice for renters.",
+     "caution": "A **class-made summary** of a news report of an advocacy organisation's report; Anglicare campaigns for social housing and rent limits. The data are one March weekend of advertised listings and a single-earner benchmark, which overstates difficulty for multi-income households (a couple with two children on two minimum wages could afford 14.8%). The Cotality unit and house rent figures were not checked. NSW law is the example; other states differ. Check the full Anglicare report before quoting figures.",
+     "sections": {
+      "2025 v 2026 snapshot": "| Worker | 2025 (51,238 listings) | 2026 (48,776 listings) |\n|---|---|---|\n| Nurse | 1.5% affordable | 1.1% (558) |\n| Hospitality worker | 0.8% | 0.7% (338) |\n| Ambulance officer | 2.3% | 2.2% |\n| School teacher | about 3.2% | 3.3% (1,632) |\n| Single full-time minimum wage | 0.7% | 0.5% (255) |\n\nOnly three occupations (aged care workers, early childhood educators, teachers) improved, each by 0.1 percentage points.",
+      "Challenging an excessive rent increase in NSW": "1. **Notice** — written notice of the new rent at least 60 days ahead; most tenancies allow one increase in any 12 months.\n2. **Check validity** — an invalid notice need not be paid; an invalid increase already paid can be reclaimed at NCAT within 12 months.\n3. **Apply to NCAT** — within 30 days of the notice, under *Residential Tenancies Act 2010* s 44.\n4. **Tribunal** — compares rents for similar premises; it does **not** consider the tenant's income.\n\nBecause the test is market rent, s 44 protects against outliers, **not market-wide rises** like those in the report. NSW limits the *frequency* of increases and ended no-grounds evictions in May 2025, but sets no cap on the *amount*.",
+      "Competing views": "| Anglicare and tenant advocates | Governments and industry |\n|---|---|\n| Social housing should reach at least 10% of stock; limit the size of increases, not only frequency | NSW says its 2025 reforms give renters more security; Commonwealth Rent Assistance maximums rose |\n| Developers build for what can be charged, not what workers can afford | The National Housing Accord has record homes under construction, though completions lag; REINSW argues regulation pushes investors out and raises rents |",
+      "WA follow-up (ABC, 7 November 2026)": "A [class summary of the ABC's WA follow-up](https://drive.google.com/file/d/1dlLEP8tmcBibNycAiVDYukt0gocDaoM9/view) tells the story through essential workers in **Albany** and **Karratha**.\n\n| | Western Australia | NSW |\n|---|---|---|\n| Rent increases | Once every 12 months (*Residential Tenancies Act 1987* (WA), amended 2024) | Once every 12 months (2024 amendments) |\n| Limit on the amount | None | None |\n| Market | Median weekly rent **$747**, up **74%** since 2021 | — |\n\n- An Albany disability support worker moved **7** times in 18 months.\n- **0 of 271** South West–Great Southern listings were affordable on one minimum wage (Anglicare WA, March 2026).\n- The report is sympathetic to renter…",
+      "Use it for": "- **shel.3.1 (affordability)** — evidence that legal security of tenure has not delivered affordability.\n- **shel.2.2 / shel.2.6** — landlord and tenant rights; NCAT's limits under s 44.\n- **shel.2.9 / shel.2.10** — Anglicare and the Tenants' Union as NGO reformers; the media's role.\n- **Year 11** — economic disadvantage and access to justice for renters.",
+      "Caution": "A **class-made summary** of a news report of an advocacy organisation's report; Anglicare campaigns for social housing and rent limits. The data are one March weekend of advertised listings and a single-earner benchmark, which overstates difficulty for multi-income households (a couple with two children on two minimum wages could afford 14.8%). The Cotality unit and house rent figures were not checked. NSW law is the example; other states differ. Check the full Anglicare report before quoting figures."
+     },
+     "path": "evidence/media/anglicare-essential-workers-rental-snapshot-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "0aa1e30",
+        "subject": "Evidence: file the 10 Nov inbox — seven decisions (nos 110-116), five new media/report records, four cards updated"
+       }
+      ],
+      "latest_sha": "0aa1e30",
+      "added_text": "citation: Amy Rossbach and Emma Johnson, ABC News, 5 November 2026, and Rachel Jennings, Andrew Chounding and Amy Rossbach, ABC News, 7 November 2026 (WA follow-up); Anglicare Australia, Rental Affordability Snapshot: Essential Workers Report 2026 (listings surveyed 14–15 March 2026); Residential Tenancies Act 2010 (NSW) s 44\nupdated_at: 2026-11-10 08:36\n## WA follow-up (ABC, 7 November 2026)\n\nA [class summary of the ABC's WA follow-up](https://drive.google.com/file/d/1dlLEP8tmcBibNycAiVDYukt0gocDaoM9/view) tells the story through essential workers in **Albany** and **Karratha**.\n\n| | Western Australia | NSW |\n|---|---|---|\n| Rent increases | Once every 12 months (*Residential Tenancies Act 1987* (WA), amended 2024) | Once every 12 months (2024 amendments) |\n| Limit on the amount | None | None |\n| Market | Median weekly rent **$747**, up **74%** since 2021 | — |\n\n- An Albany disability support worker moved **7** times in 18 months.\n- **0 of 271** South West–Great Southern listings were affordable on one minimum wage (Anglicare WA, March 2026).\n- The report is sympathetic to renters, with no government, landlord or legal response.\n",
+      "removed_lines": 2,
+      "added_lines": 16
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "disputes",
+   "label": "Disputes under the law",
+   "part": "Year 11 (Preliminary) Focus area 2",
+   "course": "preliminary",
+   "items": [
+    {
+     "id": "cai-v-trip-a-deal-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Cai v Trip A Deal Pty Ltd [2026] NSWCATCD 135 — refused boarding without a visa, and no proof the booker failed",
+     "short": "Cai v Trip A Deal",
+     "citation": "[2026] NSWCATCD 135 (C Campbell, General Member, 15 June 2026)",
+     "date": "2026-06-15",
+     "added": "2026-11-10",
+     "significance": "A traveller refused boarding for an Antarctic cruise without a Chilean visa sued his booking company. NCAT found it supplied booking services only and he did not prove a lack of due care on the civil standard.",
+     "topic": "disputes",
+     "also_topics": [],
+     "core": [
+      "dis.2.4",
+      "dis.2.5"
+     ],
+     "core_labels": [
+      "The burden and standard of proof in civil law",
+      "Procedures in NSW tribunals and civil courts, including alternative dispute resolution"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-cai-v-trip-a-deal-2026",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Cai v Trip A Deal Pty Ltd [2026] NSWCATCD 135 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1N27e5rzf-Z4lMe2AifQRrCmWLjy93QLq/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A couple booked a 29-day Antarctica cruise through Trip A Deal (June 2024). The company sent a visa reminder on 19 December\n2024; he applied the next day, was refused boarding in Buenos Aires because the physical visa had not arrived, and joined the\nship later. Self-represented, he claimed refunds and expenses under the **s 60** guarantee of due care and skill.",
+     "use_it_for": "- **Year 11 Disputes under the law** — burden and standard of proof in civil law (dis.2.4), tribunal procedure (dis.2.5),\n  breach and causation (dis.2.2), contract and a statutory guarantee (dis.2.3), remedies sought but not awarded (dis.2.7).",
+     "caution": "Year 11 only — consumer law is not an HSC topic. The decision has year slips (2025 for 2024) and a claim total\n($7,807.72 as printed) that does not add up; no costs order is in the file.",
+     "sections": {
+      "The three questions": "| Issue | Held |\n|---|---|\n| Did Trip A Deal supply booking services only? | Yes — its terms made visas the traveller's job |\n| Did it breach s 60 or its contract? | No evidence of any lack of care or skill; the missing visa, not the booking, caused the loss |\n| Was the case proved on the balance of probabilities? | No — the applicant carried the burden and did not meet it |\n\nApplication **dismissed**. NCAT had earlier found it had no jurisdiction over the cruise line (September 2025).",
+      "Use it for": "- **Year 11 Disputes under the law** — burden and standard of proof in civil law (dis.2.4), tribunal procedure (dis.2.5),\n  breach and causation (dis.2.2), contract and a statutory guarantee (dis.2.3), remedies sought but not awarded (dis.2.7).",
+      "Caution": "Year 11 only — consumer law is not an HSC topic. The decision has year slips (2025 for 2024) and a claim total\n($7,807.72 as printed) that does not add up; no costs order is in the file."
+     },
+     "path": "evidence/cases/cai-v-trip-a-deal-2026.md",
+     "in_site_build": true
+    }
+   ]
+  }
+ ],
+ "notes": []
+}

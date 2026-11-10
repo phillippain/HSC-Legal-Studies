@@ -1,0 +1,643 @@
+{
+ "generated": "2026-11-09T08:05:22",
+ "today": "2026-11-09",
+ "window_start": "2026-11-06",
+ "basis": "the last digest (2026-11-07 10:09), looking back a day",
+ "site_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
+ "counts": {
+  "new": 9,
+  "updated": 4
+ },
+ "groups": [
+  {
+   "key": "crime",
+   "label": "Crime",
+   "part": "HSC Core Part I",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "pele-reward-vietnam-extradition-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "$250,000 reward to find and extradite alleged gang leader Anthony Pele (ABC, 6 November 2026)",
+     "short": "Pele reward and Vietnam extradition",
+     "citation": "Evidence summary of ABC News, 6 November 2026, and AAP; Extradition Act 1988 (Cth) ss 40, 42; Extradition (Vietnam) Regulation 2013; Australia–Vietnam Extradition Treaty (2012); Mutual Assistance in Criminal Matters Act 1987 (Cth); Interpol red notice",
+     "date": "2026-11-06",
+     "added": "2026-11-09",
+     "significance": "After three years of international cooperation failed to find him, NSW offers $250,000 for information leading to the arrest and extradition of a man wanted over an alleged murder.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.6.2",
+      "crime.2.4"
+     ],
+     "core_labels": [
+      "Dealing with international crime",
+      "Arrest and charge, summons, warrants"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-pele-reward-vietnam-extradition-2026",
+     "document": "Crime/Media/Crime - Offshore Fugitive Reward and Extradition Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1lYSMGchX1O4h7RL9LbYKxsJh8maaNYJ8/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-06/anthony-pele-250k-reward-coconut-cartel/107354784",
+     "lead": "Anthony Pele, 25, faces four outstanding NSW warrants, including alleged murder over a Greenacre shooting (July 2023),\nand allegedly left Australia in August 2023. He has not been convicted and is presumed innocent. Australia has sent\nVietnam **19** extradition requests since the 2012 treaty; the first person was only arrested in December 2024.",
+     "use_it_for": "- **crime.6.2** — sovereignty limits domestic enforcement; extradition depends on another state's law and goodwill.\n- **crime.2.4** — warrants that cannot be executed while the accused is overseas.",
+     "caution": "A **class evidence summary of a police-sourced news report**; no defence view, and his nationality was not confirmed.",
+     "sections": {
+      "Domestic v international tools": "| | Domestic (NSW / Australia) | International |\n|---|---|---|\n| Authority to arrest | NSW warrants, valid until arrest | Interpol red notice — not an arrest warrant |\n| Finding him | $250,000 reward; Crime Stoppers | AFP liaison; location unconfirmed |\n| Getting him back | No power to arrest overseas | Request under the 2012 treaty, with the Attorney-General's authority (s 40) |\n| Evidence | Strike Force Helston | Mutual legal assistance treaty (2014) |\n\nVietnam applies its own law and the treaty: **dual criminality**, refusal grounds (including \"unjust or oppressive\"), and\neither state may refuse to surrender its own nationals. If returned, he can be tried only for the extradition offences…",
+      "Use it for": "- **crime.6.2** — sovereignty limits domestic enforcement; extradition depends on another state's law and goodwill.\n- **crime.2.4** — warrants that cannot be executed while the accused is overseas.",
+      "Caution": "A **class evidence summary of a police-sourced news report**; no defence view, and his nationality was not confirmed."
+     },
+     "path": "evidence/media/pele-reward-vietnam-extradition-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "demerit-points-black-market-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Cash for demerit points — the black market in false driver nominations (ABC 7.30, 8 November 2026)",
+     "short": "Demerit points black market",
+     "citation": "Evidence summary of Tom Hartley, ABC News (7.30), 8 November 2026; Transport Operations (Road Use Management) Act 1995 (Qld) ss 114, 121; Criminal Code (Qld) ss 194, 408C; Zhang v Commissioner of Police [2025] QDC 31; Road Transport Act 2013 (NSW) s 188",
+     "date": "2026-11-08",
+     "added": "2026-11-09",
+     "significance": "Sellers on Facebook and WhatsApp take other drivers' points for $22–$100 each — a trust-based nomination system turned into a fraud market that police lack the resources to detect.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.3",
+      "crime.4.2"
+     ],
+     "core_labels": [
+      "Investigating crime",
+      "The purposes of punishment"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-demerit-points-black-market-2026",
+     "document": "Crime/Media/Crime - Demerit Points Black Market Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1c1E2RAUO3M_F8N5kZ16v_-sGdvPGJqin/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-08/inside-thriving-black-market-trading-demerit-points-for-cash/107320430",
+     "lead": "When a camera catches an offence, the owner can **nominate** the real driver within 28 days by statutory or online\ndeclaration. 7.30 found sellers taking fines and points for cash, and agencies relying largely on **trust** at the transfer\nstage. Police allege a Woodridge woman, 27, had **1,150 points** and **1,266 infringements** (about $620,000 in fines)\nput on her licence from 2022 to June 2026; she is charged with one count of fraud and presumed innocent.",
+     "use_it_for": "- **crime.2.3 / crime.2.1** — detection depends on police inquiry or a victim complaint; 7.30 reports investigations were\n  limited by resources.\n- **crime.4.2** — general deterrence: a three-year sentence for a seller against a suspended sentence for a buyer.\n- **Effectiveness** — a system that works only while people tell the truth.",
+     "caution": "A **class evidence summary of an investigative news report**; the Woodridge figures are police allegations, and QRO and\nTMR declined to answer specific questions.",
+     "sections": {
+      "Legitimate v fraudulent nomination": "| | Legitimate | Black market |\n|---|---|---|\n| Who is named | The person actually driving | A paid stranger, fake identity or unwitting third party |\n| Declaration | Truthful, within 28 days (s 114) | Knowingly false, through the same system |\n| Road safety | Points land on the risky driver | Drivers who should be suspended keep driving |\n| Legal status | A defence for the owner | False declaration (s 194) or fraud (s 408C), both imprisonable |",
+      "The cases": "- **Nicholas Anforth** (Operation Blot, 695 points falsely nominated): three years' jail, Beenleigh District Court, June 2026.\n- **Bin Zhang** (20 false declarations over six years): four months wholly suspended plus six months' disqualification;\n  appeal dismissed in *Zhang v Commissioner of Police* [2025] QDC 31.\n- A District Court scheme (2012–2022): about 1,400 false renominations avoided more than $420,000 in fines.\n- NSW ran a 2024 taskforce on about 350 drivers with 20+ points. Neither state's nomination page describes any **cap** on\n  nominations to one licence.",
+      "Use it for": "- **crime.2.3 / crime.2.1** — detection depends on police inquiry or a victim complaint; 7.30 reports investigations were\n  limited by resources.\n- **crime.4.2** — general deterrence: a three-year sentence for a seller against a suspended sentence for a buyer.\n- **Effectiveness** — a system that works only while people tell the truth.",
+      "Caution": "A **class evidence summary of an investigative news report**; the Woodridge figures are police allegations, and QRO and\nTMR declined to answer specific questions."
+     },
+     "path": "evidence/media/demerit-points-black-market-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "sa-indigenous-jurors-report-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Indigenous people \"very rarely\" sit on SA juries, report finds (ABC, 7 November 2026)",
+     "short": "SA Indigenous jurors report",
+     "citation": "Evidence summary of Rachael Merritt, ABC News, 7 November 2026, reporting SALRI, The 'Many Knots' of a 'Jury of Your Peers' — Indigenous Juror Participation in South Australia (AIJA, September 2026); Juries Act 1927 (SA) ss 6, 8, 12; Jury Act 1977 (NSW) Sch 1",
+     "date": "2026-11-07",
+     "added": "2026-11-09",
+     "significance": "The jury is meant to be a jury of peers, yet Indigenous people are rarely offered jury service in SA. SALRI's 34 recommendations target the roll, criminal-history disqualification and cultural safety.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.3.9"
+     ],
+     "core_labels": [
+      "The role of juries, including verdicts"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-sa-indigenous-jurors-report-2026",
+     "document": "Crime/Media/Crime - Indigenous Jurors SA Report Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1WF0lOB6wW2UDFSNFEwCLIVt54R85aIVQ/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-07/indigneous-people-underrepresented-in-juries-in-sa/107256812",
+     "lead": "The South Australian Law Reform Institute (SALRI) made **34 recommendations** to the SA Attorney-General (law stated at\n30 April 2026). About **37%** of Australian prisoners were Indigenous (30 June 2025), but there is **no reliable data** on\nIndigenous juror numbers. The Attorney-General says the government will respond \"in due course\".",
+     "use_it_for": "- **crime.3.9** — whether a jury of 12 drawn from the roll reflects the community, especially for Indigenous accused.\n- **Law reform** — a university law reform body reporting to an Attorney-General; compare NSWLRC Report 117 (2007), which\n  found Indigenous people were 7% of prisoners but under 0.5% of jurors in a 1994 review.",
+     "caution": "A **class evidence summary of a news report of an academic report**; the article gives no hard juror figures because none\nexist.",
+     "sections": {
+      "Current law v SALRI": "| Stage | Now | SALRI recommends |\n|---|---|---|\n| Source list | Electoral roll only; Indigenous voters under-enrolled | Supplementary lists, possibly SA First Nations Voice data (Canadian model) |\n| Criminal history (s 12) | Any imprisonable conviction in five years disqualifies | A proportionate sliding scale, narrower exclusions |\n| Driving | Licence disqualification over six months disqualifies | Remove it as a ground |\n| Summons | Formal, legalistic; post unreliable in many communities | Plainer summons explaining jury service |\n| Regional courts | District Court circuits only Port Augusta and Mount Gambier | Add Port Pirie, Berri, Port Lincoln (resources permitting) |\n| Peremptory chal…",
+      "Use it for": "- **crime.3.9** — whether a jury of 12 drawn from the roll reflects the community, especially for Indigenous accused.\n- **Law reform** — a university law reform body reporting to an Attorney-General; compare NSWLRC Report 117 (2007), which\n  found Indigenous people were 7% of prisoners but under 0.5% of jurors in a 1994 review.",
+      "Caution": "A **class evidence summary of a news report of an academic report**; the article gives no hard juror figures because none\nexist."
+     },
+     "path": "evidence/media/sa-indigenous-jurors-report-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "new-street-youth-sexual-harm-program-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Treating, not prosecuting — NSW's New Street program for children who sexually harm (SMH, 9 November 2026)",
+     "short": "New Street youth sexual harm program",
+     "citation": "Evidence summary of Rachel Rasker, The Sydney Morning Herald, 9 November 2026, on NSW Health's New Street Services (ages 10–17) and Safe Wayz (under 10); KPMG evaluation (2014); Children (Criminal Proceedings) Act 1987 (NSW) s 5; Young Offenders Act 1997 (NSW) s 8; RP v The Queen [2016] HCA 53",
+     "date": "2026-11-09",
+     "added": "2026-11-09",
+     "significance": "A health-led, non-criminal response to young people who sexually harm: 89% of completers stopped, yet sexual offences are excluded from youth diversion and half of referrals are turned away.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.5.5",
+      "crime.5.1"
+     ],
+     "core_labels": [
+      "Alternatives to court",
+      "Age of criminal responsibility"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-new-street-youth-sexual-harm-program-2026",
+     "document": "Crime/Media/Crime - New Street Services Youth Sexual Harm Program Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1S5Vmy8h0O1xaazZjJ_EHtoIQOUcx2Tx2/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.health.nsw.gov.au/parvan/hsb/Pages/new-street-services.aspx",
+     "lead": "New Street (est. 1998) works with 10–17-year-olds who have sexually harmed others, and their families. Among\n16–24-year-olds, **18.2%** report being abused as children by an adolescent, against **11.7%** by an adult. Demand exceeds\nsupply: **204 of 414** referrals were accepted from 2023–24 to 31 March 2025, with gaps in rural areas.",
+     "use_it_for": "- **crime.5.5 / crime.5.1** — prevention and rehabilitation instead of punishment, and why the law presumes young children\n  lack criminal capacity.\n- **Moral and ethical standards** — community demand for punishment against what reduces reoffending.",
+     "caution": "A **sympathetic feature** with no victim-survivor, police or prosecution voices. The 89% figure covers 71 completers only;\nlong-term recidivism was not assessed and a new evaluation is due in 2026.",
+     "sections": {
+      "Criminal response v therapeutic response": "| | Criminal justice | New Street |\n|---|---|---|\n| Who | Children 10+; under-14s presumed doli incapax | Ages 10–17, not criminally prosecuted |\n| Entry | Police investigation and charge | Referral, mostly Community Services and JIRT |\n| Diversion | Listed sexual offences **excluded** from YOA warnings, cautions, conferences (s 8) | Runs outside the courts |\n| Focus | Proof beyond reasonable doubt, then sentence | Acknowledge, take responsibility, stop |\n| Family | Limited role | Whole-family model |\n| Victim | Complainant and witness | Restitution only when counsellors approve |\n| Outcome | Conviction or acquittal | 89% of completers stopped by case closure (2014) |\n\nTreatment runs six mon…",
+      "Use it for": "- **crime.5.5 / crime.5.1** — prevention and rehabilitation instead of punishment, and why the law presumes young children\n  lack criminal capacity.\n- **Moral and ethical standards** — community demand for punishment against what reduces reoffending.",
+      "Caution": "A **sympathetic feature** with no victim-survivor, police or prosecution voices. The 89% figure covers 71 completers only;\nlong-term recidivism was not assessed and a new evaluation is due in 2026."
+     },
+     "path": "evidence/media/new-street-youth-sexual-harm-program-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "vic-youth-rehabilitation-detention-pledge-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Victorian Labor pledges $204m \"rehabilitation detention\" for young offenders (ABC, 8 November 2026)",
+     "short": "Vic youth rehabilitation detention pledge",
+     "citation": "Evidence summary of Alex Sinnott, ABC News, 8 November 2026, and AAP; Youth Justice Act 2024 (Vic) ss 10, 210, 325; Bail Act 1977 (Vic) as amended 2025; CROC art 37(b)",
+     "date": "2026-11-08",
+     "added": "2026-11-09",
+     "significance": "An election promise to hold low- and mid-level young offenders for up to 12 months tests the principle that detaining children is a last resort.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.5.4",
+      "crime.5.5"
+     ],
+     "core_labels": [
+      "Penalties for children",
+      "Alternatives to court"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-vic-youth-rehabilitation-detention-pledge-2026",
+     "document": "Crime/Media/Crime - Victorian Youth Rehabilitation Detention Pledge Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1eLQSFxtnWcq1kZ50rv2QtVcTQSF25mrH/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-08/labor-youth-rehabilitation-detention-liberal-major-events/107359596",
+     "lead": "Premier Ben Carroll's pledge: **$204m** for secure, court-ordered \"rehabilitation detention\" of up to **12 months** for\ntheft, vandalism, property damage and minor assault, with mandatory drug, alcohol, life-skills, school or trades programs —\nabout **500** young people over two years, likely at Malmsbury. No costing, age range or legislation has been published.",
+     "use_it_for": "- **crime.5.4** — detention as a last resort (CROC art 37(b)) against \"tough love\" election politics.\n- **Law reform** — a promise needing legislation after the election.",
+     "caution": "A **class evidence summary of an election announcement**; the figures are Labor claims.",
+     "sections": {
+      "Current custody v the pledge": "| | Youth justice custodial order (now) | Rehabilitation detention (proposed) |\n|---|---|---|\n| Who | Found guilty of an imprisonable offence | Low- and mid-level offenders |\n| Threshold | Serious enough and no other sentence appropriate (s 325) | Not explained |\n| Length | 15+: up to 3 years (one offence), 4 years (several) | Up to 12 months, held around the clock |\n| Safeguards | Pre-sentence reports, written reasons, Aboriginal principles (s 210) | None announced |",
+      "How far Victoria has moved": "- **2024**: the *Youth Justice Act* raised the minimum age to **12**.\n- **26 March 2025**: community safety became the paramount bail consideration; remand of a child is no longer \"a last resort\".\n  Youth remand was reported up **46%** year-on-year (October 2025).\n- **27 February 2026**: children 14+ charged with eight violent offences are tried in the County Court (\"adult time\").\n- AAP reports Aboriginal Legal Service criticism; the ABC report includes no critics.",
+      "Use it for": "- **crime.5.4** — detention as a last resort (CROC art 37(b)) against \"tough love\" election politics.\n- **Law reform** — a promise needing legislation after the election.",
+      "Caution": "A **class evidence summary of an election announcement**; the figures are Labor claims."
+     },
+     "path": "evidence/media/vic-youth-rehabilitation-detention-pledge-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "nsw-prison-inquests-mental-health-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Dozens of inquests reveal mental health care failures in NSW prisons — and a psychiatrist says Corrections should not run it (ABC, 31 October and 8 November 2026)",
+     "short": "NSW prison inquests mental health",
+     "citation": "Evidence summaries of Kirstie Wellauer, Joanna McCarthy, Josh Nicholas and Katia Shatoba, ABC News, 31 October 2026, and Kirstie Wellauer and Joanna McCarthy, ABC News, 8 November 2026 — an ABC review of NSW coronial findings, January 2015 to September 2026; Coroners Act 2009 (NSW) ss 22, 23, 78, 81, 82; Premier's Memorandum M2009-12; Crimes (Administration of Sentences) Act 1999 (NSW) s 24; Mental Health and Cognitive Impairment Forensic Provisions Act 2020 (NSW) s 86; UN Mandela Rules rr 24, 27",
+     "date": "2026-11-08",
+     "added": "2026-11-02",
+     "significance": "The ABC found mental health care failures in 48 of 249 NSW prison inquests — and Corrections did not fully support recommendations in 10 of 32, because coroners can recommend but not compel.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.8",
+      "crime.3.1"
+     ],
+     "core_labels": [
+      "Post-sentencing considerations",
+      "Court jurisdiction"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nsw-prison-inquests-mental-health-2026",
+     "document": "Crime/Media/Crime - NSW Prisons Mental Health Care Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1jfSBF6HvKjghNu4rYbtRLXKO8BShm0Tl/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-08/nsw-prisons-failing-inmates-on-mental-health-says-psychiatrist/107302582",
+     "lead": "The ABC reviewed **249** coronial inquests into NSW prison deaths since 2015. **48** found failures in mental health\ncare — screening (20), supervision (14), clinical care (27), waits for care (29); **14** of those 48 deaths involved\nIndigenous people. Corrections did not fully support recommendations in **10 of 32** inquests. The story centres on\n**Bailey Mackander**, who died in November 2019; after the 2021 inquest, Corrections refused five recommendations on\nrisk intervention team cells.",
+     "use_it_for": "- **crime.4.8 (post-sentencing)** — conditions and care in custody; most people in custody are on remand.\n- **crime.3.1** — the Coroners Court's role and its limits.\n- **Effectiveness** — accountability that depends on agencies choosing to act.",
+     "caution": "A **class evidence summary of an ABC data investigation**; failure categories overlap. Treat Bailey's family's story\nwith care.",
+     "sections": {
+      "What a coroner can and cannot do": "| Can | Cannot |\n|---|---|\n| Hold a **mandatory inquest** into a death in custody, led by a senior coroner (s 22(2)) | Find guilt — findings must not suggest an offence (s 81(3)) |\n| Record identity, date, place, manner and cause of death (s 81(1)) | Prosecute — only refer papers to the DPP (s 78) |\n| Make recommendations to prevent similar deaths (s 82) | **Compel** an agency to act |\n| Expect a response within six months (M2009-12) | Enforce that deadline — the memorandum is not mandatory |\n\nThe RCIADIC asked for responses within **three** months; NSW chose six. A 2023 statutory review (Rec 40) proposed\nlegislating the response duty and publishing responses on the Coroners Court website.",
+      "Follow-up (ABC, 8 November 2026): \"Corrections should not run prison mental health\"": "Forensic psychiatrist **Dr Kerri Eagle** says Justice Health, not Corrective Services NSW, should lead mental health care:\nthe risk intervention team (RIT) — usually two CSNSW staff and one general nurse — is run by Corrections and lacks evidence\nas a health intervention. The Minister declined an interview.\n\n| Recommendation | Outcome |\n|---|---|\n| Mackander (2021) rec 1: psychologist input on RIT reviews | Rejected by CSNSW, the ABC reports |\n| Safer RIT assessment cells | Five cell-safety recommendations rejected |\n| Inspector of Custodial Services (2021): more acute and step-down beds | **109** forensic beds promised in October 2023, about 50% more |\n| Cartwright (2024): use s 24 transfer…",
+      "Use it for": "- **crime.4.8 (post-sentencing)** — conditions and care in custody; most people in custody are on remand.\n- **crime.3.1** — the Coroners Court's role and its limits.\n- **Effectiveness** — accountability that depends on agencies choosing to act.",
+      "Caution": "A **class evidence summary of an ABC data investigation**; failure categories overlap. Treat Bailey's family's story\nwith care."
+     },
+     "path": "evidence/media/nsw-prison-inquests-mental-health-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "5162e32",
+        "subject": "Evidence: file the 9 Nov inbox — nine new records, four cards updated"
+       }
+      ],
+      "latest_sha": "5162e32",
+      "added_text": "title: Dozens of inquests reveal mental health care failures in NSW prisons — and a psychiatrist says Corrections should not run it (ABC, 31 October and 8 November 2026)\ncitation: Evidence summaries of Kirstie Wellauer, Joanna McCarthy, Josh Nicholas and Katia Shatoba, ABC News, 31 October 2026, and Kirstie Wellauer and Joanna McCarthy, ABC News, 8 November 2026 — an ABC review of NSW coronial findings, January 2015 to September 2026; Coroners Act 2009 (NSW) ss 22, 23, 78, 81, 82; Premier's Memorandum M2009-12; Crimes (Administration of Sentences) Act 1999 (NSW) s 24; Mental Health and Cognitive Impairment Forensic Provisions Act 2020 (NSW) s 86; UN Mandela Rules rr 24, 27\ndate: 2026-11-08\nsupport: crime.4.6, crime.3.3, crime.4.2, inv.4.2, crime.1.8, hr.2.4, hr.3.1, dis.3.4, dis.3.7, exp.4.3, exp.6.2\ndocument: Crime/Media/Crime - NSW Prisons Mental Health Care Evidence Summary.pdf\nsource: https://www.abc.net.au/news/2026-11-08/nsw-prisons-failing-inmates-on-mental-health-says-psychiatrist/107302582\nupdated_at: 2026-11-09 08:01\n## Follow-up (ABC, 8 November 2026): \"Corrections should not run prison mental health\"\n\nForensic psychiatrist **Dr Kerri Eagle** says Justice Health, not Corrective Services NSW, should lead mental health care:\nthe risk intervention team (RIT) — usually two CSNSW staff and one general nurse — is run by Corrections and lacks evidence\nas a health intervention. The Minister declined an interview.\n\n| Recommendation | Outcome |\n|---|---|\n| Mackander (2021) r…",
+      "removed_lines": 7,
+      "added_lines": 25
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "humanrights",
+   "label": "Human Rights",
+   "part": "HSC Core Part II",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "hanson-faruqi-18c-high-court-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "High Court to test whether section 18C survives the Constitution — Hanson v Faruqi (The Conversation, 6 November 2026)",
+     "short": "Hanson 18C High Court appeal",
+     "citation": "Evidence summary of Anne Twomey, The Conversation, 6 November 2026; Hanson v Faruqi [2026] FCAFC 96; Faruqi v Hanson [2024] FCA 1264; Racial Discrimination Act 1975 (Cth) ss 18C, 18D; Constitution s 51(xxix); ICCPR art 20(2); CERD art 4",
+     "date": "2026-11-06",
+     "added": "2026-11-09",
+     "significance": "For the first time the High Court will decide whether Australia's main racial vilification law is valid — under the external affairs power and the implied freedom of political communication.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.2.8",
+      "hr.2.9"
+     ],
+     "core_labels": [
+      "The role of the Constitution",
+      "The role of statute law"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-hanson-faruqi-18c-high-court-2026",
+     "document": "Human Rights/HR - Hanson 18C High Court Appeal Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1J-14_QSgWiw1YSi6DsF4wqoxnmXu3knk/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://theconversation.com/pauline-hansons-high-court-appeal-will-put-freedom-of-speech-to-the-test-296046",
+     "lead": "Senator Mehreen Faruqi complained to the AHRC about Senator Pauline Hanson's 9 September 2022 post. Hanson declined\nconciliation, Faruqi sued, and Stewart J found a breach of s 18C, rejected the s 18D defence and ordered deletion and costs\n(2024). The Full Federal Court (Perry, Kennett and Bennett JJ) dismissed the appeal **3–0** on 27 July 2026. The High\nCourt granted special leave on **5 November 2026**; the Commonwealth Attorney-General is a respondent. No hearing date is set.",
+     "use_it_for": "- **hr.2.8 / hr.2.9** — the Constitution protects rights only indirectly; statute implements treaties.\n- **hr.2.14** — courts, not a Charter, balancing freedom from racial vilification against freedom of speech.",
+     "caution": "An **academic explainer** leaning to the view that \"nips in the bud\" stretches the external affairs power; no voice for\nFaruqi or the Commonwealth. The outcome is unknown.",
+     "sections": {
+      "What s 18C prohibits v what the treaties require": "| | Section 18C (RDA 1975) | ICCPR art 20(2) / CERD art 4 |\n|---|---|---|\n| Conduct | Public acts reasonably likely to offend, insult, humiliate or intimidate | Advocacy of racial hatred that incites discrimination, hostility or violence |\n| Focus | How the targeted person or group would reasonably feel | Whether others are incited |\n| Seriousness | Includes offending or insulting | Very serious acts only |\n| Free speech | s 18D exempts reasonable, good-faith acts | Due regard to freedom of expression |\n| Full Court's answer | Catching lesser conduct \"nips in the bud\" later incitement (*Toben v Jones*, 2003) | Treaties set the general course; Parliament chooses the means |",
+      "Two constitutional questions": "1. **External affairs (s 51(xxix))** — is s 18C a law implementing the treaties, when it reaches further than they do?\n2. **Implied freedom of political communication** — does s 18C burden political speech beyond a legitimate purpose?\n   Twomey points to *Farmer* [2025] HCA 38 (the Candace Owens visa case) on protecting groups from intimidation.\n\nThe Senate rejected changes to 18C **31–28** in March 2017.",
+      "Use it for": "- **hr.2.8 / hr.2.9** — the Constitution protects rights only indirectly; statute implements treaties.\n- **hr.2.14** — courts, not a Charter, balancing freedom from racial vilification against freedom of speech.",
+      "Caution": "An **academic explainer** leaning to the view that \"nips in the bud\" stretches the external affairs power; no voice for\nFaruqi or the Commonwealth. The outcome is unknown."
+     },
+     "path": "evidence/media/hanson-faruqi-18c-high-court-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "digital-duty-of-care-bill-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Digital duty of care bill: could Australians sue big tech? — passes the House; faith groups push for a right to sue (2026)",
+     "short": "Digital duty of care bill",
+     "citation": "HSC Legal Studies evidence summaries, 16 and 29 October and 9 November 2026 (the last on Paul Sakkal, The Sydney Morning Herald, 9 November 2026); built on ABC News of 15 and 28 October 2026 (federal politics live blog), AAP, the AHRC submission of 23 September 2026 and law firm analyses of the September 2026 exposure draft",
+     "date": "2026-11-09",
+     "added": "2026-10-16",
+     "significance": "The bill would replace a reactive, complaints-based online safety scheme with one enforceable statutory duty, and the government is now open to letting victims of online harm sue.",
+     "topic": "humanrights",
+     "also_topics": [
+      "changing"
+     ],
+     "core": [
+      "hr.3.1",
+      "hr.2.9",
+      "chg.6"
+     ],
+     "core_labels": [
+      "A contemporary issue illustrating the promotion and/or enforcement of human rights",
+      "The role of statute law",
+      "chg.6"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-digital-duty-of-care-bill-2026",
+     "document": "Human Rights/HR - Digital Duty of Care Bill Right to Sue Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1fatNv109KDMurKgG3Dm3_6Ee0lVgi5nJ/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.smh.com.au/politics/federal/the-new-legal-weapon-aimed-at-big-tech-20261109-p61cbr.html",
+     "lead": "The *Online Safety Amendment (Digital Duty of Care) Bill 2026* (Cth) was introduced on **15 October\n2026**, after an exposure draft released 8 September with an **18-day** consultation. Minister Anika\nWells said on the day of introduction that the government would consider letting Australians **sue**\nplatforms, including by class action — a right the draft did not contain.",
+     "use_it_for": "- **hr.3.1 (contemporary issue)** — a live issue with every rights actor visible at once: Parliament,\n  a statutory regulator, the AHRC, NGOs, the media and the platforms.\n- **hr.2.9 / hr.2.7 (statute law, incorporation)** — children's rights under the **CROC** reach\n  Australian law only through statute. UN **General Comment 25** (2021) says children's rights apply\n  online as offline, and frames them as including participation and information, not protection\n  alone. The AHRC urges consulting children on the harm definitions.\n- **hr.2.14 (a Charter of Rights)** — the AHRC says the statements of compatibility with human rights\n  attached to online safety bills have been weak on digital righ…",
+     "caution": "A **class-made summary** of a **news report of a minister's comments** on the day of introduction —\nnot the bill. Much of the detail comes from law firm analyses of the **September exposure draft**,\nwhich was changed before introduction, so the penalty, the harm categories, the opt-out and the\ncommencement dates may all differ in the bill as introduced: check the APH bill page and the\nexplanatory memorandum. The openness to a right to sue is a **statement, not a commitment**, and the\npolitical reactions quoted are partisan. Anything about the bill's fate is unresolved. In the 9 November summary the\n\"80+ groups\" figure and Google's submission could not be verified.",
+     "sections": {
+      "Reactive to proactive": "| | *Online Safety Act 2021* now | The bill |\n|---|---|---|\n| Core obligation | Non-binding Basic Online Safety Expectations plus industry codes | One enforceable duty to ensure a safe online environment, so far as reasonably practicable |\n| Model | Complaints-based takedown | Safety by design and risk management |\n| Risk assessment | Only under existing codes | Written assessments at least annually, records kept six years |\n| Children | Under-16s barred from accounts on age-restricted platforms | Also a duty to keep under-16s from recommender and endless-feed features |\n| Algorithmic feeds | No legislated opt-out | Users over 16 may turn recommendations off |\n| Maximum penalty | $49.5m for …",
+      "Update: the bill passes the House (28 October 2026)": "The **Online Safety Amendment (Digital Duty of Care) Bill 2026** was introduced on 15 October and passed the House on\n**28 October**, absorbing Kate Chaney's amendment on children's dependence on AI chatbots. The Coalition (Ted\nO'Brien) calls it censorship; with the Coalition opposed, Labor needs the **Greens** in the Senate. The Senate\ncommittee takes submissions to 30 October and reports by **20 November 2026**.\n\n| | Now (OSA 2021) or September draft | Bill as introduced |\n|---|---|---|\n| Core obligation | Codes, standards, Basic Online Safety Expectations | One overarching **duty of care** |\n| Defining harms | Draft let the minister add categories | Ministerial power removed; only Parliam…",
+      "Update: faith groups push for a right to sue (SMH, 9 November 2026)": "More than **80** groups (the article's figure), including the ECAJ and the Islamic Council of Victoria, back adding a\n**private right of action** before the Senate votes; the committee reports by **20 November 2026**. An Australia Institute\npoll found **72%** support compensation for people harmed by platform content.\n\n| | Bill as passed by the House | What the Greens and advocates want |\n|---|---|---|\n| Who enforces | eSafety: directions, information powers, civil penalty proceedings | Also individuals suing, including class actions |\n| Harms covered | Lists sexual and gender-based violence; no standalone hate category | Add racist, homophobic and religious hate |\n| Penalties | Fixed maximu…",
+      "Use it for": "- **hr.3.1 (contemporary issue)** — a live issue with every rights actor visible at once: Parliament,\n  a statutory regulator, the AHRC, NGOs, the media and the platforms.\n- **hr.2.9 / hr.2.7 (statute law, incorporation)** — children's rights under the **CROC** reach\n  Australian law only through statute. UN **General Comment 25** (2021) says children's rights apply\n  online as offline, and frames them as including participation and information, not protection\n  alone. The AHRC urges consulting children on the harm definitions.\n- **hr.2.14 (a Charter of Rights)** — the AHRC says the statements of compatibility with human rights\n  attached to online safety bills have been weak on digital righ…",
+      "Caution": "A **class-made summary** of a **news report of a minister's comments** on the day of introduction —\nnot the bill. Much of the detail comes from law firm analyses of the **September exposure draft**,\nwhich was changed before introduction, so the penalty, the harm categories, the opt-out and the\ncommencement dates may all differ in the bill as introduced: check the APH bill page and the\nexplanatory memorandum. The openness to a right to sue is a **statement, not a commitment**, and the\npolitical reactions quoted are partisan. Anything about the bill's fate is unresolved. In the 9 November summary the\n\"80+ groups\" figure and Google's submission could not be verified."
+     },
+     "path": "evidence/media/digital-duty-of-care-bill-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "5162e32",
+        "subject": "Evidence: file the 9 Nov inbox — nine new records, four cards updated"
+       }
+      ],
+      "latest_sha": "5162e32",
+      "added_text": "title: Digital duty of care bill: could Australians sue big tech? — passes the House; faith groups push for a right to sue (2026)\ncitation: HSC Legal Studies evidence summaries, 16 and 29 October and 9 November 2026 (the last on Paul Sakkal, The Sydney Morning Herald, 9 November 2026); built on ABC News of 15 and 28 October 2026 (federal politics live blog), AAP, the AHRC submission of 23 September 2026 and law firm analyses of the September 2026 exposure draft\ndate: 2026-11-09\ndocument: Human Rights/HR - Digital Duty of Care Bill Right to Sue Evidence Summary.pdf\nsource: https://www.smh.com.au/politics/federal/the-new-legal-weapon-aimed-at-big-tech-20261109-p61cbr.html\nrelated: ai-chatbots-children-digital-duty-2026, hanson-faruqi-18c-high-court-2026, online-safety-act-2021-and-social-media-minimum-age, croc-1989, technology-and-the-individual, kmart-camera-glasses-2026, human-rights-in-australia-common-law-courts-media-charter, law-reform-conditions-agencies-mechanisms, guardian-2026-gps-tracking\nupdated_at: 2026-11-09 08:01\n## Update: faith groups push for a right to sue (SMH, 9 November 2026)\n\nMore than **80** groups (the article's figure), including the ECAJ and the Islamic Council of Victoria, back adding a\n**private right of action** before the Senate votes; the committee reports by **20 November 2026**. An Australia Institute\npoll found **72%** support compensation for people harmed by platform content.\n\n| | Bill as passed by the House | What the Greens and advocates …",
+      "removed_lines": 8,
+      "added_lines": 29
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "un-rapporteur-refused-youth-detention-access-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "NT and Queensland shut a UN expert out of youth detention (Amnesty International, 2 November 2026)",
+     "short": "UN rapporteur refused detention access",
+     "citation": "Evidence summaries of an Amnesty International Australia media release, 2 November 2026, Chloe Chomicki, ABC News, 4 November 2026, and Roxanne Fitzgerald, ABC News, 5 November 2026 (summarised 6 and 9 November), on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)",
+     "date": "2026-11-09",
+     "added": "2026-11-04",
+     "significance": "A UN expert invited to Australia was refused entry to two youth detention centres holding mostly First Nations children — the third UN access dispute since 2022.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.2.2",
+      "hr.2.1"
+     ],
+     "core_labels": [
+      "The role of the United Nations",
+      "State sovereignty"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-un-rapporteur-refused-youth-detention-access-2026",
+     "document": "Human Rights/HR - UN Rapporteur Blocked From Youth Jails Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1M1T0cP1D89efOzU4c0iDRbjWQjkPU8J-/view",
+     "document_missing_id": false,
+     "document11": "Preliminary/Year 11 - UN Rapporteur Refused Youth Detention Access Evidence Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1N6raFwz8V3_DLG2ri43sXGDt0-DotV20/view",
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-05/united-nations-blocked-from-inspecting-darwin-youth-jail/107343550",
+     "lead": "The Special Rapporteur's official visit runs **2–13 November 2026**. The NT and Queensland refused planned visits to\n**Holtze** and **Cleveland**, where about **97%** of children at Cleveland were Aboriginal and/or Torres Strait Islander at\ninspection. It is the second time in under a year the NT has blocked UN experts. First Nations young people are detained at **25.7 per 10,000** (2024–25), against a\nClosing the Gap target of a 30% fall by 2031; the Productivity Commission assesses no change.",
+     "use_it_for": "- **hr.2.2 / hr.2.1** — UN monitoring inside a sovereign, federal state; the Commonwealth answers internationally for\n  detention run by states and territories.\n- **Year 11 (the global legal system)** — state sovereignty and the UN's role.",
+     "caution": "A **class evidence summary of an NGO advocacy release**; no government explanation is included.",
+     "sections": {
+      "What the mandate asks v what happened": "| UN terms of reference | November 2026 |\n|---|---|\n| Access to all places of detention | Holtze and Cleveland visits refused |\n| Confidential contact with detainees | No in-centre contact with children |\n| Contact with authorities in every branch | NT and Qld refused to engage, the Rapporteur says |\n| Freedom of movement | Visit otherwise proceeding |\n| Findings reported to the Human Rights Council | Precedent: the WGAD relied on public reports for the NT |\n\nThe terms of reference are UN guidelines, not a treaty: visits depend on the state's invitation and cooperation.",
+      "ABC report (4 November 2026)": "Queensland gave a brief statement; the NT and the Commonwealth did not respond. Cleveland held **101** children against a\nsafe capacity of **95** (August 2025); about **90%** at Cleveland identified as Aboriginal or Torres Strait Islander (68.2%\nacross Queensland's centres). First Nations young people are detained at **26 times** the non-Indigenous rate (2023–24).\nQueensland's mandatory 12 months for serious offending on bail starts on 30 November. Special Rapporteurs visit under UN\nterms of reference, **not OPCAT**; cooperation rests on invitation. Preliminary findings are due in Sydney on **13\nNovember 2026**.",
+      "ABC report (5 November 2026): \"It would be a scandal\"": "Roxanne Fitzgerald's report accuses the NT government of hiding what is happening inside Holtze. The Special Rapporteur, **Dr Albert K. Barume**, is on a country visit to seven locations (2–13 November) under Australia's **2008 standing invitation** to UN special procedures; the refusal of Holtze and Cleveland was announced in a late-October statement.\n\n| UN framework expects | What happened (as reported) |\n|---|---|\n| Access to all places of detention; contact with every branch of government | NT and Queensland refused both access and meetings, according to his statement |\n| Invitation given by the Commonwealth for all of Australia | The federal Attorney-General's office says access is for …",
+      "International standards v what the NT and Queensland did (summary of 9 November 2026)": "A fuller class summary of the 5 November ABC report sets the governments' conduct against the standards they have accepted.\n\n| International expectation | NT / Queensland |\n|---|---|\n| Access to detention guaranteed under the terms of reference | Holtze and Cleveland tours cancelled |\n| Meetings with central and local officials | Requested meetings in the Torres Strait, Townsville and Darwin not held |\n| Detention of children as a last resort (2017 Rapporteur) | NT reforms and Queensland's 2024 laws remove \"last resort\" |\n| Age 10 below international standards (UN bodies) | NT lowered the age back to 10 (October 2024) |\n| Humane treatment (CROC art 37); the NPM opposes spit hoods | NT reintr…",
+      "Use it for": "- **hr.2.2 / hr.2.1** — UN monitoring inside a sovereign, federal state; the Commonwealth answers internationally for\n  detention run by states and territories.\n- **Year 11 (the global legal system)** — state sovereignty and the UN's role.",
+      "Caution": "A **class evidence summary of an NGO advocacy release**; no government explanation is included."
+     },
+     "path": "evidence/media/un-rapporteur-refused-youth-detention-access-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "5162e32",
+        "subject": "Evidence: file the 9 Nov inbox — nine new records, four cards updated"
+       },
+       {
+        "sha": "fcbb7ce",
+        "subject": "Evidence: file the 6 Nov inbox — nineteen new records, five cards updated"
+       }
+      ],
+      "latest_sha": "5162e32",
+      "added_text": "citation: Evidence summaries of an Amnesty International Australia media release, 2 November 2026, Chloe Chomicki, ABC News, 4 November 2026, and Roxanne Fitzgerald, ABC News, 5 November 2026 (summarised 6 and 9 November), on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)\ndate: 2026-11-09\ndocument: Human Rights/HR - UN Rapporteur Blocked From Youth Jails Evidence Summary.pdf\ndocument11: Preliminary/Year 11 - UN Rapporteur Refused Youth Detention Access Evidence Summary.pdf\nsource: https://www.abc.net.au/news/2026-11-05/united-nations-blocked-from-inspecting-darwin-youth-jail/107343550\nupdated_at: 2026-11-09 08:01\n## ABC report (5 November 2026): \"It would be a scandal\"\n\nRoxanne Fitzgerald's report accuses the NT government of hiding what is happening inside Holtze. The Special Rapporteur, **Dr Albert K. Barume**, is on a country visit to seven locations (2–13 November) under Australia's **2008 standing invitation** to UN special procedures; the refusal of Holtze and Cleveland was announced in a late-October statement.\n\n| UN framework expects | What happened (as reported) |\n|---|---|\n| Access to all places of detention; contact with every branch of government | NT and Queensland refused both access and meetings, according to his statement |\n| Invitation given by the Commonwealth for all of Australia | The feder…",
+      "removed_lines": 5,
+      "added_lines": 38
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "family",
+   "label": "Family",
+   "part": "HSC Option 3",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "act-police-fv-sms-trial-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "ACT police to text family violence offenders in a compliance trial (ABC, 6 November 2026)",
+     "short": "ACT family violence text trial",
+     "citation": "Evidence summary of Annabel Whitehouse, ABC News, 6 November 2026, on ACT Policing's six-month Family Violence Bail, Orders and Compliance SMS trial; Family Violence Act 2016 (ACT) s 43; Crimes (Domestic and Personal Violence) Act 2007 (NSW) s 14",
+     "date": "2026-11-06",
+     "added": "2026-11-09",
+     "significance": "From 9 November police text people under family violence orders and bail about their obligations — a non-legal nudge to prevent breaches rather than only punish them.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.4"
+     ],
+     "core_labels": [
+      "Dealing with domestic violence"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-act-police-fv-sms-trial-2026",
+     "document": "Family/Evidence Summaries/Family - ACT Police Family Violence Text Trial Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1tKjGkKJfWmAq3WNTvSISn2fv5xG_-rRO/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-06/act-police-to-text-family-violence-offenders/107354764",
+     "lead": "ACT police respond to about **12** domestic and family violence incidents a day. In NSW, **21.1%** of ADVOs in force in\nlate 2025 were breached at least once (BOCSAR); no ACT breach rate was found. The six-month trial starts on\n**Monday 9 November 2026**.",
+     "use_it_for": "- **fam.2.4** — whether protection orders work, and the gap between making an order and compliance.\n- **Effectiveness** — a cheap, technology-based non-legal measure; the result depends on an evaluation not yet designed in public.",
+     "caution": "A **class evidence summary of a police announcement**; how recipients are chosen and how results will be measured were\nnot published.",
+     "sections": {
+      "What the trial adds": "| | Current law and practice | SMS trial |\n|---|---|---|\n| Knowing the order | Respondent present when made, or personally served | Texts only to people already served |\n| Reminders | None after service | Reminders of order and bail obligations |\n| Support | Depends on individual police contact | Support services and a police contact point |\n| Breach | Offence under s 43: up to 500 penalty units, 5 years' jail | Unchanged — texts add to, not replace, enforcement |\n| Coverage | Everyone bound by an order | Not everyone will receive messages |",
+      "Earlier trials": "NSW court-date texts to **4,388** people with ADVOs (2016–18) cut non-attendance but not breaches significantly;\nQueensland reported SMS contact cut repeat offending (2022). DVCS ACT CEO Sue Webeck is sceptical, and a listener feared\ntexts could provoke perpetrators; police were not concerned.",
+      "Use it for": "- **fam.2.4** — whether protection orders work, and the gap between making an order and compliance.\n- **Effectiveness** — a cheap, technology-based non-legal measure; the result depends on an evaluation not yet designed in public.",
+      "Caution": "A **class evidence summary of a police announcement**; how recipients are chosen and how results will be measured were\nnot published."
+     },
+     "path": "evidence/media/act-police-fv-sms-trial-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "country-lawyers-dfv-crisis-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Country lawyers on the frontline of the domestic and family violence crisis (ABC, 7 November 2026)",
+     "short": "Country lawyers and the DFV crisis",
+     "citation": "Evidence summary of Jeremy Story Carter, ABC News, 7 November 2026; Community Legal Centres Australia figures; National Legal Assistance Partnership review (2024); National Access to Justice Partnership (from 1 July 2025); Crimes (Domestic and Personal Violence) Act 2007 (NSW) ss 16, 48; Crimes Act 1900 (NSW) s 54D; Family Law Act 1975 (Cth) s 4AB",
+     "date": "2026-11-07",
+     "added": "2026-11-09",
+     "significance": "DFV law only protects victims who can reach a lawyer — DFV is about 75% of rural community legal centre work, and centres turn away around 400 victim-survivors a day.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.4",
+      "fam.2.6"
+     ],
+     "core_labels": [
+      "Dealing with domestic violence",
+      "The role of non-government organisations"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-country-lawyers-dfv-crisis-2026",
+     "document": "Family/Evidence Summaries/Family - Country Lawyers and the DFV Crisis Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1AVkmr5ye4doG-_SlkDTe9uMVqQWmRQEm/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-07/domestic-family-violence-crisis-overwhelms-country-lawyers/107312866",
+     "lead": "DFV is **40–50%** of community legal centre (CLC) work nationally and about **75%** in rural and remote areas. Funding\nfor CLCs and women's legal services rose **74%** to **$833m** for 2025–30, but a $15.8m request for regional DFV and\nfamily law services was not funded. The article follows a Victorian program placing early-career lawyers in the regions.",
+     "use_it_for": "- **fam.2.4 / fam.2.6** — the role of NGOs (CLCs, women's legal services) in making DFV law work.\n- **Access to justice** — geography and funding as barriers (crime.3.5 for legal aid).",
+     "caution": "A **sympathetic feature**; the 40–50%, 75% and 400-a-day figures come from Community Legal Centres Australia without\npublished method.",
+     "sections": {
+      "City v country": "| | National / metropolitan | Regional and remote |\n|---|---|---|\n| DFV share of CLC work | About 40–50% | About 75% |\n| Coercive control incidents (NSW 2024–25) | Greater Sydney 2.3 per 100,000 | Regional NSW 5.9 per 100,000 |\n| Service reach | WDVCAS statewide by phone | A Mid-North Coast centre \"could double and still not meet need\" |\n| Workforce incentives | HELP debt relief for rural doctors, nurse practitioners, remote teachers | None for regional CLC lawyers, despite NLAP review Rec 26 |",
+      "The pathway depends on lawyers": "Police can seek a provisional ADVO (s 25) and must apply when all protected persons are children (s 48(3)); the court\napplies the s 16 fear test on the balance of probabilities. CLCs handle family law, housing and financial abuse. NSW's\ncoercive control offence (s 54D) produced **297 incidents but only 9 charges** in its first year.",
+      "Use it for": "- **fam.2.4 / fam.2.6** — the role of NGOs (CLCs, women's legal services) in making DFV law work.\n- **Access to justice** — geography and funding as barriers (crime.3.5 for legal aid).",
+      "Caution": "A **sympathetic feature**; the 40–50%, 75% and 400-a-day figures come from Community Legal Centres Australia without\npublished method."
+     },
+     "path": "evidence/media/country-lawyers-dfv-crisis-2026.md",
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "shelter",
+   "label": "Shelter",
+   "part": "HSC Option 5",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "short-stay-levy-community-housing-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Peak body pitches a 7.5% short-stay levy to fund NSW social housing (ABC, 4 November 2026)",
+     "short": "Short-stay levy for community housing",
+     "citation": "Evidence summaries (5, 6 and 9 November 2026) of Declan Bowring, ABC News, 4 November 2026, on CHIA NSW's commissioned research (McKell Institute land tax modelling); Short Stay Levy Act 2024 (Vic); State Environmental Planning Policy (Housing) 2021 (NSW)",
+     "date": "2026-11-04",
+     "added": "2026-11-05",
+     "significance": "With 72,000 households on the waitlist, CHIA NSW proposes a 7.5% levy on short stays, as Victoria has, to raise $135m a year — a peak body driving law reform through new taxes.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.3.4",
+      "shel.1.4"
+     ],
+     "core_labels": [
+      "Social housing",
+      "Types of shelter"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-short-stay-levy-community-housing-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - NSW Short Stay Levy Proposal Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1nqJi9XSqQNUuamqX6NhrfXYejuLGA58e/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-04/community-housing-body-calls-for-short-stay-levy/107341406",
+     "lead": "The **Community Housing Industry Association NSW** (CEO Luke Achterstraat) presented research at NSW Parliament on 4\nNovember 2026: a **7.5%** short-stay levy could raise about **$135m a year**, and its broader options (mostly land tax)\nabout **$26bn** over 10 years. NSW's $6.6bn Building Homes for NSW program promises 8,400 public homes.",
+     "use_it_for": "- **shel.3.4** — funding social and community housing; a hypothecated tax versus planning caps.\n- **Law reform** — a non-government stakeholder proposing a new law.",
+     "caution": "A **class evidence summary of an advocacy proposal**; the revenue figures are CHIA NSW and McKell modelling, not\nindependently verified, and the report was not obtained.",
+     "sections": {
+      "Victoria v NSW": "| | Victoria (levy) | NSW (planning controls) |\n|---|---|---|\n| Law | *Short Stay Levy Act 2024*, from 1 January 2025 | SEPP (Housing) 2021, framework from 1 November 2021 |\n| Mechanism | **7.5%** of booking fees for stays under 28 days, earmarked for housing | Mandatory register, code of conduct; 180-day cap on non-hosted stays in some areas |\n| Who pays | Booking platform, or the owner for direct bookings | Host registers; $65 first-year fee |\n| Housing revenue | Yes | None |\n\nThe Government, Opposition, Greens and industry responded; NSW announced a short-term rental review in December 2023.",
+      "The land tax package, and how the figures check (second summary, 6 November 2026)": "A second class summary of the same ABC article tests the claims. Almost all of the **$26bn** over 10 years comes from **land tax changes ($25.9bn)**; the levy itself would raise about $1.35bn over 10 years.\n\n| | Current NSW setting | CHIA NSW proposal |\n|---|---|---|\n| General land tax | $100 plus 1.6% above $1.075m | Rate rises to 2% |\n| Premium land tax | 2% above $6.571m | 2.5% for larger holdings; new 2.9% rate above $50m |\n| Threshold and home | $1.075m; principal place of residence exempt | Both kept |\n| Rezoning gains | No windfall charge reported | Charge on value uplift, about $80m a year |\n| Funding model | $6.6bn Building Homes for NSW, set through the budget | Dedicated long-term…",
+      "The McKell report's own figures (summary of 9 November 2026)": "A third class summary works from the McKell Institute report, *Long-term Funding Options for Community Housing in NSW*.\n\n- **Waitlist**: the report gives **72,232** households (September 2026) — the source of the \"72,000\" figure, though still\n  not checked against DCJ's own data.\n- **Victoria's first months**: the levy collected **$19.1m** and 302 registrations from 1 January to 30 June 2025; smaller\n  operators lodge annually, so first-year figures understate the total. Hotels, motels and principal places of residence\n  are exempt in Victoria; the article does not say whether NSW would copy this.\n- **Who would build**: community housing providers manage more than **67,000** homes (about a t…",
+      "Use it for": "- **shel.3.4** — funding social and community housing; a hypothecated tax versus planning caps.\n- **Law reform** — a non-government stakeholder proposing a new law.",
+      "Caution": "A **class evidence summary of an advocacy proposal**; the revenue figures are CHIA NSW and McKell modelling, not\nindependently verified, and the report was not obtained."
+     },
+     "path": "evidence/media/short-stay-levy-community-housing-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "5162e32",
+        "subject": "Evidence: file the 9 Nov inbox — nine new records, four cards updated"
+       },
+       {
+        "sha": "fcbb7ce",
+        "subject": "Evidence: file the 6 Nov inbox — nineteen new records, five cards updated"
+       }
+      ],
+      "latest_sha": "5162e32",
+      "added_text": "citation: Evidence summaries (5, 6 and 9 November 2026) of Declan Bowring, ABC News, 4 November 2026, on CHIA NSW's commissioned research (McKell Institute land tax modelling); Short Stay Levy Act 2024 (Vic); State Environmental Planning Policy (Housing) 2021 (NSW)\ndocument: Shelter/Evidence Sheets/Shelter - NSW Short Stay Levy Proposal Evidence Summary.pdf\nupdated_at: 2026-11-09 08:01\n## The land tax package, and how the figures check (second summary, 6 November 2026)\n\nA second class summary of the same ABC article tests the claims. Almost all of the **$26bn** over 10 years comes from **land tax changes ($25.9bn)**; the levy itself would raise about $1.35bn over 10 years.\n\n| | Current NSW setting | CHIA NSW proposal |\n|---|---|---|\n| General land tax | $100 plus 1.6% above $1.075m | Rate rises to 2% |\n| Premium land tax | 2% above $6.571m | 2.5% for larger holdings; new 2.9% rate above $50m |\n| Threshold and home | $1.075m; principal place of residence exempt | Both kept |\n| Rezoning gains | No windfall charge reported | Charge on value uplift, about $80m a year |\n| Funding model | $6.6bn Building Homes for NSW, set through the budget | Dedicated long-term pool to avoid funding cliffs |\n\n- **Victoria's evidence**: its levy raised **$85.8m in 2025 against a $75m forecast**; listings growth slowed from about 22% to 2.6%, then fell 0.5% in 2026 — but Victoria has not said which homes the money funded.\n- **Competing estimates**: Homelessness NSW estimated about **$50m a year** f…",
+      "removed_lines": 3,
+      "added_lines": 33
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "changing",
+   "label": "Changing the law",
+   "part": "Year 11 (Preliminary) Focus area 3",
+   "course": "preliminary",
+   "items": [
+    {
+     "id": "national-ebike-safety-standard-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "National safety standard to curb dangerous and illegal e-bikes (AFR, 6 November 2026)",
+     "short": "National e-bike safety standard",
+     "citation": "Evidence summary of Phillip Hudson, The Australian Financial Review, 6 November 2026, and the ACCC consultation paper Policy options for e-bike safety (October 2026); Competition and Consumer Act 2010 (Cth) Sch 2 (Australian Consumer Law) ss 104, 106; EN 15194; Road Transport Act 2013 (NSW)",
+     "date": "2026-11-06",
+     "added": "2026-11-09",
+     "significance": "The Commonwealth will use the Australian Consumer Law to control which e-bikes can be sold, while states keep control of riding — law reform responding to new technology across a federal system.",
+     "topic": "changing",
+     "also_topics": [],
+     "core": [
+      "chg.1.3",
+      "chg.3.2"
+     ],
+     "core_labels": [
+      "Adapting to technological change",
+      "Executive methods — political will, parliamentary debate, ministerial directions"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-national-ebike-safety-standard-2026",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "Preliminary/Year 11 - National E-bike Safety Standards Evidence Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1QqX8yuo1H6rYsZ-CSavf-GkmQvsNYg0Z/view",
+     "document11_missing_id": false,
+     "source": "https://consultation.accc.gov.au/accc/policy-options-for-ebike-safety/",
+     "lead": "Consumer affairs ministers backed national rules in July 2026; on 6 August the government directed the ACCC to develop an\nACL safety standard. ACCC consultation (nine options) runs **30 October to 30 November 2026**, with a recommendation to the\nMinister possible in early 2027. The ACCC estimates e-bike injuries and deaths cost at least **$28m a year** (about $27m of\nit valuing 23 deaths); Fire and Rescue NSW attended **786** e-micromobility fires (2022–2025).",
+     "use_it_for": "- **Year 11 Changing the law** — reform responding to technology (chg.1.3) through executive methods: ministerial\n  direction, regulator consultation, then a standard made by the Minister (chg.3.2).\n- **Division of powers** — the Commonwealth regulates supply, the states regulate use.",
+     "caution": "A **class evidence summary of a short business report** built on the minister's comments; no industry, rider or critic\nvoices. The standard is not yet made.",
+     "sections": {
+      "State patchwork v proposed national standard": "| | Now | Proposed (consultation options) |\n|---|---|---|\n| What can be sold | No national e-bike supply rule | Only e-bikes meeting EN 15194 or another referenced standard |\n| Power and speed | Varies; NSW still allows 500 W pedelecs, moving to 250 W | 250 W continuous, 25 km/h assistance |\n| Batteries, chargers | Only NSW prescribes standards | A safety standard for separately sold batteries and chargers |\n| Conversion kits | Not covered | Power limits plus pre-sale information |\n| Tampering | Left to state road enforcement | Rules on tampering devices at supply; scope open |\n| Riding | State road rules; NSW seizure powers from 21 August 2026 | Unchanged — the standard covers sale only |\n\n…",
+      "Use it for": "- **Year 11 Changing the law** — reform responding to technology (chg.1.3) through executive methods: ministerial\n  direction, regulator consultation, then a standard made by the Minister (chg.3.2).\n- **Division of powers** — the Commonwealth regulates supply, the states regulate use.",
+      "Caution": "A **class evidence summary of a short business report** built on the minister's comments; no industry, rider or critic\nvoices. The standard is not yet made."
+     },
+     "path": "evidence/media/national-ebike-safety-standard-2026.md",
+     "in_site_build": true
+    }
+   ]
+  }
+ ],
+ "notes": []
+}

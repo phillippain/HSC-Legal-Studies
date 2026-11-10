@@ -1,0 +1,458 @@
+{
+ "generated": "2026-11-07T10:08:25",
+ "today": "2026-11-07",
+ "window_start": "2026-11-05",
+ "basis": "the last digest (2026-11-06 08:22), looking back a day",
+ "site_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
+ "counts": {
+  "new": 9,
+  "updated": 1
+ },
+ "groups": [
+  {
+   "key": "crime",
+   "label": "Crime",
+   "part": "HSC Core Part I",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "milat-s78-review-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Application by Matthew Milat (s 78 review) [2026] NSWSC 966 — a child offender's 43-year sentence not referred",
+     "short": "Matthew Milat s 78 review",
+     "citation": "[2026] NSWSC 966 (Dhanji J, on the papers, 12 August 2026)",
+     "date": "2026-08-12",
+     "added": "2026-11-07",
+     "significance": "Sentenced at about 17 years 11 months to 43 years for murder, Matthew Milat sought an inquiry into his sentence after his appeals ended; none of his complaints raised a doubt, so the application was refused.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.5.4",
+      "crime.4.8"
+     ],
+     "core_labels": [
+      "Penalties for children",
+      "Post-sentencing considerations"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-milat-s78-review-2026",
+     "document": "Cases/Crime/Application by Matthew Milat (s 78 review) [2026] NSWSC 966 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/15Y2Wl-X_HUkN0mzdGOWfenDj64485yEi/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Application by Matthew Milat (s 78 review) [2026] NSWSC 966 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1kNbusEBi1NKhxZAGnPREYwcR7USDcoPy/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "**Matthew Milat** was about **17 years 11 months** old at the time of the 2010 offence; his co-offender was 18. He pleaded\nguilty in the Children's Court and was sentenced in 2012 to **43 years** (non-parole **30**). The CCA dismissed his appeal\nin 2014 (and reduced the co-offender's sentence); the High Court refused special leave. In 2026, self-represented, he applied\nunder **s 78** for an inquiry or a referral to the CCA.",
+     "use_it_for": "- **crime.5.4** — sentencing a child offender as an adult for the most serious crime; CROC's \"shortest appropriate time\".\n- **crime.4.8 / crime.4.5** — the review mechanism after appeals are exhausted.",
+     "caution": "A **class case summary**. The killing is not described; no birth date is in the file.",
+     "sections": {
+      "Held — refused on the papers": "- An order needs a **doubt or question** about guilt, mitigating circumstances or evidence (**s 79(2)**); the test is unease or\n  disquiet. **Section 78 is not another appeal.**\n- His complaints — parity with the co-offender, the plea discount, drugs, risk, his surname, premeditation, and being\n  \"treated as an adult\" though a child — had largely been dealt with before and raised no such doubt.",
+      "Use it for": "- **crime.5.4** — sentencing a child offender as an adult for the most serious crime; CROC's \"shortest appropriate time\".\n- **crime.4.8 / crime.4.5** — the review mechanism after appeals are exhausted.",
+      "Caution": "A **class case summary**. The killing is not described; no birth date is in the file."
+     },
+     "path": "evidence/cases/milat-s78-review-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "brooker-v-r-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Brooker v R [2026] NSWCCA 181 — one phrase, two readings, and no inferred error",
+     "short": "Brooker v R",
+     "citation": "[2026] NSWCCA 181 (Dhanji J, Ward ACJ and Yehia J agreeing; 6 November 2026)",
+     "date": "2026-11-06",
+     "added": "2026-11-07",
+     "significance": "A drug supplier argued the judge used other offending to inflate the seriousness of his offence; the Court would not infer error from words open to two readings.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.3",
+      "crime.4.5"
+     ],
+     "core_labels": [
+      "Factors affecting a sentencing decision",
+      "Appeals"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-brooker-v-r-2026",
+     "document": "Cases/Crime/Brooker v R [2026] NSWCCA 181 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1EwhXRN9UeZAeClXqpFaBzk0VAwZycO_e/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Brooker v R [2026] NSWCCA 181 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/13wzzGc0Et96yh7PRgCCMdxt4RBIcPmSa/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "**Brodie Brooker** pleaded guilty to **ongoing supply** (19 supplies, May 2024), possessing a stun gun and attempting to\nreceive **280 g** of methylamphetamine, with **11 offences on Form 1s**. In December 2025 he received an aggregate **4\nyears 3 months** (non-parole 2 years 7 months).",
+     "use_it_for": "- **crime.4.3** — objective seriousness and the use of Form 1 (taken-into-account) offences.\n- **crime.4.5** — how appeal courts read sentencing remarks.",
+     "caution": "A **class case summary**; only Dhanji J gave reasons.",
+     "sections": {
+      "Held — leave granted, appeal dismissed": "- He argued that calling the attempt \"**not an isolated aberration**\" wrongly used other offending to raise **objective\n  seriousness**. The phrase has two readings; an appeal court will **not infer error** where the remarks are reasonably\n  read as lawful.\n- Calling the quantity \"just into the commercial range\" but \"still a very large amount\" was not an error either.",
+      "Use it for": "- **crime.4.3** — objective seriousness and the use of Form 1 (taken-into-account) offences.\n- **crime.4.5** — how appeal courts read sentencing remarks.",
+      "Caution": "A **class case summary**; only Dhanji J gave reasons."
+     },
+     "path": "evidence/cases/brooker-v-r-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "gatt-v-r-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Gatt v R [2026] NSWCCA 182 — unchallenged expert evidence rejected without warning",
+     "short": "Gatt v R",
+     "citation": "[2026] NSWCCA 182 (Roberts J, with N Adams CJ at CL; Dhanji J agreeing on error; 6 November 2026)",
+     "date": "2026-11-06",
+     "added": "2026-11-07",
+     "significance": "An aggregate sentence for 20 domestic violence and public justice offences fell from 12 to 11 years because the judge rejected an expert's unchallenged evidence without warning — a practical injustice.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.5",
+      "crime.4.3"
+     ],
+     "core_labels": [
+      "Appeals",
+      "Factors affecting a sentencing decision"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-gatt-v-r-2026",
+     "document": "Cases/Crime/Gatt v R [2026] NSWCCA 182 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1yXJJSLaCkXxFBFTDyznne0QgpakzYJl1/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Gatt v R [2026] NSWCCA 182 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1-IvqIdPoXjYCeTgYTsLxtQwWptuMR89X/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "**Adrian Gatt** pleaded guilty to **20** domestic violence and public justice offences, including a day of assaults on his\nwife and children (31 May 2023) and, from custody, having family press his wife to withdraw her statement. In September\n2024 he received an aggregate **12 years** (non-parole 8).",
+     "use_it_for": "- **crime.4.5 (appeals)** — error, resentencing and a split court on the number.\n- **Procedural fairness** — a judge must give a party a chance to answer before rejecting uncontested evidence.",
+     "caution": "A **class case summary**; family violence offending against a wife and children. The judges split on the final sentence.",
+     "sections": {
+      "Held — appeal allowed (one of four grounds)": "- Grounds 1–2 failed: the finding that a \"perverted\" patriarchal motive raised his moral culpability was open.\n- **Ground 3 upheld:** the judge rejected **unchallenged expert evidence** of harsh childhood discipline **without warning**\n  the defence — a **practical injustice** (procedural fairness).\n- Ground 4 (weight given to his minor record) failed.\n- **Resentenced: 11 years, non-parole 7.** Dhanji J would have set 10 years (non-parole 6 years 6 months).",
+      "Use it for": "- **crime.4.5 (appeals)** — error, resentencing and a split court on the number.\n- **Procedural fairness** — a judge must give a party a chance to answer before rejecting uncontested evidence.",
+      "Caution": "A **class case summary**; family violence offending against a wife and children. The judges split on the final sentence."
+     },
+     "path": "evidence/cases/gatt-v-r-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "r-v-xerri-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "R v Xerri (a pseudonym) [2026] NSWCCA 183 — are emails 'property' for self-defence?",
+     "short": "R v Xerri",
+     "citation": "[2026] NSWCCA 183 (Muston J, with N Adams CJ at CL and Cavanagh J; 6 November 2026)",
+     "date": "2026-11-06",
+     "added": "2026-11-07",
+     "significance": "A man acquitted on appeal by arguing he grabbed a device to protect his emails lost that acquittal: on the facts found, emails were information, not property, and reading them aloud was not interference.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.3.8",
+      "crime.4.5"
+     ],
+     "core_labels": [
+      "Defences to criminal charges",
+      "Appeals"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-xerri-2026",
+     "document": "Cases/Crime/R v Xerri (a pseudonym) [2026] NSWCCA 183 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1lW8o_GlShz-NJTsNv-fQs5w8iRAYJLTq/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - R v Xerri (a pseudonym) [2026] NSWCCA 183 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1SWbpZwFk9smubeoTDTQIw8bHCfHD1-71/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "After a separation, the respondent's emails were read aloud from a family device (20 November 2023); he took the\ndevice and grabbed an arm. He was convicted in the Local Court of **common assault** and contravening an **ADVO**. On\nappeal the District Court held the emails were **property**, so he could rely on **self-defence of property**\n(s 418(2)(c)), and acquitted him. The DPP had four questions stated to the CCA.",
+     "use_it_for": "- **crime.3.8 (defences)** — the limits of self-defence of property; statutory definitions doing the work.\n- **Year 11 (Changing the law)** — courts adapting old property concepts to technology (judicial methods).",
+     "caution": "A **class case summary** of a narrow ruling on stated facts; guilt is not decided. Pseudonyms; domestic violence context.",
+     "sections": {
+      "Held": "- On the **limited facts** found, the emails were **information, not property**: property is definable, identifiable by\n  others and has some permanence (*Ainsworth*); mere information is not (contrast Bitcoin, *Yeates* (Vic 2025), and online\n  game tokens, *Lakeman* (UK 2026)).\n- Reading them aloud was not **interference** with property.\n- The acquittal was **quashed** and the appeal **remitted** to the District Court; the other two questions were not answered.\n  The Court stressed the ruling is confined to the facts stated.",
+      "Use it for": "- **crime.3.8 (defences)** — the limits of self-defence of property; statutory definitions doing the work.\n- **Year 11 (Changing the law)** — courts adapting old property concepts to technology (judicial methods).",
+      "Caution": "A **class case summary** of a narrow ruling on stated facts; guilt is not decided. Pseudonyms; domestic violence context."
+     },
+     "path": "evidence/cases/r-v-xerri-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "state-of-nsw-v-mustapha-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "State of NSW v Mustapha [2026] NSWSC 1406 — a third terrorism supervision order sought",
+     "short": "State of NSW v Mustapha",
+     "citation": "[2026] NSWSC 1406 (Schmidt AJ, 6 November 2026)",
+     "date": "2026-11-06",
+     "added": "2026-11-07",
+     "significance": "Despite compliance and progress, a man never convicted of a terrorism offence was found to pose a continuing unacceptable risk, so the court made a 28-day interim supervision order pending examinations.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.8",
+      "crime.6.1"
+     ],
+     "core_labels": [
+      "Post-sentencing considerations",
+      "Categories of international crime"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-state-of-nsw-v-mustapha-2026",
+     "document": "Cases/Crime/State of NSW v Mustapha [2026] NSWSC 1406 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1CEoNqvnulmwoQNh7syJEYOW36GiOsDmw/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - State of NSW v Mustapha [2026] NSWSC 1406 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1yjKmvmFhVDg9cpxjOrfSUKmvW19-G_GQ/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "**Mejid Mustapha**, 37, has a violent record and past extremist beliefs (in 2018 he assaulted a police officer and made\nthreats referring to Islamic State) but has **never been convicted of a terrorism offence**. He was placed on an extended\nsupervision order in 2022 and a second, relaxed one-year order in November 2025. The State sought a **third**.",
+     "use_it_for": "- **crime.4.8** — NSW's high-risk terrorism offender scheme; supervision of people not convicted of terrorism.\n- **Balance** — liberty and rehabilitation against community protection.",
+     "caution": "A **class case summary of an interim order**; the allegations and any final order are undecided.",
+     "sections": {
+      "Held — Schmidt AJ": "- The test is an unacceptable risk of a **serious terrorism offence**, not violence in general.\n- Despite his compliance and progress, lingering beliefs and recent conduct meant, if the allegations were proved, a further\n  order could be justified.\n- **Two examiners** appointed and a **28-day interim order** from 13 November 2026.",
+      "Use it for": "- **crime.4.8** — NSW's high-risk terrorism offender scheme; supervision of people not convicted of terrorism.\n- **Balance** — liberty and rehabilitation against community protection.",
+      "Caution": "A **class case summary of an interim order**; the allegations and any final order are undecided."
+     },
+     "path": "evidence/cases/state-of-nsw-v-mustapha-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "staunton-v-el-matari-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Staunton v El Matari [2026] FCA 1622 — an interim control order on release after terrorism offences",
+     "short": "Staunton v El Matari",
+     "citation": "[2026] FCA 1622 (Shariff J; order 29 October 2026, reasons 5 November 2026)",
+     "date": "2026-11-05",
+     "added": "2026-11-07",
+     "significance": "Due for release after 7 years 4 months for terrorism offences, Isaac El Matari was placed under an interim control order — protective, not penal — with every condition tested for necessity and proportion.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.8",
+      "crime.6.1"
+     ],
+     "core_labels": [
+      "Post-sentencing considerations",
+      "Categories of international crime"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-staunton-v-el-matari-2026",
+     "document": "Cases/Crime/Staunton v El Matari [2026] FCA 1622 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/19d8bJV1qHHKE3_8OLdhXCKdxkMA-VgqX/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Staunton v El Matari [2026] FCA 1622 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1XFvbs-zj_GiAG8qw6O1X6ZW1QVvmbQdU/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "In 2017, aged 18, **Isaac El Matari** travelled to Lebanon intending to join Islamic State; after returning he prepared\nfor terrorism and foreign incursion offences and was convicted in 2021. His sentence expired on **1 November 2026**. A\nsenior AFP member sought an **interim control order**; he did not oppose it.",
+     "use_it_for": "- **crime.4.8 (post-sentencing)** — Commonwealth control orders beside state supervision orders (see *Mustapha*, McKenna).\n- **Rights** — liberty limited for what a person might do, decided on the balance of probabilities.",
+     "caution": "A **class case summary of an interim order**; parts of the reasons are redacted and publication is restricted.",
+     "sections": {
+      "Held — interim order made (29 October 2026)": "- He had a **terrorism-related conviction** (s 104.4(1)(c)(iv)).\n- Every condition — where he lives, who he mixes with, **electronic monitoring** (ss 104.5A–104.5D) — and their combined\n  effect was **reasonably necessary and reasonably appropriate and adapted** to protect the public.\n- The scheme is **protective, not penal** (*Thomas v Mowbray*); past conduct is the best guide to risk. Confirmation hearing:\n  **17 December 2026**.",
+      "Use it for": "- **crime.4.8 (post-sentencing)** — Commonwealth control orders beside state supervision orders (see *Mustapha*, McKenna).\n- **Rights** — liberty limited for what a person might do, decided on the balance of probabilities.",
+      "Caution": "A **class case summary of an interim order**; parts of the reasons are redacted and publication is restricted."
+     },
+     "path": "evidence/cases/staunton-v-el-matari-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "safework-nsw-v-axentra-projects-2026",
+     "status": "updated",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "SafeWork NSW v Axentra Projects Pty Ltd [2026] NSWDC 398",
+     "short": "SafeWork NSW v Axentra Projects",
+     "citation": "[2026] NSWDC 398",
+     "date": "2026-11-02",
+     "added": "2026-11-03",
+     "significance": "A formwork company was fined $75,000 (after a 25% plea discount) and ordered to publish a notice after a 16-year-old trainee fell 3.4 metres.",
+     "topic": "crime",
+     "also_topics": [
+      "disputes"
+     ],
+     "core": [
+      "crime.4.2",
+      "crime.4.3",
+      "crime.4.6",
+      "dis.1.7"
+     ],
+     "core_labels": [
+      "The purposes of punishment",
+      "Factors affecting a sentencing decision",
+      "Types of penalties",
+      "Types and aims of punishments"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-safework-nsw-v-axentra-projects-2026",
+     "document": "Cases/Crime/SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary (updated 7Nov26).pdf",
+     "document_url": "https://drive.google.com/file/d/1sjqCRnc6U_WZCJgJl657plfJYzp5J_mo/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary (updated 7Nov26).pdf",
+     "document11_url": "https://drive.google.com/file/d/1U5Tba6XtlWHPB7bA4hmmaydMer6MuLQ9/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A formwork subcontractor pleaded guilty under s 32 of the *Work Health and Safety Act 2011* (NSW) after a\n16-year-old trainee fell about 3.4 metres through a formwork deck on 19 May 2022. The maximum penalty\nat the time was $1,782,579.",
+     "use_it_for": "- **crime.4.2 and 4.3** — deterrence and the factors for sentencing a corporation.\n- **crime.4.6** — fines and adverse publicity orders as penalties.\n- **Compliance** — how courts respond when a business fails a statutory safety duty.",
+     "caution": "The judgment cites s 21A(2)(g) and s 21A(2)(ib) for the same finding, and the notice size and cost text\nis garbled. The amount of costs is not in the file. A child worker was injured; keep to the legal test.",
+     "sections": {
+      "Held — Strathdee DCJ": "- The risk of falls through formwork decks was \"well known, and as such, foreseeable\"; the controls were\n  relatively straightforward, and the failures were \"manifold and systemic\".\n- The fine was set at **$100,000**, reduced by **25%** for the plea to **$75,000**. No deduction for\n  capacity to pay.\n- Half the fine goes to the prosecutor, the company pays costs, and a **public notice** (s 236) is\n  published in the Sunday Sydney Morning Herald.",
+      "Use it for": "- **crime.4.2 and 4.3** — deterrence and the factors for sentencing a corporation.\n- **crime.4.6** — fines and adverse publicity orders as penalties.\n- **Compliance** — how courts respond when a business fails a statutory safety duty.",
+      "Caution": "The judgment cites s 21A(2)(g) and s 21A(2)(ib) for the same finding, and the notice size and cost text\nis garbled. The amount of costs is not in the file. A child worker was injured; keep to the legal test."
+     },
+     "path": "evidence/cases/safework-nsw-v-axentra-projects-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "ff63076",
+        "subject": "Evidence: ten 6 Nov 2026 decisions (nos 100-109) with HSC and Year 11 summaries"
+       }
+      ],
+      "latest_sha": "ff63076",
+      "added_text": "document: Cases/Crime/SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary (updated 7Nov26).pdf\ndocument11: Cases/Year 11/Year 11 - SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary (updated 7Nov26).pdf\nupdated_at: 2026-11-07 10:07",
+      "removed_lines": 3,
+      "added_lines": 3
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "humanrights",
+   "label": "Human Rights",
+   "part": "HSC Core Part II",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "priestley-v-blackfisch-films-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Priestley v Blackfisch Films Pty Ltd [2026] NSWCATAD 343 — race discrimination claims fail on contractor status",
+     "short": "Priestley v Blackfisch Films",
+     "citation": "[2026] NSWCATAD 343 (M W Anderson, Senior Member, and M Maher, General Member; 6 November 2026)",
+     "date": "2026-11-06",
+     "added": "2026-11-07",
+     "significance": "Two Gomeroi applicants claimed race discrimination against an Aboriginal-owned film company; the Tribunal found they were contractors, rejected the alleged slurs and dismissed the claims as lacking substance.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.2.11",
+      "hr.2.9"
+     ],
+     "core_labels": [
+      "The role of courts and tribunals",
+      "The role of statute law"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-priestley-v-blackfisch-films-2026",
+     "document": "Cases/Human Rights/Priestley v Blackfisch Films Pty Ltd [2026] NSWCATAD 343 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/18iARw1-lpVe3yOcS2lbXiBgd5tmoD3FG/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Priestley v Blackfisch Films Pty Ltd [2026] NSWCATAD 343 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1IDIHX7nLZagcAYazRwJD-nTDWS1r6OYM/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "**Matthew Priestley** (a director from 2018) and **Mika Tyson** worked with **Blackfisch Films**, run by Ms Rutter, who also\nhas Gomeroi ancestry. After an argument over office cleanliness (September 2024) the locks were changed, after a plan to divert\na film project was found. The Fair Work Commission found no dismissal (January 2026). The applicants alleged race\ndiscrimination in pay, remarks (including being called \"too black\") and exclusion.",
+     "use_it_for": "- **hr.2.11 / hr.2.9** — enforcing race discrimination law through NCAT, and the importance of proof and categories\n  (employee v contractor).",
+     "caution": "A **class case summary**; the slurs are alleged, not found.",
+     "sections": {
+      "Held — claims dismissed (s 102)": "- They were **contract workers** (s 10), not employees (s 8), which set the comparators.\n- The alleged slurs were **not found**; the \"too black\" remark was about activism, not race; the lock-out followed the\n  project-diversion plan.\n- Estoppel from the Fair Work findings was not decided.",
+      "Use it for": "- **hr.2.11 / hr.2.9** — enforcing race discrimination law through NCAT, and the importance of proof and categories\n  (employee v contractor).",
+      "Caution": "A **class case summary**; the slurs are alleged, not found."
+     },
+     "path": "evidence/cases/priestley-v-blackfisch-films-2026.md",
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "disputes",
+   "label": "Disputes under the law",
+   "part": "Year 11 (Preliminary) Focus area 2",
+   "course": "preliminary",
+   "items": [
+    {
+     "id": "australian-dance-arts-v-gincop-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Australian Dance Arts Pty Ltd v Gincop Nominees 3 Pty Ltd [2026] NSWSC 1379 — boom-gate data fails to prove breach",
+     "short": "Australian Dance Arts v Gincop",
+     "citation": "[2026] NSWSC 1379 (Pike J, Equity Division, Real Property List; 6 November 2026)",
+     "date": "2026-11-06",
+     "added": "2026-11-07",
+     "significance": "A landlord ended a dance academy's car parking licence on boom-gate records; the court held the landlord had to prove breach on the balance of probabilities, and its unreliable data did not.",
+     "topic": "disputes",
+     "also_topics": [],
+     "core": [
+      "dis.2.4",
+      "dis.2.3"
+     ],
+     "core_labels": [
+      "The burden and standard of proof in civil law",
+      "Types of civil law — torts and contracts"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-australian-dance-arts-v-gincop-2026",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Australian Dance Arts Pty Ltd v Gincop Nominees 3 Pty Ltd [2026] NSWSC 1379 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1QnzHA3BwiJE7URoMJkumgB06oCSOvFAj/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A dance academy in St Leonards leased premises in 2022 with a licence for **17 car spaces**. The new landlord terminated the\nlicence in September 2025, saying customers used more than the academy's seven rooftop spaces, relying on **boom-gate access\nrecords** from the parking operator. The academy sought a declaration that the termination was void.",
+     "use_it_for": "- **Year 11 (Disputes under the law — civil)** — contracts, the burden and standard of proof, and remedies (declarations).\n  Not an HSC topic.",
+     "caution": "A **class case summary**; final orders were pending.",
+     "sections": {
+      "Held — breach not proved": "- The **landlord bore the onus** of proving breach, even though the tenant brought the case.\n- The ordinary **balance of probabilities** applied (*Evidence Act* s 140; *Briginshaw* did not raise it here).\n- The access records — with known reader faults — were **unreliable** and not proof of where cars parked. The licence remains;\n  the academy gets its costs.",
+      "Use it for": "- **Year 11 (Disputes under the law — civil)** — contracts, the burden and standard of proof, and remedies (declarations).\n  Not an HSC topic.",
+      "Caution": "A **class case summary**; final orders were pending."
+     },
+     "path": "evidence/cases/australian-dance-arts-v-gincop-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "grayson-v-lynch-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Grayson Family Ltd Partnership LLLP v Lynch [2026] FCA 1667 — no standing to sue for the company",
+     "short": "Grayson v Lynch",
+     "citation": "[2026] FCA 1667 (Jackman J, 6 November 2026)",
+     "date": "2026-11-06",
+     "added": "2026-11-07",
+     "significance": "Two shareholders sought leave to sue on behalf of a mining company over a 2020 share placement; they were not members, a late affidavit was refused as unfair, and the application was dismissed.",
+     "topic": "disputes",
+     "also_topics": [],
+     "core": [
+      "dis.2.4",
+      "dis.2.5"
+     ],
+     "core_labels": [
+      "The burden and standard of proof in civil law",
+      "Procedures in NSW tribunals and civil courts, including alternative dispute resolution"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-grayson-v-lynch-2026",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Grayson Family Ltd Partnership LLLP v Lynch [2026] FCA 1667 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1nU55gk-GFyfG44_OFjmcx4_zOjliSUBG/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "In June 2020 **Citigold**, a mining company, placed 150 million shares at $0.005; the price later rose to $0.012. In 2026 a\nfamily partnership and a trustee sought **leave under s 237** of the *Corporations Act* to sue directors and others **on behalf\nof the company**.",
+     "use_it_for": "- **Year 11 (Disputes under the law — civil)** — standing, procedural fairness in evidence, and the burden of proof in civil\n  proceedings. Not an HSC topic.",
+     "caution": "A **class case summary**; insider trading was never proved and costs are still to be decided.",
+     "sections": {
+      "Held — application dismissed": "- They were **not members**, or persons entitled to be registered, so had **no standing** (s 236(1)(a)).\n- An affidavit prepared over lunch on the hearing day was **refused** as unfairly prejudicial to the respondents.\n- In any case there was **no serious question to be tried** (s 237(2)(d)). Costs are reserved.",
+      "Use it for": "- **Year 11 (Disputes under the law — civil)** — standing, procedural fairness in evidence, and the burden of proof in civil\n  proceedings. Not an HSC topic.",
+      "Caution": "A **class case summary**; insider trading was never proved and costs are still to be decided."
+     },
+     "path": "evidence/cases/grayson-v-lynch-2026.md",
+     "in_site_build": true
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "2 commit(s) on this Mac have not been pushed (as of the last fetch): card links will not work for those cards until Push origin."
+ ]
+}
