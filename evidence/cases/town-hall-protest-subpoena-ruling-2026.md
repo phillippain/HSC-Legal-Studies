@@ -2,7 +2,7 @@
 type: case
 title: Town Hall protest prosecutions — defence subpoena for police documents upheld (Local Court of NSW, 2026)
 short: Town Hall protest subpoena ruling
-citation: Pre-trial ruling, Local Court of NSW (Judge Scott Nash), 19 October 2026, unreported; ABC News, 20 October 2026; HSC Legal Studies evidence summaries of 21 and 22 October 2026
+citation: Pre-trial ruling, Local Court of NSW (Judge Scott Nash), 19 October 2026, unreported; ABC News, 20 October 2026; HSC Legal Studies evidence summaries of 21 and 22 October and 12 November 2026; ABC News, 11 November 2026
 date: 2026-10-19
 jurisdiction: Local Court of NSW; NSW Police Commissioner as third-party subpoena recipient
 significance: An accused can subpoena police documents to test whether an arrest was lawful — and because assaulting police needs an officer in the execution of duty, unlawful policing is a defence, not a grievance.
@@ -14,7 +14,7 @@ document: Crime/Criminal Trial Process/Town Hall protest CCTV subpoena ruling (E
 source: https://www.abc.net.au/news/2026-10-20/nsw-new-cctv-of-police-town-hall-sydney-protest/107285036
 related: lecc-operation-makalu-2026, lees-and-jarrett-protest-powers, lepra-2002, use-of-evidence-and-witnesses, the-adversary-system-and-court-jurisdiction, crimes-act-1900-key-offences
 added: 2026-10-21
-updated_at: 2026-10-24 21:54
+updated_at: 2026-11-12 07:51
 ---
 
 **Sixteen protesters**, led by Adam Adelpour, face trial over the **9 February 2026** Town Hall rally
@@ -54,6 +54,15 @@ the arrests or force were unlawful — the defence's characterisation of the foo
 dispute — the charges may fail at the element, not merely in mitigation. The defence also notes one
 officer's statement says the men began praying *after* being told to disperse; CCTV, it says, shows
 them already praying.
+
+## Update: Premier and police chiefs subpoenaed (ABC, 11 November 2026)
+
+Alexander Lewis reports that **seven** people — three ministers (including Premier Chris Minns and Police Minister Yasmin Catley), two
+senior police and two chiefs of staff — have been subpoenaed over the 9 February 2026 rally against Israeli President Isaac Herzog's
+visit. Police withdrew **10 of about 30** prosecutions after the Court of Appeal held the PARD scheme (*Terrorism and Other Legislation
+Amendment Act 2025*) invalid in April 2026. Evidence is due on 8 March 2027, five days before the state election; a joint trial of 16+
+protesters starts from July 2027. The case shows ICCPR rights (arts 19, 21) tested in NSW without a human rights act — through criminal
+defences, constitutional challenges and the LECC. [Class evidence summary](https://drive.google.com/file/d/1xbjfBdLL1CV90qTn7SNvKmSUJfmpMOG1/view).
 
 ## Use it for
 

@@ -15,7 +15,7 @@ document11: Cases/Year 11/Year 11 - Black v R; Trautsch v R [2026] NSWCCA 185 - 
 related: crimes-sentencing-procedure-act-1999, r-v-binge-2026, markarian-v-the-queen-2005, police-and-law-enforcement-agencies
 added: 2026-11-10
 added_at: 2026-11-10 08:36
-updated_at: 2026-11-11 08:07
+updated_at: 2026-11-12 07:51
 ---
 
 On 22 January 2023 two on-duty NSW police officers attended a woman in distress; they assaulted her and used OC spray, and
@@ -38,6 +38,9 @@ Amy Greenbank's ABC report names the officers as **Nathan Black** and **Timothy 
 notes the assault lasted about **18 minutes** on body-worn video and CCTV; Black's non-parole period now ends 7 September 2027. It
 includes the family's reaction, but calls the head sentence a "maximum sentence".
 [Class evidence summary of the ABC report](https://drive.google.com/file/d/1zjKuf3xGv43lnUeVokGn1ss7iI1GaDfA/view).
+
+A [second class summary of the ABC report](https://drive.google.com/file/d/1sCuEEIkBlyg4ZnHMzfGLE6ztkHAtNurg/view) names the woman as **Jodi Knott** and notes Black's
+original non-parole period was 3 years 3 months (parole eligible November 2028).
 
 ## Use it for
 

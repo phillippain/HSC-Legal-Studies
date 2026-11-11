@@ -482,7 +482,6 @@ Cases/Year 11/Year 11 - Secretary DCCEEW v Dalton [2026] NSWLEC 138 - Case Summa
 Cases/Year 11/Year 11 - SafeWork NSW v Axentra Projects [2026] NSWDC 398 - Case Summary.pdf | dis.1.7
 Cases/Year 11/Year 11 - State of NSW v Wheatley (Variation) [2026] NSWSC 1364 - Case Summary.pdf | dis.1.7
 Cases/Year 11/Year 11 - Boleno & Newcombe [2026] FedCFamC1A 191 - Case Summary.pdf | exp.1.1, inv.4.1
-Cases/Year 11/Year 11 - Rangel & Bird (No 2) [2026] FedCFamC1A 193 - Case Summary.pdf | inv.1.6
 Cases/Year 11/Year 11 - Tutoveanu v State of NSW [2026] FCA 1624 - Case Summary.pdf | dis.3.4
 Cases/Year 11/Year 11 - Lee and Minister for Immigration and Citizenship [2026] ARTA 2513 - Case Summary.pdf | dis.3.4
 Cases/Year 11/Year 11 - Kathy (a pseudonym) (No 2) [2026] NSWCATGD 21 - Case Summary.pdf | dis.2.5, inv.1.6
@@ -615,3 +614,35 @@ Shelter/Evidence Sheets/Shelter - Northern Rivers Temporary Housing Villages Evi
 Shelter/Evidence Sheets/Shelter - REINSW Blames NSW Rental Reforms Evidence Summary.pdf | shel.2.2, shel.3.1, shel.2.3
 Shelter/Evidence Sheets/Shelter - Supportive Housing to End Rough Sleeping Evidence Summary.pdf | shel.3.3, shel.3.4, shel.1.2, shel.2.9
 Shelter/Evidence Sheets/Shelter - Victorian Underquoting Laws and Price Guides Evidence Summary.pdf | shel.2.1, shel.2.8
+Cases/Family/Rangel & Bird (No 2) [2026] FedCFamC1A 193 - Case Summary.pdf | fam.2.2, fam.2.5, fam.3.2
+Cases/Year 11/Year 11 - Rangel & Bird (No 2) [2026] FedCFamC1A 193 - Case Summary.pdf | dis.2.5, dis.2.8
+Cases/Crime/Staunton v Zahab (No 3) [2026] FCA 1639 - Case Summary.pdf | crime.4.8, crime.6.1, crime.6.2
+Cases/Year 11/Year 11 - Staunton v Zahab (No 3) [2026] FCA 1639 - Case Summary.pdf | dis.1.7, dis.1.8, dis.3.4
+Cases/Crime/Estate of Croft v MTH [2026] HCA 44 - Case Summary.pdf | crime.3.6, crime.3.7, crime.4.4
+Cases/Year 11/Year 11 - Estate of Croft v MTH [2026] HCA 44 - Case Summary.pdf | dis.2.4, dis.2.1, dis.2.7
+Cases/Crime/R v CL [2026] NSWSC 101 - Case Summary.pdf | crime.5.4, crime.4.3, crime.1.7
+Cases/Year 11/Year 11 - R v CL [2026] NSWSC 101 - Case Summary.pdf | exp.2.3, exp.1.3, exp.3.1
+Cases/Crime/Tran v R [2026] NSWCCA 187 - Case Summary.pdf | crime.2.5, crime.4.5, crime.6.1
+Cases/Year 11/Year 11 - Tran v R [2026] NSWCCA 187 - Case Summary.pdf | dis.1.5, dis.1.4
+Cases/Family/Flores & Flores [2026] FedCFamC1A 196 - Case Summary.pdf | fam.2.3, fam.2.5
+Cases/Family/Bymore and Mistral (Child support) [2026] ARTA 2700 - Case Summary.pdf | fam.2.2, fam.2.5, fam.1.5
+Cases/Year 11/Year 11 - Bymore and Mistral (Child support) [2026] ARTA 2700 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Family/Callan and Lancaster (Child support) [2026] ARTA 2698 - Case Summary.pdf | fam.1.5, fam.2.5, fam.2.2
+Cases/Year 11/Year 11 - Callan and Lancaster (Child support) [2026] ARTA 2698 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Human Rights/2208670 (Refugee) [2026] ARTA 2691 - Case Summary.pdf | hr.3.1, hr.2.9, hr.2.11
+Cases/Year 11/Year 11 - 2208670 (Refugee) [2026] ARTA 2691 - Case Summary.pdf | exp.4.1, exp.5.1, exp.5.3
+Cases/Human Rights/2219294 (Refugee) [2026] ARTA 2687 - Case Summary.pdf | hr.3.1, hr.2.9, hr.2.11
+Cases/Year 11/Year 11 - 2219294 (Refugee) [2026] ARTA 2687 - Case Summary.pdf | exp.5.3, exp.5.1, exp.6.2
+Cases/Human Rights/Bechelli v CBA; Giordano v CBA [2026] NSWCATAD 347 - Case Summary.pdf | hr.2.9, hr.2.11, hr.3.1
+Cases/Year 11/Year 11 - Bechelli v CBA; Giordano v CBA [2026] NSWCATAD 347 - Case Summary.pdf | dis.2.5, dis.2.8
+Cases/Year 11/Year 11 - Hatewar v Minister for Immigration and Citizenship [2026] HCA 45 - Case Summary.pdf | dis.3.1, dis.3.4, dis.3.2
+Cases/Year 11/Year 11 - Abideen v Minister for Immigration and Citizenship [2026] FCA 1708 - Case Summary.pdf | dis.3.4, dis.3.1, inv.1.6
+Cases/Year 11/Year 11 - Chowdhury v Minister for Immigration and Citizenship [2026] FCA 1687 - Case Summary.pdf | dis.3.1, dis.3.4, inv.3.4
+Cases/Year 11/Year 11 - Ace v Boulas [2026] NSWSC 1436 - Case Summary.pdf | dis.2.8, dis.2.4, dis.2.5, inv.4.3
+Crime/Media/Crime - ACT Historical Child Abuse Crown Appeal Resentence Evidence Summary.pdf | crime.4.5, crime.4.3, crime.4.4
+Crime/Media/Crime - Wilcannia Inquest Police Investigation Evidence Summary.pdf | crime.2.3, crime.3.1, crime.2.1
+Crime/Media/Crime - Frontier AI Regulator and Criminal Law - Failure to Prevent Offence Evidence Summary.pdf | crime.1.7, crime.6.2
+Crime/Media/Crime - Black v R; Trautsch v R [2026] NSWCCA 185 Jodi Knott Appeal Evidence Summary.pdf | crime.4.5
+Family/Evidence Summaries/Family - Victoria Clare's Law Pledge - Both Sides Evidence Summary.pdf | fam.2.4
+Crime/Media/Crime - NSW Prison Inquests Mental Health - Safe Cells Psychiatrists Evidence Summary.pdf | crime.4.8, hr.2.13
+Crime/Criminal Trial Process/Town Hall protest subpoena ruling - Premier and Police Subpoenaed (Evidence summary 12Nov26).pdf | crime.3.7, hr.2.10

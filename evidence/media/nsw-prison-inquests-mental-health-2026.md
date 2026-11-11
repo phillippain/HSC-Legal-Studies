@@ -2,19 +2,19 @@
 type: media
 title: Dozens of inquests reveal mental health care failures in NSW prisons — and a psychiatrist says Corrections should not run it (ABC, 31 October and 8 November 2026)
 short: NSW prison inquests mental health
-citation: Evidence summaries of Kirstie Wellauer, Joanna McCarthy, Josh Nicholas and Katia Shatoba, ABC News, 31 October 2026, and Kirstie Wellauer and Joanna McCarthy, ABC News, 8 November 2026 — an ABC review of NSW coronial findings, January 2015 to September 2026; Coroners Act 2009 (NSW) ss 22, 23, 78, 81, 82; Premier's Memorandum M2009-12; Crimes (Administration of Sentences) Act 1999 (NSW) s 24; Mental Health and Cognitive Impairment Forensic Provisions Act 2020 (NSW) s 86; UN Mandela Rules rr 24, 27
+citation: Evidence summaries of Kirstie Wellauer, Joanna McCarthy, Josh Nicholas and Katia Shatoba, ABC News, 31 October 2026, and Kirstie Wellauer and Joanna McCarthy, ABC News, 8 and 10 November 2026 — an ABC review of NSW coronial findings, January 2015 to September 2026; Coroners Act 2009 (NSW) ss 22, 23, 78, 81, 82; Premier's Memorandum M2009-12; Crimes (Administration of Sentences) Act 1999 (NSW) s 24; Mental Health and Cognitive Impairment Forensic Provisions Act 2020 (NSW) s 86; UN Mandela Rules rr 24, 27
 date: 2026-11-08
 jurisdiction: NSW — Coroners Court; Corrective Services NSW; Justice Health and Forensic Mental Health Network
 significance: The ABC found mental health care failures in 48 of 249 NSW prison inquests — and Corrections did not fully support recommendations in 10 of 32, because coroners can recommend but not compel.
 core: crime.4.8, crime.3.1
-support: crime.4.6, crime.3.3, crime.4.2, inv.4.2, crime.1.8, hr.2.4, hr.3.1, dis.3.4, dis.3.7, exp.4.3, exp.6.2
+support: crime.4.6, crime.3.3, hr.2.13, hr.2.12, crime.4.2, inv.4.2, crime.1.8, hr.2.4, hr.3.1, dis.3.4, dis.3.7, exp.4.3, exp.6.2
 themes: crime.t.effectiveness, crime.t.balance, crime.t.moral
 criteria: rights, enforceability, responsiveness, justice
 document: Crime/Media/Crime - NSW Prisons Mental Health Care Evidence Summary.pdf
 source: https://www.abc.net.au/news/2026-11-08/nsw-prisons-failing-inmates-on-mental-health-says-psychiatrist/107302582
 related: deaths-in-custody-since-1991, rciadic-1991, kariong-period-products-inspection-2026, inquest-db-2025, balzan-inquest-2025
 added: 2026-11-02
-updated_at: 2026-11-09 08:01
+updated_at: 2026-11-12 07:51
 ---
 
 The ABC reviewed **249** coronial inquests into NSW prison deaths since 2015. **48** found failures in mental health
@@ -52,6 +52,14 @@ as a health intervention. The Minister declined an interview.
   coroner called it a gross systemic failure and found a s 24 transfer was available but unused.
 - The **Mandela Rules** make prison health care a State responsibility and leave clinical decisions to health professionals.
 - In 2022 the government supported 15 of 35 coronial system inquiry recommendations and noted the rest.
+
+## Psychiatrists back reform (ABC, 10 November 2026)
+
+The NSW branch of the **RANZCP** (chair Dr Ian Korbel) backs a health-led overhaul: isolating suicidal prisoners in monitored "safe
+cells" is a security response, not health care. **Tammy Shipley** spent 10 nights alone in a safe cell (another ABC report says nine
+days). NSW Health's frontline mental health staffing shortfall is estimated at **$550–600m** a year. Relevant standards: ICCPR art 10
+(humane treatment), Mandela Rules 43–46 (solitary confinement) and OPCAT. No reform has yet been adopted — a live test of media
+pressure (hr.2.13). [Class evidence summary](https://drive.google.com/file/d/1lfJeplGSlIOlF0JjOSCpelb-dD_r65y4/view).
 
 ## Use it for
 

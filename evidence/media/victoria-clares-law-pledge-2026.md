@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-10/victorian-government-clares-law-2
 related: crimes-domestic-personal-violence-act-2007, coercive-control-nsw-full-explainer-2026, vic-youth-rehabilitation-detention-pledge-2026, act-police-fv-sms-trial-2026
 added: 2026-11-11
 added_at: 2026-11-11 08:07
-updated_at: 2026-11-11 08:07
+updated_at: 2026-11-12 07:51
 ---
 
 Premier Ben Carroll and Attorney-General Sonya Kilkenny pledged a scheme letting people ask police about a partner's history of
@@ -34,6 +34,12 @@ violence, modelled on **South Australia's**. The Opposition pledged a scheme in 
 
 SA received **2,581** applications and held **1,064** disclosure meetings from 2018 to 2024; it runs under information-sharing
 guidelines, not an Act.
+
+## Both sides pledge (second summary)
+
+A [second class summary of the ABC report](https://drive.google.com/file/d/1YXIyfb_MSUhlxz3hNocBSRGalmr0OGze/view) notes the Victorian pledge does not yet say what
+would be disclosed or how, against SA's verbal disclosure with a specialist worker and a confidentiality undertaking. Funding figures
+are election commitments, not appropriations, and SA application counts vary by source (about 2,500 to more than 4,000).
 
 ## Use it for
 
