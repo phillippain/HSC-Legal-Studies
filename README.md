@@ -302,6 +302,25 @@ and a printable term list, in the same look as the other Crime tools.
 - **Links out:** every meaning links to past HSC questions on its syllabus point
   (`index.html#tags=…`), the Topic Map, and the matching Crime tool.
 
+## The "All tools" menu — `build/build_sitemenu.py`
+
+Every sub-site carries the same gold **All tools** button. It opens a list of the eight
+sub-sites (Question Finder, Evidence Finder, the four Crime tools, the Crime Glossary and the
+Topic Map), marks the page you are on, and ends with a link back to the main HSC Legal
+Studies website.
+
+The list lives in one place, `SITES` in `build/build_sitemenu.py`. To add, rename or reorder
+a sub-site, edit it there and run:
+
+```
+python3 build/build_sitemenu.py           # write the menu into every page and template
+python3 build/build_sitemenu.py --check   # change nothing; fail if a page is out of date
+```
+
+The menu sits between `SITEMENU:START` and `SITEMENU:END` markers in the four templates and
+in all eight built pages, so rebuilding a finder, the map or the glossary keeps it. A new
+sub-site also needs an entry in `PAGES` and, the first time, a place for the button.
+
 ## Publishing — GitHub Pages for the page, Google Drive for the documents
 
 Google Drive stopped serving HTML as web pages in 2016, so the page itself is published on
