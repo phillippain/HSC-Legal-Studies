@@ -17,6 +17,7 @@
   --in: #b3254f; --in-t: #fbe7ee;
   --ta: #7d5f00; --ta-t: #fff3c9; --ta-b: #d9ad16;
   --ok: #17693a; --ok-t: #def3e5; --bad: #a3212b; --bad-t: #fde6e7;
+  --dt: #c2410c; --dt-t: #ffedd5;
   --gold: #ffd24a; --shadow: 0 1px 2px rgba(27,37,89,.08), 0 6px 18px rgba(27,37,89,.07);
   --display: "Poppins", "Segoe UI", system-ui, sans-serif; --body: "Inter", "Segoe UI", system-ui, sans-serif;
 }
@@ -25,14 +26,14 @@
   --navy: #0c0e1a; --on: #0f1120;
   --st: #9b9cf7; --st-t: #24264a; --su: #45c3cd; --su-t: #12343a; --in: #f27ea1; --in-t: #40192a;
   --ta: #e6bd45; --ta-t: #3a3010; --ta-b: #8f7419;
-  --ok: #6fd596; --ok-t: #143522; --bad: #ff8f97; --bad-t: #40191d;
+  --ok: #6fd596; --ok-t: #143522; --bad: #ff8f97; --bad-t: #40191d; --dt: #fb923c; --dt-t: #43200c;
   --shadow: 0 1px 2px rgba(0,0,0,.4), 0 6px 18px rgba(0,0,0,.3); color-scheme: dark; } }
 :root[data-theme="dark"] {
   --bg: #11131d; --surface: #1a1d2c; --surface2: #23273a; --ink: #eceefa; --ink2: #aab0c8; --line: #313654;
   --navy: #0c0e1a; --on: #0f1120;
   --st: #9b9cf7; --st-t: #24264a; --su: #45c3cd; --su-t: #12343a; --in: #f27ea1; --in-t: #40192a;
   --ta: #e6bd45; --ta-t: #3a3010; --ta-b: #8f7419;
-  --ok: #6fd596; --ok-t: #143522; --bad: #ff8f97; --bad-t: #40191d;
+  --ok: #6fd596; --ok-t: #143522; --bad: #ff8f97; --bad-t: #40191d; --dt: #fb923c; --dt-t: #43200c;
   --shadow: 0 1px 2px rgba(0,0,0,.4), 0 6px 18px rgba(0,0,0,.3); color-scheme: dark; }
 
 * { box-sizing: border-box; margin: 0; }
@@ -65,6 +66,12 @@ svg.ic { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width
 .seg button[aria-pressed="true"] { background: var(--st); color: var(--on); }
 .hint { color: var(--ink2); font-size: 13.5px; }
 .cases { width: 100%; display: flex; flex-direction: column; gap: 6px; } .cases h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .5px; color: var(--ink2); margin-top: 2px; }
+.pick { display: grid; grid-template-columns: repeat(2, minmax(0, 320px)); gap: 10px; width: 100%; }
+.pk { border: 2px solid var(--line); border-radius: 12px; padding: 10px 14px; background: var(--surface); display: flex; gap: 12px; align-items: center; }
+.pk svg { font-size: 26px; color: var(--st); } .pk b { font-family: var(--display); font-size: 15px; display: block; } .pk em { font-style: normal; font-size: 12.5px; color: var(--ink2); }
+.pk:hover { border-color: var(--st); } .pk[aria-pressed="true"] { border-color: var(--st); background: var(--st-t); box-shadow: inset 4px 0 0 var(--st); }
+.pick.small .pk { padding: 5px 12px; } .pick.small .pk em { display: none; } .pick.small .pk svg { font-size: 18px; }
+.c-dt { --c: var(--dt); --ct: var(--dt-t); }
 .cgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 8px; }
 .case { border: 1.5px solid var(--line); border-radius: 10px; padding: 8px 11px; background: var(--surface); display: flex; flex-direction: column; gap: 1px; }
 .case:hover { border-color: var(--st); }
@@ -94,6 +101,7 @@ svg.ic { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width
 
 /* nodes */
 .node { --c: var(--st); --t: var(--st-t); width: 100%; background: var(--surface); border: 2px solid var(--c); border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; box-shadow: var(--shadow); transition: transform .12s, opacity .2s, box-shadow .12s; }
+.node.dt { --c: var(--dt); --t: var(--dt-t); border-style: dashed; } .ph.dt { --c: var(--dt); }
 .node.su { --c: var(--su); --t: var(--su-t); } .node.in { --c: var(--in); --t: var(--in-t); } .node.ta { --c: var(--ta-b); --t: var(--ta-t); } .node.en { --c: var(--navy); --t: var(--surface2); }
 :root[data-theme="dark"] .node.en { --c: #5b63a8; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .node.en { --c: #5b63a8; } }
@@ -117,6 +125,8 @@ svg.ic { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width
 .stem { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 26px; }
 .stem .node { position: relative; overflow: visible; }
 .stem .node .nh { border-radius: 9px 9px 0 0; }
+.stem .node .nt { flex: 1 1 calc(100% - 70px); min-width: 0; font-size: 14.5px; overflow-wrap: anywhere; hyphens: auto; }
+.stem .node .tag { margin-left: 30px; white-space: normal; }
 .stem .node:not(:last-child)::after { content: ""; position: absolute; right: -22px; top: 50%; width: 16px; height: 16px; margin-top: -8px; background: var(--st); clip-path: polygon(0 35%, 55% 35%, 55% 0, 100% 50%, 55% 100%, 55% 65%, 0 65%); }
 @media (max-width: 760px) { .stem { grid-template-columns: 1fr 1fr; } .stem .node::after { display: none; } }
 .ask { align-self: center; margin: 12px 0; display: flex; flex-direction: column; align-items: center; gap: 2px; color: var(--st); }
@@ -191,8 +201,8 @@ svg.ic { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width
 #tip.on { opacity: 1; } #tip b { display: block; font-family: var(--display); color: var(--gold); font-size: 13px; margin-bottom: 2px; }
 
 /* build */
-.build { display: grid; grid-template-columns: minmax(0, 1fr) 440px; gap: 18px; align-items: start; }
-@media (max-width: 1080px) { .build { grid-template-columns: 1fr; } .bside { order: -1; } }
+.build { display: grid; grid-template-columns: 440px minmax(0, 1fr); gap: 18px; align-items: start; }
+@media (max-width: 1080px) { .build { grid-template-columns: 1fr; } }
 .bintro { margin-bottom: 14px; } .bintro h2 { font-size: 22px; font-weight: 800; } .bintro p { color: var(--ink2); max-width: 65ch; }
 .bflow { display: flex; flex-direction: column; align-items: stretch; max-width: 720px; }
 .bbox { --c: var(--st); --t: var(--st-t); display: grid; grid-template-columns: auto 1fr auto; gap: 4px 12px; align-items: center; background: var(--surface); border: 2px solid var(--c); border-left-width: 10px; border-radius: 12px; padding: 9px 14px; box-shadow: var(--shadow); }
@@ -305,7 +315,11 @@ td.su { background: var(--su-t); } td.ta { background: var(--ta-t); } td.in { ba
       <span class="hint" id="modehint">Click any stage to see what happens, the law, who is involved and how well it works.</span>
     </div>
     <div class="mrow" id="caserow" hidden>
-      <div class="cases" id="cases"></div>
+      <div class="pick" id="pick" role="group" aria-label="Type of case">
+        <button class="pk" data-group="real" aria-pressed="false"><svg class="ic"><use href="#i-scales"/></svg><span><b>Real cases</b><em id="pk-real"></em></span></button>
+        <button class="pk" data-group="inv" aria-pressed="false"><svg class="ic"><use href="#i-bulb"/></svg><span><b>Invented examples</b><em>Four simple cases, or build your own</em></span></button>
+      </div>
+      <div class="cases" id="cases" hidden></div>
       <div class="custom" id="custom" hidden>
         <label>Offence type<select id="o-type"><option value="sum">Summary</option><option value="t1">Table 1</option><option value="t2">Table 2</option><option value="ind">Strictly indictable</option></select></label>
         <label>Election<select id="o-elect"><option value="no">No election</option><option value="yes">Election made</option></select></label>
@@ -313,7 +327,7 @@ td.su { background: var(--su-t); } td.ta { background: var(--ta-t); } td.in { ba
         <label>Verdict<select id="o-verdict"><option value="g">Guilty</option><option value="ng">Not guilty</option><option value="hung">Hung jury</option></select></label>
         <label>Appeal<select id="o-appeal"><option value="none">No appeal</option><option value="conv">Conviction appeal</option><option value="sev">Severity appeal</option></select></label>
       </div>
-      <div class="stepper">
+      <div class="stepper" id="stepper" hidden>
         <button class="btn ghost" id="s-prev"><svg class="ic"><use href="#i-prev"/></svg>Back</button>
         <button class="btn" id="s-next">Next step<svg class="ic"><use href="#i-next"/></svg></button>
         <span class="where" id="s-where"></span>
@@ -333,11 +347,11 @@ td.su { background: var(--su-t); } td.ta { background: var(--ta-t); } td.in { ba
 
 <section class="view" id="v-build">
   <div class="build">
+    <aside class="bside" id="bside" aria-live="polite"></aside>
     <div>
       <div class="bintro"><h2>Build a pathway, one decision at a time</h2><p>Every criminal case is shaped by decisions made by different people. Take each role in turn. The flow chart grows with every choice you make.</p></div>
       <div class="bflow" id="bflow"></div>
     </div>
-    <aside class="bside" id="bside" aria-live="polite"></aside>
   </div>
 </section>
 
@@ -648,6 +662,96 @@ const REAL = [
        sent:'On 28 March 2025 Harrison CJ at CL imposed a two-year community correction order with 425 hours of community service. The maximum penalty for manslaughter is 25 years. The Crown had asked for full-time custody, and at least ten relatives read victim impact statements.',
        app:'The DPP appealed, arguing the sentence was manifestly inadequate. On 30 July 2025 the Court of Criminal Appeal dismissed the appeal.' } },
 ];
+
+REAL.push(
+ { id:'folbigg', real:1, cls:'c-dt', kind:'Wrongful conviction · inquiry · pardon', name:'Kathleen Folbigg', cite:'Folbigg v R [2005] NSWCCA 23 and the 2023 Inquiry', line:'Convicted in 2003, cleared 20 years later by an inquiry, not an appeal',
+   path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8','sent','app','x-fol1','x-fol2'], lane:'in', sub:'cca', skip:'', end:'' },
+   x:[{ id:'x-fol1', after:'app', icon:'bulb', title:'Judicial inquiry and pardon', blurb:'When appeals are exhausted, an inquiry can re-examine a conviction.', lead:'Appeals look only at the evidence from the trial. An inquiry under Part 7 of the Crimes (Appeal and Review) Act 2001 (NSW) can consider new evidence, such as new science.' },
+      { id:'x-fol2', after:'app', icon:'check', title:'Convictions quashed', blurb:'The Court of Criminal Appeal sets the convictions aside.', lead:'After an inquiry finds reasonable doubt, the matter can be referred to the Court of Criminal Appeal, which can quash the convictions.' }],
+   out:'All convictions quashed on 14 December 2023, after about 20 years in prison. The correction came through a second inquiry and new genetic evidence, not the ordinary appeal process.',
+   t:{ n1:'Four of Kathleen Folbigg’s children died between 1989 and 1999.', n2:'Folbigg was arrested in April 2001 and charged over the deaths.',
+       i7:'She was tried before a jury in 2003. The case was circumstantial and relied on expert evidence limited by the science of the time.',
+       i8:'The jury convicted her of the manslaughter of one child, causing grievous bodily harm to another, and the murders of three.',
+       sent:'She was sentenced to 40 years’ imprisonment with a non-parole period of 30 years.',
+       app:'In 2005 the Court of Criminal Appeal reduced the sentence to 30 years with a non-parole period of 25. A further appeal about juror misconduct failed in 2007. Her ordinary appeals were then exhausted.',
+       'x-fol1':'A first inquiry in 2019 found no reasonable doubt. In 2021 scientists petitioned for her release. A second inquiry, led by Tom Bathurst KC, found reasonable doubt, based on a genetic variant (CALM2) and a different reading of her diaries. She was pardoned and released on 5 June 2023.',
+       'x-fol2':'On 14 December 2023 the Court of Criminal Appeal quashed all of her convictions. In August 2025 she received a $2 million ex gratia payment, which was criticised as inadequate. NSW has no statutory right to compensation for wrongful conviction.' } },
+ { id:'skaf', real:1, cls:'c-dt', kind:'Juror misconduct · retrial · six appeals', name:'R v Skaf', cite:'R v Skaf [2004] NSWCCA 37', line:'Two jurors investigated the scene themselves, so the trial had to be run again',
+   path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8','sent','app','x-skaf1','x-skaf2'], lane:'in', sub:'cca', skip:'', end:'' },
+   x:[{ id:'x-skaf1', after:'app', icon:'jury', title:'Retrial', blurb:'A new trial before a different judge and jury.', lead:'When a conviction is quashed because the trial was unfair, the appeal court can order a new trial instead of an acquittal.' },
+      { id:'x-skaf2', after:'app', icon:'up', title:'Second round of appeals', blurb:'The retrial result can itself be appealed.', lead:'A conviction and sentence from a retrial carry the same appeal rights as the first trial.' }],
+   out:'Convictions from one trial were quashed for juror misconduct and re-proved at a retrial. After six appeals in eight years the final sentences were 31 years and 23 years. The case led to a new offence for jurors who make their own inquiries.',
+   t:{ n1:'The case concerned a series of serious sexual offences against teenage girls in Sydney in August 2000. This page keeps to the procedure.',
+       i7:'Three District Court trials were held in 2001 and 2002. In one, identification was the central issue, including how well a person could be recognised in a park at night.',
+       i8:'The juries returned guilty verdicts.',
+       sent:'Bilal Skaf received an aggregate sentence of 55 years with a non-parole period of 40 years, at the time the longest non-life sentence imposed in Australia. Mohammed Skaf received 32 years.',
+       app:'In 2004 the Court of Criminal Appeal quashed the convictions from one trial. The jury foreman and another juror had gone to the park the night before the verdict to test the lighting themselves. Their observations were not evidence and could not be tested by the accused. A retrial was ordered. In 2005 the remaining sentences were also reduced as manifestly excessive.',
+       'x-skaf1':'The retrial was held in the Supreme Court in 2006. The law had been changed so the complainant’s earlier evidence could be used, because she declined to testify again. The verdicts were guilty and the brothers were resentenced.',
+       'x-skaf2':'In 2008 a further conviction appeal was refused, but the sentence appeal was allowed because totality had not been given enough weight. Final sentences: 31 years (non-parole 28) and 23 years (non-parole 18). Parliament made it an offence for jurors to make their own inquiries (Jury Act 1977 (NSW) s 68C).' } },
+ { id:'loveridge', real:1, cls:'c-in', kind:'Crown appeal · sentence almost doubled', name:'R v Loveridge', cite:'R v Loveridge [2014] NSWCCA 120', line:'The death of Thomas Kelly and a successful prosecution appeal',
+   path:{ p:['n1','n2','n3','n4','tind','i5','sent','app'], lane:'in', sub:'cca', skip:'', end:'' },
+   out:'Sentenced for manslaughter to 6 years (7 years 2 months in total). On a Crown appeal the Court of Criminal Appeal increased the total to 13 years 8 months with a non-parole period of 10 years 2 months.',
+   t:{ n1:'On the night of 7 July 2012 Kieran Loveridge, 18, drunk and a month into a probation order for an earlier assault, punched five strangers in Kings Cross. One of them, Thomas Kelly, 18, fell, struck his head and died two days later.',
+       tind:'Manslaughter is strictly indictable. Loveridge was sentenced in the Supreme Court.',
+       sent:'Campbell J sentenced Loveridge to 6 years for manslaughter and 7 years 2 months in total, with a non-parole period of 5 years 2 months. The sentence caused public anger.',
+       app:'The DPP appealed, arguing the sentence was manifestly inadequate. On 4 July 2014 the Court of Criminal Appeal allowed the appeal: general deterrence had been given only passing weight, and alcohol-fuelled violence in public called for an emphatic response. Loveridge was resentenced to 13 years 8 months with a non-parole period of 10 years 2 months. The one-punch offence and lockout laws came after this judgment.' } },
+ { id:'oconnell', real:1, cls:'c-dt', kind:'ACT case · all the way to the High Court', name:'O’Connell v DPP', cite:'O’Connell v DPP [2026] HCA 41', line:'Three courts gave three different answers on one jury verdict',
+   path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8','sent','app','x-oc1','x-oc2'], lane:'in', sub:['cca','hc'], skip:'', end:'' },
+   x:[{ id:'x-oc1', after:'app', icon:'court', title:'High Court of Australia', blurb:'Special leave granted. Seven justices hear the appeal.', lead:'The High Court is the final court of appeal for every State and Territory. It hears a criminal appeal only if it grants special leave.' },
+      { id:'x-oc2', after:'app', icon:'prev', title:'Sent back to the appeal court', blurb:'The High Court remits the question to be decided again.', lead:'A higher court does not always decide the final result. It can set aside the orders below and remit the matter, which means sending it back to be decided again according to law.' }],
+   out:'Not finished. A jury convicted O’Connell of murder, the ACT Court of Appeal replaced that with manslaughter, and on 4 November 2026 the High Court set those orders aside and sent the case back to the Court of Appeal.',
+   t:{ n1:'In April 2022 in the ACT, Michael O’Connell drove off with a woman on the bonnet of his vehicle. She fell and died two days later. This is an ACT case, so the court names differ slightly from NSW, but the pathway is the same.',
+       n3:'O’Connell was at her home despite bail conditions that banned contact with her.',
+       i7:'The case was circumstantial. The jury attended a view of the scene and heard varying estimates of the vehicle’s speed. O’Connell did not give evidence.',
+       i8:'In 2023 the jury found him guilty of murder by reckless indifference.',
+       sent:'On 7 February 2024 he was sentenced to 15 years with a non-parole period of 10 years.',
+       app:'In 2025 the ACT Court of Appeal held, 2 to 1, that the murder verdict was unreasonable and substituted manslaughter. He was resentenced to 10 years with a non-parole period of six and a half years. Both sides then appealed.',
+       'x-oc1':'Seven justices heard the appeals on 12 May 2026. On 4 November 2026 the High Court unanimously allowed the DPP’s appeal: the Court of Appeal had not made full allowance for the advantages a jury has in seeing and hearing the evidence.',
+       'x-oc2':'The High Court did not restore the murder conviction itself. It remitted the question, so the Court of Appeal must decide again whether the jury’s verdict was unreasonable. The final outcome is not yet known.' } },
+ { id:'martin', real:1, cls:'c-dt', kind:'Local Court · appeal on a question of law', name:'Martin v DPP', cite:'Martin v DPP (NSW) [2026] NSWSC 1288', line:'Convictions set aside because the reasons never mentioned the standard of proof',
+   path:{ p:['n1','n2','n3','n4','s5','s6','s7','sent','x-mar1','x-mar2'], lane:'su', sub:'', skip:'', end:'' },
+   x:[{ id:'x-mar1', after:'app', icon:'up', title:'Appeal to the Supreme Court', blurb:'A Local Court decision appealed on a question of law.', lead:'Most Local Court appeals go to the District Court. A person can instead appeal to the Supreme Court as of right on a question of law alone (Crimes (Appeal and Review) Act 2001 (NSW) s 52).' },
+      { id:'x-mar2', after:'app', icon:'prev', title:'Sent back for a new hearing', blurb:'Remitted to a different Local Court judge.', lead:'Setting aside a conviction for legal error is not an acquittal. The case can be remitted for a fresh hearing.' }],
+   out:'Convictions, sentences and orders set aside by the Supreme Court on 20 October 2026. The case was sent back to a different Local Court judge, so guilt is still undecided.',
+   t:{ s5:'Mr Martin faced two serious charges that were dealt with in the Local Court. The four-day hearing shows the charges were defended.',
+       s6:'The hearing ran over four days in June and December 2025 and produced 241 pages of transcript. The defence called a witness.',
+       s7:'Straight after closing addresses the Acting Magistrate gave oral reasons and found both charges proved. The reasons never mentioned the onus or the standard of proof and did not deal with the defence submissions.',
+       sent:'He was sentenced to imprisonment in April 2026. The length is not in the Evidence Finder record.',
+       'x-mar1':'Mr Martin appealed to the Supreme Court on a question of law. Hamill J held that giving reasons is a necessary part of the judicial process and that reasons must show the prosecution’s onus was applied. The DPP conceded the error. The convictions, sentences and orders were set aside on 20 October 2026.',
+       'x-mar2':'The matter was remitted to a different Local Court judge. Mr Martin has not been acquitted. The rehearing is still to come.' } },
+ { id:'sharma', real:1, cls:'c-dt', kind:'Special verdict · no sentence', name:'R v Sharma', cite:'R v Sharma [2026] NSWDC 402', line:'Act proven but not criminally responsible because of a mental health impairment',
+   path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','x-sh1','x-sh2'], lane:'in', sub:'', skip:'', end:'' },
+   x:[{ id:'x-sh1', after:'i7', icon:'gavel', title:'Special verdict', blurb:'Act proven but not criminally responsible.', lead:'If a mental health or cognitive impairment meant the accused did not know the nature of the act or could not reason about whether it was wrong, the court returns a special verdict. It is not a conviction. The accused must prove the defence on the balance of probabilities.' },
+      { id:'x-sh2', after:'i7', icon:'key', title:'Detention and Tribunal review', blurb:'Treatment and supervision in place of a sentence.', lead:'After a special verdict there is no sentence. The court can order detention, and the Mental Health Review Tribunal decides when release is safe.' }],
+   out:'Special verdict of act proven but not criminally responsible on 4 November 2026. No conviction and no sentence: Mr Sharma was ordered to be detained and referred to the Mental Health Review Tribunal.',
+   t:{ n1:'On 23 June 2024 Rajendra Sharma seriously assaulted his wife. A delusional fixation had been developing since 2021.',
+       n2:'He was charged with wounding with intent to murder, with an alternative charge of intent to cause grievous bodily harm, and with breaching an apprehended violence order.',
+       i6:'The Crown and the defence agreed that the mental health impairment defence was established. The matter was listed before a judge alone in the District Court.',
+       i7:'Noman SC DCJ heard evidence from two psychiatrists. The judge was satisfied on the balance of probabilities that a delusional disorder meant Mr Sharma could not reason about whether his act was wrong.',
+       'x-sh1':'On 4 November 2026 the judge returned the special verdict of act proven but not criminally responsible, under the Mental Health and Cognitive Impairment Forensic Provisions Act 2020 (NSW) ss 28 and 31. It covered the breach charge as well.',
+       'x-sh2':'The court ordered detention and referred Mr Sharma to the Mental Health Review Tribunal, which will decide on any release. The victim’s statement was received. The orders protect the community and the victim through treatment and oversight, not punishment.' } },
+ { id:'xerri', real:1, cls:'c-dt', kind:'Table 2 · acquitted on appeal · acquittal quashed', name:'R v Xerri', cite:'R v Xerri (a pseudonym) [2026] NSWCCA 183', line:'From the Local Court to the Court of Criminal Appeal over a common assault',
+   path:{ p:['n1','n2','n3','n4','ttab','s5','s6','s7','sent','app','x-xe1','x-xe2'], lane:'su', sub:'dc', skip:'', end:'' },
+   x:[{ id:'x-xe1', after:'app', icon:'scales', title:'Question of law to the Court of Criminal Appeal', blurb:'The DPP asks the higher court to rule on a point of law.', lead:'There is normally no further appeal after the District Court hears a Local Court appeal. But a question of law arising in the appeal can be stated for the Court of Criminal Appeal to answer (Criminal Appeal Act 1912 (NSW) s 5B).' },
+      { id:'x-xe2', after:'app', icon:'prev', title:'Sent back to the District Court', blurb:'The acquittal is quashed and the appeal must be decided again.', lead:'When the answer to a question of law removes the basis for the decision below, the matter is remitted to be decided again.' }],
+   out:'Convicted in the Local Court, acquitted on appeal in the District Court, then the acquittal was quashed by the Court of Criminal Appeal on 6 November 2026. The appeal goes back to the District Court, so guilt is not finally decided.',
+   t:{ n1:'On 20 November 2023, after a separation, the man’s emails were read aloud from a family device. He took the device and grabbed a person’s arm. Pseudonyms are used in the judgment.',
+       ttab:'Common assault is a Table 2 offence. With no election it stayed in the Local Court.',
+       s7:'He was convicted in the Local Court of common assault and of contravening an apprehended domestic violence order.',
+       app:'He appealed to the District Court. The judge held that the emails were property, so he could rely on self-defence of property, and acquitted him.',
+       'x-xe1':'The DPP had four questions of law stated for the Court of Criminal Appeal. The Court held that, on the facts found, the emails were information, not property, and reading them aloud was not interference with property. The acquittal was quashed.',
+       'x-xe2':'The appeal was remitted to the District Court. The ruling is confined to the facts stated, and guilt has not been finally decided.' } },
+ { id:'symons', real:1, cls:'c-dt', kind:'Murder convictions quashed · new trial', name:'Symons v R', cite:'Symons v R; McDonald v R [2024] NSWCCA 212', line:'The jury was never offered the middle course of manslaughter',
+   path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8','sent','app','x-sy1'], lane:'in', sub:'cca', skip:'', end:'' },
+   x:[{ id:'x-sy1', after:'app', icon:'jury', title:'New trial ordered', blurb:'Back to a fresh jury, with manslaughter left open.', lead:'Quashing a conviction for a legal error in the trial usually leads to a new trial, not an acquittal.' }],
+   out:'Both murder convictions quashed on 1 November 2024 and new trials ordered. The result of the new trials is not in the Evidence Finder record.',
+   t:{ n1:'On 5 April 2017 four men dragged a man from a car at a service station at Peats Ridge and beat him for about six seconds. He died nine weeks later. Adam Symons said he had seen the barrel of a gun.',
+       i7:'Seven accused were tried together in 2022. The trial judge refused to leave excessive self-defence to the jury. That left only two choices: not guilty if self-defence was not disproved, otherwise murder.',
+       i8:'Symons, McDonald and a third man, Robertson, were convicted of murder.',
+       app:'Legal aid delays held up the appeals by about 17 and 20 months. Robertson’s appeal on the same ground had already succeeded. The Crown conceded that the same reasoning applied, and the Court held that equal justice required the same outcome. Both murder convictions were quashed.',
+       'x-sy1':'New trials were ordered. Next time the jury must be offered the middle course: manslaughter by excessive self-defence (Crimes Act 1900 (NSW) s 421).' } }
+);
+REAL.forEach(c => (c.x || []).forEach(d => { N[d.id] = { cls:'dt', detour:1, badge:'', icon:d.icon, title:d.title, tag:'This case only', blurb:d.blurb, lead:d.lead }; }));
 CASES.push(...REAL);
 
 /* ---------- path logic ---------- */
@@ -704,41 +808,48 @@ document.getElementById('chart').innerHTML =
    ${nodeHTML('app')}`;
 
 /* ---------- state ---------- */
-const S = { sel: 'n1', follow: false, caseId: 'sam', custom: false, step: 0, path: null };
+const S = { sel: 'n1', follow: false, group: null, caseId: null, custom: false, step: 0, path: null };
+const curCase = () => S.custom || !S.caseId ? null : CASES.find(c => c.id === S.caseId), active = () => S.follow && !!S.path;
 const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)];
-const curOpts = () => S.custom ? { type: $('#o-type').value, elect: $('#o-elect').value, plea: $('#o-plea').value, verdict: $('#o-verdict').value, appeal: $('#o-appeal').value } : CASES.find(c => c.id === S.caseId).o;
+const curOpts = () => S.custom ? { type: $('#o-type').value, elect: $('#o-elect').value, plea: $('#o-plea').value, verdict: $('#o-verdict').value, appeal: $('#o-appeal').value } : curCase().o;
 
 function renderPanel() {
-  const n = N[S.sel], c = S.follow && !S.custom ? CASES.find(x => x.id === S.caseId) : null;
-  const list = S.follow ? S.path.p : ORDER, i = list.indexOf(S.sel);
-  const story = c && c.t[S.sel] ? `<div class="sec incase"><h3>${ic('route')}In ${c.real ? c.name : c.name.split(',')[0] + '’s case'}</h3><p>${c.t[S.sel]}</p>${c.real ? `<p class="srcline">Real case. Source: class Evidence Finder record for <i>${c.cite.replace(/ \[.*/, '')}</i>${c.cite.match(/ \[.*/)[0]}.</p>` : ''}</div>` : (c && c.real ? `<div class="sec incase"><h3>${ic('route')}In ${c.name}</h3><p class="srcline">The Evidence Finder record does not describe this stage of the case.</p></div>` : '');
+  const n = N[S.sel], c = active() ? curCase() : null;
+  const list = active() ? S.path.p : ORDER, i = list.indexOf(S.sel);
+  const story = n.detour && c ? `<div class="sec incase"><h3>${ic('route')}In ${c.name}</h3><p>${c.t[S.sel]}</p><p class="srcline">Real case. Source: class Evidence Finder record for ${c.cite}.</p></div>` : c && c.t[S.sel] ? `<div class="sec incase"><h3>${ic('route')}In ${c.real ? c.name : c.name.split(',')[0] + '’s case'}</h3><p>${c.t[S.sel]}</p>${c.real ? `<p class="srcline">Real case. Source: class Evidence Finder record for <i>${c.cite.replace(/ \[.*/, '')}</i>${c.cite.match(/ \[.*/)[0]}.</p>` : ''}</div>` : (c && c.real ? `<div class="sec incase"><h3>${ic('route')}In ${c.name}</h3><p class="srcline">The Evidence Finder record does not describe this stage of the case.</p></div>` : '');
   const sec = (icon, title, body) => `<div class="sec"><h3>${ic(icon)}${title}</h3>${body}</div>`;
-  $('#panel').innerHTML = `<div class="ph ${n.cls}"><small>${n.badge ? 'Step ' + n.badge + (n.tag ? ' · ' + n.tag : '') : n.tag}</small><h2>${ic(n.icon)}${n.title}</h2></div>
+  $('#panel').innerHTML = `<div class="ph ${n.cls}"><small>${n.detour ? 'Detour · this case only' : n.badge ? 'Step ' + n.badge + (n.tag ? ' · ' + n.tag : '') : n.tag}</small><h2>${ic(n.icon)}${n.title}</h2></div>
    <div class="pb"><p class="lead">${gl(n.lead)}</p>${story}
+   ${n.detour ? `<p class="srcline">This step is not part of the standard flow chart. It is shown only for this case.</p>` : `
    ${n.steps ? sec('list', 'Step by step', `<ol class="steps">${n.steps.map(s => `<li>${gl(s)}</li>`).join('')}</ol>`) : ''}
    ${sec('bulb', n.steps ? 'Also know' : 'What happens', `<ul>${n.what.map(s => `<li>${gl(s)}</li>`).join('')}</ul>`)}
    ${sec('book', 'The law', `<div class="law">${n.law.map(l => `<div><b><i>${l[0].replace(/ \((NSW|Cth)\)$| \(\d{4}\).*$| \[\d{4}\].*$/, '')}</i>${(l[0].match(/ \((NSW|Cth)\)$| \(\d{4}\).*$| \[\d{4}\].*$/) || [''])[0]}</b><br>${l[1]}</div>`).join('')}</div>`)}
    ${sec('person', 'Who is involved', `<div class="people">${n.who.map(w => `<span>${ic('person')}${w}</span>`).join('')}</div>`)}
    <div class="sec eval"><h3>${ic('scales')}How well does it work?</h3><div class="pc"><div class="pro"><h4>${ic('check')}Strengths</h4><ul>${n.pro.map(s => `<li>${s}</li>`).join('')}</ul></div><div class="con"><h4>${ic('x')}Concerns</h4><ul>${n.con.map(s => `<li>${s}</li>`).join('')}</ul></div></div>
-   <div class="think"><b>Extended response practice</b>${n.q}</div></div>
+   <div class="think"><b>Extended response practice</b>${n.q}</div></div>`}
    <div class="pnav"><button class="btn ghost" id="p-prev" ${i <= 0 ? 'disabled' : ''}>${ic('prev')}Previous</button><button class="btn" id="p-next" ${i >= list.length - 1 ? 'disabled' : ''}>Next${ic('next')}</button></div></div>`;
   $('#p-prev').onclick = () => go(list[i - 1]); $('#p-next').onclick = () => go(list[i + 1]);
   $('#panel').scrollTop = 0;
 }
 function paint() {
+  $$('.detour-el').forEach(e => e.remove());
+  const fc = active() ? curCase() : null;
+  if (fc && fc.x) { const last = {}; fc.x.forEach(d => { const anchor = last[d.after] || document.querySelector(`.node[data-id="${d.after}"]`);
+      anchor.insertAdjacentHTML('afterend', `<div class="conn detour-el" data-a="${d.id}" data-b="${d.id}" style="--c:var(--dt)"><i></i><span>Detour</span></div>` + nodeHTML(d.id).replace('class="node dt"', 'class="node dt detour-el"'));
+      last[d.after] = document.querySelector(`.node[data-id="${d.id}"]`); }); }
   $$('.node').forEach(b => b.classList.toggle('sel', b.dataset.id === S.sel));
-  const ch = $('#chart'); ch.classList.toggle('following', S.follow);
+  const ch = $('#chart'); ch.classList.toggle('following', active()); $('#stepper').hidden = !active();
   $$('.node,.conn,.ask').forEach(e => e.classList.remove('on')); $$('.skip,.sub').forEach(e => e.classList.remove('lit'));
   $('#outcome').hidden = true;
-  if (S.follow) {
+  if (active()) {
     const { p, lane, end, sub, skip } = S.path, has = id => p.includes(id);
     $$('.node').forEach(b => b.classList.toggle('on', has(b.dataset.id)));
     $$('.conn,.ask').forEach(e => { const a = e.dataset.a, b = e.dataset.b;
       const on = (a === 't' ? has(b) : a === '*' ? has(b) : b === '*' ? true : has(a) && has(b)); e.classList.toggle('on', on); });
     if (skip) $('#skip-' + skip).classList.add('lit');
-    if (sub) $('#sub-' + sub).classList.add('lit');
+    [].concat(sub || []).forEach(k => $('#sub-' + k).classList.add('lit'));
     $('#lane-su').style.opacity = lane === 'su' ? 1 : .45; $('#lane-in').style.opacity = lane === 'in' ? 1 : .45;
-    const c = S.custom ? null : CASES.find(x => x.id === S.caseId);
+    const c = curCase();
     $('#outcome').hidden = false; $('#outcometext').innerHTML = `<b>How this case ends</b><br>${c ? c.out : end}`;
     S.step = Math.max(0, p.indexOf(S.sel));
     $('#s-where').textContent = `Stage ${S.step + 1} of ${p.length}: ${N[p[S.step]].title}`;
@@ -749,28 +860,33 @@ function paint() {
 }
 function go(id, scroll) { if (!id) return; S.sel = id; paint();
   if (scroll) { const el = document.querySelector(`.node[data-id="${id}"]`); const r = el.getBoundingClientRect(); if (r.top < 0 || r.bottom > innerHeight) el.scrollIntoView({ block: 'center' }); } }
-function setPath() { const rc = S.custom ? null : CASES.find(c => c.id === S.caseId); S.path = rc && rc.path ? rc.path : pathFor(curOpts()); if (!S.path.p.includes(S.sel)) S.sel = 'n1'; }
+function setPath() { const rc = curCase(); if (!rc && !S.custom) { S.path = null; return; } S.path = rc && rc.path ? rc.path : pathFor(curOpts()); if (!S.path.p.includes(S.sel)) S.sel = 'n1'; }
 function syncCustom() { const t = $('#o-type').value, lane = (t === 'ind' || (t !== 'sum' && $('#o-elect').value === 'yes')) ? 'in' : 'su';
   $('#o-elect').disabled = !(t === 't1' || t === 't2'); $('#o-verdict').disabled = $('#o-plea').value === 'g';
   $('#o-verdict').querySelector('[value=hung]').disabled = lane === 'su'; if (lane === 'su' && $('#o-verdict').value === 'hung') $('#o-verdict').value = 'g';
   $('#o-appeal').disabled = $('#o-plea').value !== 'g' && $('#o-verdict').value !== 'g';
   $('#o-appeal').querySelector('[value=conv]').disabled = $('#o-plea').value === 'g'; if ($('#o-plea').value === 'g' && $('#o-appeal').value === 'conv') $('#o-appeal').value = 'none'; }
-function setMode(f) { S.follow = f; $('#m-free').setAttribute('aria-pressed', !f); $('#m-follow').setAttribute('aria-pressed', f); $('#caserow').hidden = !f;
-  $('#modehint').textContent = f ? 'Pick a case, then step through it. Stages the case never reaches are faded.' : 'Click any stage to see what happens, the law, who is involved and how well it works.';
-  if (f) { setPath(); S.sel = 'n1'; } paint(); }
+function setMode(f) { S.follow = f; if (N[S.sel].detour) S.sel = 'n1'; $('#m-free').setAttribute('aria-pressed', !f); $('#m-follow').setAttribute('aria-pressed', f); $('#caserow').hidden = !f;
+  $('#modehint').textContent = f ? 'Choose real or invented, pick a case, then step through it. Stages the case never reaches are faded.' : 'Click any stage to see what happens, the law, who is involved and how well it works.';
+  if (f) { renderCases(); setPath(); S.sel = 'n1'; } paint(); }
 
 const caseBtn = c => `<button class="case ${c.cls}" data-case="${c.id}" aria-pressed="false"><i>${c.kind}</i><b>${c.name}</b><span>${c.line}</span></button>`;
-$('#cases').innerHTML = `<h3>Real cases from the Evidence Finder</h3><div class="cgrid">${CASES.filter(c => c.real).map(caseBtn).join('')}</div><h3>Invented examples</h3><div class="cgrid">${CASES.filter(c => !c.real).map(caseBtn).join('')}
-  <button class="case c-st" data-case="custom" aria-pressed="false"><i>Your choice</i><b>Build your own</b><span>Choose the offence type, plea and verdict</span></button></div>`;
-function pickCase(id) { S.custom = id === 'custom'; if (!S.custom) S.caseId = id; $('#custom').hidden = !S.custom;
-  $$('.case').forEach(b => b.setAttribute('aria-pressed', b.dataset.case === id)); if (S.custom) syncCustom(); setPath(); S.sel = 'n1'; paint(); }
+function renderCases() { const g = S.group; $('#cases').hidden = !g; $('#pick').classList.toggle('small', !!g); $$('.pk').forEach(b => b.setAttribute('aria-pressed', b.dataset.group === g));
+  if (!g) return; const cur = S.custom ? 'custom' : S.caseId;
+  $('#cases').innerHTML = g === 'real' ? `<h3>Real cases from the Evidence Finder</h3><div class="cgrid">${CASES.filter(c => c.real).map(caseBtn).join('')}</div>`
+    : `<h3>Invented examples</h3><div class="cgrid">${CASES.filter(c => !c.real).map(caseBtn).join('')}<button class="case c-st" data-case="custom" aria-pressed="false"><i>Your choice</i><b>Build your own</b><span>Choose the offence type, plea and verdict</span></button></div>`;
+  $$('.case').forEach(b => b.setAttribute('aria-pressed', b.dataset.case === cur)); }
+$('#pk-real').textContent = `${CASES.filter(c => c.real).length} decisions from the Evidence Finder`;
+$('#pick').onclick = e => { const b = e.target.closest('.pk'); if (!b || b.dataset.group === S.group) return; S.group = b.dataset.group; S.caseId = null; S.custom = false; S.path = null; S.sel = 'n1'; $('#custom').hidden = true; renderCases(); paint(); };
+function pickCase(id) { S.custom = id === 'custom'; S.caseId = S.custom ? null : id; S.group = S.custom || !CASES.find(c => c.id === id).real ? 'inv' : 'real'; $('#custom').hidden = !S.custom;
+  renderCases(); if (S.custom) syncCustom(); setPath(); S.sel = 'n1'; paint(); }
 $('#cases').onclick = e => { const b = e.target.closest('.case'); if (b) pickCase(b.dataset.case); };
 $('#custom').onchange = () => { syncCustom(); setPath(); paint(); };
 $('#chart').onclick = e => { if (e.target.closest('.g')) return; const b = e.target.closest('.node'); if (b) { go(b.dataset.id); if (innerWidth <= 1080) $('#panel').scrollIntoView({ block: 'start' }); } };
 $('#m-free').onclick = () => setMode(false); $('#m-follow').onclick = () => setMode(true);
 $('#s-prev').onclick = () => go(S.path.p[S.step - 1], true); $('#s-next').onclick = () => go(S.path.p[S.step + 1], true);
 $('#s-dots').onclick = e => { const b = e.target.closest('[data-go]'); if (b) go(b.dataset.go, true); };
-document.querySelector('.case[data-case="sam"]').setAttribute('aria-pressed', 'true');
+
 
 /* ---------- glossary tooltip ---------- */
 const tip = $('#tip'); let tipFor = null;
@@ -914,7 +1030,7 @@ function runBuild(ch) {
     const ac = lane === 'su' ? 'District Court' : 'Court of Criminal Appeal', what = { conv: 'conviction appeal', sev: 'severity appeal', crown: 'prosecution appeal against sentence' }[ap]; courts.add(ac);
     const ar = ask({ role: lane === 'su' ? 'District Court judge' : 'Court of Criminal Appeal', icon: 'scales', ctx: lane === 'su' ? 'You rehear the matter on appeal from the Local Court.' : 'Three judges look for a legal error or an unreasonable verdict.', q: `What do you decide on the ${what}?`,
       opts: [{ v: 'n', l: 'Dismiss the appeal', s: 'The original decision stands' }, { v: 'y', l: 'Allow the appeal', s: ap === 'conv' ? 'The conviction is quashed' : ap === 'sev' ? 'The sentence is reduced' : 'The sentence is increased' }] });
-    const res = ar === 'n' ? 'The appeal is dismissed and the original decision stands.' : ap === 'conv' ? 'The appeal is allowed and the conviction is quashed.' : ap === 'sev' ? 'The appeal is allowed and the sentence is reduced.' : 'The appeal is allowed and the sentence is increased.';
+    sig.ar = ar; const res = ar === 'n' ? 'The appeal is dismissed and the original decision stands.' : ap === 'conv' ? 'The appeal is allowed and the conviction is quashed.' : ap === 'sev' ? 'The appeal is allowed and the sentence is reduced.' : 'The appeal is allowed and the sentence is increased.';
     box('app', `${what[0].toUpperCase() + what.slice(1)} to the ${ac}. ${res}`, ac);
     if (lane === 'in') {
       const hc = ask({ role: 'Losing party', icon: 'up', ctx: 'One avenue remains: the High Court of Australia. It hears a case only if it grants special leave.', q: 'Do you apply for special leave to appeal?',
@@ -927,17 +1043,21 @@ function runBuild(ch) {
   return { boxes, log, courts, sig, end };
 }
 const BANK = [
-  { id: 'dawson', label: 'R v Dawson [2022] NSWSC 1131', kind: 'Real case from the Evidence Finder', sig: { lane: 'in', plea: 'ng', mode: 'judge', verdict: 'g', appeal: 'conv' } },
+  { id: 'dawson', label: 'R v Dawson [2022] NSWSC 1131', kind: 'Real case from the Evidence Finder', sig: { lane: 'in', plea: 'ng', mode: 'judge', verdict: 'g', appeal: 'conv', ar: 'n' } },
+  { id: 'oconnell', label: 'O’Connell v DPP [2026] HCA 41', kind: 'Real case from the Evidence Finder', sig: { lane: 'in', plea: 'ng', mode: 'jury', verdict: 'g', appeal: 'conv', ar: 'y', hc: 1 } },
+  { id: 'symons', label: 'Symons v R [2024] NSWCCA 212', kind: 'Real case from the Evidence Finder', sig: { lane: 'in', plea: 'ng', mode: 'jury', verdict: 'g', appeal: 'conv', ar: 'y' } },
+  { id: 'folbigg', label: 'Kathleen Folbigg (2003 to 2023)', kind: 'Real case from the Evidence Finder', sig: { lane: 'in', plea: 'ng', mode: 'jury', verdict: 'g', appeal: 'sev', ar: 'y' } },
+  { id: 'martin', label: 'Martin v DPP (NSW) [2026] NSWSC 1288', kind: 'Real case from the Evidence Finder', sig: { lane: 'su', plea: 'ng', verdict: 'g', appeal: 'conv', ar: 'y' } },
   { id: 'kl', label: 'R v KL [2025] NSWSC 1414', kind: 'Real case from the Evidence Finder', sig: { lane: 'in', plea: 'ng', mode: 'judge', verdict: 'g', hung: 1 } },
   { id: 'billings', label: 'R v Billings [2026] NSWSC 1088', kind: 'Real case from the Evidence Finder', sig: { lane: 'in', plea: 'g', appeal: 'sev' } },
-  { id: 'white', label: 'R v White [2025] NSWSC 243', kind: 'Real case from the Evidence Finder', sig: { lane: 'in', plea: 'ng', mode: 'jury', verdict: 'g', appeal: 'crown' } },
+  { id: 'white', label: 'R v White [2025] NSWSC 243', kind: 'Real case from the Evidence Finder', sig: { lane: 'in', plea: 'ng', mode: 'jury', verdict: 'g', appeal: 'crown', ar: 'n' } },
   { id: 'sam', label: 'Sam, 22: offensive conduct', kind: 'Invented example', sig: { lane: 'su', plea: 'ng', verdict: 'g', appeal: 'sev' } },
   { id: 'mia', label: 'Mia, 18: shoplifting', kind: 'Invented example', sig: { lane: 'su', plea: 'g', appeal: 'none' } },
   { id: 'dev', label: 'Dev, 27: stole $60,000 from an employer', kind: 'Invented example', sig: { lane: 'in', plea: 'g', appeal: 'none' } },
   { id: 'alex', label: 'Alex, 31: charged with murder', kind: 'Invented example', sig: { lane: 'in', plea: 'ng', mode: 'jury', verdict: 'g', appeal: 'conv' } },
 ];
 function matchCase(sig) { let best = null, bs = 0;
-  BANK.forEach(c => { if (c.sig.lane !== sig.lane || c.sig.plea !== sig.plea) return; let n = 2; ['mode','verdict','appeal'].forEach(k => { if (c.sig[k] !== undefined && c.sig[k] === sig[k]) n++; }); if (!!c.sig.hung === !!sig.hung) n += 2; if (c.sig.verdict && sig.verdict && c.sig.verdict !== sig.verdict) return; if (n > bs) { bs = n; best = c; } }); return best; }
+  BANK.forEach(c => { if (c.sig.lane !== sig.lane || c.sig.plea !== sig.plea) return; let n = 2; ['mode','verdict','appeal'].forEach(k => { if (c.sig[k] !== undefined && c.sig[k] === sig[k]) n++; }); if (!!c.sig.hung === !!sig.hung) n += 2; if (c.sig.ar && c.sig.ar === sig.ar) n++; if (!!c.sig.hc === !!sig.hc) n++; if (c.sig.verdict && sig.verdict && c.sig.verdict !== sig.verdict) return; if (n > bs) { bs = n; best = c; } }); return best; }
 function renderBuild() {
   const r = runBuild(B.ch), f = $('#bflow');
   f.innerHTML = r.boxes.map((b, k) => { const n = N[b.id]; return `<div class="bbox ${n.cls} ${B.fresh && k === r.boxes.length - 1 ? 'new' : ''}">${ic(n.icon)}<h3>${b.alt || n.title}</h3>${b.tag ? `<span class="bd">${b.tag}</span>` : '<span></span>'}<p>${b.note} <button class="g" data-open="${b.id}">Stage details</button></p></div>` +
@@ -970,7 +1090,7 @@ function show(v, push = true) { if (!VIEWS.includes(v)) v = 'explore';
   if (push && location.hash.slice(1) !== v) { try { location.hash = v; } catch (e) {} } }
 $$('.tab').forEach(t => t.onclick = () => show(t.dataset.view));
 addEventListener('hashchange', () => show(location.hash.slice(1), false));
-S.path = pathFor(curOpts()); paint(); renderQuiz(); renderBuild(); show(location.hash.slice(1) || 'explore', false);
+paint(); renderQuiz(); renderBuild(); show(location.hash.slice(1) || 'explore', false);
 </script>
 </body>
 </html>
