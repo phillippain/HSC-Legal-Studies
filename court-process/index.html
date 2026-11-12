@@ -1,0 +1,976 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Going to Court in NSW</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+/* Layout idea: the flow chart on the left stays whole; a sticky study panel on the right explains whichever stage is selected. */
+:root {
+  --bg: #f6f5f1; --surface: #ffffff; --surface2: #eef0f6; --ink: #1a1d2b; --ink2: #4b5165; --line: #dcdfea;
+  --navy: #1b2559; --on: #ffffff;
+  --st: #3730a3; --st-t: #eceeff;
+  --su: #0b7a85; --su-t: #e0f3f4;
+  --in: #b3254f; --in-t: #fbe7ee;
+  --ta: #7d5f00; --ta-t: #fff3c9; --ta-b: #d9ad16;
+  --ok: #17693a; --ok-t: #def3e5; --bad: #a3212b; --bad-t: #fde6e7;
+  --gold: #ffd24a; --shadow: 0 1px 2px rgba(27,37,89,.08), 0 6px 18px rgba(27,37,89,.07);
+  --display: "Poppins", "Segoe UI", system-ui, sans-serif; --body: "Inter", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11131d; --surface: #1a1d2c; --surface2: #23273a; --ink: #eceefa; --ink2: #aab0c8; --line: #313654;
+  --navy: #0c0e1a; --on: #0f1120;
+  --st: #9b9cf7; --st-t: #24264a; --su: #45c3cd; --su-t: #12343a; --in: #f27ea1; --in-t: #40192a;
+  --ta: #e6bd45; --ta-t: #3a3010; --ta-b: #8f7419;
+  --ok: #6fd596; --ok-t: #143522; --bad: #ff8f97; --bad-t: #40191d;
+  --shadow: 0 1px 2px rgba(0,0,0,.4), 0 6px 18px rgba(0,0,0,.3); color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #11131d; --surface: #1a1d2c; --surface2: #23273a; --ink: #eceefa; --ink2: #aab0c8; --line: #313654;
+  --navy: #0c0e1a; --on: #0f1120;
+  --st: #9b9cf7; --st-t: #24264a; --su: #45c3cd; --su-t: #12343a; --in: #f27ea1; --in-t: #40192a;
+  --ta: #e6bd45; --ta-t: #3a3010; --ta-b: #8f7419;
+  --ok: #6fd596; --ok-t: #143522; --bad: #ff8f97; --bad-t: #40191d;
+  --shadow: 0 1px 2px rgba(0,0,0,.4), 0 6px 18px rgba(0,0,0,.3); color-scheme: dark; }
+
+* { box-sizing: border-box; margin: 0; }
+html { scroll-behavior: smooth; }
+body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.5; }
+button { font: inherit; color: inherit; cursor: pointer; background: none; border: 0; text-align: left; }
+:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+h1, h2, h3, h4 { font-family: var(--display); text-wrap: balance; line-height: 1.15; }
+svg.ic { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; flex: none; }
+.wrap { max-width: 1480px; margin: 0 auto; padding: 0 20px 48px; }
+
+/* masthead */
+.mast { background: #1b2559; color: #fff; }
+.mast-in { max-width: 1480px; margin: 0 auto; padding: 18px 20px 0; display: flex; flex-wrap: wrap; align-items: flex-end; gap: 12px 28px; }
+.brand { display: flex; align-items: center; gap: 14px; padding-bottom: 14px; margin-right: auto; }
+.brand svg { font-size: 40px; color: var(--gold); stroke-width: 1.5; }
+.brand h1 { font-size: 28px; font-weight: 800; letter-spacing: -.3px; }
+.brand p { color: #d5dafa; font-size: 14px; }
+.tabs { display: flex; gap: 4px; }
+.tab { padding: 10px 18px; border-radius: 10px 10px 0 0; font-family: var(--display); font-weight: 700; font-size: 14px; color: #d5dafa; display: flex; gap: 8px; align-items: center; }
+.tab:hover { background: rgba(255,255,255,.1); color: #fff; }
+.tab[aria-selected="true"] { background: var(--bg); color: var(--ink); }
+.view { display: none; padding-top: 18px; } .view.on { display: block; }
+
+/* mode bar */
+.modebar { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px; box-shadow: var(--shadow); display: flex; flex-direction: column; gap: 12px; margin-bottom: 16px; }
+.mrow { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; }
+.seg { display: inline-flex; background: var(--surface2); border-radius: 10px; padding: 3px; }
+.seg button { padding: 7px 14px; border-radius: 8px; font-weight: 600; font-size: 14px; color: var(--ink2); display: flex; gap: 7px; align-items: center; }
+.seg button[aria-pressed="true"] { background: var(--st); color: var(--on); }
+.hint { color: var(--ink2); font-size: 13.5px; }
+.cases { width: 100%; display: flex; flex-direction: column; gap: 6px; } .cases h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .5px; color: var(--ink2); margin-top: 2px; }
+.cgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 8px; }
+.case { border: 1.5px solid var(--line); border-radius: 10px; padding: 8px 11px; background: var(--surface); display: flex; flex-direction: column; gap: 1px; }
+.case:hover { border-color: var(--st); }
+.case b { font-family: var(--display); font-size: 13.5px; }
+.case span { font-size: 12.5px; color: var(--ink2); line-height: 1.35; }
+.case i { font-style: normal; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .4px; color: var(--c); }
+.case[aria-pressed="true"] { border-color: var(--c); background: var(--ct); box-shadow: inset 4px 0 0 var(--c); }
+.c-su { --c: var(--su); --ct: var(--su-t); } .c-in { --c: var(--in); --ct: var(--in-t); } .c-ta { --c: var(--ta); --ct: var(--ta-t); } .c-st { --c: var(--st); --ct: var(--st-t); }
+.custom { display: flex; flex-wrap: wrap; gap: 8px 14px; width: 100%; }
+.custom label { font-size: 12px; font-weight: 700; color: var(--ink2); display: flex; flex-direction: column; gap: 3px; text-transform: uppercase; letter-spacing: .3px; }
+.custom select { font: inherit; font-size: 14px; text-transform: none; letter-spacing: 0; font-weight: 500; padding: 6px 8px; border-radius: 8px; border: 1.5px solid var(--line); background: var(--surface); color: var(--ink); min-width: 150px; }
+.custom select:disabled { opacity: .45; }
+.stepper { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; width: 100%; border-top: 1px dashed var(--line); padding-top: 10px; }
+.btn { padding: 7px 14px; border-radius: 9px; background: var(--st); color: var(--on); font-weight: 700; font-size: 14px; display: inline-flex; gap: 6px; align-items: center; }
+.btn.ghost { background: var(--surface2); color: var(--ink); }
+.btn:disabled { opacity: .4; cursor: default; }
+.dots { display: flex; gap: 5px; flex-wrap: wrap; }
+.dots button { width: 22px; height: 22px; border-radius: 50%; background: var(--surface2); color: var(--ink2); font-size: 11px; font-weight: 700; text-align: center; }
+.dots button.done { background: var(--st-t); color: var(--st); } .dots button.cur { background: var(--st); color: var(--on); }
+.where { font-family: var(--display); font-weight: 700; font-size: 14px; }
+[hidden] { display: none !important; }
+
+/* explore layout */
+.explore { display: grid; grid-template-columns: minmax(0, 1fr) 420px; gap: 18px; align-items: start; }
+@media (max-width: 1080px) { .explore { grid-template-columns: 1fr; } }
+.chart { display: flex; flex-direction: column; gap: 0; }
+
+/* nodes */
+.node { --c: var(--st); --t: var(--st-t); width: 100%; background: var(--surface); border: 2px solid var(--c); border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; box-shadow: var(--shadow); transition: transform .12s, opacity .2s, box-shadow .12s; }
+.node.su { --c: var(--su); --t: var(--su-t); } .node.in { --c: var(--in); --t: var(--in-t); } .node.ta { --c: var(--ta-b); --t: var(--ta-t); } .node.en { --c: var(--navy); --t: var(--surface2); }
+:root[data-theme="dark"] .node.en { --c: #5b63a8; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .node.en { --c: #5b63a8; } }
+.node:hover { transform: translateY(-2px); }
+.node.sel { box-shadow: 0 0 0 4px var(--gold), var(--shadow); }
+.nh { background: var(--c); color: var(--on); display: flex; align-items: center; gap: 4px 8px; flex-wrap: wrap; padding: 6px 10px 6px 7px; }
+.node.ta .nh { color: #1a1d2b; } .node.en .nh { color: #fff; }
+.badge { background: var(--on); color: var(--c); font-family: var(--display); font-weight: 800; font-size: 13px; min-width: 22px; height: 22px; border-radius: 11px; display: inline-flex; align-items: center; justify-content: center; }
+.node.ta .badge, .node.en .badge { background: #fff; color: #1a1d2b; }
+.nh svg { font-size: 17px; }
+.nt { font-family: var(--display); font-weight: 700; font-size: 15px; line-height: 1.15; flex: 1; min-width: 0; }
+.tag { margin-left: auto; font-size: 10.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .4px; border: 1px solid currentColor; opacity: .9; padding: 1px 7px; border-radius: 9px; white-space: nowrap; }
+.nb { padding: 8px 11px 9px; font-size: 13.5px; line-height: 1.4; color: var(--ink); display: flex; flex-direction: column; gap: 6px; flex: 1; }
+.more { margin-top: auto; font-size: 12px; font-weight: 700; color: var(--c); display: flex; align-items: center; gap: 4px; }
+.node.ta .more { color: var(--ta); } .node.en .more { color: var(--st); }
+.minis { display: flex; flex-wrap: wrap; gap: 4px; }
+.minis span { background: var(--t); border-radius: 6px; padding: 1px 7px; font-size: 12px; font-weight: 600; }
+.minis span b { color: var(--c); margin-right: 3px; }
+.node.ta .minis span b { color: var(--ta); }
+
+.stem { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 26px; }
+.stem .node { position: relative; overflow: visible; }
+.stem .node .nh { border-radius: 9px 9px 0 0; }
+.stem .node:not(:last-child)::after { content: ""; position: absolute; right: -22px; top: 50%; width: 16px; height: 16px; margin-top: -8px; background: var(--st); clip-path: polygon(0 35%, 55% 35%, 55% 0, 100% 50%, 55% 100%, 55% 65%, 0 65%); }
+@media (max-width: 760px) { .stem { grid-template-columns: 1fr 1fr; } .stem .node::after { display: none; } }
+.ask { align-self: center; margin: 12px 0; display: flex; flex-direction: column; align-items: center; gap: 2px; color: var(--st); }
+.ask b { background: var(--st); color: var(--on); font-family: var(--display); font-size: 15px; padding: 6px 18px; border-radius: 20px; display: flex; align-items: center; gap: 8px; }
+.ask i, .conn i { display: block; width: 18px; height: 12px; background: currentColor; clip-path: polygon(35% 0, 65% 0, 65% 45%, 100% 45%, 50% 100%, 0 45%, 35% 45%); }
+.types { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+@media (max-width: 760px) { .types { grid-template-columns: 1fr; } }
+.lanes { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); gap: 14px; margin-top: 12px; }
+@media (max-width: 760px) { .lanes { grid-template-columns: 1fr; } }
+.lane { border: 2px dashed var(--c); background: var(--t); border-radius: 16px; padding: 10px 12px 12px; display: flex; flex-direction: column; transition: opacity .2s; }
+.lane.su { --c: var(--su); --t: var(--su-t); } .lane.in { --c: var(--in); --t: var(--in-t); }
+.lane > h3 { text-align: center; color: var(--c); font-size: 15px; font-weight: 800; text-transform: uppercase; letter-spacing: .6px; }
+.lane > p { text-align: center; font-size: 12.5px; color: var(--ink2); margin-bottom: 8px; }
+.conn { display: flex; align-items: center; justify-content: center; gap: 8px; color: var(--c, var(--st)); padding: 5px 0; min-height: 26px; transition: opacity .2s; }
+.conn span { background: var(--c, var(--st)); color: var(--on); font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .4px; padding: 1px 9px; border-radius: 9px; }
+.conn.big { color: var(--navy); padding: 8px 0; } :root[data-theme="dark"] .conn.big { color: #7f88cf; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .conn.big { color: #7f88cf; } }
+.skip { display: flex; gap: 6px; align-items: center; font-size: 12px; font-weight: 600; background: var(--surface2); border-radius: 7px; padding: 3px 8px; }
+.skip.lit { background: var(--gold); color: #1a1d2b; }
+.subs { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+@media (max-width: 760px) { .subs { grid-template-columns: 1fr; } }
+.sub { border-radius: 8px; padding: 6px 9px; background: var(--t); border-top: 4px solid var(--sc); font-size: 12.5px; line-height: 1.35; }
+.sub b { display: block; font-family: var(--display); font-size: 13px; }
+.sub.lit { background: var(--gold); color: #1a1d2b; }
+.following .node:not(.on), .following .conn:not(.on), .following .ask:not(.on) { opacity: .28; }
+.following .node.on { opacity: 1; }
+.outcome { margin-top: 14px; border-radius: 12px; padding: 12px 16px; background: var(--surface); border: 2px solid var(--gold); box-shadow: var(--shadow); display: flex; gap: 12px; align-items: center; }
+.outcome svg { font-size: 26px; color: var(--ta); } .outcome b { font-family: var(--display); }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12.5px; color: var(--ink2); margin-top: 14px; }
+.legend span { display: flex; gap: 6px; align-items: center; } .legend i { width: 12px; height: 12px; border-radius: 3px; background: var(--c); }
+
+/* panel */
+.panel { position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); }
+@media (max-width: 1080px) { .panel { position: static; max-height: none; } }
+.ph { --c: var(--st); background: var(--c); color: var(--on); padding: 14px 18px; position: sticky; top: 0; z-index: 2; }
+.ph.su { --c: var(--su); } .ph.in { --c: var(--in); } .ph.ta { --c: var(--ta-b); color: #1a1d2b; } .ph.en { --c: #1b2559; color: #fff; }
+.ph small { font-size: 11.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .5px; opacity: .9; }
+.ph h2 { font-size: 22px; font-weight: 800; display: flex; align-items: center; gap: 10px; }
+.pb { padding: 14px 18px 20px; display: flex; flex-direction: column; gap: 16px; }
+.lead { font-size: 15.5px; font-weight: 500; }
+.sec h3 { font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: .5px; color: var(--ink2); display: flex; align-items: center; gap: 7px; margin-bottom: 7px; }
+.sec h3 svg { font-size: 16px; color: var(--st); }
+.sec ul { padding-left: 18px; display: flex; flex-direction: column; gap: 5px; } .sec li { padding-left: 2px; }
+.steps { list-style: none; padding: 0 !important; counter-reset: s; }
+.steps li { counter-increment: s; position: relative; padding: 6px 10px 6px 38px !important; background: var(--surface2); border-radius: 9px; }
+.steps li::before { content: counter(s); position: absolute; left: 9px; top: 7px; width: 21px; height: 21px; border-radius: 50%; background: var(--st); color: var(--on); font-size: 12px; font-weight: 800; display: flex; align-items: center; justify-content: center; }
+.law { display: flex; flex-direction: column; gap: 5px; }
+.law div { background: var(--ta-t); border: 1px solid var(--ta-b); border-radius: 8px; padding: 5px 10px; font-size: 13.5px; }
+.law div b { font-weight: 700; }
+.people { display: flex; flex-wrap: wrap; gap: 6px; }
+.people span { background: var(--st-t); border-radius: 14px; padding: 3px 11px; font-size: 13px; font-weight: 600; display: flex; gap: 6px; align-items: center; }
+.people span svg { color: var(--st); }
+.incase { background: var(--ta-t); border-left: 5px solid var(--gold); border-radius: 0 10px 10px 0; padding: 10px 14px; }
+.incase h3 { color: var(--ta); } .srcline { font-size: 12.5px; color: var(--ink2); margin-top: 5px; }
+.eval { border: 1.5px solid var(--line); border-radius: 12px; overflow: hidden; }
+.eval h3 { margin: 0; padding: 9px 13px; background: var(--surface2); }
+.pc { display: grid; grid-template-columns: 1fr 1fr; }
+@media (max-width: 480px) { .pc { grid-template-columns: 1fr; } }
+.pc > div { padding: 10px 13px; font-size: 13.5px; }
+.pc > div + div { border-left: 1.5px solid var(--line); }
+.pc h4 { font-size: 12px; text-transform: uppercase; letter-spacing: .4px; margin-bottom: 5px; display: flex; gap: 6px; align-items: center; }
+.pc .pro h4 { color: var(--ok); } .pc .con h4 { color: var(--bad); }
+.pc ul { padding-left: 16px; gap: 6px; }
+.think { padding: 10px 13px; border-top: 1.5px solid var(--line); font-size: 14px; background: var(--st-t); }
+.think b { font-family: var(--display); color: var(--st); display: block; font-size: 12px; text-transform: uppercase; letter-spacing: .4px; }
+.pnav { display: flex; justify-content: space-between; gap: 8px; }
+
+/* glossary */
+.g { font: inherit; color: inherit; padding: 0; border-bottom: 2px dotted var(--st); cursor: help; display: inline; }
+.g:hover, .g:focus-visible { background: var(--st-t); }
+#tip { position: fixed; z-index: 50; max-width: 300px; background: #1b2559; color: #fff; border-radius: 10px; padding: 9px 13px; font-size: 13.5px; line-height: 1.4; box-shadow: 0 8px 24px rgba(0,0,0,.35); pointer-events: none; opacity: 0; transition: opacity .12s; }
+#tip.on { opacity: 1; } #tip b { display: block; font-family: var(--display); color: var(--gold); font-size: 13px; margin-bottom: 2px; }
+
+/* build */
+.build { display: grid; grid-template-columns: minmax(0, 1fr) 440px; gap: 18px; align-items: start; }
+@media (max-width: 1080px) { .build { grid-template-columns: 1fr; } .bside { order: -1; } }
+.bintro { margin-bottom: 14px; } .bintro h2 { font-size: 22px; font-weight: 800; } .bintro p { color: var(--ink2); max-width: 65ch; }
+.bflow { display: flex; flex-direction: column; align-items: stretch; max-width: 720px; }
+.bbox { --c: var(--st); --t: var(--st-t); display: grid; grid-template-columns: auto 1fr auto; gap: 4px 12px; align-items: center; background: var(--surface); border: 2px solid var(--c); border-left-width: 10px; border-radius: 12px; padding: 9px 14px; box-shadow: var(--shadow); }
+.bbox.su { --c: var(--su); --t: var(--su-t); } .bbox.in { --c: var(--in); --t: var(--in-t); } .bbox.ta { --c: var(--ta-b); --t: var(--ta-t); } .bbox.en { --c: #3b4585; --t: var(--surface2); }
+.bbox > svg { font-size: 24px; color: var(--c); } .bbox.ta > svg { color: var(--ta); }
+.bbox h3 { font-size: 15.5px; font-weight: 700; } .bbox p { font-size: 13.5px; color: var(--ink); grid-column: 2 / 4; }
+.bbox .bd { font-size: 12px; font-weight: 700; color: var(--c); padding: 3px 8px; border-radius: 7px; background: var(--t); white-space: nowrap; } .bbox.ta .bd { color: var(--ta); }
+.bbox.new { animation: pop .35s ease-out; } @keyframes pop { from { transform: translateY(-8px); box-shadow: 0 0 0 5px var(--gold); } to { transform: none; } }
+.bcon { align-self: flex-start; margin-left: 28px; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; padding: 5px 0; color: var(--ink2); font-size: 12.5px; }
+.bcon i { display: block; width: 16px; height: 14px; background: var(--ink2); clip-path: polygon(35% 0, 65% 0, 65% 45%, 100% 45%, 50% 100%, 0 45%, 35% 45%); }
+.bcon b { background: var(--surface2); color: var(--ink); border-radius: 9px; padding: 2px 10px; font-weight: 600; } .bcon b em { font-style: normal; color: var(--st); font-weight: 800; }
+.bnext { border: 2px dashed var(--line); border-radius: 12px; padding: 12px 14px; color: var(--ink2); font-size: 13.5px; display: flex; gap: 10px; align-items: center; }
+.bend { border-radius: 12px; padding: 12px 16px; background: var(--ta-t); border: 2px solid var(--gold); display: flex; gap: 12px; align-items: center; } .bend svg { font-size: 26px; color: var(--ta); } .bend b { font-family: var(--display); }
+.bside { position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); }
+@media (max-width: 1080px) { .bside { position: static; max-height: none; } }
+.role { background: #1b2559; color: #fff; padding: 14px 18px; display: flex; gap: 14px; align-items: center; }
+.role > svg { font-size: 34px; color: var(--gold); stroke-width: 1.5; } .role small { font-size: 11.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .5px; color: #d5dafa; display: block; } .role h2 { font-size: 21px; font-weight: 800; }
+.bq { padding: 14px 18px 18px; display: flex; flex-direction: column; gap: 12px; }
+.bq .ctx { color: var(--ink2); font-size: 14px; } .bq h3 { font-size: 18px; font-weight: 700; }
+.bopt { width: 100%; border: 2px solid var(--line); border-radius: 12px; padding: 10px 14px; background: var(--surface); display: flex; flex-direction: column; gap: 2px; }
+.bopt:hover { border-color: var(--st); background: var(--st-t); } .bopt b { font-family: var(--display); font-size: 15px; } .bopt span { font-size: 13px; color: var(--ink2); }
+.bctl { display: flex; gap: 8px; flex-wrap: wrap; border-top: 1px dashed var(--line); padding-top: 12px; }
+.sumlist { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 5px; counter-reset: d; }
+.sumlist li { counter-increment: d; display: grid; grid-template-columns: 24px 1fr; gap: 8px; font-size: 13.5px; background: var(--surface2); border-radius: 9px; padding: 6px 10px; }
+.sumlist li::before { content: counter(d); width: 21px; height: 21px; border-radius: 50%; background: var(--st); color: var(--on); font-size: 12px; font-weight: 800; display: flex; align-items: center; justify-content: center; }
+.sumlist em { font-style: normal; font-weight: 700; color: var(--st); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; } .chips span { background: var(--st-t); border-radius: 14px; padding: 3px 11px; font-size: 13px; font-weight: 600; }
+.nottaken { display: flex; flex-direction: column; gap: 5px; } .nottaken div { border: 1.5px dashed var(--line); border-radius: 9px; padding: 6px 10px; font-size: 13px; color: var(--ink2); } .nottaken b { color: var(--ink); font-family: var(--display); font-size: 13.5px; }
+.match { border: 2px solid var(--gold); background: var(--ta-t); border-radius: 12px; padding: 10px 14px; font-size: 14px; display: flex; flex-direction: column; gap: 6px; align-items: flex-start; } .match small { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .4px; color: var(--ta); }
+
+/* compare */
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); padding: 18px 20px; }
+.card > h2 { font-size: 22px; font-weight: 800; margin-bottom: 4px; } .card > p.sub { color: var(--ink2); margin-bottom: 14px; max-width: 70ch; }
+.tw { overflow-x: auto; }
+table { border-collapse: separate; border-spacing: 0; width: 100%; min-width: 760px; font-size: 14px; }
+th, td { padding: 10px 14px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); }
+thead th { font-family: var(--display); font-size: 15px; color: var(--on); position: sticky; top: 0; }
+thead th:first-child { background: transparent; }
+thead th.su { background: var(--su); border-radius: 12px 0 0 0; } thead th.ta { background: var(--ta-b); color: #1a1d2b; } thead th.in { background: var(--in); border-radius: 0 12px 0 0; }
+tbody th { font-family: var(--display); font-size: 13px; width: 17%; color: var(--ink2); }
+td.su { background: var(--su-t); } td.ta { background: var(--ta-t); } td.in { background: var(--in-t); }
+.src { font-size: 12.5px; color: var(--ink2); margin-top: 10px; }
+.gl { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 8px 22px; margin-top: 6px; }
+.gl div { border-bottom: 1px solid var(--line); padding: 6px 0; font-size: 13.5px; } .gl dt { font-family: var(--display); font-weight: 700; color: var(--st); font-size: 14px; }
+
+/* quiz */
+.quiz { max-width: 820px; margin: 0 auto; }
+.qtop { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 10px; font-weight: 700; color: var(--ink2); font-size: 14px; }
+.bar { height: 8px; background: var(--surface2); border-radius: 4px; overflow: hidden; margin-bottom: 16px; } .bar i { display: block; height: 100%; background: var(--st); transition: width .25s; }
+.qq { font-family: var(--display); font-size: 20px; font-weight: 700; margin-bottom: 14px; text-wrap: balance; }
+.opts { display: flex; flex-direction: column; gap: 8px; }
+.opt { border: 2px solid var(--line); border-radius: 11px; padding: 10px 14px; display: flex; gap: 12px; align-items: center; background: var(--surface); width: 100%; }
+.opt:hover:not(:disabled) { border-color: var(--st); }
+.opt em { font-style: normal; font-family: var(--display); font-weight: 800; width: 26px; height: 26px; border-radius: 50%; background: var(--surface2); display: flex; align-items: center; justify-content: center; flex: none; font-size: 13px; }
+.opt.right { border-color: var(--ok); background: var(--ok-t); } .opt.right em { background: var(--ok); color: var(--on); }
+.opt.wrong { border-color: var(--bad); background: var(--bad-t); } .opt.wrong em { background: var(--bad); color: var(--on); }
+.fb { margin-top: 14px; border-radius: 11px; padding: 12px 15px; background: var(--surface2); } .fb b { font-family: var(--display); }
+.fb.right b { color: var(--ok); } .fb.wrong b { color: var(--bad); }
+.qact { display: flex; gap: 10px; margin-top: 14px; flex-wrap: wrap; }
+.score { text-align: center; padding: 20px 0; } .score strong { font-family: var(--display); font-size: 54px; color: var(--st); display: block; line-height: 1; }
+.foot { margin-top: 26px; font-size: 12.5px; color: var(--ink2); max-width: 90ch; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+ <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3l7 3v5c0 4.6-3 8.1-7 10-4-1.9-7-5.4-7-10V6z"/><path d="M9 12l2.2 2.2L15.5 10"/></symbol>
+ <symbol id="i-doc" viewBox="0 0 24 24"><path d="M7 3h7l4 4v14H7z"/><path d="M14 3v4h4M9.5 12h6M9.5 16h6"/></symbol>
+ <symbol id="i-key" viewBox="0 0 24 24"><circle cx="8" cy="15.5" r="4"/><path d="M11 12.5L19.5 4M16.5 7l2.5 2.5M14 9.5l2 2"/></symbol>
+ <symbol id="i-court" viewBox="0 0 24 24"><path d="M3 9l9-5 9 5zM5.5 9v8.5M10 9v8.5M14 9v8.5M18.5 9v8.5M3 20h18"/></symbol>
+ <symbol id="i-scales" viewBox="0 0 24 24"><path d="M12 4v16M7.5 20h9M5 7h14M5 7l-3 7a3 3 0 006 0zM19 7l-3 7a3 3 0 006 0z"/></symbol>
+ <symbol id="i-gavel" viewBox="0 0 24 24"><path d="M12.5 4.5l6 6M9.5 7.5l6 6M11 9l-7.5 7.5 2 2L13 11M13 20.5h8"/></symbol>
+ <symbol id="i-jury" viewBox="0 0 24 24"><circle cx="6" cy="8" r="2.2"/><circle cx="12" cy="8" r="2.2"/><circle cx="18" cy="8" r="2.2"/><path d="M2.5 18c0-3 1.5-4.8 3.5-4.8S9.5 15 9.5 18M8.5 18c0-3 1.5-4.8 3.5-4.8s3.5 1.8 3.5 4.8M14.5 18c0-3 1.5-4.8 3.5-4.8s3.5 1.8 3.5 4.8"/></symbol>
+ <symbol id="i-speech" viewBox="0 0 24 24"><path d="M4 5h16v11H10l-5 4v-4H4z"/><path d="M8 9h8M8 12.5h5"/></symbol>
+ <symbol id="i-up" viewBox="0 0 24 24"><path d="M12 20V5M6 11l6-6 6 6M5 21h14"/></symbol>
+ <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 5c3-1 6-1 8 1 2-2 5-2 8-1v13c-3-1-6-1-8 1-2-2-5-2-8-1zM12 6v13"/></symbol>
+ <symbol id="i-person" viewBox="0 0 24 24"><circle cx="12" cy="8" r="3.6"/><path d="M5 20.5c0-4.2 3-7 7-7s7 2.8 7 7"/></symbol>
+ <symbol id="i-talk" viewBox="0 0 24 24"><path d="M4 6h7v8H8l-4 3zM20 10h-6v7h3l3 3z"/></symbol>
+ <symbol id="i-split" viewBox="0 0 24 24"><path d="M12 3v6M12 9l-7 6v5M12 9l7 6v5"/></symbol>
+ <symbol id="i-map" viewBox="0 0 24 24"><path d="M9 4L3 6v14l6-2 6 2 6-2V4l-6 2zM9 4v14M15 6v14"/></symbol>
+ <symbol id="i-route" viewBox="0 0 24 24"><circle cx="6" cy="18" r="2.5"/><circle cx="18" cy="6" r="2.5"/><path d="M8.5 18H15a3 3 0 000-6H9a3 3 0 010-6h6.5"/></symbol>
+ <symbol id="i-table" viewBox="0 0 24 24"><path d="M3 5h18v14H3zM3 10h18M9 5v14M15 5v14"/></symbol>
+ <symbol id="i-check" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M8 12.5l2.8 2.8L16 9.5"/></symbol>
+ <symbol id="i-x" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M9 9l6 6M15 9l-6 6"/></symbol>
+ <symbol id="i-bulb" viewBox="0 0 24 24"><path d="M9 18h6M10 21h4M12 3a6 6 0 00-3.5 10.9c.6.5 1 1.3 1 2.1h5c0-.8.4-1.6 1-2.1A6 6 0 0012 3z"/></symbol>
+ <symbol id="i-list" viewBox="0 0 24 24"><path d="M8 6h12M8 12h12M8 18h12M4 6h.01M4 12h.01M4 18h.01"/></symbol>
+ <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 3l2.7 5.6 6.1.8-4.5 4.2 1.1 6-5.4-3-5.4 3 1.1-6L3.2 9.4l6.1-.8z"/></symbol>
+ <symbol id="i-next" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+ <symbol id="i-prev" viewBox="0 0 24 24"><path d="M19 12H5M11 6l-6 6 6 6"/></symbol>
+</svg>
+
+<header class="mast"><div class="mast-in">
+  <div class="brand"><svg class="ic"><use href="#i-scales"/></svg><div><h1>Going to Court in NSW</h1><p>From arrest to appeal: summary and indictable offences in the criminal courts</p></div></div>
+  <nav class="tabs" role="tablist" aria-label="Sections">
+    <button class="tab" role="tab" data-view="explore"><svg class="ic"><use href="#i-map"/></svg>Flow chart</button>
+    <button class="tab" role="tab" data-view="build"><svg class="ic"><use href="#i-split"/></svg>Build a pathway</button>
+    <button class="tab" role="tab" data-view="compare"><svg class="ic"><use href="#i-table"/></svg>Compare pathways</button>
+    <button class="tab" role="tab" data-view="quiz"><svg class="ic"><use href="#i-check"/></svg>Test yourself</button>
+  </nav>
+</div></header>
+
+<main class="wrap">
+<section class="view" id="v-explore">
+  <div class="modebar">
+    <div class="mrow">
+      <div class="seg" role="group" aria-label="Mode">
+        <button id="m-free" aria-pressed="true"><svg class="ic"><use href="#i-map"/></svg>Explore freely</button>
+        <button id="m-follow" aria-pressed="false"><svg class="ic"><use href="#i-route"/></svg>Follow a case</button>
+      </div>
+      <span class="hint" id="modehint">Click any stage to see what happens, the law, who is involved and how well it works.</span>
+    </div>
+    <div class="mrow" id="caserow" hidden>
+      <div class="cases" id="cases"></div>
+      <div class="custom" id="custom" hidden>
+        <label>Offence type<select id="o-type"><option value="sum">Summary</option><option value="t1">Table 1</option><option value="t2">Table 2</option><option value="ind">Strictly indictable</option></select></label>
+        <label>Election<select id="o-elect"><option value="no">No election</option><option value="yes">Election made</option></select></label>
+        <label>Plea<select id="o-plea"><option value="ng">Not guilty</option><option value="g">Guilty</option></select></label>
+        <label>Verdict<select id="o-verdict"><option value="g">Guilty</option><option value="ng">Not guilty</option><option value="hung">Hung jury</option></select></label>
+        <label>Appeal<select id="o-appeal"><option value="none">No appeal</option><option value="conv">Conviction appeal</option><option value="sev">Severity appeal</option></select></label>
+      </div>
+      <div class="stepper">
+        <button class="btn ghost" id="s-prev"><svg class="ic"><use href="#i-prev"/></svg>Back</button>
+        <button class="btn" id="s-next">Next step<svg class="ic"><use href="#i-next"/></svg></button>
+        <span class="where" id="s-where"></span>
+        <div class="dots" id="s-dots"></div>
+      </div>
+    </div>
+  </div>
+  <div class="explore">
+    <div>
+      <div class="chart" id="chart"></div>
+      <div class="outcome" id="outcome" hidden><svg class="ic"><use href="#i-star"/></svg><div id="outcometext"></div></div>
+      <div class="legend"><span><i style="--c:var(--st)"></i>Every case</span><span><i style="--c:var(--su)"></i>Summary pathway</span><span><i style="--c:var(--ta-b)"></i>Table offences (either way)</span><span><i style="--c:var(--in)"></i>Indictable pathway</span><span><i style="--c:#1b2559"></i>Sentence and appeal</span><span><button class="g" data-term="summary offence">Dotted words</button> show a definition when you hover or tap.</span></div>
+    </div>
+    <aside class="panel" id="panel" aria-live="polite"></aside>
+  </div>
+</section>
+
+<section class="view" id="v-build">
+  <div class="build">
+    <div>
+      <div class="bintro"><h2>Build a pathway, one decision at a time</h2><p>Every criminal case is shaped by decisions made by different people. Take each role in turn. The flow chart grows with every choice you make.</p></div>
+      <div class="bflow" id="bflow"></div>
+    </div>
+    <aside class="bside" id="bside" aria-live="polite"></aside>
+  </div>
+</section>
+
+<section class="view" id="v-compare">
+  <div class="card">
+    <h2>Summary and indictable pathways, side by side</h2>
+    <p class="sub">The type of offence decides the court, who decides guilt, how long the case takes and how heavy the penalty can be.</p>
+    <div class="tw"><table id="cmp"></table></div>
+    <p class="src">Prison figures: NSW Bureau of Crime Statistics and Research, criminal courts statistics 2025, as recorded in the class Evidence Finder.</p>
+  </div>
+  <div class="card" style="margin-top:16px"><h2>Key terms</h2><dl class="gl" id="gl"></dl></div>
+</section>
+
+<section class="view" id="v-quiz"><div class="card quiz" id="quiz"></div></section>
+
+<p class="foot">* Magistrates became Judges of the Local Court on 28 March 2026. The 2009 syllabus and older texts still say magistrate. Sam, Mia, Dev and Alex are invented. The real cases are summarised from the class Evidence Finder records. Law checked 12 November 2026. A simplified study guide for HSC Legal Studies, not legal advice.</p>
+</main>
+<div id="tip" role="tooltip"></div>
+
+<script>
+const ic = n => `<svg class="ic"><use href="#i-${n}"/></svg>`;
+
+/* ---------- glossary ---------- */
+const G = {
+ 'summary offence': 'A less serious offence dealt with only in the Local Court, by a judge sitting without a jury.',
+ 'indictable offence': 'A serious offence that can be tried in the District or Supreme Court before a judge and jury.',
+ 'table offence': 'An indictable offence listed in Table 1 or Table 2 of the Criminal Procedure Act 1986 (NSW). It stays in the Local Court unless an election is made.',
+ 'election': 'A choice to have a Table offence dealt with on indictment in a higher court instead of the Local Court.',
+ 'court attendance notice': 'The document that starts a criminal case. It states the offence and when the person must attend court. Often shortened to CAN.',
+ 'bail': 'Release from custody while a case is waiting to be finalised, usually on conditions.',
+ 'remand': 'Being held in custody while waiting for a hearing, trial or sentence.',
+ 'show cause': 'For certain serious offences, the accused must show why keeping them in custody is not justified before bail can be granted.',
+ 'unacceptable risk': 'The bail test: a risk of not appearing, committing a serious offence, endangering people or interfering with witnesses that conditions cannot reduce enough.',
+ 'brief of evidence': 'The prosecution’s collected evidence, such as witness statements and exhibits, served on the defence.',
+ 'committal': 'The Local Court stage that sends an indictable case to the District or Supreme Court for trial or sentence.',
+ 'charge certificate': 'A document from a senior prosecutor confirming which charges the DPP will proceed with.',
+ 'case conference': 'A required meeting between the prosecution and defence lawyers to find out whether there can be appropriate early guilty pleas.',
+ 'charge negotiation': 'Discussions where the accused agrees to plead guilty, often to fewer or less serious charges. Sometimes called plea bargaining.',
+ 'indictment': 'The formal written charge used in the District or Supreme Court.',
+ 'arraignment': 'When the indictment is read in the higher court and the accused enters a plea.',
+ 'voir dire': 'A hearing without the jury where the judge decides whether evidence can be used. A trial within a trial.',
+ 'empanelling': 'Selecting and swearing in the jurors.',
+ 'adversarial system': 'A contest between two sides, prosecution and defence, before an impartial judge who acts as umpire.',
+ 'burden of proof': 'The duty to prove the case. In a criminal case it lies on the prosecution.',
+ 'standard of proof': 'How strongly the case must be proved. In a criminal case: beyond reasonable doubt.',
+ 'acquittal': 'A finding of not guilty. The accused generally cannot be tried again for the same offence.',
+ 'hung jury': 'A jury that cannot reach a unanimous or majority verdict. It is discharged and a retrial may follow.',
+ 'majority verdict': 'A verdict of 11 jurors out of 12, allowed in NSW after at least 8 hours of deliberation.',
+ 'double jeopardy': 'The rule that a person acquitted of an offence cannot be tried for it again. NSW allows narrow exceptions.',
+ 'victim impact statement': 'A statement to the sentencing court about the harm the crime caused the victim or their family.',
+ 'mitigating factor': 'Something that reduces the seriousness of the offence or the offender’s blame, such as a guilty plea or remorse.',
+ 'aggravating factor': 'Something that makes the offence more serious, such as using a weapon or a vulnerable victim.',
+ 'non-parole period': 'The minimum time an offender must spend in prison before being eligible for release on parole.',
+ 'conviction appeal': 'An appeal arguing that the finding of guilt was wrong.',
+ 'severity appeal': 'An appeal arguing that the sentence was too harsh.',
+ 'leave': 'A court’s permission, for example to bring an appeal.',
+ 'special leave': 'Permission from the High Court to appeal to it, given only for important questions of law.',
+ 'DPP': 'The Director of Public Prosecutions: the independent office that prosecutes serious offences on behalf of the State.',
+ 'Crown prosecutor': 'A barrister who presents the prosecution case in indictable trials.',
+ 'duty solicitor': 'A Legal Aid lawyer at court who gives free advice and help on the day.',
+};
+const gl = s => s.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (m, k, t) => `<button class="g" data-term="${k}">${t || k}</button>`);
+
+/* ---------- stages ---------- */
+const N = {
+ n1: { cls:'st', badge:'1', icon:'shield', title:'Investigation and arrest', tag:'', blurb:'Police gather evidence and can arrest, detain and question a suspect.',
+  lead:'A criminal case begins when police investigate a suspected offence. Police powers are set out in legislation so they can be checked.',
+  what:['Police gather evidence: witness statements, CCTV, forensic samples, phone records and searches (a warrant is usually needed to search premises).',
+   'Police can arrest without a warrant if they suspect on reasonable grounds that the person has committed an offence and the arrest is reasonably necessary, for example to stop the offence or make sure the person comes to court.',
+   'After arrest police can detain a suspect to investigate for up to 6 hours. A detention warrant can extend this by up to 6 more hours.',
+   'The suspect must be cautioned and told their rights: to stay silent, to contact a lawyer and a friend or relative, and to have an interpreter.',
+   'Evidence obtained improperly can be excluded by the court later.'],
+  law:[['Law Enforcement (Powers and Responsibilities) Act 2002 (NSW)','s 99 arrest without warrant · Pt 9 (ss 115, 118) detention and questioning · Pt 5 search warrants'],['Evidence Act 1995 (NSW)','s 138 improperly obtained evidence may be excluded']],
+  who:['Police officers','Custody manager','Suspect','Lawyer or support person'],
+  pro:['Powers are written down in one Act, with time limits and a custody manager to protect the suspect’s rights.','Courts can exclude improperly obtained evidence, which holds police to account.'],
+  con:['Police have wide discretion. Whether someone is arrested or warned can vary between officers and places.','Young, intoxicated or vulnerable suspects may not understand or use their rights.'],
+  q:'Assess the extent to which police powers balance the rights of suspects with the needs of society.' },
+ n2: { cls:'st', badge:'2', icon:'doc', title:'Charge', tag:'', blurb:'Police decide whether to charge and issue a court attendance notice.',
+  lead:'Not every offence ends up in court. Police choose how to respond, and for serious matters the [[DPP]] takes over the prosecution.',
+  what:['Police options: no further action, a warning or caution, a penalty notice (an on-the-spot fine), or a charge.',
+   'A charge is made by a [[court attendance notice]] that states the offence and the first court date.',
+   'A [[summary offence]] must usually be charged within 6 months of the offence. An [[indictable offence]] has no time limit.',
+   'Police prosecutors run most Local Court cases. The DPP prosecutes indictable matters and must be satisfied there is enough evidence and that prosecution is in the public interest.'],
+  law:[['Criminal Procedure Act 1986 (NSW)','s 179 six-month limit for summary offences'],['Director of Public Prosecutions Act 1986 (NSW)','sets up the independent DPP'],['Young Offenders Act 1997 (NSW)','warnings, cautions and conferences for under 18s']],
+  who:['Police','Police prosecutor','DPP','Accused'],
+  pro:['Warnings, cautions and penalty notices divert minor matters, which saves court time and avoids a criminal record.','An independent DPP keeps the decision to prosecute serious crime away from politics.'],
+  con:['Discretion can be applied unevenly. Research on drug diversion has described a “postcode lottery”.','A penalty notice is never tested in court unless the person chooses to contest it.'],
+  q:'Evaluate the role of discretion in the decision to charge a person with an offence.' },
+ n3: { cls:'st', badge:'3', icon:'key', title:'Bail or remand', tag:'', blurb:'Is the accused released until the case is heard, or held in custody?',
+  lead:'[[bail|Bail]] decides where the accused waits for their case. It has to balance the presumption of innocence against the safety of the community.',
+  what:['Police make the first bail decision. If police refuse bail, the person must be brought before a court as soon as practicable.',
+   '[[show cause|Show cause]] offences, such as offences punishable by life imprisonment, reverse the starting point: the accused must show why detention is not justified.',
+   'The court then applies the [[unacceptable risk]] test: will the accused fail to appear, commit a serious offence, endanger people, or interfere with witnesses or evidence?',
+   'Bail can be granted with conditions, such as reporting to police, a curfew or surrendering a passport. If bail is refused the accused is held on [[remand]].',
+   'In court, bail decisions are made by judges. Recent changes have tightened bail for serious domestic violence offences and for some repeat young offenders.'],
+  law:[['Bail Act 2013 (NSW)','ss 16A–16B show cause · ss 17–20 unacceptable risk test · s 22C young people and repeat serious offences']],
+  who:['Police','Local Court judge','Accused','Prosecutor','Defence lawyer'],
+  pro:['Protects victims, witnesses and the community from an accused who poses a real risk.','Conditions let a court manage risk without taking away liberty altogether.'],
+  con:['People on remand have not been convicted, so custody cuts against the presumption of innocence.','Tighter bail laws fall hardest on young people and Aboriginal and Torres Strait Islander people, and add to pressure on prisons.'],
+  q:'Assess the effectiveness of bail laws in balancing the rights of the accused and the protection of society.' },
+ n4: { cls:'st', badge:'4', icon:'court', title:'First mention', tag:'Local Court', blurb:'Every criminal case starts in the Local Court.',
+  lead:'All adult criminal cases, from offensive language to murder, are first listed in the Local Court. This first appearance is called a mention.',
+  what:['The charge is put to the accused. They can ask for an adjournment to get legal advice.',
+   'An accused without a lawyer can see the Legal Aid [[duty solicitor]]. Ongoing Legal Aid depends on a means test and a merit test.',
+   'What happens next depends on the type of offence: a plea for summary matters, or the [[committal]] process for indictable matters.',
+   'People under 18 go to the Children’s Court instead, which is closed to the public.'],
+  law:[['Local Court Act 2007 (NSW)','sets up the court and its judges'],['Criminal Procedure Act 1986 (NSW)','procedure for summary and indictable cases'],['Children (Criminal Proceedings) Act 1987 (NSW)','separate rules for under 18s']],
+  who:['Local Court judge*','Police prosecutor','Duty solicitor or defence lawyer','Accused'],
+  pro:['One entry point for every case is simple and resource efficient. The Local Court finalises the great majority of criminal matters.','Duty solicitors give free help on the day, which improves access to justice.'],
+  con:['Lists are crowded, so each matter may get only a few minutes.','Legal Aid tests leave some people too well off for aid but unable to afford a lawyer.'],
+  q:'To what extent does the court system provide access to justice for people charged with an offence?' },
+ tsum: { cls:'su', badge:'', icon:'doc', title:'Summary offence', tag:'Less serious', blurb:'Finished in the Local Court by a judge alone. No jury.',
+  lead:'A [[summary offence]] is a less serious offence, generally one with a maximum penalty of no more than 2 years’ imprisonment.',
+  what:['Heard and finalised in the Local Court by one judge, who decides guilt and the sentence.','Examples: offensive language or conduct, minor traffic offences, low-range drink driving.','Faster, cheaper and less formal than a trial on indictment.'],
+  law:[['Summary Offences Act 1988 (NSW)','many public order offences'],['Criminal Procedure Act 1986 (NSW)','Ch 4 summary procedure']],
+  who:['Local Court judge','Police prosecutor','Defendant'],
+  pro:['Cases finish quickly and cheaply, which suits minor offending.'],con:['No jury, so guilt is decided by one person.'],
+  q:'Why does the law treat summary and indictable offences differently?' },
+ ttab: { cls:'ta', badge:'', icon:'split', title:'Table offence', tag:'Either way', blurb:'Indictable, but stays in the Local Court unless someone elects a higher court.',
+  lead:'A [[table offence]] is an indictable offence that Parliament allows to be dealt with summarily, because many examples of it are not serious enough to need a jury.',
+  what:['<b>Table 1</b> (more serious, for example larceny of more than $5,000): the prosecution or the accused can make an [[election]].','<b>Table 2</b> (less serious, for example common assault or larceny up to $5,000): only the prosecution can elect.','No election: the case follows the summary pathway, and the Local Court’s sentencing limit applies.','Election made: the case follows the indictable pathway to the District Court.'],
+  law:[['Criminal Procedure Act 1986 (NSW)','s 260 elections · Sch 1 Tables 1 and 2 · ss 267–268 Local Court maximum penalties']],
+  who:['Prosecutor (police or DPP)','Accused (Table 1 only)','Local Court judge'],
+  pro:['Keeps most mid-range cases in the cheaper, faster Local Court.','The accused in a Table 1 matter can still choose a jury trial.'],
+  con:['For Table 2 offences only the prosecution chooses the court.','The same offence can attract a very different maximum penalty depending on where it is heard.'],
+  q:'How does the system of Table offences promote resource efficiency?' },
+ tind: { cls:'in', badge:'', icon:'scales', title:'Strictly indictable offence', tag:'Most serious', blurb:'Must be finalised in the District or Supreme Court.',
+  lead:'The most serious offences can only be dealt with on [[indictment]] in a higher court, usually before a judge and a jury of 12.',
+  what:['Examples: murder, manslaughter, sexual assault, armed robbery, serious drug supply.','The District Court hears most indictable trials. The Supreme Court hears murder, manslaughter and the most serious cases.','The case still starts in the Local Court, for the [[committal]] process.'],
+  law:[['Crimes Act 1900 (NSW)','creates most serious offences'],['Criminal Procedure Act 1986 (NSW)','Ch 3 indictable procedure']],
+  who:['Judge','Jury','Crown prosecutor','Defence barrister','Accused'],
+  pro:['A jury brings community standards into the most serious decisions.'],con:['Trials are slow and expensive for the State, the accused and victims.'],
+  q:'Why are the most serious offences tried by a jury?' },
+ s5: { cls:'su', badge:'5', icon:'speech', title:'Plea', tag:'Local Court', blurb:'The defendant pleads guilty or not guilty to each charge.',
+  lead:'In a summary case the defendant answers the charge in the Local Court. Most defendants plead guilty.',
+  what:['<b>Guilty:</b> the police facts sheet is handed to the judge and the case goes straight to sentencing, often on the same day.','<b>Not guilty:</b> police serve a [[brief of evidence]] and the court sets a date for a defended hearing.','A guilty plea is a [[mitigating factor]]. Pleading early can reduce the sentence by up to 25%.','The defendant should plead only after seeing the evidence and getting legal advice.'],
+  law:[['Criminal Procedure Act 1986 (NSW)','Ch 4 summary procedure'],['Crimes (Sentencing Procedure) Act 1999 (NSW)','s 22 guilty plea to be taken into account']],
+  who:['Local Court judge','Police prosecutor','Defendant','Defence lawyer'],
+  pro:['Early guilty pleas save court time and spare witnesses from giving evidence.','The discount rewards people who accept responsibility.'],
+  con:['An unrepresented defendant may plead guilty just to get it over with, without understanding a possible defence.','A conviction can affect work and travel long after a small fine is paid.'],
+  q:'Discuss the role of guilty pleas in achieving justice in the Local Court.' },
+ s6: { cls:'su', badge:'6', icon:'scales', title:'Summary hearing', tag:'No jury', minis:['Prosecution case','Defence case','Closing submissions'], blurb:'One judge hears the evidence and decides both the facts and the law.',
+  lead:'A defended hearing is a small-scale trial in the [[adversarial system]], without a jury.',
+  steps:['<b>Prosecution case.</b> The police prosecutor calls witnesses, who are examined and then cross-examined by the defence.','<b>Defence case.</b> The defendant may give evidence and call witnesses, or stay silent.','<b>Closing submissions.</b> Each side sums up its argument.','<b>Decision.</b> The Local Court judge decides whether the charge is proved and gives reasons.'],
+  what:['The [[burden of proof]] is on the prosecution and the [[standard of proof]] is beyond reasonable doubt.','The rules of evidence apply, as in a higher court.','Hearings usually last hours, not weeks.'],
+  law:[['Criminal Procedure Act 1986 (NSW)','Ch 4'],['Evidence Act 1995 (NSW)','rules of evidence']],
+  who:['Local Court judge','Police prosecutor','Defendant','Defence lawyer','Witnesses'],
+  pro:['Quick and inexpensive, so justice is not delayed for minor matters.','A legally trained judge gives reasons, which makes the decision open to review.'],
+  con:['No jury means no community voice in the verdict.','Police prosecutors and busy lists can leave unrepresented defendants at a disadvantage.'],
+  q:'Compare the effectiveness of a summary hearing and a jury trial in achieving justice.' },
+ s7: { cls:'su', badge:'7', icon:'gavel', title:'Verdict', tag:'By the judge', blurb:'Guilty: go to sentencing. Not guilty: the charge is dismissed.',
+  lead:'The Local Court judge announces the decision and the reasons for it.',
+  what:['<b>Guilty:</b> the offence is proved and the judge moves to sentencing, often straight away.','<b>Not guilty:</b> the charge is dismissed, an [[acquittal]], and the defendant is free to go.','Either result can be appealed to the District Court within set time limits.'],
+  law:[['Criminal Procedure Act 1986 (NSW)','Ch 4'],['Crimes (Appeal and Review) Act 2001 (NSW)','appeals from the Local Court']],
+  who:['Local Court judge','Defendant','Police prosecutor'],
+  pro:['Reasons are given in open court, which supports accountability.'],con:['One decision-maker: there is no panel of 12 to test different views of the evidence.'],
+  q:'How does the requirement to give reasons protect the rights of the accused?' },
+ i5: { cls:'in', badge:'5', icon:'talk', title:'Committal proceedings', tag:'Local Court', minis:['Brief of evidence','Charge certification','Case conference','Plea and committal'], blurb:'The Local Court stage that sends a serious case to a higher court.',
+  lead:'[[committal|Committal]] manages an indictable case before it reaches the District or Supreme Court. Since 2018 its main purpose is to encourage appropriate early guilty pleas.',
+  steps:['<b>Brief of evidence.</b> Police and the [[DPP]] serve the [[brief of evidence]] on the defence.','<b>Charge certification.</b> A senior prosecutor files a [[charge certificate]] confirming the charges that will proceed.','<b>Case conference.</b> Crown and defence lawyers meet in a [[case conference]] to discuss pleas and narrow the issues. This is where [[charge negotiation]] usually happens.','<b>Plea and committal.</b> The accused pleads. The Local Court judge commits the case for sentence (guilty plea) or for trial (not guilty plea).'],
+  what:['The Local Court no longer tests whether the evidence is strong enough to go to trial.','Sentence discounts for a guilty plea are fixed by law: 25% in the Local Court, 10% up to 14 days before the trial, and 5% after that.'],
+  law:[['Criminal Procedure Act 1986 (NSW)','Ch 3 Pt 2 committal proceedings'],['Crimes (Sentencing Procedure) Act 1999 (NSW)','s 25D fixed plea discounts'],['Justice Legislation Amendment (Committals and Guilty Pleas) Act 2017 (NSW)','introduced the scheme']],
+  who:['Local Court judge','DPP solicitor and Crown prosecutor','Defence lawyer','Accused'],
+  pro:['Early pleas save trial time and cost, and spare victims and witnesses from giving evidence.','Fixed discounts give the accused certainty about the benefit of pleading early.'],
+  con:['Pressure to plead early may lead some accused to plead guilty when they have a defence.','Negotiated charges may not reflect the full criminality, which can leave victims feeling justice was not done.'],
+  q:'Evaluate the effectiveness of charge negotiation and early guilty pleas in achieving justice.' },
+ i6: { cls:'in', badge:'6', icon:'doc', title:'Arraignment and pre-trial', tag:'District or Supreme Court', blurb:'The indictment is presented and the accused pleads to each count.',
+  lead:'The case is now in a higher court. At the [[arraignment]] the [[indictment]] is read and the accused formally pleads.',
+  what:['If the accused pleads not guilty, the court sets a trial date and manages pre-trial issues.','Both sides have disclosure duties, so the trial is not run by ambush.','A [[voir dire]] decides disputes about whether evidence is admissible, without the jury present.','The trial is by jury unless the court orders a judge-alone trial.','An accused facing a serious charge who cannot get a lawyer may have the trial delayed until they can be represented.'],
+  law:[['Criminal Procedure Act 1986 (NSW)','Ch 3 Pt 3 trial procedure · s 132 judge-alone trials'],['Dietrich v The Queen (1992) 177 CLR 292','a fair trial may require legal representation']],
+  who:['Judge','Crown prosecutor','Defence barrister and solicitor','Accused'],
+  pro:['Pre-trial rulings keep unfair or unreliable evidence away from the jury.','Judge-alone trials are available where publicity or complexity makes a jury unsuitable.'],
+  con:['Delay between committal and trial can be long, which is hard on victims and on an accused held on remand.','Legal representation at this level is costly and Legal Aid is limited.'],
+  q:'Assess how effectively the pre-trial process protects the right to a fair trial.' },
+ i7: { cls:'in', badge:'7', icon:'jury', title:'Trial by jury', tag:'Adversarial', minis:['Jury empanelled','Openings','Crown case','Defence case','Closings','Summing-up','Deliberation'], blurb:'Twelve jurors hear the evidence. The judge decides the law, the jury decides the facts.',
+  lead:'The trial is a contest between the Crown and the defence in the [[adversarial system]], with the judge as umpire.',
+  steps:['<b>Jury empanelled.</b> Twelve jurors are chosen at random and sworn in ([[empanelling]]). Each side can challenge a small number.','<b>Opening addresses.</b> The [[Crown prosecutor]] outlines the case. The defence may reply.','<b>Crown case.</b> Prosecution witnesses give evidence: examination-in-chief, cross-examination, re-examination.','<b>Defence case.</b> The accused may give or call evidence, but does not have to. Silence cannot be used as proof of guilt.','<b>Closing addresses.</b> Each side sums up for the jury.','<b>Summing-up.</b> The judge explains the law and the [[standard of proof]].','<b>Deliberation.</b> The jury retires to decide in private.'],
+  what:['The [[burden of proof]] stays on the Crown throughout.','The judge rules on the law and on what evidence the jury may hear.'],
+  law:[['Jury Act 1977 (NSW)','selection and role of jurors'],['Evidence Act 1995 (NSW)','rules of evidence'],['Criminal Procedure Act 1986 (NSW)','Ch 3 Pt 3']],
+  who:['Judge','Jury of 12','Crown prosecutor','Defence barrister','Accused','Witnesses'],
+  pro:['Ordinary citizens decide guilt, which reflects community standards and builds public confidence.','Open court and strict evidence rules protect the accused.'],
+  con:['Trials are long and costly, and the outcome can depend on the quality of each side’s lawyers.','Jurors may struggle with complex evidence or be influenced by media coverage, and they give no reasons.'],
+  q:'Evaluate the effectiveness of the jury system in achieving justice in the criminal trial process.' },
+ i8: { cls:'in', badge:'8', icon:'gavel', title:'Verdict', tag:'By the jury', blurb:'Guilty, not guilty, or a hung jury.',
+  lead:'The jury foreperson announces the verdict on each count.',
+  what:['<b>Guilty:</b> the case moves to sentencing by the judge.','<b>Not guilty:</b> an [[acquittal]]. The accused is released and, because of [[double jeopardy]], generally cannot be tried again.','<b>[[hung jury|Hung jury]]:</b> the jury is discharged and the DPP decides whether to run a retrial.','A verdict must be unanimous. After at least 8 hours of deliberation the court can accept a [[majority verdict]] of 11 to 1.'],
+  law:[['Jury Act 1977 (NSW)','s 55F majority verdicts'],['Crimes (Appeal and Review) Act 2001 (NSW)','Pt 8 limited exceptions to double jeopardy']],
+  who:['Jury','Judge','Accused'],
+  pro:['Majority verdicts reduce hung juries and costly retrials.','Finality: an acquittal ends the matter for the accused.'],
+  con:['Majority verdicts weaken the idea that guilt must be beyond any juror’s reasonable doubt.','Juries give no reasons, which makes errors harder to detect.'],
+  q:'Discuss whether majority verdicts balance the rights of the accused with the interests of society.' },
+ sent: { cls:'en', badge:'', icon:'gavel', title:'Sentencing', tag:'Judge alone', blurb:'The judge decides the penalty. A jury never sentences.',
+  lead:'After a guilty plea or verdict, the judge holds a sentencing hearing and chooses a penalty that fits the offence and the offender.',
+  what:['The court receives the agreed facts, criminal record, reports and any [[victim impact statement]], then hears submissions from both sides.','The judge weighs the purposes of sentencing (such as punishment, deterrence, community protection and rehabilitation) with each [[aggravating factor]] and [[mitigating factor]].','Penalties range from no conviction recorded, fines and conditional release orders, through community correction orders and intensive correction orders, to imprisonment with a [[non-parole period]]. Prison is the last resort.','<b>Local Court:</b> up to 2 years’ imprisonment for one offence and 5 years in total. <b>District or Supreme Court:</b> up to the maximum set by Parliament, including life.'],
+  law:[['Crimes (Sentencing Procedure) Act 1999 (NSW)','s 3A purposes · s 5 prison as last resort · ss 7–10 penalties · s 21A aggravating and mitigating factors · s 22 guilty pleas · ss 26–30A victim impact statements'],['Bugmy v The Queen [2013] HCA 37','social disadvantage remains relevant to sentence']],
+  who:['Judge','Prosecutor','Defence lawyer','Offender','Victim'],
+  pro:['Judicial discretion lets the sentence fit the individual case.','Victim impact statements give victims a voice in the process.'],
+  con:['Discretion can lead to inconsistent sentences for similar offences.','Mandatory and standard minimum terms limit a judge’s ability to do individual justice.'],
+  q:'Evaluate the effectiveness of sentencing in balancing the rights of victims, offenders and society.' },
+ app: { cls:'en', badge:'', icon:'up', title:'Appeals', tag:'Higher court', blurb:'A higher court can check the conviction or the sentence.',
+  lead:'An appeal asks a higher court to correct a mistake. It is a safeguard, not a second chance to run the same case.',
+  what:['A [[conviction appeal]] argues the guilty finding was wrong. A [[severity appeal]] argues the sentence was too harsh. The prosecution can appeal a sentence it says is too lenient.',
+   '<b>From the Local Court to the District Court:</b> lodge within 28 days, or up to 3 months with [[leave]]. One judge rehears the matter. There is no further appeal to the Court of Criminal Appeal.',
+   '<b>From the District or Supreme Court to the NSW Court of Criminal Appeal:</b> file a notice of intention to appeal within 28 days. Usually three judges look for a legal error or an unreasonable verdict. Leave is needed for most grounds.',
+   '<b>To the High Court of Australia:</b> only with [[special leave]], for questions of law of public importance. Its decision is final.',
+   'Results: appeal dismissed, conviction quashed (with an acquittal or a retrial), or sentence changed.'],
+  law:[['Crimes (Appeal and Review) Act 2001 (NSW)','appeals from the Local Court'],['Criminal Appeal Act 1912 (NSW)','appeals to the Court of Criminal Appeal · s 5D Crown appeals'],['Judiciary Act 1903 (Cth)','s 35A special leave']],
+  who:['Appellant','Respondent','District Court judge','Court of Criminal Appeal judges','High Court justices'],
+  pro:['Corrects errors and keeps the law consistent across courts.','Crown appeals let society challenge sentences that are clearly too lenient.'],
+  con:['Appeals are costly and slow, and leave requirements limit access.','Victims and families have to live through the case again, sometimes years later.'],
+  q:'Assess the role of appeals in achieving justice for individuals and society.' },
+};
+const ORDER = ['n1','n2','n3','n4','tsum','ttab','tind','s5','s6','s7','i5','i6','i7','i8','sent','app'];
+
+/* ---------- example cases ---------- */
+const CASES = [
+ { id:'sam', cls:'c-su', kind:'Summary · not guilty plea', name:'Sam, 22', line:'Offensive conduct outside a pub',
+   o:{type:'sum', elect:'no', plea:'ng', verdict:'g', appeal:'sev'},
+   out:'Sam is convicted and fined. The District Court later reduces the fine on a severity appeal.',
+   t:{ n1:'Police are called to a pub at closing time. Sam is shouting abuse in the street. Police arrest him after he ignores a direction to move on, and take him to the station.',
+       n2:'Police charge Sam with offensive conduct under the Summary Offences Act 1988 (NSW) and give him a court attendance notice. The charge is laid well within 6 months.',
+       n3:'Police grant bail at the station. The offence is minor and Sam has a fixed address, so there is no unacceptable risk.',
+       n4:'Sam attends the Local Court three weeks later and speaks to the Legal Aid duty solicitor.',
+       tsum:'Offensive conduct is a summary offence. It will be finished in the Local Court.',
+       s5:'Sam pleads not guilty. He says he was loud but not offensive. The judge sets a hearing date and police serve their brief.',
+       s6:'Two police officers give evidence and are cross-examined. Sam gives evidence too. The hearing takes about two hours.',
+       s7:'The Local Court judge finds the charge proved beyond reasonable doubt and gives reasons.',
+       sent:'Sam is convicted and fined $500. A conviction is recorded.',
+       app:'Sam lodges a severity appeal within 28 days. A District Court judge reduces the fine and the appeal ends there.' } },
+ { id:'mia', cls:'c-ta', kind:'Table 2 · no election · guilty plea', name:'Mia, 18', line:'Shoplifting $180 headphones',
+   o:{type:'t2', elect:'no', plea:'g', verdict:'g', appeal:'none'},
+   out:'Mia is sentenced in the Local Court to a conditional release order with no conviction recorded.',
+   t:{ n1:'Store security stop Mia at the exit with headphones worth $180 in her bag and call police. CCTV shows her taking them.',
+       n2:'Police charge Mia with larceny and issue a court attendance notice. A caution was considered, but she is an adult and the store wants the matter pursued.',
+       n3:'Mia is not held. She is given a court date and goes home.',
+       n4:'At the Local Court Mia sees the duty solicitor, who explains the charge and the evidence.',
+       ttab:'Larceny of property worth $5,000 or less is a Table 2 offence. The prosecution does not elect, so the case stays in the Local Court.',
+       s5:'Mia pleads guilty at the first opportunity. The police facts sheet is handed to the judge.',
+       sent:'The judge takes into account the early plea, her age and her clean record. Mia receives a 12-month conditional release order with no conviction recorded.' } },
+ { id:'dev', cls:'c-ta', kind:'Table 1 · election · guilty plea', name:'Dev, 27', line:'Stole $60,000 from an employer',
+   o:{type:'t1', elect:'yes', plea:'g', verdict:'g', appeal:'none'},
+   out:'Dev is committed for sentence and receives the 25% plea discount in the District Court.',
+   t:{ n1:'An audit finds $60,000 missing from a business. Detectives gather bank records and interview Dev, the bookkeeper, who is cautioned first.',
+       n2:'Dev is charged with larceny as a clerk. The file is referred to the DPP.',
+       n3:'Dev is granted conditional bail: he must report to police weekly and surrender his passport.',
+       n4:'The case is first mentioned in the Local Court and adjourned for the brief of evidence.',
+       ttab:'Larceny of more than $5,000 is a Table 1 offence. Because of the amount and the breach of trust, the DPP elects to proceed on indictment.',
+       i5:'The brief is served and the charge is certified. At the case conference Dev’s lawyer and the Crown agree on the facts. Dev pleads guilty in the Local Court and is committed for sentence.',
+       sent:'A District Court judge sentences Dev. The plea in the Local Court earns the full 25% discount. He receives an intensive correction order and must repay the money.' } },
+ { id:'alex', cls:'c-in', kind:'Strictly indictable · jury trial', name:'Alex, 31', line:'Charged with murder',
+   o:{type:'ind', elect:'no', plea:'ng', verdict:'g', appeal:'conv'},
+   out:'Alex is convicted by a jury and sentenced in the Supreme Court. The Court of Criminal Appeal dismisses a conviction appeal.',
+   t:{ n1:'Homicide detectives investigate a fatal stabbing. They collect CCTV, forensic evidence and witness statements, then arrest Alex. He is cautioned and declines to be interviewed.',
+       n2:'Alex is charged with murder. The DPP will prosecute.',
+       n3:'Murder is a show cause offence. Alex cannot show why his detention is not justified, so bail is refused and he is held on remand.',
+       n4:'Alex appears in the Local Court by video link from custody. The matter is adjourned for the brief.',
+       tind:'Murder is strictly indictable. It can only be finalised in the Supreme Court.',
+       i5:'The brief is served and the murder charge is certified. At the case conference no plea is agreed. Alex pleads not guilty and is committed for trial.',
+       i6:'In the Supreme Court the indictment is read and Alex pleads not guilty. A voir dire decides that a statement he made to a friend can be used. A trial date is set.',
+       i7:'A jury of 12 is empanelled. The Crown calls 20 witnesses over three weeks. Alex gives evidence that he acted in self-defence.',
+       i8:'After two days of deliberation the jury returns a unanimous verdict of guilty.',
+       sent:'The judge hears victim impact statements from the family and sentences Alex to a long term of imprisonment with a non-parole period.',
+       app:'Alex files a notice of intention to appeal within 28 days, arguing the judge misdirected the jury. Three judges of the Court of Criminal Appeal dismiss the appeal.' } },
+];
+
+
+const REAL = [
+ { id:'dawson', real:1, cls:'c-in', kind:'Judge-alone trial · guilty · appeal dismissed', name:'R v Dawson', cite:'R v Dawson [2022] NSWSC 1131', line:'Murder conviction 40 years after Lynette Dawson disappeared',
+   path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8','sent','app'], lane:'in', sub:'cca', skip:'', end:'' },
+   out:'Guilty of murder after a judge-alone trial. Sentenced to 24 years with a non-parole period of 18 years. The Court of Criminal Appeal dismissed his conviction appeal in 2024.',
+   t:{ n1:'Lynette Dawson was last heard from on 8 January 1982. Two inquests, in 2001 and 2003, pointed at her husband Christopher, but no charge followed. The case was reopened and drew national attention through The Teacher’s Pet podcast in 2018.',
+       n2:'Dawson was charged with murder in December 2018, almost 37 years after his wife disappeared. Murder has no time limit for prosecution.',
+       tind:'Murder is strictly indictable, so the case had to be finalised in the Supreme Court.',
+       i6:'In 2020 the court refused to stop the prosecution permanently because of delay and publicity. Instead the trial was ordered to be heard by a judge alone, because the podcast publicity threatened a fair jury trial.',
+       i7:'Harrison J sat without a jury. There was no body, no cause of death and no witness, so the case was wholly circumstantial: guilt had to be the only rational inference. A judge sitting alone must give reasons and take into account every warning a jury would receive.',
+       i8:'On 30 August 2022 Harrison J found Dawson guilty of murder, saying the evidence left him in no doubt.',
+       sent:'On 2 December 2022 Dawson was sentenced to 24 years’ imprisonment with a non-parole period of 18 years.',
+       app:'Dawson appealed against his conviction. The Court of Criminal Appeal dismissed the appeal: Dawson v R [2024] NSWCCA 98.' } },
+ { id:'kl', real:1, cls:'c-in', kind:'Hung jury · judge-alone retrial · manslaughter', name:'R v KL', cite:'R v KL [2025] NSWSC 1414', line:'A 14-year-old tried for murder in the Supreme Court',
+   path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8'], lane:'in', sub:'', skip:'', end:'' },
+   out:'Not guilty of murder, guilty of manslaughter, after a hung jury and a judge-alone retrial. The sentence was to follow in a separate judgment that is not in the Evidence Finder record.',
+   t:{ n1:'On 11 April 2022, in a confrontation lasting about ten seconds at the Royal Easter Show, KL, aged 14, stabbed a 17-year-old once. The older boy died. Police gathered intercepted calls, phone notes and videos over the following months.',
+       n2:'KL was arrested on 15 July 2022 and charged with murder. He is known only by initials because he was a child.',
+       n3:'KL has been held in juvenile detention since July 2022.',
+       tind:'Murder is strictly indictable. Although KL was 14, the charge was serious enough to be tried in the Supreme Court.',
+       i6:'KL offered to plead guilty to manslaughter. The Crown refused the plea and insisted on trying the murder charge.',
+       i7:'A jury trial ran from 28 April to 22 May 2025. After about two weeks of deliberation the jury could not agree and was discharged: a hung jury. On 4 November 2025 the court granted KL’s application for the retrial to be heard by a judge alone, and Garling J heard it over three days.',
+       i8:'On 27 November 2025 Garling J found KL not guilty of murder but guilty of manslaughter, on three separate grounds: intention was not proved, excessive self-defence was not excluded, and post-traumatic stress disorder substantially impaired his self-control.' } },
+ { id:'billings', real:1, cls:'c-in', kind:'Bail · guilty plea · appeal lodged', name:'R v Billings', cite:'R v Billings [2026] NSWSC 1088', line:'The murder of Molly Ticehurst while the offender was on bail',
+   path:{ p:['n1','n2','n3','n4','tind','i5','sent','app'], lane:'in', sub:'cca', skip:'in', end:'' },
+   out:'Sentenced to 28 years with a non-parole period of 20 years after a guilty plea. The DPP did not appeal. Billings lodged a notice of intention to appeal on 9 October 2026, and the appeal had not been decided when this page was written.',
+   t:{ n1:'On 5 April 2024 Molly Ticehurst, 28, reported her former partner Daniel Billings at Forbes Police Station. On 21 April 2024 he broke into her home and killed her.',
+       n2:'After her report Billings was charged with offences against her and a provisional apprehended violence order was made. Those earlier charges were never decided by a court. He was later charged with her murder.',
+       n3:'The morning after the first charges, Dubbo Local Court granted Billings conditional bail. He murdered Molly Ticehurst sixteen days after she reported him, while on bail and subject to the order. The case led to the 2024 domestic violence bail reforms.',
+       tind:'Murder is strictly indictable, so the case had to be finalised in the Supreme Court.',
+       i5:'Billings pleaded guilty to murder in the Local Court and did not rely on the partial defence of substantial impairment. He was committed for sentence to the Supreme Court, so there was no trial.',
+       sent:'On 11 September 2026 N Adams CJ at CL sentenced Billings to 28 years’ imprisonment with a non-parole period of 20 years. The usual 25% discount for an early plea was cut to 20% because of his extreme culpability. Being on bail was an aggravating factor. Five family victim impact statements were received.',
+       app:'The DPP decided not to appeal. Billings lodged a notice of intention to appeal on 9 October 2026. Molly Ticehurst’s father learned of it from the media. The appeal has not yet been decided.' } },
+ { id:'white', real:1, cls:'c-in', kind:'Jury trial · community order · Crown appeal', name:'R v White', cite:'R v White [2025] NSWSC 243', line:'A police officer convicted over the death of Clare Nowland, 95',
+   path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8','sent','app'], lane:'in', sub:'cca', skip:'', end:'' },
+   out:'Guilty of manslaughter by a jury. Sentenced to a two-year community correction order. The Court of Criminal Appeal dismissed the DPP’s appeal that the sentence was too lenient.',
+   t:{ n1:'Before dawn on 17 May 2023, Senior Constable Kristian White fired his taser at Clare Nowland, a 95-year-old with dementia who was holding a knife and using a walking frame, in an aged-care home in Cooma. She fell, struck her head and died on 24 May 2023.',
+       n2:'White, a police officer of twelve years’ experience, was charged over her death and stood trial for manslaughter. Police are subject to the same criminal law as everyone else.',
+       tind:'Manslaughter is strictly indictable. The trial was held in the Supreme Court.',
+       i6:'On 15 October 2024 White’s application for a judge-alone trial was refused. Media coverage had not been shown to make a jury trial unfair. Compare R v Dawson, where a judge-alone trial was ordered.',
+       i7:'The case was tried before a jury in the Supreme Court in November 2024.',
+       i8:'On 27 November 2024 the jury found White guilty of manslaughter. A jury gives no reasons, so the basis of the verdict is not known.',
+       sent:'On 28 March 2025 Harrison CJ at CL imposed a two-year community correction order with 425 hours of community service. The maximum penalty for manslaughter is 25 years. The Crown had asked for full-time custody, and at least ten relatives read victim impact statements.',
+       app:'The DPP appealed, arguing the sentence was manifestly inadequate. On 30 July 2025 the Court of Criminal Appeal dismissed the appeal.' } },
+];
+CASES.push(...REAL);
+
+/* ---------- path logic ---------- */
+function pathFor(o) {
+  const p = ['n1','n2','n3','n4']; let lane, end = '', sub = '';
+  if (o.type === 'sum') { p.push('tsum'); lane = 'su'; }
+  else if (o.type === 'ind') { p.push('tind'); lane = 'in'; }
+  else { p.push('ttab'); lane = o.elect === 'yes' ? 'in' : 'su'; }
+  let guilty = false, skip = '';
+  if (lane === 'su') {
+    p.push('s5');
+    if (o.plea === 'g') { guilty = true; skip = 'su'; }
+    else { p.push('s6','s7'); if (o.verdict === 'g') guilty = true; else end = 'Not guilty: the charge is dismissed and the defendant is free to go.'; }
+  } else {
+    p.push('i5');
+    if (o.plea === 'g') { guilty = true; skip = 'in'; }
+    else { p.push('i6','i7','i8');
+      if (o.verdict === 'g') guilty = true;
+      else if (o.verdict === 'hung') end = 'Hung jury: the jury is discharged. The DPP decides whether to run a retrial.';
+      else end = 'Not guilty: the accused is acquitted and released.'; }
+  }
+  if (guilty) { p.push('sent');
+    if (o.appeal !== 'none') { p.push('app'); sub = lane === 'su' ? 'dc' : 'cca'; }
+    end = end || (o.appeal === 'none' ? 'Sentenced. No appeal is lodged, so the case ends here.' : `Sentenced, then a ${o.appeal === 'conv' ? 'conviction' : 'severity'} appeal to the ${lane === 'su' ? 'District Court' : 'Court of Criminal Appeal'}.`); }
+  return { p, lane, end, sub, skip };
+}
+
+/* ---------- chart ---------- */
+function nodeHTML(id) {
+  const n = N[id];
+  const minis = n.minis ? `<div class="minis">${n.minis.map((m, i) => `<span><b>${i + 1}</b>${m}</span>`).join('')}</div>` : '';
+  let extra = '';
+  if (id === 's5') extra = `<div class="skip" id="skip-su">${ic('next')}Guilty plea: skips the hearing and goes to sentencing</div>`;
+  if (id === 'i5') extra = `<div class="skip" id="skip-in">${ic('next')}Guilty plea: committed for sentence, no trial</div>`;
+  if (id === 'ttab') extra = `<div class="minis"><span>No election: summary pathway</span><span>Election made: indictable pathway</span></div>`;
+  if (id === 'sent') extra = `<div class="minis"><span>Local Court: up to 2 years per offence, 5 in total</span><span>District or Supreme Court: up to the statutory maximum</span></div>`;
+  if (id === 'app') extra = `<div class="subs"><div class="sub" id="sub-dc" style="--sc:var(--su)"><b>District Court</b>from the Local Court, within 28 days</div><div class="sub" id="sub-cca" style="--sc:var(--in)"><b>Court of Criminal Appeal</b>from the District or Supreme Court</div><div class="sub" id="sub-hc" style="--sc:var(--ta-b)"><b>High Court of Australia</b>special leave only</div></div>`;
+  return `<button class="node ${n.cls}" data-id="${id}" aria-label="${n.title}: open details"><span class="nh">${n.badge ? `<span class="badge">${n.badge}</span>` : ''}${ic(n.icon)}<span class="nt">${n.title}</span>${n.tag ? `<span class="tag">${n.tag}</span>` : ''}</span><span class="nb"><span>${n.blurb}</span>${minis}${extra}<span class="more">Open details ${ic('next')}</span></span></button>`;
+}
+const conn = (a, b, label, c) => `<div class="conn" data-a="${a}" data-b="${b}" style="${c ? `--c:var(--${c})` : ''}"><i></i>${label ? `<span>${label}</span>` : ''}</div>`;
+document.getElementById('chart').innerHTML =
+  `<div class="stem">${['n1','n2','n3','n4'].map(nodeHTML).join('')}</div>
+   <div class="ask" data-a="n4" data-b="*"><i></i><b>${ic('split')}What type of offence is it?</b><i></i></div>
+   <div class="types">${['tsum','ttab','tind'].map(nodeHTML).join('')}</div>
+   <div class="lanes">
+     <div class="lane su" id="lane-su"><div class="conn" data-a="t" data-b="s5" style="--c:var(--su)"><i></i></div><h3>Summary pathway</h3><p>Local Court only</p>
+       ${nodeHTML('s5')}${conn('s5','s6','Not guilty plea','su')}${nodeHTML('s6')}${conn('s6','s7','','su')}${nodeHTML('s7')}</div>
+     <div class="lane in" id="lane-in"><div class="conn" data-a="t" data-b="i5" style="--c:var(--in)"><i></i></div><h3>Indictable pathway</h3><p>Local Court first, then the District or Supreme Court</p>
+       ${nodeHTML('i5')}${conn('i5','i6','Not guilty plea: committed for trial','in')}${nodeHTML('i6')}${conn('i6','i7','','in')}${nodeHTML('i7')}${conn('i7','i8','','in')}${nodeHTML('i8')}</div>
+   </div>
+   <div class="conn big" data-a="*" data-b="sent"><i></i><span style="background:#1b2559;color:#fff">Guilty plea or guilty verdict</span></div>
+   ${nodeHTML('sent')}
+   <div class="conn big" data-a="sent" data-b="app"><i></i></div>
+   ${nodeHTML('app')}`;
+
+/* ---------- state ---------- */
+const S = { sel: 'n1', follow: false, caseId: 'sam', custom: false, step: 0, path: null };
+const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)];
+const curOpts = () => S.custom ? { type: $('#o-type').value, elect: $('#o-elect').value, plea: $('#o-plea').value, verdict: $('#o-verdict').value, appeal: $('#o-appeal').value } : CASES.find(c => c.id === S.caseId).o;
+
+function renderPanel() {
+  const n = N[S.sel], c = S.follow && !S.custom ? CASES.find(x => x.id === S.caseId) : null;
+  const list = S.follow ? S.path.p : ORDER, i = list.indexOf(S.sel);
+  const story = c && c.t[S.sel] ? `<div class="sec incase"><h3>${ic('route')}In ${c.real ? c.name : c.name.split(',')[0] + '’s case'}</h3><p>${c.t[S.sel]}</p>${c.real ? `<p class="srcline">Real case. Source: class Evidence Finder record for <i>${c.cite.replace(/ \[.*/, '')}</i>${c.cite.match(/ \[.*/)[0]}.</p>` : ''}</div>` : (c && c.real ? `<div class="sec incase"><h3>${ic('route')}In ${c.name}</h3><p class="srcline">The Evidence Finder record does not describe this stage of the case.</p></div>` : '');
+  const sec = (icon, title, body) => `<div class="sec"><h3>${ic(icon)}${title}</h3>${body}</div>`;
+  $('#panel').innerHTML = `<div class="ph ${n.cls}"><small>${n.badge ? 'Step ' + n.badge + (n.tag ? ' · ' + n.tag : '') : n.tag}</small><h2>${ic(n.icon)}${n.title}</h2></div>
+   <div class="pb"><p class="lead">${gl(n.lead)}</p>${story}
+   ${n.steps ? sec('list', 'Step by step', `<ol class="steps">${n.steps.map(s => `<li>${gl(s)}</li>`).join('')}</ol>`) : ''}
+   ${sec('bulb', n.steps ? 'Also know' : 'What happens', `<ul>${n.what.map(s => `<li>${gl(s)}</li>`).join('')}</ul>`)}
+   ${sec('book', 'The law', `<div class="law">${n.law.map(l => `<div><b><i>${l[0].replace(/ \((NSW|Cth)\)$| \(\d{4}\).*$| \[\d{4}\].*$/, '')}</i>${(l[0].match(/ \((NSW|Cth)\)$| \(\d{4}\).*$| \[\d{4}\].*$/) || [''])[0]}</b><br>${l[1]}</div>`).join('')}</div>`)}
+   ${sec('person', 'Who is involved', `<div class="people">${n.who.map(w => `<span>${ic('person')}${w}</span>`).join('')}</div>`)}
+   <div class="sec eval"><h3>${ic('scales')}How well does it work?</h3><div class="pc"><div class="pro"><h4>${ic('check')}Strengths</h4><ul>${n.pro.map(s => `<li>${s}</li>`).join('')}</ul></div><div class="con"><h4>${ic('x')}Concerns</h4><ul>${n.con.map(s => `<li>${s}</li>`).join('')}</ul></div></div>
+   <div class="think"><b>Extended response practice</b>${n.q}</div></div>
+   <div class="pnav"><button class="btn ghost" id="p-prev" ${i <= 0 ? 'disabled' : ''}>${ic('prev')}Previous</button><button class="btn" id="p-next" ${i >= list.length - 1 ? 'disabled' : ''}>Next${ic('next')}</button></div></div>`;
+  $('#p-prev').onclick = () => go(list[i - 1]); $('#p-next').onclick = () => go(list[i + 1]);
+  $('#panel').scrollTop = 0;
+}
+function paint() {
+  $$('.node').forEach(b => b.classList.toggle('sel', b.dataset.id === S.sel));
+  const ch = $('#chart'); ch.classList.toggle('following', S.follow);
+  $$('.node,.conn,.ask').forEach(e => e.classList.remove('on')); $$('.skip,.sub').forEach(e => e.classList.remove('lit'));
+  $('#outcome').hidden = true;
+  if (S.follow) {
+    const { p, lane, end, sub, skip } = S.path, has = id => p.includes(id);
+    $$('.node').forEach(b => b.classList.toggle('on', has(b.dataset.id)));
+    $$('.conn,.ask').forEach(e => { const a = e.dataset.a, b = e.dataset.b;
+      const on = (a === 't' ? has(b) : a === '*' ? has(b) : b === '*' ? true : has(a) && has(b)); e.classList.toggle('on', on); });
+    if (skip) $('#skip-' + skip).classList.add('lit');
+    if (sub) $('#sub-' + sub).classList.add('lit');
+    $('#lane-su').style.opacity = lane === 'su' ? 1 : .45; $('#lane-in').style.opacity = lane === 'in' ? 1 : .45;
+    const c = S.custom ? null : CASES.find(x => x.id === S.caseId);
+    $('#outcome').hidden = false; $('#outcometext').innerHTML = `<b>How this case ends</b><br>${c ? c.out : end}`;
+    S.step = Math.max(0, p.indexOf(S.sel));
+    $('#s-where').textContent = `Stage ${S.step + 1} of ${p.length}: ${N[p[S.step]].title}`;
+    $('#s-prev').disabled = S.step === 0; $('#s-next').disabled = S.step === p.length - 1;
+    $('#s-dots').innerHTML = p.map((id, k) => `<button class="${k < S.step ? 'done' : k === S.step ? 'cur' : ''}" data-go="${id}" aria-label="${N[id].title}">${k + 1}</button>`).join('');
+  } else { $('#lane-su').style.opacity = 1; $('#lane-in').style.opacity = 1; }
+  renderPanel();
+}
+function go(id, scroll) { if (!id) return; S.sel = id; paint();
+  if (scroll) { const el = document.querySelector(`.node[data-id="${id}"]`); const r = el.getBoundingClientRect(); if (r.top < 0 || r.bottom > innerHeight) el.scrollIntoView({ block: 'center' }); } }
+function setPath() { const rc = S.custom ? null : CASES.find(c => c.id === S.caseId); S.path = rc && rc.path ? rc.path : pathFor(curOpts()); if (!S.path.p.includes(S.sel)) S.sel = 'n1'; }
+function syncCustom() { const t = $('#o-type').value, lane = (t === 'ind' || (t !== 'sum' && $('#o-elect').value === 'yes')) ? 'in' : 'su';
+  $('#o-elect').disabled = !(t === 't1' || t === 't2'); $('#o-verdict').disabled = $('#o-plea').value === 'g';
+  $('#o-verdict').querySelector('[value=hung]').disabled = lane === 'su'; if (lane === 'su' && $('#o-verdict').value === 'hung') $('#o-verdict').value = 'g';
+  $('#o-appeal').disabled = $('#o-plea').value !== 'g' && $('#o-verdict').value !== 'g';
+  $('#o-appeal').querySelector('[value=conv]').disabled = $('#o-plea').value === 'g'; if ($('#o-plea').value === 'g' && $('#o-appeal').value === 'conv') $('#o-appeal').value = 'none'; }
+function setMode(f) { S.follow = f; $('#m-free').setAttribute('aria-pressed', !f); $('#m-follow').setAttribute('aria-pressed', f); $('#caserow').hidden = !f;
+  $('#modehint').textContent = f ? 'Pick a case, then step through it. Stages the case never reaches are faded.' : 'Click any stage to see what happens, the law, who is involved and how well it works.';
+  if (f) { setPath(); S.sel = 'n1'; } paint(); }
+
+const caseBtn = c => `<button class="case ${c.cls}" data-case="${c.id}" aria-pressed="false"><i>${c.kind}</i><b>${c.name}</b><span>${c.line}</span></button>`;
+$('#cases').innerHTML = `<h3>Real cases from the Evidence Finder</h3><div class="cgrid">${CASES.filter(c => c.real).map(caseBtn).join('')}</div><h3>Invented examples</h3><div class="cgrid">${CASES.filter(c => !c.real).map(caseBtn).join('')}
+  <button class="case c-st" data-case="custom" aria-pressed="false"><i>Your choice</i><b>Build your own</b><span>Choose the offence type, plea and verdict</span></button></div>`;
+function pickCase(id) { S.custom = id === 'custom'; if (!S.custom) S.caseId = id; $('#custom').hidden = !S.custom;
+  $$('.case').forEach(b => b.setAttribute('aria-pressed', b.dataset.case === id)); if (S.custom) syncCustom(); setPath(); S.sel = 'n1'; paint(); }
+$('#cases').onclick = e => { const b = e.target.closest('.case'); if (b) pickCase(b.dataset.case); };
+$('#custom').onchange = () => { syncCustom(); setPath(); paint(); };
+$('#chart').onclick = e => { if (e.target.closest('.g')) return; const b = e.target.closest('.node'); if (b) { go(b.dataset.id); if (innerWidth <= 1080) $('#panel').scrollIntoView({ block: 'start' }); } };
+$('#m-free').onclick = () => setMode(false); $('#m-follow').onclick = () => setMode(true);
+$('#s-prev').onclick = () => go(S.path.p[S.step - 1], true); $('#s-next').onclick = () => go(S.path.p[S.step + 1], true);
+$('#s-dots').onclick = e => { const b = e.target.closest('[data-go]'); if (b) go(b.dataset.go, true); };
+document.querySelector('.case[data-case="sam"]').setAttribute('aria-pressed', 'true');
+
+/* ---------- glossary tooltip ---------- */
+const tip = $('#tip'); let tipFor = null;
+function showTip(el) { const k = el.dataset.term, d = G[k]; if (!d) return; tipFor = el;
+  tip.innerHTML = `<b>${k[0].toUpperCase() + k.slice(1)}</b>${d}`; tip.classList.add('on');
+  const r = el.getBoundingClientRect(), w = tip.offsetWidth, h = tip.offsetHeight;
+  let x = Math.min(Math.max(8, r.left + r.width / 2 - w / 2), innerWidth - w - 8), y = r.top - h - 8; if (y < 8) y = r.bottom + 8;
+  tip.style.left = x + 'px'; tip.style.top = y + 'px'; }
+const hideTip = () => { tip.classList.remove('on'); tipFor = null; };
+document.addEventListener('mouseover', e => { const g = e.target.closest('.g'); if (g) showTip(g); else if (tipFor) hideTip(); });
+document.addEventListener('focusin', e => { const g = e.target.closest('.g'); if (g) showTip(g); else hideTip(); });
+document.addEventListener('click', e => { const g = e.target.closest('.g'); if (g) { e.stopPropagation(); showTip(g); } else hideTip(); });
+document.addEventListener('scroll', hideTip, true);
+document.addEventListener('keydown', e => { if (e.key === 'Escape') hideTip(); });
+
+/* ---------- compare ---------- */
+const CMP = [
+ ['Examples','Offensive conduct, minor traffic offences, low-range drink driving','Common assault, larceny, break and enter','Murder, manslaughter, sexual assault, armed robbery'],
+ ['Where it is finalised','Local Court','Local Court, unless an [[election]] sends it to the District Court','District Court or Supreme Court'],
+ ['Who decides guilt','One Local Court judge','Local Court judge, or a jury if an election is made','A jury of 12 (or a judge alone if ordered)'],
+ ['Who prosecutes','Police prosecutor','Police prosecutor, or the [[DPP]] after an election','DPP, through a [[Crown prosecutor]]'],
+ ['Time limit to charge','Usually 6 months','None','None'],
+ ['Step before the hearing','A plea, then a hearing date','A plea in the Local Court, or [[committal]] after an election','Committal: brief, [[charge certificate]], [[case conference]]'],
+ ['Formality, time and cost','Less formal. Hours or a day. Lowest cost','Depends on the court chosen','Formal. Days to months. Highest cost'],
+ ['Heaviest penalty','2 years or less, as set for the offence','In the Local Court: 2 years per offence, 5 in total. Higher after an election','The maximum set by Parliament, up to life imprisonment'],
+ ['Discount for a guilty plea','Up to 25%, at the judge’s discretion','As for the court that deals with it','Fixed: 25% in the Local Court, 10% up to 14 days before trial, then 5%'],
+ ['How often prison is the result','8.4% of Local Court outcomes','Depends on the court','71.8% of District Court outcomes'],
+ ['Appeal goes to','District Court, within 28 days','District Court, or the Court of Criminal Appeal after an election','NSW Court of Criminal Appeal, then the High Court with [[special leave]]'],
+];
+$('#cmp').innerHTML = `<thead><tr><th></th><th class="su">Summary offence</th><th class="ta">Table offence</th><th class="in">Strictly indictable offence</th></tr></thead><tbody>${CMP.map(r => `<tr><th scope="row">${r[0]}</th><td class="su">${gl(r[1])}</td><td class="ta">${gl(r[2])}</td><td class="in">${gl(r[3])}</td></tr>`).join('')}</tbody>`;
+$('#gl').innerHTML = Object.keys(G).sort((a, b) => a.localeCompare(b)).map(k => `<div><dt>${k[0].toUpperCase() + k.slice(1)}</dt><dd>${G[k]}</dd></div>`).join('');
+
+/* ---------- quiz ---------- */
+const QZ = [
+ { q:'Where does every adult criminal case in NSW begin?', o:['Local Court','District Court','Supreme Court','Court of Criminal Appeal'], a:0, why:'All criminal matters are first mentioned in the Local Court, even murder.', n:'n4' },
+ { q:'After an arrest, how long can police normally detain a suspect to investigate before charging or releasing them?', o:['2 hours','6 hours','24 hours','48 hours'], a:1, why:'The investigation period is up to 6 hours. A detention warrant can add up to 6 more.', n:'n1' },
+ { q:'Who decides the verdict in a summary hearing?', o:['A jury of 12','A jury of 6','A Local Court judge sitting alone','The police prosecutor'], a:2, why:'Summary hearings have no jury. One Local Court judge (called a magistrate before March 2026) decides the facts and the law.', n:'s6' },
+ { q:'For a Table 2 offence, who can elect to have the case heard in a higher court?', o:['Only the accused','Only the prosecution','Either the prosecution or the accused','The Local Court judge'], a:1, why:'Table 2: only the prosecution can elect. Table 1: either the prosecution or the accused can elect.', n:'ttab' },
+ { q:'What is the main purpose of committal proceedings today?', o:['To decide whether the accused is guilty','To choose the jury','To manage the case and encourage appropriate early guilty pleas before it goes to a higher court','To hear the appeal'], a:2, why:'Since 2018 the Local Court no longer tests the evidence. Committal covers the brief, charge certification, the case conference and the plea.', n:'i5' },
+ { q:'An accused pleads guilty to an indictable offence in the Local Court. What sentence discount applies?', o:['5%','10%','25%','50%'], a:2, why:'The fixed discounts are 25% for a plea in the Local Court, 10% up to 14 days before trial, and 5% after that.', n:'i5' },
+ { q:'What is the standard of proof in a criminal trial?', o:['On the balance of probabilities','Beyond reasonable doubt','Reasonable suspicion','Absolute certainty'], a:1, why:'The prosecution carries the burden of proof and must prove guilt beyond reasonable doubt.', n:'i7' },
+ { q:'When can a NSW court accept a majority verdict of 11 to 1?', o:['At any time','Never, verdicts must always be unanimous','After the jury has deliberated for at least 8 hours','Only in the Local Court'], a:2, why:'The Jury Act 1977 (NSW) s 55F allows a majority verdict after at least 8 hours of deliberation if a unanimous verdict is unlikely.', n:'i8' },
+ { q:'What is the most the Local Court can impose for a single offence?', o:['6 months’ imprisonment','2 years’ imprisonment','5 years’ imprisonment','Life imprisonment'], a:1, why:'The Local Court’s limit is 2 years for one offence and 5 years in total for several offences.', n:'sent' },
+ { q:'A person convicted in the Local Court wants to appeal. Which court hears it, and how long do they have?', o:['Supreme Court, 7 days','Court of Criminal Appeal, 28 days','High Court, 6 months','District Court, 28 days'], a:3, why:'Appeals from the Local Court go to the District Court and should be lodged within 28 days (up to 3 months with leave).', n:'app' },
+ { q:'Which court hears an appeal against a conviction from a Supreme Court jury trial?', o:['District Court','NSW Court of Criminal Appeal','Local Court','Children’s Court'], a:1, why:'Appeals from the District and Supreme Courts go to the Court of Criminal Appeal. A further appeal to the High Court needs special leave.', n:'app' },
+ { q:'Who decides the sentence after a jury finds an accused guilty?', o:['The jury','The Crown prosecutor','The judge','The victim'], a:2, why:'The jury decides guilt only. The judge alone decides the sentence.', n:'sent' },
+];
+const Q = { i: 0, score: 0, done: false, picked: null };
+function renderQuiz() {
+  const el = $('#quiz');
+  if (Q.i >= QZ.length) { el.innerHTML = `<div class="score"><strong>${Q.score}/${QZ.length}</strong><h2 style="margin:10px 0 6px">${Q.score >= 10 ? 'Court-ready' : Q.score >= 7 ? 'Good work' : 'Worth another look'}</h2><p style="color:var(--ink2)">${Q.score >= 10 ? 'You know the process well.' : 'Review the stages you missed on the flow chart, then try again.'}</p><div class="qact" style="justify-content:center"><button class="btn" id="q-again">Try again</button><button class="btn ghost" id="q-chart">Back to the flow chart</button></div></div>`;
+    $('#q-again').onclick = () => { Q.i = 0; Q.score = 0; Q.picked = null; renderQuiz(); }; $('#q-chart').onclick = () => show('explore'); return; }
+  const q = QZ[Q.i], p = Q.picked;
+  el.innerHTML = `<div class="qtop"><span>Question ${Q.i + 1} of ${QZ.length}</span><span>Score ${Q.score}</span></div><div class="bar"><i style="width:${(Q.i + (p !== null ? 1 : 0)) / QZ.length * 100}%"></i></div>
+   <h2 class="qq">${q.q}</h2><div class="opts">${q.o.map((t, k) => `<button class="opt ${p !== null && k === q.a ? 'right' : p === k ? 'wrong' : ''}" data-k="${k}" ${p !== null ? 'disabled' : ''}><em>${'ABCD'[k]}</em>${t}</button>`).join('')}</div>
+   ${p !== null ? `<div class="fb ${p === q.a ? 'right' : 'wrong'}"><b>${p === q.a ? 'Correct.' : 'Not quite.'}</b> ${q.why}</div><div class="qact"><button class="btn" id="q-next">${Q.i === QZ.length - 1 ? 'See my score' : 'Next question'}${ic('next')}</button><button class="btn ghost" id="q-rev">Review this stage: ${N[q.n].title}</button></div>` : ''}`;
+  $$('.opt').forEach(b => b.onclick = () => { Q.picked = +b.dataset.k; if (Q.picked === q.a) Q.score++; renderQuiz(); });
+  if (p !== null) { $('#q-next').onclick = () => { Q.i++; Q.picked = null; renderQuiz(); }; $('#q-rev').onclick = () => { setMode(false); show('explore'); go(q.n, true); }; }
+}
+
+/* ---------- build a pathway ---------- */
+const B = { ch: [], fresh: false };
+const OFF = { sum: ['Offensive conduct', 'tsum'], t2: ['Common assault', 'ttab'], t1: ['Larceny of $60,000 from an employer', 'ttab'], ind: ['Murder', 'tind'] };
+const SKIP = { n3: ['Bail or remand', 'No arrest, so no bail decision was needed.'], s6: ['Summary hearing and verdict', 'A not guilty plea in the Local Court would have led to a defended hearing.'], i5: ['Committal proceedings', 'Only cases on the indictable pathway go through committal.'],
+  i6: ['Arraignment and pre-trial', 'A not guilty plea at committal would have sent the case to a higher court for trial.'], i7: ['Trial and verdict', 'A trial only happens when the accused pleads not guilty to an indictable charge.'],
+  sent: ['Sentencing', 'Sentencing only follows a guilty plea or a guilty verdict.'], app: ['Appeal', 'An appeal only happens if the offender or the prosecution lodges one in time.'], hc: ['High Court of Australia', 'Reached only from the Court of Criminal Appeal, with special leave.'] };
+function runBuild(ch) {
+  let i = 0, mode = ''; const boxes = [], log = [], courts = new Set(), sig = {}; let end = null;
+  const ask = d => { if (i < ch.length) { const v = ch[i++], o = d.opts.find(o => o.v === v); log.push({ role: d.role, a: o.l }); boxes.length && (boxes[boxes.length - 1].after = (boxes[boxes.length - 1].after || []).concat({ role: d.role, a: o.l })); return v; } throw { pending: d }; };
+  const box = (id, note, tag) => boxes.push({ id, note, tag, alt: id === 'i7' && mode === 'judge' ? 'Trial by judge alone' : '' });
+  try {
+    const off = ask({ role: 'Parliament', icon: 'book', ctx: 'Parliament has already sorted every offence by how serious it is. That classification shapes everything that follows.', q: 'Which offence has allegedly been committed?',
+      opts: [{ v: 'sum', l: 'Offensive conduct', s: 'A summary offence' }, { v: 't2', l: 'Common assault', s: 'A Table 2 offence' }, { v: 't1', l: 'Larceny of $60,000 from an employer', s: 'A Table 1 offence' }, { v: 'ind', l: 'Murder', s: 'A strictly indictable offence' }] });
+    sig.type = off; box('n1', `Police investigate an alleged offence: ${OFF[off][0].toLowerCase()}.`);
+    const pol = ask({ role: 'Police officer', icon: 'shield', ctx: 'You have gathered enough evidence to act. Police have discretion about how to respond.', q: 'How do you respond?',
+      opts: off === 'sum' ? [{ v: 'warn', l: 'Give a warning or caution', s: 'No charge, no court' }, { v: 'pn', l: 'Issue a penalty notice', s: 'An on-the-spot fine, no court unless the person contests it' }, { v: 'can', l: 'Charge, without arrest', s: 'Issue a court attendance notice and let the person go home' }, { v: 'arrest', l: 'Arrest and charge', s: 'Take the person to the station' }]
+        : off === 'ind' ? [{ v: 'arrest', l: 'Arrest and charge', s: 'For an offence this serious, arrest is the expected response' }]
+        : [{ v: 'can', l: 'Charge, without arrest', s: 'Issue a court attendance notice and let the person go home' }, { v: 'arrest', l: 'Arrest and charge', s: 'Take the person to the station' }] });
+    if (pol === 'warn' || pol === 'pn') { end = { t: 'Dealt with outside court', d: pol === 'warn' ? 'The matter ends with a warning or caution. There is no charge and no conviction.' : 'The matter ends when the fine is paid. There is no court appearance and no conviction.' }; sig.div = 1; throw { done: 1 }; }
+    box('n2', pol === 'arrest' ? 'Arrested, cautioned and charged at the station.' : 'Charged by court attendance notice. No arrest.');
+    if (pol === 'arrest') {
+      const pb = ask({ role: 'Police officer', icon: 'key', ctx: off === 'ind' ? 'Murder is a show cause offence: the accused must show why detention is not justified.' : 'After charging, police make the first bail decision.', q: 'Do you grant police bail?',
+        opts: [{ v: 'y', l: 'Grant bail', s: 'Released until the court date, perhaps with conditions' }, { v: 'n', l: 'Refuse bail', s: 'The accused is held and brought before a court as soon as practicable' }] });
+      if (pb === 'y') box('n3', 'Police grant bail. The accused is released until the first court date.', 'Bail');
+      else { const cb = ask({ role: 'Local Court judge', icon: 'court', ctx: 'The accused is brought before you from custody. Apply the unacceptable risk test.', q: 'Do you grant bail?',
+          opts: [{ v: 'y', l: 'Grant bail with conditions', s: 'For example reporting to police, a curfew, no contact with witnesses' }, { v: 'n', l: 'Refuse bail', s: 'There is an unacceptable risk. The accused is held on remand' }] });
+        box('n3', cb === 'y' ? 'Police refuse bail. The Local Court grants conditional bail.' : 'Police and the Local Court both refuse bail. The accused waits on remand.', cb === 'y' ? 'Bail' : 'Remand'); sig.remand = cb === 'n'; }
+    }
+    courts.add('Local Court'); box('n4', 'The case is mentioned in the Local Court, where every criminal case begins.');
+    box(OFF[off][1], `${OFF[off][0]} is ${off === 'sum' ? 'a summary offence' : off === 'ind' ? 'strictly indictable' : off === 't1' ? 'a Table 1 offence' : 'a Table 2 offence'}.`);
+    let lane = off === 'ind' ? 'in' : 'su';
+    if (off === 't1' || off === 't2') {
+      const e1 = ask({ role: 'Prosecutor', icon: 'scales', ctx: 'A Table offence stays in the Local Court unless an election is made. You weigh the seriousness of this example and the penalty it deserves.', q: 'Do you elect to have the case dealt with on indictment in the District Court?',
+        opts: [{ v: 'n', l: 'No election', s: 'Keep it in the Local Court: faster, with a 2-year limit per offence' }, { v: 'y', l: 'Elect', s: 'Send it to the District Court, where heavier penalties are open' }] });
+      if (e1 === 'y') lane = 'in';
+      else if (off === 't1') { const e2 = ask({ role: 'Accused', icon: 'person', ctx: 'This is a Table 1 offence, so you may also elect. A higher court means a jury, but also a heavier maximum penalty.', q: 'Do you elect to be tried in the District Court?',
+          opts: [{ v: 'n', l: 'No election', s: 'Stay in the Local Court' }, { v: 'y', l: 'Elect', s: 'Take the case to a judge and jury' }] }); if (e2 === 'y') lane = 'in'; }
+    }
+    sig.lane = lane; let court = 'Local Court', plea;
+    if (lane === 'su') {
+      plea = ask({ role: 'Accused', icon: 'speech', ctx: 'The charge is read to you in the Local Court. You have had legal advice.', q: 'How do you plead?',
+        opts: [{ v: 'g', l: 'Guilty', s: 'No hearing. An early plea can reduce the sentence by up to 25%' }, { v: 'ng', l: 'Not guilty', s: 'The prosecution must prove the charge at a hearing' }] });
+      box('s5', plea === 'g' ? 'Pleads guilty. The facts sheet goes to the judge.' : 'Pleads not guilty. A hearing date is set.', plea === 'g' ? 'Guilty plea' : 'Not guilty plea');
+      if (plea === 'ng') { box('s6', 'The prosecution and defence present their cases to one judge. There is no jury.');
+        const v = ask({ role: 'Local Court judge', icon: 'gavel', ctx: 'You have heard all the evidence. The prosecution must prove the charge beyond reasonable doubt.', q: 'What is your verdict?',
+          opts: [{ v: 'g', l: 'Guilty', s: 'The charge is proved' }, { v: 'ng', l: 'Not guilty', s: 'A reasonable doubt remains' }] });
+        box('s7', v === 'g' ? 'The judge finds the offence proved and gives reasons.' : 'The judge is not satisfied beyond reasonable doubt.', v === 'g' ? 'Guilty' : 'Not guilty'); sig.verdict = v;
+        if (v === 'ng') { end = { t: 'Acquitted', d: 'The charge is dismissed and the defendant is free to go.' }; throw { done: 1 }; } }
+    } else {
+      court = off === 'ind' ? 'Supreme Court' : 'District Court';
+      box('i5', 'The brief of evidence is served, the charges are certified and the lawyers hold a case conference.');
+      plea = ask({ role: 'Accused', icon: 'speech', ctx: 'The case conference is over. A guilty plea now earns the largest discount: 25%.', q: 'How do you plead in the Local Court?',
+        opts: [{ v: 'g', l: 'Guilty', s: `Committed for sentence to the ${court}. No trial` }, { v: 'ng', l: 'Not guilty', s: `Committed for trial in the ${court}` }] });
+      boxes[boxes.length - 1].tag = plea === 'g' ? 'Committed for sentence' : 'Committed for trial'; courts.add(court);
+      if (plea === 'ng') {
+        mode = ask({ role: 'Accused', icon: 'jury', ctx: `You are arraigned in the ${court} and plead not guilty to the indictment. A trial is normally by jury, but you can apply for a judge to decide alone.`, q: 'Who should decide your case?',
+          opts: [{ v: 'jury', l: 'A jury of 12', s: 'Twelve members of the community decide the facts' }, { v: 'judge', l: 'Apply for a judge-alone trial', s: 'The court can order this, for example after heavy publicity' }] });
+        box('i6', mode === 'jury' ? 'Indictment presented. Not guilty plea. Trial by jury is set down.' : 'Indictment presented. Not guilty plea. The court orders a trial by judge alone.', mode === 'jury' ? 'Jury trial' : 'Judge alone');
+        let n = 0, v;
+        for (;;) { box('i7', n ? (mode === 'jury' ? 'Retrial before a new jury.' : 'Retrial before a judge sitting alone.') : mode === 'jury' ? 'A jury is empanelled and both sides present their cases.' : 'Both sides present their cases to a single judge, who must give reasons.', n ? 'Retrial' : '');
+          v = ask({ role: mode === 'jury' ? 'Jury' : 'Trial judge', icon: mode === 'jury' ? 'jury' : 'gavel', ctx: mode === 'jury' ? 'You have retired to consider your verdict. It must be unanimous, or 11 to 1 after at least 8 hours.' : 'You have heard all the evidence and must give written reasons.', q: 'What is the verdict?',
+            opts: [{ v: 'g', l: 'Guilty', s: 'Proved beyond reasonable doubt' }, { v: 'ng', l: 'Not guilty', s: 'A reasonable doubt remains' }].concat(mode === 'jury' && n === 0 ? [{ v: 'hung', l: 'We cannot agree', s: 'A hung jury: no verdict' }] : []) });
+          if (v !== 'hung') break; sig.hung = 1; boxes[boxes.length - 1].tag = 'Hung jury';
+          const r = ask({ role: 'Director of Public Prosecutions', icon: 'scales', ctx: 'The jury has been discharged without a verdict. You must decide whether a second trial is in the public interest.', q: 'Do you run a retrial?',
+            opts: [{ v: 'y', l: 'Run a retrial', s: 'A new jury hears the case again' }, { v: 'n', l: 'Discontinue', s: 'No further proceedings on this charge' }] });
+          if (r === 'n') { end = { t: 'Proceedings discontinued', d: 'After a hung jury the DPP decides not to run a retrial. The accused is released without a verdict.' }; throw { done: 1 }; } n++;
+          mode = ask({ role: 'Accused', icon: 'jury', ctx: 'A second trial will be held. You can face a new jury or apply again for a judge to decide alone.', q: 'Who should decide the retrial?', opts: [{ v: 'jury', l: 'A new jury', s: 'Twelve different jurors hear the case' }, { v: 'judge', l: 'Apply for a judge-alone retrial', s: 'One judge decides and gives written reasons' }] }); }
+        box('i8', v === 'g' ? `The ${mode === 'jury' ? 'jury returns' : 'judge delivers'} a verdict of guilty.` : `The ${mode === 'jury' ? 'jury returns' : 'judge delivers'} a verdict of not guilty.`, v === 'g' ? 'Guilty' : 'Not guilty'); sig.verdict = v; sig.mode = mode;
+        if (v === 'ng') { end = { t: 'Acquitted', d: 'The accused is released and generally cannot be tried again for this offence.' }; throw { done: 1 }; } }
+    }
+    sig.plea = plea;
+    const pen = ask({ role: court === 'Local Court' ? 'Local Court judge' : `${court} judge`, icon: 'gavel', ctx: `You hold a sentencing hearing: facts, record, reports, any victim impact statement and submissions. ${plea === 'g' ? 'The guilty plea must be taken into account.' : ''} ${court === 'Local Court' ? 'Your limit is 2 years’ imprisonment for one offence.' : 'You can impose up to the maximum set by Parliament.'}`, q: 'What sentence do you impose?',
+      opts: court === 'Local Court' ? [{ v: 'No conviction recorded, with a conditional release order', l: 'No conviction, conditional release order', s: 'For minor offending and good prospects' }, { v: 'A fine', l: 'Conviction and a fine', s: 'The most common Local Court penalty' }, { v: 'A community correction order', l: 'Community correction order', s: 'Supervision or community service' }, { v: 'Imprisonment (within the Local Court’s 2-year limit)', l: 'Imprisonment', s: 'The last resort' }]
+        : off === 'ind' ? [{ v: 'A long term of imprisonment with a non-parole period', l: 'Imprisonment with a non-parole period', s: 'The usual sentence for murder' }, { v: 'Life imprisonment', l: 'Life imprisonment', s: 'The maximum penalty, for the worst cases' }]
+        : [{ v: 'An intensive correction order', l: 'Intensive correction order', s: 'A prison sentence served in the community' }, { v: 'Full-time imprisonment with a non-parole period', l: 'Full-time imprisonment', s: 'With a non-parole period' }] });
+    box('sent', `${pen}.${plea === 'g' ? (lane === 'in' ? ' The plea in the Local Court earns a 25% discount.' : ' The early plea is a mitigating factor.') : ''}`, court);
+    const ap = ask({ role: 'Offender and prosecution', icon: 'up', ctx: `Either side can challenge the result within 28 days. An appeal from the ${court} goes to the ${lane === 'su' ? 'District Court' : 'Court of Criminal Appeal'}.`, q: 'Is there an appeal?',
+      opts: [{ v: 'none', l: 'No appeal', s: 'Both sides accept the result' }].concat(plea === 'ng' ? [{ v: 'conv', l: 'Offender: conviction appeal', s: 'The guilty finding was wrong' }] : [], [{ v: 'sev', l: 'Offender: severity appeal', s: 'The sentence is too harsh' }, { v: 'crown', l: 'Prosecution: sentence appeal', s: 'The sentence is too lenient' }]) });
+    sig.appeal = ap;
+    if (ap === 'none') { end = { t: 'Sentenced', d: `${pen}. No appeal is lodged, so the case ends here.` }; throw { done: 1 }; }
+    const ac = lane === 'su' ? 'District Court' : 'Court of Criminal Appeal', what = { conv: 'conviction appeal', sev: 'severity appeal', crown: 'prosecution appeal against sentence' }[ap]; courts.add(ac);
+    const ar = ask({ role: lane === 'su' ? 'District Court judge' : 'Court of Criminal Appeal', icon: 'scales', ctx: lane === 'su' ? 'You rehear the matter on appeal from the Local Court.' : 'Three judges look for a legal error or an unreasonable verdict.', q: `What do you decide on the ${what}?`,
+      opts: [{ v: 'n', l: 'Dismiss the appeal', s: 'The original decision stands' }, { v: 'y', l: 'Allow the appeal', s: ap === 'conv' ? 'The conviction is quashed' : ap === 'sev' ? 'The sentence is reduced' : 'The sentence is increased' }] });
+    const res = ar === 'n' ? 'The appeal is dismissed and the original decision stands.' : ap === 'conv' ? 'The appeal is allowed and the conviction is quashed.' : ap === 'sev' ? 'The appeal is allowed and the sentence is reduced.' : 'The appeal is allowed and the sentence is increased.';
+    box('app', `${what[0].toUpperCase() + what.slice(1)} to the ${ac}. ${res}`, ac);
+    if (lane === 'in') {
+      const hc = ask({ role: 'Losing party', icon: 'up', ctx: 'One avenue remains: the High Court of Australia. It hears a case only if it grants special leave.', q: 'Do you apply for special leave to appeal?',
+        opts: [{ v: 'n', l: 'Accept the decision', s: 'The case ends here' }, { v: 'y', l: 'Apply for special leave', s: 'Argue there is an important question of law' }] });
+      if (hc === 'y') { const hr = ask({ role: 'High Court of Australia', icon: 'court', ctx: 'Special leave is granted only for questions of law of public importance. Most applications are refused.', q: 'Do you grant special leave?',
+          opts: [{ v: 'n', l: 'Refuse special leave', s: 'The Court of Criminal Appeal decision is final' }, { v: 'y', l: 'Grant leave and hear the appeal', s: 'The High Court’s decision is final for all Australian courts' }] });
+        courts.add('High Court of Australia'); sig.hc = 1; boxes.push({ id: 'app', alt: 'High Court of Australia', note: hr === 'n' ? 'Special leave is refused. The Court of Criminal Appeal decision is final.' : 'Special leave is granted and the High Court decides the appeal. Its decision is final.', tag: 'High Court' }); } }
+    end = { t: 'Appeal decided', d: res };
+  } catch (e) { if (e.pending) return { boxes, log, courts, sig, pending: e.pending }; if (!e.done) throw e; }
+  return { boxes, log, courts, sig, end };
+}
+const BANK = [
+  { id: 'dawson', label: 'R v Dawson [2022] NSWSC 1131', kind: 'Real case from the Evidence Finder', sig: { lane: 'in', plea: 'ng', mode: 'judge', verdict: 'g', appeal: 'conv' } },
+  { id: 'kl', label: 'R v KL [2025] NSWSC 1414', kind: 'Real case from the Evidence Finder', sig: { lane: 'in', plea: 'ng', mode: 'judge', verdict: 'g', hung: 1 } },
+  { id: 'billings', label: 'R v Billings [2026] NSWSC 1088', kind: 'Real case from the Evidence Finder', sig: { lane: 'in', plea: 'g', appeal: 'sev' } },
+  { id: 'white', label: 'R v White [2025] NSWSC 243', kind: 'Real case from the Evidence Finder', sig: { lane: 'in', plea: 'ng', mode: 'jury', verdict: 'g', appeal: 'crown' } },
+  { id: 'sam', label: 'Sam, 22: offensive conduct', kind: 'Invented example', sig: { lane: 'su', plea: 'ng', verdict: 'g', appeal: 'sev' } },
+  { id: 'mia', label: 'Mia, 18: shoplifting', kind: 'Invented example', sig: { lane: 'su', plea: 'g', appeal: 'none' } },
+  { id: 'dev', label: 'Dev, 27: stole $60,000 from an employer', kind: 'Invented example', sig: { lane: 'in', plea: 'g', appeal: 'none' } },
+  { id: 'alex', label: 'Alex, 31: charged with murder', kind: 'Invented example', sig: { lane: 'in', plea: 'ng', mode: 'jury', verdict: 'g', appeal: 'conv' } },
+];
+function matchCase(sig) { let best = null, bs = 0;
+  BANK.forEach(c => { if (c.sig.lane !== sig.lane || c.sig.plea !== sig.plea) return; let n = 2; ['mode','verdict','appeal'].forEach(k => { if (c.sig[k] !== undefined && c.sig[k] === sig[k]) n++; }); if (!!c.sig.hung === !!sig.hung) n += 2; if (c.sig.verdict && sig.verdict && c.sig.verdict !== sig.verdict) return; if (n > bs) { bs = n; best = c; } }); return best; }
+function renderBuild() {
+  const r = runBuild(B.ch), f = $('#bflow');
+  f.innerHTML = r.boxes.map((b, k) => { const n = N[b.id]; return `<div class="bbox ${n.cls} ${B.fresh && k === r.boxes.length - 1 ? 'new' : ''}">${ic(n.icon)}<h3>${b.alt || n.title}</h3>${b.tag ? `<span class="bd">${b.tag}</span>` : '<span></span>'}<p>${b.note} <button class="g" data-open="${b.id}">Stage details</button></p></div>` +
+      (b.after ? `<div class="bcon"><i></i>${b.after.map(a => `<b><em>${a.role}:</em> ${a.a}</b>`).join('')}</div>` : k < r.boxes.length - 1 ? '<div class="bcon"><i></i></div>' : ''); }).join('') +
+    (r.end ? `<div class="bend">${ic('star')}<div><b>${r.end.t}</b><br>${r.end.d}</div></div>` : `<div class="bnext">${ic('split')}${r.boxes.length ? 'The next stage appears when you make the decision on the right.' : 'Your flow chart starts here. Make the first decision on the right.'}</div>`);
+  const ctl = `<div class="bctl"><button class="btn ghost" id="b-undo" ${B.ch.length ? '' : 'disabled'}>${ic('prev')}Undo last decision</button><button class="btn ghost" id="b-reset" ${B.ch.length ? '' : 'disabled'}>Start again</button></div>`;
+  if (r.pending) { const d = r.pending;
+    $('#bside').innerHTML = `<div class="role">${ic(d.icon)}<div><small>Decision ${B.ch.length + 1} · you are</small><h2>${d.role}</h2></div></div><div class="bq"><p class="ctx">${d.ctx}</p><h3>${d.q}</h3>${d.opts.map(o => `<button class="bopt" data-v="${o.v}"><b>${o.l}</b><span>${o.s}</span></button>`).join('')}${ctl}</div>`;
+  } else { const seen = new Set(r.boxes.map(b => b.id)), sk = [];
+    if (!r.sig.div) { if (!seen.has('n3')) sk.push('n3'); if (r.sig.lane === 'su' && !seen.has('s6')) sk.push('s6'); if (r.sig.lane === 'su') sk.push('i5'); if (r.sig.lane === 'in' && !seen.has('i6')) sk.push('i6', 'i7');
+      if (!seen.has('sent')) sk.push('sent'); if (!seen.has('app')) sk.push('app'); if (r.sig.lane === 'in' && !r.sig.hc) sk.push('hc'); }
+    const m = r.sig.div ? null : matchCase(r.sig);
+    $('#bside').innerHTML = `<div class="role">${ic('star')}<div><small>Pathway complete</small><h2>${r.end.t}</h2></div></div><div class="bq"><p class="lead">${r.end.d}</p>
+      <div class="sec"><h3>${ic('list')}Decisions that shaped this case</h3><ol class="sumlist">${r.log.map(l => `<li><span><em>${l.role}:</em> ${l.a}</span></li>`).join('')}</ol></div>
+      ${r.courts.size ? `<div class="sec"><h3>${ic('court')}Courts used</h3><div class="chips">${[...r.courts].map(c => `<span>${c}</span>`).join('')}</div></div>` : ''}
+      <div class="sec"><h3>${ic('split')}Roads not taken</h3><div class="nottaken">${r.sig.div ? '<div><b>The whole court process</b><br>A charge would have sent the matter to the Local Court for a plea, and possibly a hearing, sentence and appeal.</div>' : sk.map(k => `<div><b>${SKIP[k][0]}</b><br>${SKIP[k][1]}</div>`).join('') || '<div>This case used every stage on its pathway.</div>'}</div></div>
+      ${m ? `<div class="match"><small>A case that took a similar route · ${m.kind}</small><b>${m.label}</b><button class="btn" data-follow="${m.id}">Follow this case on the flow chart${ic('next')}</button></div>` : ''}${ctl}</div>`; }
+  $('#b-undo').onclick = () => { B.ch.pop(); B.fresh = false; renderBuild(); }; $('#b-reset').onclick = () => { B.ch = []; B.fresh = false; renderBuild(); };
+  $('#bside').scrollTop = 0;
+  if (B.fresh) { const last = f.lastElementChild; const rr = last.getBoundingClientRect(); if (rr.bottom > innerHeight || rr.top < 0) last.scrollIntoView({ block: 'end' }); }
+}
+$('#bside').addEventListener('click', e => { const o = e.target.closest('.bopt'); if (o) { B.ch.push(o.dataset.v); B.fresh = true; renderBuild(); return; }
+  const fl = e.target.closest('[data-follow]'); if (fl) { show('explore'); setMode(true); pickCase(fl.dataset.follow); scrollTo(0, 0); } });
+$('#bflow').addEventListener('click', e => { const o = e.target.closest('[data-open]'); if (o) { e.stopPropagation(); setMode(false); show('explore'); go(o.dataset.open, true); } });
+
+/* ---------- views ---------- */
+const VIEWS = ['explore','build','compare','quiz'];
+function show(v, push = true) { if (!VIEWS.includes(v)) v = 'explore';
+  VIEWS.forEach(x => { $('#v-' + x).classList.toggle('on', x === v); document.querySelector(`.tab[data-view="${x}"]`).setAttribute('aria-selected', x === v); });
+  if (push && location.hash.slice(1) !== v) { try { location.hash = v; } catch (e) {} } }
+$$('.tab').forEach(t => t.onclick = () => show(t.dataset.view));
+addEventListener('hashchange', () => show(location.hash.slice(1), false));
+S.path = pathFor(curOpts()); paint(); renderQuiz(); renderBuild(); show(location.hash.slice(1) || 'explore', false);
+</script>
+</body>
+</html>
