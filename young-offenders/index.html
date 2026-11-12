@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Young Offenders Pathway</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f6f5f1; --surface: #ffffff; --surface2: #eef0f6; --ink: #1a1d2b; --ink2: #4b5165; --line: #dcdfea;
+  --navy: #1b2559; --on: #ffffff;
+  --st: #3730a3; --st-t: #eceeff;
+  --su: #0b7a85; --su-t: #e0f3f4;
+  --in: #b3254f; --in-t: #fbe7ee;
+  --ta: #7d5f00; --ta-t: #fff3c9; --ta-b: #d9ad16;
+  --ok: #17693a; --ok-t: #def3e5; --bad: #a3212b; --bad-t: #fde6e7;
+  --dt: #c2410c; --dt-t: #ffedd5;
+  --gold: #ffd24a; --shadow: 0 1px 2px rgba(27,37,89,.08), 0 6px 18px rgba(27,37,89,.07);
+  --display: "Poppins", "Segoe UI", system-ui, sans-serif; --body: "Inter", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11131d; --surface: #1a1d2c; --surface2: #23273a; --ink: #eceefa; --ink2: #aab0c8; --line: #313654;
+  --navy: #0c0e1a; --on: #0f1120;
+  --st: #9b9cf7; --st-t: #24264a; --su: #45c3cd; --su-t: #12343a; --in: #f27ea1; --in-t: #40192a;
+  --ta: #e6bd45; --ta-t: #3a3010; --ta-b: #8f7419;
+  --ok: #6fd596; --ok-t: #143522; --bad: #ff8f97; --bad-t: #40191d; --dt: #fb923c; --dt-t: #43200c;
+  --shadow: 0 1px 2px rgba(0,0,0,.4), 0 6px 18px rgba(0,0,0,.3); color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #11131d; --surface: #1a1d2c; --surface2: #23273a; --ink: #eceefa; --ink2: #aab0c8; --line: #313654;
+  --navy: #0c0e1a; --on: #0f1120;
+  --st: #9b9cf7; --st-t: #24264a; --su: #45c3cd; --su-t: #12343a; --in: #f27ea1; --in-t: #40192a;
+  --ta: #e6bd45; --ta-t: #3a3010; --ta-b: #8f7419;
+  --ok: #6fd596; --ok-t: #143522; --bad: #ff8f97; --bad-t: #40191d; --dt: #fb923c; --dt-t: #43200c;
+  --shadow: 0 1px 2px rgba(0,0,0,.4), 0 6px 18px rgba(0,0,0,.3); color-scheme: dark; }
+
+
+* { box-sizing: border-box; margin: 0; }
+body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 15px; line-height: 1.5; }
+button { font: inherit; color: inherit; cursor: pointer; background: none; border: 0; text-align: left; }
+input, select, textarea { font: inherit; color: var(--ink); }
+:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+h1, h2, h3, h4 { font-family: var(--display); text-wrap: balance; line-height: 1.15; }
+svg.ic { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; flex: none; }
+[hidden] { display: none !important; }
+.wrap { max-width: 1400px; margin: 0 auto; padding: 18px 20px 48px; }
+.mast { background: #1b2559; color: #fff; }
+.mast-in { max-width: 1400px; margin: 0 auto; padding: 18px 20px 0; display: flex; flex-wrap: wrap; align-items: flex-end; gap: 12px 28px; }
+.brand { display: flex; align-items: center; gap: 14px; padding-bottom: 14px; margin-right: auto; }
+.brand svg { font-size: 40px; color: var(--gold); stroke-width: 1.5; }
+.brand h1 { font-size: 28px; font-weight: 800; letter-spacing: -.3px; } .brand p { color: #d5dafa; font-size: 14px; }
+.tabs { display: flex; gap: 4px; flex-wrap: wrap; }
+.tab { padding: 10px 18px; border-radius: 10px 10px 0 0; font-family: var(--display); font-weight: 700; font-size: 14px; color: #d5dafa; display: flex; gap: 8px; align-items: center; }
+.tab:hover { background: rgba(255,255,255,.1); color: #fff; } .tab[aria-selected="true"] { background: var(--bg); color: var(--ink); }
+.view { display: none; } .view.on { display: block; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); padding: 18px 20px; }
+.card > h2 { font-size: 21px; font-weight: 800; } .sub { color: var(--ink2); max-width: 70ch; }
+.btn { padding: 8px 16px; border-radius: 9px; background: var(--st); color: var(--on); font-weight: 700; font-size: 14px; display: inline-flex; gap: 6px; align-items: center; }
+.btn.ghost { background: var(--surface2); color: var(--ink); } .btn:disabled { opacity: .4; cursor: default; }
+.seg { display: inline-flex; background: var(--surface2); border-radius: 10px; padding: 3px; flex-wrap: wrap; }
+.seg button { padding: 7px 14px; border-radius: 8px; font-weight: 600; font-size: 14px; color: var(--ink2); } .seg button[aria-pressed="true"] { background: var(--st); color: var(--on); }
+.eyebrow { font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: .5px; color: var(--ink2); font-family: var(--display); }
+.chip { display: inline-flex; align-items: center; gap: 6px; border-radius: 14px; padding: 3px 11px; font-size: 13px; font-weight: 600; background: var(--st-t); }
+.foot { margin-top: 26px; font-size: 12.5px; color: var(--ink2); max-width: 95ch; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+
+/* Layout idea: controls describing one young person on the left; their pathway grows on the right, beside the adult comparison. */
+.yo { display: grid; grid-template-columns: 400px minmax(0, 1fr) 280px; gap: 16px; align-items: start; } @media (max-width: 1200px) { .yo { grid-template-columns: 380px minmax(0, 1fr); } .adult { grid-column: 1 / -1; } } @media (max-width: 860px) { .yo { grid-template-columns: 1fr; } }
+.ctl { display: flex; flex-direction: column; gap: 14px; } .ctl h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .5px; color: var(--ink2); margin-bottom: 6px; display: flex; gap: 7px; align-items: center; } .ctl h3 svg { color: var(--st); font-size: 15px; }
+.agebox { display: flex; align-items: center; gap: 14px; } .agebox b { font-family: var(--display); font-size: 40px; font-weight: 800; color: var(--st); line-height: 1; width: 52px; text-align: center; } .agebox input { flex: 1; accent-color: var(--st); }
+.ageband { display: grid; grid-template-columns: 2fr 4fr 4fr; gap: 4px; margin-top: 8px; } .ageband div { border-radius: 8px; padding: 5px 7px; background: var(--surface2); opacity: .55; } .ageband b { display: block; font-family: var(--display); font-size: 12.5px; } .ageband span { font-size: 11px; line-height: 1.2; display: block; }
+.ageband .on { opacity: 1; color: var(--on); } .ageband .u10.on { background: var(--ink2); } .ageband .doli.on { background: var(--ta-b); color: #1a1d2b; } .ageband .resp.on { background: var(--st); }
+.opts { display: flex; flex-direction: column; gap: 5px; }
+.opt { border: 2px solid var(--line); border-radius: 10px; padding: 6px 11px; background: var(--surface); width: 100%; display: flex; flex-direction: column; } .opt b { font-family: var(--display); font-size: 14px; } .opt span { font-size: 12.5px; color: var(--ink2); line-height: 1.35; }
+.opt:hover:not(:disabled) { border-color: var(--st); } .opt[aria-pressed="true"] { border-color: var(--st); background: var(--st-t); box-shadow: inset 5px 0 0 var(--st); } .opt.na { opacity: .55; cursor: not-allowed; border-style: dashed; }
+.flow { display: flex; flex-direction: column; }
+.start { display: flex; gap: 14px; align-items: center; background: #1b2559; color: #fff; border-radius: 14px; padding: 12px 16px; } .start svg { font-size: 34px; color: var(--gold); } .start small { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .5px; color: #d5dafa; display: block; } .start b { font-family: var(--display); font-size: 19px; display: block; line-height: 1.1; } .start span { font-size: 14px; color: #d5dafa; }
+.arr { width: 18px; height: 16px; margin: 5px 0 5px 30px; background: var(--ink2); clip-path: polygon(35% 0, 65% 0, 65% 45%, 100% 45%, 50% 100%, 0 45%, 35% 45%); }
+.fb { --c: var(--st); --t: var(--st-t); display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: start; background: var(--surface); border: 2px solid var(--c); border-left-width: 10px; border-radius: 13px; padding: 10px 14px; box-shadow: var(--shadow); }
+.fb.su { --c: var(--su); --t: var(--su-t); } .fb.ta { --c: var(--ta-b); --t: var(--ta-t); } .fb.in { --c: var(--in); --t: var(--in-t); } .fb.en { --c: #3b4585; --t: var(--surface2); }
+.fb > svg { font-size: 26px; color: var(--c); margin-top: 2px; } .fb h3 { font-size: 16px; } .fb p { font-size: 14px; margin-top: 2px; } .fb small { display: flex; gap: 6px; align-items: flex-start; font-size: 12.5px; color: var(--ink2); margin-top: 5px; } .fb small svg { margin-top: 3px; color: var(--ta); }
+.fb em { font-style: normal; font-size: 11.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .3px; background: var(--t); color: var(--ink); padding: 3px 9px; border-radius: 8px; white-space: nowrap; } @media (max-width: 600px) { .fb { grid-template-columns: auto 1fr; } .fb em { grid-column: 2; justify-self: start; } }
+.pend { border: 2px dashed var(--line); border-radius: 13px; padding: 14px 16px; color: var(--ink2); display: flex; gap: 10px; align-items: center; }
+.endb { display: flex; gap: 12px; align-items: flex-start; background: var(--ta-t); border: 2px solid var(--gold); border-radius: 13px; padding: 12px 16px; } .endb svg { font-size: 26px; color: var(--ta); } .endb b { font-family: var(--display); font-size: 16px; } .endb p { font-size: 14px; }
+.adult { background: var(--surface2); border-radius: 16px; padding: 14px 16px; display: flex; flex-direction: column; gap: 9px; position: sticky; top: 12px; } @media (max-width: 1200px) { .adult { position: static; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); } .adult h3 { grid-column: 1 / -1; } }
+.adult h3 { font-size: 15px; display: flex; gap: 8px; align-items: center; } .adult h3 svg { color: var(--ink2); } .adult small { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .4px; color: var(--ink2); } .adult span { font-size: 13.5px; }
+.lad { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 18px; align-items: start; } @media (max-width: 900px) { .lad { grid-template-columns: 1fr; } }
+.ladder { display: flex; flex-direction: column-reverse; gap: 7px; margin-top: 12px; }
+.rung { --c: var(--su); --t: var(--su-t); display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: center; border: 2px solid var(--c); background: var(--surface); border-radius: 12px; padding: 10px 14px; border-left-width: 10px; }
+.rung.ta { --c: var(--ta-b); --t: var(--ta-t); } .rung.in { --c: var(--in); --t: var(--in-t); } .rung i { font-style: normal; font-family: var(--display); font-weight: 800; width: 28px; height: 28px; border-radius: 50%; background: var(--c); color: var(--on); display: flex; align-items: center; justify-content: center; } .rung.ta i { color: #1a1d2b; }
+.rung b { font-family: var(--display); font-size: 15.5px; } .rung span { font-size: 12.5px; color: var(--ink2); } .rung[aria-pressed="true"] { background: var(--t); box-shadow: 0 0 0 3px var(--gold); }
+.lcap { display: flex; justify-content: space-between; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .4px; color: var(--ink2); margin-top: 8px; }
+#rdetail h2 { font-size: 22px; font-weight: 800; margin: 2px 0 6px; } #rdetail h3 { font-size: 13px; text-transform: uppercase; letter-spacing: .5px; color: var(--ink2); display: flex; gap: 7px; align-items: center; margin: 14px 0 7px; }
+.who { background: var(--st-t); border-radius: 10px; padding: 7px 12px; margin-top: 10px; font-weight: 600; font-size: 14px; } .who small { display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .4px; color: var(--st); }
+.bars { display: flex; flex-direction: column; gap: 6px; } .bars > div { display: grid; grid-template-columns: 170px 1fr 60px; gap: 10px; align-items: center; font-size: 13.5px; } .bars > div > div { height: 18px; background: var(--surface2); border-radius: 5px; overflow: hidden; }
+.bars i { display: block; height: 100%; border-radius: 5px; background: var(--su); } .bars i.ta { background: var(--ta-b); } .bars b { font-family: var(--display); text-align: right; font-variant-numeric: tabular-nums; } .bars .on span { font-weight: 800; }
+.stat { margin-top: 12px; font-size: 15px; } .stat b { font-family: var(--display); font-size: 22px; color: var(--st); } .srcl { font-size: 12.5px; color: var(--ink2); margin-top: 4px; }
+.pens { display: flex; flex-direction: column; gap: 5px; margin-top: 10px; } .pens div { display: flex; gap: 10px; align-items: center; background: var(--surface2); border-left: 7px solid #3b4585; border-radius: 0 10px 10px 0; padding: 6px 12px; font-size: 14px; font-weight: 500; } .pens i { font-style: normal; font-family: var(--display); font-weight: 800; color: var(--ink2); }
+.tw { overflow-x: auto; } table { border-collapse: separate; border-spacing: 0; width: 100%; min-width: 680px; font-size: 14px; margin-top: 12px; } th, td { padding: 10px 14px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--line); }
+thead th { font-family: var(--display); font-size: 15px; color: var(--on); } thead th:first-child { background: transparent; } thead th.c { background: var(--su); border-radius: 12px 0 0 0; } thead th.a { background: var(--ink2); border-radius: 0 12px 0 0; color: var(--surface); }
+tbody th { font-family: var(--display); font-size: 13px; width: 20%; color: var(--ink2); } td.c { background: var(--su-t); } td.a { background: var(--surface2); }
+.cases { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; margin-top: 12px; }
+.cs { --c: var(--st); background: var(--surface); border: 1px solid var(--line); border-top: 6px solid var(--c); border-radius: 13px; padding: 11px 15px; box-shadow: var(--shadow); } .cs.su { --c: var(--su); } .cs.ta { --c: var(--ta-b); } .cs.in { --c: var(--in); } .cs.en { --c: #3b4585; }
+.cs small { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .4px; color: var(--ink2); } .cs b { display: block; font-family: var(--display); font-style: italic; font-size: 16px; } .cs em { font-style: normal; font-size: 12.5px; color: var(--ink2); } .cs p { font-size: 14px; margin-top: 5px; }
+.think { padding: 12px 16px; border-radius: 12px; background: var(--st-t); margin-top: 16px; } .think b { font-family: var(--display); color: var(--st); display: block; font-size: 12px; text-transform: uppercase; letter-spacing: .4px; }
+
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+ <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3l7 3v5c0 4.6-3 8.1-7 10-4-1.9-7-5.4-7-10V6z"/><path d="M9 12l2.2 2.2L15.5 10"/></symbol>
+ <symbol id="i-doc" viewBox="0 0 24 24"><path d="M7 3h7l4 4v14H7z"/><path d="M14 3v4h4M9.5 12h6M9.5 16h6"/></symbol>
+ <symbol id="i-key" viewBox="0 0 24 24"><circle cx="8" cy="15.5" r="4"/><path d="M11 12.5L19.5 4M16.5 7l2.5 2.5M14 9.5l2 2"/></symbol>
+ <symbol id="i-court" viewBox="0 0 24 24"><path d="M3 9l9-5 9 5zM5.5 9v8.5M10 9v8.5M14 9v8.5M18.5 9v8.5M3 20h18"/></symbol>
+ <symbol id="i-scales" viewBox="0 0 24 24"><path d="M12 4v16M7.5 20h9M5 7h14M5 7l-3 7a3 3 0 006 0zM19 7l-3 7a3 3 0 006 0z"/></symbol>
+ <symbol id="i-gavel" viewBox="0 0 24 24"><path d="M12.5 4.5l6 6M9.5 7.5l6 6M11 9l-7.5 7.5 2 2L13 11M13 20.5h8"/></symbol>
+ <symbol id="i-jury" viewBox="0 0 24 24"><circle cx="6" cy="8" r="2.2"/><circle cx="12" cy="8" r="2.2"/><circle cx="18" cy="8" r="2.2"/><path d="M2.5 18c0-3 1.5-4.8 3.5-4.8S9.5 15 9.5 18M8.5 18c0-3 1.5-4.8 3.5-4.8s3.5 1.8 3.5 4.8M14.5 18c0-3 1.5-4.8 3.5-4.8s3.5 1.8 3.5 4.8"/></symbol>
+ <symbol id="i-speech" viewBox="0 0 24 24"><path d="M4 5h16v11H10l-5 4v-4H4z"/><path d="M8 9h8M8 12.5h5"/></symbol>
+ <symbol id="i-up" viewBox="0 0 24 24"><path d="M12 20V5M6 11l6-6 6 6M5 21h14"/></symbol>
+ <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 5c3-1 6-1 8 1 2-2 5-2 8-1v13c-3-1-6-1-8 1-2-2-5-2-8-1zM12 6v13"/></symbol>
+ <symbol id="i-person" viewBox="0 0 24 24"><circle cx="12" cy="8" r="3.6"/><path d="M5 20.5c0-4.2 3-7 7-7s7 2.8 7 7"/></symbol>
+ <symbol id="i-talk" viewBox="0 0 24 24"><path d="M4 6h7v8H8l-4 3zM20 10h-6v7h3l3 3z"/></symbol>
+ <symbol id="i-split" viewBox="0 0 24 24"><path d="M12 3v6M12 9l-7 6v5M12 9l7 6v5"/></symbol>
+ <symbol id="i-map" viewBox="0 0 24 24"><path d="M9 4L3 6v14l6-2 6 2 6-2V4l-6 2zM9 4v14M15 6v14"/></symbol>
+ <symbol id="i-route" viewBox="0 0 24 24"><circle cx="6" cy="18" r="2.5"/><circle cx="18" cy="6" r="2.5"/><path d="M8.5 18H15a3 3 0 000-6H9a3 3 0 010-6h6.5"/></symbol>
+ <symbol id="i-table" viewBox="0 0 24 24"><path d="M3 5h18v14H3zM3 10h18M9 5v14M15 5v14"/></symbol>
+ <symbol id="i-check" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M8 12.5l2.8 2.8L16 9.5"/></symbol>
+ <symbol id="i-x" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M9 9l6 6M15 9l-6 6"/></symbol>
+ <symbol id="i-bulb" viewBox="0 0 24 24"><path d="M9 18h6M10 21h4M12 3a6 6 0 00-3.5 10.9c.6.5 1 1.3 1 2.1h5c0-.8.4-1.6 1-2.1A6 6 0 0012 3z"/></symbol>
+ <symbol id="i-list" viewBox="0 0 24 24"><path d="M8 6h12M8 12h12M8 18h12M4 6h.01M4 12h.01M4 18h.01"/></symbol>
+ <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 3l2.7 5.6 6.1.8-4.5 4.2 1.1 6-5.4-3-5.4 3 1.1-6L3.2 9.4l6.1-.8z"/></symbol>
+ <symbol id="i-next" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+ <symbol id="i-prev" viewBox="0 0 24 24"><path d="M19 12H5M11 6l-6 6 6 6"/></symbol>
+
+ <symbol id="i-warn" viewBox="0 0 24 24"><path d="M12 3l10 18H2zM12 10v5M12 18h.01"/></symbol>
+ <symbol id="i-pen" viewBox="0 0 24 24"><path d="M4 20l1-4L16 5l3 3L8 19zM14 7l3 3"/></symbol>
+ <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+ <symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 7h16M9 7V4h6v3M6 7l1 13h10l1-13"/></symbol>
+ <symbol id="i-copy" viewBox="0 0 24 24"><path d="M9 9h11v11H9zM5 15H4V4h11v1"/></symbol>
+ <symbol id="i-child" viewBox="0 0 24 24"><circle cx="12" cy="6.500" r="3"/><path d="M12 9.500v6M8 12h8M12 15.500l-3 5M12 15.500l3 5"/></symbol>
+ <symbol id="i-ladder" viewBox="0 0 24 24"><path d="M8 3v18M16 3v18M8 7h8M8 12h8M8 17h8"/></symbol>
+ <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.500"/><path d="M16 16l5 5"/></symbol>
+ <symbol id="i-heart" viewBox="0 0 24 24"><path d="M12 20s-7-4.500-7-10a4 4 0 017-2.500A4 4 0 0119 10c0 5.500-7 10-7 10z"/></symbol>
+ <symbol id="i-lock" viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="9" rx="2"/><path d="M8 11V8a4 4 0 018 0v3"/></symbol>
+</svg>
+<header class="mast"><div class="mast-in">
+  <div class="brand"><svg class="ic"><use href="#i-child"/></svg><div><h1>Young Offenders Pathway</h1><p>How the law deals with a child or young person accused of a crime in NSW</p></div></div>
+  <nav class="tabs" role="tablist" aria-label="Sections"><button class="tab" role="tab" data-view="path"><svg class="ic"><use href="#i-route"/></svg>Build a pathway</button><button class="tab" role="tab" data-view="ladder"><svg class="ic"><use href="#i-ladder"/></svg>The ladder</button><button class="tab" role="tab" data-view="compare"><svg class="ic"><use href="#i-table"/></svg>Child v adult</button><button class="tab" role="tab" data-view="cases"><svg class="ic"><use href="#i-gavel"/></svg>Cases</button></nav>
+</div></header>
+<main class="wrap">
+<section class="view" id="v-path">
+  <div class="yo">
+    <div class="card ctl" id="ctl">
+      <div><h3><svg class="ic"><use href="#i-child"/></svg>How old is the young person?</h3><div class="agebox"><b id="agev">15</b><input type="range" id="age" min="8" max="17" step="1" value="15" aria-label="Age"></div><div class="ageband" id="ageband"></div></div>
+      <div><h3><svg class="ic"><use href="#i-doc"/></svg>What are they alleged to have done?</h3><div class="opts" id="offs"></div></div>
+      <div id="q-doli"><h3><svg class="ic"><use href="#i-scales"/></svg>Can the prosecution prove the child knew it was seriously wrong?</h3><div class="seg"><button data-doli="no">No</button><button data-doli="yes">Yes</button></div></div>
+      <div id="q-deny"><h3><svg class="ic"><use href="#i-speech"/></svg>Does the young person deny the offence?</h3><div class="seg"><button data-deny="no">Does not deny it</button><button data-deny="yes">Denies it</button></div></div>
+      <div id="q-caut"><h3><svg class="ic"><use href="#i-list"/></svg>Cautions in the last three years</h3><div class="seg"><button data-c="0">None</button><button data-c="1">1</button><button data-c="2">2</button><button data-c="3">3</button></div></div>
+      <div id="q-resp"><h3><svg class="ic"><use href="#i-shield"/></svg>You are the police officer. How do you respond?</h3><div class="opts" id="resp"></div></div>
+    </div>
+    <div class="flow" id="flow"></div>
+    <aside class="adult" id="adult"></aside>
+  </div>
+</section>
+<section class="view" id="v-ladder">
+  <div class="lad">
+    <div class="card"><h2>The ladder: from a warning to a higher court</h2><p class="sub">The Young Offenders Act 1997 (NSW) sets up three alternatives to court. Police should use the least restrictive response that fits. Click a rung.</p>
+      <div class="ladder" id="ladder"></div><div class="lcap"><span>Least serious response</span><span>Most serious</span></div></div>
+    <div class="card" id="rdetail"></div>
+  </div>
+  <div class="card" style="margin-top:16px"><h2>Penalties in the Children’s Court</h2><p class="sub">If an offence is proved, the court chooses from this list, lightest first (Children (Criminal Proceedings) Act 1987 (NSW) s 33).</p><div class="pens" id="pens"></div></div>
+</section>
+<section class="view" id="v-compare">
+  <div class="card"><h2>How a young person is treated differently from an adult</h2><p class="sub">The law treats children differently because they are less mature, more vulnerable and more likely to change.</p><div class="tw"><table id="cmp"></table></div>
+    <div class="think"><b>Extended response practice</b>‘The criminal justice system must treat young offenders differently in order to achieve justice.’ To what extent is this statement true? (HSC 2016)</div></div>
+</section>
+<section class="view" id="v-cases">
+  <div class="card"><h2>Cases to use as evidence</h2><p class="sub">All are in the class Evidence Finder, where you will find the full record for each.</p><div class="cases" id="cases"></div></div>
+</section>
+<p class="foot">Built from the class Evidence Finder records for the Young Offenders Act 1997 (NSW) and the Children (Criminal Proceedings) Act 1987 (NSW), including the 2026 changes: doli incapax written into s 5 from 1 March 2026, and non-denial statements for cautions and conferences from 1 July 2026. The five offences are examples chosen to show different paths. A simplified study tool for HSC Legal Studies, not legal advice. Law checked 12 November 2026.</p>
+
+</main>
+<script>
+const ic = n => `<svg class="ic"><use href="#i-${n}"/></svg>`;
+const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)];
+const VIEWS = ["path", "ladder", "compare", "cases"];
+function show(v, push = true) { if (!VIEWS.includes(v)) v = VIEWS[0];
+  VIEWS.forEach(x => { const el = $('#v-' + x); if (el) el.classList.toggle('on', x === v); const t = document.querySelector(`.tab[data-view="${x}"]`); if (t) t.setAttribute('aria-selected', x === v); });
+  if (push && location.hash.slice(1) !== v) { try { location.hash = v; } catch (e) {} } }
+$$('.tab').forEach(t => t.onclick = () => show(t.dataset.view));
+addEventListener('hashchange', () => show(location.hash.slice(1), false));
+
+const OFF = [
+  { v: 'conduct', l: 'Offensive conduct at a train station', k: 'Summary offence, no violence', warn: 1, yoa: 1 },
+  { v: 'shop', l: 'Shoplifting a $40 phone charger', k: 'Minor property offence', yoa: 1 },
+  { v: 'assault', l: 'Punching another student at school', k: 'Common assault: an offence of violence', yoa: 1, violent: 1 },
+  { v: 'car', l: 'Stealing a car and driving it', k: 'Serious property offence', yoa: 1 },
+  { v: 'murder', l: 'Murder', k: 'A serious children’s indictable offence', scio: 1 },
+];
+const S = { age: 15, off: 'shop', doli: 'no', deny: 'no', cautions: 0, resp: null };
+const O = () => OFF.find(o => o.v === S.off);
+const band = () => S.age < 10 ? 'u10' : S.age < 14 ? 'doli' : 'resp';
+
+function options() { const o = O(), out = [];
+  if (o.scio) return [['court', 'Charge', 'This offence is too serious for the Young Offenders Act. It must go to court.', true]];
+  out.push(['warning', 'Warning', o.warn ? 'An informal warning on the spot. No conditions, no admission needed.' : 'Not available: warnings are only for summary offences that do not involve violence.', !!o.warn]);
+  const nd = S.deny === 'no';
+  out.push(['caution', 'Formal caution', !nd ? 'Not available: the young person denies the offence.' : S.cautions >= 3 ? 'Not available: no more than three cautions in three years.' : 'A formal caution, usually at a police station with a parent or support person present.', nd && S.cautions < 3]);
+  out.push(['conference', 'Youth justice conference', !nd ? 'Not available: the young person denies the offence.' : 'The young person meets the victim, family and police and agrees to an outcome plan.', nd]);
+  out.push(['court', 'Court', 'Start proceedings in the Children’s Court, by court attendance notice where possible.', true]);
+  return out; }
+
+function path() { const o = O(), b = band(), st = [];
+  const add = (cls, icon, title, text, law, tag) => st.push({ cls, icon, title, text, law, tag });
+  if (b === 'u10') { add('st', 'child', 'Age of criminal responsibility', `At ${S.age}, this child is under 10. The law says a child under 10 cannot be guilty of an offence.`, 'Children (Criminal Proceedings) Act 1987 (NSW) s 5', 'No criminal responsibility');
+    return { st, end: ['No charge can be laid', 'The matter cannot go to court. Police may involve the child’s family or support services, but there is no criminal process.'] }; }
+  if (b === 'doli') { add('st', 'child', 'Age of criminal responsibility', `At ${S.age}, the child is presumed to be <i>doli incapax</i>: incapable of crime. The prosecution must prove beyond reasonable doubt that the child knew the act was seriously wrong, not merely naughty.`, 'Children (Criminal Proceedings) Act 1987 (NSW) s 5 · RP v The Queen [2016] HCA 53', 'Doli incapax presumed');
+    if (S.doli === 'no') return { st, end: ['Presumption not rebutted', 'The prosecution cannot prove the child understood the act was seriously wrong, so the child cannot be found guilty. In RP v The Queen the High Court quashed convictions for this reason.'] };
+    st[0].tag = 'Presumption rebutted'; st[0].text += ' Here the prosecution can prove it, as in DPP v NW, where a 13-year-old’s own words in counselling showed he knew.'; }
+  else add('st', 'child', 'Age of criminal responsibility', `At ${S.age}, the young person is criminally responsible, but is still dealt with as a child until 18.`, 'Children (Criminal Proceedings) Act 1987 (NSW) ss 5, 6', 'Responsible, treated as a child');
+  add('st', 'shield', 'Rights when questioned', 'A statement to police generally cannot be used in court unless a parent, guardian, chosen adult or lawyer was present. Proceedings should start by court attendance notice, not arrest, where possible.', 'Children (Criminal Proceedings) Act 1987 (NSW) ss 8, 13', 'Support person');
+  const r = S.resp;
+  if (!r) return { st, pending: true };
+  if (r === 'warning') { add('su', 'speech', 'Warning', 'Police give a warning on the spot and record it. Nothing further happens.', 'Young Offenders Act 1997 (NSW)', 'Diverted'); return { st, end: ['Diverted from court', 'No court, no conviction and no criminal record. A warning is the lowest rung of the ladder.'] }; }
+  if (r === 'caution') { add('su', 'doc', 'Formal caution', 'A formal caution is given, usually with a parent or support person present. The young person does not deny the offence and consents.', 'Young Offenders Act 1997 (NSW) ss 10, 20', 'Diverted'); return { st, end: ['Diverted from court', 'No court and no conviction. A young person can receive no more than three cautions in three years.'] }; }
+  if (r === 'conference') { add('su', 'jury', 'Youth justice conference', 'The young person, family, the victim and police meet with a convenor and agree on an outcome plan, such as an apology, repair or community work. Conferences should be held within 42 days.', 'Young Offenders Act 1997 (NSW) ss 10, 43', 'Restorative justice'); return { st, end: ['Diverted from court', 'If the outcome plan is completed there is no court and no conviction. The victim has a voice in the result.'] }; }
+  if (o.scio) { add('in', 'court', 'Supreme or District Court', 'A serious children’s indictable offence is dealt with “according to law” in a higher court, in the same way as for an adult. Publication of the child’s name is still prohibited.', 'Children (Criminal Proceedings) Act 1987 (NSW) ss 3, 15A, 17', 'Tried as for an adult');
+    add('en', 'gavel', 'Sentencing in the higher court', 'Adult penalties apply, but youth remains relevant. The sentence can be served in a youth justice centre. In R v SLD a 13-year-old received 20 years with a 10-year non-parole period.', 'Children (Criminal Proceedings) Act 1987 (NSW) s 19 · R v SLD [2002] NSWSC 758', 'Adult penalties');
+    return { st, end: ['Sentenced according to law', 'The most serious offences leave the Children’s Court altogether. In R v KL a 14-year-old was tried for murder in the Supreme Court and found guilty of manslaughter.'] }; }
+  add('ta', 'court', 'Children’s Court', 'A specialist Children’s Magistrate hears the case in a closed court, without a jury. The child’s name cannot be published.', 'Children (Criminal Proceedings) Act 1987 (NSW) ss 6, 15A', 'Closed court');
+  add('en', 'gavel', 'Penalties for children', `If the offence is proved, the court chooses from the children’s penalty ladder. ${S.age < 16 ? 'Because the child is under 16, no conviction can be recorded.' : 'At 16 or 17 the court has a discretion whether to record a conviction.'} The most severe penalty is a control order of up to 2 years in a youth justice centre.`, 'Children (Criminal Proceedings) Act 1987 (NSW) ss 14, 33', S.age < 16 ? 'No conviction recorded' : 'Conviction is discretionary');
+  return { st, end: ['Dealt with in the Children’s Court', 'Rehabilitation is generally the primary consideration when sentencing a young offender (R v GDP). The more “adult” the behaviour, the more weight protection of the community carries (KT v R).'] };
+}
+function adult() { const o = O();
+  return [['Responsibility', 'Fully responsible. No presumption of incapacity.'], ['Questioning', 'No right to have a support person present, unless vulnerable.'], ['Diversion', o.scio ? 'None. Charged and prosecuted.' : 'Limited: a caution or a penalty notice for some minor offences. Only 3.9% of adults are diverted, against 45.6% of young people.'],
+    ['Court', o.scio ? 'Supreme Court, open to the public, usually with a jury.' : 'Local Court, open to the public. The accused can be named.'], ['Result', o.scio ? 'Up to life imprisonment.' : 'A conviction is normally recorded. Penalties include fines, community orders and prison.']]; }
+
+function render() {
+  const b = band(), o = O(), p = path(), opts = options();
+  if (S.resp && !opts.find(x => x[0] === S.resp && x[3])) { S.resp = null; return render(); }
+  $('#agev').textContent = S.age; $('#age').value = S.age;
+  $('#ageband').innerHTML = [['u10', 'Under 10', 'No criminal responsibility'], ['doli', '10 to 13', 'Doli incapax presumed'], ['resp', '14 to 17', 'Responsible, treated as a child']].map(x => `<div class="${x[0]} ${b === x[0] ? 'on' : ''}"><b>${x[1]}</b><span>${x[2]}</span></div>`).join('');
+  $('#offs').innerHTML = OFF.map(x => `<button class="opt" data-off="${x.v}" aria-pressed="${S.off === x.v}"><b>${x.l}</b><span>${x.k}</span></button>`).join('');
+  $('#q-doli').hidden = b !== 'doli'; $$('#q-doli [data-doli]').forEach(x => x.setAttribute('aria-pressed', x.dataset.doli === S.doli));
+  const live = b !== 'u10' && !(b === 'doli' && S.doli === 'no');
+  $('#q-deny').hidden = !live || !!o.scio; $$('#q-deny [data-deny]').forEach(x => x.setAttribute('aria-pressed', x.dataset.deny === S.deny));
+  $('#q-caut').hidden = !live || !!o.scio; $$('#q-caut [data-c]').forEach(x => x.setAttribute('aria-pressed', +x.dataset.c === S.cautions));
+  $('#q-resp').hidden = !live;
+  $('#resp').innerHTML = opts.map(x => `<button class="opt ${x[3] ? '' : 'na'}" data-resp="${x[0]}" aria-pressed="${S.resp === x[0]}" ${x[3] ? '' : 'disabled'}><b>${x[1]}</b><span>${x[2]}</span></button>`).join('');
+  $('#flow').innerHTML = `<div class="start">${ic('child')}<div><small>The young person</small><b>Aged ${S.age}</b><span>${o.l}</span></div></div>` +
+    p.st.map(s => `<div class="arr"></div><div class="fb ${s.cls}">${ic(s.icon)}<div><h3>${s.title}</h3><p>${s.text}</p><small>${ic('book')}${s.law}</small></div><em>${s.tag}</em></div>`).join('') +
+    (p.pending ? `<div class="arr"></div><div class="pend">${ic('shield')}Choose how police respond, on the left, to see what happens next.</div>` : `<div class="arr"></div><div class="endb">${ic('star')}<div><b>${p.end[0]}</b><p>${p.end[1]}</p></div></div>`);
+  $('#adult').innerHTML = `<h3>${ic('person')}An adult in the same position</h3>` + adult().map(a => `<div><small>${a[0]}</small><span>${a[1]}</span></div>`).join('');
+}
+$('#age').oninput = e => { S.age = +e.target.value; render(); };
+$('#ctl').addEventListener('click', e => { const t = e.target.closest('button'); if (!t) return; const d = t.dataset;
+  if (d.off) { S.off = d.off; S.resp = null; } else if (d.doli) S.doli = d.doli; else if (d.deny) { S.deny = d.deny; } else if (d.c !== undefined) S.cautions = +d.c; else if (d.resp) S.resp = d.resp; else return; render(); });
+
+/* ---------- ladder ---------- */
+const RUNG = [
+  ['warning', 'su', 'Warning', '3,166', 3166, 'Given on the spot by any police officer for a summary offence that does not involve violence. No admission is needed and no conditions can be attached.', 'Police officer'],
+  ['caution', 'su', 'Formal caution', '6,740', 6740, 'A formal caution, usually given at a police station with a support person present. The young person must not deny the offence and must consent. No more than three in three years.', 'Police'],
+  ['conference', 'su', 'Youth justice conference', '947', 947, 'A meeting of the young person, family, victim and police, run by a convenor. They agree on an outcome plan such as an apology, repair or community work. This is restorative justice.', 'Police, the DPP or the court can refer'],
+  ['court', 'ta', 'Children’s Court', '11,238', 11238, 'A closed court with a specialist magistrate and no jury. No naming of the child. No conviction recorded under 16. Penalties run from a caution to a control order of up to 2 years.', 'Children’s Magistrate'],
+  ['higher', 'in', 'Supreme or District Court', '', 0, 'Serious children’s indictable offences, such as murder, are dealt with according to law in a higher court. There were 55 such offences from September 2026.', 'Judge, and usually a jury'],
+];
+const PEN = ['Dismissal, with or without a caution', 'Conference outcome plan', 'Good behaviour bond (up to 2 years)', 'Fine (up to 10 penalty units)', 'Probation', 'Community service order', 'Suspended control order', 'Control order: detention for up to 2 years for one offence'];
+let rsel = 'caution';
+function renderLadder() { const mx = 11238, r = RUNG.find(x => x[0] === rsel);
+  $('#ladder').innerHTML = RUNG.map((x, i) => `<button class="rung ${x[1]}" data-r="${x[0]}" aria-pressed="${rsel === x[0]}" style="margin-left:${i * 5}%"><i>${i + 1}</i><b>${x[2]}</b>${x[3] ? `<span>${x[3]} young people</span>` : '<span>Most serious offences</span>'}</button>`).join('');
+  $('#rdetail').innerHTML = `<span class="eyebrow">Rung ${RUNG.indexOf(r) + 1} of 5</span><h2>${r[2]}</h2><p>${r[5]}</p><div class="who"><small>Who decides</small>${r[6]}</div>
+    <h3>${ic('list')}12 months to June 2026</h3><div class="bars">${RUNG.slice(0, 4).map(x => `<div class="${x[0] === rsel ? 'on' : ''}"><span>${x[2]}</span><div><i class="${x[1]}" style="width:${x[4] / mx * 100}%"></i></div><b>${x[3]}</b></div>`).join('')}</div>
+    <p class="stat"><b>45.6%</b> of young people were diverted from court, against <b>3.9%</b> of adults.</p><p class="srcl">Source: NSW Bureau of Crime Statistics and Research, as recorded in the class Evidence Finder.</p>`;
+  $('#pens').innerHTML = PEN.map((x, i) => `<div style="margin-right:${(PEN.length - 1 - i) * 4}%"><i>${i + 1}</i>${x}</div>`).join(''); }
+$('#ladder').onclick = e => { const b = e.target.closest('[data-r]'); if (b) { rsel = b.dataset.r; renderLadder(); } };
+
+/* ---------- compare + cases ---------- */
+const CMP = [['Criminal responsibility', 'None under 10. From 10 to 13 the prosecution must rebut <i>doli incapax</i>.', 'Full responsibility from 18.'], ['When questioned', 'A parent, guardian, chosen adult or lawyer must normally be present, or the statement cannot be used.', 'A caution and the right to silence. No support person unless vulnerable.'], ['Starting the case', 'By court attendance notice in preference to arrest.', 'Arrest where reasonably necessary, or a court attendance notice.'], ['Alternatives to court', 'Warnings, cautions and youth justice conferences. 45.6% diverted.', 'Cautions and penalty notices for some minor offences. 3.9% diverted.'], ['Court', 'Children’s Court: closed, specialist magistrate, no jury.', 'Local, District or Supreme Court: open to the public.'], ['Publicity', 'The child’s name cannot be published.', 'The accused can normally be named.'], ['Conviction', 'Cannot be recorded under 16. Discretionary at 16 and 17.', 'Normally recorded on a finding of guilt.'], ['Heaviest penalty', 'Control order: 2 years for one offence, 3 in total. Adult penalties only for serious children’s indictable offences.', 'Up to life imprisonment.'], ['Main aim of sentencing', 'Rehabilitation generally comes first. Detention is a last resort.', 'All purposes are weighed: punishment, deterrence, protection, rehabilitation.']];
+const CASES = [['RP v The Queen', '[2016] HCA 53', 'Age of criminal responsibility', 'The prosecution must prove the child knew the act was seriously wrong in a moral sense, not just naughty. The convictions of a boy of very low intelligence were quashed.', 'st'], ['DPP (NSW) v NW', '', 'Age of criminal responsibility', 'A 13-year-old’s own words in counselling showed he knew his conduct was wrong, so the presumption was rebutted.', 'st'], ['JH v R; R v FE; R v Eliot', '[2019] NSWSC 192 and others', 'Rights when questioned or arrested', 'Three cases where courts refused to let police shortcuts stand: an unnecessary arrest, an interview without a proper support person, and a laptop taken without a warrant.', 'st'], ['R v John', '[2023] NSWChC 6', 'Children’s Court and penalties', 'After eight offence-free months in the Youth Koori Court, a Wiradjuri young person had minor charges dismissed and received bonds, with no conviction.', 'ta'], ['R v GDP and KT v R', '(1991) and [2008] NSWCCA 51', 'Penalties for children', 'Rehabilitation is generally the primary consideration, but “adult behaviour” such as weapons or planning shifts weight to protecting the community.', 'en'], ['R v SLD', '[2002] NSWSC 758', 'Penalties for children', 'A 13-year-old who killed a young child was sentenced in the Supreme Court to 20 years with a 10-year non-parole period.', 'in'], ['R v KL', '[2025] NSWSC 1414', 'Serious children’s indictable offences', 'A 14-year-old was tried for murder in the Supreme Court. After a hung jury, a judge alone found manslaughter.', 'in'], ['R v RK', '[2026] NSWSC 1414', 'Penalties for children', 'A 14-year-old who prepared for a terrorist act received a three-year community correction order, because his prospects of rehabilitation were excellent.', 'en']];
+$('#cmp').innerHTML = `<thead><tr><th></th><th class="c">Young person (10 to 17)</th><th class="a">Adult (18 and over)</th></tr></thead><tbody>${CMP.map(r => `<tr><th scope="row">${r[0]}</th><td class="c">${r[1]}</td><td class="a">${r[2]}</td></tr>`).join('')}</tbody>`;
+$('#cases').innerHTML = CASES.map(c => `<div class="cs ${c[4]}"><small>${c[2]}</small><b>${c[0]}</b>${c[1] ? `<em>${c[1]}</em>` : ''}<p>${c[3]}</p></div>`).join('');
+render(); renderLadder();
+
+show(location.hash.slice(1) || VIEWS[0], false);
+</script>
+</body>
+</html>
