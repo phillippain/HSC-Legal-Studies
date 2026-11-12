@@ -302,9 +302,10 @@ and a printable term list, in the same look as the other Crime tools.
 - **Links out:** every meaning links to past HSC questions on its syllabus point
   (`index.html#tags=…`), the Topic Map, and the matching Crime tool.
 
-## The "All tools" menu — `build/build_sitemenu.py`
+## The Home button and "Other tools" menu — `build/build_sitemenu.py`
 
-Every sub-site carries the same gold **All tools** button. It opens a list of the eight
+Every sub-site carries the same two gold buttons. **Home** goes back to the main HSC Legal
+Studies website. **Other tools** opens a list of the eight
 sub-sites (Question Finder, Evidence Finder, the four Crime tools, the Crime Glossary and the
 Topic Map), marks the page you are on, and ends with a link back to the main HSC Legal
 Studies website.

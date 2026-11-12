@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Put the same "All tools" drop-down menu on every sub-site.
+"""Put the same Home button and "Other tools" drop-down menu on every sub-site.
 
     python3 build/build_sitemenu.py           # write the menu into every page and template
     python3 build/build_sitemenu.py --check   # change nothing; fail if any page is out of date
@@ -62,9 +62,10 @@ MM_AFTER = re.compile(r'(<button class="btn" id="btnTheme"[^\n]*</button>\n)')
 MARKED = re.compile(r"[ \t]*<!-- SITEMENU:START.*?<!-- SITEMENU:END -->\n", re.S)
 
 CSS = """
-.sm{position:relative;display:inline-block;font-size:13px;line-height:1.3;text-align:left}
-.sm svg{width:1.15em;height:1.15em;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}
-.sm-btn{list-style:none;cursor:pointer;display:inline-flex;gap:7px;align-items:center;background:#ffd24a;color:#1a1d2b;border-radius:999px;padding:6px 13px;font-weight:700;white-space:nowrap;user-select:none;-webkit-user-select:none}
+.smw{display:inline-flex;gap:8px;align-items:center;font-size:13px;line-height:1.3}
+.sm{position:relative;display:inline-block;text-align:left}
+.smw svg{width:1.15em;height:1.15em;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}
+.sm-btn{list-style:none;cursor:pointer;display:inline-flex;gap:7px;align-items:center;background:#ffd24a;color:#1a1d2b;border-radius:999px;padding:6px 13px;font-weight:700;white-space:nowrap;text-decoration:none;user-select:none;-webkit-user-select:none}
 .sm-btn::-webkit-details-marker{display:none}
 .sm-btn:hover{background:#ffe07a}
 .sm-btn:focus-visible{outline:3px solid #fff;outline-offset:2px}
@@ -95,11 +96,11 @@ a.sm-a:hover,a.sm-a:focus-visible{background:#eceeff;outline:none}
 :root:not([data-theme="light"]) .sm-cur em{color:#e6bd45}
 :root:not([data-theme="light"]) .sm-ext{border-color:#313654}
 }
-.sm--corner{position:absolute;top:14px;right:20px}
-.sm--row{margin-left:auto}
-.sm--hub{margin-bottom:14px}
-@media (max-width:900px){.sm--corner{position:static;margin-bottom:10px}}
-@media print{.sm{display:none !important}}
+.smw--corner{position:absolute;top:14px;right:20px}
+.smw--row{margin-left:auto}
+.smw--hub{margin-bottom:14px}
+@media (max-width:900px){.smw--corner{position:static;margin-bottom:10px}}
+@media print{.smw{display:none !important}}
 """.strip()
 
 # The list is position:fixed and placed under the button by script, so a masthead with
@@ -121,6 +122,8 @@ def svg(paths, cls=""):
 
 def menu(key):
     pg = PAGES[key]
+    grid = '<path d="M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4zM14 14h6v6h-6z"/>'
+    house = '<path d="M3 11l9-7 9 7M5 10v10h14V10M10 20v-6h4v6"/>'
     rows, group = [], None
     for g, k, label, desc, path, icon in SITES:
         if g != group:
@@ -131,14 +134,15 @@ def menu(key):
         else:
             href = pg["up"] + path + (pg.get("gloss", "") if k == "gloss" else "")
             rows.append(f'  <a class="sm-a" href="{href}">{svg(icon)}<span><b>{label}</b><em>{desc}</em></span></a>')
-    rows.append(f'  <a class="sm-a sm-ext" href="{HOME}">{svg(chr(60) + "path d=" + chr(34) + "M3 11l9-7 9 7M5 10v10h14V10M10 20v-6h4v6" + chr(34) + "/>")}'
+    rows.append(f'  <a class="sm-a sm-ext" href="{HOME}">{svg(house)}'
                 '<span><b>HSC Legal Studies website</b><em>Back to the main class site</em></span></a>')
-    grid = '<path d="M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4zM14 14h6v6h-6z"/>'
     return ("<!-- SITEMENU:START built by build/build_sitemenu.py; edit the list of sites there, not here -->\n"
             f"<style>\n{CSS}\n</style>\n"
-            f'<details class="sm sm--{pg["place"]}" id="sitemenu"><summary class="sm-btn" aria-label="All tools: open the list of HSC Legal Studies sites">'
-            f'{svg(grid)}All tools{svg(chr(60) + "path d=" + chr(34) + "M6 9l6 6 6-6" + chr(34) + "/>", "sm-caret")}</summary>\n'
-            '<div class="sm-list">\n' + "\n".join(rows) + "\n</div></details>\n"
+            f'<span class="smw smw--{pg["place"]}">'
+            f'<a class="sm-btn sm-home" href="{HOME}" aria-label="Home: back to the main HSC Legal Studies website">{svg(house)}Home</a>\n'
+            '<details class="sm" id="sitemenu"><summary class="sm-btn" aria-label="Other tools: open the list of HSC Legal Studies sites">'
+            f'{svg(grid)}Other tools{svg(chr(60) + "path d=" + chr(34) + "M6 9l6 6 6-6" + chr(34) + "/>", "sm-caret")}</summary>\n'
+            '<div class="sm-list">\n' + "\n".join(rows) + "\n</div></details></span>\n"
             f"<script>{JS}</script>\n"
             "<!-- SITEMENU:END -->\n")
 
@@ -167,7 +171,7 @@ def main():
                 stale.append(f)
                 if not CHECK:
                     p.write_text(new, encoding="utf-8")
-    print(f"site menu: {len(SITES)} sites plus the class website, on {sum(len(p['files']) for p in PAGES.values())} files")
+    print(f"site menu: Home button and Other tools list of {len(SITES)} sites plus the class website, on {sum(len(p['files']) for p in PAGES.values())} files")
     if CHECK:
         if stale:
             print("OUT OF DATE: " + ", ".join(stale) + ". Run python3 build/build_sitemenu.py"); sys.exit(1)

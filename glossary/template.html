@@ -206,9 +206,10 @@ kbd { font-family: var(--body); font-size: 11.5px; font-weight: 700; border: 1px
     <div class="brand"><svg class="ic"><use href="#i-book"/></svg><div><h1>Crime Glossary</h1><p><span id="m-n"></span> key terms from all six Crime topics, each with where it sits in the workbook and the syllabus</p></div></div>
 <!-- SITEMENU:START built by build/build_sitemenu.py; edit the list of sites there, not here -->
 <style>
-.sm{position:relative;display:inline-block;font-size:13px;line-height:1.3;text-align:left}
-.sm svg{width:1.15em;height:1.15em;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}
-.sm-btn{list-style:none;cursor:pointer;display:inline-flex;gap:7px;align-items:center;background:#ffd24a;color:#1a1d2b;border-radius:999px;padding:6px 13px;font-weight:700;white-space:nowrap;user-select:none;-webkit-user-select:none}
+.smw{display:inline-flex;gap:8px;align-items:center;font-size:13px;line-height:1.3}
+.sm{position:relative;display:inline-block;text-align:left}
+.smw svg{width:1.15em;height:1.15em;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;flex:none}
+.sm-btn{list-style:none;cursor:pointer;display:inline-flex;gap:7px;align-items:center;background:#ffd24a;color:#1a1d2b;border-radius:999px;padding:6px 13px;font-weight:700;white-space:nowrap;text-decoration:none;user-select:none;-webkit-user-select:none}
 .sm-btn::-webkit-details-marker{display:none}
 .sm-btn:hover{background:#ffe07a}
 .sm-btn:focus-visible{outline:3px solid #fff;outline-offset:2px}
@@ -239,13 +240,14 @@ a.sm-a:hover,a.sm-a:focus-visible{background:#eceeff;outline:none}
 :root:not([data-theme="light"]) .sm-cur em{color:#e6bd45}
 :root:not([data-theme="light"]) .sm-ext{border-color:#313654}
 }
-.sm--corner{position:absolute;top:14px;right:20px}
-.sm--row{margin-left:auto}
-.sm--hub{margin-bottom:14px}
-@media (max-width:900px){.sm--corner{position:static;margin-bottom:10px}}
-@media print{.sm{display:none !important}}
+.smw--corner{position:absolute;top:14px;right:20px}
+.smw--row{margin-left:auto}
+.smw--hub{margin-bottom:14px}
+@media (max-width:900px){.smw--corner{position:static;margin-bottom:10px}}
+@media print{.smw{display:none !important}}
 </style>
-<details class="sm sm--hub" id="sitemenu"><summary class="sm-btn" aria-label="All tools: open the list of HSC Legal Studies sites"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4zM14 14h6v6h-6z"/></svg>All tools<svg class="sm-caret" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary>
+<span class="smw smw--hub"><a class="sm-btn sm-home" href="https://sites.google.com/education.nsw.gov.au/hsc-legal-studies-at-sscbwb/home" aria-label="Home: back to the main HSC Legal Studies website"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11l9-7 9 7M5 10v10h14V10M10 20v-6h4v6"/></svg>Home</a>
+<details class="sm" id="sitemenu"><summary class="sm-btn" aria-label="Other tools: open the list of HSC Legal Studies sites"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4zM14 14h6v6h-6z"/></svg>Other tools<svg class="sm-caret" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary>
 <div class="sm-list">
   <span class="sm-h">Finders</span>
   <a class="sm-a" href="../index.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3h7l4 4v14H7z"/><path d="M14 3v4h4M9.5 12h6M9.5 16h6"/></svg><span><b>Question Finder</b><em>Every HSC question, 2011 to 2025</em></span></a>
@@ -259,7 +261,7 @@ a.sm-a:hover,a.sm-a:focus-visible{background:#eceeff;outline:none}
   <span class="sm-a sm-cur" aria-current="page"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5c3-1 6-1 8 1 2-2 5-2 8-1v13c-3-1-6-1-8 1-2-2-5-2-8-1zM12 6v13"/></svg><span><b>Crime Glossary</b><em>You are here</em></span></span>
   <a class="sm-a" href="../mind-map/"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="6" cy="18" r="2.5"/><circle cx="18" cy="6" r="2.5"/><path d="M8.5 18H15a3 3 0 000-6H9a3 3 0 010-6h6.5"/></svg><span><b>Topic Map</b><em>See how the course fits together</em></span></a>
   <a class="sm-a sm-ext" href="https://sites.google.com/education.nsw.gov.au/hsc-legal-studies-at-sscbwb/home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11l9-7 9 7M5 10v10h14V10M10 20v-6h4v6"/></svg><span><b>HSC Legal Studies website</b><em>Back to the main class site</em></span></a>
-</div></details>
+</div></details></span>
 <script>(function(){var d=document.getElementById('sitemenu');if(!d)return;var s=d.querySelector('summary'),l=d.querySelector('.sm-list');function place(){var b=s.getBoundingClientRect(),w=l.offsetWidth,x=Math.min(Math.max(8,b.right-w),window.innerWidth-w-8),y=b.bottom+8;l.style.left=x+'px';l.style.top=y+'px';l.style.maxHeight=Math.max(160,window.innerHeight-y-12)+'px'}function shut(){if(d.open)d.open=false}d.addEventListener('toggle',function(){if(d.open)place()});document.addEventListener('click',function(e){if(d.open&&!d.contains(e.target))shut()});document.addEventListener('keydown',function(e){if(e.key==='Escape'&&d.open){shut();s.focus()}});window.addEventListener('scroll',shut,{passive:true});window.addEventListener('resize',shut)})();</script>
 <!-- SITEMENU:END -->
   </div>
