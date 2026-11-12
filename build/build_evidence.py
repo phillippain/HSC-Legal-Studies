@@ -265,6 +265,20 @@ out = tpl.replace("__DATA__", json.dumps(data, ensure_ascii=False, separators=("
 with open(f"{ROOT}/evidence.html", "w", encoding="utf-8") as f:
     f.write(out)
 
+# A small feed of the Crime records for the Extended Response Builder (essay-builder/).
+# That page loads this file when it opens, so evidence added here appears there
+# without rebuilding it. Push data/evidence-crime.json along with evidence.html.
+def crime_feed(items, built_at):
+    c = lambda tags: [t for t in tags if t.startswith("crime.")]
+    recs = [{"id": i["id"], "type": i["type"], "short": i["short"], "cite": i["cite"], "sig": i["sig"],
+             "core": c(i["core"]), "sup": c(i["support"]), "th": c(i["themes"])}
+            for i in items if c(i["core"] + i["support"] + i["themes"])]
+    return {"builtAt": built_at, "records": recs}
+
+feed = crime_feed(items, data["meta"]["builtAt"])
+with open(f"{ROOT}/data/evidence-crime.json", "w", encoding="utf-8") as f:
+    json.dump(feed, f, ensure_ascii=False, separators=(",", ":"))
+
 by_type = {k: sum(1 for i in items if i["type"] == k) for k in TYPES}
 tagged = set()
 for i in items:
@@ -287,3 +301,4 @@ if library:
         for p in stale[:10]:
             print(f"      {p}")
 print("  placeholder left in html:", "__DATA__" in out)
+print(f"  essay builder feed: data/evidence-crime.json  ·  {len(feed['records'])} Crime records")

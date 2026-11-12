@@ -131,6 +131,15 @@ svg.ic { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width
 .steps4 { counter-reset: s; list-style: none; padding: 0; display: flex; flex-direction: column; gap: 6px; margin-top: 10px; } .steps4 li { counter-increment: s; position: relative; padding: 7px 12px 7px 42px; background: var(--surface2); border-radius: 10px; font-size: 14px; }
 .steps4 li::before { content: counter(s); position: absolute; left: 10px; top: 8px; width: 22px; height: 22px; border-radius: 50%; background: var(--st); color: var(--on); font-weight: 800; font-size: 12px; display: flex; align-items: center; justify-content: center; }
 
+/* glossary link */
+.mast-in { position: relative; }
+.gl-link { position: absolute; top: 14px; right: 20px; display: inline-flex; gap: 7px; align-items: center; color: #d5dafa; text-decoration: none; font-size: 13px; font-weight: 600; padding: 5px 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,.22); }
+.gl-link:hover { background: rgba(255,255,255,.12); color: #fff; }
+.gl-link svg { width: 1.15em; height: 1.15em; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+@media (max-width: 900px) { .gl-link { position: static; margin-bottom: 10px; } }
+@media print { .gl-link { display: none; } }
+.evlink { align-self: flex-start; display: inline-flex; gap: 8px; align-items: center; font-weight: 700; font-size: 14px; color: var(--st); text-decoration: none; border: 1.5px solid var(--st); border-radius: 9px; padding: 6px 13px; } .evlink:hover { background: var(--st-t); }
+
 </style>
 </head>
 <body>
@@ -172,6 +181,7 @@ svg.ic { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width
 </svg>
 <header class="mast"><div class="mast-in">
   <div class="brand"><svg class="ic"><use href="#i-gavel"/></svg><div><h1>Sentencing Simulator</h1><p>You be the judge: sentence six real NSW cases, then compare with the court</p></div></div>
+  <a class="gl-link" href="../glossary/#t=4"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5c3-1 6-1 8 1 2-2 5-2 8-1v13c-3-1-6-1-8 1-2-2-5-2-8-1zM12 6v13"/></svg>Crime Glossary</a>
   <nav class="tabs" role="tablist" aria-label="Sections"><button class="tab" role="tab" data-view="judge"><svg class="ic"><use href="#i-gavel"/></svg>You be the judge</button><button class="tab" role="tab" data-view="guide"><svg class="ic"><use href="#i-book"/></svg>How sentencing works</button></nav>
 </div></header>
 <main class="wrap">
@@ -228,7 +238,7 @@ const PEN = [
 ];
 const PENN = Object.fromEntries(PEN.map(p => [p[0], p[1]]));
 const CASES = [
- { id: 'white', name: 'R v White', cite: '[2025] NSWSC 243', court: 'Supreme Court of NSW', judge: 'Harrison CJ at CL', date: '28 March 2025', offence: 'Manslaughter', max: '25 years’ imprisonment', maxY: 25, tag: 'A police officer, a taser and a 95-year-old',
+ { id: 'white', ev: 'kristian-white-clare-nowland', name: 'R v White', cite: '[2025] NSWSC 243', court: 'Supreme Court of NSW', judge: 'Harrison CJ at CL', date: '28 March 2025', offence: 'Manslaughter', max: '25 years’ imprisonment', maxY: 25, tag: 'A police officer, a taser and a 95-year-old',
    facts: ['Clare Nowland, 95, had dementia and used a walking frame. Before dawn on 17 May 2023 she was walking through her aged-care home in Cooma holding kitchen knives.', 'Senior Constable Kristian White, an officer of twelve years’ experience, activated his taser’s warning arc, said “Nah, bugger it”, and fired.', 'She fell, struck her head and died a week later.', 'White pleaded not guilty. A jury found him guilty of manslaughter on 27 November 2024.'],
    crown: 'The Crown asked for full-time imprisonment.',
    purposes: { sd: 'low', gd: 'low' }, pnote: 'The judge found specific deterrence was unnecessary and that general deterrence had only a minor role. He placed the offence at the lower end of seriousness for manslaughter.',
@@ -237,7 +247,7 @@ const CASES = [
    actual: { type: 'cco', y: 2, text: 'A two-year community correction order with 425 hours of community service.', reasons: ['“The law in New South Wales contemplates the imposition of a Community Correction Order, even for offences of manslaughter.”', 'Prison “would in my view be disproportionate”.'] },
    after: { text: 'The DPP appealed, arguing the sentence was manifestly inadequate. On 30 July 2025 the Court of Criminal Appeal dismissed the appeal, so the order stood.' },
    reflect: 'Does a community correction order for manslaughter balance the rights of the victim’s family, the offender and society?' },
- { id: 'loveridge', name: 'R v Loveridge', cite: '[2014] NSWCCA 120', court: 'Supreme Court of NSW', judge: 'Campbell J (trial judge)', date: 'first sentence', offence: 'Manslaughter and four assaults', max: '25 years’ imprisonment for manslaughter', maxY: 25, tag: 'The death of Thomas Kelly in Kings Cross',
+ { id: 'loveridge', ev: 'r-v-loveridge-2014', name: 'R v Loveridge', cite: '[2014] NSWCCA 120', court: 'Supreme Court of NSW', judge: 'Campbell J (trial judge)', date: 'first sentence', offence: 'Manslaughter and four assaults', max: '25 years’ imprisonment for manslaughter', maxY: 25, tag: 'The death of Thomas Kelly in Kings Cross',
    facts: ['On the night of 7 July 2012 Kieran Loveridge, 18, was drunk in Kings Cross.', 'Over about an hour he punched five strangers.', 'One of them, Thomas Kelly, 18, was walking along on his phone. He fell, struck his head on the pavement and died two days later.', 'Loveridge was a month into a probation order for an earlier assault.'],
    crown: '', purposes: { gd: 'high', sd: 'high', den: 'high' }, pnote: 'These are the views of the Court of Criminal Appeal, which held that the trial judge gave general deterrence only a passing reference and gave specific deterrence too little weight.',
    factors: [['He was on probation for an earlier assault', 'agg', 'Offending while on conditional liberty is aggravating, and it showed the earlier order had not deterred him.'], ['He attacked five strangers over about an hour', 'agg', 'The Court of Criminal Appeal said the attacks were not spontaneous but a course of conduct whose seriousness grew.'], ['The violence was alcohol-fuelled and on a public street', 'agg', 'The Court said this kind of violence “calls for an emphatic sentencing response”.'], ['He was 18', 'mit', 'Youth is normally mitigating, but the Court gave particular significance to general deterrence for young offenders who commit serious street violence.'], ['He was drunk', 'neu', 'Intoxication did not mitigate the offence.'], ['It was a single punch', 'neu', 'The Court held there is no “one-punch” category of manslaughter with its own tariff.']],
@@ -245,7 +255,7 @@ const CASES = [
    actual: { type: 'prison', y: 7.17, npp: 5.17, text: '6 years for manslaughter and 7 years 2 months in total, with a non-parole period of 5 years 2 months.', reasons: ['The sentence caused public anger and the DPP appealed.'] },
    after: { type: 'prison', y: 13.67, npp: 10.17, label: 'After the Crown appeal', text: 'On 4 July 2014 the Court of Criminal Appeal allowed the Crown appeal and resentenced Loveridge to 13 years 8 months with a non-parole period of 10 years 2 months. The one-punch offence and lockout laws came after this judgment.' },
    reflect: 'The first sentence was almost doubled on appeal. What does that show about judicial discretion and the role of appeals?' },
- { id: 'billings', name: 'R v Billings', cite: '[2026] NSWSC 1088', court: 'Supreme Court of NSW', judge: 'N Adams CJ at CL', date: '11 September 2026', offence: 'Murder', max: 'Life imprisonment', maxY: null, tag: 'The murder of Molly Ticehurst', care: 'This case involves family violence and a killing.',
+ { id: 'billings', ev: 'r-v-billings-2026', name: 'R v Billings', cite: '[2026] NSWSC 1088', court: 'Supreme Court of NSW', judge: 'N Adams CJ at CL', date: '11 September 2026', offence: 'Murder', max: 'Life imprisonment', maxY: null, tag: 'The murder of Molly Ticehurst', care: 'This case involves family violence and a killing.',
    facts: ['Molly Ticehurst, 28, ended her relationship with Daniel Billings in 2023. On 5 April 2024 she reported him to police. He was charged and an apprehended violence order was made.', 'The next morning a court granted him conditional bail.', 'Sixteen days after her report he took a day off work, drove to her town with a hunting knife, broke into her home and killed her.', 'He pleaded guilty to murder in the Local Court.'],
    crown: 'The Crown did not ask for a life sentence.',
    purposes: {}, pnote: 'The record does not set out the weight given to each purpose. The judge placed the murder at the high end of seriousness: planned, retributive, in her home, and a “very serious public justice offence” because she was the witness against him.',
@@ -254,7 +264,7 @@ const CASES = [
    actual: { type: 'prison', y: 28, npp: 20, text: '28 years’ imprisonment with a non-parole period of 20 years. The starting point of 35 years was reduced by 20% for the plea.', reasons: ['“A reduction in moral culpability does not automatically translate to a reduced sentence.”'] },
    after: { text: 'The DPP did not appeal. Billings lodged a notice of intention to appeal on 9 October 2026. The appeal had not been decided when this page was written.' },
    reflect: 'Should an offender who commits a crime this serious still receive a discount for pleading guilty?' },
- { id: 'bale', name: 'R v Bale', cite: '[2026] NSWDC 383', court: 'District Court of NSW', judge: 'Newlinds SC DCJ', date: '23 October 2026', offence: 'Supplying prohibited drugs', max: '15 years (methamphetamine) and 20 years (commercial quantity of LSD)', maxY: 20, tag: 'A first offender and a serious-sounding drug charge',
+ { id: 'bale', ev: 'r-v-bale-2026', name: 'R v Bale', cite: '[2026] NSWDC 383', court: 'District Court of NSW', judge: 'Newlinds SC DCJ', date: '23 October 2026', offence: 'Supplying prohibited drugs', max: '15 years (methamphetamine) and 20 years (commercial quantity of LSD)', maxY: 20, tag: 'A first offender and a serious-sounding drug charge',
    facts: ['Bale supplied more than the indictable quantity of methamphetamine and a commercial quantity of LSD. The LSD offence has a standard non-parole period of 10 years.', 'Both sides agreed the offending was at the lowest end: the drugs were bought in bulk largely for personal use.', 'Two possession offences were taken into account on a Form 1.', 'Bale pleaded guilty at the first opportunity.'],
    crown: 'The Crown did not oppose a sentence served in the community.',
    purposes: { gd: 'some', sd: 'low', reh: 'high' }, pnote: 'General deterrence carries weight in drug cases, but the judge found specific deterrence had “run its course” and built the order around treatment.',
@@ -263,7 +273,7 @@ const CASES = [
    actual: { type: 'cco', y: 2, text: 'A two-year community correction order with eight conditions, including inpatient withdrawal, drug treatment and abstention.', reasons: ['Prison is available only if no other penalty is appropriate (s 5). Crown, defence and judge agreed another penalty was appropriate.'] },
    after: null,
    reflect: 'Is a community order an effective response to drug supply? Consider rehabilitation against general deterrence.' },
- { id: 'nguyen', name: 'R v Nguyen', cite: '[2026] NSWDC 393', court: 'District Court of NSW', judge: 'Montgomery DCJ', date: '11 September 2026', offence: 'Supplying a commercial quantity of cocaine', max: '20 years’ imprisonment', maxY: 20, tag: 'Commercial drug supply and a year of strictly kept bail',
+ { id: 'nguyen', ev: 'r-v-nguyen-2026', name: 'R v Nguyen', cite: '[2026] NSWDC 393', court: 'District Court of NSW', judge: 'Montgomery DCJ', date: '11 September 2026', offence: 'Supplying a commercial quantity of cocaine', max: '20 years’ imprisonment', maxY: 20, tag: 'Commercial drug supply and a year of strictly kept bail',
    facts: ['Nguyen supplied 316.39 g of cocaine, a commercial quantity, and dealt with $1,750 that was the proceeds of crime.', 'The judge found the offending was below the mid-range, with no sophistication.', 'Before sentence he had spent a year on remand and then a year on bail, which he kept strictly.', 'He pleaded guilty.'],
    crown: '', purposes: { reh: 'high', prot: 'high' }, pnote: 'Rehabilitation and protection of the community were given particular weight. A return to custody would have interrupted his progress.',
    factors: [['A commercial quantity of cocaine', 'agg', 'The quantity makes this a serious offence, although the court said role matters more than quantity.'], ['No sophistication; below the mid-range', 'mit', 'His role and the unsophisticated offending reduced the seriousness.'], ['A year on remand already served', 'mit', 'Time in custody counts towards the sentence.'], ['A year of strict compliance with bail', 'mit', 'This was the evidence that he could be trusted in the community and was rehabilitating.']],
@@ -271,7 +281,7 @@ const CASES = [
    actual: { type: 'ico', y: 1.87, text: 'An aggregate sentence of 1 year 10 months 14 days, served as an intensive correction order in the community.', reasons: ['An ICO was chosen because a return to custody would interrupt his progress.'] },
    after: null,
    reflect: 'How does an intensive correction order try to serve both rehabilitation and community protection?' },
- { id: 'rk', name: 'R v RK', cite: '[2026] NSWSC 1414', court: 'Supreme Court of NSW', judge: 'Campbell J', date: '9 November 2026', offence: 'Acts in preparation for a terrorist act', max: 'Life imprisonment', maxY: null, tag: 'A 14-year-old and an offence that carries life', care: 'RK is a young person identified only by initials.',
+ { id: 'rk', ev: 'r-v-rk-2026', name: 'R v RK', cite: '[2026] NSWSC 1414', court: 'Supreme Court of NSW', judge: 'Campbell J', date: '9 November 2026', offence: 'Acts in preparation for a terrorist act', max: 'Life imprisonment', maxY: null, tag: 'A 14-year-old and an offence that carries life', care: 'RK is a young person identified only by initials.',
    facts: ['Between June and August 2024 RK, then 14, did online research and sent messages about an attack on a marathon. There was no plan, date or materials.', 'Federal police arrested him at home. He was granted bail on very strict conditions, which were eased after he complied fully.', 'He pleaded guilty. Two further offences were taken into account.', 'Comparable cases for offenders under 18 had produced head sentences of 7.5 to 16 years, on different facts.'],
    crown: '', purposes: { reh: 'high', gd: 'some' }, pnote: 'Youth normally puts rehabilitation first. For serious offending such as terrorism, youth carries less weight and general deterrence matters more, but the judge held these principles are not rigid formulas.',
    factors: [['He was 14 at the time', 'mit', 'Youth and immaturity reduce culpability and make rehabilitation more important.'], ['There was no plan, date or materials', 'mit', 'The judge placed the offending at the lowest level of objective seriousness.'], ['Genuine remorse', 'mit', 'Accepted by the court.'], ['Excellent prospects of rehabilitation', 'mit', 'This was central to the finding that prison was not the only appropriate sentence.'], ['Full compliance with very strict bail', 'mit', 'It showed he could be managed safely in the community.'], ['The offence targets the public and carries life', 'agg', 'Terrorism offences are among the most serious, which is why general deterrence still mattered.']],
@@ -281,6 +291,8 @@ const CASES = [
    reflect: 'To what extent should young offenders be sentenced differently when the offence is extremely serious?' },
 ];
 
+const EF = 'https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-';
+const evLink = c => `<a class="evlink" href="${EF}${c.ev}" target="_blank" rel="noopener">${ic('book')}Open the full case record in the Evidence Finder</a>`;
 const S = { c: null, step: 0, purp: new Set(), fac: {}, plea: null, pen: null, y: 2, npp: 1, life: false };
 const STEPS = ['The facts', 'Purposes', 'Factors', 'Plea discount', 'Your sentence', 'The judge’s sentence'];
 const yrs = v => { const y = Math.floor(v + 1e-6), m = Math.round((v - y) * 12); return (y ? y + (y === 1 ? ' year' : ' years') : '') + (m ? (y ? ' ' : '') + m + (m === 1 ? ' month' : ' months') : '') || '0'; };
@@ -308,6 +320,7 @@ function stepHTML() {
     ${c.care ? `<p class="care">${ic('warn')}${c.care}</p>` : ''}
     <div class="facts"><div><h3>${ic('doc')}What happened</h3><ul>${c.facts.map(f => `<li>${f}</li>`).join('')}</ul></div>
     <div class="maxbox"><small>Offence</small><b>${c.offence}</b><small>Maximum penalty</small><b>${c.max}</b>${c.crown ? `<small>The prosecution</small><span>${c.crown}</span>` : ''}</div></div>
+    ${evLink(c)}
     <p class="hint">You are the sentencing judge. Guilt has already been decided. Work through each step, then compare your sentence with the real one.</p>`;
   if (s === 1) return `<h2>Which purposes of sentencing matter most here?</h2><p class="sub">Section 3A of the Crimes (Sentencing Procedure) Act 1999 (NSW) lists the purposes. Choose up to three that you think should carry the most weight in this case.</p>
     <div class="pgrid">${PURP.map(p => `<button class="pcard" data-p="${p[0]}" aria-pressed="${S.purp.has(p[0])}"><b>${p[1]}</b><span>${p[2]}</span></button>`).join('')}</div>`;
@@ -338,7 +351,8 @@ function stepHTML() {
     <div class="cmp"><div><h3>${ic('scales')}Purposes</h3><p>${c.pnote}</p><div class="plist">${PURP.map(p => { const w = c.purposes[p[0]], mine = S.purp.has(p[0]); return (w || mine) ? `<div class="pl ${w ? WT[w][1] : 'nr'}"><b>${p[1]}</b><span>${w ? WT[w][0] : 'Not addressed in the record'}</span>${mine ? '<em>You chose this</em>' : ''}</div>` : ''; }).join('')}</div></div>
     <div><h3>${ic('list')}Factors: you matched ${nOK} of ${fr.length}</h3><div class="fres">${fr.map(x => `<div class="${x.ok ? 'ok' : 'no'}"><b>${ic(x.ok ? 'check' : 'x')}${x.f[0]}</b><span><em class="k-${x.f[1]}">${{ agg: 'Aggravating', mit: 'Mitigating', neu: 'Neither' }[x.f[1]]}</em> ${x.f[2]}</span></div>`).join('')}</div></div></div>
     ${c.plea ? `<div class="after">${ic('speech')}<div><b>Plea discount: ${c.plea.correct}%${S.plea === c.plea.correct ? ' (you chose the same)' : ` (you chose ${S.plea}%)`}</b><p>${c.plea.why}</p></div></div>` : ''}
-    <div class="think"><b>Extended response practice</b>${c.reflect}</div>`;
+    <div class="think"><b>Extended response practice</b>${c.reflect}</div>
+    ${evLink(c)}`;
 }
 function render() {
   renderPicker();

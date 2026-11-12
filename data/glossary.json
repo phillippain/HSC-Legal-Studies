@@ -1,0 +1,4440 @@
+{
+ "meta": {
+  "title": "Crime glossary",
+  "version": "v1",
+  "date": "12 Nov 2026",
+  "source": "Crime_Glossary_2027.pdf (307 terms, version v1, 12 Nov 2026)",
+  "note": "One list, three uses: build/build_glossary.py makes glossary/index.html from it and rewrites the hover glossary in court-process/index.html. Edit a meaning here, then run the build. Each ref is a Crime topic (t) and workbook section (s); points are syllabus IDs from data/syllabus.json."
+ },
+ "topics": [
+  {
+   "n": 1,
+   "syllabus": "crime.1",
+   "label": "The nature of crime",
+   "icon": "scales",
+   "sections": [
+    {
+     "n": 1,
+     "name": "The meaning of crime",
+     "page": 2,
+     "points": [
+      "crime.1.1"
+     ]
+    },
+    {
+     "n": 2,
+     "name": "Elements of crime",
+     "page": 6,
+     "points": [
+      "crime.1.2",
+      "crime.1.3",
+      "crime.1.4"
+     ]
+    },
+    {
+     "n": 3,
+     "name": "Categories of crime",
+     "page": 16,
+     "points": [
+      "crime.1.5"
+     ]
+    },
+    {
+     "n": 4,
+     "name": "Summary and indictable offences",
+     "page": 26,
+     "points": [
+      "crime.1.6"
+     ]
+    },
+    {
+     "n": 5,
+     "name": "Parties to a crime",
+     "page": 30,
+     "points": [
+      "crime.1.7"
+     ]
+    },
+    {
+     "n": 6,
+     "name": "Factors affecting criminal behaviour",
+     "page": 35,
+     "points": [
+      "crime.1.8"
+     ]
+    },
+    {
+     "n": 7,
+     "name": "Crime prevention",
+     "page": 40,
+     "points": [
+      "crime.1.9"
+     ]
+    },
+    {
+     "n": 8,
+     "name": "Assessing effectiveness",
+     "page": 47,
+     "points": [
+      "crime.t.effectiveness"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "syllabus": "crime.2",
+   "label": "The criminal investigation process",
+   "icon": "search",
+   "sections": [
+    {
+     "n": 1,
+     "name": "Police powers",
+     "page": 2,
+     "points": [
+      "crime.2.1"
+     ]
+    },
+    {
+     "n": 2,
+     "name": "Reporting crime",
+     "page": 13,
+     "points": [
+      "crime.2.2"
+     ]
+    },
+    {
+     "n": 3,
+     "name": "Investigating crime",
+     "page": 23,
+     "points": [
+      "crime.2.3"
+     ]
+    },
+    {
+     "n": 4,
+     "name": "Arrest and charge",
+     "page": 38,
+     "points": [
+      "crime.2.4"
+     ]
+    },
+    {
+     "n": 5,
+     "name": "Detention and interrogation",
+     "page": 49,
+     "points": [
+      "crime.2.6"
+     ]
+    },
+    {
+     "n": 6,
+     "name": "Bail or remand",
+     "page": 57,
+     "points": [
+      "crime.2.5"
+     ]
+    },
+    {
+     "n": 7,
+     "name": "Assessing effectiveness",
+     "page": 72,
+     "points": [
+      "crime.t.effectiveness"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "syllabus": "crime.3",
+   "label": "The criminal trial process",
+   "icon": "court",
+   "sections": [
+    {
+     "n": 1,
+     "name": "Courts and legal personnel",
+     "page": 2,
+     "points": [
+      "crime.3.1",
+      "crime.3.3"
+     ]
+    },
+    {
+     "n": 2,
+     "name": "The adversary system",
+     "page": 8,
+     "points": [
+      "crime.3.2"
+     ]
+    },
+    {
+     "n": 3,
+     "name": "Pleas and charge negotiation",
+     "page": 15,
+     "points": [
+      "crime.3.4"
+     ]
+    },
+    {
+     "n": 4,
+     "name": "Legal representation",
+     "page": 27,
+     "points": [
+      "crime.3.5"
+     ]
+    },
+    {
+     "n": 5,
+     "name": "Proof and evidence",
+     "page": 31,
+     "points": [
+      "crime.3.6",
+      "crime.3.7"
+     ]
+    },
+    {
+     "n": 6,
+     "name": "Defences",
+     "page": 40,
+     "points": [
+      "crime.3.8"
+     ]
+    },
+    {
+     "n": 7,
+     "name": "Juries and verdicts",
+     "page": 46,
+     "points": [
+      "crime.3.9"
+     ]
+    },
+    {
+     "n": 8,
+     "name": "Assessing effectiveness",
+     "page": 58,
+     "points": [
+      "crime.t.effectiveness"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "syllabus": "crime.4",
+   "label": "Sentencing and punishment",
+   "icon": "gavel",
+   "sections": [
+    {
+     "n": 1,
+     "name": "Statutory and judicial guidelines",
+     "page": 2,
+     "points": [
+      "crime.4.1"
+     ]
+    },
+    {
+     "n": 2,
+     "name": "Purposes of punishment",
+     "page": 9,
+     "points": [
+      "crime.4.2"
+     ]
+    },
+    {
+     "n": 3,
+     "name": "Aggravating and mitigating factors",
+     "page": 17,
+     "points": [
+      "crime.4.3"
+     ]
+    },
+    {
+     "n": 4,
+     "name": "The role of the victim",
+     "page": 24,
+     "points": [
+      "crime.4.4"
+     ]
+    },
+    {
+     "n": 5,
+     "name": "Appeals",
+     "page": 31,
+     "points": [
+      "crime.4.5"
+     ]
+    },
+    {
+     "n": 6,
+     "name": "Types of penalties",
+     "page": 37,
+     "points": [
+      "crime.4.6"
+     ]
+    },
+    {
+     "n": 7,
+     "name": "Alternative methods",
+     "page": 45,
+     "points": [
+      "crime.4.7"
+     ]
+    },
+    {
+     "n": 8,
+     "name": "Post-sentencing",
+     "page": 50,
+     "points": [
+      "crime.4.8"
+     ]
+    },
+    {
+     "n": 9,
+     "name": "Assessing effectiveness",
+     "page": 62,
+     "points": [
+      "crime.t.effectiveness"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "syllabus": "crime.5",
+   "label": "Young offenders",
+   "icon": "child",
+   "sections": [
+    {
+     "n": 1,
+     "name": "Why treat them differently?",
+     "page": 2,
+     "points": [
+      "crime.5"
+     ]
+    },
+    {
+     "n": 2,
+     "name": "Age of criminal responsibility",
+     "page": 7,
+     "points": [
+      "crime.5.1"
+     ]
+    },
+    {
+     "n": 3,
+     "name": "Rights when questioned or arrested",
+     "page": 15,
+     "points": [
+      "crime.5.2"
+     ]
+    },
+    {
+     "n": 4,
+     "name": "The Children's Court",
+     "page": 20,
+     "points": [
+      "crime.5.3"
+     ]
+    },
+    {
+     "n": 5,
+     "name": "Penalties for children",
+     "page": 27,
+     "points": [
+      "crime.5.4"
+     ]
+    },
+    {
+     "n": 6,
+     "name": "Alternatives to court",
+     "page": 35,
+     "points": [
+      "crime.5.5"
+     ]
+    },
+    {
+     "n": 7,
+     "name": "Assessing effectiveness",
+     "page": 45,
+     "points": [
+      "crime.t.effectiveness"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "syllabus": "crime.6",
+   "label": "International crime",
+   "icon": "globe",
+   "sections": [
+    {
+     "n": 1,
+     "name": "What is international crime?",
+     "page": 2,
+     "points": [
+      "crime.6"
+     ]
+    },
+    {
+     "n": 2,
+     "name": "Crimes against the international community",
+     "page": 6,
+     "points": [
+      "crime.6.1"
+     ]
+    },
+    {
+     "n": 3,
+     "name": "Transnational crime",
+     "page": 12,
+     "points": [
+      "crime.6.1"
+     ]
+    },
+    {
+     "n": 4,
+     "name": "Domestic measures",
+     "page": 19,
+     "points": [
+      "crime.6.2"
+     ]
+    },
+    {
+     "n": 5,
+     "name": "International measures",
+     "page": 25,
+     "points": [
+      "crime.6.2"
+     ]
+    },
+    {
+     "n": 6,
+     "name": "Limitations",
+     "page": 32,
+     "points": [
+      "crime.6.2"
+     ]
+    },
+    {
+     "n": 7,
+     "name": "Assessing effectiveness",
+     "page": 38,
+     "points": [
+      "crime.t.effectiveness"
+     ]
+    }
+   ]
+  }
+ ],
+ "tools": [
+  {
+   "id": "court-process",
+   "label": "Going to Court in NSW",
+   "href": "../court-process/",
+   "icon": "scales",
+   "does": "Follow a case from arrest to appeal",
+   "sections": [
+    "1.4",
+    "2.4",
+    "2.6",
+    "3.1",
+    "3.2",
+    "3.3",
+    "3.5",
+    "3.7",
+    "4.5"
+   ]
+  },
+  {
+   "id": "sentencing",
+   "label": "Sentencing Simulator",
+   "href": "../sentencing/",
+   "icon": "gavel",
+   "does": "Sentence a real NSW case, then compare with the court",
+   "sections": [
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.6"
+   ]
+  },
+  {
+   "id": "young-offenders",
+   "label": "Young Offenders Pathway",
+   "href": "../young-offenders/",
+   "icon": "child",
+   "does": "Take a young person through the system",
+   "sections": [
+    "5.1",
+    "5.2",
+    "5.3",
+    "5.4",
+    "5.5",
+    "5.6"
+   ]
+  },
+  {
+   "id": "essay-builder",
+   "label": "Extended Response Builder",
+   "href": "../essay-builder/",
+   "icon": "pen",
+   "does": "Plan an answer that assesses effectiveness",
+   "sections": [
+    "1.8",
+    "2.7",
+    "3.8",
+    "4.9",
+    "5.7",
+    "6.7"
+   ]
+  }
+ ],
+ "hover": {
+  "court-process": {
+   "summary offence": {
+    "term": "summary-offence",
+    "sense": 2
+   },
+   "indictable offence": {
+    "term": "indictable-offence",
+    "sense": 2
+   },
+   "table offence": {
+    "d": "An indictable offence listed in Table 1 or Table 2 of the Criminal Procedure Act 1986 (NSW). It stays in the Local Court unless an election is made."
+   },
+   "election": {
+    "term": "election",
+    "sense": 1
+   },
+   "court attendance notice": {
+    "term": "court-attendance-notice-can",
+    "sense": 1
+   },
+   "bail": {
+    "term": "bail",
+    "sense": 1
+   },
+   "remand": {
+    "term": "remand",
+    "sense": 1
+   },
+   "show cause": {
+    "term": "show-cause",
+    "sense": 1
+   },
+   "unacceptable risk": {
+    "term": "unacceptable-risk",
+    "sense": 1
+   },
+   "brief of evidence": {
+    "d": "The prosecution’s collected evidence, such as witness statements and exhibits, served on the defence."
+   },
+   "committal": {
+    "term": "committal",
+    "sense": 1
+   },
+   "charge certificate": {
+    "term": "charge-certification",
+    "sense": 1
+   },
+   "case conference": {
+    "term": "case-conference",
+    "sense": 1
+   },
+   "charge negotiation": {
+    "term": "charge-negotiation",
+    "sense": 1
+   },
+   "indictment": {
+    "d": "The formal written charge used in the District or Supreme Court."
+   },
+   "arraignment": {
+    "d": "When the indictment is read in the higher court and the accused enters a plea."
+   },
+   "voir dire": {
+    "term": "voir-dire",
+    "sense": 1
+   },
+   "empanelling": {
+    "d": "Selecting and swearing in the jurors."
+   },
+   "adversarial system": {
+    "term": "adversary-system",
+    "sense": 1
+   },
+   "burden of proof": {
+    "term": "burden-of-proof",
+    "sense": 1
+   },
+   "standard of proof": {
+    "term": "standard-of-proof",
+    "sense": 1
+   },
+   "acquittal": {
+    "d": "A finding of not guilty. The accused generally cannot be tried again for the same offence."
+   },
+   "hung jury": {
+    "term": "hung-jury",
+    "sense": 1
+   },
+   "majority verdict": {
+    "term": "majority-verdict-s-55f",
+    "sense": 1
+   },
+   "double jeopardy": {
+    "term": "double-jeopardy",
+    "sense": 1
+   },
+   "victim impact statement": {
+    "term": "victim-impact-statement",
+    "sense": 1
+   },
+   "mitigating factor": {
+    "term": "mitigating-factor",
+    "sense": 1
+   },
+   "aggravating factor": {
+    "term": "aggravating-factor",
+    "sense": 1
+   },
+   "non-parole period": {
+    "term": "non-parole-period",
+    "sense": 1
+   },
+   "conviction appeal": {
+    "d": "An appeal arguing that the finding of guilt was wrong."
+   },
+   "severity appeal": {
+    "term": "severity-appeal",
+    "sense": 1
+   },
+   "leave": {
+    "d": "A court’s permission, for example to bring an appeal."
+   },
+   "special leave": {
+    "d": "Permission from the High Court to appeal to it, given only for important questions of law."
+   },
+   "DPP": {
+    "term": "director-of-public-prosecutions-dpp",
+    "sense": 1,
+    "before": "The Director of Public Prosecutions. "
+   },
+   "Crown prosecutor": {
+    "d": "A barrister who presents the prosecution case in indictable trials."
+   },
+   "duty solicitor": {
+    "d": "A Legal Aid lawyer at court who gives free advice and help on the day."
+   }
+  }
+ },
+ "terms": [
+  {
+   "id": "aboriginal-legal-service-als",
+   "term": "Aboriginal Legal Service (ALS)",
+   "senses": [
+    {
+     "d": "A community-controlled service that represents Aboriginal and Torres Strait Islander people.",
+     "refs": [
+      {"t": 3, "s": 4, "points": ["crime.3.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "absolute-liability",
+   "term": "Absolute liability",
+   "senses": [
+    {
+     "d": "An offence with no mens rea and no defence of mistake.",
+     "refs": [
+      {"t": 1, "s": 2, "points": ["crime.1.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "abuse-of-process",
+   "term": "Abuse of process",
+   "senses": [
+    {
+     "d": "Using the court's process unfairly or improperly, for example trying an accused who cannot get a fair trial or was brought to court unlawfully.",
+     "refs": [
+      {"t": 3, "s": 1, "points": ["crime.3.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "accessory-after-the-fact",
+   "term": "Accessory after the fact",
+   "senses": [
+    {
+     "d": "A person who helps an offender escape after the crime, knowing it was committed (s 349).",
+     "refs": [
+      {"t": 1, "s": 5, "points": ["crime.1.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "accessory-before-the-fact",
+   "term": "Accessory before the fact",
+   "senses": [
+    {
+     "d": "A person who counsels, procures or pays for the crime but is not present.",
+     "refs": [
+      {"t": 1, "s": 5, "points": ["crime.1.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "actus-reus",
+   "term": "Actus reus",
+   "senses": [
+    {
+     "d": "The physical element of a crime: a voluntary act, an omission where there is a duty to act, or a state of affairs.",
+     "refs": [
+      {"t": 1, "s": 2, "points": ["crime.1.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ad-hoc-tribunal",
+   "term": "Ad hoc tribunal",
+   "senses": [
+    {
+     "d": "A temporary court set up for one conflict, such as the ICTY.",
+     "refs": [
+      {"t": 6, "s": 5, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "admissible",
+   "term": "Admissible",
+   "senses": [
+    {
+     "d": "Allowed to be used in court. Evidence must be relevant and not excluded by a rule.",
+     "refs": [
+      {"t": 3, "s": 5, "points": ["crime.3.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "admissible-evidence",
+   "term": "Admissible evidence",
+   "senses": [
+    {
+     "d": "Evidence a court may consider; evidence that is contaminated, unreliable or improperly obtained may be excluded (Evidence Act 1995).",
+     "refs": [
+      {"t": 2, "s": 3, "points": ["crime.2.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "adult-behaviour",
+   "term": "Adult behaviour",
+   "senses": [
+    {
+     "d": "Offending, such as using a weapon or planning, that can make protection of the community outweigh rehabilitation (R v KT, 2008).",
+     "refs": [
+      {"t": 5, "s": 1, "points": ["crime.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "adversary-system",
+   "term": "Adversary system",
+   "senses": [
+    {
+     "d": "A trial run as a contest between two sides (prosecution and defence) before a neutral judge, who rules on the law and evidence but does not investigate.",
+     "refs": [
+      {"t": 3, "s": 2, "points": ["crime.3.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "affirmative-consent",
+   "term": "Affirmative consent",
+   "senses": [
+    {
+     "d": "Since 1 June 2022, a person does not consent to sex unless they say or do something to communicate consent.",
+     "refs": [
+      {"t": 3, "s": 5, "points": ["crime.3.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "age-of-criminal-responsibility",
+   "term": "Age of criminal responsibility",
+   "senses": [
+    {
+     "d": "The age below which a child cannot be guilty of an offence. In NSW it is 10.",
+     "refs": [
+      {"t": 5, "s": 2, "points": ["crime.5.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aggravating-factor",
+   "term": "Aggravating factor",
+   "senses": [
+    {
+     "d": "A circumstance that makes the offence more serious and the sentence heavier (s 21A(2)): violence, a weapon, in company, a vulnerable victim, on bail or parole.",
+     "refs": [
+      {"t": 4, "s": 3, "points": ["crime.4.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "agreed-facts",
+   "term": "Agreed facts",
+   "senses": [
+    {
+     "d": "A statement of what happened that both sides accept. The judge sentences on these facts.",
+     "refs": [
+      {"t": 3, "s": 3, "points": ["crime.3.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "appeal",
+   "term": "Appeal",
+   "senses": [
+    {
+     "d": "Asking a higher court to review a conviction or sentence. Some appeals are 'as of right'; the High Court hears appeals only with special leave.",
+     "refs": [
+      {"t": 3, "s": 1, "points": ["crime.3.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "arrest",
+   "term": "Arrest",
+   "senses": [
+    {
+     "d": "Taking a person into custody to bring them before a court; lawful without a warrant only under LEPRA s 99.",
+     "refs": [
+      {"t": 2, "s": 4, "points": ["crime.2.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "arrest-as-a-last-resort",
+   "term": "Arrest as a last resort",
+   "senses": [
+    {
+     "d": "The principle in DPP v Carr (2002) that police should not arrest where a court attendance notice would do; codified in s 99 (2014).",
+     "refs": [
+      {"t": 2, "s": 4, "points": ["crime.2.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "arrest-warrant",
+   "term": "Arrest warrant",
+   "senses": [
+    {
+     "d": "A document from a magistrate or registrar naming the person and the offence and authorising police to arrest them.",
+     "refs": [
+      {"t": 2, "s": 4, "points": ["crime.2.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "assess",
+   "term": "Assess",
+   "senses": [
+    {
+     "d": "Make a judgement of value, quality, outcomes, results or size.",
+     "refs": [
+      {"t": 1, "s": 8, "points": ["crime.t.effectiveness"]},
+      {"t": 3, "s": 8, "points": ["crime.t.effectiveness"]},
+      {"t": 4, "s": 9, "points": ["crime.t.effectiveness"]},
+      {"t": 5, "s": 7, "points": ["crime.t.effectiveness"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "assistance-to-authorities-s-23",
+   "term": "Assistance to authorities (s 23)",
+   "senses": [
+    {
+     "d": "A further discount for helping police or prosecutors, for example by giving evidence against others.",
+     "refs": [
+      {"t": 4, "s": 3, "points": ["crime.4.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "austrac",
+   "term": "AUSTRAC",
+   "senses": [
+    {
+     "d": "Australia's financial intelligence agency and anti-money laundering regulator.",
+     "refs": [
+      {"t": 6, "s": 4, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "automatism",
+   "term": "Automatism",
+   "senses": [
+    {
+     "d": "The act was involuntary, for example sleepwalking or concussion.",
+     "refs": [
+      {"t": 3, "s": 6, "points": ["crime.3.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bail",
+   "term": "Bail",
+   "senses": [
+    {
+     "d": "The temporary release of an accused person awaiting trial, with or without conditions.",
+     "refs": [
+      {"t": 2, "s": 6, "points": ["crime.2.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bail-conditions",
+   "term": "Bail conditions",
+   "senses": [
+    {
+     "d": "Requirements that manage risk: reporting, curfew, surety, residence, no contact, electronic monitoring, rehabilitation (s 28).",
+     "refs": [
+      {"t": 2, "s": 6, "points": ["crime.2.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beyond-reasonable-doubt",
+   "term": "Beyond reasonable doubt",
+   "senses": [
+    {
+     "d": "The criminal standard of proof: the Crown must remove any reasonable doubt that the accused is guilty.",
+     "refs": [
+      {"t": 1, "s": 1, "points": ["crime.1.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bocsar",
+   "term": "BOCSAR",
+   "senses": [
+    {
+     "d": "The NSW Bureau of Crime Statistics and Research, the source of most of the figures in this part.",
+     "refs": [
+      {"t": 5, "s": 1, "points": ["crime.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bugmy-principle",
+   "term": "Bugmy principle",
+   "senses": [
+    {
+     "d": "Profound childhood deprivation can reduce moral culpability at sentencing (Bugmy v The Queen, 2013).",
+     "refs": [
+      {"t": 1, "s": 6, "points": ["crime.1.8"]},
+      {"t": 4, "s": 3, "points": ["crime.4.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "burden-of-proof",
+   "term": "Burden of proof",
+   "senses": [
+    {
+     "d": "The duty to prove the case. In a criminal trial it lies on the prosecution (Woolmington v DPP, 1935).",
+     "refs": [
+      {"t": 1, "s": 1, "points": ["crime.1.1"]},
+      {"t": 3, "s": 5, "points": ["crime.3.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "capacity",
+   "term": "Capacity",
+   "senses": [
+    {
+     "d": "A state's practical ability to investigate and try crime.",
+     "refs": [
+      {"t": 6, "s": 6, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "case-conference",
+   "term": "Case conference",
+   "senses": [
+    {
+     "d": "A compulsory pre-committal meeting of prosecution and defence to discuss the evidence and a plea (2018).",
+     "refs": [
+      {"t": 3, "s": 2, "points": ["crime.3.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "causation",
+   "term": "Causation",
+   "senses": [
+    {
+     "d": "The link between the act and the result: the act must be a substantial and operating cause (Royall, 1991).",
+     "refs": [
+      {"t": 1, "s": 2, "points": ["crime.1.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "caution",
+   "term": "Caution",
+   "senses": [
+    {
+     "d": "The warning that the person does not have to say or do anything, and that anything they say may be used in evidence (Evidence Act s 89).",
+     "refs": [
+      {"t": 2, "s": 5, "points": ["crime.2.6"]}
+     ]
+    },
+    {
+     "d": "A formal tier: a police officer or specialist youth officer cautions the child. A child cannot be cautioned if cautioned three or more times in three years (s 20(7)).",
+     "refs": [
+      {"t": 5, "s": 6, "points": ["crime.5.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "caution-cap",
+   "term": "Caution cap",
+   "senses": [
+    {
+     "d": "A child cannot be cautioned if cautioned three or more times in the previous three years (YOA s 20(7)).",
+     "refs": [
+      {"t": 5, "s": 2, "points": ["crime.5.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "challenge-for-cause",
+   "term": "Challenge for cause",
+   "senses": [
+    {
+     "d": "Rejecting a potential juror for a stated reason, such as bias. No limit.",
+     "refs": [
+      {"t": 3, "s": 7, "points": ["crime.3.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "character-test-s-501",
+   "term": "Character test (s 501)",
+   "senses": [
+    {
+     "d": "A non-citizen with a substantial criminal record (12 months or more) fails it; the visa is cancelled automatically while they are in prison (s 501(3A)).",
+     "refs": [
+      {"t": 4, "s": 8, "points": ["crime.4.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "charge-certification",
+   "term": "Charge certification",
+   "senses": [
+    {
+     "d": "Since 2018, the prosecutor confirms in a certificate, early in the case, the charges that will go ahead.",
+     "refs": [
+      {"t": 3, "s": 3, "points": ["crime.3.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "charge-negotiation",
+   "term": "Charge negotiation",
+   "senses": [
+    {
+     "d": "Also called plea bargaining. Discussions between the prosecution and defence in which the accused agrees to plead guilty to fewer or less serious charges, or to an agreed set of facts.",
+     "refs": [
+      {"t": 3, "s": 3, "points": ["crime.3.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "charter-of-victims-rights",
+   "term": "Charter of Victims Rights",
+   "senses": [
+    {
+     "d": "The rights in the Victims Rights and Support Act 2013 (NSW): to be treated with respect, informed, consulted, heard and supported.",
+     "refs": [
+      {"t": 4, "s": 4, "points": ["crime.4.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "children-s-court",
+   "term": "Children's Court",
+   "senses": [
+    {
+     "d": "A specialist court, closed to the public, that hears most charges against people under 18 (s 28 CCPA and the Children's Court Act).",
+     "refs": [
+      {"t": 5, "s": 4, "points": ["crime.5.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "circle-sentencing",
+   "term": "Circle sentencing",
+   "senses": [
+    {
+     "d": "A Local Court sentencing process for Aboriginal offenders (since 2002) in which the Local Court judge sits in a circle with Elders, the offender, the victim and lawyers to agree a sentence.",
+     "refs": [
+      {"t": 4, "s": 7, "points": ["crime.4.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "circumstantial-case",
+   "term": "Circumstantial case",
+   "senses": [
+    {
+     "d": "A case with no direct evidence of guilt, where the jury must decide whether guilt is the only rational inference from the facts (Dawson, Patterson).",
+     "refs": [
+      {"t": 3, "s": 7, "points": ["crime.3.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "circumstantial-evidence",
+   "term": "Circumstantial evidence",
+   "senses": [
+    {
+     "d": "Facts from which guilt can be inferred, rather than direct proof. Guilt must be the only rational inference.",
+     "refs": [
+      {"t": 3, "s": 5, "points": ["crime.3.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "class-action",
+   "term": "Class action",
+   "senses": [
+    {
+     "d": "A case brought by one person for many with the same claim, as in Meredith v NSW.",
+     "refs": [
+      {"t": 5, "s": 3, "points": ["crime.5.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "clearance-rate",
+   "term": "Clearance rate",
+   "senses": [
+    {
+     "d": "The share of recorded incidents where legal proceedings began within 90 days (BOCSAR).",
+     "refs": [
+      {"t": 2, "s": 2, "points": ["crime.2.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "codified",
+   "term": "Codified",
+   "senses": [
+    {
+     "d": "Written into an Act by Parliament; doli incapax was codified in s 5 of the CCPA from 1 March 2026.",
+     "refs": [
+      {"t": 5, "s": 2, "points": ["crime.5.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "coercive-control",
+   "term": "Coercive control",
+   "senses": [
+    {
+     "d": "A course of abusive conduct intended to coerce or control a current or former partner (Crimes Act 1900 s 54D, from 1 July 2024).",
+     "refs": [
+      {"t": 1, "s": 3, "points": ["crime.1.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "coercive-control-s-54d",
+   "term": "Coercive control (s 54D)",
+   "senses": [
+    {
+     "d": "A course (pattern) of abusive conduct against a current or former intimate partner, with intent to coerce or control; an offence since 1 July 2024.",
+     "refs": [
+      {"t": 2, "s": 2, "points": ["crime.2.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "committal",
+   "term": "Committal",
+   "senses": [
+    {
+     "d": "The step that sends an indictable case from the Local Court to a higher court for trial or sentence.",
+     "refs": [
+      {"t": 3, "s": 1, "points": ["crime.3.1"]}
+     ]
+    },
+    {
+     "d": "The process of deciding whether a serious charge goes to a higher court; the Children's Court conducts it for a SCIO.",
+     "refs": [
+      {"t": 5, "s": 4, "points": ["crime.5.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "common-law",
+   "term": "Common law",
+   "senses": [
+    {
+     "d": "Law made by judges in decided cases, such as the rules on causation.",
+     "refs": [
+      {"t": 1, "s": 1, "points": ["crime.1.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "community-correction-order-cco",
+   "term": "Community correction order (CCO)",
+   "senses": [
+    {
+     "d": "An order of up to 3 years with conditions such as supervision, community service, a curfew or treatment (s 8).",
+     "refs": [
+      {"t": 4, "s": 6, "points": ["crime.4.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "community-interests",
+   "term": "Community interests",
+   "senses": [
+    {
+     "d": "What society needs from the process: protection from crime, offenders brought to justice, compliance with the law, resources used well.",
+     "refs": [
+      {"t": 2, "s": 1, "points": ["crime.2.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "complementarity",
+   "term": "Complementarity",
+   "senses": [
+    {
+     "d": "The ICC acts only if a state is unwilling or unable to prosecute (Rome Statute art 17).",
+     "refs": [
+      {"t": 6, "s": 4, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "complete-defence",
+   "term": "Complete defence",
+   "senses": [
+    {
+     "d": "A defence that, if it succeeds, leads to an acquittal: self-defence, necessity, duress, automatism, mistake of fact, consent, mental health impairment.",
+     "refs": [
+      {"t": 3, "s": 6, "points": ["crime.3.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "concealment-s-316-s-316a",
+   "term": "Concealment (s 316, s 316A)",
+   "senses": [
+    {
+     "d": "The offences of failing to report a serious indictable offence (s 316) or child abuse (s 316A, 2018) to police.",
+     "refs": [
+      {"t": 2, "s": 2, "points": ["crime.2.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "conditional-release-order-cro",
+   "term": "Conditional release order (CRO)",
+   "senses": [
+    {
+     "d": "An order of up to 2 years with good behaviour conditions, with or without a conviction (s 9).",
+     "refs": [
+      {"t": 4, "s": 6, "points": ["crime.4.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "consorting",
+   "term": "Consorting",
+   "senses": [
+    {
+     "d": "The offence (Crimes Act s 93X) of habitually associating with convicted offenders after an official police warning.",
+     "refs": [
+      {"t": 2, "s": 1, "points": ["crime.2.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "continuing-detention-order-cdo",
+   "term": "Continuing detention order (CDO)",
+   "senses": [
+    {
+     "d": "A Supreme Court order detaining a high-risk sex or violent offender after the sentence ends, for up to 5 years, renewable.",
+     "refs": [
+      {"t": 4, "s": 8, "points": ["crime.4.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "control-order",
+   "term": "Control order",
+   "senses": [
+    {
+     "d": "Detention in a youth justice centre; the last rung of the ladder (CROC art 37(b): a last resort, for the shortest appropriate time).",
+     "refs": [
+      {"t": 5, "s": 5, "points": ["crime.5.4"]}
+     ]
+    },
+    {
+     "d": "A court order restricting a person to prevent a terrorist act (Criminal Code Div 104).",
+     "refs": [
+      {"t": 6, "s": 4, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "court-attendance-notice-can",
+   "term": "Court Attendance Notice (CAN)",
+   "senses": [
+    {
+     "d": "A document issued by police stating when and where a person must appear in court and the charge; it has replaced the summons for police prosecutions.",
+     "refs": [
+      {"t": 2, "s": 4, "points": ["crime.2.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "court-of-criminal-appeal",
+   "term": "Court of Criminal Appeal",
+   "senses": [
+    {
+     "d": "The NSW court that hears appeals against conviction and sentence from the District and Supreme Courts.",
+     "refs": [
+      {"t": 4, "s": 5, "points": ["crime.4.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "crime",
+   "term": "Crime",
+   "senses": [
+    {
+     "d": "An act or omission against the community at large that is punishable by the state.",
+     "refs": [
+      {"t": 1, "s": 1, "points": ["crime.1.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "crime-of-aggression",
+   "term": "Crime of aggression",
+   "senses": [
+    {
+     "d": "A leader's planning or launching of an act of aggression that manifestly violates the UN Charter (art 8 bis).",
+     "refs": [
+      {"t": 6, "s": 2, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "crimes-against-humanity",
+   "term": "Crimes against humanity",
+   "senses": [
+    {
+     "d": "Acts such as murder or torture committed as part of a widespread or systematic attack on civilians (art 7).",
+     "refs": [
+      {"t": 6, "s": 2, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "criminal-infringement-notice-cin",
+   "term": "Criminal Infringement Notice (CIN)",
+   "senses": [
+    {
+     "d": "An on-the-spot fine for a minor offence; under EDDI (2024) a $400 notice for small quantities of a drug, with no conviction.",
+     "refs": [
+      {"t": 2, "s": 4, "points": ["crime.2.4"]}
+     ]
+    },
+    {
+     "d": "An on-the-spot fine police can issue for a minor offence; paying it records no conviction.",
+     "refs": [
+      {"t": 4, "s": 6, "points": ["crime.4.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "croc",
+   "term": "CROC",
+   "senses": [
+    {
+     "d": "The Convention on the Rights of the Child (1989); Australia ratified it in 1990, but it binds NSW only through legislation.",
+     "refs": [
+      {"t": 5, "s": 1, "points": ["crime.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cross-examination",
+   "term": "Cross-examination",
+   "senses": [
+    {
+     "d": "Questioning of a witness by the opposing side, to test the reliability and credibility of their evidence.",
+     "refs": [
+      {"t": 3, "s": 2, "points": ["crime.3.2"]},
+      {"t": 3, "s": 5, "points": ["crime.3.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-crown",
+   "term": "The Crown",
+   "senses": [
+    {
+     "d": "The state as prosecutor, acting for the community; the case is named R (or Rex) v the accused.",
+     "refs": [
+      {"t": 1, "s": 1, "points": ["crime.1.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "crown-appeal",
+   "term": "Crown appeal",
+   "senses": [
+    {
+     "d": "The DPP's appeal that a sentence is manifestly inadequate (Criminal Appeal Act 1912 s 5D).",
+     "refs": [
+      {"t": 4, "s": 5, "points": ["crime.4.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "custody-manager",
+   "term": "Custody manager",
+   "senses": [
+    {
+     "d": "The officer responsible for a person in custody, who must caution them and explain their rights (s 122).",
+     "refs": [
+      {"t": 2, "s": 5, "points": ["crime.2.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "custody-notification-service",
+   "term": "Custody Notification Service",
+   "senses": [
+    {
+     "d": "The Aboriginal Legal Service line the custody manager must call whenever an Aboriginal or Torres Strait Islander person is in custody (mandatory since 2016).",
+     "refs": [
+      {"t": 2, "s": 5, "points": ["crime.2.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "customary-international-law",
+   "term": "Customary international law",
+   "senses": [
+    {
+     "d": "Rules that bind states because they are followed in practice as a matter of legal obligation.",
+     "refs": [
+      {"t": 6, "s": 1, "points": ["crime.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dark-figure-of-crime",
+   "term": "Dark figure of crime",
+   "senses": [
+    {
+     "d": "Crime that is never reported, so never recorded or investigated; statistics measure reporting as much as offending.",
+     "refs": [
+      {"t": 2, "s": 2, "points": ["crime.2.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "denunciation",
+   "term": "Denunciation",
+   "senses": [
+    {
+     "d": "The court's public condemnation of the conduct on behalf of the community.",
+     "refs": [
+      {"t": 4, "s": 2, "points": ["crime.4.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "desistance",
+   "term": "Desistance",
+   "senses": [
+    {
+     "d": "Stopping offending. Most young people grow out of offending, which is why early contact with the system matters.",
+     "refs": [
+      {"t": 5, "s": 1, "points": ["crime.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "detected-crime",
+   "term": "Detected crime",
+   "senses": [
+    {
+     "d": "Offences that come to light through police activity (drug possession, traffic, offensive conduct) rather than a report, so recorded rates track policing priorities.",
+     "refs": [
+      {"t": 2, "s": 2, "points": ["crime.2.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "detention-warrant",
+   "term": "Detention warrant",
+   "senses": [
+    {
+     "d": "A warrant from an authorised officer (magistrate or registrar) extending the investigation period once by up to 6 hours (s 118).",
+     "refs": [
+      {"t": 2, "s": 5, "points": ["crime.2.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deterrence",
+   "term": "Deterrence",
+   "senses": [
+    {
+     "d": "Discouraging crime by the threat of detection or punishment.",
+     "refs": [
+      {"t": 1, "s": 7, "points": ["crime.1.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "digital-evidence-access-order",
+   "term": "Digital evidence access order",
+   "senses": [
+    {
+     "d": "An order (LEPRA ss 76AA–76AQ; widened 2026) requiring a person to unlock a device or give passwords.",
+     "refs": [
+      {"t": 2, "s": 3, "points": ["crime.2.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "director-of-public-prosecutions-dpp",
+   "term": "Director of Public Prosecutions (DPP)",
+   "senses": [
+    {
+     "d": "The independent office that prosecutes indictable offences through Crown prosecutors, and decides charges, plea deals and appeals.",
+     "refs": [
+      {"t": 3, "s": 1, "points": ["crime.3.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dismissal-without-conviction-s-10",
+   "term": "Dismissal without conviction (s 10)",
+   "senses": [
+    {
+     "d": "The offence is proved but no conviction is recorded; the offender may be released with or without conditions.",
+     "refs": [
+      {"t": 4, "s": 6, "points": ["crime.4.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "displacement",
+   "term": "Displacement",
+   "senses": [
+    {
+     "d": "Crime moving to another place or form when one opportunity is blocked.",
+     "refs": [
+      {"t": 1, "s": 7, "points": ["crime.1.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "diversion",
+   "term": "Diversion",
+   "senses": [
+    {
+     "d": "Dealing with an offender outside court: a warning, caution, youth justice conference or infringement notice.",
+     "refs": [
+      {"t": 2, "s": 4, "points": ["crime.2.4"]}
+     ]
+    },
+    {
+     "d": "Dealing with an offender outside the usual court and prison process, usually through treatment: MERIT, the Drug Court, s 14 dismissals.",
+     "refs": [
+      {"t": 4, "s": 6, "points": ["crime.4.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "division-268",
+   "term": "Division 268",
+   "senses": [
+    {
+     "d": "The part of the Criminal Code (Cth) that makes genocide, crimes against humanity and war crimes Australian offences.",
+     "refs": [
+      {"t": 6, "s": 4, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "doli-incapax",
+   "term": "Doli incapax",
+   "senses": [
+    {
+     "d": "Latin for 'incapable of crime': the presumption that a child aged 10 to 13 does not know their conduct is seriously wrong.",
+     "refs": [
+      {"t": 5, "s": 1, "points": ["crime.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "double-jeopardy",
+   "term": "Double jeopardy",
+   "senses": [
+    {
+     "d": "The rule that no one should be tried twice for the same offence.",
+     "refs": [
+      {"t": 4, "s": 5, "points": ["crime.4.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dual-criminality",
+   "term": "Dual criminality",
+   "senses": [
+    {
+     "d": "The conduct must be a crime in both states.",
+     "refs": [
+      {"t": 6, "s": 5, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dualist",
+   "term": "Dualist",
+   "senses": [
+    {
+     "d": "A system in which a treaty becomes domestic law only when the parliament legislates.",
+     "refs": [
+      {"t": 6, "s": 1, "points": ["crime.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "duress",
+   "term": "Duress",
+   "senses": [
+    {
+     "d": "The accused's will was overborne by threats of serious harm.",
+     "refs": [
+      {"t": 3, "s": 6, "points": ["crime.3.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "economic-factor",
+   "term": "Economic factor",
+   "senses": [
+    {
+     "d": "Poverty, unemployment and the cost of living.",
+     "refs": [
+      {"t": 1, "s": 6, "points": ["crime.1.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "economic-offence",
+   "term": "Economic offence",
+   "senses": [
+    {
+     "d": "Dishonest gain: property, white collar and computer offences, and wage theft.",
+     "refs": [
+      {"t": 1, "s": 3, "points": ["crime.1.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "effectiveness",
+   "term": "Effectiveness",
+   "senses": [
+    {
+     "d": "How well the law achieves its purposes: protecting rights, preventing crime and delivering outcomes society accepts as just.",
+     "refs": [
+      {"t": 1, "s": 8, "points": ["crime.t.effectiveness"]},
+      {"t": 3, "s": 8, "points": ["crime.t.effectiveness"]},
+      {"t": 4, "s": 9, "points": ["crime.t.effectiveness"]},
+      {"t": 5, "s": 7, "points": ["crime.t.effectiveness"]},
+      {"t": 6, "s": 7, "points": ["crime.t.effectiveness"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "election",
+   "term": "Election",
+   "senses": [
+    {
+     "d": "A choice made by the prosecution or the accused about which court hears a matter.",
+     "refs": [
+      {"t": 1, "s": 4, "points": ["crime.1.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "enforcement",
+   "term": "Enforcement",
+   "senses": [
+    {
+     "d": "Making the law work in practice: arrest, trial and punishment.",
+     "refs": [
+      {"t": 6, "s": 6, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "equality-of-arms",
+   "term": "Equality of arms",
+   "senses": [
+    {
+     "d": "The principle that both sides should have a fair chance to present their case, which depends on both having skilled representation.",
+     "refs": [
+      {"t": 3, "s": 2, "points": ["crime.3.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "evaluate",
+   "term": "Evaluate",
+   "senses": [
+    {
+     "d": "Make a judgement based on criteria; determine the value of.",
+     "refs": [
+      {"t": 4, "s": 9, "points": ["crime.t.effectiveness"]},
+      {"t": 6, "s": 7, "points": ["crime.t.effectiveness"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eve-of-trial-plea",
+   "term": "Eve-of-trial plea",
+   "senses": [
+    {
+     "d": "A guilty plea entered just before the trial starts, after it has been prepared. It earns the smallest discount.",
+     "refs": [
+      {"t": 3, "s": 3, "points": ["crime.3.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "evidence-in-chief",
+   "term": "Evidence-in-chief",
+   "senses": [
+    {
+     "d": "A witness's main account, given before cross-examination. The 2026 Bill would let a recorded police interview be an adult complainant's evidence-in-chief.",
+     "refs": [
+      {"t": 3, "s": 5, "points": ["crime.3.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "evidential-burden",
+   "term": "Evidential burden",
+   "senses": [
+    {
+     "d": "The accused's duty to point to some evidence raising a defence; the prosecution must then disprove it beyond reasonable doubt.",
+     "refs": [
+      {"t": 3, "s": 6, "points": ["crime.3.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "examination-in-chief",
+   "term": "Examination-in-chief",
+   "senses": [
+    {
+     "d": "The questioning of a witness by the side that called them, using open questions.",
+     "refs": [
+      {"t": 3, "s": 5, "points": ["crime.3.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "extended-joint-criminal-enterprise",
+   "term": "Extended joint criminal enterprise",
+   "senses": [
+    {
+     "d": "Liability for a further crime that a member foresaw as a possible outcome (Miller v The Queen, 2016).",
+     "refs": [
+      {"t": 1, "s": 5, "points": ["crime.1.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "extended-supervision-order-eso",
+   "term": "Extended supervision order (ESO)",
+   "senses": [
+    {
+     "d": "A Supreme Court order supervising a high-risk offender in the community after the sentence ends (Crimes (High Risk Offenders) Act 2006).",
+     "refs": [
+      {"t": 4, "s": 8, "points": ["crime.4.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "external-affairs-power",
+   "term": "External affairs power",
+   "senses": [
+    {
+     "d": "Constitution s 51(xxix): lets the Commonwealth legislate to carry out treaties.",
+     "refs": [
+      {"t": 6, "s": 4, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "extradition",
+   "term": "Extradition",
+   "senses": [
+    {
+     "d": "The surrender of a person by one state to another for trial or punishment.",
+     "refs": [
+      {"t": 6, "s": 5, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "extraterritorial",
+   "term": "Extraterritorial",
+   "senses": [
+    {
+     "d": "Applying to conduct outside Australia.",
+     "refs": [
+      {"t": 6, "s": 4, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "extreme-provocation-s-23",
+   "term": "Extreme provocation (s 23)",
+   "senses": [
+    {
+     "d": "The deceased's conduct was a serious indictable offence that caused the accused to lose self-control, as an ordinary person might have.",
+     "refs": [
+      {"t": 3, "s": 6, "points": ["crime.3.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "factor",
+   "term": "Factor",
+   "senses": [
+    {
+     "d": "A circumstance that makes crime more likely: psychological, social, economic, political or genetic.",
+     "refs": [
+      {"t": 1, "s": 6, "points": ["crime.1.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "family-victim",
+   "term": "Family victim",
+   "senses": [
+    {
+     "d": "A member of the immediate family of a person who died as a result of the offence.",
+     "refs": [
+      {"t": 4, "s": 4, "points": ["crime.4.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "forensic-procedure",
+   "term": "Forensic procedure",
+   "senses": [
+    {
+     "d": "Taking a sample or print from a person for DNA or fingerprint analysis; intimate (blood) or non-intimate (mouth swab) under the Crimes (Forensic Procedures) Act 2000.",
+     "refs": [
+      {"t": 2, "s": 3, "points": ["crime.2.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "forfeiture",
+   "term": "Forfeiture",
+   "senses": [
+    {
+     "d": "Confiscation of property derived from crime.",
+     "refs": [
+      {"t": 4, "s": 6, "points": ["crime.4.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "form-1",
+   "term": "Form 1",
+   "senses": [
+    {
+     "d": "A list of further offences the offender admits and asks the court to take into account when sentencing for the main offence; they cannot be prosecuted later.",
+     "refs": [
+      {"t": 4, "s": 3, "points": ["crime.4.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "forum-sentencing",
+   "term": "Forum Sentencing",
+   "senses": [
+    {
+     "d": "An adult restorative justice program abolished in 2017 after BOCSAR found no reduction in reoffending.",
+     "refs": [
+      {"t": 4, "s": 7, "points": ["crime.4.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fresh-and-compelling-evidence",
+   "term": "Fresh and compelling evidence",
+   "senses": [
+    {
+     "d": "Evidence not available at the trial that is reliable and highly probative: a ground for retrial after acquittal for a very serious offence (2006).",
+     "refs": [
+      {"t": 4, "s": 5, "points": ["crime.4.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "general-deterrence",
+   "term": "General deterrence",
+   "senses": [
+    {
+     "d": "Discouraging others in the community from offending, by making an example of this offender.",
+     "refs": [
+      {"t": 4, "s": 2, "points": ["crime.4.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "genocide",
+   "term": "Genocide",
+   "senses": [
+    {
+     "d": "Acts committed with intent to destroy, in whole or in part, a national, ethnic, racial or religious group (Rome Statute art 6).",
+     "refs": [
+      {"t": 6, "s": 2, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "good-character",
+   "term": "Good character",
+   "senses": [
+    {
+     "d": "Evidence of an offender's reputation and conduct. Under the 2026 Act (passed May 2026; it commences by proclamation) it can no longer reduce a sentence for any offence.",
+     "refs": [
+      {"t": 4, "s": 3, "points": ["crime.4.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ground-rules-hearing",
+   "term": "Ground rules hearing",
+   "senses": [
+    {
+     "d": "A proposed hearing where the judge sets limits on how a vulnerable complainant may be questioned, before they give evidence.",
+     "refs": [
+      {"t": 3, "s": 2, "points": ["crime.3.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "guideline-judgment",
+   "term": "Guideline judgment",
+   "senses": [
+    {
+     "d": "A Court of Criminal Appeal judgment, often on the Attorney-General's application, giving guidance on sentencing for a type of offence.",
+     "refs": [
+      {"t": 4, "s": 1, "points": ["crime.4.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "guilty-plea-discount",
+   "term": "Guilty plea discount",
+   "senses": [
+    {
+     "d": "A reduction in sentence for pleading guilty. Under the 2018 scheme it is 25%, 10% or 5%, depending on when the plea is entered.",
+     "refs": [
+      {"t": 3, "s": 3, "points": ["crime.3.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "guilty-plea-discount-s-25d",
+   "term": "Guilty plea discount (s 25D)",
+   "senses": [
+    {
+     "d": "25% for a plea in the Local Court before committal; 10% after committal, at least 14 days before trial; 5% later.",
+     "refs": [
+      {"t": 4, "s": 3, "points": ["crime.4.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hearsay",
+   "term": "Hearsay",
+   "senses": [
+    {
+     "d": "Evidence of what someone else said, used to prove it is true. Generally excluded, with exceptions such as admissions.",
+     "refs": [
+      {"t": 3, "s": 5, "points": ["crime.3.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "historical-offences-s-21b",
+   "term": "Historical offences (s 21B)",
+   "senses": [
+    {
+     "d": "Since 2022, offences committed long ago are sentenced by today's sentencing patterns, but never above the maximum penalty at the time of the offence.",
+     "refs": [
+      {"t": 4, "s": 3, "points": ["crime.4.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hit-rate",
+   "term": "Hit rate",
+   "senses": [
+    {
+     "d": "The proportion of searches or scans that find what they are looking for.",
+     "refs": [
+      {"t": 1, "s": 7, "points": ["crime.1.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "how-effective",
+   "term": "How effective",
+   "senses": [
+    {
+     "d": "Make a judgement about how well something works, using evidence.",
+     "refs": [
+      {"t": 6, "s": 7, "points": ["crime.t.effectiveness"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "human-trafficking",
+   "term": "Human trafficking",
+   "senses": [
+    {
+     "d": "Moving or holding people for exploitation; consent is irrelevant.",
+     "refs": [
+      {"t": 6, "s": 3, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hung-jury",
+   "term": "Hung jury",
+   "senses": [
+    {
+     "d": "A jury that cannot agree. The accused may be retried, or the prosecution discontinued.",
+     "refs": [
+      {"t": 3, "s": 7, "points": ["crime.3.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "icc",
+   "term": "ICC",
+   "senses": [
+    {
+     "d": "The International Criminal Court in The Hague, which tries individuals for the four Rome Statute crimes.",
+     "refs": [
+      {"t": 6, "s": 5, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "icj",
+   "term": "ICJ",
+   "senses": [
+    {
+     "d": "The International Court of Justice, which decides disputes between states; it cannot convict individuals.",
+     "refs": [
+      {"t": 6, "s": 2, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "icty",
+   "term": "ICTY",
+   "senses": [
+    {
+     "d": "The International Criminal Tribunal for the former Yugoslavia (1993 to 2017).",
+     "refs": [
+      {"t": 6, "s": 2, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "implied-freedom-of-political-communication",
+   "term": "Implied freedom of political communication",
+   "senses": [
+    {
+     "d": "A limit the High Court has found in the Constitution: laws cannot burden political communication more than is reasonably necessary (Jarrett, 2026).",
+     "refs": [
+      {"t": 2, "s": 1, "points": ["crime.2.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "in-absentia",
+   "term": "In absentia",
+   "senses": [
+    {
+     "d": "In the accused's absence; the ICC cannot hold such trials.",
+     "refs": [
+      {"t": 6, "s": 6, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "inadmissible",
+   "term": "Inadmissible",
+   "senses": [
+    {
+     "d": "Evidence a court will not allow, for example a statement taken in breach of s 13.",
+     "refs": [
+      {"t": 5, "s": 3, "points": ["crime.5.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "incapacitation",
+   "term": "Incapacitation",
+   "senses": [
+    {
+     "d": "Protecting the community by removing the offender's ability to offend, usually by imprisonment.",
+     "refs": [
+      {"t": 4, "s": 2, "points": ["crime.4.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "indictable-offence",
+   "term": "Indictable offence",
+   "senses": [
+    {
+     "d": "A serious offence heard in the District or Supreme Court, usually by a jury.",
+     "refs": [
+      {"t": 1, "s": 4, "points": ["crime.1.6"]}
+     ]
+    },
+    {
+     "d": "A serious offence that can be tried before a judge and jury in the District or Supreme Court. Some can be dealt with summarily.",
+     "refs": [
+      {"t": 3, "s": 1, "points": ["crime.3.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "individual-rights",
+   "term": "Individual rights",
+   "senses": [
+    {
+     "d": "What the process must protect: privacy, silence, due process, freedom from arbitrary detention, the presumption of innocence, freedom of movement and assembly.",
+     "refs": [
+      {"t": 2, "s": 1, "points": ["crime.2.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "inquiry-part-7",
+   "term": "Inquiry (Part 7)",
+   "senses": [
+    {
+     "d": "A judicial inquiry into a conviction under the Crimes (Appeal and Review) Act 2001, the route that freed Folbigg.",
+     "refs": [
+      {"t": 4, "s": 5, "points": ["crime.4.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "inquisitorial-system",
+   "term": "Inquisitorial system",
+   "senses": [
+    {
+     "d": "A trial in which the judge directs the investigation, questions witnesses and builds the case from a written dossier (France, Germany).",
+     "refs": [
+      {"t": 3, "s": 2, "points": ["crime.3.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "instinctive-synthesis",
+   "term": "Instinctive synthesis",
+   "senses": [
+    {
+     "d": "Weighing all the relevant factors together to reach one sentence, rather than starting from a number and adding or subtracting (Markarian v The Queen, 2005).",
+     "refs": [
+      {"t": 4, "s": 1, "points": ["crime.4.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "intensive-correction-order-ico",
+   "term": "Intensive correction order (ICO)",
+   "senses": [
+    {
+     "d": "A prison sentence of up to 2 years served in the community under supervision, home detention, monitoring or community service (s 7). Community safety is paramount (s 66).",
+     "refs": [
+      {"t": 4, "s": 6, "points": ["crime.4.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "international-crime",
+   "term": "International crime",
+   "senses": [
+    {
+     "d": "Criminal conduct that offends the international community as a whole, or crosses borders so that no single state can deal with it alone.",
+     "refs": [
+      {"t": 6, "s": 1, "points": ["crime.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "investigation-period",
+   "term": "Investigation period",
+   "senses": [
+    {
+     "d": "The time after arrest in which police may detain a person to investigate the offence: a reasonable time up to 6 hours (LEPRA s 115).",
+     "refs": [
+      {"t": 2, "s": 5, "points": ["crime.2.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "investigative-detention",
+   "term": "Investigative detention",
+   "senses": [
+    {
+     "d": "Detention of a terrorism suspect aged 14+ for questioning: 4 days, up to 14 with a judge's warrant (Part 2AA).",
+     "refs": [
+      {"t": 2, "s": 5, "points": ["crime.2.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "joint-criminal-enterprise",
+   "term": "Joint criminal enterprise",
+   "senses": [
+    {
+     "d": "An agreement to commit a crime; each member is liable for crimes within its scope.",
+     "refs": [
+      {"t": 1, "s": 5, "points": ["crime.1.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "judge-alone-trial-s-132",
+   "term": "Judge-alone trial (s 132)",
+   "senses": [
+    {
+     "d": "A trial without a jury, on the accused's application. Ordered if the prosecution agrees, or if the court finds it in the interests of justice.",
+     "refs": [
+      {"t": 3, "s": 7, "points": ["crime.3.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "judicial-discretion",
+   "term": "Judicial discretion",
+   "senses": [
+    {
+     "d": "The judge's freedom to fit the sentence to the offence and the offender, within the limits Parliament sets.",
+     "refs": [
+      {"t": 4, "s": 1, "points": ["crime.4.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "judicial-guidelines",
+   "term": "Judicial guidelines",
+   "senses": [
+    {
+     "d": "Guidance from the courts: guideline judgments, Court of Criminal Appeal decisions and Judicial Commission sentencing statistics.",
+     "refs": [
+      {"t": 4, "s": 1, "points": ["crime.4.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "judicial-independence",
+   "term": "Judicial independence",
+   "senses": [
+    {
+     "d": "Courts deciding cases free from direction by Parliament or the executive; mandatory sentences and Kable-type laws test it.",
+     "refs": [
+      {"t": 4, "s": 9, "points": ["crime.t.effectiveness"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jurisdiction",
+   "term": "Jurisdiction",
+   "senses": [
+    {
+     "d": "The power of a court to hear a case. Original jurisdiction: to hear a case for the first time. Appellate jurisdiction: to review a lower court's decision.",
+     "refs": [
+      {"t": 3, "s": 1, "points": ["crime.3.1"]}
+     ]
+    },
+    {
+     "d": "The power of a court to hear a case.",
+     "refs": [
+      {"t": 6, "s": 1, "points": ["crime.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jurisdiction-test",
+   "term": "Jurisdiction test",
+   "senses": [
+    {
+     "d": "Whether the matter is a type Legal Aid funds.",
+     "refs": [
+      {"t": 3, "s": 4, "points": ["crime.3.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "juror-misconduct",
+   "term": "Juror misconduct",
+   "senses": [
+    {
+     "d": "A juror acting outside their role, for example making their own inquiries about the case. An offence under Jury Act s 68C (up to 2 years).",
+     "refs": [
+      {"t": 3, "s": 7, "points": ["crime.3.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jury",
+   "term": "Jury",
+   "senses": [
+    {
+     "d": "Twelve citizens, chosen at random from the electoral roll, who decide the facts and the verdict in a trial of an indictable offence.",
+     "refs": [
+      {"t": 3, "s": 7, "points": ["crime.3.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "justice-reinvestment",
+   "term": "Justice reinvestment",
+   "senses": [
+    {
+     "d": "Moving money from prison to prevention in the communities most affected.",
+     "refs": [
+      {"t": 1, "s": 7, "points": ["crime.1.9"]}
+     ]
+    },
+    {
+     "d": "Moving money from prisons into the causes of crime in a community: Maranguka, in Bourke.",
+     "refs": [
+      {"t": 4, "s": 7, "points": ["crime.4.7"]}
+     ]
+    },
+    {
+     "d": "Spending on community programs, such as Maranguka in Bourke, to prevent offending.",
+     "refs": [
+      {"t": 5, "s": 6, "points": ["crime.5.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "last-resort",
+   "term": "Last resort",
+   "senses": [
+    {
+     "d": "A court must not impose imprisonment unless satisfied no other penalty is appropriate (s 5).",
+     "refs": [
+      {"t": 4, "s": 6, "points": ["crime.4.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "law-reform-commission",
+   "term": "Law Reform Commission",
+   "senses": [
+    {
+     "d": "An independent body that reviews the law and recommends reform; its Report 133 (2012) led to the Bail Act 2013.",
+     "refs": [
+      {"t": 2, "s": 6, "points": ["crime.2.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "least-restrictive-sanction",
+   "term": "Least restrictive sanction",
+   "senses": [
+    {
+     "d": "The principle in s 7 that criminal proceedings are used only if no alternative is appropriate.",
+     "refs": [
+      {"t": 5, "s": 6, "points": ["crime.5.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lecc",
+   "term": "LECC",
+   "senses": [
+    {
+     "d": "The Law Enforcement Conduct Commission (2016): investigates and reports on police misconduct but cannot prosecute.",
+     "refs": [
+      {"t": 2, "s": 1, "points": ["crime.2.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "legal-aid-nsw",
+   "term": "Legal Aid NSW",
+   "senses": [
+    {
+     "d": "The government body that funds or provides lawyers for people who cannot afford one, under the Legal Aid Commission Act 1979 (NSW).",
+     "refs": [
+      {"t": 3, "s": 4, "points": ["crime.3.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "legal-proceedings",
+   "term": "Legal proceedings",
+   "senses": [
+    {
+     "d": "Formal action against a suspect: a court attendance notice, charge or youth justice conference.",
+     "refs": [
+      {"t": 2, "s": 2, "points": ["crime.2.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "legal-representation",
+   "term": "Legal representation",
+   "senses": [
+    {
+     "d": "Having a lawyer (a solicitor, and for trials usually a barrister) to advise, negotiate and speak for you in court.",
+     "refs": [
+      {"t": 3, "s": 4, "points": ["crime.3.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lepra",
+   "term": "LEPRA",
+   "senses": [
+    {
+     "d": "The Law Enforcement (Powers and Responsibilities) Act 2002 (NSW): the Act that contains most police powers and the responsibilities that go with them.",
+     "refs": [
+      {"t": 2, "s": 1, "points": ["crime.2.1"]},
+      {"t": 5, "s": 3, "points": ["crime.5.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "local-court-judge-magistrate",
+   "term": "Local Court judge (magistrate)",
+   "senses": [
+    {
+     "d": "The judicial officer of the Local Court. Formally titled 'judge' since 2026; the syllabus still uses 'magistrate'. Decides guilt and sentence alone.",
+     "refs": [
+      {"t": 3, "s": 1, "points": ["crime.3.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "majority-verdict-s-55f",
+   "term": "Majority verdict (s 55F)",
+   "senses": [
+    {
+     "d": "A verdict of 11–1 or 10–1, allowed after at least 8 hours of deliberation if the court is satisfied a unanimous verdict is unlikely (2006).",
+     "refs": [
+      {"t": 3, "s": 7, "points": ["crime.3.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mandatory-reporter",
+   "term": "Mandatory reporter",
+   "senses": [
+    {
+     "d": "A person (teacher, doctor, police officer) who must report a child at risk of significant harm.",
+     "refs": [
+      {"t": 2, "s": 2, "points": ["crime.2.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mandatory-sentence",
+   "term": "Mandatory sentence",
+   "senses": [
+    {
+     "d": "A penalty Parliament fixes, such as a mandatory minimum, which the court must impose regardless of the offender's circumstances.",
+     "refs": [
+      {"t": 4, "s": 1, "points": ["crime.4.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "manifestly-inadequate",
+   "term": "Manifestly inadequate",
+   "senses": [
+    {
+     "d": "So lenient that it falls outside the range a reasonable judge could impose: an error in itself.",
+     "refs": [
+      {"t": 4, "s": 5, "points": ["crime.4.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "maximum-penalty",
+   "term": "Maximum penalty",
+   "senses": [
+    {
+     "d": "The most severe sentence the law allows for an offence, set in the Act that creates the offence. Reserved for the worst cases; a yardstick for the rest.",
+     "refs": [
+      {"t": 4, "s": 1, "points": ["crime.4.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "means-test",
+   "term": "Means test",
+   "senses": [
+    {
+     "d": "Whether the applicant's income and assets are low enough to qualify for legal aid.",
+     "refs": [
+      {"t": 3, "s": 4, "points": ["crime.3.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mens-rea",
+   "term": "Mens rea",
+   "senses": [
+    {
+     "d": "The mental element: the fault the accused had. In order: intention, recklessness, criminal negligence.",
+     "refs": [
+      {"t": 1, "s": 2, "points": ["crime.1.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mental-health-impairment",
+   "term": "Mental health impairment",
+   "senses": [
+    {
+     "d": "A defence under s 28 of the Mental Health and Cognitive Impairment Forensic Provisions Act 2020 (NSW) when the accused could not reason about wrongfulness.",
+     "refs": [
+      {"t": 1, "s": 2, "points": ["crime.1.2"]}
+     ]
+    },
+    {
+     "d": "The accused could not know the nature of the act or that it was wrong. Verdict: 'act proven but not criminally responsible'.",
+     "refs": [
+      {"t": 3, "s": 6, "points": ["crime.3.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "merits-test",
+   "term": "Merits test",
+   "senses": [
+    {
+     "d": "Whether the case is likely to succeed. Usually applied only to criminal appeals, not trials.",
+     "refs": [
+      {"t": 3, "s": 4, "points": ["crime.3.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "metadata",
+   "term": "Metadata",
+   "senses": [
+    {
+     "d": "Data about communications (who, when, where) rather than their content; telcos must keep it for two years (Cth, 2015).",
+     "refs": [
+      {"t": 2, "s": 3, "points": ["crime.2.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "minimum-age",
+   "term": "Minimum age",
+   "senses": [
+    {
+     "d": "Set at 10 in NSW; the ACT raised it to 14 from 1 July 2025.",
+     "refs": [
+      {"t": 5, "s": 2, "points": ["crime.5.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mitigating-factor",
+   "term": "Mitigating factor",
+   "senses": [
+    {
+     "d": "A circumstance that reduces the offender's culpability or justifies a lighter sentence (s 21A(3)): no prior convictions, remorse, a guilty plea, good prospects of rehabilitation.",
+     "refs": [
+      {"t": 4, "s": 3, "points": ["crime.4.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "money-laundering",
+   "term": "Money laundering",
+   "senses": [
+    {
+     "d": "Hiding the criminal origin of money.",
+     "refs": [
+      {"t": 6, "s": 4, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mutual-assistance",
+   "term": "Mutual assistance",
+   "senses": [
+    {
+     "d": "Help between states in gathering evidence.",
+     "refs": [
+      {"t": 6, "s": 5, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "necessity",
+   "term": "Necessity",
+   "senses": [
+    {
+     "d": "The accused broke the law to avoid a greater harm.",
+     "refs": [
+      {"t": 3, "s": 6, "points": ["crime.3.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neutral-umpire",
+   "term": "Neutral umpire",
+   "senses": [
+    {
+     "d": "The judge's role in the adversary system: to make sure the rules are followed, not to find the evidence.",
+     "refs": [
+      {"t": 3, "s": 2, "points": ["crime.3.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "non-denial-statement",
+   "term": "Non-denial statement",
+   "senses": [
+    {
+     "d": "Since 1 July 2026 a child can receive a caution or conference by not denying the offence, rather than admitting it.",
+     "refs": [
+      {"t": 5, "s": 2, "points": ["crime.5.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "non-parole-period",
+   "term": "Non-parole period",
+   "senses": [
+    {
+     "d": "The minimum time an offender must spend in prison before parole can be considered.",
+     "refs": [
+      {"t": 4, "s": 1, "points": ["crime.4.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "novus-actus-interveniens",
+   "term": "Novus actus interveniens",
+   "senses": [
+    {
+     "d": "A new, independent act that breaks the chain of causation.",
+     "refs": [
+      {"t": 1, "s": 2, "points": ["crime.1.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "nsw-sentencing-council",
+   "term": "NSW Sentencing Council",
+   "senses": [
+    {
+     "d": "A body (2003) that advises the Attorney-General on sentencing law and reform.",
+     "refs": [
+      {"t": 4, "s": 1, "points": ["crime.4.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "odpp-prosecution-guidelines",
+   "term": "ODPP Prosecution Guidelines",
+   "senses": [
+    {
+     "d": "Rules for NSW prosecutors: charges must reasonably reflect the criminality and give the court enough sentencing power, and victims and police must be consulted.",
+     "refs": [
+      {"t": 3, "s": 3, "points": ["crime.3.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "offence-against-the-person",
+   "term": "Offence against the person",
+   "senses": [
+    {
+     "d": "Conduct that harms the body or safety of another, such as homicide, assault and coercive control.",
+     "refs": [
+      {"t": 1, "s": 3, "points": ["crime.1.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "offence-against-the-sovereign",
+   "term": "Offence against the sovereign",
+   "senses": [
+    {
+     "d": "Conduct that threatens the state, such as treason, espionage and foreign interference.",
+     "refs": [
+      {"t": 1, "s": 3, "points": ["crime.1.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "open-justice",
+   "term": "Open justice",
+   "senses": [
+    {
+     "d": "Courts sit in public and give reasons, so the community can see justice done.",
+     "refs": [
+      {"t": 3, "s": 8, "points": ["crime.t.effectiveness"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "opportunity",
+   "term": "Opportunity",
+   "senses": [
+    {
+     "d": "Crime is more likely when a motivated offender meets a suitable target with no capable guardian.",
+     "refs": [
+      {"t": 1, "s": 6, "points": ["crime.1.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "over-representation",
+   "term": "Over-representation",
+   "senses": [
+    {
+     "d": "Aboriginal people are about 3.4% of the NSW population but over 30% of prisoners.",
+     "refs": [
+      {"t": 4, "s": 7, "points": ["crime.4.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "parole",
+   "term": "Parole",
+   "senses": [
+    {
+     "d": "Conditional release from prison after the non-parole period, under supervision; breach returns the person to custody.",
+     "refs": [
+      {"t": 4, "s": 8, "points": ["crime.4.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "partial-defence",
+   "term": "Partial defence",
+   "senses": [
+    {
+     "d": "A defence to murder only. If it succeeds, the accused is convicted of manslaughter instead: extreme provocation, substantial impairment, excessive self-defence, infanticide.",
+     "refs": [
+      {"t": 3, "s": 6, "points": ["crime.3.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "party",
+   "term": "Party",
+   "senses": [
+    {
+     "d": "A person who runs a case in court. The prosecution and the accused are parties; the victim is not.",
+     "refs": [
+      {"t": 4, "s": 4, "points": ["crime.4.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pearr-jam",
+   "term": "PEARR JAM",
+   "senses": [
+    {
+     "d": "The school's criteria: Protection of individual rights, Enforceability, Accessibility, Resource efficiency, Responsiveness, Justice achieved, Application of the rule of law, Meeting society's needs.",
+     "refs": [
+      {"t": 1, "s": 1, "points": ["crime.1.1"]},
+      {"t": 1, "s": 8, "points": ["crime.t.effectiveness"]},
+      {"t": 3, "s": 8, "points": ["crime.t.effectiveness"]},
+      {"t": 4, "s": 9, "points": ["crime.t.effectiveness"]},
+      {"t": 5, "s": 7, "points": ["crime.t.effectiveness"]},
+      {"t": 6, "s": 7, "points": ["crime.t.effectiveness"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "penalty-notice",
+   "term": "Penalty notice",
+   "senses": [
+    {
+     "d": "An on-the-spot fine for a minor offence, without going to court.",
+     "refs": [
+      {"t": 1, "s": 3, "points": ["crime.1.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "penalty-unit",
+   "term": "Penalty unit",
+   "senses": [
+    {
+     "d": "The unit fines are set in: $110 in NSW.",
+     "refs": [
+      {"t": 4, "s": 6, "points": ["crime.4.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "people-smuggling",
+   "term": "People smuggling",
+   "senses": [
+    {
+     "d": "Moving people across a border illegally for payment, usually with their consent.",
+     "refs": [
+      {"t": 6, "s": 3, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "peremptory-challenge",
+   "term": "Peremptory challenge",
+   "senses": [
+    {
+     "d": "Rejecting a potential juror without giving a reason. Each side has three.",
+     "refs": [
+      {"t": 3, "s": 7, "points": ["crime.3.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "permanent-stay",
+   "term": "Permanent stay",
+   "senses": [
+    {
+     "d": "An order that a trial will not go ahead because it would be an abuse of process.",
+     "refs": [
+      {"t": 3, "s": 1, "points": ["crime.3.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "plea",
+   "term": "Plea",
+   "senses": [
+    {
+     "d": "The accused's formal answer to a charge in court: guilty or not guilty.",
+     "refs": [
+      {"t": 3, "s": 3, "points": ["crime.3.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "police-discretion",
+   "term": "Police discretion",
+   "senses": [
+    {
+     "d": "The freedom police have to choose whether and how to use a power: investigate, search, arrest, charge, divert, grant bail.",
+     "refs": [
+      {"t": 2, "s": 1, "points": ["crime.2.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "preliminary-inchoate-crime",
+   "term": "Preliminary (inchoate) crime",
+   "senses": [
+    {
+     "d": "A crime of taking steps towards an offence not yet committed: attempt, conspiracy, preparation.",
+     "refs": [
+      {"t": 1, "s": 3, "points": ["crime.1.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "presumption-of-innocence",
+   "term": "Presumption of innocence",
+   "senses": [
+    {
+     "d": "A person is treated as innocent until proven guilty; remand is the clearest exception in practice.",
+     "refs": [
+      {"t": 2, "s": 6, "points": ["crime.2.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "preventative-detention",
+   "term": "Preventative detention",
+   "senses": [
+    {
+     "d": "A court order holding a person aged 16+ for up to 14 days to prevent an imminent terrorist act or preserve evidence (Part 2A).",
+     "refs": [
+      {"t": 2, "s": 5, "points": ["crime.2.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "primary-victim",
+   "term": "Primary victim",
+   "senses": [
+    {
+     "d": "The person against whom the offence was committed.",
+     "refs": [
+      {"t": 4, "s": 4, "points": ["crime.4.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "principal-in-the-first-degree",
+   "term": "Principal in the first degree",
+   "senses": [
+    {
+     "d": "The person who commits the criminal act.",
+     "refs": [
+      {"t": 1, "s": 5, "points": ["crime.1.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "principal-in-the-second-degree",
+   "term": "Principal in the second degree",
+   "senses": [
+    {
+     "d": "A person present who aids, abets or encourages the crime.",
+     "refs": [
+      {"t": 1, "s": 5, "points": ["crime.1.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "private-prosecution",
+   "term": "Private prosecution",
+   "senses": [
+    {
+     "d": "A prosecution started by a private person rather than by police or the DPP.",
+     "refs": [
+      {"t": 1, "s": 4, "points": ["crime.1.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "procedural-fairness",
+   "term": "Procedural fairness",
+   "senses": [
+    {
+     "d": "A fair process: each side is heard, and the rules are applied equally. It becomes substantive justice only if the sides are evenly matched.",
+     "refs": [
+      {"t": 3, "s": 2, "points": ["crime.3.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "proportionality",
+   "term": "Proportionality",
+   "senses": [
+    {
+     "d": "The sentence must fit the seriousness of the crime; it cannot be increased beyond that to protect the community (Veen (No 2), 1988).",
+     "refs": [
+      {"t": 4, "s": 2, "points": ["crime.4.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prosecutorial-discretion",
+   "term": "Prosecutorial discretion",
+   "senses": [
+    {
+     "d": "The prosecutor's choice about which charges to lay, accept, change or withdraw.",
+     "refs": [
+      {"t": 3, "s": 3, "points": ["crime.3.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "protective-custody",
+   "term": "Protective custody",
+   "senses": [
+    {
+     "d": "Separating inmates at risk from other prisoners, such as former police, informants and sex offenders.",
+     "refs": [
+      {"t": 4, "s": 8, "points": ["crime.4.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "psychological-factor",
+   "term": "Psychological factor",
+   "senses": [
+    {
+     "d": "Mental illness, impairment, addiction and trauma.",
+     "refs": [
+      {"t": 1, "s": 6, "points": ["crime.1.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "public-defenders",
+   "term": "Public Defenders",
+   "senses": [
+    {
+     "d": "Independent senior barristers, paid by the State, who defend legally aided accused in serious trials and appeals.",
+     "refs": [
+      {"t": 3, "s": 1, "points": ["crime.3.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "radicalisation",
+   "term": "Radicalisation",
+   "senses": [
+    {
+     "d": "The process by which a person comes to support violent extremism, often online.",
+     "refs": [
+      {"t": 1, "s": 6, "points": ["crime.1.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ransomware",
+   "term": "Ransomware",
+   "senses": [
+    {
+     "d": "Software that locks or steals data until a payment is made.",
+     "refs": [
+      {"t": 6, "s": 3, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reasonable-force",
+   "term": "Reasonable force",
+   "senses": [
+    {
+     "d": "The only force police may use to arrest (LEPRA s 231); excessive force is assault or, if death results, manslaughter.",
+     "refs": [
+      {"t": 2, "s": 4, "points": ["crime.2.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reasonable-suspicion",
+   "term": "Reasonable suspicion",
+   "senses": [
+    {
+     "d": "More than a possibility, less than a belief, with some factual basis; judged on what the officer knew at the time (R v Rondo, 2001).",
+     "refs": [
+      {"t": 2, "s": 1, "points": ["crime.2.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reasonably-necessary",
+   "term": "Reasonably necessary",
+   "senses": [
+    {
+     "d": "The second step of s 99: arrest must be needed for a listed reason (stop the offence, stop flight, establish identity, ensure court attendance, preserve evidence, protect safety).",
+     "refs": [
+      {"t": 2, "s": 4, "points": ["crime.2.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rebuttable-presumption",
+   "term": "Rebuttable presumption",
+   "senses": [
+    {
+     "d": "A presumption that applies unless the Crown proves otherwise, as doli incapax does for a child aged 10 to 13.",
+     "refs": [
+      {"t": 5, "s": 2, "points": ["crime.5.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "recidivism",
+   "term": "Recidivism",
+   "senses": [
+    {
+     "d": "Reoffending after a sentence. About half of people released from NSW prisons return within two years.",
+     "refs": [
+      {"t": 4, "s": 2, "points": ["crime.4.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "recruiting-a-child",
+   "term": "Recruiting a child",
+   "senses": [
+    {
+     "d": "Using a child to commit a crime; an offence from June 2026 (s 351A).",
+     "refs": [
+      {"t": 1, "s": 5, "points": ["crime.1.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "red-notice",
+   "term": "Red Notice",
+   "senses": [
+    {
+     "d": "An INTERPOL request to locate and provisionally arrest a person; not an arrest warrant.",
+     "refs": [
+      {"t": 6, "s": 5, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "registrable-offender",
+   "term": "Registrable offender",
+   "senses": [
+    {
+     "d": "A person convicted of a child sex offence who must report to police under the Child Protection (Offenders Registration) Act 2000.",
+     "refs": [
+      {"t": 4, "s": 8, "points": ["crime.4.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rehabilitation",
+   "term": "Rehabilitation",
+   "senses": [
+    {
+     "d": "Changing the offender so they do not reoffend, through treatment, education or supervision.",
+     "refs": [
+      {"t": 4, "s": 2, "points": ["crime.4.2"]}
+     ]
+    },
+    {
+     "d": "Helping an offender change so they do not reoffend; the primary consideration when sentencing a child (R v GDP, 1991).",
+     "refs": [
+      {"t": 5, "s": 1, "points": ["crime.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "remand",
+   "term": "Remand",
+   "senses": [
+    {
+     "d": "Custody awaiting trial or sentence; the person has not been convicted.",
+     "refs": [
+      {"t": 2, "s": 6, "points": ["crime.2.5"]}
+     ]
+    },
+    {
+     "d": "Holding an accused in custody until trial or sentence; most detained children are on remand.",
+     "refs": [
+      {"t": 5, "s": 1, "points": ["crime.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resentencing",
+   "term": "Resentencing",
+   "senses": [
+    {
+     "d": "Wood CJ at CL suggested children convicted of murder be resentenced at about 21; NSW has not adopted it.",
+     "refs": [
+      {"t": 5, "s": 5, "points": ["crime.5.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "responsiveness",
+   "term": "Responsiveness",
+   "senses": [
+    {
+     "d": "How quickly and fully the law adapts to new problems.",
+     "refs": [
+      {"t": 1, "s": 8, "points": ["crime.t.effectiveness"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "restorative-justice",
+   "term": "Restorative justice",
+   "senses": [
+    {
+     "d": "Bringing the offender, the victim and the community together to repair the harm, rather than only to punish.",
+     "refs": [
+      {"t": 4, "s": 7, "points": ["crime.4.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "retribution",
+   "term": "Retribution",
+   "senses": [
+    {
+     "d": "Punishment the offender deserves, in proportion to the crime.",
+     "refs": [
+      {"t": 4, "s": 2, "points": ["crime.4.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reverse-onus",
+   "term": "Reverse onus",
+   "senses": [
+    {
+     "d": "An exception where the accused must prove something, on the balance of probabilities: mental health impairment, substantial impairment, 'show cause' at bail.",
+     "refs": [
+      {"t": 3, "s": 5, "points": ["crime.3.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "right-to-silence",
+   "term": "Right to silence",
+   "senses": [
+    {
+     "d": "A suspect need not answer police questions, and silence cannot be treated as evidence of guilt (Evidence Act s 89); s 89A (2013) is the exception.",
+     "refs": [
+      {"t": 2, "s": 3, "points": ["crime.2.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome-statute",
+   "term": "Rome Statute",
+   "senses": [
+    {
+     "d": "The 1998 treaty that created the International Criminal Court.",
+     "refs": [
+      {"t": 6, "s": 1, "points": ["crime.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rule-of-law",
+   "term": "Rule of law",
+   "senses": [
+    {
+     "d": "Everyone, including the State, is bound by and equal before the law, applied by independent courts.",
+     "refs": [
+      {"t": 3, "s": 8, "points": ["crime.t.effectiveness"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-138",
+   "term": "s 138",
+   "senses": [
+    {
+     "d": "Evidence Act: improperly or illegally obtained evidence is excluded unless the desirability of admitting it outweighs the undesirability.",
+     "refs": [
+      {"t": 3, "s": 5, "points": ["crime.3.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "safeguard",
+   "term": "Safeguard",
+   "senses": [
+    {
+     "d": "A legal condition on a power that protects the individual: s 201 (name, place of duty, reason), reasonable force (s 231), a warrant, a support person.",
+     "refs": [
+      {"t": 2, "s": 1, "points": ["crime.2.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sanctions",
+   "term": "Sanctions",
+   "senses": [
+    {
+     "d": "Asset freezes and travel bans imposed by a government on a person or body.",
+     "refs": [
+      {"t": 6, "s": 3, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "saro",
+   "term": "SARO",
+   "senses": [
+    {
+     "d": "The Sexual Assault Reporting Option: adults can give police information online without starting a formal investigation.",
+     "refs": [
+      {"t": 2, "s": 2, "points": ["crime.2.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scio",
+   "term": "SCIO",
+   "senses": [
+    {
+     "d": "A serious children's indictable offence, such as murder or (since September 2026) shooting at a building; dealt with according to law in the District or Supreme Court (s 17).",
+     "refs": [
+      {"t": 5, "s": 4, "points": ["crime.5.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "search-and-seizure",
+   "term": "Search and seizure",
+   "senses": [
+    {
+     "d": "Examining a person, vehicle or premises for evidence (LEPRA s 21 on reasonable suspicion) and taking what is found.",
+     "refs": [
+      {"t": 2, "s": 3, "points": ["crime.2.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "search-warrant",
+   "term": "Search warrant",
+   "senses": [
+    {
+     "d": "A document from a magistrate or authorised officer authorising police to enter and search premises and seize things (LEPRA Part 5).",
+     "refs": [
+      {"t": 2, "s": 3, "points": ["crime.2.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "section-138",
+   "term": "Section 138",
+   "senses": [
+    {
+     "d": "The discretion to exclude improperly or illegally obtained evidence unless the desirability of admitting it outweighs the undesirability of how it was obtained.",
+     "refs": [
+      {"t": 2, "s": 3, "points": ["crime.2.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "section-14",
+   "term": "Section 14",
+   "senses": [
+    {
+     "d": "No conviction can be recorded for a child under 16; the court may refuse to record one for a 16 or 17-year-old.",
+     "refs": [
+      {"t": 5, "s": 5, "points": ["crime.5.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "section-15a",
+   "term": "Section 15A",
+   "senses": [
+    {
+     "d": "Makes it an offence to publish a child's name in a way that identifies them.",
+     "refs": [
+      {"t": 5, "s": 4, "points": ["crime.5.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "section-22c",
+   "term": "Section 22C",
+   "senses": [
+    {
+     "d": "The youth bail test (2024): for 14 to 17-year-olds charged with serious break and enter or car theft while on bail, refuse unless there is a 'high degree of confidence' they will not reoffend.",
+     "refs": [
+      {"t": 2, "s": 6, "points": ["crime.2.5"]}
+     ]
+    },
+    {
+     "d": "The bail test (extended to 4 April 2028) that applies to a 16 or 17-year-old charged with certain offences while on bail for another.",
+     "refs": [
+      {"t": 5, "s": 4, "points": ["crime.5.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "section-33",
+   "term": "Section 33",
+   "senses": [
+    {
+     "d": "Lists the penalties the Children's Court can impose, from dismissal to a control order of up to 2 years for one offence.",
+     "refs": [
+      {"t": 5, "s": 5, "points": ["crime.5.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "section-67a",
+   "term": "Section 67A",
+   "senses": [
+    {
+     "d": "From 1 July 2026 a non-denial statement is inadmissible as evidence in later proceedings.",
+     "refs": [
+      {"t": 5, "s": 6, "points": ["crime.5.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "security-classification",
+   "term": "Security classification",
+   "senses": [
+    {
+     "d": "Corrective Services' assessment of the risk an inmate poses, from minimum to maximum security, which decides where they are held and what they may do.",
+     "refs": [
+      {"t": 4, "s": 8, "points": ["crime.4.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "selective-justice",
+   "term": "Selective justice",
+   "senses": [
+    {
+     "d": "The criticism that only some offenders, from weaker states, are tried.",
+     "refs": [
+      {"t": 6, "s": 6, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "self-defence-ss-418423",
+   "term": "Self-defence (ss 418–423)",
+   "senses": [
+    {
+     "d": "The accused believed their conduct was necessary to defend themselves or another, and it was a reasonable response as they saw the situation.",
+     "refs": [
+      {"t": 3, "s": 6, "points": ["crime.3.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "serious-crime-prevention-order",
+   "term": "Serious crime prevention order",
+   "senses": [
+    {
+     "d": "A court order (2016) restricting a person's associations, movement and internet use for up to 5 years; interim orders (2026) let police impose restrictions before the hearing.",
+     "refs": [
+      {"t": 2, "s": 1, "points": ["crime.2.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "seriously-wrong",
+   "term": "Seriously wrong",
+   "senses": [
+    {
+     "d": "Wrong in a moral sense, not merely naughty or against the law (RP v The Queen, 2016).",
+     "refs": [
+      {"t": 5, "s": 2, "points": ["crime.5.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "severity-appeal",
+   "term": "Severity appeal",
+   "senses": [
+    {
+     "d": "An offender's appeal that the sentence is too severe.",
+     "refs": [
+      {"t": 4, "s": 5, "points": ["crime.4.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "show-cause",
+   "term": "Show cause",
+   "senses": [
+    {
+     "d": "For listed serious offences the accused must show why their detention is not justified, or bail must be refused (Bail Act s 16A, 2014).",
+     "refs": [
+      {"t": 2, "s": 6, "points": ["crime.2.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "situational-prevention",
+   "term": "Situational prevention",
+   "senses": [
+    {
+     "d": "Making crime harder, riskier or less rewarding in a particular place: cameras, lighting, locks, scanning.",
+     "refs": [
+      {"t": 1, "s": 7, "points": ["crime.1.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "social-factor",
+   "term": "Social factor",
+   "senses": [
+    {
+     "d": "Family, peers, education and community.",
+     "refs": [
+      {"t": 1, "s": 6, "points": ["crime.1.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "social-prevention",
+   "term": "Social prevention",
+   "senses": [
+    {
+     "d": "Tackling the causes of offending, such as disadvantage, before crime happens.",
+     "refs": [
+      {"t": 1, "s": 7, "points": ["crime.1.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sovereignty",
+   "term": "Sovereignty",
+   "senses": [
+    {
+     "d": "Each state's supreme authority over its own territory, laws and courts.",
+     "refs": [
+      {"t": 6, "s": 1, "points": ["crime.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "special-intent",
+   "term": "Special intent",
+   "senses": [
+    {
+     "d": "The intent to destroy a group, which separates genocide from other crimes.",
+     "refs": [
+      {"t": 6, "s": 2, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "special-verdict",
+   "term": "Special verdict",
+   "senses": [
+    {
+     "d": "'Act proven but not criminally responsible': the mental health impairment verdict.",
+     "refs": [
+      {"t": 3, "s": 7, "points": ["crime.3.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "specific-deterrence",
+   "term": "Specific deterrence",
+   "senses": [
+    {
+     "d": "Discouraging this offender from reoffending.",
+     "refs": [
+      {"t": 4, "s": 2, "points": ["crime.4.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "standard-non-parole-period",
+   "term": "Standard non-parole period",
+   "senses": [
+    {
+     "d": "A guidepost for mid-range offences; the 20-year SNPP for murder did not apply to CL because he was a juvenile.",
+     "refs": [
+      {"t": 5, "s": 5, "points": ["crime.5.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "standard-non-parole-period-snpp",
+   "term": "Standard non-parole period (SNPP)",
+   "senses": [
+    {
+     "d": "The non-parole period Parliament sets for an offence in the middle of the range of seriousness: a guidepost, not a starting point (Muldrock, 2011).",
+     "refs": [
+      {"t": 4, "s": 1, "points": ["crime.4.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "standard-of-proof",
+   "term": "Standard of proof",
+   "senses": [
+    {
+     "d": "How convincingly the case must be proved. Criminal: beyond reasonable doubt (Evidence Act s 141). Civil: the balance of probabilities.",
+     "refs": [
+      {"t": 3, "s": 5, "points": ["crime.3.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "state-parole-authority",
+   "term": "State Parole Authority",
+   "senses": [
+    {
+     "d": "The body that decides parole for sentences over three years, with community safety paramount.",
+     "refs": [
+      {"t": 4, "s": 8, "points": ["crime.4.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "state-party",
+   "term": "State party",
+   "senses": [
+    {
+     "d": "A state that has ratified a treaty; the Rome Statute has 125.",
+     "refs": [
+      {"t": 6, "s": 5, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "state-sponsor-of-terrorism",
+   "term": "State sponsor of terrorism",
+   "senses": [
+    {
+     "d": "A foreign state body listed under the 2025 Act for directing or supporting terrorism.",
+     "refs": [
+      {"t": 6, "s": 3, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "statute",
+   "term": "Statute",
+   "senses": [
+    {
+     "d": "An Act of Parliament, such as the Crimes Act 1900 (NSW).",
+     "refs": [
+      {"t": 1, "s": 1, "points": ["crime.1.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "statutory-guidelines",
+   "term": "Statutory guidelines",
+   "senses": [
+    {
+     "d": "Limits set by Parliament: maximum penalties, standard non-parole periods, mandatory sentences, and the purposes (s 3A) and factors (s 21A) in the Crimes (Sentencing Procedure) Act 1999.",
+     "refs": [
+      {"t": 4, "s": 1, "points": ["crime.4.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stay-of-proceedings",
+   "term": "Stay of proceedings",
+   "senses": [
+    {
+     "d": "A court order pausing or stopping a trial, for example until an unrepresented accused is represented (Dietrich).",
+     "refs": [
+      {"t": 3, "s": 4, "points": ["crime.3.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stmp",
+   "term": "STMP",
+   "senses": [
+    {
+     "d": "The Suspect Targeting Management Plan, a police program that rates people by risk of offending; criticised for how many young Aboriginal people it lists.",
+     "refs": [
+      {"t": 5, "s": 3, "points": ["crime.5.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strict-liability",
+   "term": "Strict liability",
+   "senses": [
+    {
+     "d": "An offence for which only the act must be proved, without mens rea.",
+     "refs": [
+      {"t": 1, "s": 2, "points": ["crime.1.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strictly-indictable",
+   "term": "Strictly indictable",
+   "senses": [
+    {
+     "d": "An offence that must go to a higher court, such as murder.",
+     "refs": [
+      {"t": 1, "s": 4, "points": ["crime.1.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "strip-search",
+   "term": "Strip search",
+   "senses": [
+    {
+     "d": "A search requiring removal of clothing; outside a station only where serious and urgent, never under 10 (LEPRA ss 31–34).",
+     "refs": [
+      {"t": 2, "s": 3, "points": ["crime.2.3"]}
+     ]
+    },
+    {
+     "d": "A search that requires removing clothing; not allowed for a child under 10 (s 34), and for 10 to 17-year-olds needs a parent or support person (s 33).",
+     "refs": [
+      {"t": 5, "s": 3, "points": ["crime.5.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "substantial-impairment-s-23a",
+   "term": "Substantial impairment (s 23A)",
+   "senses": [
+    {
+     "d": "An abnormality of mind from an underlying condition substantially impaired the accused's capacity. The accused must prove it.",
+     "refs": [
+      {"t": 3, "s": 6, "points": ["crime.3.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "summary-offence",
+   "term": "Summary offence",
+   "senses": [
+    {
+     "d": "A minor offence heard in the Local Court by a judge alone.",
+     "refs": [
+      {"t": 1, "s": 4, "points": ["crime.1.6"]}
+     ]
+    },
+    {
+     "d": "A minor offence heard by a Local Court judge alone, without a jury (maximum 2 years for one offence).",
+     "refs": [
+      {"t": 3, "s": 1, "points": ["crime.3.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "summons",
+   "term": "Summons",
+   "senses": [
+    {
+     "d": "An older document, issued by a registrar, requiring attendance at court; still used in private prosecutions.",
+     "refs": [
+      {"t": 2, "s": 4, "points": ["crime.2.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "support-person",
+   "term": "Support person",
+   "senses": [
+    {
+     "d": "A parent or responsible person, or from age 14 an adult the child chooses or their lawyer; must be present for the child's interview.",
+     "refs": [
+      {"t": 5, "s": 3, "points": ["crime.5.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "surety",
+   "term": "Surety",
+   "senses": [
+    {
+     "d": "Money or property pledged by the accused or another person that is forfeited if the accused fails to appear.",
+     "refs": [
+      {"t": 2, "s": 6, "points": ["crime.2.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "table-1-offence",
+   "term": "Table 1 offence",
+   "senses": [
+    {
+     "d": "An indictable offence dealt with in the Local Court unless the prosecution or the accused elects a higher court.",
+     "refs": [
+      {"t": 1, "s": 4, "points": ["crime.1.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "table-2-offence",
+   "term": "Table 2 offence",
+   "senses": [
+    {
+     "d": "An indictable offence dealt with in the Local Court unless the prosecution elects a higher court.",
+     "refs": [
+      {"t": 1, "s": 4, "points": ["crime.1.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tainted-acquittal",
+   "term": "Tainted acquittal",
+   "senses": [
+    {
+     "d": "An acquittal obtained through an offence such as perjury or jury tampering.",
+     "refs": [
+      {"t": 4, "s": 5, "points": ["crime.4.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "time-out",
+   "term": "Time out",
+   "senses": [
+    {
+     "d": "Time not counted in the investigation period: waiting for a lawyer, interpreter or support person; medical treatment; rest; travel (s 117).",
+     "refs": [
+      {"t": 2, "s": 5, "points": ["crime.2.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "to-what-extent",
+   "term": "To what extent",
+   "senses": [
+    {
+     "d": "Make a judgement about how far something is true, supported by evidence.",
+     "refs": [
+      {"t": 1, "s": 8, "points": ["crime.t.effectiveness"]},
+      {"t": 3, "s": 8, "points": ["crime.t.effectiveness"]},
+      {"t": 5, "s": 7, "points": ["crime.t.effectiveness"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "transnational-crime",
+   "term": "Transnational crime",
+   "senses": [
+    {
+     "d": "Crime that crosses borders in its commission, planning, organisation or effects (UNTOC art 3(2)).",
+     "refs": [
+      {"t": 6, "s": 3, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "treaty",
+   "term": "Treaty",
+   "senses": [
+    {
+     "d": "A written agreement between states that binds those that ratify it.",
+     "refs": [
+      {"t": 6, "s": 1, "points": ["crime.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unacceptable-risk",
+   "term": "Unacceptable risk",
+   "senses": [
+    {
+     "d": "The main test (s 17): will the accused fail to appear, commit a serious offence, endanger safety, or interfere with witnesses or evidence?",
+     "refs": [
+      {"t": 2, "s": 6, "points": ["crime.2.5"]}
+     ]
+    },
+    {
+     "d": "The test for an ESO or CDO: the court must be satisfied to a high degree of probability that the offender poses an unacceptable risk of a further serious offence.",
+     "refs": [
+      {"t": 4, "s": 8, "points": ["crime.4.8"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unacceptable-risk-test",
+   "term": "Unacceptable risk test",
+   "senses": [
+    {
+     "d": "The test the court applies at every bail decision: whether the accused is an unacceptable risk of failing to appear, committing a serious offence, endangering safety or interfering with witnesses.",
+     "refs": [
+      {"t": 5, "s": 4, "points": ["crime.5.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unanimous-verdict",
+   "term": "Unanimous verdict",
+   "senses": [
+    {
+     "d": "All twelve jurors agree.",
+     "refs": [
+      {"t": 3, "s": 7, "points": ["crime.3.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "untoc",
+   "term": "UNTOC",
+   "senses": [
+    {
+     "d": "The UN Convention against Transnational Organized Crime (2000).",
+     "refs": [
+      {"t": 6, "s": 3, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "utilitarian-value",
+   "term": "Utilitarian value",
+   "senses": [
+    {
+     "d": "The practical benefit of a guilty plea: it saves court time and money, spares victims and witnesses a trial, and makes a conviction certain.",
+     "refs": [
+      {"t": 3, "s": 3, "points": ["crime.3.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "veto",
+   "term": "Veto",
+   "senses": [
+    {
+     "d": "The power of a permanent member of the UN Security Council to block a decision.",
+     "refs": [
+      {"t": 6, "s": 6, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "victim-consultation-s-35a",
+   "term": "Victim consultation (s 35A)",
+   "senses": [
+    {
+     "d": "Before the court takes negotiated charges or facts into account, the prosecutor must certify that the victim and police were consulted. It is consultation, not a veto.",
+     "refs": [
+      {"t": 3, "s": 3, "points": ["crime.3.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "victim-impact-statement",
+   "term": "Victim impact statement",
+   "senses": [
+    {
+     "d": "A statement by a primary victim, or a family member in a homicide case, describing the physical, emotional and financial harm (ss 26–30A).",
+     "refs": [
+      {"t": 4, "s": 4, "points": ["crime.4.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "victims-register",
+   "term": "Victims Register",
+   "senses": [
+    {
+     "d": "A register through which victims are told about an offender's parole, release and escape.",
+     "refs": [
+      {"t": 4, "s": 4, "points": ["crime.4.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "victims-support-scheme",
+   "term": "Victims Support Scheme",
+   "senses": [
+    {
+     "d": "Counselling, financial assistance and recognition payments for victims of violent crime.",
+     "refs": [
+      {"t": 4, "s": 4, "points": ["crime.4.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "voir-dire",
+   "term": "Voir dire",
+   "senses": [
+    {
+     "d": "A hearing within the trial, without the jury, to decide whether evidence is admissible.",
+     "refs": [
+      {"t": 3, "s": 5, "points": ["crime.3.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vulnerable-person",
+   "term": "Vulnerable person",
+   "senses": [
+    {
+     "d": "A child, a person with impaired intellectual functioning, an Aboriginal or Torres Strait Islander person, or a person with limited English, who must have a support person (LEPRA Regulation).",
+     "refs": [
+      {"t": 2, "s": 5, "points": ["crime.2.6"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wage-theft",
+   "term": "Wage theft",
+   "senses": [
+    {
+     "d": "Intentional underpayment of wages, a crime from 1 January 2025 (Fair Work Act 2009 (Cth) s 327A).",
+     "refs": [
+      {"t": 1, "s": 3, "points": ["crime.1.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "walama-list",
+   "term": "Walama List",
+   "senses": [
+    {
+     "d": "A District Court list (2022) in which Elders lead the sentencing conversation for Aboriginal adults, with a monitored plan.",
+     "refs": [
+      {"t": 4, "s": 7, "points": ["crime.4.7"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wanding",
+   "term": "Wanding",
+   "senses": [
+    {
+     "d": "Scanning a person with a hand-held metal detector in a declared area without a warrant or suspicion (2024, permanent 2026).",
+     "refs": [
+      {"t": 2, "s": 3, "points": ["crime.2.3"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "war-crimes",
+   "term": "War crimes",
+   "senses": [
+    {
+     "d": "Serious violations of the laws of armed conflict (art 8).",
+     "refs": [
+      {"t": 6, "s": 2, "points": ["crime.6.1"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "warning",
+   "term": "Warning",
+   "senses": [
+    {
+     "d": "The lightest tier: a police officer tells the child the conduct is wrong. No record is kept as a criminal record.",
+     "refs": [
+      {"t": 5, "s": 6, "points": ["crime.5.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "withdrawal",
+   "term": "Withdrawal",
+   "senses": [
+    {
+     "d": "Leaving a treaty; under the Rome Statute it takes effect a year after notice (art 127).",
+     "refs": [
+      {"t": 6, "s": 6, "points": ["crime.6.2"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "working-poor",
+   "term": "Working poor",
+   "senses": [
+    {
+     "d": "People who fail the means test but still cannot afford a private lawyer.",
+     "refs": [
+      {"t": 3, "s": 4, "points": ["crime.3.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "workplace-protection-order",
+   "term": "Workplace Protection Order",
+   "senses": [
+    {
+     "d": "A proposed order (bill, October 2026) excluding abusive customers from a workplace.",
+     "refs": [
+      {"t": 1, "s": 7, "points": ["crime.1.9"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "young-offender",
+   "term": "Young offender",
+   "senses": [
+    {
+     "d": "A person under 18 who is alleged to have committed, or has committed, an offence.",
+     "refs": [
+      {"t": 5, "s": 1, "points": ["crime.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "youth-justice-centre",
+   "term": "Youth justice centre",
+   "senses": [
+    {
+     "d": "A detention centre for children; a person sentenced to a SCIO term may begin it there (s 19).",
+     "refs": [
+      {"t": 5, "s": 5, "points": ["crime.5.4"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "youth-justice-conference",
+   "term": "Youth justice conference",
+   "senses": [
+    {
+     "d": "A restorative conference for young offenders under the Young Offenders Act 1997 (Part 5).",
+     "refs": [
+      {"t": 4, "s": 7, "points": ["crime.4.7"]}
+     ]
+    },
+    {
+     "d": "A meeting of the child, the victim and others to agree an outcome plan (YOA); BOCSAR CJB 160 found it no more effective than court at reducing reoffending.",
+     "refs": [
+      {"t": 5, "s": 6, "points": ["crime.5.5"]}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "youth-koori-court",
+   "term": "Youth Koori Court",
+   "senses": [
+    {
+     "d": "A court process (Practice Note 11) for Aboriginal children in the Children's Court, with Elders and an Action and Support Plan; sits at three sites.",
+     "refs": [
+      {"t": 5, "s": 4, "points": ["crime.5.3"]}
+     ]
+    }
+   ]
+  }
+ ]
+}

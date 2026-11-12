@@ -284,6 +284,24 @@ A file **keeps its Drive id when it is moved inside the shared drive**, which is
 work: the inbox is listed every five minutes, so by the time a file is filed its id is already known
 and the link on the site is right immediately, without waiting for the nightly re-map.
 
+## The Crime Glossary — `glossary/`
+
+A web version of the printed Crime glossary (307 terms, v1, 12 Nov 2026): look up, flashcards, a quiz
+and a printable term list, in the same look as the other Crime tools.
+
+- **`data/glossary.json` is the one list.** Each term has one or more meanings; each meaning names the
+  Crime topic and workbook section it is taught in and the syllabus point (IDs from `data/syllabus.json`).
+  The same file holds the `tools` block (which workbook sections link to which Crime tool) and the
+  `hover` block (the terms the Court Process site explains on hover).
+- **`python3 build/build_glossary.py`** writes `glossary/index.html` from `glossary/template.html` and
+  rewrites the hover glossary in `court-process/index.html` between its `GLOSSARY:START` and
+  `GLOSSARY:END` markers, so a meaning edited in the JSON changes in both places. `--check` changes
+  nothing and fails if either file is out of date.
+- **Links in:** `glossary/#term=doli-incapax`, `#t=4`, `#t=4&s=6`, `#q=bail`, `#view=cards`.
+  The four Crime tools, the Question Finder, the Evidence Finder and the Topic Map each link to it.
+- **Links out:** every meaning links to past HSC questions on its syllabus point
+  (`index.html#tags=…`), the Topic Map, and the matching Crime tool.
+
 ## Publishing — GitHub Pages for the page, Google Drive for the documents
 
 Google Drive stopped serving HTML as web pages in 2016, so the page itself is published on

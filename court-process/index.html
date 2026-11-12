@@ -180,7 +180,8 @@ svg.ic { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width
 .people span { background: var(--st-t); border-radius: 14px; padding: 3px 11px; font-size: 13px; font-weight: 600; display: flex; gap: 6px; align-items: center; }
 .people span svg { color: var(--st); }
 .incase { background: var(--ta-t); border-left: 5px solid var(--gold); border-radius: 0 10px 10px 0; padding: 10px 14px; }
-.incase h3 { color: var(--ta); } .srcline { font-size: 12.5px; color: var(--ink2); margin-top: 5px; }
+.incase h3 { color: var(--ta); }
+.evlink { display: inline-flex; gap: 7px; align-items: center; font-weight: 700; font-size: 13px; color: var(--st); text-decoration: none; border: 1.5px solid var(--st); border-radius: 8px; padding: 4px 11px; margin-top: 7px; background: var(--surface); } .evlink:hover { background: var(--st-t); } #outcometext .evlink { display: flex; width: fit-content; } .srcline { font-size: 12.5px; color: var(--ink2); margin-top: 5px; }
 .eval { border: 1.5px solid var(--line); border-radius: 12px; overflow: hidden; }
 .eval h3 { margin: 0; padding: 9px 13px; background: var(--surface2); }
 .pc { display: grid; grid-template-columns: 1fr 1fr; }
@@ -276,6 +277,13 @@ td.su { background: var(--su-t); } td.ta { background: var(--ta-t); } td.in { ba
 .qbreak { display: flex; flex-direction: column; gap: 8px; max-width: 620px; margin: 0 auto 8px; } .qbreak > div { display: grid; grid-template-columns: minmax(0, 1.3fr) 1fr 44px; gap: 12px; align-items: center; font-size: 14px; } .qbreak span { display: flex; gap: 8px; align-items: center; } .qbreak svg { color: var(--st); } .qbreak .bar { margin: 0; } .qbreak b { text-align: right; font-variant-numeric: tabular-nums; }
 .foot { margin-top: 26px; font-size: 12.5px; color: var(--ink2); max-width: 90ch; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+/* glossary link */
+.mast-in { position: relative; }
+.gl-link { position: absolute; top: 14px; right: 20px; display: inline-flex; gap: 7px; align-items: center; color: #d5dafa; text-decoration: none; font-size: 13px; font-weight: 600; padding: 5px 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,.22); }
+.gl-link:hover { background: rgba(255,255,255,.12); color: #fff; }
+.gl-link svg { width: 1.15em; height: 1.15em; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+@media (max-width: 900px) { .gl-link { position: static; margin-bottom: 10px; } }
+@media print { .gl-link { display: none; } }
 </style>
 </head>
 <body>
@@ -307,6 +315,7 @@ td.su { background: var(--su-t); } td.ta { background: var(--ta-t); } td.in { ba
 
 <header class="mast"><div class="mast-in">
   <div class="brand"><svg class="ic"><use href="#i-scales"/></svg><div><h1>Going to Court in NSW</h1><p>From arrest to appeal: summary and indictable offences in the criminal courts</p></div></div>
+  <a class="gl-link" href="../glossary/#t=3"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5c3-1 6-1 8 1 2-2 5-2 8-1v13c-3-1-6-1-8 1-2-2-5-2-8-1zM12 6v13"/></svg>Crime Glossary</a>
   <nav class="tabs" role="tablist" aria-label="Sections">
     <button class="tab" role="tab" data-view="explore"><svg class="ic"><use href="#i-map"/></svg>Flow chart</button>
     <button class="tab" role="tab" data-view="build"><svg class="ic"><use href="#i-split"/></svg>Build a pathway</button>
@@ -386,44 +395,46 @@ td.su { background: var(--su-t); } td.ta { background: var(--ta-t); } td.in { ba
 const ic = n => `<svg class="ic"><use href="#i-${n}"/></svg>`;
 
 /* ---------- glossary ---------- */
+/* GLOSSARY:START built by build/build_glossary.py from data/glossary.json; edit meanings there */
 const G = {
- 'summary offence': 'A less serious offence dealt with only in the Local Court, by a judge sitting without a jury.',
- 'indictable offence': 'A serious offence that can be tried in the District or Supreme Court before a judge and jury.',
- 'table offence': 'An indictable offence listed in Table 1 or Table 2 of the Criminal Procedure Act 1986 (NSW). It stays in the Local Court unless an election is made.',
- 'election': 'A choice to have a Table offence dealt with on indictment in a higher court instead of the Local Court.',
- 'court attendance notice': 'The document that starts a criminal case. It states the offence and when the person must attend court. Often shortened to CAN.',
- 'bail': 'Release from custody while a case is waiting to be finalised, usually on conditions.',
- 'remand': 'Being held in custody while waiting for a hearing, trial or sentence.',
- 'show cause': 'For certain serious offences, the accused must show why keeping them in custody is not justified before bail can be granted.',
- 'unacceptable risk': 'The bail test: a risk of not appearing, committing a serious offence, endangering people or interfering with witnesses that conditions cannot reduce enough.',
- 'brief of evidence': 'The prosecution’s collected evidence, such as witness statements and exhibits, served on the defence.',
- 'committal': 'The Local Court stage that sends an indictable case to the District or Supreme Court for trial or sentence.',
- 'charge certificate': 'A document from a senior prosecutor confirming which charges the DPP will proceed with.',
- 'case conference': 'A required meeting between the prosecution and defence lawyers to find out whether there can be appropriate early guilty pleas.',
- 'charge negotiation': 'Discussions where the accused agrees to plead guilty, often to fewer or less serious charges. Sometimes called plea bargaining.',
- 'indictment': 'The formal written charge used in the District or Supreme Court.',
- 'arraignment': 'When the indictment is read in the higher court and the accused enters a plea.',
- 'voir dire': 'A hearing without the jury where the judge decides whether evidence can be used. A trial within a trial.',
- 'empanelling': 'Selecting and swearing in the jurors.',
- 'adversarial system': 'A contest between two sides, prosecution and defence, before an impartial judge who acts as umpire.',
- 'burden of proof': 'The duty to prove the case. In a criminal case it lies on the prosecution.',
- 'standard of proof': 'How strongly the case must be proved. In a criminal case: beyond reasonable doubt.',
- 'acquittal': 'A finding of not guilty. The accused generally cannot be tried again for the same offence.',
- 'hung jury': 'A jury that cannot reach a unanimous or majority verdict. It is discharged and a retrial may follow.',
- 'majority verdict': 'A verdict of 11 jurors out of 12, allowed in NSW after at least 8 hours of deliberation.',
- 'double jeopardy': 'The rule that a person acquitted of an offence cannot be tried for it again. NSW allows narrow exceptions.',
- 'victim impact statement': 'A statement to the sentencing court about the harm the crime caused the victim or their family.',
- 'mitigating factor': 'Something that reduces the seriousness of the offence or the offender’s blame, such as a guilty plea or remorse.',
- 'aggravating factor': 'Something that makes the offence more serious, such as using a weapon or a vulnerable victim.',
- 'non-parole period': 'The minimum time an offender must spend in prison before being eligible for release on parole.',
- 'conviction appeal': 'An appeal arguing that the finding of guilt was wrong.',
- 'severity appeal': 'An appeal arguing that the sentence was too harsh.',
- 'leave': 'A court’s permission, for example to bring an appeal.',
- 'special leave': 'Permission from the High Court to appeal to it, given only for important questions of law.',
- 'DPP': 'The Director of Public Prosecutions: the independent office that prosecutes serious offences on behalf of the State.',
- 'Crown prosecutor': 'A barrister who presents the prosecution case in indictable trials.',
- 'duty solicitor': 'A Legal Aid lawyer at court who gives free advice and help on the day.',
+ "summary offence": "A minor offence heard by a Local Court judge alone, without a jury (maximum 2 years for one offence).",
+ "indictable offence": "A serious offence that can be tried before a judge and jury in the District or Supreme Court. Some can be dealt with summarily.",
+ "table offence": "An indictable offence listed in Table 1 or Table 2 of the Criminal Procedure Act 1986 (NSW). It stays in the Local Court unless an election is made.",
+ "election": "A choice made by the prosecution or the accused about which court hears a matter.",
+ "court attendance notice": "A document issued by police stating when and where a person must appear in court and the charge; it has replaced the summons for police prosecutions.",
+ "bail": "The temporary release of an accused person awaiting trial, with or without conditions.",
+ "remand": "Custody awaiting trial or sentence; the person has not been convicted.",
+ "show cause": "For listed serious offences the accused must show why their detention is not justified, or bail must be refused (Bail Act s 16A, 2014).",
+ "unacceptable risk": "The main test (s 17): will the accused fail to appear, commit a serious offence, endanger safety, or interfere with witnesses or evidence?",
+ "brief of evidence": "The prosecution’s collected evidence, such as witness statements and exhibits, served on the defence.",
+ "committal": "The step that sends an indictable case from the Local Court to a higher court for trial or sentence.",
+ "charge certificate": "Since 2018, the prosecutor confirms in a certificate, early in the case, the charges that will go ahead.",
+ "case conference": "A compulsory pre-committal meeting of prosecution and defence to discuss the evidence and a plea (2018).",
+ "charge negotiation": "Also called plea bargaining. Discussions between the prosecution and defence in which the accused agrees to plead guilty to fewer or less serious charges, or to an agreed set of facts.",
+ "indictment": "The formal written charge used in the District or Supreme Court.",
+ "arraignment": "When the indictment is read in the higher court and the accused enters a plea.",
+ "voir dire": "A hearing within the trial, without the jury, to decide whether evidence is admissible.",
+ "empanelling": "Selecting and swearing in the jurors.",
+ "adversarial system": "A trial run as a contest between two sides (prosecution and defence) before a neutral judge, who rules on the law and evidence but does not investigate.",
+ "burden of proof": "The duty to prove the case. In a criminal trial it lies on the prosecution (Woolmington v DPP, 1935).",
+ "standard of proof": "How convincingly the case must be proved. Criminal: beyond reasonable doubt (Evidence Act s 141). Civil: the balance of probabilities.",
+ "acquittal": "A finding of not guilty. The accused generally cannot be tried again for the same offence.",
+ "hung jury": "A jury that cannot agree. The accused may be retried, or the prosecution discontinued.",
+ "majority verdict": "A verdict of 11–1 or 10–1, allowed after at least 8 hours of deliberation if the court is satisfied a unanimous verdict is unlikely (2006).",
+ "double jeopardy": "The rule that no one should be tried twice for the same offence.",
+ "victim impact statement": "A statement by a primary victim, or a family member in a homicide case, describing the physical, emotional and financial harm (ss 26–30A).",
+ "mitigating factor": "A circumstance that reduces the offender's culpability or justifies a lighter sentence (s 21A(3)): no prior convictions, remorse, a guilty plea, good prospects of rehabilitation.",
+ "aggravating factor": "A circumstance that makes the offence more serious and the sentence heavier (s 21A(2)): violence, a weapon, in company, a vulnerable victim, on bail or parole.",
+ "non-parole period": "The minimum time an offender must spend in prison before parole can be considered.",
+ "conviction appeal": "An appeal arguing that the finding of guilt was wrong.",
+ "severity appeal": "An offender's appeal that the sentence is too severe.",
+ "leave": "A court’s permission, for example to bring an appeal.",
+ "special leave": "Permission from the High Court to appeal to it, given only for important questions of law.",
+ "DPP": "The Director of Public Prosecutions. The independent office that prosecutes indictable offences through Crown prosecutors, and decides charges, plea deals and appeals.",
+ "Crown prosecutor": "A barrister who presents the prosecution case in indictable trials.",
+ "duty solicitor": "A Legal Aid lawyer at court who gives free advice and help on the day.",
 };
+/* GLOSSARY:END */
 const gl = s => s.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (m, k, t) => `<button class="g" data-term="${k}">${t || k}</button>`);
 
 /* ---------- stages ---------- */
@@ -630,7 +641,7 @@ const CASES = [
 
 
 const REAL = [
- { id:'dawson', real:1, cls:'c-in', kind:'Judge-alone trial · guilty · appeal dismissed', name:'R v Dawson', cite:'R v Dawson [2022] NSWSC 1131', line:'Murder conviction 40 years after Lynette Dawson disappeared',
+ { id:'dawson', ev:'chris-dawson-judge-alone-2022', real:1, cls:'c-in', kind:'Judge-alone trial · guilty · appeal dismissed', name:'R v Dawson', cite:'R v Dawson [2022] NSWSC 1131', line:'Murder conviction 40 years after Lynette Dawson disappeared',
    path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8','sent','app'], lane:'in', sub:'cca', skip:'', end:'' },
    out:'Guilty of murder after a judge-alone trial. Sentenced to 24 years with a non-parole period of 18 years. The Court of Criminal Appeal dismissed his conviction appeal in 2024.',
    t:{ n1:'Lynette Dawson was last heard from on 8 January 1982. Two inquests, in 2001 and 2003, pointed at her husband Christopher, but no charge followed. The case was reopened and drew national attention through The Teacher’s Pet podcast in 2018.',
@@ -641,7 +652,7 @@ const REAL = [
        i8:'On 30 August 2022 Harrison J found Dawson guilty of murder, saying the evidence left him in no doubt.',
        sent:'On 2 December 2022 Dawson was sentenced to 24 years’ imprisonment with a non-parole period of 18 years.',
        app:'Dawson appealed against his conviction. The Court of Criminal Appeal dismissed the appeal: Dawson v R [2024] NSWCCA 98.' } },
- { id:'kl', real:1, cls:'c-in', kind:'Hung jury · judge-alone retrial · manslaughter', name:'R v KL', cite:'R v KL [2025] NSWSC 1414', line:'A 14-year-old tried for murder in the Supreme Court',
+ { id:'kl', ev:'r-v-kl-2025', real:1, cls:'c-in', kind:'Hung jury · judge-alone retrial · manslaughter', name:'R v KL', cite:'R v KL [2025] NSWSC 1414', line:'A 14-year-old tried for murder in the Supreme Court',
    path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8'], lane:'in', sub:'', skip:'', end:'' },
    out:'Not guilty of murder, guilty of manslaughter, after a hung jury and a judge-alone retrial. The sentence was to follow in a separate judgment that is not in the Evidence Finder record.',
    t:{ n1:'On 11 April 2022, in a confrontation lasting about ten seconds at the Royal Easter Show, KL, aged 14, stabbed a 17-year-old once. The older boy died. Police gathered intercepted calls, phone notes and videos over the following months.',
@@ -651,7 +662,7 @@ const REAL = [
        i6:'KL offered to plead guilty to manslaughter. The Crown refused the plea and insisted on trying the murder charge.',
        i7:'A jury trial ran from 28 April to 22 May 2025. After about two weeks of deliberation the jury could not agree and was discharged: a hung jury. On 4 November 2025 the court granted KL’s application for the retrial to be heard by a judge alone, and Garling J heard it over three days.',
        i8:'On 27 November 2025 Garling J found KL not guilty of murder but guilty of manslaughter, on three separate grounds: intention was not proved, excessive self-defence was not excluded, and post-traumatic stress disorder substantially impaired his self-control.' } },
- { id:'billings', real:1, cls:'c-in', kind:'Bail · guilty plea · appeal lodged', name:'R v Billings', cite:'R v Billings [2026] NSWSC 1088', line:'The murder of Molly Ticehurst while the offender was on bail',
+ { id:'billings', ev:'r-v-billings-2026', real:1, cls:'c-in', kind:'Bail · guilty plea · appeal lodged', name:'R v Billings', cite:'R v Billings [2026] NSWSC 1088', line:'The murder of Molly Ticehurst while the offender was on bail',
    path:{ p:['n1','n2','n3','n4','tind','i5','sent','app'], lane:'in', sub:'cca', skip:'in', end:'' },
    out:'Sentenced to 28 years with a non-parole period of 20 years after a guilty plea. The DPP did not appeal. Billings lodged a notice of intention to appeal on 9 October 2026, and the appeal had not been decided when this page was written.',
    t:{ n1:'On 5 April 2024 Molly Ticehurst, 28, reported her former partner Daniel Billings at Forbes Police Station. On 21 April 2024 he broke into her home and killed her.',
@@ -661,7 +672,7 @@ const REAL = [
        i5:'Billings pleaded guilty to murder in the Local Court and did not rely on the partial defence of substantial impairment. He was committed for sentence to the Supreme Court, so there was no trial.',
        sent:'On 11 September 2026 N Adams CJ at CL sentenced Billings to 28 years’ imprisonment with a non-parole period of 20 years. The usual 25% discount for an early plea was cut to 20% because of his extreme culpability. Being on bail was an aggravating factor. Five family victim impact statements were received.',
        app:'The DPP decided not to appeal. Billings lodged a notice of intention to appeal on 9 October 2026. Molly Ticehurst’s father learned of it from the media. The appeal has not yet been decided.' } },
- { id:'white', real:1, cls:'c-in', kind:'Jury trial · community order · Crown appeal', name:'R v White', cite:'R v White [2025] NSWSC 243', line:'A police officer convicted over the death of Clare Nowland, 95',
+ { id:'white', ev:'kristian-white-clare-nowland', real:1, cls:'c-in', kind:'Jury trial · community order · Crown appeal', name:'R v White', cite:'R v White [2025] NSWSC 243', line:'A police officer convicted over the death of Clare Nowland, 95',
    path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8','sent','app'], lane:'in', sub:'cca', skip:'', end:'' },
    out:'Guilty of manslaughter by a jury. Sentenced to a two-year community correction order. The Court of Criminal Appeal dismissed the DPP’s appeal that the sentence was too lenient.',
    t:{ n1:'Before dawn on 17 May 2023, Senior Constable Kristian White fired his taser at Clare Nowland, a 95-year-old with dementia who was holding a knife and using a walking frame, in an aged-care home in Cooma. She fell, struck her head and died on 24 May 2023.',
@@ -675,7 +686,7 @@ const REAL = [
 ];
 
 REAL.push(
- { id:'folbigg', real:1, cls:'c-dt', kind:'Wrongful conviction · inquiry · pardon', name:'Kathleen Folbigg', cite:'Folbigg v R [2005] NSWCCA 23 and the 2023 Inquiry', line:'Convicted in 2003, cleared 20 years later by an inquiry, not an appeal',
+ { id:'folbigg', ev:'kathleen-folbigg-wrongful-conviction', real:1, cls:'c-dt', kind:'Wrongful conviction · inquiry · pardon', name:'Kathleen Folbigg', cite:'Folbigg v R [2005] NSWCCA 23 and the 2023 Inquiry', line:'Convicted in 2003, cleared 20 years later by an inquiry, not an appeal',
    path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8','sent','app','x-fol1','x-fol2'], lane:'in', sub:'cca', skip:'', end:'' },
    x:[{ id:'x-fol1', after:'app', icon:'bulb', title:'Judicial inquiry and pardon', blurb:'When appeals are exhausted, an inquiry can re-examine a conviction.', lead:'Appeals look only at the evidence from the trial. An inquiry under Part 7 of the Crimes (Appeal and Review) Act 2001 (NSW) can consider new evidence, such as new science.' },
       { id:'x-fol2', after:'app', icon:'check', title:'Convictions quashed', blurb:'The Court of Criminal Appeal sets the convictions aside.', lead:'After an inquiry finds reasonable doubt, the matter can be referred to the Court of Criminal Appeal, which can quash the convictions.' }],
@@ -687,7 +698,7 @@ REAL.push(
        app:'In 2005 the Court of Criminal Appeal reduced the sentence to 30 years with a non-parole period of 25. A further appeal about juror misconduct failed in 2007. Her ordinary appeals were then exhausted.',
        'x-fol1':'A first inquiry in 2019 found no reasonable doubt. In 2021 scientists petitioned for her release. A second inquiry, led by Tom Bathurst KC, found reasonable doubt, based on a genetic variant (CALM2) and a different reading of her diaries. She was pardoned and released on 5 June 2023.',
        'x-fol2':'On 14 December 2023 the Court of Criminal Appeal quashed all of her convictions. In August 2025 she received a $2 million ex gratia payment, which was criticised as inadequate. NSW has no statutory right to compensation for wrongful conviction.' } },
- { id:'skaf', real:1, cls:'c-dt', kind:'Juror misconduct · retrial · six appeals', name:'R v Skaf', cite:'R v Skaf [2004] NSWCCA 37', line:'Two jurors investigated the scene themselves, so the trial had to be run again',
+ { id:'skaf', ev:'skaf-brothers-rule-of-law', real:1, cls:'c-dt', kind:'Juror misconduct · retrial · six appeals', name:'R v Skaf', cite:'R v Skaf [2004] NSWCCA 37', line:'Two jurors investigated the scene themselves, so the trial had to be run again',
    path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8','sent','app','x-skaf1','x-skaf2'], lane:'in', sub:'cca', skip:'', end:'' },
    x:[{ id:'x-skaf1', after:'app', icon:'jury', title:'Retrial', blurb:'A new trial before a different judge and jury.', lead:'When a conviction is quashed because the trial was unfair, the appeal court can order a new trial instead of an acquittal.' },
       { id:'x-skaf2', after:'app', icon:'up', title:'Second round of appeals', blurb:'The retrial result can itself be appealed.', lead:'A conviction and sentence from a retrial carry the same appeal rights as the first trial.' }],
@@ -699,14 +710,14 @@ REAL.push(
        app:'In 2004 the Court of Criminal Appeal quashed the convictions from one trial. The jury foreman and another juror had gone to the park the night before the verdict to test the lighting themselves. Their observations were not evidence and could not be tested by the accused. A retrial was ordered. In 2005 the remaining sentences were also reduced as manifestly excessive.',
        'x-skaf1':'The retrial was held in the Supreme Court in 2006. The law had been changed so the complainant’s earlier evidence could be used, because she declined to testify again. The verdicts were guilty and the brothers were resentenced.',
        'x-skaf2':'In 2008 a further conviction appeal was refused, but the sentence appeal was allowed because totality had not been given enough weight. Final sentences: 31 years (non-parole 28) and 23 years (non-parole 18). Parliament made it an offence for jurors to make their own inquiries (Jury Act 1977 (NSW) s 68C).' } },
- { id:'loveridge', real:1, cls:'c-in', kind:'Crown appeal · sentence almost doubled', name:'R v Loveridge', cite:'R v Loveridge [2014] NSWCCA 120', line:'The death of Thomas Kelly and a successful prosecution appeal',
+ { id:'loveridge', ev:'r-v-loveridge-2014', real:1, cls:'c-in', kind:'Crown appeal · sentence almost doubled', name:'R v Loveridge', cite:'R v Loveridge [2014] NSWCCA 120', line:'The death of Thomas Kelly and a successful prosecution appeal',
    path:{ p:['n1','n2','n3','n4','tind','i5','sent','app'], lane:'in', sub:'cca', skip:'', end:'' },
    out:'Sentenced for manslaughter to 6 years (7 years 2 months in total). On a Crown appeal the Court of Criminal Appeal increased the total to 13 years 8 months with a non-parole period of 10 years 2 months.',
    t:{ n1:'On the night of 7 July 2012 Kieran Loveridge, 18, drunk and a month into a probation order for an earlier assault, punched five strangers in Kings Cross. One of them, Thomas Kelly, 18, fell, struck his head and died two days later.',
        tind:'Manslaughter is strictly indictable. Loveridge was sentenced in the Supreme Court.',
        sent:'Campbell J sentenced Loveridge to 6 years for manslaughter and 7 years 2 months in total, with a non-parole period of 5 years 2 months. The sentence caused public anger.',
        app:'The DPP appealed, arguing the sentence was manifestly inadequate. On 4 July 2014 the Court of Criminal Appeal allowed the appeal: general deterrence had been given only passing weight, and alcohol-fuelled violence in public called for an emphatic response. Loveridge was resentenced to 13 years 8 months with a non-parole period of 10 years 2 months. The one-punch offence and lockout laws came after this judgment.' } },
- { id:'oconnell', real:1, cls:'c-dt', kind:'ACT case · all the way to the High Court', name:'O’Connell v DPP', cite:'O’Connell v DPP [2026] HCA 41', line:'Three courts gave three different answers on one jury verdict',
+ { id:'oconnell', ev:'oconnell-v-dpp-2026', real:1, cls:'c-dt', kind:'ACT case · all the way to the High Court', name:'O’Connell v DPP', cite:'O’Connell v DPP [2026] HCA 41', line:'Three courts gave three different answers on one jury verdict',
    path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8','sent','app','x-oc1','x-oc2'], lane:'in', sub:['cca','hc'], skip:'', end:'' },
    x:[{ id:'x-oc1', after:'app', icon:'court', title:'High Court of Australia', blurb:'Special leave granted. Seven justices hear the appeal.', lead:'The High Court is the final court of appeal for every State and Territory. It hears a criminal appeal only if it grants special leave.' },
       { id:'x-oc2', after:'app', icon:'prev', title:'Sent back to the appeal court', blurb:'The High Court remits the question to be decided again.', lead:'A higher court does not always decide the final result. It can set aside the orders below and remit the matter, which means sending it back to be decided again according to law.' }],
@@ -719,7 +730,7 @@ REAL.push(
        app:'In 2025 the ACT Court of Appeal held, 2 to 1, that the murder verdict was unreasonable and substituted manslaughter. He was resentenced to 10 years with a non-parole period of six and a half years. Both sides then appealed.',
        'x-oc1':'Seven justices heard the appeals on 12 May 2026. On 4 November 2026 the High Court unanimously allowed the DPP’s appeal: the Court of Appeal had not made full allowance for the advantages a jury has in seeing and hearing the evidence.',
        'x-oc2':'The High Court did not restore the murder conviction itself. It remitted the question, so the Court of Appeal must decide again whether the jury’s verdict was unreasonable. The final outcome is not yet known.' } },
- { id:'martin', real:1, cls:'c-dt', kind:'Local Court · appeal on a question of law', name:'Martin v DPP', cite:'Martin v DPP (NSW) [2026] NSWSC 1288', line:'Convictions set aside because the reasons never mentioned the standard of proof',
+ { id:'martin', ev:'martin-v-dpp-2026', real:1, cls:'c-dt', kind:'Local Court · appeal on a question of law', name:'Martin v DPP', cite:'Martin v DPP (NSW) [2026] NSWSC 1288', line:'Convictions set aside because the reasons never mentioned the standard of proof',
    path:{ p:['n1','n2','n3','n4','s5','s6','s7','sent','x-mar1','x-mar2'], lane:'su', sub:'', skip:'', end:'' },
    x:[{ id:'x-mar1', after:'app', icon:'up', title:'Appeal to the Supreme Court', blurb:'A Local Court decision appealed on a question of law.', lead:'Most Local Court appeals go to the District Court. A person can instead appeal to the Supreme Court as of right on a question of law alone (Crimes (Appeal and Review) Act 2001 (NSW) s 52).' },
       { id:'x-mar2', after:'app', icon:'prev', title:'Sent back for a new hearing', blurb:'Remitted to a different Local Court judge.', lead:'Setting aside a conviction for legal error is not an acquittal. The case can be remitted for a fresh hearing.' }],
@@ -730,7 +741,7 @@ REAL.push(
        sent:'He was sentenced to imprisonment in April 2026. The length is not in the Evidence Finder record.',
        'x-mar1':'Mr Martin appealed to the Supreme Court on a question of law. Hamill J held that giving reasons is a necessary part of the judicial process and that reasons must show the prosecution’s onus was applied. The DPP conceded the error. The convictions, sentences and orders were set aside on 20 October 2026.',
        'x-mar2':'The matter was remitted to a different Local Court judge. Mr Martin has not been acquitted. The rehearing is still to come.' } },
- { id:'sharma', real:1, cls:'c-dt', kind:'Special verdict · no sentence', name:'R v Sharma', cite:'R v Sharma [2026] NSWDC 402', line:'Act proven but not criminally responsible because of a mental health impairment',
+ { id:'sharma', ev:'r-v-sharma-2026', real:1, cls:'c-dt', kind:'Special verdict · no sentence', name:'R v Sharma', cite:'R v Sharma [2026] NSWDC 402', line:'Act proven but not criminally responsible because of a mental health impairment',
    path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','x-sh1','x-sh2'], lane:'in', sub:'', skip:'', end:'' },
    x:[{ id:'x-sh1', after:'i7', icon:'gavel', title:'Special verdict', blurb:'Act proven but not criminally responsible.', lead:'If a mental health or cognitive impairment meant the accused did not know the nature of the act or could not reason about whether it was wrong, the court returns a special verdict. It is not a conviction. The accused must prove the defence on the balance of probabilities.' },
       { id:'x-sh2', after:'i7', icon:'key', title:'Detention and Tribunal review', blurb:'Treatment and supervision in place of a sentence.', lead:'After a special verdict there is no sentence. The court can order detention, and the Mental Health Review Tribunal decides when release is safe.' }],
@@ -741,7 +752,7 @@ REAL.push(
        i7:'Noman SC DCJ heard evidence from two psychiatrists. The judge was satisfied on the balance of probabilities that a delusional disorder meant Mr Sharma could not reason about whether his act was wrong.',
        'x-sh1':'On 4 November 2026 the judge returned the special verdict of act proven but not criminally responsible, under the Mental Health and Cognitive Impairment Forensic Provisions Act 2020 (NSW) ss 28 and 31. It covered the breach charge as well.',
        'x-sh2':'The court ordered detention and referred Mr Sharma to the Mental Health Review Tribunal, which will decide on any release. The victim’s statement was received. The orders protect the community and the victim through treatment and oversight, not punishment.' } },
- { id:'xerri', real:1, cls:'c-dt', kind:'Table 2 · acquitted on appeal · acquittal quashed', name:'R v Xerri', cite:'R v Xerri (a pseudonym) [2026] NSWCCA 183', line:'From the Local Court to the Court of Criminal Appeal over a common assault',
+ { id:'xerri', ev:'r-v-xerri-2026', real:1, cls:'c-dt', kind:'Table 2 · acquitted on appeal · acquittal quashed', name:'R v Xerri', cite:'R v Xerri (a pseudonym) [2026] NSWCCA 183', line:'From the Local Court to the Court of Criminal Appeal over a common assault',
    path:{ p:['n1','n2','n3','n4','ttab','s5','s6','s7','sent','app','x-xe1','x-xe2'], lane:'su', sub:'dc', skip:'', end:'' },
    x:[{ id:'x-xe1', after:'app', icon:'scales', title:'Question of law to the Court of Criminal Appeal', blurb:'The DPP asks the higher court to rule on a point of law.', lead:'There is normally no further appeal after the District Court hears a Local Court appeal. But a question of law arising in the appeal can be stated for the Court of Criminal Appeal to answer (Criminal Appeal Act 1912 (NSW) s 5B).' },
       { id:'x-xe2', after:'app', icon:'prev', title:'Sent back to the District Court', blurb:'The acquittal is quashed and the appeal must be decided again.', lead:'When the answer to a question of law removes the basis for the decision below, the matter is remitted to be decided again.' }],
@@ -752,7 +763,7 @@ REAL.push(
        app:'He appealed to the District Court. The judge held that the emails were property, so he could rely on self-defence of property, and acquitted him.',
        'x-xe1':'The DPP had four questions of law stated for the Court of Criminal Appeal. The Court held that, on the facts found, the emails were information, not property, and reading them aloud was not interference with property. The acquittal was quashed.',
        'x-xe2':'The appeal was remitted to the District Court. The ruling is confined to the facts stated, and guilt has not been finally decided.' } },
- { id:'symons', real:1, cls:'c-dt', kind:'Murder convictions quashed · new trial', name:'Symons v R', cite:'Symons v R; McDonald v R [2024] NSWCCA 212', line:'The jury was never offered the middle course of manslaughter',
+ { id:'symons', ev:'symons-v-r-2024', real:1, cls:'c-dt', kind:'Murder convictions quashed · new trial', name:'Symons v R', cite:'Symons v R; McDonald v R [2024] NSWCCA 212', line:'The jury was never offered the middle course of manslaughter',
    path:{ p:['n1','n2','n3','n4','tind','i5','i6','i7','i8','sent','app','x-sy1'], lane:'in', sub:'cca', skip:'', end:'' },
    x:[{ id:'x-sy1', after:'app', icon:'jury', title:'New trial ordered', blurb:'Back to a fresh jury, with manslaughter left open.', lead:'Quashing a conviction for a legal error in the trial usually leads to a new trial, not an acquittal.' }],
    out:'Both murder convictions quashed on 1 November 2024 and new trials ordered. The result of the new trials is not in the Evidence Finder record.',
@@ -819,6 +830,8 @@ document.getElementById('chart').innerHTML =
    ${nodeHTML('app')}`;
 
 /* ---------- state ---------- */
+const EF = 'https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-';
+const evLink = c => c && c.ev ? `<a class="evlink" href="${EF}${c.ev}" target="_blank" rel="noopener">${ic('book')}Open this case in the Evidence Finder</a>` : '';
 const S = { sel: 'n1', follow: false, group: null, caseId: null, custom: false, step: 0, path: null };
 const curCase = () => S.custom || !S.caseId ? null : CASES.find(c => c.id === S.caseId), active = () => S.follow && !!S.path;
 const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)];
@@ -827,7 +840,7 @@ const curOpts = () => S.custom ? { type: $('#o-type').value, elect: $('#o-elect'
 function renderPanel() {
   const n = N[S.sel], c = active() ? curCase() : null;
   const list = active() ? S.path.p : ORDER, i = list.indexOf(S.sel);
-  const story = n.detour && c ? `<div class="sec incase"><h3>${ic('route')}In ${c.name}</h3><p>${c.t[S.sel]}</p><p class="srcline">Real case. Source: class Evidence Finder record for ${c.cite}.</p></div>` : c && c.t[S.sel] ? `<div class="sec incase"><h3>${ic('route')}In ${c.real ? c.name : c.name.split(',')[0] + '’s case'}</h3><p>${c.t[S.sel]}</p>${c.real ? `<p class="srcline">Real case. Source: class Evidence Finder record for <i>${c.cite.replace(/ \[.*/, '')}</i>${c.cite.match(/ \[.*/)[0]}.</p>` : ''}</div>` : (c && c.real ? `<div class="sec incase"><h3>${ic('route')}In ${c.name}</h3><p class="srcline">The Evidence Finder record does not describe this stage of the case.</p></div>` : '');
+  const story = n.detour && c ? `<div class="sec incase"><h3>${ic('route')}In ${c.name}</h3><p>${c.t[S.sel]}</p><p class="srcline">Real case. Source: class Evidence Finder record for ${c.cite}.</p>${evLink(c)}</div>` : c && c.t[S.sel] ? `<div class="sec incase"><h3>${ic('route')}In ${c.real ? c.name : c.name.split(',')[0] + '’s case'}</h3><p>${c.t[S.sel]}</p>${c.real ? `<p class="srcline">Real case. Source: class Evidence Finder record for <i>${c.cite.replace(/ \[.*/, '')}</i>${c.cite.match(/ \[.*/)[0]}.</p>${evLink(c)}` : ''}</div>` : (c && c.real ? `<div class="sec incase"><h3>${ic('route')}In ${c.name}</h3><p class="srcline">The Evidence Finder record does not describe this stage of the case.</p>${evLink(c)}</div>` : '');
   const sec = (icon, title, body) => `<div class="sec"><h3>${ic(icon)}${title}</h3>${body}</div>`;
   $('#panel').innerHTML = `<div class="ph ${n.cls}"><small>${n.detour ? 'Detour · this case only' : n.badge ? 'Step ' + n.badge + (n.tag ? ' · ' + n.tag : '') : n.tag}</small><h2>${ic(n.icon)}${n.title}</h2></div>
    <div class="pb"><p class="lead">${gl(n.lead)}</p>${story}
@@ -861,7 +874,7 @@ function paint() {
     [].concat(sub || []).forEach(k => $('#sub-' + k).classList.add('lit'));
     $('#lane-su').style.opacity = lane === 'su' ? 1 : .45; $('#lane-in').style.opacity = lane === 'in' ? 1 : .45;
     const c = curCase();
-    $('#outcome').hidden = false; $('#outcometext').innerHTML = `<b>How this case ends</b><br>${c ? c.out : end}`;
+    $('#outcome').hidden = false; $('#outcometext').innerHTML = `<b>How this case ends</b><br>${c ? c.out : end}${evLink(c)}`;
     S.step = Math.max(0, p.indexOf(S.sel));
     $('#s-where').textContent = `Stage ${S.step + 1} of ${p.length}: ${N[p[S.step]].title}`;
     $('#s-prev').disabled = S.step === 0; $('#s-next').disabled = S.step === p.length - 1;
@@ -1178,7 +1191,7 @@ function renderBuild() {
       <div class="sec"><h3>${ic('list')}Decisions that shaped this case</h3><ol class="sumlist">${r.log.map(l => `<li><span><em>${l.role}:</em> ${l.a}</span></li>`).join('')}</ol></div>
       ${r.courts.size ? `<div class="sec"><h3>${ic('court')}Courts used</h3><div class="chips">${[...r.courts].map(c => `<span>${c}</span>`).join('')}</div></div>` : ''}
       <div class="sec"><h3>${ic('split')}Roads not taken</h3><div class="nottaken">${r.sig.div ? '<div><b>The whole court process</b><br>A charge would have sent the matter to the Local Court for a plea, and possibly a hearing, sentence and appeal.</div>' : sk.map(k => `<div><b>${SKIP[k][0]}</b><br>${SKIP[k][1]}</div>`).join('') || '<div>This case used every stage on its pathway.</div>'}</div></div>
-      ${m ? `<div class="match"><small>A case that took a similar route · ${m.kind}</small><b>${m.label}</b><button class="btn" data-follow="${m.id}">Follow this case on the flow chart${ic('next')}</button></div>` : ''}${ctl}</div>`; }
+      ${m ? `<div class="match"><small>A case that took a similar route · ${m.kind}</small><b>${m.label}</b><button class="btn" data-follow="${m.id}">Follow this case on the flow chart${ic('next')}</button>${evLink(CASES.find(c => c.id === m.id))}</div>` : ''}${ctl}</div>`; }
   $('#b-undo').onclick = () => { B.ch.pop(); B.fresh = false; renderBuild(); }; $('#b-reset').onclick = () => { B.ch = []; B.fresh = false; renderBuild(); };
   $('#bside').scrollTop = 0;
   if (B.fresh) { const last = f.lastElementChild; const rr = last.getBoundingClientRect(); if (rr.bottom > innerHeight || rr.top < 0) last.scrollIntoView({ block: 'end' }); }
