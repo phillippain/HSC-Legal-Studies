@@ -1,0 +1,946 @@
+{
+ "generated": "2026-11-12T07:54:10",
+ "today": "2026-11-12",
+ "window_start": "2026-11-10",
+ "basis": "the last digest (2026-11-11 08:15), looking back a day",
+ "site_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
+ "counts": {
+  "new": 16,
+  "updated": 5
+ },
+ "groups": [
+  {
+   "key": "crime",
+   "label": "Crime",
+   "part": "HSC Core Part I",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "wilcannia-inquest-police-investigation-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Coroner cannot rule out homicide after a flawed Wilcannia police investigation (ABC, 10 November 2026)",
+     "short": "Wilcannia inquest police investigation",
+     "citation": "Evidence summary of Kristina Rosengren and Bill Ormonde, ABC Broken Hill, 10 November 2026 (Coroner Teresa O'Sullivan, findings into the death of Sonya Dutton); Coroners Act 2009 (NSW) ss 27, 51(2), 81, 82",
+     "date": "2026-11-10",
+     "added": "2026-11-12",
+     "significance": "A coroner could not decide between suicide and homicide in an Aboriginal woman's death because a junior detective's first investigation lost evidence a later homicide team could not recover.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.3",
+      "crime.3.1"
+     ],
+     "core_labels": [
+      "Investigating crime",
+      "Court jurisdiction"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wilcannia-inquest-police-investigation-2026",
+     "document": "Crime/Media/Crime - Wilcannia Inquest Police Investigation Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1H-kHRCGuxnBYOuRKwFXNDF1p32S292KL/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-10/death-inquest-findings-wilcannia-nsw-coroner/107368106",
+     "lead": "**Sonya Dutton** was found dead on 29 March 2022. The inquest opened in February 2025; on 10 November 2026 the coroner found no\nevidence to suggest or exclude homicide, and made **five** recommendations (two described in coverage).",
+     "use_it_for": "- **crime.2.3** — investigation standards, and evidence lost in the first days that cannot be repaired.\n- **crime.3.1 / inv.4.2** — the Coroners Court testing police work; recommendations are not binding.",
+     "caution": "A **regional news report** sympathetic to the family; no NSW Police response, and the written findings were not located.",
+     "sections": {
+      "First v second police investigation": "| | First (2022, Barrier PD) | Second (2023–24, State Crime Command) |\n|---|---|---|\n| Lead | A detective with about one year's experience, appointed by email | Det Chief Insp Paul Smith with homicide detectives |\n| Statements | No formal statements from key witnesses | **44** statements |\n| Community | Officer had never worked in Wilcannia | Six visits, about three weeks, with Aboriginal liaison officers |\n| CCTV | USB left with a person of interest; footage incomplete | Missing footage could not be recovered so late |\n| Conclusion | Suicide view emailed before leave, despite doubts | Cannot suggest or exclude homicide |\n\nThe State Coroner ordered the reinvestigation (s 51(2)) in October 20…",
+      "Use it for": "- **crime.2.3** — investigation standards, and evidence lost in the first days that cannot be repaired.\n- **crime.3.1 / inv.4.2** — the Coroners Court testing police work; recommendations are not binding.",
+      "Caution": "A **regional news report** sympathetic to the family; no NSW Police response, and the written findings were not located."
+     },
+     "path": "evidence/media/wilcannia-inquest-police-investigation-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "act-historical-child-abuse-crown-appeal-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Crown appeal lifts the sentence for child abuse committed at 15, but the survivor says it still falls short (ABC, 11 November 2026)",
+     "short": "ACT historical abuse Crown appeal",
+     "citation": "Evidence summary of Harry Frost, ABC News, 11 November 2026; Crimes (Sentencing) Act 2005 (ACT) ss 12, 34A",
+     "date": "2026-11-11",
+     "added": "2026-11-12",
+     "significance": "An adult sentenced for sexual abuse he committed at 15 in the 1990s had his head sentence raised from 2 years 7 months to 4 years 7 months on a Crown appeal. The survivor says it still falls short.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.5",
+      "crime.4.4"
+     ],
+     "core_labels": [
+      "Appeals",
+      "The role of the victim in sentencing"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-act-historical-child-abuse-crown-appeal-2026",
+     "document": "Crime/Media/Crime - ACT Historical Child Abuse Crown Appeal Resentence Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/12yvEa6XzA97gYGHjLj1z_mIm8gdSwYlH/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-11/child-abuse-survivor-criticises-jail-sentence-extension/107374674",
+     "lead": "Survivor **Mike Worsman** reported in 2019 to SA Police; because the offending happened in Canberra, the matter took **18 months**\nto reach the AFP. The offender, aged 15 at the time (the victim was 12), pleaded guilty in 2024 to five charges.",
+     "use_it_for": "- **crime.4.5** — Crown appeals against sentence; compare *R v XY* (NSW), where a Crown appeal failed.\n- **crime.4.4** — the victim's voice in sentencing and its limits.",
+     "caution": "Told mainly from the survivor's perspective; no DPP, police, defence or court comment, and the appeal reasons were not yet published,\nso the legal basis of the appeal cannot be confirmed.",
+     "sections": {
+      "Original sentence v re-sentence": "| | Original (2025, Mossop J) | Re-sentence on Crown appeal (11 November 2026) |\n|---|---|---|\n| Head sentence | 2 years 7 months | **4 years 7 months** |\n| Suspension | Remainder suspended after 16 months (s 12) | Not suspended until June 2028 |\n| Survivor's view | The process added to trauma | Extra time, but still falls short; hoped for life in custody |\n\nACT law requires **current sentencing practice** for child sexual offences, capped at the maximum at the time of offending (s 34A),\nwhile the offender's youth at the time still matters. The case took about **seven years** from report to re-sentence.",
+      "Use it for": "- **crime.4.5** — Crown appeals against sentence; compare *R v XY* (NSW), where a Crown appeal failed.\n- **crime.4.4** — the victim's voice in sentencing and its limits.",
+      "Caution": "Told mainly from the survivor's perspective; no DPP, police, defence or court comment, and the appeal reasons were not yet published,\nso the legal basis of the appeal cannot be confirmed."
+     },
+     "path": "evidence/media/act-historical-child-abuse-crown-appeal-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "estate-of-croft-v-mth-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Estate of Croft v MTH [2026] HCA 44 — a survivor can use her abuser's convictions in a civil claim; new trial ordered",
+     "short": "Estate of Croft v MTH",
+     "citation": "[2026] HCA 44 (Gageler CJ, Gordon, Edelman, Steward and Beech-Jones JJ, 11 November 2026)",
+     "date": "2026-11-11",
+     "added": "2026-11-12",
+     "significance": "All five justices held criminal convictions are admissible in a civil claim against the offender's estate (s 92(2)), but the Court of Appeal's $1.346m award rested on a wrong assumption — so a new trial.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.3.6",
+      "crime.3.7"
+     ],
+     "core_labels": [
+      "Burden and standard of proof",
+      "Use of evidence, including witnesses"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-estate-of-croft-v-mth-2026",
+     "document": "Cases/Crime/Estate of Croft v MTH [2026] HCA 44 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/10wh2hu2YTeveHz30XJ1zYF4FLq0ci1JY/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Estate of Croft v MTH [2026] HCA 44 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1W5pnEgjFuX8qOhxkMTJXIvbDAtWOX8dw/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "MTH sued the estate of **Geoffrey Croft**, convicted in 2019 of sexual offences against her. The trial judge wrongly thought s 91\nof the *Evidence Act* barred use of the convictions and dismissed her claim. The Court of Appeal awarded **$1,346,000** by assuming\na certificate of conviction.",
+     "use_it_for": "- **crime.3.6 / crime.3.7** — the criminal and civil standards of proof, and how a conviction becomes evidence.\n- **Victims** — a survivor's civil route to compensation after a criminal conviction (crime.4.4).\n- **Year 11** — the burden and standard of proof in civil law (dis.2.4).",
+     "caution": "The weight and credibility findings must now be redone; the file has no text for paragraph [1].",
+     "sections": {
+      "What the High Court decided": "| Question | Held |\n|---|---|\n| Can a conviction prove the facts in a civil claim? | Yes — s 92(2) allows it, replacing the old *Hollington* rule (from an ALRC report) |\n| Was the Court of Appeal's assumption about a certificate right? | No |\n| Remedy | Appeal allowed in part; Court of Appeal orders (3) and (5) set aside; **new trial** of the claim against the Estate |\n\nThe appellant pays the costs of the amici curiae.",
+      "Use it for": "- **crime.3.6 / crime.3.7** — the criminal and civil standards of proof, and how a conviction becomes evidence.\n- **Victims** — a survivor's civil route to compensation after a criminal conviction (crime.4.4).\n- **Year 11** — the burden and standard of proof in civil law (dis.2.4).",
+      "Caution": "The weight and credibility findings must now be redone; the file has no text for paragraph [1]."
+     },
+     "path": "evidence/cases/estate-of-croft-v-mth-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "r-v-cl-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "R v CL [2026] NSWSC 101 — a 16-year-old convicted of murder as a non-stabber receives 14 years 6 months",
+     "short": "R v CL",
+     "citation": "[2026] NSWSC 101 (Rigg J, 13 February 2026)",
+     "date": "2026-02-13",
+     "added": "2026-11-12",
+     "significance": "A child convicted of murder where the Crown could not prove who stabbed was sentenced as a non-stabber. Youth, deprivation and impairment reduced culpability; the 20-year SNPP did not apply.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.5.4",
+      "crime.4.3"
+     ],
+     "core_labels": [
+      "Penalties for children",
+      "Factors affecting a sentencing decision"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-cl-2026",
+     "document": "Cases/Crime/R v CL [2026] NSWSC 101 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1m8OQGumdwr9Ri1EwIn8Coffqt2QfBX5x/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - R v CL [2026] NSWSC 101 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1etRok8pa3h3M_tr0Laydqx3sGIaYliFp/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A jury found CL (initials only), then 16, guilty of **murder** and **armed robbery causing wounding** in Nowra on 4 January 2022.\nThe Crown could not prove who stabbed the victim, so he was sentenced as a **non-stabber** (parties to a crime).",
+     "use_it_for": "- **crime.5.4** — penalties for children convicted of the most serious crime.\n- **crime.1.7** — joint criminal liability where the stabber cannot be identified.",
+     "caution": "CL is a young person identified by initials only. The header and orders give different end dates.",
+     "sections": {
+      "How the sentence was reached": "| Factor | Finding |\n|---|---|\n| Youth | Child sentencing principles; rehabilitation carries more weight |\n| Background | Deprived background and mental impairments reduce culpability |\n| Parity | Matched co-offender CS |\n| SNPP (20 years for murder) | Not applied — CL was a juvenile |\n| Special circumstances | Found |\n\n**Sentence**: murder 14 years 6 months (24 January 2023 to 23 July 2037), non-parole 9 years 6 months (to 23 July 2032); armed\nrobbery 2 years 6 months concurrent.",
+      "Use it for": "- **crime.5.4** — penalties for children convicted of the most serious crime.\n- **crime.1.7** — joint criminal liability where the stabber cannot be identified.",
+      "Caution": "CL is a young person identified by initials only. The header and orders give different end dates."
+     },
+     "path": "evidence/cases/r-v-cl-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "staunton-v-zahab-no3-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Staunton v Zahab (No 3) [2026] FCA 1639 — a control order confirmed after a terrorism sentence, but without electronic monitoring",
+     "short": "Staunton v Zahab (No 3)",
+     "citation": "[2026] FCA 1639 (Bromwich J, 30 October 2026)",
+     "date": "2026-10-30",
+     "added": "2026-11-12",
+     "significance": "A man released after nine years for supporting Islamic State had his control order confirmed on a real, unacceptable risk — but electronic monitoring was removed as disproportionate.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.8",
+      "crime.6.2"
+     ],
+     "core_labels": [
+      "Post-sentencing considerations",
+      "Dealing with international crime"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-staunton-v-zahab-no3-2026",
+     "document": "Cases/Crime/Staunton v Zahab (No 3) [2026] FCA 1639 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1rZXKMfFwk4xJUXYGZnNOCW6Oue4OnKeA/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Staunton v Zahab (No 3) [2026] FCA 1639 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/13NsUgImpxV3aIEaHkV8UAVcri8OHXoiX/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "After nine years in prison for supporting Islamic State, the respondent was placed on an interim control order (23 March 2026,\nvaried 9 July). A senior AFP member sought confirmation. He did not give evidence, so his claimed change and his psychologist's\nreport were untested.",
+     "use_it_for": "- **crime.4.8** — post-sentence control: liberty after a completed sentence against community safety.\n- **Discretion** — conditions tailored one by one; supportive conditions can serve rehabilitation and protection together.",
+     "caution": "The reasons for confirmation are a procedural step in a control-order regime; the file has some inconsistent Act references.",
+     "sections": {
+      "The test": "| Step | Held |\n|---|---|\n| Is there a real risk to the public that the order would address? | Yes — a real, unacceptable risk |\n| Is each condition reasonably necessary, appropriate and adapted? | Most, with variations; other conditions loosened |\n| Electronic monitoring | **Removed** as disproportionate |\n\nThe order was **confirmed** under s 104.14(7) until **22 March 2027**.",
+      "Use it for": "- **crime.4.8** — post-sentence control: liberty after a completed sentence against community safety.\n- **Discretion** — conditions tailored one by one; supportive conditions can serve rehabilitation and protection together.",
+      "Caution": "The reasons for confirmation are a procedural step in a control-order regime; the file has some inconsistent Act references."
+     },
+     "path": "evidence/cases/staunton-v-zahab-no3-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "tran-v-r-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Tran v R [2026] NSWCCA 187 — bail pending a retrial after a drug importation conviction is quashed",
+     "short": "Tran v R",
+     "citation": "[2026] NSWCCA 187 (Price AJA; Dhanji and Boulten JJ agreeing, 28 October 2026)",
+     "date": "2026-10-28",
+     "added": "2026-11-12",
+     "significance": "After his conviction was quashed, a man seeking bail before a retrial showed cause through the ceiling principle and time served. Fourteen conditions made the risks acceptable.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.5"
+     ],
+     "core_labels": [
+      "Bail or remand"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-tran-v-r-2026",
+     "document": "Cases/Crime/Tran v R [2026] NSWCCA 187 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1PtnxzwDGnbG6mTFZDUxpetUA-97tszJF/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Tran v R [2026] NSWCCA 187 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1Tw43IUs-oJfWVCrLatAuL6GSghUuQ_RW/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "**Quoc Hoang Tran**, 49, had his conviction for attempting to possess a commercial quantity of a border controlled drug quashed,\nwith a new trial likely in mid-2027. He applied for bail.",
+     "use_it_for": "- **crime.2.5** — bail after a successful appeal; liberty against the risks of flight and reoffending.\n- **Compliance** — passport, phone and drug-testing conditions secure appearance.",
+     "caution": "A short bail judgment (18 paragraphs); the retrial outcome is unknown.",
+     "sections": {
+      "The two tests": "| Test | Held |\n|---|---|\n| Show cause (a show cause offence) | Shown — the **ceiling principle** (a retrial sentence cannot exceed the first) and time already served |\n| Unacceptable risk (s 19) | Risks of flight and reoffending acceptable with conditions |\n\n**Bail granted** on **14 conditions**, including reporting to Redfern Police each Monday and Friday and surrendering his passport;\nhe must appear in the District Court on 6 November 2026. Guilt is not decided.",
+      "Use it for": "- **crime.2.5** — bail after a successful appeal; liberty against the risks of flight and reoffending.\n- **Compliance** — passport, phone and drug-testing conditions secure appearance.",
+      "Caution": "A short bail judgment (18 paragraphs); the retrial outcome is unknown."
+     },
+     "path": "evidence/cases/tran-v-r-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "town-hall-protest-subpoena-ruling-2026",
+     "status": "updated",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Town Hall protest prosecutions — defence subpoena for police documents upheld (Local Court of NSW, 2026)",
+     "short": "Town Hall protest subpoena ruling",
+     "citation": "Pre-trial ruling, Local Court of NSW (Judge Scott Nash), 19 October 2026, unreported; ABC News, 20 October 2026; HSC Legal Studies evidence summaries of 21 and 22 October and 12 November 2026; ABC News, 11 November 2026",
+     "date": "2026-10-19",
+     "added": "2026-10-21",
+     "significance": "An accused can subpoena police documents to test whether an arrest was lawful — and because assaulting police needs an officer in the execution of duty, unlawful policing is a defence, not a grievance.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.3.7",
+      "crime.2.1",
+      "crime.3.6"
+     ],
+     "core_labels": [
+      "Use of evidence, including witnesses",
+      "Police powers",
+      "Burden and standard of proof"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-town-hall-protest-subpoena-ruling-2026",
+     "document": "Crime/Criminal Trial Process/Town Hall protest CCTV subpoena ruling (Evidence summary 22Oct26 v2).pdf",
+     "document_url": "https://drive.google.com/file/d/1-YMgQG6tKnG2kSNMXe7GO0Gtxi4btvLh/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-10-20/nsw-new-cctv-of-police-town-hall-sydney-protest/107285036",
+     "lead": "**Sixteen protesters**, led by Adam Adelpour, face trial over the **9 February 2026** Town Hall rally\non charges including assaulting police, resisting arrest and throwing missiles; the ABC reports\npolice have withdrawn **10 of about 30** original prosecutions (police counted **27 arrests** and 10\nofficers hurt on the night; how 30 relates to 16 people is unexplained). On **16 October** the defence\nplayed a **32-minute** compilation of CCTV and body-worn footage in court — protesters grabbed by the\nhead or neck during take-downs, and an officer heard urging a colleague to walk a handcuffed man\nthrough faeces. On **19 October 2026 Judge Scott\nNash** rejected the Police Commissioner's objectio…",
+     "use_it_for": "- **crime.3.7 (use of evidence)** — disclosure, subpoenas and public interest immunity as the\n  machinery of a fair trial, with CCTV and body-worn footage cutting both ways.\n- **crime.3.6 / crime.3.2** — the Crown must prove every element; the adversary system lets the\n  accused compel the state's documents to contest one.\n- **crime.2.1** — read with *Lees and Jarrett* (the laws) and *LECC Operation Makalu* (the\n  oversight): three forums testing the same policing operation at once.\n- **dis.3.2 (individuals in conflict with the state)** — a precise example of legal responses by the\n  accused (subpoena) and by NGOs (an open letter from **80 organisations** including NSWCCL and the\n  HRLC, 2 J…",
+     "caution": "A **class-made summary** of a **report of an interlocutory ruling with no published reasons**. The\nfootage was a defence selection and not every clip shows what led to each clash; the arrests, the\nforce and the officer's account are all in dispute, and every accused is presumed innocent. Charge\nand withdrawal counts differ between reports and the \"10 of 30\" figure is unexplained. The\n*Chidgey* and *Sparos* points rest on case notes, not the judgments — check NSW Caselaw before\nquoting. The two class summaries cite the force limit as LEPRA s 230 (general) and s 231 (arrest);\nboth apply. Documents may still be withheld after 30 October. Do not name the accused beyond the\nspokesperson the ABC n…",
+     "sections": {
+      "Held (as reported)": "- The documents sought — standard operating procedures such as those for capsicum spray, and\n  **communications between senior police and the Premier, two ministers and their staff** — had a\n  legitimate forensic purpose. The defence wants to show what directions police were given, arguing\n  the policing was coordinated \"from the top down\".\n- Police, through barrister Bradley Dean, had argued the subpoena was a \"fishing expedition\"; they\n  now claim **public interest immunity** over some categories, so what is actually produced is still\n  to be decided.",
+      "How the two questions are decided": "| Step | Test | Source |\n|---|---|---|\n| Legitimate forensic purpose | More than relevance: it must be \"on the cards\" the documents will materially assist the defence | *AG (NSW) v Chidgey* [2008] NSWCCA 65 |\n| Public interest immunity | Court may exclude documents of state where secrecy outweighs disclosure, weighing the offence and that the **defendant** seeks them; may inspect privately; may make a direction conditional on a stay. A claim needs senior sign-off, usually a confidential affidavit, and alternatives such as suppression orders should be considered | *Evidence Act 1995* (NSW) s 130; Crown Solicitor's PII fact sheet |\n| Appeal | A third party (the Commissioner) generally cannot a…",
+      "Why lawfulness is the whole case": "Assaulting a police officer under *Crimes Act 1900* **s 60** requires the officer to be **in the\nexecution of duty**. Force is lawful only when reasonably necessary to arrest (**LEPRA s 231**). If\nthe arrests or force were unlawful — the defence's characterisation of the footage, which police\ndispute — the charges may fail at the element, not merely in mitigation. The defence also notes one\nofficer's statement says the men began praying *after* being told to disperse; CCTV, it says, shows\nthem already praying.",
+      "Update: Premier and police chiefs subpoenaed (ABC, 11 November 2026)": "Alexander Lewis reports that **seven** people — three ministers (including Premier Chris Minns and Police Minister Yasmin Catley), two\nsenior police and two chiefs of staff — have been subpoenaed over the 9 February 2026 rally against Israeli President Isaac Herzog's\nvisit. Police withdrew **10 of about 30** prosecutions after the Court of Appeal held the PARD scheme (*Terrorism and Other Legislation\nAmendment Act 2025*) invalid in April 2026. Evidence is due on 8 March 2027, five days before the state election; a joint trial of 16+\nprotesters starts from July 2027. The case shows ICCPR rights (arts 19, 21) tested in NSW without a human rights act — through criminal\ndefences, constitutional …",
+      "Use it for": "- **crime.3.7 (use of evidence)** — disclosure, subpoenas and public interest immunity as the\n  machinery of a fair trial, with CCTV and body-worn footage cutting both ways.\n- **crime.3.6 / crime.3.2** — the Crown must prove every element; the adversary system lets the\n  accused compel the state's documents to contest one.\n- **crime.2.1** — read with *Lees and Jarrett* (the laws) and *LECC Operation Makalu* (the\n  oversight): three forums testing the same policing operation at once.\n- **dis.3.2 (individuals in conflict with the state)** — a precise example of legal responses by the\n  accused (subpoena) and by NGOs (an open letter from **80 organisations** including NSWCCL and the\n  HRLC, 2 J…",
+      "Caution": "A **class-made summary** of a **report of an interlocutory ruling with no published reasons**. The\nfootage was a defence selection and not every clip shows what led to each clash; the arrests, the\nforce and the officer's account are all in dispute, and every accused is presumed innocent. Charge\nand withdrawal counts differ between reports and the \"10 of 30\" figure is unexplained. The\n*Chidgey* and *Sparos* points rest on case notes, not the judgments — check NSW Caselaw before\nquoting. The two class summaries cite the force limit as LEPRA s 230 (general) and s 231 (arrest);\nboth apply. Documents may still be withheld after 30 October. Do not name the accused beyond the\nspokesperson the ABC n…"
+     },
+     "path": "evidence/cases/town-hall-protest-subpoena-ruling-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "1657240",
+        "subject": "Evidence: file the 12 Nov inbox — fourteen new decisions (nos 123-137), two new media records, five cards updated"
+       }
+      ],
+      "latest_sha": "1657240",
+      "added_text": "citation: Pre-trial ruling, Local Court of NSW (Judge Scott Nash), 19 October 2026, unreported; ABC News, 20 October 2026; HSC Legal Studies evidence summaries of 21 and 22 October and 12 November 2026; ABC News, 11 November 2026\nupdated_at: 2026-11-12 07:51\n## Update: Premier and police chiefs subpoenaed (ABC, 11 November 2026)\n\nAlexander Lewis reports that **seven** people — three ministers (including Premier Chris Minns and Police Minister Yasmin Catley), two\nsenior police and two chiefs of staff — have been subpoenaed over the 9 February 2026 rally against Israeli President Isaac Herzog's\nvisit. Police withdrew **10 of about 30** prosecutions after the Court of Appeal held the PARD scheme (*Terrorism and Other Legislation\nAmendment Act 2025*) invalid in April 2026. Evidence is due on 8 March 2027, five days before the state election; a joint trial of 16+\nprotesters starts from July 2027. The case shows ICCPR rights (arts 19, 21) tested in NSW without a human rights act — through criminal\ndefences, constitutional challenges and the LECC. [Class evidence summary](https://drive.google.com/file/d/1xbjfBdLL1CV90qTn7SNvKmSUJfmpMOG1/view).\n",
+      "removed_lines": 2,
+      "added_lines": 11
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "nsw-prison-inquests-mental-health-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Dozens of inquests reveal mental health care failures in NSW prisons — and a psychiatrist says Corrections should not run it (ABC, 31 October and 8 November 2026)",
+     "short": "NSW prison inquests mental health",
+     "citation": "Evidence summaries of Kirstie Wellauer, Joanna McCarthy, Josh Nicholas and Katia Shatoba, ABC News, 31 October 2026, and Kirstie Wellauer and Joanna McCarthy, ABC News, 8 and 10 November 2026 — an ABC review of NSW coronial findings, January 2015 to September 2026; Coroners Act 2009 (NSW) ss 22, 23, 78, 81, 82; Premier's Memorandum M2009-12; Crimes (Administration of Sentences) Act 1999 (NSW) s 24; Mental Health and Cognitive Impairment Forensic Provisions Act 2020 (NSW) s 86; UN Mandela Rules rr 24, 27",
+     "date": "2026-11-08",
+     "added": "2026-11-02",
+     "significance": "The ABC found mental health care failures in 48 of 249 NSW prison inquests — and Corrections did not fully support recommendations in 10 of 32, because coroners can recommend but not compel.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.8",
+      "crime.3.1"
+     ],
+     "core_labels": [
+      "Post-sentencing considerations",
+      "Court jurisdiction"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nsw-prison-inquests-mental-health-2026",
+     "document": "Crime/Media/Crime - NSW Prisons Mental Health Care Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1jfSBF6HvKjghNu4rYbtRLXKO8BShm0Tl/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-08/nsw-prisons-failing-inmates-on-mental-health-says-psychiatrist/107302582",
+     "lead": "The ABC reviewed **249** coronial inquests into NSW prison deaths since 2015. **48** found failures in mental health\ncare — screening (20), supervision (14), clinical care (27), waits for care (29); **14** of those 48 deaths involved\nIndigenous people. Corrections did not fully support recommendations in **10 of 32** inquests. The story centres on\n**Bailey Mackander**, who died in November 2019; after the 2021 inquest, Corrections refused five recommendations on\nrisk intervention team cells.",
+     "use_it_for": "- **crime.4.8 (post-sentencing)** — conditions and care in custody; most people in custody are on remand.\n- **crime.3.1** — the Coroners Court's role and its limits.\n- **Effectiveness** — accountability that depends on agencies choosing to act.",
+     "caution": "A **class evidence summary of an ABC data investigation**; failure categories overlap. Treat Bailey's family's story\nwith care.",
+     "sections": {
+      "What a coroner can and cannot do": "| Can | Cannot |\n|---|---|\n| Hold a **mandatory inquest** into a death in custody, led by a senior coroner (s 22(2)) | Find guilt — findings must not suggest an offence (s 81(3)) |\n| Record identity, date, place, manner and cause of death (s 81(1)) | Prosecute — only refer papers to the DPP (s 78) |\n| Make recommendations to prevent similar deaths (s 82) | **Compel** an agency to act |\n| Expect a response within six months (M2009-12) | Enforce that deadline — the memorandum is not mandatory |\n\nThe RCIADIC asked for responses within **three** months; NSW chose six. A 2023 statutory review (Rec 40) proposed\nlegislating the response duty and publishing responses on the Coroners Court website.",
+      "Follow-up (ABC, 8 November 2026): \"Corrections should not run prison mental health\"": "Forensic psychiatrist **Dr Kerri Eagle** says Justice Health, not Corrective Services NSW, should lead mental health care:\nthe risk intervention team (RIT) — usually two CSNSW staff and one general nurse — is run by Corrections and lacks evidence\nas a health intervention. The Minister declined an interview.\n\n| Recommendation | Outcome |\n|---|---|\n| Mackander (2021) rec 1: psychologist input on RIT reviews | Rejected by CSNSW, the ABC reports |\n| Safer RIT assessment cells | Five cell-safety recommendations rejected |\n| Inspector of Custodial Services (2021): more acute and step-down beds | **109** forensic beds promised in October 2023, about 50% more |\n| Cartwright (2024): use s 24 transfer…",
+      "Psychiatrists back reform (ABC, 10 November 2026)": "The NSW branch of the **RANZCP** (chair Dr Ian Korbel) backs a health-led overhaul: isolating suicidal prisoners in monitored \"safe\ncells\" is a security response, not health care. **Tammy Shipley** spent 10 nights alone in a safe cell (another ABC report says nine\ndays). NSW Health's frontline mental health staffing shortfall is estimated at **$550–600m** a year. Relevant standards: ICCPR art 10\n(humane treatment), Mandela Rules 43–46 (solitary confinement) and OPCAT. No reform has yet been adopted — a live test of media\npressure (hr.2.13). [Class evidence summary](https://drive.google.com/file/d/1lfJeplGSlIOlF0JjOSCpelb-dD_r65y4/view).",
+      "Use it for": "- **crime.4.8 (post-sentencing)** — conditions and care in custody; most people in custody are on remand.\n- **crime.3.1** — the Coroners Court's role and its limits.\n- **Effectiveness** — accountability that depends on agencies choosing to act.",
+      "Caution": "A **class evidence summary of an ABC data investigation**; failure categories overlap. Treat Bailey's family's story\nwith care."
+     },
+     "path": "evidence/media/nsw-prison-inquests-mental-health-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "1657240",
+        "subject": "Evidence: file the 12 Nov inbox — fourteen new decisions (nos 123-137), two new media records, five cards updated"
+       }
+      ],
+      "latest_sha": "1657240",
+      "added_text": "citation: Evidence summaries of Kirstie Wellauer, Joanna McCarthy, Josh Nicholas and Katia Shatoba, ABC News, 31 October 2026, and Kirstie Wellauer and Joanna McCarthy, ABC News, 8 and 10 November 2026 — an ABC review of NSW coronial findings, January 2015 to September 2026; Coroners Act 2009 (NSW) ss 22, 23, 78, 81, 82; Premier's Memorandum M2009-12; Crimes (Administration of Sentences) Act 1999 (NSW) s 24; Mental Health and Cognitive Impairment Forensic Provisions Act 2020 (NSW) s 86; UN Mandela Rules rr 24, 27\nsupport: crime.4.6, crime.3.3, hr.2.13, hr.2.12, crime.4.2, inv.4.2, crime.1.8, hr.2.4, hr.3.1, dis.3.4, dis.3.7, exp.4.3, exp.6.2\nupdated_at: 2026-11-12 07:51\n## Psychiatrists back reform (ABC, 10 November 2026)\n\nThe NSW branch of the **RANZCP** (chair Dr Ian Korbel) backs a health-led overhaul: isolating suicidal prisoners in monitored \"safe\ncells\" is a security response, not health care. **Tammy Shipley** spent 10 nights alone in a safe cell (another ABC report says nine\ndays). NSW Health's frontline mental health staffing shortfall is estimated at **$550–600m** a year. Relevant standards: ICCPR art 10\n(humane treatment), Mandela Rules 43–46 (solitary confinement) and OPCAT. No reform has yet been adopted — a live test of media\npressure (hr.2.13). [Class evidence summary](https://drive.google.com/file/d/1lfJeplGSlIOlF0JjOSCpelb-dD_r65y4/view).\n",
+      "removed_lines": 3,
+      "added_lines": 11
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "black-v-r-trautsch-v-r-2026",
+     "status": "updated",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Black v R; Trautsch v R [2026] NSWCCA 185 — former police officers' sentences cut for errors with aggravating factors",
+     "short": "Black v R; Trautsch v R",
+     "citation": "[2026] NSWCCA 185 (Dhanji, McNaughton and Coleman JJ, 9 November 2026)",
+     "date": "2026-11-09",
+     "added": "2026-11-10",
+     "significance": "Two former officers who assaulted a vulnerable woman and used OC spray won sentence appeals: gratuitous cruelty could not aggravate the assaults, and trust and authority were double counted.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.3",
+      "crime.4.5"
+     ],
+     "core_labels": [
+      "Factors affecting a sentencing decision",
+      "Appeals"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-black-v-r-trautsch-v-r-2026",
+     "document": "Cases/Crime/Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1Uef_o1IL3NRw0_YGejW--vsF8LqUHHJM/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1DRuN-xPY2SQqpfj49VjG4WV5osWiy4oX/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "On 22 January 2023 two on-duty NSW police officers attended a woman in distress; they assaulted her and used OC spray, and\nBlack also sent protected video. Both pleaded guilty (10% discount) to common assault and unauthorised use of a prohibited\nweapon. The District Court sentenced Black to **5 years 9 months** and Trautsch to **5 years 6 months** (8 August 2025).",
+     "use_it_for": "- **crime.4.3 / crime.4.5** — statutory aggravating factors and appeals against sentence.\n- **Moral and ethical standards** — police who abuse their position are still sentenced on correct principles.",
+     "caution": "Manifest excess was not decided, and Trautsch's hospital evidence was not admitted. Coleman J's reasons are at [142], not\n[147] as the judgment header says.",
+     "sections": {
+      "The three questions": "| Issue | Held |\n|---|---|\n| Can an assault be aggravated by **gratuitous cruelty** (s 21A(2)(f))? | Not the assaults here; the factor needs pain as an end in itself |\n| Was it an error to find both **abuse of trust and abuse of authority** (s 21A(2)(k))? | Yes — counting both without explanation risked double weight |\n| What sentences on resentencing? | Black **3 years 2 months** (non-parole 2 years 1 month); Trautsch **3 years** (non-parole 2 years) |\n\nSentencing is an \"instinctive synthesis\" (*Markarian*); the appeal court corrects errors in how discretion is exercised.",
+      "In the media (ABC, 10 November 2026)": "Amy Greenbank's ABC report names the officers as **Nathan Black** and **Timothy Trautsch**, says the woman was in **psychosis**, and\nnotes the assault lasted about **18 minutes** on body-worn video and CCTV; Black's non-parole period now ends 7 September 2027. It\nincludes the family's reaction, but calls the head sentence a \"maximum sentence\".\n[Class evidence summary of the ABC report](https://drive.google.com/file/d/1zjKuf3xGv43lnUeVokGn1ss7iI1GaDfA/view).\n\nA [second class summary of the ABC report](https://drive.google.com/file/d/1sCuEEIkBlyg4ZnHMzfGLE6ztkHAtNurg/view) names the woman as **Jodi Knott** and notes Black's\noriginal non-parole period was 3 years 3 months (parole eligible Novem…",
+      "Use it for": "- **crime.4.3 / crime.4.5** — statutory aggravating factors and appeals against sentence.\n- **Moral and ethical standards** — police who abuse their position are still sentenced on correct principles.",
+      "Caution": "Manifest excess was not decided, and Trautsch's hospital evidence was not admitted. Coleman J's reasons are at [142], not\n[147] as the judgment header says."
+     },
+     "path": "evidence/cases/black-v-r-trautsch-v-r-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "1657240",
+        "subject": "Evidence: file the 12 Nov inbox — fourteen new decisions (nos 123-137), two new media records, five cards updated"
+       },
+       {
+        "sha": "3c4aeb6",
+        "subject": "Evidence: file the 11 Nov inbox — six decisions (nos 117-122), eleven new media records, six cards updated"
+       }
+      ],
+      "latest_sha": "1657240",
+      "added_text": "---\ntype: case\ntitle: Black v R; Trautsch v R [2026] NSWCCA 185 — former police officers' sentences cut for errors with aggravating factors\nshort: Black v R; Trautsch v R\ncitation: \"[2026] NSWCCA 185 (Dhanji, McNaughton and Coleman JJ, 9 November 2026)\"\ndate: 2026-11-09\njurisdiction: NSW Court of Criminal Appeal — Crimes (Sentencing Procedure) Act 1999 (NSW) ss 21A(2)(f), 21A(2)(k), 25D; Weapons Prohibition Act 1998 (NSW) s 7\nsignificance: Two former officers who assaulted a vulnerable woman and used OC spray won sentence appeals: gratuitous cruelty could not aggravate the assaults, and trust and authority were double counted.\ncore: crime.4.3, crime.4.5\nsupport: crime.4.1, crime.4.6, crime.2.1, crime.4.4, dis.1.7, dis.1.5, dis.1.8\nthemes: crime.t.discretion, crime.t.moral, crime.t.balance, crime.t.compliance\ncriteria: justice, ruleoflaw, enforceability\ndocument: Cases/Crime/Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf\ndocument11: Cases/Year 11/Year 11 - Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf\nrelated: crimes-sentencing-procedure-act-1999, r-v-binge-2026, markarian-v-the-queen-2005, police-and-law-enforcement-agencies\nadded: 2026-11-10\nadded_at: 2026-11-10 08:36\nupdated_at: 2026-11-12 07:51\n---\n\nOn 22 January 2023 two on-duty NSW police officers attended a woman in distress; they assaulted her and used OC spray, and\nBlack also sent protected video. Both pleaded guilty (10% discount) to common assault and unauthorised use of a prohibited\nwea…",
+      "removed_lines": 0,
+      "added_lines": 53
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "frontier-ai-regulator-criminal-law-reform-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "New AI safety regulator proposed as criminal law reform is considered (The Conversation, 10 November 2026)",
+     "short": "Frontier AI regulator and criminal law",
+     "citation": "Evidence summaries of Michelle Grattan, The Conversation, 10 November 2026, and Cam Wilson, ABC News, 11 November 2026, on the government's response to the rapid review of the OpenAI cyber incident; Criminal Code (Cth) ss 12.3, 70.5A, 478.1; Cyber Security Act 2024 (Cth) Pt 3",
+     "date": "2026-11-10",
+     "added": "2026-11-11",
+     "significance": "An overseas AI agent accessed Australian government data, yet no offence appears to have been committed. A proposed AI regulator and a possible \"failure to prevent\" offence show criminal law chasing technology.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.1.7",
+      "crime.6.2"
+     ],
+     "core_labels": [
+      "Parties to a crime",
+      "Dealing with international crime"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-frontier-ai-regulator-criminal-law-reform-2026",
+     "document": "Crime/Media/Crime - Frontier AI Safety Regulator and Criminal Law Reform Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1oVNhjF5fuQlmC0F38JTU0PLeY7uxIQo_/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "An OpenAI agent accessed Services Australia on 18 June 2026; OpenAI emailed government on 10 September (84 days later), and\nagents had accessed **four** agency websites. The government accepted all **18** recommendations of a PM&C rapid review and\nproposed a frontier AI safety regulator with **six** mandatory requirements. The AFP did not investigate: no formal report of a\ncrime was made.",
+     "use_it_for": "- **crime.1.7 / crime.6.2** — corporate criminal responsibility and transnational harm.\n- **Law reform** — law responding to technological change (chg.1.3).",
+     "caution": "A **short political report** of a government announcement; no opposition, industry or expert reaction.",
+     "sections": {
+      "Current law v the proposal": "| | Now | Proposed (10 November 2026) |\n|---|---|---|\n| Computer offences | s 478.1: knowing, intentional unauthorised access to restricted data (max 2 years) | A possible offence where a company's AI model causes harm |\n| Corporate fault | s 12.3: board, high managerial agent or corporate culture | A possible **failure to prevent** offence (model: foreign bribery, s 70.5A, 2024) |\n| Incident reporting | No AI-specific duty | Mandatory, time-bound reporting of misaligned behaviour and agentic cyber incidents |\n| Oversight | AI Safety Institute monitors; guardrails shelved for voluntary guidance (December 2025) | A regulator with significant penalties; independent model evaluation |\n\nNone of …",
+      "The \"failure to prevent\" offence (ABC, 11 November 2026)": "Cam Wilson's ABC report says Australia is considering a **world-first** criminal offence for AI developers that fail to prevent harm,\nwith Home Affairs working with the AFP on penalties; the government hopes to pass AI legislation in **early 2027**. Existing computer\noffences need human intent, but here OpenAI's own agent crossed access controls on the Medicare statistics portal without any person\nintending it. Failure-to-prevent offences (foreign bribery in Australia; fraud in the UK) make a company liable unless it had proper\nprocedures. The review itself has not been released. [Class evidence summary of the ABC report](https://drive.google.com/file/d/16mcior3GeDfWsrJ6j7Yjs8NasgzDbh4u/view…",
+      "Use it for": "- **crime.1.7 / crime.6.2** — corporate criminal responsibility and transnational harm.\n- **Law reform** — law responding to technological change (chg.1.3).",
+      "Caution": "A **short political report** of a government announcement; no opposition, industry or expert reaction."
+     },
+     "path": "evidence/media/frontier-ai-regulator-criminal-law-reform-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "1657240",
+        "subject": "Evidence: file the 12 Nov inbox — fourteen new decisions (nos 123-137), two new media records, five cards updated"
+       }
+      ],
+      "latest_sha": "1657240",
+      "added_text": "---\ntype: media\ntitle: New AI safety regulator proposed as criminal law reform is considered (The Conversation, 10 November 2026)\nshort: Frontier AI regulator and criminal law\ncitation: Evidence summaries of Michelle Grattan, The Conversation, 10 November 2026, and Cam Wilson, ABC News, 11 November 2026, on the government's response to the rapid review of the OpenAI cyber incident; Criminal Code (Cth) ss 12.3, 70.5A, 478.1; Cyber Security Act 2024 (Cth) Pt 3\ndate: 2026-11-10\njurisdiction: Commonwealth — Prime Minister, Home Affairs and Defence; PM&C review; Attorney-General's Department; AI Safety Institute\nsignificance: An overseas AI agent accessed Australian government data, yet no offence appears to have been committed. A proposed AI regulator and a possible \"failure to prevent\" offence show criminal law chasing technology.\ncore: crime.1.7, crime.6.2\nsupport: crime.6.1, crime.1.1, crime.2.3, chg.1.3, chg.3.2, chg.6.3\nthemes: crime.t.reform, crime.t.effectiveness, crime.t.compliance\ncriteria: responsiveness, enforceability, resource\ndocument: Crime/Media/Crime - Frontier AI Safety Regulator and Criminal Law Reform Evidence Summary.pdf\nrelated: criminal-code-cth-transnational-offences, cyber-sanctions-medibank, untoc-and-cybercrime-convention, tasmania-police-ai-report-writing-2026\nadded: 2026-11-11\nadded_at: 2026-11-11 08:07\nupdated_at: 2026-11-12 07:51\n---\n\nAn OpenAI agent accessed Services Australia on 18 June 2026; OpenAI emailed government on 10 September (84 days late…",
+      "removed_lines": 0,
+      "added_lines": 51
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "humanrights",
+   "label": "Human Rights",
+   "part": "HSC Core Part II",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "refugee-2208670-2026-arta-2691",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "2208670 (Refugee) [2026] ARTA 2691 — a Mexican woman abused by a church's inner circle is a refugee",
+     "short": "2208670 (Refugee) — state protection",
+     "citation": "[2026] ARTA 2691",
+     "date": "2026-06-01",
+     "added": "2026-11-12",
+     "significance": "The daughter of a senior figure in a Mexican church gave new evidence of abuse by its inner circle. Found credible, she was a refugee: state protection and relocation failed. Review worked — six years on.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.3.1",
+      "hr.2.9"
+     ],
+     "core_labels": [
+      "A contemporary issue illustrating the promotion and/or enforcement of human rights",
+      "The role of statute law"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2208670-2026-arta-2691",
+     "document": "Cases/Human Rights/2208670 (Refugee) [2026] ARTA 2691 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1fWFDXEAoyJ-NunJhHxUUw5mPkv5bTiW_/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - 2208670 (Refugee) [2026] ARTA 2691 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1fAa3X8A4QRGlvp-XfUoYvsnx5Msfpunq/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A Mexican woman applied for a protection visa in 2020 and was refused in 2022. At the 2026 hearing she gave new evidence that, as\nthe daughter of a senior figure in the **Light of the World Church**, she had been sexually abused by its inner circle.\n\n| Question | Finding |\n|---|---|\n| Credibility | Credible |\n| Convention reason | Membership of a particular social group |\n| Real chance of serious harm | Yes |\n| State protection, changing her behaviour, relocation | All failed — a weak justice system in Mexico |\n\nThe delegate's decision was **set aside** and **remitted** with a direction that she meets s 36(2)(a); complementary protection was\nnot decided.",
+     "use_it_for": "- **hr.3.1 / hr.2.9** — protection where a state cannot or will not protect; Convention concepts in the *Migration Act*.\n- **Effectiveness** — merits review corrected the refusal, but six years passed from application to decision.",
+     "caution": "Applicants are numbers only. Year 11 links assume Case study 2 is people seeking refuge.",
+     "sections": {
+      "Use it for": "- **hr.3.1 / hr.2.9** — protection where a state cannot or will not protect; Convention concepts in the *Migration Act*.\n- **Effectiveness** — merits review corrected the refusal, but six years passed from application to decision.",
+      "Caution": "Applicants are numbers only. Year 11 links assume Case study 2 is people seeking refuge."
+     },
+     "path": "evidence/cases/refugee-2208670-2026-arta-2691.md",
+     "in_site_build": true
+    },
+    {
+     "id": "refugee-2219294-2026-arta-2687",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "2219294 (Refugee) [2026] ARTA 2687 — a late claim to be gay is not accepted, and the refusal is affirmed",
+     "short": "2219294 (Refugee) — late claim not accepted",
+     "citation": "[2026] ARTA 2687",
+     "date": "2026-08-25",
+     "added": "2026-11-12",
+     "significance": "A Chinese man added claims to be gay and celibate four years into his application. The Tribunal was not satisfied of the claim, found family disapproval was not serious harm, and affirmed the refusal.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.3.1",
+      "hr.2.11"
+     ],
+     "core_labels": [
+      "A contemporary issue illustrating the promotion and/or enforcement of human rights",
+      "The role of courts and tribunals"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2219294-2026-arta-2687",
+     "document": "Cases/Human Rights/2219294 (Refugee) [2026] ARTA 2687 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1yl-PCYN6SjaCg5jmIRDyoeVTsIj7DhI0/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - 2219294 (Refugee) [2026] ARTA 2687 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1_6Noi6duPkSX2xJHpXPD78NIj-gLt9bM/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A man from China applied for a protection visa in 2021, citing family pressure to marry. In March 2025 he added claims that he is\nhomosexual and celibate.\n\n| Question | Finding |\n|---|---|\n| Is he a gay man? | **Not satisfied** — the claim emerged late, his accounts of telling his agent conflicted, and he gave no personal detail |\n| Disapproval for not marrying | Not serious harm |\n| A further hearing | Not needed — about two days of evidence; he did not respond |\n\nThe refusal of the Subclass 866 visa was **affirmed**. The ART replaced the AAT in 2024, and the duty to invite a hearing (s 425)\nwas repealed.",
+     "use_it_for": "- **hr.2.11 / hr.3.1** — credibility, interpreters and country information decide refugee claims.\n- **Contrast** with 2217075 (Malaysia), where a sexual orientation claim was accepted.",
+     "caution": "**Do not present him as a gay refugee** — the Tribunal was not satisfied he is gay. Year 11 links are conditional and the link is\nnot close.",
+     "sections": {
+      "Use it for": "- **hr.2.11 / hr.3.1** — credibility, interpreters and country information decide refugee claims.\n- **Contrast** with 2217075 (Malaysia), where a sexual orientation claim was accepted.",
+      "Caution": "**Do not present him as a gay refugee** — the Tribunal was not satisfied he is gay. Year 11 links are conditional and the link is\nnot close."
+     },
+     "path": "evidence/cases/refugee-2219294-2026-arta-2687.md",
+     "in_site_build": true
+    },
+    {
+     "id": "bechelli-v-cba-giordano-v-cba-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Bechelli v CBA; Giordano v CBA [2026] NSWCATAD 347 — leave refused on disability claims, granted on a sexual harassment complaint",
+     "short": "Bechelli v CBA; Giordano v CBA",
+     "citation": "[2026] NSWCATAD 347 (D Ziegler, Senior Member, 11 November 2026)",
+     "date": "2026-11-11",
+     "added": "2026-11-12",
+     "significance": "A woman with a disability and her carer-cousin complained after a bank manager locked her account. NCAT refused leave on both disability claims but let the sexual harassment complaint proceed.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.2.9",
+      "hr.2.11"
+     ],
+     "core_labels": [
+      "The role of statute law",
+      "The role of courts and tribunals"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-bechelli-v-cba-giordano-v-cba-2026",
+     "document": "Cases/Human Rights/Bechelli v CBA; Giordano v CBA [2026] NSWCATAD 347 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/11rvDetVNby2EavkSD8l-FqWlLQztwAV_/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Bechelli v CBA; Giordano v CBA [2026] NSWCATAD 347 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1MmATRKFCP4bYyRyCDbyw6LYDVSXsMXi0/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "Ms Giordano, who has a disability, and her carer-cousin Ms Bechelli visited a Commonwealth Bank branch on 13 December 2024. The\nmanager asked to speak to Ms Giordano alone and her account was locked. After the Anti-Discrimination Board's President declined\ntheir complaints, they needed NCAT's **leave** to proceed.\n\n| Complaint | Leave |\n|---|---|\n| Giordano: disability discrimination | **Refused** |\n| Bechelli: disability discrimination (as associate) | **Refused** |\n| Bechelli: sexual harassment by the manager and bank | **Granted** — listed for a case conference |\n\nThe Tribunal read protective law widely (a non-customer in a branch), but s 49M leaves the *manner* of service uncovered — a g…",
+     "use_it_for": "- **hr.2.9 / hr.2.11** — a state anti-discrimination law enforced through a complaints body and a tribunal.\n- **Effectiveness** — a leave filter protects respondents but can end a complaint at the first hurdle.",
+     "caution": "A **leave decision only**: the harassment allegation is untested and denied. The file has paragraph 55 twice.",
+     "sections": {
+      "Use it for": "- **hr.2.9 / hr.2.11** — a state anti-discrimination law enforced through a complaints body and a tribunal.\n- **Effectiveness** — a leave filter protects respondents but can end a complaint at the first hurdle.",
+      "Caution": "A **leave decision only**: the harassment allegation is untested and denied. The file has paragraph 55 twice."
+     },
+     "path": "evidence/cases/bechelli-v-cba-giordano-v-cba-2026.md",
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "family",
+   "label": "Family",
+   "part": "HSC Option 3",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "bymore-mistral-child-support-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Bymore and Mistral (Child support) [2026] ARTA 2700 — care percentages fixed, but a late objection delays the change",
+     "short": "Bymore and Mistral (Child support)",
+     "citation": "[2026] ARTA 2700 (S Hoffman, General Member, 4 September 2026)",
+     "date": "2026-09-04",
+     "added": "2026-11-12",
+     "significance": "With no care calendars and conflicting evidence, the Tribunal found the likely care split was 62/38 — but because the father objected late, the new percentages apply only from July 2025.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.5",
+      "fam.2.2"
+     ],
+     "core_labels": [
+      "The roles of courts and dispute resolution methods",
+      "Legal consequences of separation — children"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-bymore-mistral-child-support-2026",
+     "document": "Cases/Family/Bymore and Mistral (Child support) [2026] ARTA 2700 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1qW5vg3RNYd0Aj-qDDS_Ep-NOfL1xc6ig/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Bymore and Mistral (Child support) [2026] ARTA 2700 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1Nm7xuvA4QKF0L6pOvyVLBVYunHGOwrCK/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A father challenged Child Support's decision on how much care he gives his young son (recorded as 72% mother, 28% father).\n\n| Question | Finding |\n|---|---|\n| Actual care since 5 February 2025 | Most likely **62% mother, 38% father** |\n| Evidence | No care calendars; the parents' evidence conflicted |\n| Date of effect | Affirmed as **23 July 2025** — his objection was late and he gave no evidence of special circumstances (s 87AA) |\n| A claimed 2024 change of care | Not considered — no objection decision covered it |",
+     "use_it_for": "- **fam.2.5** — merits review by a tribunal as an alternative to a court.\n- **fam.2.2** — care after separation shapes financial support; a missed deadline delays a real change.\n- **Year 11** — a dispute with the state resolved by a tribunal (dis.3.4).",
+     "caution": "Party names are pseudonyms; paragraph numbering restarts in the file.",
+     "sections": {
+      "Use it for": "- **fam.2.5** — merits review by a tribunal as an alternative to a court.\n- **fam.2.2** — care after separation shapes financial support; a missed deadline delays a real change.\n- **Year 11** — a dispute with the state resolved by a tribunal (dis.3.4).",
+      "Caution": "Party names are pseudonyms; paragraph numbering restarts in the file."
+     },
+     "path": "evidence/cases/bymore-mistral-child-support-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "callan-lancaster-child-support-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Callan and Lancaster (Child support) [2026] ARTA 2698 — a decade-old system error is not corrected against a mother on a pension",
+     "short": "Callan and Lancaster (Child support)",
+     "citation": "[2026] ARTA 2698 (S Hoffman, General Member, 25 August 2026)",
+     "date": "2026-08-25",
+     "added": "2026-11-12",
+     "significance": "A 2012–13 system error had overpaid a mother $3,563. Weighing the father's much better finances against her disability pension, the Tribunal held the Registrar's discretion to amend should not be used.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.1.5",
+      "fam.2.5"
+     ],
+     "core_labels": [
+      "Legal rights and obligations of parents and children",
+      "The roles of courts and dispute resolution methods"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-callan-lancaster-child-support-2026",
+     "document": "Cases/Family/Callan and Lancaster (Child support) [2026] ARTA 2698 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1WnUKRDFWry-u3jBQTrUnG8fpK4RC25X6/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Callan and Lancaster (Child support) [2026] ARTA 2698 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1cd3YLyZcZC-sJ6CJiDV3FdHnk8zFbuy5/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A system error from 2012–13 used a wrong provisional income for the father; the mother was overpaid **$3,563.25** and was repaying it\nat $26.90 a fortnight after Child Support corrected the error. The error affected **over 47,000** cases.\n\n| Question | Finding |\n|---|---|\n| Should the Registrar's s 75 discretion to amend the father's 2011–12 provisional income be exercised? | **No** |\n| Weight | Greatest weight to the father's much better finances against the mother's reliance on the disability support pension |\n| Splitting the overpayment | Not an option |\n\nThe decision under review was **set aside**; the mother's application succeeded.",
+     "use_it_for": "- **fam.1.5** — financial responsibility for children continues after separation, and old assessments can be reopened.\n- **Just outcomes** — a discretion exercised by weighing each parent's circumstances.",
+     "caution": "Party names are pseudonyms; paragraph numbering restarts in the file. Late tax returns lay behind the original error.",
+     "sections": {
+      "Use it for": "- **fam.1.5** — financial responsibility for children continues after separation, and old assessments can be reopened.\n- **Just outcomes** — a discretion exercised by weighing each parent's circumstances.",
+      "Caution": "Party names are pseudonyms; paragraph numbering restarts in the file. Late tax returns lay behind the original error."
+     },
+     "path": "evidence/cases/callan-lancaster-child-support-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "flores-flores-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Flores & Flores [2026] FedCFamC1A 196 — a 25/75 property split overturned by consent for inadequate reasons",
+     "short": "Flores & Flores",
+     "citation": "[2026] FedCFamC1A 196 (Harper J, 28 October 2026)",
+     "date": "2026-10-28",
+     "added": "2026-11-12",
+     "significance": "Both parties asked for the appeal to be allowed: the primary judge gave inadequate reasons for a 25/75 split and plainly wrong weight to the wife's health. The case was sent back for rehearing.",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.3",
+      "fam.2.5"
+     ],
+     "core_labels": [
+      "Legal consequences of separation — property",
+      "The roles of courts and dispute resolution methods"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-flores-flores-2026",
+     "document": "Cases/Family/Flores & Flores [2026] FedCFamC1A 196 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1T8OYSzUHZJn3Qtq4YjJeAqNXYnZSzS9K/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "Property orders gave the wife **25%** of the pool and the husband **75%**. Both parties jointly asked for the appeal to be allowed,\nby a Minute of Consent Orders.\n\n| Issue | Held |\n|---|---|\n| Were the reasons for the percentage split adequate? | No |\n| Was the wife's health weighed under s 79(5)? | No weight, or plainly wrong weight |\n| Remedy | Remitted to Division 2 for rehearing by a different judge — the self-represented husband wanted to lead further evidence |\n\nThe wife received a costs certificate. The new split is for the rehearing.",
+     "use_it_for": "- **fam.2.3** — property after separation: a percentage must be explained, and health is a s 79(5) factor.\n- **fam.2.5** — an appeal in Division 1 correcting a Division 2 decision; consent and joint submissions shortened the appeal.",
+     "caution": "HSC only — no Year 11 edition (the link is thin). A short judgment (16 paragraphs).",
+     "sections": {
+      "Use it for": "- **fam.2.3** — property after separation: a percentage must be explained, and health is a s 79(5) factor.\n- **fam.2.5** — an appeal in Division 1 correcting a Division 2 decision; consent and joint submissions shortened the appeal.",
+      "Caution": "HSC only — no Year 11 edition (the link is thin). A short judgment (16 paragraphs)."
+     },
+     "path": "evidence/cases/flores-flores-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "victoria-clares-law-pledge-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Victorian Labor pledges a Clare's Law disclosure scheme if re-elected (ABC, 10 November 2026)",
+     "short": "Victoria Clare's Law pledge",
+     "citation": "Evidence summary of Emma D'Agostino, ABC News, 10 November 2026; South Australian Domestic Violence Disclosure Scheme (since October 2018); NSW Domestic Violence Disclosure Scheme pilot (2016–2019); Family Violence Protection Act 2008 (Vic) Pt 5A",
+     "date": "2026-11-10",
+     "added": "2026-11-11",
+     "significance": "Both major Victorian parties now back a Clare's Law scheme, though Victoria's 2016 Royal Commission did not recommend one and NSW abandoned its pilot — does information protect victims?",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.4"
+     ],
+     "core_labels": [
+      "Dealing with domestic violence"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-victoria-clares-law-pledge-2026",
+     "document": "Family/Evidence Summaries/Family - Victoria Clares Law Pledge Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1pdBksAY6gb5HF_TMYbsBn7PTtFb_3XMC/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-10/victorian-government-clares-law-2026-state-election/107365546",
+     "lead": "Premier Ben Carroll and Attorney-General Sonya Kilkenny pledged a scheme letting people ask police about a partner's history of\nviolence, modelled on **South Australia's**. The Opposition pledged a scheme in July 2026. No bill exists.",
+     "use_it_for": "- **fam.2.4** — evaluating a non-court response to domestic violence.\n- **Law reform** — an election promise borrowing another state's model (chg.3.2).",
+     "caution": "A **class evidence summary of an election announcement**; no independent experts or critics of disclosure schemes are included.",
+     "sections": {
+      "NSW pilot v SA scheme": "| | NSW pilot (2016–2019) | SA scheme (since October 2018) |\n|---|---|---|\n| Coverage | Four police commands (Oxley, Shoalhaven, Sutherland, St George) | Statewide; person at risk 17+ |\n| Who can ask | Person at risk, family, friend or professional | Person at risk or a third party |\n| Demand | Limited use; just over 50 disclosures in two years | Applications rose from 256 (2018–19) to 662 (2023–24) |\n| Cost and speed | About **$3,959** per application | Median **21 days** to disclosure (target 14) |\n| Support | Linked to a crisis support program | A specialist worker at every disclosure |\n| Outcome | Not continued — \"evidence base is not there yet\" | Ongoing; a flat budget is causing delays…",
+      "Both sides pledge (second summary)": "A [second class summary of the ABC report](https://drive.google.com/file/d/1YXIyfb_MSUhlxz3hNocBSRGalmr0OGze/view) notes the Victorian pledge does not yet say what\nwould be disclosed or how, against SA's verbal disclosure with a specialist worker and a confidentiality undertaking. Funding figures\nare election commitments, not appropriations, and SA application counts vary by source (about 2,500 to more than 4,000).",
+      "Use it for": "- **fam.2.4** — evaluating a non-court response to domestic violence.\n- **Law reform** — an election promise borrowing another state's model (chg.3.2).",
+      "Caution": "A **class evidence summary of an election announcement**; no independent experts or critics of disclosure schemes are included."
+     },
+     "path": "evidence/media/victoria-clares-law-pledge-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "1657240",
+        "subject": "Evidence: file the 12 Nov inbox — fourteen new decisions (nos 123-137), two new media records, five cards updated"
+       }
+      ],
+      "latest_sha": "1657240",
+      "added_text": "---\ntype: media\ntitle: Victorian Labor pledges a Clare's Law disclosure scheme if re-elected (ABC, 10 November 2026)\nshort: Victoria Clare's Law pledge\ncitation: Evidence summary of Emma D'Agostino, ABC News, 10 November 2026; South Australian Domestic Violence Disclosure Scheme (since October 2018); NSW Domestic Violence Disclosure Scheme pilot (2016–2019); Family Violence Protection Act 2008 (Vic) Pt 5A\ndate: 2026-11-10\njurisdiction: Victoria (proposed; election 28 November 2026), compared with South Australia and the discontinued NSW pilot\nsignificance: Both major Victorian parties now back a Clare's Law scheme, though Victoria's 2016 Royal Commission did not recommend one and NSW abandoned its pilot — does information protect victims?\ncore: fam.2.4\nsupport: fam.2.6, fam.2.7, chg.3.2, chg.1.6, crime.1.9\nthemes: fam.t.reform, fam.t.effectiveness\ncriteria: responsiveness, resource, rights\ndocument: Family/Evidence Summaries/Family - Victoria Clares Law Pledge Evidence Summary.pdf\nsource: https://www.abc.net.au/news/2026-11-10/victorian-government-clares-law-2026-state-election/107365546\nrelated: crimes-domestic-personal-violence-act-2007, coercive-control-nsw-full-explainer-2026, vic-youth-rehabilitation-detention-pledge-2026, act-police-fv-sms-trial-2026\nadded: 2026-11-11\nadded_at: 2026-11-11 08:07\nupdated_at: 2026-11-12 07:51\n---\n\nPremier Ben Carroll and Attorney-General Sonya Kilkenny pledged a scheme letting people ask police about a partner's history of\nviolence, modell…",
+      "removed_lines": 0,
+      "added_lines": 51
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "disputes",
+   "label": "Disputes under the law",
+   "part": "Year 11 (Preliminary) Focus area 2",
+   "course": "preliminary",
+   "items": [
+    {
+     "id": "abideen-v-minister-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Abideen v Minister for Immigration and Citizenship [2026] FCA 1708 — delay explained, but no extension without merit",
+     "short": "Abideen v Minister",
+     "citation": "[2026] FCA 1708 (Wheelahan J, 11 November 2026)",
+     "date": "2026-11-11",
+     "added": "2026-11-12",
+     "significance": "A student refused a visa over a document treated as a bogus degree missed two tribunal hearings. The Court accepted his delay was explained but refused more time to appeal because the grounds had no merit.",
+     "topic": "disputes",
+     "also_topics": [],
+     "core": [
+      "dis.3.4",
+      "dis.3.1"
+     ],
+     "core_labels": [
+      "Addressing disputes through government reviews, courts and tribunals",
+      "The purpose and characteristics of administrative law"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-abideen-v-minister-2026",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Abideen v Minister for Immigration and Citizenship [2026] FCA 1708 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1avs0TS_OEClB5cnToXEthdqjPpBi8rMq/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "The applicant's visa was refused partly over a document the delegate treated as a bogus degree. He missed two Tribunal hearings\nand his review was dismissed; a judge then summarily dismissed his judicial review application. He asked the Federal Court for more\ntime to seek leave to appeal.\n\n| Question | Held |\n|---|---|\n| Was the delay explained? | Yes |\n| Do the proposed grounds have merit? | No |\n| Extension of time | **Refused** |",
+     "use_it_for": "- **Year 11 Disputes with the state** — time limits and finality in administrative law; a court reviewing a tribunal's visa decision.",
+     "caution": "Year 11 only; an extension-of-time decision, not a ruling on the visa itself.",
+     "sections": {
+      "Use it for": "- **Year 11 Disputes with the state** — time limits and finality in administrative law; a court reviewing a tribunal's visa decision.",
+      "Caution": "Year 11 only; an extension-of-time decision, not a ruling on the visa itself."
+     },
+     "path": "evidence/cases/abideen-v-minister-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "ace-v-boulas-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Ace v Boulas [2026] NSWSC 1436 — a secretly recorded phone call is excluded in a family will dispute",
+     "short": "Ace v Boulas",
+     "citation": "[2026] NSWSC 1436 (McGrath J, 6 November 2026)",
+     "date": "2026-11-06",
+     "added": "2026-11-12",
+     "significance": "In a dispute over a 103-year-old mother's will, a son tried to tender a call he had secretly recorded through CCTV. The recording breached the Surveillance Devices Act and was excluded under s 138.",
+     "topic": "disputes",
+     "also_topics": [],
+     "core": [
+      "dis.2.8",
+      "dis.2.5"
+     ],
+     "core_labels": [
+      "Key concepts of justice illustrated through a civil case",
+      "Procedures in NSW tribunals and civil courts, including alternative dispute resolution"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-ace-v-boulas-2026",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Ace v Boulas [2026] NSWSC 1436 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/16ZmIYg65Om1FCVUxOUi4DDRFTvYHQJ9m/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "In a dispute between siblings over their 103-year-old mother's 2023 will, the son tried to tender a translated transcript of part of a\nphone call he had secretly recorded through CCTV.\n\n| Question | Held |\n|---|---|\n| Was the recording made in breach of the law? | Yes — s 7(1)(a) of the *Surveillance Devices Act 2007* (NSW) |\n| Should it be admitted under s 138? | No — weighing the s 138 factors, the desirability of admitting it did not outweigh the undesirability of how it was obtained |\n\nSection 138 is not limited to evidence obtained by police (*Kadir v The Queen; Grech v The Queen*).",
+     "use_it_for": "- **Year 11 Disputes under the law** — fairness of what evidence is heard in a civil case (dis.2.8); civil procedure, tender and\n  objection (dis.2.5); the adversarial system (inv.4.3); privacy and technology.",
+     "caution": "Year 11 only; a mid-hearing evidence ruling, not the outcome of the will dispute.",
+     "sections": {
+      "Use it for": "- **Year 11 Disputes under the law** — fairness of what evidence is heard in a civil case (dis.2.8); civil procedure, tender and\n  objection (dis.2.5); the adversarial system (inv.4.3); privacy and technology.",
+      "Caution": "Year 11 only; a mid-hearing evidence ruling, not the outcome of the will dispute."
+     },
+     "path": "evidence/cases/ace-v-boulas-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "chowdhury-v-minister-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Chowdhury v Minister for Immigration and Citizenship [2026] FCA 1687 — a binary visa criterion leaves no room for hardship",
+     "short": "Chowdhury v Minister",
+     "citation": "[2026] FCA 1687 (Perry J, 9 November 2026)",
+     "date": "2026-11-09",
+     "added": "2026-11-12",
+     "significance": "A student was refused a visa because he was not enrolled in a course at decision time. The criterion is binary, so real hardship from COVID-19, finances and depression was legally irrelevant.",
+     "topic": "disputes",
+     "also_topics": [],
+     "core": [
+      "dis.3.1",
+      "dis.3.4"
+     ],
+     "core_labels": [
+      "The purpose and characteristics of administrative law",
+      "Addressing disputes through government reviews, courts and tribunals"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-chowdhury-v-minister-2026",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Chowdhury v Minister for Immigration and Citizenship [2026] FCA 1687 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1W6IvRNQ1jSt9yOPE8tW5fnPEPzeLZgBr/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "The Tribunal refused a Subclass 500 (student) visa because the applicant was not enrolled in a course when it decided.\n\n| Ground | Held |\n|---|---|\n| Should hardship have been weighed? | No — cl 500.211(a) is a **binary criterion of fact** with no discretion |\n| New procedural fairness grounds | No merit |\n| Result | All grounds failed; **$4,500** costs |",
+     "use_it_for": "- **Year 11** — delegated legislation (the *Migration Regulations*, inv.3.4) and the limits of a decision-maker's power (dis.3.1).\n- **Justice** — law applied as written, even where hardship is real.",
+     "caution": "Year 11 only.",
+     "sections": {
+      "Use it for": "- **Year 11** — delegated legislation (the *Migration Regulations*, inv.3.4) and the limits of a decision-maker's power (dis.3.1).\n- **Justice** — law applied as written, even where hardship is real.",
+      "Caution": "Year 11 only."
+     },
+     "path": "evidence/cases/chowdhury-v-minister-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "hatewar-v-minister-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Hatewar v Minister for Immigration and Citizenship [2026] HCA 45 — a s 501 visa refusal survives High Court review",
+     "short": "Hatewar v Minister",
+     "citation": "[2026] HCA 45 (Gageler CJ and Jagot J, 11 November 2026, on the papers)",
+     "date": "2026-11-11",
+     "added": "2026-11-12",
+     "significance": "A man convicted of offences against family members sought writs against a refusal of a return visa. Without a hearing, the Court rejected all four grounds — judicial review tests legality, not merits.",
+     "topic": "disputes",
+     "also_topics": [],
+     "core": [
+      "dis.3.4",
+      "dis.3.1"
+     ],
+     "core_labels": [
+      "Addressing disputes through government reviews, courts and tribunals",
+      "The purpose and characteristics of administrative law"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-hatewar-v-minister-2026",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Hatewar v Minister for Immigration and Citizenship [2026] HCA 45 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1cpEt7BNQbcDHf6wzhTeYj-mVUpBtQdiy/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "Outside Australia since 2022, the applicant challenged a delegate's May 2026 refusal of a return visa under **s 501** (character),\narguing the delegate misread **Direction 110**, acted illogically and ignored medical evidence.\n\n| Ground | Held |\n|---|---|\n| Misreading Direction 110 | Rejected — a delegate must apply a binding direction, and did |\n| Illogicality | Rejected |\n| Ignoring medical evidence | Rejected |\n| Fourth ground | Rejected |\n\nApplication **dismissed with costs**, decided on the papers.",
+     "use_it_for": "- **Year 11 Disputes with the state** — judicial review in the High Court (dis.3.4); administrative law and binding directions\n  (dis.3.1); the rule of law (inv.1.7).",
+     "caution": "Year 11 only. Judicial review decides legality, not whether the decision was right. The file's paragraph numbering is irregular.",
+     "sections": {
+      "Use it for": "- **Year 11 Disputes with the state** — judicial review in the High Court (dis.3.4); administrative law and binding directions\n  (dis.3.1); the rule of law (inv.1.7).",
+      "Caution": "Year 11 only. Judicial review decides legality, not whether the decision was right. The file's paragraph numbering is irregular."
+     },
+     "path": "evidence/cases/hatewar-v-minister-2026.md",
+     "in_site_build": true
+    }
+   ]
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,1497 @@
+{
+ "generated": "2026-11-11T08:14:13",
+ "today": "2026-11-11",
+ "window_start": "2026-11-09",
+ "basis": "the last digest (2026-11-10 08:40), looking back a day",
+ "site_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
+ "counts": {
+  "new": 17,
+  "updated": 14
+ },
+ "groups": [
+  {
+   "key": "crime",
+   "label": "Crime",
+   "part": "HSC Core Part I",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "casula-school-stabbing-youth-charge-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Boy, 16, charged after alleged stabbing outside Casula High School (SMH, 9 November 2026)",
+     "short": "Casula school stabbing youth charge",
+     "citation": "Evidence summary of Jack Gramenz, The Sydney Morning Herald, 9 November 2026; Crimes Act 1900 (NSW) ss 33(1), 35, 93IB; Bail Act 2013 (NSW); Children (Criminal Proceedings) Act 1987 (NSW) s 15A; Young Offenders Act 1997 (NSW)",
+     "date": "2026-11-09",
+     "added": "2026-11-11",
+     "significance": "A child accused of seriously wounding another child shows how NSW treats young accused: the presumption of innocence, bail, committal from the Children's Court and the ban on naming children.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.5.3",
+      "crime.2.5"
+     ],
+     "core_labels": [
+      "Children's Court — procedures and operation",
+      "Bail or remand"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-casula-school-stabbing-youth-charge-2026",
+     "document": "Crime/Media/Crime - Casula School Stabbing Youth Charge Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1ygecjUZRsbk7K8fUhENhu1YcsopIr9w4/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A 15-year-old was allegedly stabbed outside Casula High School at about 8.30am on Monday 9 November; teachers and tradies\ntried to intervene. A 16-year-old was arrested and charged at Liverpool Police Station with **wounding with intent to cause\ngrievous bodily harm** (s 33(1), maximum 25 years); police refused bail. He has not been convicted.",
+     "use_it_for": "- **crime.5.3 / crime.2.5** — the Children's Court's limited jurisdiction for serious charges; bail for young people.\n- **Crime prevention** — whether knife laws prevent harm (crime.1.9).",
+     "caution": "An **early news report** based on police and the department; later court outcomes were not checked.",
+     "sections": {
+      "What the law says v the case so far": "| | Law | Case (10 November 2026) |\n|---|---|---|\n| Charge | s 33(1); a jury may convict of the lesser s 35 offence if intent is unproven | Charged; no plea; motive not established |\n| Bail | Show cause does not apply to under-18s; unacceptable risk test | Police refused bail; court outcome not found |\n| Court | Children's Court cannot finalise a serious children's indictable offence — committal only | Listed Tuesday 10 November |\n| Diversion | YOA covers only offences that can be dealt with summarily | Warning, caution or conference unavailable |\n| Knife | s 93IB: custody of a knife at a school, 4 years | Knife found nearby but not linked; no knife charge |\n| Identity | s 15A bans identifyi…",
+      "Use it for": "- **crime.5.3 / crime.2.5** — the Children's Court's limited jurisdiction for serious charges; bail for young people.\n- **Crime prevention** — whether knife laws prevent harm (crime.1.9).",
+      "Caution": "An **early news report** based on police and the department; later court outcomes were not checked."
+     },
+     "path": "evidence/media/casula-school-stabbing-youth-charge-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "tasmania-nazi-salute-jail-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Hobart man jailed for Nazi salutes at police and in court (ABC, 10 November 2026)",
+     "short": "Tasmanian Nazi salute jail",
+     "citation": "Evidence summary of ABC News (Tasmania), 10 November 2026 (Hobart Magistrates Court, Magistrate Catherine Geason); Police Offences Act 1935 (Tas) s 6D; Criminal Code (Cth) s 80.2H and carriage service threat offences; Crimes Act 1900 (NSW) s 93ZA",
+     "date": "2026-11-10",
+     "added": "2026-11-11",
+     "significance": "Reportedly Tasmania's first jail term for a Nazi salute: two months under a state law with full sentencing discretion, compared with the Commonwealth's 12-month mandatory minimum.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.2",
+      "crime.4.6"
+     ],
+     "core_labels": [
+      "The purposes of punishment",
+      "Types of penalties"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-tasmania-nazi-salute-jail-2026",
+     "document": "Crime/Media/Crime - Tasmanian Nazi Salute Jail Sentence Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1uWG5yEByVIxHWyT4qb64owkCztX-QYkJ/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-10/man-jailed-for-performing-nazi-salute-during-court-hearing/107369608",
+     "lead": "**Cameron John Matthews**, 43, allegedly called police \"skinheads\" and gave Nazi salutes in Liverpool St, Hobart, about midnight\non 23 August 2026; next day, by video link, he swore at the magistrate and saluted **three** times. He was sentenced to **two\nmonths** for the Nazi gesture offence (backdated to October), plus two Commonwealth counts of using a carriage service to threaten\nto kill. The magistrate cited personal and general deterrence.",
+     "use_it_for": "- **crime.4.2 / crime.4.6** — deterrence and denunciation through a short prison term for a summary offence.\n- **Discretion** — compare the state magistrate's discretion with the Commonwealth's mandatory minimum.",
+     "caution": "A **short court report** relying on the magistrate's remarks; no defence or prosecution comment.",
+     "sections": {
+      "Tasmania v the Commonwealth": "| | Tasmania: Police Offences Act s 6D | Commonwealth: Criminal Code s 80.2H |\n|---|---|---|\n| In force | 30 November 2023 | Salute ban from 8 January 2024 |\n| Conduct | Nazi gesture in or visible from a public place | Public Nazi salute or display of prohibited symbols |\n| Maximum | 20 penalty units or 3 months (doubled for a repeat within six months) | 5 years after 2025 amendments |\n| Minimum | None — full discretion | **12 months** mandatory |\n| Defences | Genuine academic, artistic, religious, educational, legal or law enforcement purpose | Not checked |\n\nNSW's s 93ZA Nazi symbol offence carries up to 12 months.",
+      "Use it for": "- **crime.4.2 / crime.4.6** — deterrence and denunciation through a short prison term for a summary offence.\n- **Discretion** — compare the state magistrate's discretion with the Commonwealth's mandatory minimum.",
+      "Caution": "A **short court report** relying on the magistrate's remarks; no defence or prosecution comment."
+     },
+     "path": "evidence/media/tasmania-nazi-salute-jail-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "frontier-ai-regulator-criminal-law-reform-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "New AI safety regulator proposed as criminal law reform is considered (The Conversation, 10 November 2026)",
+     "short": "Frontier AI regulator and criminal law",
+     "citation": "Evidence summary of Michelle Grattan, The Conversation, 10 November 2026, on the government's response to the rapid review of the OpenAI cyber incident; Criminal Code (Cth) ss 12.3, 70.5A, 478.1; Cyber Security Act 2024 (Cth) Pt 3",
+     "date": "2026-11-10",
+     "added": "2026-11-11",
+     "significance": "An overseas AI agent accessed Australian government data, yet no offence appears to have been committed. A proposed AI regulator and a possible \"failure to prevent\" offence show criminal law chasing technology.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.1.7",
+      "crime.6.2"
+     ],
+     "core_labels": [
+      "Parties to a crime",
+      "Dealing with international crime"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-frontier-ai-regulator-criminal-law-reform-2026",
+     "document": "Crime/Media/Crime - Frontier AI Safety Regulator and Criminal Law Reform Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1oVNhjF5fuQlmC0F38JTU0PLeY7uxIQo_/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "An OpenAI agent accessed Services Australia on 18 June 2026; OpenAI emailed government on 10 September (84 days later), and\nagents had accessed **four** agency websites. The government accepted all **18** recommendations of a PM&C rapid review and\nproposed a frontier AI safety regulator with **six** mandatory requirements. The AFP did not investigate: no formal report of a\ncrime was made.",
+     "use_it_for": "- **crime.1.7 / crime.6.2** — corporate criminal responsibility and transnational harm.\n- **Law reform** — law responding to technological change (chg.1.3).",
+     "caution": "A **short political report** of a government announcement; no opposition, industry or expert reaction.",
+     "sections": {
+      "Current law v the proposal": "| | Now | Proposed (10 November 2026) |\n|---|---|---|\n| Computer offences | s 478.1: knowing, intentional unauthorised access to restricted data (max 2 years) | A possible offence where a company's AI model causes harm |\n| Corporate fault | s 12.3: board, high managerial agent or corporate culture | A possible **failure to prevent** offence (model: foreign bribery, s 70.5A, 2024) |\n| Incident reporting | No AI-specific duty | Mandatory, time-bound reporting of misaligned behaviour and agentic cyber incidents |\n| Oversight | AI Safety Institute monitors; guardrails shelved for voluntary guidance (December 2025) | A regulator with significant penalties; independent model evaluation |\n\nNone of …",
+      "Use it for": "- **crime.1.7 / crime.6.2** — corporate criminal responsibility and transnational harm.\n- **Law reform** — law responding to technological change (chg.1.3).",
+      "Caution": "A **short political report** of a government announcement; no opposition, industry or expert reaction."
+     },
+     "path": "evidence/media/frontier-ai-regulator-criminal-law-reform-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "r-v-binge-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "R v Binge [2026] NSWDC 409 — a knife attack inside a prison cell, childhood trauma and deterrence",
+     "short": "R v Binge",
+     "citation": "[2026] NSWDC 409 (Newlinds SC DCJ, 6 November 2026)",
+     "date": "2026-11-06",
+     "added": "2026-11-11",
+     "significance": "An inmate who joined a group knife attack in a cell had his moral culpability substantially reduced by childhood trauma (Bugmy), but deterrence for prison violence still produced 5 years 9 months.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.3",
+      "crime.4.2"
+     ],
+     "core_labels": [
+      "Factors affecting a sentencing decision",
+      "The purposes of punishment"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-binge-2026",
+     "document": "Cases/Crime/R v Binge [2026] NSWDC 409 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1CXHQA0WVw-VBSEfU4P7h6pZdtBgaUN-3/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - R v Binge [2026] NSWDC 409 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1hXWDDtSuPYQCp_-2jRvLfzE1XL9eBOGd/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "**Kohen Binge**, 22, joined a group attack on an inmate in his cell and wounded him with a home-made knife. He pleaded guilty\nearly to **reckless wounding in company** (s 35(3), maximum 10 years; standard non-parole period 4 years).",
+     "use_it_for": "- **crime.4.3** — aggravating and mitigating factors weighed in an instinctive synthesis; the SNPP as a guidepost (*Muldrock*).\n- **crime.4.8** — violence in custody and the limits of rehabilitation inside prison.",
+     "caution": "The offender is an adult and named (no restriction). The co-offender's sentence date (21 October 2025) conflicts with a 2026\ncitation.",
+     "sections": {
+      "The questions": "| Issue | Held |\n|---|---|\n| Objective seriousness | Well above midrange |\n| Moral culpability | Substantially reduced by childhood deprivation and trauma — *Bugmy* applies even without a causal link |\n| Does reduced culpability mean a lower sentence? | Not automatically (*Harris*); deterrence carries weight for violence in prison (*Jeremiah*) |\n| Presumption against concurrency for a convicted inmate (s 56) | Held not to apply |\n\n**Sentence**: 5 years 9 months (after a 25% plea discount) from 12 July 2026 to 11 April 2032; parole eligibility after 3 years\n2 months (11 September 2029).",
+      "Use it for": "- **crime.4.3** — aggravating and mitigating factors weighed in an instinctive synthesis; the SNPP as a guidepost (*Muldrock*).\n- **crime.4.8** — violence in custody and the limits of rehabilitation inside prison.",
+      "Caution": "The offender is an adult and named (no restriction). The co-offender's sentence date (21 October 2025) conflicts with a 2026\ncitation."
+     },
+     "path": "evidence/cases/r-v-binge-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "r-v-dl-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "R v DL [2026] NSWDC 406 — totality and an aggregate sentence after a retrial for child sexual offences",
+     "short": "R v DL",
+     "citation": "[2026] NSWDC 406 (Anderson SC DCJ, 8 October 2026)",
+     "date": "2026-10-08",
+     "added": "2026-11-11",
+     "significance": "After a retrial, a man was sentenced for five child sexual offences on top of an existing 8 years. Totality shaped an aggregate 9 years, with no plea discount but 2.5% for an efficient trial.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.3",
+      "crime.4.1"
+     ],
+     "core_labels": [
+      "Factors affecting a sentencing decision",
+      "Statutory and judicial guidelines"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-dl-2026",
+     "document": "Cases/Crime/R v DL [2026] NSWDC 406 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1hLwIkwMIO_Mro4GPKLj1igLdW_KwXwm2/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - R v DL [2026] NSWDC 406 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1C8bqPPoWrsYMF1AAUenkVsD6QqQ4nG-W/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A first jury convicted DL of two counts, for which another judge imposed **8 years**; on other counts the jury could not agree.\nAfter a **retrial**, a second jury found him guilty of **five** child sexual offences, including maintaining an unlawful sexual\nrelationship with a child (s 66EA — the judge need not identify each act).",
+     "use_it_for": "- **crime.4.3 / crime.4.1** — aggravating and mitigating factors, s 22A, aggregate sentencing and totality.\n- **crime.3.9** — a hung jury on some counts and a retrial.",
+     "caution": "DL is identified by initials only, and no detail of the acts is given. Count 6 is labelled two ways, and an 8-year sentence is\nsaid to start before the verdict date; neither is resolved in the judgment.",
+     "sections": {
+      "How the sentence was built": "| Factor | Finding |\n|---|---|\n| Aggravating | Breach of trust; harm to the victims (s 3A) |\n| Mitigating | Good character; low risk of reoffending |\n| Plea | None — no discount, no remorse |\n| Facilitating justice (s 22A) | **2.5%** for an efficient trial |\n| Totality | Indicative sentences of 12 months to 7 years combined into one aggregate |\n\n**Sentence**: aggregate **9 years**, non-parole **4 years 6 months**, starting **29 October 2028** (after the earlier sentence);\nnon-parole ends 28 April 2033, sentence ends 28 October 2037. A registrable person order with a 15-year reporting period.",
+      "Use it for": "- **crime.4.3 / crime.4.1** — aggravating and mitigating factors, s 22A, aggregate sentencing and totality.\n- **crime.3.9** — a hung jury on some counts and a retrial.",
+      "Caution": "DL is identified by initials only, and no detail of the acts is given. Count 6 is labelled two ways, and an 8-year sentence is\nsaid to start before the verdict date; neither is resolved in the judgment."
+     },
+     "path": "evidence/cases/r-v-dl-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "bail-act-2013",
+     "status": "updated",
+     "type": "legislation",
+     "type_label": "Legislation",
+     "title": "Bail Act 2013 (NSW) — and a decade of reform (2014–2026)",
+     "short": "Bail Act 2013 (NSW)",
+     "citation": "Bail Act 2013 (NSW) ss 16A, 17–18, 22C, 28; Bail Amendment Act 2014; Bail Amendment Act 2015 (No 44); Bail and Crimes Amendment Act 2024; Bail and Other Legislation Amendment (Domestic Violence) Act 2024",
+     "date": "2026",
+     "added": "2026-10-20",
+     "significance": "Each bail reform has followed a case that outraged the public, and each has made bail harder to get.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.5"
+     ],
+     "core_labels": [
+      "Bail or remand"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-bail-act-2013",
+     "document": "Crime/Bail or Remand & the presumption of innocence.pdf",
+     "document_url": "https://drive.google.com/file/d/1msh7EefwkJq5I-rXUDcrmOOUfJTqgopf/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2013-026",
+     "lead": "",
+     "use_it_for": "",
+     "caution": "The earlier version of this record named a \"Lloyd Fesus\": the accused is **Steven (Steve) Fesus**. Fesus was later convicted of murder (22 years); teach his bail as a decision lawful when made. Hawi's decision has no verified neutral citation.",
+     "sections": {
+      "How a decision is made": "1. **Show cause** offence? The accused must show why detention is not justified (s 16A).\n2. **Unacceptable risk** test (s 17): failing to appear, committing a serious offence, endangering safety, interfering with witnesses (factors in s 18).\n3. Can **conditions** manage the risk? Including accommodation requirements, residential rehabilitation (s 28).",
+      "Reform timeline": "| Year | Reform | Trigger |\n|---|---|---|\n| 2013 | Bail Act 2013 replaces the 1978 Act (commenced 20 May 2014) | NSW Law Reform Commission Report 133 (2012): a complex Act amended 80+ times, remand numbers up threefold |\n| 2014 | Bail Amendment Act 2014: show cause (in force 28 Jan 2015) | Bail granted to Steven Fesus (16 June) and Mahmoud Hawi (23 June) a month after the new Act began; Hatzistergos review |\n| 2015 | Bail Amendment Act 2015 (No 44): terrorism links considered; exceptional circumstances for some terrorism-related accused | Lindt Café siege (Dec 2014); Martin Place siege review |\n| Apr 2024 | Bail and Crimes Amendment Act: **s 22C** — 14–17-year-olds charged with serious break…",
+      "Why the 1978 Act was replaced (2012-2014)": "The Bail Act 1978 had been amended by **more than 80 Acts**; presumptions for, against or none applied by offence; and remand numbers had **more than trebled in 15 years**. The Law Reform Commission (Report 133, April 2012) recommended a simpler 'justification' model with a presumption in favour of release; Parliament chose a single **unacceptable risk** test with no offence-based presumptions and not the presumption. See [NSWLRC Report 133](nswlrc-report-133-bail-2012).",
+      "Hawi, Fesus and the 2014 amendments": "- **R v Fesus** [2014] NSWSC 770 (Adams J, 16 June 2014): refused bail under the 1978 Act, Steven Fesus (charged with murdering his wife, Jodie) was released after new forensic evidence allowed a fresh application (s 74). See [R v Fesus](r-v-fesus-2014).\n- **R v Hawi** (Harrison J, 23 June 2014): bail pending a retrial for murder, with a $700,000 surety and daily reporting. See [R v Hawi](r-v-hawi-2014).\n- The Premier ordered a review (John Hatzistergos) about a month after the Act began. The **Bail Amendment Act 2014** (second reading 13 August 2014; in force 28 January 2015) introduced **show cause** (s 16A, offences in s 16B), made the risk test a single stage, added criminal associations…",
+      "The Lindt siege and the 2015 amendments": "Monis was on bail when he took hostages on 15 December 2014. The Coroner (24 May 2017) found police and prosecution errors in how his bail was handled; Nicholas Cowdery argued the case was too aberrant to justify tougher law. The Bail Amendment Act 2015 (No 44) nevertheless required bail authorities to consider terrorism links. See [the inquest findings](lindt-siege-inquest-findings-2017).",
+      "Caution": "The earlier version of this record named a \"Lloyd Fesus\": the accused is **Steven (Steve) Fesus**. Fesus was later convicted of murder (22 years); teach his bail as a decision lawful when made. Hawi's decision has no verified neutral citation.",
+      "s 22C extended (September 2026)": "The statutory review (tabled 15 September 2026) found s 22C helped stabilise youth crime in regional NSW and recommended extending it. The Justice Legislation Amendment (Miscellaneous) Bill (No 2) 2026, introduced 15 September and passed **24 September 2026**, extended s 22C to **4 April 2028** (it was due to lapse on 1 October 2026). The government paired it with an $8.4m Tamworth diversion pilot for 8–13-year-olds (AAP, 15 Sept 2026). Critics, including the ALS, point to remand rising and Aboriginal young people making up most refusals."
+     },
+     "path": "evidence/legislation/bail-act-2013.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "5515d56",
+        "subject": "Stamps and rebuild for the bail-history evidence records"
+       },
+       {
+        "sha": "40b16ec",
+        "subject": "Evidence: bail law reform history (NSWLRC 133, Fesus, Hawi, Lindt inquest); fix Fesus name"
+       }
+      ],
+      "latest_sha": "5515d56",
+      "added_text": "citation: Bail Act 2013 (NSW) ss 16A, 17–18, 22C, 28; Bail Amendment Act 2014; Bail Amendment Act 2015 (No 44); Bail and Crimes Amendment Act 2024; Bail and Other Legislation Amendment (Domestic Violence) Act 2024\nrelated: nswlrc-report-133-bail-2012, r-v-fesus-2014, r-v-hawi-2014, lindt-siege-inquest-findings-2017\nupdated_at: 2026-11-10 12:04\n| 2013 | Bail Act 2013 replaces the 1978 Act (commenced 20 May 2014) | NSW Law Reform Commission Report 133 (2012): a complex Act amended 80+ times, remand numbers up threefold |\n| 2014 | Bail Amendment Act 2014: show cause (in force 28 Jan 2015) | Bail granted to Steven Fesus (16 June) and Mahmoud Hawi (23 June) a month after the new Act began; Hatzistergos review |\n| 2015 | Bail Amendment Act 2015 (No 44): terrorism links considered; exceptional circumstances for some terrorism-related accused | Lindt Café siege (Dec 2014); Martin Place siege review |\n## Why the 1978 Act was replaced (2012-2014)\n\nThe Bail Act 1978 had been amended by **more than 80 Acts**; presumptions for, against or none applied by offence; and remand numbers had **more than trebled in 15 years**. The Law Reform Commission (Report 133, April 2012) recommended a simpler 'justification' model with a presumption in favour of release; Parliament chose a single **unacceptable risk** test with no offence-based presumptions and not the presumption. See [NSWLRC Report 133](nswlrc-report-133-bail-2012).\n\n## Hawi, Fesus and the 2014 amendments\n\n- **R v Fesus** [2014] NSWSC 77…",
+      "removed_lines": 5,
+      "added_lines": 21
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "nswlrc-report-133-bail-2012",
+     "status": "updated",
+     "type": "report",
+     "type_label": "Report & statistics",
+     "title": "NSW Law Reform Commission, Report 133: Bail (April 2012)",
+     "short": "NSWLRC Report 133 (Bail)",
+     "citation": "NSW Law Reform Commission, Report 133 (2012)",
+     "date": "2012-04",
+     "added": "2026-10-29",
+     "significance": "The Commission found the Bail Act 1978 complex and restrictive, with remand numbers more than trebled in 15 years, and recommended a new Act built on a presumption in favour of release.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.5"
+     ],
+     "core_labels": [
+      "Bail or remand"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nswlrc-report-133-bail-2012",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.parliament.nsw.gov.au/tp/files/47069/r133.pdf",
+     "lead": "The Attorney General referred bail law to the Commission on **8 June 2011**. The Commission received 40 submissions, held 19 consultation meetings and reported in **April 2012**, concluding that a new, simplified Bail Act was required (para 0.1).",
+     "use_it_for": "- **Law reform** done by the book: a documented problem, a reference to a law reform body, consultation, a report, then legislation. Contrast it with the 2014 and 2015 amendments, which followed individual cases.\n- **PEARR JAM:** responsiveness (reform responding to evidence), protection of individual rights (the presumption in favour of release), and justice achieved.",
+     "caution": "Quoted from the executive summary and recommendations; the full report is several hundred pages. Check paragraph numbers before quoting in an answer.",
+     "sections": {
+      "What it found about the Bail Act 1978": "- **Complexity.** Amendments had made the Act \"difficult to comprehend and operate, even for those with legal expertise\" (para 0.9) and NSW had \"one of the most convoluted and restrictive bail statutes in Australia\" (para 0.10).\n- **Offence-based presumptions.** Amendments had removed the presumption in favour of bail for some offences, introduced a presumption against it for others and required \"exceptional circumstances\" for others again (para 0.10).\n- **Remand.** The tightening cut failures to appear but at a significant cost in remand numbers; there was no evidence it reduced crime or offending on bail (para 0.11). Remand prisoner numbers had **more than trebled in 15 years** and the rat…",
+      "What it recommended": "- A new Act in plain English.\n- A **'justification' model** (a person is released unless detention is justified by five mandatory considerations) rather than the Victorian 'unacceptable risk' model (para 0.32; Rec 10.1, 10.2).\n- A **uniform presumption in favour of release**, except on appeal (para 0.27; Rec 8.1).\n- Two repeat applications for adults before the bar applies (Rec 19.1).",
+      "What Parliament did": "The Attorney General, Greg Smith, introduced the Bail Bill on **1 May 2013**: the 1978 Act had been amended by more than 80 other Acts; presumptions applied by offence and \"may not reflect the actual seriousness of the alleged offending\"; the \"key feature\" was \"a simple unacceptable-risk test\". The Bail Act 2013 commenced on **20 May 2014**. Parliament took the call for a simpler Act but not the 'justification' model or the presumption in favour of release.",
+      "Use it for": "- **Law reform** done by the book: a documented problem, a reference to a law reform body, consultation, a report, then legislation. Contrast it with the 2014 and 2015 amendments, which followed individual cases.\n- **PEARR JAM:** responsiveness (reform responding to evidence), protection of individual rights (the presumption in favour of release), and justice achieved.",
+      "Caution": "Quoted from the executive summary and recommendations; the full report is several hundred pages. Check paragraph numbers before quoting in an answer."
+     },
+     "path": "evidence/reports/nswlrc-report-133-bail-2012.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "5515d56",
+        "subject": "Stamps and rebuild for the bail-history evidence records"
+       }
+      ],
+      "latest_sha": "5515d56",
+      "added_text": "---\ntype: report\ntitle: NSW Law Reform Commission, Report 133: Bail (April 2012)\nshort: NSWLRC Report 133 (Bail)\ncitation: NSW Law Reform Commission, Report 133 (2012)\ndate: 2012-04\njurisdiction: NSW\nsignificance: The Commission found the Bail Act 1978 complex and restrictive, with remand numbers more than trebled in 15 years, and recommended a new Act built on a presumption in favour of release.\ncore: crime.2.5\nthemes: crime.t.reform, crime.t.balance, crime.t.effectiveness\ncriteria: responsiveness, rights, justice, ruleoflaw\nsource: https://www.parliament.nsw.gov.au/tp/files/47069/r133.pdf\nrelated: bail-act-2013, r-v-fesus-2014, lindt-siege-inquest-findings-2017\nadded: 2026-10-29\nadded_at: 2026-11-10 12:04\nupdated_at: 2026-11-10 12:04\n---\n\nThe Attorney General referred bail law to the Commission on **8 June 2011**. The Commission received 40 submissions, held 19 consultation meetings and reported in **April 2012**, concluding that a new, simplified Bail Act was required (para 0.1).\n\n## What it found about the Bail Act 1978\n\n- **Complexity.** Amendments had made the Act \"difficult to comprehend and operate, even for those with legal expertise\" (para 0.9) and NSW had \"one of the most convoluted and restrictive bail statutes in Australia\" (para 0.10).\n- **Offence-based presumptions.** Amendments had removed the presumption in favour of bail for some offences, introduced a presumption against it for others and required \"exceptional circumstances\" for others again (para 0.10).\n- …",
+      "removed_lines": 0,
+      "added_lines": 46
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "r-v-fesus-2014",
+     "status": "updated",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "R v Fesus [2014] NSWSC 770",
+     "short": "R v Fesus",
+     "citation": "[2014] NSWSC 770",
+     "date": "2014-06",
+     "added": "2026-10-29",
+     "significance": "Refused bail under the 1978 Act, a murder accused was released under the 2013 Act after new evidence allowed a fresh application; the reaction helped trigger the 2014 'show cause' amendments.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.5"
+     ],
+     "core_labels": [
+      "Bail or remand"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-fesus-2014",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.illawarramercury.com.au/story/2355609/accused-wife-killer-steve-fesus-granted-bail/",
+     "lead": "**Steven (Steve) Fesus** was charged in July 2013 with murdering his wife, Jodie, who went missing from their Shellharbour home in 1997; her remains were found about five weeks later in a shallow grave near Gerroa.",
+     "use_it_for": "- **Responsiveness and law reform:** a decision made correctly under a new law, followed by rapid amendment.\n- **Balancing rights:** the presumption of innocence against community concern.",
+     "caution": "- Fesus was later **convicted of murder** at a third trial (reports give October 2017 or February 2018) and sentenced to 22 years, non-parole 16 years 6 months (Johnson J). Teach it as a decision that was lawful when made, not as proof the law was wrong or right.\n- One secondary source dates the killing to 2007; the Illawarra Mercury and Goulburn Post say 1997.\n- The date of the judgment itself was not checked against the judgment text; the 16 June 2014 date is the Illawarra Mercury's report of the bail decision.",
+     "sections": {
+      "Held": "- On **16 June 2014** Adams J granted bail in the Supreme Court, after a two-hour application (Illawarra Mercury, 16 June 2014). Conditions included reporting to Wollongong police twice daily and not approaching prosecution witnesses.\n- He had been refused bail earlier under the **Bail Act 1978**, where murder required exceptional circumstances (s 9C): two earlier Supreme Court applications, which the Daily Telegraph reported as \"three prior refusals\".\n- Under the **Bail Act 2013** (commenced 20 May 2014) there is no offence-based presumption. New forensic evidence about the cause of death satisfied **s 74** (repeat applications), which Adams J said has a low threshold, so the application wa…",
+      "The reaction": "The Telegraph headline, \"New laws allow accused wife killer Steven Fesus to be released after three prior refusals\", is the media half of the reform cycle. About a month after the Act began, Premier Mike Baird ordered a review by John Hatzistergos, and the **Bail Amendment Act 2014** (show cause, in force 28 January 2015) followed. The Attorney General said that \"a number of bail decisions made under the new Act have caused concerns in the community\" (13 August 2014).",
+      "Use it for": "- **Responsiveness and law reform:** a decision made correctly under a new law, followed by rapid amendment.\n- **Balancing rights:** the presumption of innocence against community concern.",
+      "Caution": "- Fesus was later **convicted of murder** at a third trial (reports give October 2017 or February 2018) and sentenced to 22 years, non-parole 16 years 6 months (Johnson J). Teach it as a decision that was lawful when made, not as proof the law was wrong or right.\n- One secondary source dates the killing to 2007; the Illawarra Mercury and Goulburn Post say 1997.\n- The date of the judgment itself was not checked against the judgment text; the 16 June 2014 date is the Illawarra Mercury's report of the bail decision."
+     },
+     "path": "evidence/cases/r-v-fesus-2014.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "5515d56",
+        "subject": "Stamps and rebuild for the bail-history evidence records"
+       }
+      ],
+      "latest_sha": "5515d56",
+      "added_text": "---\ntype: case\ntitle: R v Fesus [2014] NSWSC 770\nshort: R v Fesus\ncitation: \"[2014] NSWSC 770\"\ndate: 2014-06\njurisdiction: Supreme Court of New South Wales (Adams J)\nsignificance: Refused bail under the 1978 Act, a murder accused was released under the 2013 Act after new evidence allowed a fresh application; the reaction helped trigger the 2014 'show cause' amendments.\ncore: crime.2.5\nthemes: crime.t.reform, crime.t.balance, crime.t.discretion\ncriteria: responsiveness, rights, society, justice\nsource: https://www.illawarramercury.com.au/story/2355609/accused-wife-killer-steve-fesus-granted-bail/\nrelated: bail-act-2013, r-v-hawi-2014, nswlrc-report-133-bail-2012, lindt-siege-inquest-findings-2017\nadded: 2026-10-29\nadded_at: 2026-11-10 12:04\nupdated_at: 2026-11-10 12:04\n---\n\n**Steven (Steve) Fesus** was charged in July 2013 with murdering his wife, Jodie, who went missing from their Shellharbour home in 1997; her remains were found about five weeks later in a shallow grave near Gerroa.\n\n## Held\n\n- On **16 June 2014** Adams J granted bail in the Supreme Court, after a two-hour application (Illawarra Mercury, 16 June 2014). Conditions included reporting to Wollongong police twice daily and not approaching prosecution witnesses.\n- He had been refused bail earlier under the **Bail Act 1978**, where murder required exceptional circumstances (s 9C): two earlier Supreme Court applications, which the Daily Telegraph reported as \"three prior refusals\".\n- Under the **Bail Act 2013** (com…",
+      "removed_lines": 0,
+      "added_lines": 41
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "r-v-hawi-2014",
+     "status": "updated",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "R v Hawi (Supreme Court of NSW, 23 June 2014): bail pending a retrial for murder",
+     "short": "R v Hawi (2014)",
+     "citation": "Unreported (NSWSC, Harrison J, 23 June 2014)",
+     "date": "2014-06-23",
+     "added": "2026-10-29",
+     "significance": "A man accused of murder, whose conviction had been sent for retrial, was granted bail under the 2013 Act with strict conditions; murder no longer carried a presumption against bail.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.5"
+     ],
+     "core_labels": [
+      "Bail or remand"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-hawi-2014",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2014-06-23/bikie-boss-mick-hawi-granted-bail-airport-brawl-murder-retrial/5544126",
+     "lead": "**Mahmoud ('Mick') Hawi**, a former president of the Comanchero Motorcycle Club's Sydney chapter, was convicted by a jury in 2011 of the murder of Anthony Zervas in the Sydney Airport brawl of 22 March 2009. He appealed and the Court of Criminal Appeal divided, so a retrial was ordered.",
+     "use_it_for": "- **Law reform:** conditions can manage risk (the unacceptable risk test), but publicity drove reform.\n- **Enforceability:** the conditions are detailed and enforceable; the surety is an incentive to comply.",
+     "caution": "No neutral citation was verified: cite the decision as reported by the ABC. The earlier Evidence Finder wording gave the year as 2014 only; the date and judge above come from the ABC report.",
+     "sections": {
+      "Held": "- On **23 June 2014** Harrison J granted bail (ABC News, 23 June 2014). Hawi's counsel applied under the new Act, which had commenced about a month earlier: **murder no longer carried a presumption against bail**.\n- Justice Harrison accepted that some unacceptable risks existed but could be **\"adequately mitigated by the imposition of appropriate conditions\"**.\n- Conditions: good behaviour; daily reporting to police; a curfew; no contact with Crown witnesses and listed people; no new passport; stay more than one kilometre from any airport or international departure point; a **$700,000 surety**.\n- The Crown opposed bail, citing his active membership of the Comanchero club and a risk to witnes…",
+      "What followed": "Hawi's bail and Fesus's a week earlier were two of the three high-profile decisions that preceded the Premier's review (Brown and Quilter, 2014). Hawi pleaded guilty to manslaughter on 4 September 2014 and was shot dead in 2018.",
+      "Use it for": "- **Law reform:** conditions can manage risk (the unacceptable risk test), but publicity drove reform.\n- **Enforceability:** the conditions are detailed and enforceable; the surety is an incentive to comply.",
+      "Caution": "No neutral citation was verified: cite the decision as reported by the ABC. The earlier Evidence Finder wording gave the year as 2014 only; the date and judge above come from the ABC report."
+     },
+     "path": "evidence/cases/r-v-hawi-2014.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "5515d56",
+        "subject": "Stamps and rebuild for the bail-history evidence records"
+       }
+      ],
+      "latest_sha": "5515d56",
+      "added_text": "---\ntype: case\ntitle: R v Hawi (Supreme Court of NSW, 23 June 2014): bail pending a retrial for murder\nshort: R v Hawi (2014)\ncitation: Unreported (NSWSC, Harrison J, 23 June 2014)\ndate: 2014-06-23\njurisdiction: Supreme Court of New South Wales (Harrison J)\nsignificance: A man accused of murder, whose conviction had been sent for retrial, was granted bail under the 2013 Act with strict conditions; murder no longer carried a presumption against bail.\ncore: crime.2.5\nthemes: crime.t.reform, crime.t.balance, crime.t.discretion\ncriteria: responsiveness, rights, society, enforceability\nsource: https://www.abc.net.au/news/2014-06-23/bikie-boss-mick-hawi-granted-bail-airport-brawl-murder-retrial/5544126\nrelated: bail-act-2013, r-v-fesus-2014, nswlrc-report-133-bail-2012\nadded: 2026-10-29\nadded_at: 2026-11-10 12:04\nupdated_at: 2026-11-10 12:04\n---\n\n**Mahmoud ('Mick') Hawi**, a former president of the Comanchero Motorcycle Club's Sydney chapter, was convicted by a jury in 2011 of the murder of Anthony Zervas in the Sydney Airport brawl of 22 March 2009. He appealed and the Court of Criminal Appeal divided, so a retrial was ordered.\n\n## Held\n\n- On **23 June 2014** Harrison J granted bail (ABC News, 23 June 2014). Hawi's counsel applied under the new Act, which had commenced about a month earlier: **murder no longer carried a presumption against bail**.\n- Justice Harrison accepted that some unacceptable risks existed but could be **\"adequately mitigated by the imposition of appropriate …",
+      "removed_lines": 0,
+      "added_lines": 39
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "lindt-siege-inquest-findings-2017",
+     "status": "updated",
+     "type": "report",
+     "type_label": "Report & statistics",
+     "title": "Sydney siege inquest: the Coroner's findings on Monis's bail (24 May 2017)",
+     "short": "Lindt siege inquest and Monis's bail (2017)",
+     "citation": "Inquest into the deaths arising from the Lindt Café siege, Findings and Recommendations (NSW State Coroner, 24 May 2017)",
+     "date": "2017-05-24",
+     "added": "2026-10-29",
+     "significance": "The inquest found that prosecutors and police mishandled Monis's bail, but a former DPP argued the siege was an aberrant case that gave no basis for tougher bail law.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.5"
+     ],
+     "core_labels": [
+      "Bail or remand"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lindt-siege-inquest-findings-2017",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://coroners.nsw.gov.au/documents/findings/2017/lindt_cafe_findings-and-recommendations.pdf",
+     "lead": "Man Haron Monis took hostages in the Lindt Chocolat Café, Martin Place, at about 9.41 am on **15 December 2014**; the siege ended about 2.13 am on **16 December**. Hostages Tori Johnson and Katrina Dawson and Monis died. He was on bail when it began.",
+     "use_it_for": "- **Responsiveness:** a single extreme event leading to law reform. Ask whether the reform targeted the law or its enforcement.\n- **Enforceability and accountability:** bail failed through application (prosecution and police decisions) as much as through the text of the Act.",
+     "caution": "- Read from the Conclusions section of the findings; the chapter on bail (Chapter 2) was not available in the extract, so the 26 May 2014 grant and the 14 April 2014 refusal follow SBS (5 June 2015). Sources disagree on some dates: check the findings before quoting a date in an exam.\n- Teach the deaths with care.",
+     "sections": {
+      "Bail chronology": "| Date | Event |\n|---|---|\n| 15 Nov 2013 | Charged as an accessory to the murder of his ex-wife |\n| 12 Dec 2013 | Granted bail (Bail Act 1978). The Coroner found the ODPP solicitor's oral submissions were \"inadequate\" and that he \"erroneously advised the court that Monis did not have to show 'exceptional circumstances'\" (para 16) |\n| 14 Apr 2014 | Arrested on three sexual assault charges; bail refused (SBS, 5 June 2015) |\n| 20 May 2014 | Bail Act 2013 commences |\n| 26 May 2014 | Granted bail on those charges, six days after the new Act began (SBS, 5 June 2015) |\n| Oct 2014 | 37 further sex offence charges brought by court attendance notice, not arrest; on 10 October the prosecutor did not op…",
+      "What the Coroner found (Conclusions, paras 14-31)": "- Police \"made a mistake\" in not arresting Monis in October 2014; that \"increased Monis' chances of being granted bail\" (para 23).\n- The prosecutor \"should have applied for Monis to be remanded in custody in relation to the sex offences\" (para 26) and did not oppose bail without consulting a senior officer; he had been in the office under two months and had never appeared in a bail application (para 30).\n- The senior police officer's decision not to ask the DPP to seek Supreme Court review of the murder-charge bail was reasonable (para 21).\n- Recommended that the DPP develop a policy for overseeing decisions not to oppose bail (para 31).",
+      "The argument that the law was not to blame": "Nicholas Cowdery, former DPP (UNSW / SMH, 18 December 2014): \"This atypical and aberrant case is certainly not a good basis for launching into yet more interference with the Bail Act.\" \"Mental disturbance is not a reason to imprison a person.\"",
+      "The reform response": "The joint Commonwealth-NSW Martin Place siege review recommended that bail authorities consider links with terrorist organisations or violent extremism. The **Bail Amendment Act 2015** (No 44; second reading by the Attorney General, Gabrielle Upton, on 20 October 2015) requires bail authorities to consider associations with a terrorist organisation and statements or activities advocating support for terrorism or violent extremism, and applies an 'exceptional circumstances' test to some terrorism-related accused. The Australian Lawyers Alliance warned of \"a very slippery slope towards authoritarianism\" (2015).",
+      "Use it for": "- **Responsiveness:** a single extreme event leading to law reform. Ask whether the reform targeted the law or its enforcement.\n- **Enforceability and accountability:** bail failed through application (prosecution and police decisions) as much as through the text of the Act.",
+      "Caution": "- Read from the Conclusions section of the findings; the chapter on bail (Chapter 2) was not available in the extract, so the 26 May 2014 grant and the 14 April 2014 refusal follow SBS (5 June 2015). Sources disagree on some dates: check the findings before quoting a date in an exam.\n- Teach the deaths with care."
+     },
+     "path": "evidence/reports/lindt-siege-inquest-findings-2017.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "5515d56",
+        "subject": "Stamps and rebuild for the bail-history evidence records"
+       }
+      ],
+      "latest_sha": "5515d56",
+      "added_text": "---\ntype: report\ntitle: \"Sydney siege inquest: the Coroner's findings on Monis's bail (24 May 2017)\"\nshort: Lindt siege inquest and Monis's bail (2017)\ncitation: Inquest into the deaths arising from the Lindt Café siege, Findings and Recommendations (NSW State Coroner, 24 May 2017)\ndate: 2017-05-24\njurisdiction: NSW Coroners Court (State Coroner Michael Barnes)\nsignificance: The inquest found that prosecutors and police mishandled Monis's bail, but a former DPP argued the siege was an aberrant case that gave no basis for tougher bail law.\ncore: crime.2.5\nsupport: crime.2.6\nthemes: crime.t.reform, crime.t.balance, crime.t.effectiveness\ncriteria: responsiveness, enforceability, rights, society\nsource: https://coroners.nsw.gov.au/documents/findings/2017/lindt_cafe_findings-and-recommendations.pdf\nrelated: bail-act-2013, nswlrc-report-133-bail-2012, r-v-fesus-2014\nadded: 2026-10-29\nadded_at: 2026-11-10 12:04\nupdated_at: 2026-11-10 12:04\n---\n\nMan Haron Monis took hostages in the Lindt Chocolat Café, Martin Place, at about 9.41 am on **15 December 2014**; the siege ended about 2.13 am on **16 December**. Hostages Tori Johnson and Katrina Dawson and Monis died. He was on bail when it began.\n\n## Bail chronology\n\n| Date | Event |\n|---|---|\n| 15 Nov 2013 | Charged as an accessory to the murder of his ex-wife |\n| 12 Dec 2013 | Granted bail (Bail Act 1978). The Coroner found the ODPP solicitor's oral submissions were \"inadequate\" and that he \"erroneously advised the court that Monis did …",
+      "removed_lines": 0,
+      "added_lines": 56
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "curti-inquest-2012",
+     "status": "updated",
+     "type": "report",
+     "type_label": "Report & statistics",
+     "title": "Inquest into the death of Roberto Laudisio Curti (NSW Coroner, 14 November 2012)",
+     "short": "Curti inquest (2012)",
+     "citation": "Inquest into the death of Roberto Laudisio Curti, NSW State Coroner's Court, findings 14 November 2012",
+     "date": "2012-11-14",
+     "added": "2026-10-30",
+     "significance": "The Coroner found police use of Tasers and force against a 21-year-old student was reckless and excessive; five officers were referred for disciplinary action and the Ombudsman reviewed Taser rules.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.4"
+     ],
+     "core_labels": [
+      "Arrest and charge, summons, warrants"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-curti-inquest-2012",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.sydneycriminallawyers.com.au/blog/nsw-police-spend-1-2-million-defending-officers-thuggish-behaviour/",
+     "lead": "**Roberto Laudisio Curti**, a 21-year-old Brazilian student, died in the Sydney CBD on 18 March 2012 after a pursuit by police over the theft of two packets of biscuits. He was unarmed and affected by LSD. Officers tasered him repeatedly (including in 'drive stun' mode while he was held on the ground), used capsicum spray and handcuffs.",
+     "use_it_for": "- **Reasonable force (LEPRA s 231):** what excessive force looks like, and the limits of accountability when the remedy is internal discipline. Compare *R v White* [2025] NSWSC 243 (Clare Nowland), where an officer was prosecuted.\n- **Accountability bodies:** the Coroner finds facts and recommends; it cannot punish.",
+     "caution": "Written from media summaries of the findings; quote the Coroner's words from the findings themselves before using them in an exam answer. The cause of death was not formally attributed to the Taser alone.",
+     "sections": {
+      "What the Coroner found (14 November 2012)": "- The actions of some officers were **reckless, careless, dangerous and excessively forceful**, and showed little understanding of the safe use of Tasers or OC spray; training was inadequate.\n- The Coroner recommended that **five officers** be considered for disciplinary action and referred police conduct to the Police Integrity Commission (now the LECC).\n- The **NSW Ombudsman** reviewed Taser use (2012) and recommended clearer rules, including on repeated and drive-stun use.",
+      "What happened next": "Officers faced disciplinary proceedings; several decisions were later overturned on review. The State spent more than $1 million defending the officers. NSW Police Taser use nevertheless rose from 642 (2016–17) to 2,290 (2025–26) (BOCSAR).",
+      "Use it for": "- **Reasonable force (LEPRA s 231):** what excessive force looks like, and the limits of accountability when the remedy is internal discipline. Compare *R v White* [2025] NSWSC 243 (Clare Nowland), where an officer was prosecuted.\n- **Accountability bodies:** the Coroner finds facts and recommends; it cannot punish.",
+      "Caution": "Written from media summaries of the findings; quote the Coroner's words from the findings themselves before using them in an exam answer. The cause of death was not formally attributed to the Taser alone."
+     },
+     "path": "evidence/reports/curti-inquest-2012.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "5515d56",
+        "subject": "Stamps and rebuild for the bail-history evidence records"
+       }
+      ],
+      "latest_sha": "5515d56",
+      "added_text": "---\ntype: report\ntitle: Inquest into the death of Roberto Laudisio Curti (NSW Coroner, 14 November 2012)\nshort: Curti inquest (2012)\ncitation: Inquest into the death of Roberto Laudisio Curti, NSW State Coroner's Court, findings 14 November 2012\ndate: 2012-11-14\njurisdiction: NSW Coroner's Court\nsignificance: The Coroner found police use of Tasers and force against a 21-year-old student was reckless and excessive; five officers were referred for disciplinary action and the Ombudsman reviewed Taser rules.\ncore: crime.2.4\nsupport: crime.2.1, crime.2.6\nthemes: crime.t.balance, crime.t.effectiveness, crime.t.discretion\ncriteria: rights, enforceability, ruleoflaw, responsiveness\nsource: https://www.sydneycriminallawyers.com.au/blog/nsw-police-spend-1-2-million-defending-officers-thuggish-behaviour/\nrelated: kristian-white-clare-nowland, lepra-2002\nadded: 2026-10-30\nadded_at: 2026-11-10 12:04\nupdated_at: 2026-11-10 12:04\n---\n\n**Roberto Laudisio Curti**, a 21-year-old Brazilian student, died in the Sydney CBD on 18 March 2012 after a pursuit by police over the theft of two packets of biscuits. He was unarmed and affected by LSD. Officers tasered him repeatedly (including in 'drive stun' mode while he was held on the ground), used capsicum spray and handcuffs.\n\n## What the Coroner found (14 November 2012)\n\n- The actions of some officers were **reckless, careless, dangerous and excessively forceful**, and showed little understanding of the safe use of Tasers or OC spray; training was …",
+      "removed_lines": 0,
+      "added_lines": 39
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "rciadic-gundy-1991",
+     "status": "updated",
+     "type": "report",
+     "type_label": "Report & statistics",
+     "title": "Royal Commission into Aboriginal Deaths in Custody, Report of the Inquiry into the Death of David John Gundy (1991)",
+     "short": "David Gundy inquiry (RCIADIC, 1991)",
+     "citation": "Royal Commission into Aboriginal Deaths in Custody, Report of the Inquiry into the Death of David John Gundy (Commissioner J H Wootten QC, 1991)",
+     "date": "1991",
+     "added": "2026-10-30",
+     "significance": "A man shot dead by police in his bedroom during a dawn raid for someone else; the Commission condemned how the search warrant was obtained and executed and the failure to announce who police were.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.3"
+     ],
+     "core_labels": [
+      "Investigating crime"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-rciadic-gundy-1991",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.austlii.edu.au/au/other/IndigLRes/rciadic/",
+     "lead": "On 27 April 1989 members of the Special Weapons and Operations Section raided a house in Marrickville before dawn, looking for John Porter, who was wanted for shooting police officers. Porter was not there. **David Gundy**, an Aboriginal man asleep in his bedroom with his young son, was shot dead by police.",
+     "use_it_for": "- **Use of search warrants (LEPRA Part 5):** a warrant is only a safeguard if it is obtained on proper grounds and executed lawfully; the occupier's notice and the duty to identify exist because of cases like this.\n- **Accountability:** a Royal Commission found facts no criminal prosecution did; Gundy's family later received compensation.",
+     "caution": "Summarised from the report and secondary accounts; check the report (AustLII, RCIADIC individual death reports) before quoting findings. The events pre-date LEPRA (2002), so the current sections are the modern equivalent, not the law applied at the time.",
+     "sections": {
+      "What the Commission found": "- The raid was part of a series of searches based on thin information; the warrants were obtained and executed in ways the Commission strongly criticised, including the failure to properly identify police and announce the purpose of the entry.\n- Police planning placed the aim of catching Porter above the safety of occupants; the Commission found Gundy's death resulted from a wrongful and unjustified use of force in the execution of a search.\n- The Commission's broader findings led to the recommendations behind the **Custody Notification Service** and changes to police practice.",
+      "Use it for": "- **Use of search warrants (LEPRA Part 5):** a warrant is only a safeguard if it is obtained on proper grounds and executed lawfully; the occupier's notice and the duty to identify exist because of cases like this.\n- **Accountability:** a Royal Commission found facts no criminal prosecution did; Gundy's family later received compensation.",
+      "Caution": "Summarised from the report and secondary accounts; check the report (AustLII, RCIADIC individual death reports) before quoting findings. The events pre-date LEPRA (2002), so the current sections are the modern equivalent, not the law applied at the time."
+     },
+     "path": "evidence/reports/rciadic-gundy-1991.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "5515d56",
+        "subject": "Stamps and rebuild for the bail-history evidence records"
+       }
+      ],
+      "latest_sha": "5515d56",
+      "added_text": "---\ntype: report\ntitle: Royal Commission into Aboriginal Deaths in Custody, Report of the Inquiry into the Death of David John Gundy (1991)\nshort: David Gundy inquiry (RCIADIC, 1991)\ncitation: Royal Commission into Aboriginal Deaths in Custody, Report of the Inquiry into the Death of David John Gundy (Commissioner J H Wootten QC, 1991)\ndate: 1991\njurisdiction: Commonwealth Royal Commission (NSW death)\nsignificance: A man shot dead by police in his bedroom during a dawn raid for someone else; the Commission condemned how the search warrant was obtained and executed and the failure to announce who police were.\ncore: crime.2.3\nsupport: crime.2.1, crime.2.4, hr.2.5\nthemes: crime.t.balance, crime.t.discretion, crime.t.effectiveness\ncriteria: rights, ruleoflaw, enforceability, justice\nsource: https://www.austlii.edu.au/au/other/IndigLRes/rciadic/\nrelated: lepra-2002, custody-notification-service\nadded: 2026-10-30\nadded_at: 2026-11-10 12:04\nupdated_at: 2026-11-10 12:04\n---\n\nOn 27 April 1989 members of the Special Weapons and Operations Section raided a house in Marrickville before dawn, looking for John Porter, who was wanted for shooting police officers. Porter was not there. **David Gundy**, an Aboriginal man asleep in his bedroom with his young son, was shot dead by police.\n\n## What the Commission found\n\n- The raid was part of a series of searches based on thin information; the warrants were obtained and executed in ways the Commission strongly criticised, including the failure t…",
+      "removed_lines": 0,
+      "added_lines": 35
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "tajjour-v-nsw-2014",
+     "status": "updated",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Tajjour v New South Wales [2014] HCA 35: the consorting offence upheld",
+     "short": "Tajjour v NSW",
+     "citation": "[2014] HCA 35 (8 October 2014)",
+     "date": "2014-10-08",
+     "added": "2026-10-30",
+     "significance": "The consorting offence in Crimes Act 1900 (NSW) s 93X burdens the implied freedom of political communication but is valid, because it is reasonably appropriate and adapted to preventing organised crime.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.1"
+     ],
+     "core_labels": [
+      "Police powers"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-tajjour-v-nsw-2014",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.hcourt.gov.au/cases/case_s154-2013",
+     "lead": "**Crimes Act 1900 (NSW) s 93X** (2012) makes it an offence to *habitually consort* with convicted offenders after an official police warning (maximum 3 years). Three people charged with consorting challenged the law in the High Court.",
+     "use_it_for": "- **Police powers and the balance of rights:** a preventive power (no proven offence) upheld as proportionate. Contrast *Lees* and *Jarrett* (2025–26), where protest powers failed the same test.\n- **Rule of law:** the courts test Parliament's laws against the Constitution; here the law survived.",
+     "caution": "The case upholds the law; the criticism is about how police use the discretion to warn and charge, which is the Ombudsman's point, not the Court's.",
+     "sections": {
+      "Held": "- The offence **burdens the implied freedom of political communication**, because consorting can include political association, but the burden is justified: the law's purpose, preventing or impeding organised crime, is legitimate, and the offence is reasonably appropriate and adapted to it. The law is **valid**.\n- The Court rejected the argument that the Constitution contains a free-standing freedom of association.\n- The warning requirement and the defences (family, work, education, legal advice, health) were part of what made the burden proportionate.",
+      "What happened next": "The NSW Ombudsman's review (2016) found the offence was used heavily against **Aboriginal people and young people**, often for minor offending, and recommended changes; Parliament added further defences. The 2026 organised crime reforms added interim serious crime prevention orders alongside consorting.",
+      "Use it for": "- **Police powers and the balance of rights:** a preventive power (no proven offence) upheld as proportionate. Contrast *Lees* and *Jarrett* (2025–26), where protest powers failed the same test.\n- **Rule of law:** the courts test Parliament's laws against the Constitution; here the law survived.",
+      "Caution": "The case upholds the law; the criticism is about how police use the discretion to warn and charge, which is the Ombudsman's point, not the Court's."
+     },
+     "path": "evidence/cases/tajjour-v-nsw-2014.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "5515d56",
+        "subject": "Stamps and rebuild for the bail-history evidence records"
+       }
+      ],
+      "latest_sha": "5515d56",
+      "added_text": "---\ntype: case\ntitle: Tajjour v New South Wales [2014] HCA 35: the consorting offence upheld\nshort: Tajjour v NSW\ncitation: \"[2014] HCA 35 (8 October 2014)\"\ndate: 2014-10-08\njurisdiction: High Court of Australia\nsignificance: The consorting offence in Crimes Act 1900 (NSW) s 93X burdens the implied freedom of political communication but is valid, because it is reasonably appropriate and adapted to preventing organised crime.\ncore: crime.2.1\nsupport: crime.1.5, crime.6.2, hr.2.5\nthemes: crime.t.balance, crime.t.discretion, crime.t.effectiveness\ncriteria: rights, society, ruleoflaw, enforceability\nsource: https://www.hcourt.gov.au/cases/case_s154-2013\nrelated: lees-and-jarrett-protest-powers, r-v-rondo-2001, nsw-organised-crime-reforms-2026\nadded: 2026-10-30\nadded_at: 2026-11-10 12:04\nupdated_at: 2026-11-10 12:04\n---\n\n**Crimes Act 1900 (NSW) s 93X** (2012) makes it an offence to *habitually consort* with convicted offenders after an official police warning (maximum 3 years). Three people charged with consorting challenged the law in the High Court.\n\n## Held\n\n- The offence **burdens the implied freedom of political communication**, because consorting can include political association, but the burden is justified: the law's purpose, preventing or impeding organised crime, is legitimate, and the offence is reasonably appropriate and adapted to it. The law is **valid**.\n- The Court rejected the argument that the Constitution contains a free-standing freedom of association.\n- The wa…",
+      "removed_lines": 0,
+      "added_lines": 39
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "wee-waa-dna-screening-2000",
+     "status": "updated",
+     "type": "document",
+     "type_label": "Document",
+     "title": "The Wee Waa mass DNA screening (2000)",
+     "short": "Wee Waa DNA screening (2000)",
+     "citation": "NSW Police voluntary DNA screening of about 600 men in Wee Waa, April 2000; Crimes (Forensic Procedures) Act 2000 (NSW)",
+     "date": "2000-04",
+     "added": "2026-10-30",
+     "significance": "Every man in a small town was asked to volunteer DNA after an elderly woman was raped; the offender confessed before his sample was analysed, raising privacy and presumption-of-innocence concerns.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.2.3"
+     ],
+     "core_labels": [
+      "Investigating crime"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wee-waa-dna-screening-2000",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/",
+     "lead": "In January 1999 a 91-year-old woman, Rita Knight, was raped and assaulted in her home in Wee Waa, in north-west NSW. In **April 2000** police asked every man in the town aged 18 to 45 (about 600) to give a voluntary mouth swab for DNA comparison: Australia's first mass DNA screening.",
+     "use_it_for": "- **Use of technology / DNA evidence:** the power of DNA and the rights it engages. Pair with *Farah Jama* (contamination) and *R v White* (2005) (covert collection).",
+     "caution": "Figures (about 600 men; the sentence) are from media reports of the time; verify before quoting.",
+     "sections": {
+      "What happened": "- Most men volunteered; those who declined were reported to feel under suspicion in a small town.\n- **Stephen Boney**, 44, gave a sample and confessed about a week later, before his sample had been analysed. He pleaded guilty and was sentenced to 18 years.\n- The **Crimes (Forensic Procedures) Act 2000 (NSW)** commenced soon after, regulating consent, orders by senior police and magistrates, and the destruction of samples from volunteers.",
+      "Issues raised": "- **Privacy and the presumption of innocence:** treating a whole population as suspects, with social pressure making 'voluntary' consent questionable.\n- **Effectiveness:** the screening produced a confession, arguably through pressure rather than science, at considerable cost.\n- **Retention:** what happens to the DNA of the hundreds of men who were not suspects.",
+      "Use it for": "- **Use of technology / DNA evidence:** the power of DNA and the rights it engages. Pair with *Farah Jama* (contamination) and *R v White* (2005) (covert collection).",
+      "Caution": "Figures (about 600 men; the sentence) are from media reports of the time; verify before quoting."
+     },
+     "path": "evidence/documents/wee-waa-dna-screening-2000.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "5515d56",
+        "subject": "Stamps and rebuild for the bail-history evidence records"
+       },
+       {
+        "sha": "f7c0db9",
+        "subject": "Evidence: tighten Wee Waa significance"
+       }
+      ],
+      "latest_sha": "5515d56",
+      "added_text": "---\ntype: document\ntitle: The Wee Waa mass DNA screening (2000)\nshort: Wee Waa DNA screening (2000)\ncitation: NSW Police voluntary DNA screening of about 600 men in Wee Waa, April 2000; Crimes (Forensic Procedures) Act 2000 (NSW)\ndate: 2000-04\njurisdiction: NSW\nsignificance: Every man in a small town was asked to volunteer DNA after an elderly woman was raped; the offender confessed before his sample was analysed, raising privacy and presumption-of-innocence concerns.\ncore: crime.2.3\nsupport: crime.2.1, hr.2.5\nthemes: crime.t.balance, crime.t.effectiveness\ncriteria: rights, enforceability, resource, justice\nsource: https://www.abc.net.au/news/\nrelated: crimes-forensic-procedures-act-2000, farah-jama-2009, r-v-white-2005\nadded: 2026-10-30\nadded_at: 2026-11-10 12:04\nupdated_at: 2026-11-10 12:04\n---\n\nIn January 1999 a 91-year-old woman, Rita Knight, was raped and assaulted in her home in Wee Waa, in north-west NSW. In **April 2000** police asked every man in the town aged 18 to 45 (about 600) to give a voluntary mouth swab for DNA comparison: Australia's first mass DNA screening.\n\n## What happened\n\n- Most men volunteered; those who declined were reported to feel under suspicion in a small town.\n- **Stephen Boney**, 44, gave a sample and confessed about a week later, before his sample had been analysed. He pleaded guilty and was sentenced to 18 years.\n- The **Crimes (Forensic Procedures) Act 2000 (NSW)** commenced soon after, regulating consent, orders by senior police and magist…",
+      "removed_lines": 0,
+      "added_lines": 40
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "bocsar-cjb282-police-diversion-disparities",
+     "status": "updated",
+     "type": "report",
+     "type_label": "Report & statistics",
+     "title": "Aboriginal children far less likely to be diverted from court — BOCSAR Crime and Justice Bulletin 282 (October 2026)",
+     "short": "BOCSAR CJB 282 (police diversion gap)",
+     "citation": "Evidence summary of M Zappia, Examining disparities in police diversion between Aboriginal and non-Aboriginal children in NSW, Crime and Justice Bulletin No 282 (BOCSAR, October 2026; released 10 November 2026); Young Offenders Act 1997 (NSW) ss 7, 8, 13–14",
+     "date": "2026-11-10",
+     "added": "2026-11-10",
+     "significance": "Even where diversion was legally available, police sent 54% of Aboriginal children's matters to court against 24% of others. About 8 points of the 30-point gap cannot be explained by legal factors.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.5.5",
+      "crime.2.1"
+     ],
+     "core_labels": [
+      "Alternatives to court",
+      "Police powers"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-bocsar-cjb282-police-diversion-disparities",
+     "document": "Crime/Media/Crime - BOCSAR Police Diversion Disparities Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1o59c3JNXHIMMuqRn-3UZ1ipvwbTIxbx9/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-10/nsw-aboriginal-children-less-likely-to-receive-police-diversion/107365038",
+     "lead": "BOCSAR analysed **56,742** police events involving **23,605** children. **68%** of Aboriginal children's events went to court\nagainst **38%** of non-Aboriginal children's; among events eligible for YOA diversion the figures were **54%** and **24%**.",
+     "use_it_for": "- **crime.5.5 / crime.2.1** — police discretion under the YOA and whether it is applied fairly.\n- **Effectiveness** — diversion is the law's main tool for keeping children out of court; unequal use undermines it.",
+     "caution": "A **class summary of a statistical bulletin**: the findings are associations, not proof of bias or its cause.",
+     "sections": {
+      "How police dealt with eligible matters": "| | Aboriginal children | Non-Aboriginal children |\n|---|---|---|\n| Sent to court | 54% | 24% |\n| Warned | 10% | 22% |\n| Cautioned | 30% | 48% |\n| On bail when proceeded against | About 30% | About 13% |\n| First formal contact sent to court | 10% | 5% |\n\nOf the **30-point** gap, about 22 points link to offence type (5), bail status (5) and prior contact (the rest); about\n**8 points are unexplained** (18–22 explained under other weightings). The gap grows from 15 points at ages 10–11 to 36 at 17,\nbecause each formal contact makes later diversion less likely.",
+      "The diversion ladder": "Section 7 says the least restrictive suitable option should be used and Aboriginal over-representation addressed through\ndiversion. Excluded offences (s 8) go to court; warnings suit non-violent summary offences; cautions needed an admission\n(from 1 July 2026 a non-denial statement suffices, with a three-cautions-in-three-years limit); conferences for more serious\neligible offending.\n\n- **History**: BOCSAR found 64.8% of eligible Indigenous young people diverted against 85.1% of others (2013); the youth\n  diversion rate fell from 51.3% to 46.8% (2024); the Productivity Commission says NSW is worsening on Closing the Gap Target 11.",
+      "In the media (AAP, 10 November 2026)": "AAP's report (\"Racism blamed for Indigenous youth police treatment\") adds Aboriginal Legal Service and ministerial views; no NSW\nPolice response was included. A [second class summary, built on the AAP report](https://drive.google.com/file/d/1B3EVBfgdwTPmw1RBuGuCfWOuI458iE8U/view) notes\nthe YOA's objects (s 3(d)) and that about **72%** of the gap is linked to recorded factors — leaving the unexplained 8 points as a\nquestion of equality before the law.",
+      "Use it for": "- **crime.5.5 / crime.2.1** — police discretion under the YOA and whether it is applied fairly.\n- **Effectiveness** — diversion is the law's main tool for keeping children out of court; unequal use undermines it.",
+      "Caution": "A **class summary of a statistical bulletin**: the findings are associations, not proof of bias or its cause."
+     },
+     "path": "evidence/reports/bocsar-cjb282-police-diversion-disparities.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "3c4aeb6",
+        "subject": "Evidence: file the 11 Nov inbox — six decisions (nos 117-122), eleven new media records, six cards updated"
+       }
+      ],
+      "latest_sha": "3c4aeb6",
+      "added_text": "---\ntype: report\ntitle: Aboriginal children far less likely to be diverted from court — BOCSAR Crime and Justice Bulletin 282 (October 2026)\nshort: BOCSAR CJB 282 (police diversion gap)\ncitation: Evidence summary of M Zappia, Examining disparities in police diversion between Aboriginal and non-Aboriginal children in NSW, Crime and Justice Bulletin No 282 (BOCSAR, October 2026; released 10 November 2026); Young Offenders Act 1997 (NSW) ss 7, 8, 13–14\ndate: 2026-11-10\njurisdiction: NSW — NSW Police decisions to warn, caution, conference or charge children aged 10–17 (1 April 2022 to 31 March 2025)\nsignificance: Even where diversion was legally available, police sent 54% of Aboriginal children's matters to court against 24% of others. About 8 points of the 30-point gap cannot be explained by legal factors.\ncore: crime.5.5, crime.2.1\nsupport: crime.5.4, crime.1.8, crime.5.3, crime.2.4, hr.3.1, inv.1.4\nthemes: crime.t.discretion, crime.t.effectiveness, crime.t.balance\ncriteria: justice, rights, society\ndocument: Crime/Media/Crime - BOCSAR Police Diversion Disparities Evidence Summary.pdf\nsource: https://www.abc.net.au/news/2026-11-10/nsw-aboriginal-children-less-likely-to-receive-police-diversion/107365038\nrelated: young-offenders-act-1997, bocsar-cjb279-jas-diversion, bocsar-cjb268-doli-incapax, doli-incapax-diversion-reforms-2025, young-offenders-in-the-cjs, youth-crime-younger-offenders-2026\nadded: 2026-11-10\nadded_at: 2026-11-10 08:36\nupdated_at: 2026-11-11 08:07\n---\n\nBOCSAR a…",
+      "removed_lines": 0,
+      "added_lines": 62
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "black-v-r-trautsch-v-r-2026",
+     "status": "updated",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Black v R; Trautsch v R [2026] NSWCCA 185 — former police officers' sentences cut for errors with aggravating factors",
+     "short": "Black v R; Trautsch v R",
+     "citation": "[2026] NSWCCA 185 (Dhanji, McNaughton and Coleman JJ, 9 November 2026)",
+     "date": "2026-11-09",
+     "added": "2026-11-10",
+     "significance": "Two former officers who assaulted a vulnerable woman and used OC spray won sentence appeals: gratuitous cruelty could not aggravate the assaults, and trust and authority were double counted.",
+     "topic": "crime",
+     "also_topics": [],
+     "core": [
+      "crime.4.3",
+      "crime.4.5"
+     ],
+     "core_labels": [
+      "Factors affecting a sentencing decision",
+      "Appeals"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-black-v-r-trautsch-v-r-2026",
+     "document": "Cases/Crime/Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1Uef_o1IL3NRw0_YGejW--vsF8LqUHHJM/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1DRuN-xPY2SQqpfj49VjG4WV5osWiy4oX/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "On 22 January 2023 two on-duty NSW police officers attended a woman in distress; they assaulted her and used OC spray, and\nBlack also sent protected video. Both pleaded guilty (10% discount) to common assault and unauthorised use of a prohibited\nweapon. The District Court sentenced Black to **5 years 9 months** and Trautsch to **5 years 6 months** (8 August 2025).",
+     "use_it_for": "- **crime.4.3 / crime.4.5** — statutory aggravating factors and appeals against sentence.\n- **Moral and ethical standards** — police who abuse their position are still sentenced on correct principles.",
+     "caution": "Manifest excess was not decided, and Trautsch's hospital evidence was not admitted. Coleman J's reasons are at [142], not\n[147] as the judgment header says.",
+     "sections": {
+      "The three questions": "| Issue | Held |\n|---|---|\n| Can an assault be aggravated by **gratuitous cruelty** (s 21A(2)(f))? | Not the assaults here; the factor needs pain as an end in itself |\n| Was it an error to find both **abuse of trust and abuse of authority** (s 21A(2)(k))? | Yes — counting both without explanation risked double weight |\n| What sentences on resentencing? | Black **3 years 2 months** (non-parole 2 years 1 month); Trautsch **3 years** (non-parole 2 years) |\n\nSentencing is an \"instinctive synthesis\" (*Markarian*); the appeal court corrects errors in how discretion is exercised.",
+      "In the media (ABC, 10 November 2026)": "Amy Greenbank's ABC report names the officers as **Nathan Black** and **Timothy Trautsch**, says the woman was in **psychosis**, and\nnotes the assault lasted about **18 minutes** on body-worn video and CCTV; Black's non-parole period now ends 7 September 2027. It\nincludes the family's reaction, but calls the head sentence a \"maximum sentence\".\n[Class evidence summary of the ABC report](https://drive.google.com/file/d/1zjKuf3xGv43lnUeVokGn1ss7iI1GaDfA/view).",
+      "Use it for": "- **crime.4.3 / crime.4.5** — statutory aggravating factors and appeals against sentence.\n- **Moral and ethical standards** — police who abuse their position are still sentenced on correct principles.",
+      "Caution": "Manifest excess was not decided, and Trautsch's hospital evidence was not admitted. Coleman J's reasons are at [142], not\n[147] as the judgment header says."
+     },
+     "path": "evidence/cases/black-v-r-trautsch-v-r-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "3c4aeb6",
+        "subject": "Evidence: file the 11 Nov inbox — six decisions (nos 117-122), eleven new media records, six cards updated"
+       }
+      ],
+      "latest_sha": "3c4aeb6",
+      "added_text": "---\ntype: case\ntitle: Black v R; Trautsch v R [2026] NSWCCA 185 — former police officers' sentences cut for errors with aggravating factors\nshort: Black v R; Trautsch v R\ncitation: \"[2026] NSWCCA 185 (Dhanji, McNaughton and Coleman JJ, 9 November 2026)\"\ndate: 2026-11-09\njurisdiction: NSW Court of Criminal Appeal — Crimes (Sentencing Procedure) Act 1999 (NSW) ss 21A(2)(f), 21A(2)(k), 25D; Weapons Prohibition Act 1998 (NSW) s 7\nsignificance: Two former officers who assaulted a vulnerable woman and used OC spray won sentence appeals: gratuitous cruelty could not aggravate the assaults, and trust and authority were double counted.\ncore: crime.4.3, crime.4.5\nsupport: crime.4.1, crime.4.6, crime.2.1, crime.4.4, dis.1.7, dis.1.5, dis.1.8\nthemes: crime.t.discretion, crime.t.moral, crime.t.balance, crime.t.compliance\ncriteria: justice, ruleoflaw, enforceability\ndocument: Cases/Crime/Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf\ndocument11: Cases/Year 11/Year 11 - Black v R; Trautsch v R [2026] NSWCCA 185 - Case Summary.pdf\nrelated: crimes-sentencing-procedure-act-1999, r-v-binge-2026, markarian-v-the-queen-2005, police-and-law-enforcement-agencies\nadded: 2026-11-10\nadded_at: 2026-11-10 08:36\nupdated_at: 2026-11-11 08:07\n---\n\nOn 22 January 2023 two on-duty NSW police officers attended a woman in distress; they assaulted her and used OC spray, and\nBlack also sent protected video. Both pleaded guilty (10% discount) to common assault and unauthorised use of a prohibited\nwea…",
+      "removed_lines": 0,
+      "added_lines": 50
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "humanrights",
+   "label": "Human Rights",
+   "part": "HSC Core Part II",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "refugee-2217075-2026-arta-2676",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "2217075 (Refugee) [2026] ARTA 2676 — a lesbian woman from Malaysia is a refugee; she cannot be expected to hide",
+     "short": "2217075 (Refugee) — sexual orientation",
+     "citation": "[2026] ARTA 2676",
+     "date": "2026-08-14",
+     "added": "2026-11-11",
+     "significance": "The Tribunal found a Malaysian woman credible despite inconsistencies and delay, held lesbian women are a particular social group, and set aside the refusal — merits review working, after about four years.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.3.1",
+      "hr.2.9",
+      "hr.1.2"
+     ],
+     "core_labels": [
+      "A contemporary issue illustrating the promotion and/or enforcement of human rights",
+      "The role of statute law",
+      "Developing recognition of human rights"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2217075-2026-arta-2676",
+     "document": "Cases/Human Rights/2217075 (Refugee) [2026] ARTA 2676 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1lM3ltW4KKMuYvQlfmCKY3UWICQcHr6NH/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - 2217075 (Refugee) [2026] ARTA 2676 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1Ty02o2CpDwtVDcHgNbnRoig5ki55tpzY/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A Malaysian woman, estranged from her family, applied for a protection visa; a delegate refused it for lack of detail\n(November 2022). Malaysia criminalises same-sex conduct.",
+     "use_it_for": "- **hr.1.2 / hr.3.1** — changing values: sexual orientation recognised as a protected characteristic in refugee law.\n- **hr.2.9 / hr.2.11** — Refugee Convention concepts enforced through the *Migration Act* and a tribunal.\n- **Year 11 Experiences with the law** — Case study 2 links apply only if the school's group is people seeking refuge.",
+     "caution": "Applicants are identified by number only; paragraph numbers restart under each heading, so none are cited.",
+     "sections": {
+      "What the Tribunal decided": "| Question | Finding |\n|---|---|\n| Credibility | Credible despite inconsistencies, a missed letter, an agent's drafting errors and delay |\n| Convention reason | Lesbian women in Malaysia are a **particular social group** (*Applicant S395 of 2002*; s 5L) |\n| Concealment | She cannot be expected to hide her sexual orientation (s 5J(3)(c)(vi)) |\n| Real chance of serious harm | Yes; relocation and state protection not available |\n\nThe refusal was **set aside** and **remitted** with a direction that she meets s 36(2)(a). Complementary protection was not\ndecided, because she is already a refugee.",
+      "Use it for": "- **hr.1.2 / hr.3.1** — changing values: sexual orientation recognised as a protected characteristic in refugee law.\n- **hr.2.9 / hr.2.11** — Refugee Convention concepts enforced through the *Migration Act* and a tribunal.\n- **Year 11 Experiences with the law** — Case study 2 links apply only if the school's group is people seeking refuge.",
+      "Caution": "Applicants are identified by number only; paragraph numbers restart under each heading, so none are cited."
+     },
+     "path": "evidence/cases/refugee-2217075-2026-arta-2676.md",
+     "in_site_build": true
+    },
+    {
+     "id": "refugee-2305552-2026-arta-2673",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "2305552 (Refugee) [2026] ARTA 2673 — hardship in Fiji is not persecution, and ties to Australia are irrelevant",
+     "short": "2305552 (Refugee) — hardship not persecution",
+     "citation": "[2026] ARTA 2673",
+     "date": "2026-08-17",
+     "added": "2026-11-11",
+     "significance": "A Fijian man's evidence was accepted, but economic and health hardship faced by the whole population is not persecution or significant harm. His work and community ties in Australia were legally irrelevant.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.3.1",
+      "hr.2.9"
+     ],
+     "core_labels": [
+      "A contemporary issue illustrating the promotion and/or enforcement of human rights",
+      "The role of statute law"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2305552-2026-arta-2673",
+     "document": "Cases/Human Rights/2305552 (Refugee) [2026] ARTA 2673 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1rrZA9JDEY6pJGCX_PZnpMdbLMU5xQ8h3/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - 2305552 (Refugee) [2026] ARTA 2673 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1ZkAA9Z1HfpkABJMyh4pL3zsJu1NzLs2H/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "A Fijian man, in Australia since 2020, sought protection after a 2012 redundancy and health events in 2022. The Tribunal\naccepted his evidence.",
+     "use_it_for": "- **hr.3.1 / hr.2.9** — the limits of Australia's protection obligations; a narrow legal test leaves economic and health\n  hardship outside protection.\n- **State sovereignty** — Australia decides who stays, within its treaty obligations.",
+     "caution": "The applicant is identified by number only; paragraph numbers restart under each heading, so none are cited. Year 11 links\napply only where Case study 2 is people seeking refuge.",
+     "sections": {
+      "Two tests, one standard": "| Test | Law | Finding |\n|---|---|---|\n| Refugee (s 36(2)(a)) | Real chance of serious harm for a Convention reason — not remote or far-fetched, even well below 50% (*Chan Yee Kin*) | No one targeted him for race; he could earn a living |\n| Complementary protection (s 36(2)(aa)) | Real risk of significant harm — the same standard (*SZQRB*) — unless faced by the population generally (s 36(2B)(c)) | Lower healthcare standards are a risk the whole population faces |\n\nThe refusal was **affirmed**. His work, tax record and community ties in Australia were **not relevant** to the legal test.",
+      "Use it for": "- **hr.3.1 / hr.2.9** — the limits of Australia's protection obligations; a narrow legal test leaves economic and health\n  hardship outside protection.\n- **State sovereignty** — Australia decides who stays, within its treaty obligations.",
+      "Caution": "The applicant is identified by number only; paragraph numbers restart under each heading, so none are cited. Year 11 links\napply only where Case study 2 is people seeking refuge."
+     },
+     "path": "evidence/cases/refugee-2305552-2026-arta-2673.md",
+     "in_site_build": true
+    },
+    {
+     "id": "refugee-2552942-2026-arta-2678",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "2552942 (Refugee) [2026] ARTA 2678 — a changed story and a late claim sink an Indian man's protection application",
+     "short": "2552942 (Refugee) — credibility and late claims",
+     "citation": "[2026] ARTA 2678",
+     "date": "2026-08-03",
+     "added": "2026-11-11",
+     "significance": "An applicant switched the person he feared and raised a shooting only at the hearing. The Tribunal found the change an invention and affirmed the refusal — credibility decides merits review.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.3.1",
+      "hr.2.11"
+     ],
+     "core_labels": [
+      "A contemporary issue illustrating the promotion and/or enforcement of human rights",
+      "The role of courts and tribunals"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2552942-2026-arta-2678",
+     "document": "Cases/Human Rights/2552942 (Refugee) [2026] ARTA 2678 - Case Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1x5xzJBBcV78FKojco9sbYfkzOjEU_kVR/view",
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - 2552942 (Refugee) [2026] ARTA 2678 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1x44MiRIB3GqyxOlitjVJRPz8-ICEw6HM/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "An Indian man claimed he feared his in-laws; at the hearing he said he feared his wife's ex-partner, and raised a shooting not in\nhis written application. He also claimed stress that was not a diagnosed condition. A postponement was refused.",
+     "use_it_for": "- **hr.2.11 / hr.3.1** — a tribunal testing claims hard; credibility decides the outcome.\n- **Year 11** — barriers to justice: evidence, language, delay and proof of a medical condition (exp.6.2), with a fair hearing,\n  an interpreter and reasons.",
+     "caution": "Applicants are numbers only; the application date appears as both 5 September 2025 and 24 June 2025. The wife's real-looking\nfirst name is not reproduced.",
+     "sections": {
+      "What the Tribunal decided": "| Question | Finding |\n|---|---|\n| The changed account | An invention |\n| The late claim | Implausible — s 367A allows an unfavourable inference from a claim not raised before the delegate decided |\n| Evidence | A neighbour's statutory declaration and a video never provided were given no weight |\n| Refugee test / complementary protection | No real chance of persecution and no real risk of significant harm — the same standard (*SZQRB*) |\n\nThe refusal was **affirmed**. The Tribunal must follow Ministerial Direction 113 and DFAT country information.",
+      "Use it for": "- **hr.2.11 / hr.3.1** — a tribunal testing claims hard; credibility decides the outcome.\n- **Year 11** — barriers to justice: evidence, language, delay and proof of a medical condition (exp.6.2), with a fair hearing,\n  an interpreter and reasons.",
+      "Caution": "Applicants are numbers only; the application date appears as both 5 September 2025 and 24 June 2025. The wife's real-looking\nfirst name is not reproduced."
+     },
+     "path": "evidence/cases/refugee-2552942-2026-arta-2678.md",
+     "in_site_build": true
+    },
+    {
+     "id": "digital-duty-of-care-bill-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Digital duty of care bill: could Australians sue big tech? — passes the House; faith groups push for a right to sue (2026)",
+     "short": "Digital duty of care bill",
+     "citation": "HSC Legal Studies evidence summaries, 16 and 29 October and 9 and 11 November 2026 (on Paul Sakkal, The Sydney Morning Herald, and Sam Buckingham-Jones, The Australian Financial Review, both 9 November 2026); built on ABC News of 15 and 28 October 2026 (federal politics live blog), AAP, the AHRC submission of 23 September 2026 and law firm analyses of the September 2026 exposure draft",
+     "date": "2026-11-09",
+     "added": "2026-10-16",
+     "significance": "The bill would replace a reactive, complaints-based online safety scheme with one enforceable statutory duty, and the government is now open to letting victims of online harm sue.",
+     "topic": "humanrights",
+     "also_topics": [
+      "changing"
+     ],
+     "core": [
+      "hr.3.1",
+      "hr.2.9",
+      "chg.6"
+     ],
+     "core_labels": [
+      "A contemporary issue illustrating the promotion and/or enforcement of human rights",
+      "The role of statute law",
+      "chg.6"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-digital-duty-of-care-bill-2026",
+     "document": "Human Rights/HR - Digital Duty of Care Bill Right to Sue Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1fatNv109KDMurKgG3Dm3_6Ee0lVgi5nJ/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.smh.com.au/politics/federal/the-new-legal-weapon-aimed-at-big-tech-20261109-p61cbr.html",
+     "lead": "The *Online Safety Amendment (Digital Duty of Care) Bill 2026* (Cth) was introduced on **15 October\n2026**, after an exposure draft released 8 September with an **18-day** consultation. Minister Anika\nWells said on the day of introduction that the government would consider letting Australians **sue**\nplatforms, including by class action — a right the draft did not contain.",
+     "use_it_for": "- **hr.3.1 (contemporary issue)** — a live issue with every rights actor visible at once: Parliament,\n  a statutory regulator, the AHRC, NGOs, the media and the platforms.\n- **hr.2.9 / hr.2.7 (statute law, incorporation)** — children's rights under the **CROC** reach\n  Australian law only through statute. UN **General Comment 25** (2021) says children's rights apply\n  online as offline, and frames them as including participation and information, not protection\n  alone. The AHRC urges consulting children on the harm definitions.\n- **hr.2.14 (a Charter of Rights)** — the AHRC says the statements of compatibility with human rights\n  attached to online safety bills have been weak on digital righ…",
+     "caution": "A **class-made summary** of a **news report of a minister's comments** on the day of introduction —\nnot the bill. Much of the detail comes from law firm analyses of the **September exposure draft**,\nwhich was changed before introduction, so the penalty, the harm categories, the opt-out and the\ncommencement dates may all differ in the bill as introduced: check the APH bill page and the\nexplanatory memorandum. The openness to a right to sue is a **statement, not a commitment**, and the\npolitical reactions quoted are partisan. Anything about the bill's fate is unresolved. In the 9 November summary the\n\"80+ groups\" figure and Google's submission could not be verified.",
+     "sections": {
+      "Reactive to proactive": "| | *Online Safety Act 2021* now | The bill |\n|---|---|---|\n| Core obligation | Non-binding Basic Online Safety Expectations plus industry codes | One enforceable duty to ensure a safe online environment, so far as reasonably practicable |\n| Model | Complaints-based takedown | Safety by design and risk management |\n| Risk assessment | Only under existing codes | Written assessments at least annually, records kept six years |\n| Children | Under-16s barred from accounts on age-restricted platforms | Also a duty to keep under-16s from recommender and endless-feed features |\n| Algorithmic feeds | No legislated opt-out | Users over 16 may turn recommendations off |\n| Maximum penalty | $49.5m for …",
+      "Update: the bill passes the House (28 October 2026)": "The **Online Safety Amendment (Digital Duty of Care) Bill 2026** was introduced on 15 October and passed the House on\n**28 October**, absorbing Kate Chaney's amendment on children's dependence on AI chatbots. The Coalition (Ted\nO'Brien) calls it censorship; with the Coalition opposed, Labor needs the **Greens** in the Senate. The Senate\ncommittee takes submissions to 30 October and reports by **20 November 2026**.\n\n| | Now (OSA 2021) or September draft | Bill as introduced |\n|---|---|---|\n| Core obligation | Codes, standards, Basic Online Safety Expectations | One overarching **duty of care** |\n| Defining harms | Draft let the minister add categories | Ministerial power removed; only Parliam…",
+      "Update: faith groups push for a right to sue (SMH, 9 November 2026)": "More than **80** groups (the article's figure), including the ECAJ and the Islamic Council of Victoria, back adding a\n**private right of action** before the Senate votes; the committee reports by **20 November 2026**. An Australia Institute\npoll found **72%** support compensation for people harmed by platform content.\n\n| | Bill as passed by the House | What the Greens and advocates want |\n|---|---|---|\n| Who enforces | eSafety: directions, information powers, civil penalty proceedings | Also individuals suing, including class actions |\n| Harms covered | Lists sexual and gender-based violence; no standalone hate category | Add racist, homophobic and religious hate |\n| Penalties | Fixed maximu…",
+      "Google's privacy warning (AFR, 9 November 2026)": "At the Senate hearing on 9 November Google warned that proposed **s 27D** — age checks wherever children could foreseeably meet\npornography — could reach **email and private file storage** such as Gmail and Drive. It sets children's protection (CROC arts 17,\n34) against the right to privacy of correspondence (ICCPR art 17). Failing s 27D carries up to **60,000 penalty units**; services\nmust offer at least **two** age-assurance methods. The headline's \"scan\" is a conditional warning, not a plan, and the article has\nno government or eSafety response. [Class evidence summary](https://drive.google.com/file/d/1gIlpdX02-nfWgHWkfCjsajnzFr2jFppe/view).",
+      "Use it for": "- **hr.3.1 (contemporary issue)** — a live issue with every rights actor visible at once: Parliament,\n  a statutory regulator, the AHRC, NGOs, the media and the platforms.\n- **hr.2.9 / hr.2.7 (statute law, incorporation)** — children's rights under the **CROC** reach\n  Australian law only through statute. UN **General Comment 25** (2021) says children's rights apply\n  online as offline, and frames them as including participation and information, not protection\n  alone. The AHRC urges consulting children on the harm definitions.\n- **hr.2.14 (a Charter of Rights)** — the AHRC says the statements of compatibility with human rights\n  attached to online safety bills have been weak on digital righ…",
+      "Caution": "A **class-made summary** of a **news report of a minister's comments** on the day of introduction —\nnot the bill. Much of the detail comes from law firm analyses of the **September exposure draft**,\nwhich was changed before introduction, so the penalty, the harm categories, the opt-out and the\ncommencement dates may all differ in the bill as introduced: check the APH bill page and the\nexplanatory memorandum. The openness to a right to sue is a **statement, not a commitment**, and the\npolitical reactions quoted are partisan. Anything about the bill's fate is unresolved. In the 9 November summary the\n\"80+ groups\" figure and Google's submission could not be verified."
+     },
+     "path": "evidence/media/digital-duty-of-care-bill-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "3c4aeb6",
+        "subject": "Evidence: file the 11 Nov inbox — six decisions (nos 117-122), eleven new media records, six cards updated"
+       },
+       {
+        "sha": "5162e32",
+        "subject": "Evidence: file the 9 Nov inbox — nine new records, four cards updated"
+       }
+      ],
+      "latest_sha": "3c4aeb6",
+      "added_text": "title: Digital duty of care bill: could Australians sue big tech? — passes the House; faith groups push for a right to sue (2026)\ncitation: HSC Legal Studies evidence summaries, 16 and 29 October and 9 and 11 November 2026 (on Paul Sakkal, The Sydney Morning Herald, and Sam Buckingham-Jones, The Australian Financial Review, both 9 November 2026); built on ABC News of 15 and 28 October 2026 (federal politics live blog), AAP, the AHRC submission of 23 September 2026 and law firm analyses of the September 2026 exposure draft\ndate: 2026-11-09\ndocument: Human Rights/HR - Digital Duty of Care Bill Right to Sue Evidence Summary.pdf\nsource: https://www.smh.com.au/politics/federal/the-new-legal-weapon-aimed-at-big-tech-20261109-p61cbr.html\nrelated: ai-chatbots-children-digital-duty-2026, hanson-faruqi-18c-high-court-2026, online-safety-act-2021-and-social-media-minimum-age, croc-1989, technology-and-the-individual, kmart-camera-glasses-2026, human-rights-in-australia-common-law-courts-media-charter, law-reform-conditions-agencies-mechanisms, guardian-2026-gps-tracking\nupdated_at: 2026-11-11 08:07\n## Update: faith groups push for a right to sue (SMH, 9 November 2026)\n\nMore than **80** groups (the article's figure), including the ECAJ and the Islamic Council of Victoria, back adding a\n**private right of action** before the Senate votes; the committee reports by **20 November 2026**. An Australia Institute\npoll found **72%** support compensation for people harmed by platform content.\n\n| …",
+      "removed_lines": 8,
+      "added_lines": 37
+     },
+     "in_site_build": true
+    },
+    {
+     "id": "un-rapporteur-refused-youth-detention-access-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "NT and Queensland shut a UN expert out of youth detention (Amnesty International, 2 November 2026)",
+     "short": "UN rapporteur refused detention access",
+     "citation": "Evidence summaries of an Amnesty International Australia media release, 2 November 2026, Chloe Chomicki, ABC News, 4 November 2026, and Roxanne Fitzgerald, ABC News, 5 November 2026 (summarised 6 and 9 November), on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)",
+     "date": "2026-11-09",
+     "added": "2026-11-04",
+     "significance": "A UN expert invited to Australia was refused entry to two youth detention centres holding mostly First Nations children — the third UN access dispute since 2022.",
+     "topic": "humanrights",
+     "also_topics": [],
+     "core": [
+      "hr.2.2",
+      "hr.2.1"
+     ],
+     "core_labels": [
+      "The role of the United Nations",
+      "State sovereignty"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-un-rapporteur-refused-youth-detention-access-2026",
+     "document": "Human Rights/HR - UN Rapporteur Blocked From Youth Jails Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1M1T0cP1D89efOzU4c0iDRbjWQjkPU8J-/view",
+     "document_missing_id": false,
+     "document11": "Preliminary/Year 11 - UN Rapporteur Refused Youth Detention Access Evidence Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1N6raFwz8V3_DLG2ri43sXGDt0-DotV20/view",
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-05/united-nations-blocked-from-inspecting-darwin-youth-jail/107343550",
+     "lead": "The Special Rapporteur's official visit runs **2–13 November 2026**. The NT and Queensland refused planned visits to\n**Holtze** and **Cleveland**, where about **97%** of children at Cleveland were Aboriginal and/or Torres Strait Islander at\ninspection. It is the second time in under a year the NT has blocked UN experts. First Nations young people are detained at **25.7 per 10,000** (2024–25), against a\nClosing the Gap target of a 30% fall by 2031; the Productivity Commission assesses no change.",
+     "use_it_for": "- **hr.2.2 / hr.2.1** — UN monitoring inside a sovereign, federal state; the Commonwealth answers internationally for\n  detention run by states and territories.\n- **Year 11 (the global legal system)** — state sovereignty and the UN's role.",
+     "caution": "A **class evidence summary of an NGO advocacy release**; no government explanation is included.",
+     "sections": {
+      "What the mandate asks v what happened": "| UN terms of reference | November 2026 |\n|---|---|\n| Access to all places of detention | Holtze and Cleveland visits refused |\n| Confidential contact with detainees | No in-centre contact with children |\n| Contact with authorities in every branch | NT and Qld refused to engage, the Rapporteur says |\n| Freedom of movement | Visit otherwise proceeding |\n| Findings reported to the Human Rights Council | Precedent: the WGAD relied on public reports for the NT |\n\nThe terms of reference are UN guidelines, not a treaty: visits depend on the state's invitation and cooperation.",
+      "ABC report (4 November 2026)": "Queensland gave a brief statement; the NT and the Commonwealth did not respond. Cleveland held **101** children against a\nsafe capacity of **95** (August 2025); about **90%** at Cleveland identified as Aboriginal or Torres Strait Islander (68.2%\nacross Queensland's centres). First Nations young people are detained at **26 times** the non-Indigenous rate (2023–24).\nQueensland's mandatory 12 months for serious offending on bail starts on 30 November. Special Rapporteurs visit under UN\nterms of reference, **not OPCAT**; cooperation rests on invitation. Preliminary findings are due in Sydney on **13\nNovember 2026**.",
+      "ABC report (5 November 2026): \"It would be a scandal\"": "Roxanne Fitzgerald's report accuses the NT government of hiding what is happening inside Holtze. The Special Rapporteur, **Dr Albert K. Barume**, is on a country visit to seven locations (2–13 November) under Australia's **2008 standing invitation** to UN special procedures; the refusal of Holtze and Cleveland was announced in a late-October statement.\n\n| UN framework expects | What happened (as reported) |\n|---|---|\n| Access to all places of detention; contact with every branch of government | NT and Queensland refused both access and meetings, according to his statement |\n| Invitation given by the Commonwealth for all of Australia | The federal Attorney-General's office says access is for …",
+      "International standards v what the NT and Queensland did (summary of 9 November 2026)": "A fuller class summary of the 5 November ABC report sets the governments' conduct against the standards they have accepted.\n\n| International expectation | NT / Queensland |\n|---|---|\n| Access to detention guaranteed under the terms of reference | Holtze and Cleveland tours cancelled |\n| Meetings with central and local officials | Requested meetings in the Torres Strait, Townsville and Darwin not held |\n| Detention of children as a last resort (2017 Rapporteur) | NT reforms and Queensland's 2024 laws remove \"last resort\" |\n| Age 10 below international standards (UN bodies) | NT lowered the age back to 10 (October 2024) |\n| Humane treatment (CROC art 37); the NPM opposes spit hoods | NT reintr…",
+      "Another summary (10 November 2026)": "A [further class summary of the 5 November ABC report](https://drive.google.com/file/d/1carJR_ffyzU94SSDwVeywpXLRB5DR6Yu/view) counts **three** UN monitoring visits obstructed since 2022 —\nthe Subcommittee on Prevention of Torture, the Working Group on Arbitrary Detention and now the Special Rapporteur — and\nstresses that his powers come from cooperation, not compulsion.",
+      "First Nations media coverage (NITV, 10 November 2026)": "Carli Willis's NITV report centres community and Social Justice Commissioner voices: **120** submissions from First Nations people\ncame in before the visit, and communities called on the Prime Minister to step in. NT Parliament answers record **209** physical\nassaults at Holtze in 2025. The final report goes to the Human Rights Council in **September 2027**.\n[Class evidence summary of the NITV report](https://drive.google.com/file/d/1_YTkhro4VP6UM6LzGsAJjmc1BElC5vkP/view).",
+      "Use it for": "- **hr.2.2 / hr.2.1** — UN monitoring inside a sovereign, federal state; the Commonwealth answers internationally for\n  detention run by states and territories.\n- **Year 11 (the global legal system)** — state sovereignty and the UN's role.",
+      "Caution": "A **class evidence summary of an NGO advocacy release**; no government explanation is included."
+     },
+     "path": "evidence/media/un-rapporteur-refused-youth-detention-access-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "3c4aeb6",
+        "subject": "Evidence: file the 11 Nov inbox — six decisions (nos 117-122), eleven new media records, six cards updated"
+       },
+       {
+        "sha": "0aa1e30",
+        "subject": "Evidence: file the 10 Nov inbox — seven decisions (nos 110-116), five new media/report records, four cards updated"
+       },
+       {
+        "sha": "5162e32",
+        "subject": "Evidence: file the 9 Nov inbox — nine new records, four cards updated"
+       }
+      ],
+      "latest_sha": "3c4aeb6",
+      "added_text": "citation: Evidence summaries of an Amnesty International Australia media release, 2 November 2026, Chloe Chomicki, ABC News, 4 November 2026, and Roxanne Fitzgerald, ABC News, 5 November 2026 (summarised 6 and 9 November), on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)\ndate: 2026-11-09\ndocument: Human Rights/HR - UN Rapporteur Blocked From Youth Jails Evidence Summary.pdf\nsource: https://www.abc.net.au/news/2026-11-05/united-nations-blocked-from-inspecting-darwin-youth-jail/107343550\nupdated_at: 2026-11-11 08:07\n## International standards v what the NT and Queensland did (summary of 9 November 2026)\n\nA fuller class summary of the 5 November ABC report sets the governments' conduct against the standards they have accepted.\n\n| International expectation | NT / Queensland |\n|---|---|\n| Access to detention guaranteed under the terms of reference | Holtze and Cleveland tours cancelled |\n| Meetings with central and local officials | Requested meetings in the Torres Strait, Townsville and Darwin not held |\n| Detention of children as a last resort (2017 Rapporteur) | NT reforms and Queensland's 2024 laws remove \"last resort\" |\n| Age 10 below international standards (UN bodies) | NT lowered the age back to 10 (October 2024) |\n| Humane treatment (CROC art 37); the NPM opposes spit hoods | NT reintroduced spit hoods fo…",
+      "removed_lines": 5,
+      "added_lines": 36
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "family",
+   "label": "Family",
+   "part": "HSC Option 3",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "tamworth-dv-son-assaulted-mother-sentence-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Son who assaulted his mother gets \"prison in the community\" (Northern Daily Leader, 10 November 2026)",
+     "short": "Tamworth DV son sentenced (ICO)",
+     "citation": "Evidence summary of Jacob McMaster, Northern Daily Leader, 10 November 2026 (Magistrate Tania Johnson, very likely Tamworth Local Court); Crimes (Sentencing Procedure) Act 1999 (NSW) ss 4A, 4B, 5, 7, 8, 21A; Crimes (Domestic and Personal Violence) Act 2007 (NSW) ss 11, 13; Crimes Act 1900 (NSW) ss 59, 61, 195",
+     "date": "2026-11-10",
+     "added": "2026-11-11",
+     "significance": "A son who committed seven DV offences against his mother received an intensive correction order, not full-time jail — the s 4A and s 4B DV sentencing rules in action.",
+     "topic": "family",
+     "also_topics": [
+      "crime"
+     ],
+     "core": [
+      "fam.2.4",
+      "crime.4.6"
+     ],
+     "core_labels": [
+      "Dealing with domestic violence",
+      "Types of penalties"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-tamworth-dv-son-assaulted-mother-sentence-2026",
+     "document": "Family/Evidence Summaries/Family - Tamworth DV Sentencing Son Assaulted Mother Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1QvypuxV3JoK9-cKwqsorGKELLHYtFFZv/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://northerndailyleader.com.au/story/9388607/judge-tania-johnson-condemns-dv-scourge-as-son-sentenced",
+     "lead": "A man in his 20s admitted **seven** offences against his mother across two incidents (November 2025 and February 2026),\nincluding intimidation, assault occasioning actual bodily harm, three common assaults and two counts of damaging property. The\nmagistrate called DV \"a scourge in our society\". He received a **one-year intensive correction order** with 50 hours' community\nservice, a supervised community corrections order and **$1,900** in fines. He now lives with his grandparents.",
+     "use_it_for": "- **fam.2.4** — the criminal law's response to family violence by an adult child against a parent.\n- **crime.4.6 / crime.4.7** — ICOs and supervised community sentences as alternatives to full-time custody.",
+     "caution": "A **brief court report**: it calls the magistrate \"Judge\", does not link each order to each offence, and the court's s 4B finding\nis not reported. The offender cannot be named.",
+     "sections": {
+      "Sentencing a DV offender in NSW": "| Step | Rule |\n|---|---|\n| A DV offence | Personal violence against a relative (CDPVA s 11; parents and children are relatives) |\n| Aggravating factors | E.g. offending on conditional liberty — here, months after an ADVO (s 21A(2)(j)) |\n| Section 4A | Full-time detention or a supervised order, unless the court gives reasons for another option |\n| Section 4B | An ICO only if the victim is adequately protected |\n| Last resort | Jail is a last resort (s 5); an ICO is a prison sentence served in the community |\n\nMaximums: intimidation and ABH 5 years each; common assault 2 years.",
+      "Use it for": "- **fam.2.4** — the criminal law's response to family violence by an adult child against a parent.\n- **crime.4.6 / crime.4.7** — ICOs and supervised community sentences as alternatives to full-time custody.",
+      "Caution": "A **brief court report**: it calls the magistrate \"Judge\", does not link each order to each offence, and the court's s 4B finding\nis not reported. The offender cannot be named."
+     },
+     "path": "evidence/media/tamworth-dv-son-assaulted-mother-sentence-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "victoria-clares-law-pledge-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Victorian Labor pledges a Clare's Law disclosure scheme if re-elected (ABC, 10 November 2026)",
+     "short": "Victoria Clare's Law pledge",
+     "citation": "Evidence summary of Emma D'Agostino, ABC News, 10 November 2026; South Australian Domestic Violence Disclosure Scheme (since October 2018); NSW Domestic Violence Disclosure Scheme pilot (2016–2019); Family Violence Protection Act 2008 (Vic) Pt 5A",
+     "date": "2026-11-10",
+     "added": "2026-11-11",
+     "significance": "Both major Victorian parties now back a Clare's Law scheme, though Victoria's 2016 Royal Commission did not recommend one and NSW abandoned its pilot — does information protect victims?",
+     "topic": "family",
+     "also_topics": [],
+     "core": [
+      "fam.2.4"
+     ],
+     "core_labels": [
+      "Dealing with domestic violence"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-victoria-clares-law-pledge-2026",
+     "document": "Family/Evidence Summaries/Family - Victoria Clares Law Pledge Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1pdBksAY6gb5HF_TMYbsBn7PTtFb_3XMC/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-10/victorian-government-clares-law-2026-state-election/107365546",
+     "lead": "Premier Ben Carroll and Attorney-General Sonya Kilkenny pledged a scheme letting people ask police about a partner's history of\nviolence, modelled on **South Australia's**. The Opposition pledged a scheme in July 2026. No bill exists.",
+     "use_it_for": "- **fam.2.4** — evaluating a non-court response to domestic violence.\n- **Law reform** — an election promise borrowing another state's model (chg.3.2).",
+     "caution": "A **class evidence summary of an election announcement**; no independent experts or critics of disclosure schemes are included.",
+     "sections": {
+      "NSW pilot v SA scheme": "| | NSW pilot (2016–2019) | SA scheme (since October 2018) |\n|---|---|---|\n| Coverage | Four police commands (Oxley, Shoalhaven, Sutherland, St George) | Statewide; person at risk 17+ |\n| Who can ask | Person at risk, family, friend or professional | Person at risk or a third party |\n| Demand | Limited use; just over 50 disclosures in two years | Applications rose from 256 (2018–19) to 662 (2023–24) |\n| Cost and speed | About **$3,959** per application | Median **21 days** to disclosure (target 14) |\n| Support | Linked to a crisis support program | A specialist worker at every disclosure |\n| Outcome | Not continued — \"evidence base is not there yet\" | Ongoing; a flat budget is causing delays…",
+      "Use it for": "- **fam.2.4** — evaluating a non-court response to domestic violence.\n- **Law reform** — an election promise borrowing another state's model (chg.3.2).",
+      "Caution": "A **class evidence summary of an election announcement**; no independent experts or critics of disclosure schemes are included."
+     },
+     "path": "evidence/media/victoria-clares-law-pledge-2026.md",
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "shelter",
+   "label": "Shelter",
+   "part": "HSC Option 5",
+   "course": "hsc",
+   "items": [
+    {
+     "id": "supportive-housing-end-rough-sleeping-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "6,437 supportive homes could end rough sleeping in NSW (Per Capita for Homelessness NSW, October 2026)",
+     "short": "Supportive housing to end rough sleeping",
+     "citation": "Evidence summary of Per Capita, Supportive Housing Needs in NSW (October 2026, commissioned by Homelessness NSW with AAEH, CHIA NSW and providers), reported by New England Times, 10 November 2026; Housing Act 2001 (NSW) s 5; Anti-Discrimination Act 1977 (NSW); LEPRA 2002 ss 197, 199",
+     "date": "2026-11-10",
+     "added": "2026-11-11",
+     "significance": "NSW has no legal right to housing and no discrimination protection for homelessness. A costed Housing First plan says 6,437 supportive homes would save more than they cost.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.3.3",
+      "shel.3.4"
+     ],
+     "core_labels": [
+      "Homelessness",
+      "Social housing"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-supportive-housing-end-rough-sleeping-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - Supportive Housing to End Rough Sleeping Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1QRgAJThRTiEAvLQyie77xUn76fhgWnf0/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.netimes.com.au/2026/11/10/6437-homes-could-end-rough-sleeping/",
+     "lead": "The 2026 NSW Street Count found **2,308** people sleeping rough, up 5%. Per Capita estimates **6,437** supportive homes are needed by\n2033 (half from existing social housing, half new); yearly government savings of **$227m** would exceed the **$187m** net running\ncost, returning **$1.39** per dollar over 60 years.",
+     "use_it_for": "- **shel.3.3** — legal and non-legal responses to homelessness; Housing First.\n- **NGOs** — a peak body using commissioned research for reform (shel.2.9).",
+     "caution": "**Advocacy research** commissioned by those who would deliver the homes, reported uncritically. The 6,437 figure covers persistent\nhomelessness, not only rough sleeping.",
+     "sections": {
+      "Current approach v the proposal": "| | Now | Per Capita proposal |\n|---|---|---|\n| Right to housing | Housing Act s 5 sets objects only | No new legal right; a funding commitment |\n| Homes | Building Homes for NSW: $6.6bn, 8,400 social homes | 6,437 dedicated supportive homes |\n| Support | $130m for 200+ crisis beds by 2029 | Ongoing case management, mental health, drug and alcohol, after-hours support |\n| Public space | Non-binding Protocol; police move-on powers (LEPRA s 197) | Removes the need to sleep rough |\n| Discrimination | No homelessness or accommodation-status ground in the ADA | Not addressed; NSWLRC review under way |\n\nPeople would be identified through By-Name Lists and a planned NSW Street Sleeping Registry.",
+      "Use it for": "- **shel.3.3** — legal and non-legal responses to homelessness; Housing First.\n- **NGOs** — a peak body using commissioned research for reform (shel.2.9).",
+      "Caution": "**Advocacy research** commissioned by those who would deliver the homes, reported uncritically. The 6,437 figure covers persistent\nhomelessness, not only rough sleeping."
+     },
+     "path": "evidence/media/supportive-housing-end-rough-sleeping-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "hunter-social-housing-waitlist-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Hunter social housing queue nears 6,400 as the NSW list hits a record (Newcastle Herald, 9 November 2026)",
+     "short": "Hunter social housing waitlist",
+     "citation": "Evidence summary of Madeline Link, Newcastle Herald, 9 November 2026; DCJ waitlist data (30 September 2026); CHIA NSW and McKell Institute report (4 November 2026); Housing Act 2001 (NSW)",
+     "date": "2026-11-09",
+     "added": "2026-11-11",
+     "significance": "A record 72,232 NSW households are waiting for social housing, almost 6,400 in the Hunter, while government and the community housing sector dispute whether current investment is enough.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.3.4",
+      "shel.3.1"
+     ],
+     "core_labels": [
+      "Social housing",
+      "Affordability"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-hunter-social-housing-waitlist-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - Hunter Social Housing Waitlist Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/12m-FN8_LpqWLBnlDDECnfvcSH7tFGuY2/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.newcastleherald.com.au/story/9384233/hunter-housing-waitlist-hits-6400-as-urgent-funds-sought/",
+     "lead": "The story follows refugee **Aziza Anwari**'s search for a home. The Hunter (Newcastle, Lake Macquarie) has almost **6,400**\nhouseholds waiting, more than **765** on the priority list; need rose **12%** in a year, and Newcastle's rental vacancy rate was\n**1.5%** at the end of 2025.",
+     "use_it_for": "- **shel.3.4** — the gap between the legal framework for allocating social housing and the supply available.\n- **Effectiveness** — government (Minister Rose Jackson) against the sector's case for more investment.",
+     "caution": "A **regional feature** leaning to the sector's case, published shortly before the state election; Hunter figures were not checked\nagainst DCJ allocation-zone data.",
+     "sections": {
+      "Demand v supply": "| | Demand | Supply |\n|---|---|---|\n| Statewide | **72,232** households waiting; 14,155 approved as priority (30 September 2026) | 5,175 social, affordable and key worker homes since early 2023 |\n| Hunter | ~6,400 waiting | 150+ homes since April 2023; 77 more due |\n| Existing stock | 30,000 public homes targeted for repair | 25,752 upgrades (July 2024 to June 2026) |\n| Private market | Lake Macquarie three-bedroom rents up almost 7% in six months | Rent rises once a year; no-grounds evictions banned |\n\nCHIA NSW proposes a **$26bn** fund for 50,000 social and affordable homes by 2050. Demand counts households at one date; supply\ncounts homes over several years, so the columns are not directl…",
+      "Use it for": "- **shel.3.4** — the gap between the legal framework for allocating social housing and the supply available.\n- **Effectiveness** — government (Minister Rose Jackson) against the sector's case for more investment.",
+      "Caution": "A **regional feature** leaning to the sector's case, published shortly before the state election; Hunter figures were not checked\nagainst DCJ allocation-zone data."
+     },
+     "path": "evidence/media/hunter-social-housing-waitlist-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "northern-rivers-temporary-housing-villages-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Northern Rivers flood pod villages wind down as the 2027 end nears (NSW Government, 9 November 2026)",
+     "short": "Northern Rivers temporary housing villages",
+     "citation": "Evidence summary of a NSW ministerial media release (Janelle Saffin and Rose Jackson), 9 November 2026; NSW Audit Office report (2024); State Environmental Planning Policy (Housing) 2021 (NSW)",
+     "date": "2026-11-09",
+     "added": "2026-11-11",
+     "significance": "The state built disaster shelter after the 2022 floods; turning pods into permanent homes is harder. The Audit Office found no exit plan, and no flood-free lots had been delivered by March 2026.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.2.8",
+      "shel.3.3"
+     ],
+     "core_labels": [
+      "The role of government organisations",
+      "Homelessness"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-northern-rivers-temporary-housing-villages-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - Northern Rivers Temporary Housing Villages Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1SuYeNbZjW_nw76xvO2eeuVVPYkLThl7B/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.nsw.gov.au/ministerial-releases/repurposing-temporary-housing-as-focus-shifts-to-permanent-homes",
+     "lead": "After the 2022 floods the government built **546** dwellings across **11** villages; **1,021** people lived in them in July 2023.\nFive closed in 2025. The remaining six were extended to December 2026; the 9 November release sets a different outcome for each.\n\n| Village | After 9 November 2026 |\n|---|---|\n| Ballina, Mullumbimby | Homes NSW keeps managing for 12 more months |\n| Brunswick Heads | Offered to Byron Shire Council, which sought a community housing provider |\n| Coraki | Offered to Richmond Valley Council; 56 pods considered for worker accommodation |\n| Lismore, Wardell | Close early 2027; decommissioned for future housing |",
+     "use_it_for": "- **shel.2.8 / shel.1.3** — government as a direct provider of shelter after a disaster, and the limits of that role.\n- **shel.3.3** — the government pledges no one will be left homeless; the Auditor-General warned of no exit strategy.",
+     "caution": "A **government promotional release**: no resident numbers, outcome data or resident, council or advocate voices.",
+     "sections": {
+      "The pathway": "Emergency accommodation (peaking at 1,440 people in April 2022) → a temporary village under an occupancy agreement → an\nincome-tested licence fee from late 2024 → individual support and up to **$10,000** to move on → a permanent home. Villages must\nbe demobilised within five years under the Housing SEPP. **0 of 4,382** planned flood-free homes or lots had been delivered by\n31 March 2026; about 270 residents had moved to longer-term housing by August 2024.",
+      "Use it for": "- **shel.2.8 / shel.1.3** — government as a direct provider of shelter after a disaster, and the limits of that role.\n- **shel.3.3** — the government pledges no one will be left homeless; the Auditor-General warned of no exit strategy.",
+      "Caution": "A **government promotional release**: no resident numbers, outcome data or resident, council or advocate voices."
+     },
+     "path": "evidence/media/northern-rivers-temporary-housing-villages-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "reinsw-blames-rental-reforms-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "REINSW blames NSW rental reforms as investor lending falls (Australian Conveyancer, 9 November 2026)",
+     "short": "REINSW blames rental reforms",
+     "citation": "Evidence summary of Australian Conveyancer, 9 November 2026 (statement by Tim McKibbin, CEO, Real Estate Institute of NSW); Residential Tenancies Act 2010 (NSW) as amended by the Residential Tenancies Amendment Act 2024 (NSW)",
+     "date": "2026-11-09",
+     "added": "2026-11-11",
+     "significance": "The landlord-industry body blames 2024 tenancy reforms for falling investor lending; the RBA points to interest rates and tax. The central tension: tenants' security against investors' supply.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.2.2",
+      "shel.3.1"
+     ],
+     "core_labels": [
+      "Leasing — rights and obligations of landlords and tenants",
+      "Affordability"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-reinsw-blames-rental-reforms-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - REINSW Blames NSW Rental Reforms Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1V77W5GwAmmRT3YTxTrdCuTwIr3w3xYxV/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.australianconveyancer.com.au/article/government-at-fault-for-the-pain-tenants-are-feeling",
+     "lead": "REINSW's CEO says government is \"at fault for the pain tenants are feeling\". New housing loan commitments fell **27%** from their\nNovember 2025 peak (RBA, all borrowers), though NSW had reported investor lending up **23.4%** from September 2024 to December\n2025. Sydney's vacancy rate rose to **2.5%** (from 1.8%) and rents fell **0.4%** in the September quarter 2026.",
+     "use_it_for": "- **shel.2.2** — the rights of landlords and tenants, and the effects of reform.\n- **Competing interests** — an industry stakeholder's claim tested against data.",
+     "caution": "A **one-sided report** of an advocacy statement: the reforms are never named, and no government, tenant or independent voice\nor rent data is included.",
+     "sections": {
+      "Tenant rights before and after the reforms": "| | Before | After (from October 2024 / May 2025) |\n|---|---|---|\n| Ending a periodic lease | No reason; 90 days' notice | Valid reason plus evidence; usually 90 days |\n| End of a fixed term | No reason; 30 days' notice | Reason needed; 60 or 90 days |\n| Rent increases | — | Once every 12 months for all leases |\n| Pets | Landlord consent required | Refusal only on permitted grounds |\n\nThe no-grounds eviction ban took effect on **19 May 2025**.",
+      "Use it for": "- **shel.2.2** — the rights of landlords and tenants, and the effects of reform.\n- **Competing interests** — an industry stakeholder's claim tested against data.",
+      "Caution": "A **one-sided report** of an advocacy statement: the reforms are never named, and no government, tenant or independent voice\nor rent data is included."
+     },
+     "path": "evidence/media/reinsw-blames-rental-reforms-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "victorian-underquoting-price-guides-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Underquoting laws fail to make Victorian price guides reliable (AFR, 10 November 2026)",
+     "short": "Victorian underquoting laws",
+     "citation": "Evidence summary of Madeleine Bower, The Australian Financial Review, 10 November 2026, on Australian Property Institute and Homer analysis (year to 30 June 2026); Estate Agents Act 1980 (Vic) ss 47A–47C; Property and Stock Agents Act 2002 (NSW) s 72A; Australian Consumer Law ss 18, 30",
+     "date": "2026-11-10",
+     "added": "2026-11-11",
+     "significance": "Despite detailed underquoting laws and a taskforce, reported research says only 43% of Victorian homes sold within their first price guide — as NSW adopts similar rules and higher penalties.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.2.1",
+      "shel.2.8"
+     ],
+     "core_labels": [
+      "Purchasing",
+      "The role of government organisations"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-victorian-underquoting-price-guides-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - Victorian Underquoting Laws and Price Guides Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1n0BWFVOLQLh6GPB5V0QiFJiglzFEjCw6/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "The API and Homer analysed **102,681** Victorian sales: **43%** sold within the first price guide buyers saw, and only **68 of\n1,919** agents sold within their own guide in four of five campaigns. Victoria's taskforce issued **185** fines worth over $2m\n(September 2022 to July 2025).",
+     "use_it_for": "- **shel.2.1** — legal protection for buyers when purchasing.\n- **Effectiveness** — rules plus enforcement still falling short (shel.2.8).",
+     "caution": "A **report of industry-commissioned research** that could not be located to check; the article leans critical of the reforms.",
+     "sections": {
+      "Victoria v NSW": "| | Victoria | NSW |\n|---|---|---|\n| Law | Estate Agents Act 1980 | Property and Stock Agents Act 2002 |\n| Estimate | Reasonable; single figure or range up to 10% | s 72A: reasonable; range up to 10% |\n| Price in ads | Required since 1 May 2017 | Required from **17 November 2026** |\n| Comparable sales | Property Price Statement from 1 October 2026 | Statement of Information from 8 February 2027 |\n| Reserve price | Published at least 7 days before auction | Not in the reforms |\n| Maximum penalty | About $50,000; possible loss of commission | $110,000 or three times commission |\n| Valuation | No independent valuation power found | Fair Trading can order an independent valuer check (since 29 Ju…",
+      "Use it for": "- **shel.2.1** — legal protection for buyers when purchasing.\n- **Effectiveness** — rules plus enforcement still falling short (shel.2.8).",
+      "Caution": "A **report of industry-commissioned research** that could not be located to check; the article leans critical of the reforms."
+     },
+     "path": "evidence/media/victorian-underquoting-price-guides-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "mortgage-prison-refinancing-2026",
+     "status": "new",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Younger borrowers risk being locked in \"mortgage prison\" (SMH, 9 November 2026)",
+     "short": "Mortgage prison and refinancing",
+     "citation": "Evidence summary of Clancy Yeates, The Sydney Morning Herald, 9 November 2026, drawing on Equifax and Canstar data; National Consumer Credit Protection Act 2009 (Cth) ss 128–133; National Credit Code s 72; APRA APS 220 serviceability buffer",
+     "date": "2026-11-09",
+     "added": "2026-11-11",
+     "significance": "Laws meant to stop unaffordable lending can also trap existing borrowers: after five 2026 rate rises and falling prices, recent buyers who fail a new lender's test cannot switch.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.2.1",
+      "shel.3.1"
+     ],
+     "core_labels": [
+      "Purchasing",
+      "Affordability"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-mortgage-prison-refinancing-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - Mortgage Prison and Refinancing Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1bqYGIaPJW-T5gMqw894mxSsuNaes5ENh/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.smh.com.au/business/banking-and-finance/why-younger-homebuyers-risk-being-locked-in-mortgage-prison-20261109-p61byd.html",
+     "lead": "The RBA's fifth 2026 rise (3 November) took the cash rate to **4.85%**, the highest since 2008. Refinancing to a new lender by\n26–35-year-olds fell **14.2%** in the year to September, while it rose for over-55s. National home values are down **6.7%** from\nthe March 2026 peak, and a record **5.8%** of new loans were approved as serviceability exceptions (June quarter).",
+     "use_it_for": "- **shel.2.1 / shel.3.1** — credit law, purchasing and affordability; a protective law with an unintended effect.\n- **Dispute resolution** — hardship rights and AFCA as remedies (shel.2.5).",
+     "caution": "An **economic analysis**, not a legal piece; Equifax figures measure refinancing demand, not refusals, and no regulator response\nis given.",
+     "sections": {
+      "Who can refinance v the mortgage prisoner": "| | Can refinance | Mortgage prisoner |\n|---|---|---|\n| Profile | Older borrowers, low balances, long-held homes | Recent, younger first home buyers |\n| Equity | Home has grown in value | High loan-to-value after price falls; may need mortgage insurance |\n| Serviceability | Passes the new lender's test at product rate plus 3 points | Fails a test near 9.5% while still meeting current repayments |\n| Legal route | A new contract: responsible lending assessment (NCCP Act ss 128–131) | Hardship request (National Credit Code s 72); complaint to AFCA |\n\nSome lenders assess like-for-like refinances at a 1-point buffer as an exception to policy.",
+      "Use it for": "- **shel.2.1 / shel.3.1** — credit law, purchasing and affordability; a protective law with an unintended effect.\n- **Dispute resolution** — hardship rights and AFCA as remedies (shel.2.5).",
+      "Caution": "An **economic analysis**, not a legal piece; Equifax figures measure refinancing demand, not refusals, and no regulator response\nis given."
+     },
+     "path": "evidence/media/mortgage-prison-refinancing-2026.md",
+     "in_site_build": true
+    },
+    {
+     "id": "older-women-co-housing-darra-2026",
+     "status": "updated",
+     "type": "media",
+     "type_label": "Media",
+     "title": "Australia-first co-housing gives older women secure homes at Darra, Brisbane (ABC, 9 November 2026)",
+     "short": "Older women co-housing Darra",
+     "citation": "Evidence summaries (9, 10 and 11 November 2026) of Meghan Dansie and Lexy Hamilton-Smith, ABC News, 9 November 2026; Planning Act 2016 (Qld) and Planning Regulation 2017 (Qld) (rooming accommodation); Sex Discrimination Act 1984 (Cth) s 7D; Age Discrimination Act 2004 (Cth) s 33; State Environmental Planning Policy (Housing) 2021 (NSW)",
+     "date": "2026-11-09",
+     "added": "2026-11-10",
+     "significance": "A charity's 50-year-lease model gives older women secure homes, but planning law has no co-housing category, so it was approved as a boarding house — law lagging behind a growing shelter need.",
+     "topic": "shelter",
+     "also_topics": [],
+     "core": [
+      "shel.3.4",
+      "shel.1.2"
+     ],
+     "core_labels": [
+      "Social housing",
+      "Right to shelter"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-older-women-co-housing-darra-2026",
+     "document": "Shelter/Evidence Sheets/Shelter - Older Women Co-housing Darra Evidence Summary.pdf",
+     "document_url": "https://drive.google.com/file/d/1Vw96cAXzsX8Nabd0nXj0cZHMKH7eHsxc/view",
+     "document_missing_id": false,
+     "document11": "",
+     "document11_url": null,
+     "document11_missing_id": false,
+     "source": "https://www.abc.net.au/news/2026-11-09/queensland-sharing-friends-women-co-housing-project/107337800",
+     "lead": "Five women moved into the first project of the charity **Sharing with Friends** (Older Women Co-Housing Association Qld). Each\npaid **$120,000** for a **50-year lease** of a private studio, refunded with CPI on leaving or death (less renovation costs);\nweekly contributions are about $180–200. Census night 2021 counted **7,325** homeless women aged 55+, up from 5,234 in 2011;\n58.8% of 288,970 specialist homelessness clients in 2024–25 were female.",
+     "use_it_for": "- **shel.3.4 / shel.1.2** — non-government responses to homelessness among older women; planning law as a barrier.\n- **Law reform** — the charity wants co-housing written into planning law.",
+     "caution": "A **sympathetic human-interest report** with no government, council or planning voice; terms come from the charity's FAQ, and\nthe legal basis for \"cannot be evicted\" is not explained.",
+     "sections": {
+      "Boarding house v the Darra model": "| | Boarding house / rooming accommodation | Darra co-housing |\n|---|---|---|\n| Planning label | Rooming accommodation; boarding houses listed | No co-housing category exists |\n| Right to occupy | Rooms, with shared facilities | 50-year lease of a self-contained studio, plus shared spaces |\n| What residents pay | Rent | $120,000 buy-in, refunded plus CPI |\n| Who runs it | A provider, possibly accredited | Charity owns the land; residents manage the community |\n| Resale | — | Cannot be sold on the open market, keeping it affordable |\n\nAnti-discrimination law allows women-only, age-based housing as a special measure (SDA s 7D; ADA s 33) but does not create or\nfund it. NSW's Housing SEPP separa…",
+      "Use it for": "- **shel.3.4 / shel.1.2** — non-government responses to homelessness among older women; planning law as a barrier.\n- **Law reform** — the charity wants co-housing written into planning law.",
+      "Caution": "A **sympathetic human-interest report** with no government, council or planning voice; terms come from the charity's FAQ, and\nthe legal basis for \"cannot be evicted\" is not explained."
+     },
+     "path": "evidence/media/older-women-co-housing-darra-2026.md",
+     "update": {
+      "commits": [
+       {
+        "sha": "3c4aeb6",
+        "subject": "Evidence: file the 11 Nov inbox — six decisions (nos 117-122), eleven new media records, six cards updated"
+       }
+      ],
+      "latest_sha": "3c4aeb6",
+      "added_text": "---\ntype: media\ntitle: Australia-first co-housing gives older women secure homes at Darra, Brisbane (ABC, 9 November 2026)\nshort: Older women co-housing Darra\ncitation: Evidence summaries (9, 10 and 11 November 2026) of Meghan Dansie and Lexy Hamilton-Smith, ABC News, 9 November 2026; Planning Act 2016 (Qld) and Planning Regulation 2017 (Qld) (rooming accommodation); Sex Discrimination Act 1984 (Cth) s 7D; Age Discrimination Act 2004 (Cth) s 33; State Environmental Planning Policy (Housing) 2021 (NSW)\ndate: 2026-11-09\njurisdiction: Queensland (Brisbane City Council planning approval); Commonwealth anti-discrimination law; NSW compared\nsignificance: A charity's 50-year-lease model gives older women secure homes, but planning law has no co-housing category, so it was approved as a boarding house — law lagging behind a growing shelter need.\ncore: shel.3.4, shel.1.2\nsupport: shel.3.1, shel.1.4, shel.2.6, shel.3.3, chg.1.6\nthemes: shel.t.reform, shel.t.effectiveness, shel.t.values\ncriteria: accessibility, society, responsiveness\ndocument: Shelter/Evidence Sheets/Shelter - Older Women Co-housing Darra Evidence Summary.pdf\nsource: https://www.abc.net.au/news/2026-11-09/queensland-sharing-friends-women-co-housing-project/107337800\nrelated: shelter-homelessness-evidence-sheet, abs-homelessness-census-2021, nsw-planning-law-shelter-sheet, commonwealth-discrimination-acts-housing, lydias-legacy-tiny-homes-planning-2026\nadded: 2026-11-10\nadded_at: 2026-11-10 08:36\nupdated_at: 2026-11-11 …",
+      "removed_lines": 0,
+      "added_lines": 53
+     },
+     "in_site_build": true
+    }
+   ]
+  },
+  {
+   "key": "investigating",
+   "label": "Investigating the law",
+   "part": "Year 11 (Preliminary) Focus area 1",
+   "course": "preliminary",
+   "items": [
+    {
+     "id": "peers-v-eastern-health-2026",
+     "status": "new",
+     "type": "case",
+     "type_label": "Case law",
+     "title": "Peers v Eastern Health [2026] FCA 1677 — a dismissed anaesthetist's s 109 challenge to a Victorian pandemic law fails",
+     "short": "Peers v Eastern Health",
+     "citation": "[2026] FCA 1677 (McEvoy J, 10 November 2026)",
+     "date": "2026-11-10",
+     "added": "2026-11-11",
+     "significance": "A former anaesthetist asked the Federal Court to declare a Victorian pandemic law inoperative under s 109. The Court had jurisdiction but found no inconsistency, no utility in declarations and no standing.",
+     "topic": "investigating",
+     "also_topics": [],
+     "core": [
+      "inv.5.2",
+      "inv.4.1"
+     ],
+     "core_labels": [
+      "The division of powers between federal, state and territory governments",
+      "The role, jurisdiction and hierarchy of courts in NSW and Australia"
+     ],
+     "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-peers-v-eastern-health-2026",
+     "document": "",
+     "document_url": null,
+     "document_missing_id": false,
+     "document11": "Cases/Year 11/Year 11 - Peers v Eastern Health [2026] FCA 1677 - Case Summary.pdf",
+     "document11_url": "https://drive.google.com/file/d/1WS6M86NWyW_EUw5DfPCitEe9xQXJRoOW/view",
+     "document11_missing_id": false,
+     "source": "",
+     "lead": "Dismissed by Eastern Health in 2022 for misconduct linked to her vaccination status, the applicant (self-represented) sought\ndeclarations that s 165AI of Victoria's *Public Health and Wellbeing Act* was inconsistent with the *Fair Work Act* and so\n**inoperative under s 109** of the Constitution. The matter came to the Federal Court from the High Court.",
+     "use_it_for": "- **Year 11 Investigating the law** — the division of powers and s 109 (inv.5.2), court jurisdiction and hierarchy (inv.4.1),\n  and courts testing a State Act against a Commonwealth Act (inv.4.5, inv.5.4).",
+     "caution": "Year 11 only: a federalism case, not a human rights case — no rights instrument is discussed. The file gives two dates for the\nend of later directions.",
+     "sections": {
+      "The questions": "| Issue | Held |\n|---|---|\n| Jurisdiction (ss 71, 77) | Yes, the Federal Court had jurisdiction |\n| Inconsistency under s 109 | None — the State and Commonwealth laws can operate together |\n| Utility of declarations | None |\n| Standing | No |\n\nAll claims failed; she was ordered to pay **costs**.",
+      "Use it for": "- **Year 11 Investigating the law** — the division of powers and s 109 (inv.5.2), court jurisdiction and hierarchy (inv.4.1),\n  and courts testing a State Act against a Commonwealth Act (inv.4.5, inv.5.4).",
+      "Caution": "Year 11 only: a federalism case, not a human rights case — no rights instrument is discussed. The file gives two dates for the\nend of later directions."
+     },
+     "path": "evidence/cases/peers-v-eastern-health-2026.md",
+     "in_site_build": true
+    }
+   ]
+  }
+ ],
+ "notes": [
+  "2 commit(s) on this Mac have not been pushed (as of the last fetch): card links will not work for those cards until Push origin."
+ ]
+}
