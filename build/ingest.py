@@ -278,6 +278,7 @@ def refresh(commit_msg=None):
     run([py, "build/build_evidence.py"])
     run([py, "build/verify_evidence.py"])
     run([py, "build/build_mindmap.py"])   # question counts and evidence lists on the map
+    run([py, "build/build_whatsnew.py"])  # feed behind the What's New box on the Google Site
 
     lib = json.load(open(os.path.join(ROOT, "data", "library.json")))["files"]
     ids = m["files"]
@@ -303,7 +304,8 @@ def refresh(commit_msg=None):
                              capture_output=True, text=True).stdout.split("\n")
         subprocess.run(["git", "add", "evidence", "evidence.html", "data/library.json",
                         "data/library-tags.txt", "data/drive-links.json", "data/ingest-log.jsonl",
-                        "mind-map/index.html", "mind-map/links-review.html"],
+                        "mind-map/index.html", "mind-map/links-review.html",
+                        "data/whats-new.json", "data/site-changes.json"],
                        cwd=ROOT, check=False)
         r = subprocess.run(["git", "-c", f"user.name={who[0]}", "-c", f"user.email={who[1]}",
                             "commit", "-m", commit_msg], cwd=ROOT, capture_output=True, text=True)
