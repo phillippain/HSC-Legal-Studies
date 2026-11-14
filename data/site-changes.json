@@ -1,8 +1,28 @@
 [
- {"date": "2026-11-14", "text": "NEW: Explainer pages for Crime 1 to 5 (nature of crime, investigation, trial process, sentencing, young offenders), each with a hub and short topic pages.", "hold": true},
- {"date": "2026-11-13", "text": "NEW: Slides and booklets for all six Crime topics, on the Crime card below."},
- {"date": "2026-11-13", "text": "NEW: Crime Glossary, 307 terms with flashcards and a quiz (see Tools below).", "link": "https://phillippain.github.io/HSC-Legal-Studies/glossary/"},
- {"date": "2026-11-13", "text": "Home page rebuilt: topics, tools and revision links are all on this page."},
- {"date": "2026-11-13", "text": "Past assessment tasks and the 2026 Federal Budget page moved to the Archive."},
- {"date": "2026-11-11", "text": "2027 slides and booklets added for Crime 1, 2 and 3."}
+ {
+  "date": "2026-11-14",
+  "text": "NEW: Explainer pages for all six Crime topics (nature of crime, investigation, trial process, sentencing, young offenders, international crime), each with a hub and short topic pages.",
+  "hold": true
+ },
+ {
+  "date": "2026-11-13",
+  "text": "NEW: Slides and booklets for all six Crime topics, on the Crime card below."
+ },
+ {
+  "date": "2026-11-13",
+  "text": "NEW: Crime Glossary, 307 terms with flashcards and a quiz (see Tools below).",
+  "link": "https://phillippain.github.io/HSC-Legal-Studies/glossary/"
+ },
+ {
+  "date": "2026-11-13",
+  "text": "Home page rebuilt: topics, tools and revision links are all on this page."
+ },
+ {
+  "date": "2026-11-13",
+  "text": "Past assessment tasks and the 2026 Federal Budget page moved to the Archive."
+ },
+ {
+  "date": "2026-11-11",
+  "text": "2027 slides and booklets added for Crime 1, 2 and 3."
+ }
 ]
