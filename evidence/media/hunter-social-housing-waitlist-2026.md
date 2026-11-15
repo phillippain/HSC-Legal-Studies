@@ -15,7 +15,7 @@ source: https://www.newcastleherald.com.au/story/9384233/hunter-housing-waitlist
 related: short-stay-levy-community-housing-2026, housing-act-2001, shelter-social-housing-evidence-sheet, right-help-right-time-homelessness-2026
 added: 2026-11-11
 added_at: 2026-11-11 08:07
-updated_at: 2026-11-11 08:07
+updated_at: 2026-11-16 09:59
 ---
 
 The story follows refugee **Aziza Anwari**'s search for a home. The Hunter (Newcastle, Lake Macquarie) has almost **6,400**
@@ -33,6 +33,9 @@ households waiting, more than **765** on the priority list; need rose **12%** in
 
 CHIA NSW proposes a **$26bn** fund for 50,000 social and affordable homes by 2050. Demand counts households at one date; supply
 counts homes over several years, so the columns are not directly comparable.
+
+A [second class summary of the same report](https://drive.google.com/file/d/1g1I36JoCxsftEDD0Xw2UQV8ja295SBjH/view) adds the median wait for general applicants housed: **15.6 months**
+(September 2026).
 
 ## Use it for
 

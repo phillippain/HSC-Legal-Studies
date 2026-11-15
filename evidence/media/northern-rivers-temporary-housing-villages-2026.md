@@ -15,7 +15,7 @@ source: https://www.nsw.gov.au/ministerial-releases/repurposing-temporary-housin
 related: shelter-homelessness-evidence-sheet, nsw-planning-law-shelter-sheet, courier-mail-2026-lismore-sirius-college, housing-act-2001
 added: 2026-11-11
 added_at: 2026-11-11 08:07
-updated_at: 2026-11-11 08:07
+updated_at: 2026-11-16 09:59
 ---
 
 After the 2022 floods the government built **546** dwellings across **11** villages; **1,021** people lived in them in July 2023.
@@ -34,6 +34,9 @@ Emergency accommodation (peaking at 1,440 people in April 2022) → a temporary 
 income-tested licence fee from late 2024 → individual support and up to **$10,000** to move on → a permanent home. Villages must
 be demobilised within five years under the Housing SEPP. **0 of 4,382** planned flood-free homes or lots had been delivered by
 31 March 2026; about 270 residents had moved to longer-term housing by August 2024.
+
+A [second class summary of the release](https://drive.google.com/file/d/1aDTfBJyK0E7QGkcbMCRBpNQUQnKeK21v/view) notes residents hold occupancy agreements, not clear tenancies, and that the
+advocacy group House You counted **157+** households still in the villages in September 2026 (not government data).
 
 ## Use it for
 

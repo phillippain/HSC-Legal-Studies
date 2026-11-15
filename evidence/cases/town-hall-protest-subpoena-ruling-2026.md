@@ -14,7 +14,7 @@ document: Crime/Criminal Trial Process/Town Hall protest CCTV subpoena ruling (E
 source: https://www.abc.net.au/news/2026-10-20/nsw-new-cctv-of-police-town-hall-sydney-protest/107285036
 related: lecc-operation-makalu-2026, lees-and-jarrett-protest-powers, lepra-2002, use-of-evidence-and-witnesses, the-adversary-system-and-court-jurisdiction, crimes-act-1900-key-offences
 added: 2026-10-21
-updated_at: 2026-11-12 07:51
+updated_at: 2026-11-16 09:59
 ---
 
 **Sixteen protesters**, led by Adam Adelpour, face trial over the **9 February 2026** Town Hall rally
@@ -63,6 +63,9 @@ visit. Police withdrew **10 of about 30** prosecutions after the Court of Appeal
 Amendment Act 2025*) invalid in April 2026. Evidence is due on 8 March 2027, five days before the state election; a joint trial of 16+
 protesters starts from July 2027. The case shows ICCPR rights (arts 19, 21) tested in NSW without a human rights act — through criminal
 defences, constitutional challenges and the LECC. [Class evidence summary](https://drive.google.com/file/d/1xbjfBdLL1CV90qTn7SNvKmSUJfmpMOG1/view).
+
+A [second class summary of the 11 November report](https://drive.google.com/file/d/1uzSnGIY3Z8qmAMhklNo6e1mHL8qDqZQk/view) names the three ministers as the Premier, the Police
+Minister and the Tourism Minister, and notes 27 people were arrested on the night; reported counts of those charged vary over time.
 
 ## Use it for
 

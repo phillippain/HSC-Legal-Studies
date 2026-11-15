@@ -1,9 +1,9 @@
 ---
 type: media
-title: NT and Queensland shut a UN expert out of youth detention (Amnesty International, 2 November 2026)
+title: NT and Queensland shut a UN expert out of youth detention — and his end-of-mission findings (November 2026)
 short: UN rapporteur refused detention access
 citation: Evidence summaries of an Amnesty International Australia media release, 2 November 2026, Chloe Chomicki, ABC News, 4 November 2026, and Roxanne Fitzgerald, ABC News, 5 November 2026 (summarised 6 and 9 November), on the refusal of the UN Special Rapporteur on the Rights of Indigenous Peoples' requests to visit Holtze (NT) and Cleveland (Qld) youth detention centres; UNDRIP; OPCAT (ratified December 2017); CROC arts 37(b), 40(1)
-date: 2026-11-09
+date: 2026-11-13
 jurisdiction: UN Human Rights Council special procedures; Northern Territory and Queensland youth detention; Commonwealth answerable internationally
 significance: A UN expert invited to Australia was refused entry to two youth detention centres holding mostly First Nations children — the third UN access dispute since 2022.
 core: hr.2.2, hr.2.1
@@ -16,7 +16,7 @@ source: https://www.abc.net.au/news/2026-11-05/united-nations-blocked-from-inspe
 related: un-experts-custody-bills-2026, senate-youth-justice-inquiry-2026, croc-1989, young-offenders-in-the-cjs, qld-breach-bail-go-to-jail-2026
 added: 2026-11-04
 added_at: 2026-11-04 07:17
-updated_at: 2026-11-11 08:07
+updated_at: 2026-11-16 09:59
 ---
 
 The Special Rapporteur's official visit runs **2–13 November 2026**. The NT and Queensland refused planned visits to
@@ -89,6 +89,23 @@ Carli Willis's NITV report centres community and Social Justice Commissioner voi
 came in before the visit, and communities called on the Prime Minister to step in. NT Parliament answers record **209** physical
 assaults at Holtze in 2025. The final report goes to the Human Rights Council in **September 2027**.
 [Class evidence summary of the NITV report](https://drive.google.com/file/d/1_YTkhro4VP6UM6LzGsAJjmc1BElC5vkP/view).
+
+## End-of-mission findings (ABC, 13 November 2026)
+
+Dr Barume called the state of Indigenous rights "embarrassing" and released **preliminary** recommendations; the final report goes to
+the Human Rights Council in **September 2027**. **37%** of adult prisoners were Aboriginal and Torres Strait Islander (June 2025), and
+**60%** of detained children were Indigenous (average night, June quarter 2025), against 6.6% of the population.
+
+| Rapporteur recommends (preliminary) | Government position |
+|---|---|
+| Commonwealth to legislate mandatory Indigenous rights standards consistent with UNDRIP | AG's spokesperson: rights already protected by laws, common law and the Constitution |
+| A national minimum mandatory standard for youth justice | The Senate committee also recommended national minimum standards (September 2026) |
+| Raise the age of criminal responsibility | NT lowered it to 10 in 2024; only the ACT is at 14 |
+| Reconsider punitive bail and sentencing laws | Queensland applies adult penalties to children, overriding its Human Rights Act |
+| A national representative voice for First Peoples | Queensland and NT scrapped treaty processes; the Victorian Opposition pledges repeal |
+
+Federal minister Malarndirri McCarthy urged states and territories to allow access. The recommendations are not binding, and Commonwealth
+law cannot compel a state to admit a UN visitor without new legislation. [Class evidence summary](https://drive.google.com/file/d/1BVCsBczLUgxB_hRGl7IAUtOqQqpCBM16/view).
 
 ## Use it for
 

@@ -15,7 +15,7 @@ source: https://www.netimes.com.au/2026/11/10/6437-homes-could-end-rough-sleepin
 related: homelessness-nsw-place-to-call-home-2025, ahuri-347-ending-homelessness-2020, guardian-2025-pari-move-on, housing-act-2001, homelessness-services-turning-people-away-2026
 added: 2026-11-11
 added_at: 2026-11-11 08:07
-updated_at: 2026-11-11 08:07
+updated_at: 2026-11-16 09:59
 ---
 
 The 2026 NSW Street Count found **2,308** people sleeping rough, up 5%. Per Capita estimates **6,437** supportive homes are needed by
@@ -33,6 +33,9 @@ cost, returning **$1.39** per dollar over 60 years.
 | Discrimination | No homelessness or accommodation-status ground in the ADA | Not addressed; NSWLRC review under way |
 
 People would be identified through By-Name Lists and a planned NSW Street Sleeping Registry.
+
+A [second class summary](https://drive.google.com/file/d/1wLu5zBYoQJvs-noGNNnSJ530miz8nh5c/view) notes rough sleeping in NSW has risen **75%** since 2020 and frames the plan against
+the right to adequate housing.
 
 ## Use it for
 

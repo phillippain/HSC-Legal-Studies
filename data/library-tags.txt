@@ -647,3 +647,54 @@ Family/Evidence Summaries/Family - Victoria Clare's Law Pledge - Both Sides Evid
 Crime/Media/Crime - NSW Prison Inquests Mental Health - Safe Cells Psychiatrists Evidence Summary.pdf | crime.4.8, hr.2.13
 Crime/Criminal Trial Process/Town Hall protest subpoena ruling - Premier and Police Subpoenaed (Evidence summary 12Nov26).pdf | crime.3.7, hr.2.10
 Crime/Media/Crime - BOCSAR CJB 281 Youth Frontiers Mentoring Evaluation Evidence Summary.pdf | crime.5.5, crime.1.9, crime.2.5, crime.5.4
+Cases/Family/Ashdown & Markin (No 3) [2026] FedCFamC1F 393 - Case Summary.pdf | fam.2.2, fam.2.4, fam.2.5
+Cases/Year 11/Year 11 - Ashdown & Markin (No 3) [2026] FedCFamC1F 393 - Case Summary.pdf | dis.2.4, dis.2.5, dis.2.8
+Cases/Family/Hult & Ezra [2026] FedCFamC1F 627 - Case Summary.pdf | fam.2.5, fam.2.4
+Cases/Year 11/Year 11 - Hult & Ezra [2026] FedCFamC1F 627 - Case Summary.pdf | dis.2.6, dis.2.5, dis.2.8
+Cases/Family/Benzema & Devi [2026] FedCFamC1F 632 - Case Summary.pdf | fam.2.4, fam.2.2, fam.2.3
+Cases/Year 11/Year 11 - Benzema & Devi [2026] FedCFamC1F 632 - Case Summary.pdf | dis.2.5, dis.2.7, dis.2.8
+Cases/Family/Daily & Daily (No 7) [2026] FedCFamC1F 635 - Case Summary.pdf | fam.2.3, fam.2.5, fam.2.1
+Cases/Year 11/Year 11 - Daily & Daily (No 7) [2026] FedCFamC1F 635 - Case Summary.pdf | dis.2.5, dis.2.7, dis.2.8
+Cases/Family/Ysmaiylova & Sedlakova [2026] FedCFamC1F 664 - Case Summary.pdf | fam.1.6, fam.3.2, fam.1.5
+Cases/Year 11/Year 11 - Ysmaiylova & Sedlakova [2026] FedCFamC1F 664 - Case Summary.pdf | inv.4.1, inv.5.2
+Cases/Family/Merckx & Merckx [2026] FedCFamC1F 693 - Case Summary.pdf | fam.2.5, fam.2.3
+Cases/Year 11/Year 11 - Merckx & Merckx [2026] FedCFamC1F 693 - Case Summary.pdf | dis.2.5, dis.2.8
+Cases/Crime/Mikhaiel v R [2026] NSWCCA 186 - Case Summary.pdf | crime.3.7, crime.4.5, crime.3.9
+Cases/Year 11/Year 11 - Mikhaiel v R [2026] NSWCCA 186 - Case Summary.pdf | dis.1.5, dis.1.6, dis.1.8
+Cases/Crime/Gamage v DPP (NSW) [2026] NSWCA 243 - Case Summary.pdf | crime.4.5, crime.3.1
+Cases/Year 11/Year 11 - Gamage v DPP (NSW) [2026] NSWCA 243 - Case Summary.pdf | inv.4.1, inv.1.6, inv.1.7
+Cases/Crime/SAF v R [2026] NSWCCA 190 - Case Summary.pdf | crime.4.5, crime.3.6
+Cases/Year 11/Year 11 - SAF v R [2026] NSWCCA 190 - Case Summary.pdf | dis.1.5, dis.1.6
+Cases/Crime/WE v R [2026] NSWCCA 189 - Case Summary.pdf | crime.3.8, crime.4.5, crime.3.5, crime.6.1
+Cases/Year 11/Year 11 - WE v R [2026] NSWCCA 189 - Case Summary.pdf | inv.1.6, inv.4.3, inv.1.4
+Cases/Crime/Chimmalee v R [2026] NSWCCA 188 - Case Summary.pdf | crime.3.4, crime.3.5, crime.4.5
+Cases/Year 11/Year 11 - Chimmalee v R [2026] NSWCCA 188 - Case Summary.pdf | dis.1.5, dis.1.7
+Cases/Crime/Kinnaird v R [2026] NSWCCA 192 - Case Summary.pdf | crime.4.2, crime.4.3, crime.4.5
+Cases/Year 11/Year 11 - Kinnaird v R [2026] NSWCCA 192 - Case Summary.pdf | dis.1.7, dis.1.5
+Cases/Crime/R v Lardner (No 10) [2026] NSWSC 1430 - Case Summary.pdf | crime.4.3, crime.3.8, crime.4.1
+Cases/Year 11/Year 11 - R v Lardner (No 10) [2026] NSWSC 1430 - Case Summary.pdf | dis.1.7, dis.1.2, dis.1.6
+Cases/Crime/R v CS [2025] NSWSC 1564 - Case Summary.pdf | crime.5.4, crime.4.3, crime.1.7
+Cases/Year 11/Year 11 - R v CS [2025] NSWSC 1564 - Case Summary.pdf | exp.2.3, exp.1.3
+Cases/Crime/State of NSW v Shields (Preliminary) [2026] NSWSC 1427 - Case Summary.pdf | crime.4.8
+Cases/Year 11/Year 11 - State of NSW v Shields (Preliminary) [2026] NSWSC 1427 - Case Summary.pdf | dis.1.7, dis.3.4
+Cases/Crime/SafeWork NSW v Deemah Stone Pty Ltd (No 2) [2026] NSWDC 412 - Case Summary.pdf | crime.4.6, crime.4.3, crime.1.3
+Cases/Year 11/Year 11 - SafeWork NSW v Deemah Stone Pty Ltd (No 2) [2026] NSWDC 412 - Case Summary.pdf | dis.1.7, dis.1.3
+Cases/Human Rights/Moltter v Aboriginal Housing Office [2026] NSWCATAD 351 - Case Summary.pdf | hr.2.9, hr.2.11
+Cases/Year 11/Year 11 - Moltter v Aboriginal Housing Office [2026] NSWCATAD 351 - Case Summary.pdf | dis.2.5, dis.3.4
+Cases/Year 11/Year 11 - Singh v Tian Hock Development Pty Ltd [2026] NSWSC 1432 - Case Summary.pdf | dis.2.4, dis.2.5, dis.2.8
+Cases/Year 11/Year 11 - McLean v Quirk-Orford [2026] NSWCATCD 138 - Case Summary.pdf | dis.2.3, dis.2.5, dis.2.7
+Cases/Year 11/Year 11 - Funding Solved Pty Ltd v Aravanopoulos [2026] NSWSC 1440 - Case Summary.pdf | dis.2.3, dis.2.8, dis.2.7
+Crime/Media/Crime - BOCSAR CJB 282 (police diversion gap) - Third Summary Evidence Summary.pdf | crime.5.5, crime.2.1
+Crime/Criminal Trial Process/Town Hall protest subpoena ruling - Ministers Subpoenaed Second Summary (Evidence summary 13Nov26).pdf | crime.3.7
+Shelter/Evidence Sheets/Shelter - Hunter Social Housing Waitlist - Second Summary Evidence Summary.pdf | shel.3.4
+Shelter/Evidence Sheets/Shelter - Northern Rivers Temporary Housing Villages - Second Summary Evidence Summary.pdf | shel.2.8
+Shelter/Evidence Sheets/Shelter - Supportive Housing to End Rough Sleeping - Second Summary Evidence Summary.pdf | shel.3.3
+Human Rights/HR - UN Rapporteur Refused Detention Access - End of Mission Findings Evidence Summary.pdf | hr.2.2, hr.2.1, hr.3.1
+Crime/Media/Crime - Prisoner Complaints Surge and Remand Evidence Summary.pdf | crime.4.8, crime.2.5, hr.2.4
+Crime/Media/Crime - Vic Coalition Youth Bootcamp Plan Evidence Summary.pdf | crime.5.4, crime.5.5
+Family/Evidence Summaries/Family - Altruistic Surrogacy and ALRC Review Evidence Summary.pdf | fam.3.3, fam.1.4
+Family/Evidence Summaries/Family - Family Court Systems Abuse Evidence Summary.pdf | fam.2.4, fam.2.5
+Family/Evidence Summaries/Family - Police Prosecutor DV Sentencing Hearing Evidence Summary.pdf | fam.2.4, crime.4.4
+Human Rights/HR - High Court Abattoir Footage Evidence Summary.pdf | hr.2.10, hr.2.12, hr.2.13
+Human Rights/HR - UN Toxics Rapporteur Australia Visit Evidence Summary.pdf | hr.2.2, hr.2.1
+Shelter/Evidence Sheets/Shelter - Moreton Bay Homeless Camp Shutdown Evidence Summary.pdf | shel.3.3, shel.1.2

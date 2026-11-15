@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-10/nsw-aboriginal-children-less-like
 related: young-offenders-act-1997, bocsar-cjb279-jas-diversion, bocsar-cjb268-doli-incapax, doli-incapax-diversion-reforms-2025, young-offenders-in-the-cjs, youth-crime-younger-offenders-2026
 added: 2026-11-10
 added_at: 2026-11-10 08:36
-updated_at: 2026-11-11 08:07
+updated_at: 2026-11-16 09:59
 ---
 
 BOCSAR analysed **56,742** police events involving **23,605** children. **68%** of Aboriginal children's events went to court
@@ -51,6 +51,9 @@ AAP's report ("Racism blamed for Indigenous youth police treatment") adds Aborig
 Police response was included. A [second class summary, built on the AAP report](https://drive.google.com/file/d/1B3EVBfgdwTPmw1RBuGuCfWOuI458iE8U/view) notes
 the YOA's objects (s 3(d)) and that about **72%** of the gap is linked to recorded factors — leaving the unexplained 8 points as a
 question of equality before the law.
+
+A [third class summary, built on AAP's report](https://drive.google.com/file/d/15wrZdCIPZDsvwl4zfNJAPiep4uT_xfP-/view) adds that **56.4%** of NSW youth detainees were Aboriginal
+(December 2025).
 
 ## Use it for
 
