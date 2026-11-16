@@ -14,7 +14,7 @@ document: Human Rights/HR - NSW Human Rights Act Inquiry Evidence Summary.pdf
 source: https://www.parliament.nsw.gov.au/bills/Pages/Profiles/human-rights-bill-2025.aspx
 related: charters-of-rights-act-vic-qld, human-rights-in-australia-common-law-courts-media-charter, qld-prison-human-rights-exemption-2026, anti-discrimination-act-1977
 added: 2026-11-03
-updated_at: 2026-11-03 08:40
+updated_at: 2026-11-17 08:29
 ---
 
 The **Human Rights Bill 2025 (NSW)** was referred to a Legislative Assembly committee on 18 March 2026; 120+ civil
@@ -33,6 +33,21 @@ protection a "patchwork".
 | Validity | Parliament can limit rights with clear words | Incompatible laws **stay valid** (s 45(4)); no express damages |
 
 The ACT (2004), Victoria (2006) and Queensland (2019) have Acts; the HRLC cites 101 examples of charters in action.
+
+## Church submissions: "fundamentally flawed" (CathNews, 12 November 2026)
+
+The Catholic Archdiocese and other church leaders call the *Human Rights Bill 2025* fundamentally flawed — the classic argument that a
+charter moves power from Parliament to the courts. The committee had published **268** submissions by early November, with three
+days of public hearings; **120+** organisations backed the call for an inquiry. A 2001 NSW committee rejected a charter.
+
+| NSW now | Under the Bill |
+|---|---|
+| Common law, the Constitution and individual statutes; no human rights Act | **31** rights in one Act (ss 14–44; the article's "about 40" is wrong) |
+| Housing, health and education not protected | Education, health, housing, work, social security and a healthy environment (ss 38–44) |
+| Legislation Review Committee checks bills for trespass on rights | Statement of compatibility for every bill (s 56); a new joint human rights committee |
+| No general duty on public authorities | Unlawful to act incompatibly with rights or fail to consider them |
+
+[Class evidence summary](https://drive.google.com/file/d/1Ixnk3Yy_RQaCZQ25Afuorjh5tbNGK1JW/view).
 
 ## Use it for
 

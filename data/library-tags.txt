@@ -698,3 +698,49 @@ Family/Evidence Summaries/Family - Police Prosecutor DV Sentencing Hearing Evide
 Human Rights/HR - High Court Abattoir Footage Evidence Summary.pdf | hr.2.10, hr.2.12, hr.2.13
 Human Rights/HR - UN Toxics Rapporteur Australia Visit Evidence Summary.pdf | hr.2.2, hr.2.1
 Shelter/Evidence Sheets/Shelter - Moreton Bay Homeless Camp Shutdown Evidence Summary.pdf | shel.3.3, shel.1.2
+Cases/Family/Cannon & Moore [2026] FedCFamC1A 206 - Case Summary.pdf | fam.2.4, fam.2.2, fam.2.5
+Cases/Year 11/Year 11 - Cannon & Moore [2026] FedCFamC1A 206 - Case Summary.pdf | chg.3.3, chg.1.1
+Cases/Family/Jacques [2026] FedCFamC1A 204 - Case Summary.pdf | fam.2.5
+Cases/Year 11/Year 11 - Jacques [2026] FedCFamC1A 204 - Case Summary.pdf | dis.2.5, dis.2.8
+Cases/Family/Velery & Velery [2026] FedCFamC1A 205 - Case Summary.pdf | fam.2.3, fam.2.5
+Cases/Year 11/Year 11 - Velery & Velery [2026] FedCFamC1A 205 - Case Summary.pdf | dis.2.5, dis.2.8
+Cases/Family/Fhaolain & Fhaolain (No 2) [2026] FedCFamC1A 207 - Case Summary.pdf | fam.2.3, fam.2.5
+Cases/Year 11/Year 11 - Fhaolain & Fhaolain (No 2) [2026] FedCFamC1A 207 - Case Summary.pdf | dis.2.5, dis.2.7
+Cases/Human Rights/CFS25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2190 - Case Summary.pdf | hr.3.1, hr.2.11
+Cases/Year 11/Year 11 - CFS25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2190 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Human Rights/GQN18 v Minister for Immigration and Citizenship [2026] FCA 1737 - Case Summary.pdf | hr.3.1, hr.2.11
+Cases/Year 11/Year 11 - GQN18 v Minister for Immigration and Citizenship [2026] FCA 1737 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Year 11/Year 11 - CXZ22 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2241 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Year 11/Year 11 - HIU26 v Minister for Immigration and Citizenship [2026] FCA 1711 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Year 11/Year 11 - Belmont v Assistant Minister [2026] FCA 1720 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Year 11/Year 11 - KLJM v Minister for Immigration and Citizenship [2026] FCA 1721 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Year 11/Year 11 - Cabezz Future Growth Holdings Pty Ltd v McShane [2026] NSWSC 1462 - Case Summary.pdf | dis.2.3, dis.2.4
+Cases/Crime/Dut v R [2026] NSWCCA 184 - Case Summary.pdf | crime.4.3, crime.4.5, crime.2.5
+Cases/Year 11/Year 11 - Dut v R [2026] NSWCCA 184 - Case Summary.pdf | dis.1.7, dis.1.5
+Cases/Crime/R v Haouchar [2026] NSWDC 417 - Case Summary.pdf | crime.4.3, crime.4.1, crime.4.6
+Cases/Year 11/Year 11 - R v Haouchar [2026] NSWDC 417 - Case Summary.pdf | dis.1.7, dis.1.5
+Cases/Crime/R v Rokomaqisa (Nos 11 to 29) 2026 NSWSC series - Case Summary.pdf | crime.3.7, crime.3.9, crime.3.2
+Cases/Year 11/Year 11 - R v Rokomaqisa (Nos 11 to 29) 2026 NSWSC series - Case Summary.pdf | dis.1.5, dis.1.6
+Cases/Crime/R v Rokomaqisa (No 11) [2026] NSWSC 665 - Case Summary.pdf | crime.3.7, crime.3.2
+Cases/Year 11/Year 11 - R v Rokomaqisa (No 11) [2026] NSWSC 665 - Case Summary.pdf | dis.1.5, dis.1.6
+Cases/Crime/R v Rokomaqisa (No 13) [2026] NSWSC 813 - Case Summary.pdf | crime.3.7, crime.3.2
+Cases/Year 11/Year 11 - R v Rokomaqisa (No 13) [2026] NSWSC 813 - Case Summary.pdf | dis.1.5, dis.1.6
+Cases/Crime/R v Rokomaqisa (No 16) [2026] NSWSC 960 - Case Summary.pdf | crime.3.7, crime.3.2
+Cases/Year 11/Year 11 - R v Rokomaqisa (No 16) [2026] NSWSC 960 - Case Summary.pdf | dis.1.5, dis.1.6
+Cases/Crime/R v Rokomaqisa (No 19) [2026] NSWSC 1391 - Case Summary.pdf | crime.3.7, crime.3.2
+Cases/Year 11/Year 11 - R v Rokomaqisa (No 19) [2026] NSWSC 1391 - Case Summary.pdf | dis.1.5, dis.1.6
+Cases/Crime/R v Rokomaqisa (No 22) [2026] NSWSC 1394 - Case Summary.pdf | crime.3.7, crime.3.2
+Cases/Year 11/Year 11 - R v Rokomaqisa (No 22) [2026] NSWSC 1394 - Case Summary.pdf | dis.1.5, dis.1.6
+Cases/Crime/R v Rokomaqisa (No 25) [2026] NSWSC 1397 - Case Summary.pdf | crime.3.7, crime.3.2
+Cases/Year 11/Year 11 - R v Rokomaqisa (No 25) [2026] NSWSC 1397 - Case Summary.pdf | dis.1.5, dis.1.6
+Crime/Media/Crime - Age of Consent Staggered Model Debate Evidence Summary.pdf | crime.1.1, crime.1.5, chg.1.1
+Crime/Media/Crime - Grooming Tactics and Victim Myths Evidence Summary.pdf | crime.3.7, crime.1.8, crime.3.9
+Crime/Media/Crime - Lukes Law Bail Proposal Evidence Summary.pdf | crime.2.5, chg.3.1
+Crime/Media/Crime - NT Teen Terror Charges - Bail Refused Evidence Summary.pdf | crime.2.5, crime.5.2, crime.6.1
+Crime/Media/Crime - Vic Coalition Youth Bootcamp - Evidence on Boot Camps Evidence Summary.pdf | crime.5.4, crime.5.5
+Family/Evidence Summaries/Family - Floreat Murders Coronial Inquest Evidence Summary.pdf | fam.2.4, crime.2.1
+Family/Evidence Summaries/Family - Puberty Blockers National Guidelines and State Bans Evidence Summary.pdf | fam.3.2, fam.1.5
+Human Rights/HR - NSW Human Rights Act Inquiry - Church Submissions Evidence Summary.pdf | hr.2.14
+Human Rights/HR - Shackling Women During Childbirth in Custody Evidence Summary.pdf | hr.3.1, crime.4.8
+Human Rights/HR - UN Rapporteur Refused Detention Access - End of Mission Second Summary Evidence Summary.pdf | hr.2.2
+Shelter/Evidence Sheets/Shelter - Housing Affordability Turn Evidence Summary.pdf | shel.3.1, shel.2.1

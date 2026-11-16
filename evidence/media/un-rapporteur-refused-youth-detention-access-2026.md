@@ -16,7 +16,7 @@ source: https://www.abc.net.au/news/2026-11-05/united-nations-blocked-from-inspe
 related: un-experts-custody-bills-2026, senate-youth-justice-inquiry-2026, croc-1989, young-offenders-in-the-cjs, qld-breach-bail-go-to-jail-2026
 added: 2026-11-04
 added_at: 2026-11-04 07:17
-updated_at: 2026-11-16 09:59
+updated_at: 2026-11-17 08:29
 ---
 
 The Special Rapporteur's official visit runs **2–13 November 2026**. The NT and Queensland refused planned visits to
@@ -106,6 +106,9 @@ the Human Rights Council in **September 2027**. **37%** of adult prisoners were 
 
 Federal minister Malarndirri McCarthy urged states and territories to allow access. The recommendations are not binding, and Commonwealth
 law cannot compel a state to admit a UN visitor without new legislation. [Class evidence summary](https://drive.google.com/file/d/1BVCsBczLUgxB_hRGl7IAUtOqQqpCBM16/view).
+
+A [further class summary of the 13 November report](https://drive.google.com/file/d/1SGhm_pHAVMphPl_oHBziSY_PY0Y9lTek/view) (updated 16 November) adds that First Nations young people were
+**23 times** as likely to be in detention (2024–25) and the adult First Nations imprisonment rate was about **2,500 per 100,000**.
 
 ## Use it for
 

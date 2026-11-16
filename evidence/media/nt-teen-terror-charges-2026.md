@@ -1,9 +1,9 @@
 ---
 type: media
-title: Darwin teenager charged with terrorism and 3D-gun blueprint offences (ABC, 29 October 2026)
+title: Darwin teenager charged with terrorism and 3D-gun blueprint offences — and refused bail (ABC, 29 October and 16 November 2026)
 short: NT teen terror charges
 citation: Evidence summary of an ABC News report, 29 October 2026, and the NT Joint Counter Terrorism Team statement; Criminal Code Act 1995 (Cth) ss 101.5, 474.45C, 474.45H; Crimes Act 1914 (Cth) ss 15AA, 20C
-date: 2026-11-04
+date: 2026-11-16
 jurisdiction: Commonwealth offences heard in the NT Youth Justice Court, Darwin; AFP, NT Police and ASIO
 significance: A child faces adult Commonwealth terrorism charges, including a 2026 offence for 3D-printed gun blueprints — federal counter-terrorism law meeting youth justice in bail, identity and sentencing.
 core: crime.6.1, crime.5.3, crime.2.5
@@ -15,7 +15,7 @@ document11: Preliminary/Year 11 - Experiences with the Law - NT Teen Terror Char
 source: https://www.abc.net.au/news/2026-10-29/nt-teen-terror-charges-extremism-3d-printed-gun-schematics/107322362
 related: afp-youth-radicalisation-data-2026, young-offenders-in-the-cjs, terrorism-police-powers-act-2002, nsw-firearms-reforms-and-gun-buyback-2026
 added: 2026-10-30
-updated_at: 2026-11-05 07:33
+updated_at: 2026-11-17 08:29
 ---
 
 After a Crime Stoppers tip-off about violent extremist material online, the NT Joint Counter Terrorism Team
@@ -46,6 +46,22 @@ O'Brien-Hartcher, with bail listed for **13 November**. That makes **two** Top E
 figures report 26 youths charged with terrorism-type offences by JCTTs since 2020. The child cannot be named, and her
 best interests must be weighed at bail (Youth Justice Act 2005 (NT) s 50), but the **s 15AA(3AA)** presumption against
 bail still applies — community protection is paramount. CRC art 37: detention as a last resort.
+
+## Update: bail refused (ABC, 16 November 2026)
+
+The 14-year-old, facing **three** Commonwealth terrorism charges (collecting documents connected with a terrorist act, s 101.5:
+10 or 15 years), was **refused bail**. Because the charges are Commonwealth terrorism offences, **s 15AA** of the *Crimes Act 1914*
+sets the starting point, not only NT bail law.
+
+| Ordinary NT youth bail (from 2025) | Terrorism charge: Crimes Act s 15AA |
+|---|---|
+| No-bail starting point only for offences listed in s 7A | Bail refused unless exceptional circumstances; the accused bears the burden |
+| Community safety paramount for s 7A offences | Community protection paramount for a child accused (s 15AA(3AA)) |
+| Duty to consider other options before remand removed | The child's best interests a primary, not paramount, consideration |
+| Last-resort detention principle removed in 2025 | No last-resort rule; CROC art 37(b) still requires one |
+
+The AFP analysed 32 youth terrorism cases: all 19 people charged under violent extremist material laws were children, radicalised at
+least partly online. [Class evidence summary](https://drive.google.com/file/d/1aGvb-E2lFE-gByX5dPGam68dEml3AfJN/view).
 
 ## Use it for
 
