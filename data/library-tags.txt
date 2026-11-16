@@ -744,3 +744,5 @@ Human Rights/HR - NSW Human Rights Act Inquiry - Church Submissions Evidence Sum
 Human Rights/HR - Shackling Women During Childbirth in Custody Evidence Summary.pdf | hr.3.1, crime.4.8
 Human Rights/HR - UN Rapporteur Refused Detention Access - End of Mission Second Summary Evidence Summary.pdf | hr.2.2
 Shelter/Evidence Sheets/Shelter - Housing Affordability Turn Evidence Summary.pdf | shel.3.1, shel.2.1
+Crime/Media/Crime - NSW Custody Statistics September 2026 Evidence Summary.pdf | crime.2.5, crime.4.8, crime.5.4, crime.4.6
+Crime/Media/Crime - BOCSAR custody September 2026 - Student Infographic.pdf | crime.2.5, crime.4.8

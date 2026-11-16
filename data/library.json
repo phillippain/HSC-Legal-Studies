@@ -20155,6 +20155,23 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - BOCSAR custody September 2026 - Student Infographic.pdf",
+   "name": "Crime - BOCSAR custody September 2026 - Student Infographic",
+   "file": "Crime - BOCSAR custody September 2026 - Student Infographic.pdf",
+   "ext": "pdf",
+   "bytes": 49482,
+   "mtime": 1794867287,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.5",
+    "crime.4.8"
+   ],
+   "dupe": "crimebocsarcustodyseptember2026studentinfographic",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - Black v R; Trautsch v R [2026] NSWCCA 185 Jodi Knott Appeal Evidence Summary.pdf",
    "name": "Crime - Black v R; Trautsch v R [2026] NSWCCA 185 Jodi Knott Appeal Evidence Summary",
    "file": "Crime - Black v R; Trautsch v R [2026] NSWCCA 185 Jodi Knott Appeal Evidence Summary.pdf",
@@ -20491,6 +20508,25 @@
     "crime.4.8"
    ],
    "dupe": "crimemckennahighriskoffendersupervisionorderevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - NSW Custody Statistics September 2026 Evidence Summary.pdf",
+   "name": "Crime - NSW Custody Statistics September 2026 Evidence Summary",
+   "file": "Crime - NSW Custody Statistics September 2026 Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 199165,
+   "mtime": 1794867286,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.5",
+    "crime.4.8",
+    "crime.5.4",
+    "crime.4.6"
+   ],
+   "dupe": "crimenswcustodystatisticsseptember2026evidencesummary",
    "copyOf": null,
    "primary": true
   },
