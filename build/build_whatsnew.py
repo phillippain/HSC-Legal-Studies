@@ -10,7 +10,10 @@ Two sources are merged, newest first:
   1. AUTOMATIC  evidence records (evidence/**/*.md): every record's `added:` date within the last
      WINDOW_DAYS becomes a line per day ("3 new evidence items: ..." linking to the Evidence Finder).
      `ingest.py refresh` calls this script, so filing a document updates the feed with no extra step.
-  2. LOGGED     data/site-changes.json: changes to the Google Site itself (new pages, slides, booklets,
+  2. DAILY UPDATE  data/daily-updates.json (written by build/publish_updates.py): one line per daily
+     update, linking to that day on updates.html. Evidence lines dated on or before the latest daily
+     update are dropped, because the update already covers those cards.
+  3. LOGGED     data/site-changes.json: changes to the Google Site itself (new pages, slides, booklets,
      tools), which the repo cannot see. Claude appends a line whenever it builds or changes pages;
      `add` does the same by hand. An entry with "hold": true is ignored until the flag is removed
      (use it for pages built but not yet published).
@@ -24,6 +27,7 @@ import datetime, json, os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "build"))
 CHANGES = os.path.join(ROOT, "data", "site-changes.json")
+UPDATES = os.path.join(ROOT, "data", "daily-updates.json")
 OUT = os.path.join(ROOT, "data", "whats-new.json")
 SITE = "https://phillippain.github.io/HSC-Legal-Studies/"
 WINDOW_DAYS = 21      # how far back automatic evidence lines reach
@@ -54,6 +58,24 @@ def evidence_lines():
     return out
 
 
+def update_lines():
+    """One line per daily update (data/daily-updates.json), linking to that day on updates.html."""
+    if not os.path.exists(UPDATES):
+        return []
+    out = []
+    for d in json.load(open(UPDATES, encoding="utf-8")).get("days", []):
+        bits = []
+        if d["new"]:
+            bits.append(f"{d['new']} new")
+        if d["updated"]:
+            bits.append(f"{d['updated']} updated")
+        topics = ", ".join(f"{len(g['items'])} {g['label']}" for g in d["groups"])
+        text = f"Daily update: {' and '.join(bits)} in the Evidence Finder ({topics})."
+        out.append({"date": d["date"], "text": text, "link": SITE + "updates.html#d-" + d["date"],
+                    "kind": "update"})
+    return out
+
+
 def logged_lines():
     if not os.path.exists(CHANGES):
         return []
@@ -62,9 +84,12 @@ def logged_lines():
 
 
 def build():
-    entries = logged_lines() + evidence_lines()
+    updates = update_lines()
+    covered = max((u["date"] for u in updates), default="")
+    entries = logged_lines() + updates + [e for e in evidence_lines() if e["date"] > covered]
     today = datetime.date.today().isoformat()
-    entries = [e for e in entries if e["date"] <= today]
+    limit = (datetime.date.today() + datetime.timedelta(days=1)).isoformat()   # this machine runs behind Sydney
+    entries = [e for e in entries if e["date"] <= limit]
     entries.sort(key=lambda e: (e["date"], e.get("auto", False) is False), reverse=True)
     entries = [{k: v for k, v in e.items() if k not in ("hold", "auto")} for e in entries[:KEEP]]
     feed = {"updated": entries[0]["date"] if entries else today,

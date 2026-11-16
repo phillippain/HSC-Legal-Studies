@@ -1,12 +1,18 @@
 {
- "updated": "2026-11-16",
- "built": "2026-11-16 21:30",
+ "updated": "2026-11-17",
+ "built": "2026-11-16 22:10",
  "entries": [
   {
+   "date": "2026-11-17",
+   "text": "Daily update: 27 new and 4 updated in the Evidence Finder (14 Crime, 5 Human Rights, 6 Family, 1 Shelter, 5 Disputes under the law).",
+   "link": "https://phillippain.github.io/HSC-Legal-Studies/updates.html#d-2026-11-17",
+   "kind": "update"
+  },
+  {
    "date": "2026-11-16",
-   "text": "55 new evidence items in the Evidence Finder: Age of consent staggered model, Altruistic surrogacy and ALRC review, Ashdown & Markin (No 3) and 52 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
+   "text": "Daily update: 30 new and 5 updated in the Evidence Finder (15 Crime, 4 Human Rights, 9 Family, 4 Shelter, 3 Disputes under the law).",
+   "link": "https://phillippain.github.io/HSC-Legal-Studies/updates.html#d-2026-11-16",
+   "kind": "update"
   },
   {
    "date": "2026-11-13",
@@ -30,16 +36,10 @@
    "kind": "site"
   },
   {
-   "date": "2026-11-13",
-   "text": "1 new evidence item in the Evidence Finder: R v Quinn.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-quinn-2020-2023",
-   "kind": "evidence"
-  },
-  {
    "date": "2026-11-12",
-   "text": "17 new evidence items in the Evidence Finder: 2208670 (Refugee) — state protection, 2219294 (Refugee) — late claim not accepted, ACT historical abuse Crown appeal and 14 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
+   "text": "Daily update: 16 new and 5 updated in the Evidence Finder (10 Crime, 3 Human Rights, 4 Family, 4 Disputes under the law).",
+   "link": "https://phillippain.github.io/HSC-Legal-Studies/updates.html#d-2026-11-12",
+   "kind": "update"
   },
   {
    "date": "2026-11-11",
@@ -48,87 +48,51 @@
   },
   {
    "date": "2026-11-11",
-   "text": "17 new evidence items in the Evidence Finder: 2217075 (Refugee) — sexual orientation, 2305552 (Refugee) — hardship not persecution, 2552942 (Refugee) — credibility and late claims and 14 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
+   "text": "Daily update: 17 new and 5 updated in the Evidence Finder (7 Crime, 5 Human Rights, 2 Family, 7 Shelter, 1 Investigating the law).",
+   "link": "https://phillippain.github.io/HSC-Legal-Studies/updates.html#d-2026-11-11",
+   "kind": "update"
   },
   {
    "date": "2026-11-10",
-   "text": "12 new evidence items in the Evidence Finder: BOCSAR CJB 282 (police diversion gap), Black v R; Trautsch v R, Cai v Trip A Deal and 9 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
+   "text": "Daily update: 12 new and 4 updated in the Evidence Finder (7 Crime, 1 Human Rights, 5 Family, 2 Shelter, 1 Disputes under the law).",
+   "link": "https://phillippain.github.io/HSC-Legal-Studies/updates.html#d-2026-11-10",
+   "kind": "update"
   },
   {
    "date": "2026-11-09",
-   "text": "9 new evidence items in the Evidence Finder: ACT family violence text trial, Country lawyers and the DFV crisis, Demerit points black market and 6 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
+   "text": "Daily update: 9 new and 4 updated in the Evidence Finder (6 Crime, 3 Human Rights, 2 Family, 1 Shelter, 1 Changing the law).",
+   "link": "https://phillippain.github.io/HSC-Legal-Studies/updates.html#d-2026-11-09",
+   "kind": "update"
   },
   {
    "date": "2026-11-07",
-   "text": "9 new evidence items in the Evidence Finder: Australian Dance Arts v Gincop, Brooker v R, Gatt v R and 6 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
+   "text": "Daily update: 9 new in the Evidence Finder (6 Crime, 1 Human Rights, 2 Disputes under the law).",
+   "link": "https://phillippain.github.io/HSC-Legal-Studies/updates.html#d-2026-11-07",
+   "kind": "update"
   },
   {
    "date": "2026-11-06",
-   "text": "19 new evidence items in the Evidence Finder: Anglicare essential workers rental snapshot, Antakirinja Matu-Yankunytjatjara v South Australia, Australia's Sudan sanctions and 16 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
+   "text": "Daily update: 21 new and 6 updated in the Evidence Finder (7 Crime, 6 Human Rights, 11 Family, 2 Shelter, 1 Changing the law).",
+   "link": "https://phillippain.github.io/HSC-Legal-Studies/updates.html#d-2026-11-06",
+   "kind": "update"
   },
   {
    "date": "2026-11-05",
-   "text": "16 new evidence items in the Evidence Finder: AFP Operation Integrity Fusion, Bail laws in NSW explainer 2026, Coercive control 2-page explainer and 13 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
+   "text": "Daily update: 14 new and 4 updated in the Evidence Finder (6 Crime, 3 Human Rights, 5 Family, 4 Shelter).",
+   "link": "https://phillippain.github.io/HSC-Legal-Studies/updates.html#d-2026-11-05",
+   "kind": "update"
   },
   {
    "date": "2026-11-04",
-   "text": "6 new evidence items in the Evidence Finder: HRW SA solitary confinement, Lamarre-Condon murder trial, RBA rate hike housing affordability and 3 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
+   "text": "Daily update: 6 new and 3 updated in the Evidence Finder (2 Crime, 3 Human Rights, 1 Family, 2 Shelter, 1 Changing the law).",
+   "link": "https://phillippain.github.io/HSC-Legal-Studies/updates.html#d-2026-11-04",
+   "kind": "update"
   },
   {
    "date": "2026-11-03",
-   "text": "16 new evidence items in the Evidence Finder: Boleno & Newcombe, Child support financial abuse, Griffith NSW childcare abuse charges and 13 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
-  },
-  {
-   "date": "2026-11-02",
-   "text": "5 new evidence items in the Evidence Finder: Armed Response Command costs, Marsden Park teen bail refused, NSW prison inquests mental health and 2 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
-  },
-  {
-   "date": "2026-10-30",
-   "text": "9 new evidence items in the Evidence Finder: Bathla failed land settlements, Curti inquest (2012), DV and suicide inquiry and 6 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
-  },
-  {
-   "date": "2026-10-29",
-   "text": "36 new evidence items in the Evidence Finder: AI chatbots and children, Abdul-Wahab v R (Nos 1 and 2), Adoption of Bellini and 33 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
-  },
-  {
-   "date": "2026-10-28",
-   "text": "14 new evidence items in the Evidence Finder: 2530964 (Refugee), AFP youth radicalisation data, Alam v Rodriguez and 11 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
-  },
-  {
-   "date": "2026-10-27",
-   "text": "2 new evidence items in the Evidence Finder: National gun buyback after Bondi, UN experts on stalled custody bills.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
-  },
-  {
-   "date": "2026-10-26",
-   "text": "16 new evidence items in the Evidence Finder: Abdel-Hady v Commonwealth, Alan Jones judge-alone trial, Child-like dolls at the border and 13 more.",
-   "link": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html",
-   "kind": "evidence"
+   "text": "Daily update: 21 new and 2 updated in the Evidence Finder (11 Crime, 4 Human Rights, 4 Family, 1 Shelter, 2 Disputes under the law, 1 Changing the law).",
+   "link": "https://phillippain.github.io/HSC-Legal-Studies/updates.html#d-2026-11-03",
+   "kind": "update"
   }
  ]
 }
