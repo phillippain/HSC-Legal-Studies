@@ -4859,6 +4859,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - ASIC v Diamond Wheels Pty Ltd (Penalty Hearing) [2026] FCA 1734 - Case Summary.pdf",
+   "name": "Year 11 - ASIC v Diamond Wheels Pty Ltd (Penalty Hearing) [2026] FCA 1734 - Case Summary",
+   "file": "Year 11 - ASIC v Diamond Wheels Pty Ltd (Penalty Hearing) [2026] FCA 1734 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 266712,
+   "mtime": 1794948608,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.7",
+    "dis.2.1"
+   ],
+   "dupe": "year11asicvdiamondwheelsptyltdpenaltyhearing2026fca1734casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Abdul-Wahab v R (Nos 1 and 2) [2026] NSWDC 394 - Case Summary.pdf",
    "name": "Year 11 - Abdul-Wahab v R (Nos 1 and 2) [2026] NSWDC 394 - Case Summary",
    "file": "Year 11 - Abdul-Wahab v R (Nos 1 and 2) [2026] NSWDC 394 - Case Summary.pdf",
@@ -5710,6 +5727,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Goldmate Group Pty Ltd v Yang (Contempt) [2026] FCA 1733 - Case Summary.pdf",
+   "name": "Year 11 - Goldmate Group Pty Ltd v Yang (Contempt) [2026] FCA 1733 - Case Summary",
+   "file": "Year 11 - Goldmate Group Pty Ltd v Yang (Contempt) [2026] FCA 1733 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 275002,
+   "mtime": 1794948608,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.4",
+    "dis.2.7"
+   ],
+   "dupe": "year11goldmategroupptyltdvyangcontempt2026fca1733casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Grayson Family Ltd Partnership LLLP v Lynch [2026] FCA 1667 - Case Summary.pdf",
    "name": "Year 11 - Grayson Family Ltd Partnership LLLP v Lynch [2026] FCA 1667 - Case Summary",
    "file": "Year 11 - Grayson Family Ltd Partnership LLLP v Lynch [2026] FCA 1667 - Case Summary.pdf",
@@ -6220,6 +6254,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Parsons v Assistant Minister for Immigration [2026] FCA 1706 - Case Summary.pdf",
+   "name": "Year 11 - Parsons v Assistant Minister for Immigration [2026] FCA 1706 - Case Summary",
+   "file": "Year 11 - Parsons v Assistant Minister for Immigration [2026] FCA 1706 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 280265,
+   "mtime": 1794948608,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11parsonsvassistantministerforimmigration2026fca1706casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Peers v Eastern Health [2026] FCA 1677 - Case Summary.pdf",
    "name": "Year 11 - Peers v Eastern Health [2026] FCA 1677 - Case Summary",
    "file": "Year 11 - Peers v Eastern Health [2026] FCA 1677 - Case Summary.pdf",
@@ -6375,6 +6426,23 @@
     "dis.1.5"
    ],
    "dupe": "year11rvhaouchar2026nswdc417casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - R v Kirby [2026] NSWSC 1444 - Case Summary.pdf",
+   "name": "Year 11 - R v Kirby [2026] NSWSC 1444 - Case Summary",
+   "file": "Year 11 - R v Kirby [2026] NSWSC 1444 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 274374,
+   "mtime": 1794948608,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.7",
+    "dis.1.2"
+   ],
+   "dupe": "year11rvkirby2026nswsc1444casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6818,6 +6886,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Saha v Minister for Immigration and Citizenship [2026] FCA 1715 - Case Summary.pdf",
+   "name": "Year 11 - Saha v Minister for Immigration and Citizenship [2026] FCA 1715 - Case Summary",
+   "file": "Year 11 - Saha v Minister for Immigration and Citizenship [2026] FCA 1715 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 270012,
+   "mtime": 1794948608,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11sahavministerforimmigrationandcitizenship2026fca1715casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary.pdf",
    "name": "Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary",
    "file": "Year 11 - Samuelu v Minister [2026] FCAFC 100 - Case Summary.pdf",
@@ -6897,6 +6982,23 @@
     "dis.2.8"
    ],
    "dupe": "year11singhvtianhockdevelopmentptyltd2026nswsc1432casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Spring and Minister for Immigration and Citizenship [2026] ARTA 2743 - Case Summary.pdf",
+   "name": "Year 11 - Spring and Minister for Immigration and Citizenship [2026] ARTA 2743 - Case Summary",
+   "file": "Year 11 - Spring and Minister for Immigration and Citizenship [2026] ARTA 2743 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 277374,
+   "mtime": 1794948608,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11springandministerforimmigrationandcitizenship2026arta2743casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -10848,6 +10950,24 @@
     "crime.3.8"
    ],
    "dupe": "rvkl2025nswsc1414casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Kirby [2026] NSWSC 1444 - Case Summary.pdf",
+   "name": "R v Kirby [2026] NSWSC 1444 - Case Summary",
+   "file": "R v Kirby [2026] NSWSC 1444 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 300288,
+   "mtime": 1794948608,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.2",
+    "crime.3.4"
+   ],
+   "dupe": "rvkirby2026nswsc1444casesummary",
    "copyOf": null,
    "primary": true
   },

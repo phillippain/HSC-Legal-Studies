@@ -764,3 +764,10 @@ Shelter/Evidence Sheets/Shelter - CGT Housing Tax Reforms and the Spender Altern
 Shelter/Evidence Sheets/Shelter - Victorian Underquoting Laws - NSW Reforms Paused Evidence Summary.pdf | shel.2.1
 Shelter/Evidence Sheets/Shelter - Renting Through Agents Repairs and Rent Increases Evidence Summary.pdf | shel.2.2, shel.2.3
 Shelter/Evidence Sheets/Shelter - Vinnies Homelessness Prevention Election Poll Evidence Summary.pdf | shel.3.3, shel.2.9
+Cases/Crime/R v Kirby [2026] NSWSC 1444 - Case Summary.pdf | crime.4.3, crime.4.2, crime.3.4
+Cases/Year 11/Year 11 - R v Kirby [2026] NSWSC 1444 - Case Summary.pdf | dis.1.7, dis.1.2
+Cases/Year 11/Year 11 - ASIC v Diamond Wheels Pty Ltd (Penalty Hearing) [2026] FCA 1734 - Case Summary.pdf | dis.2.7, dis.2.1
+Cases/Year 11/Year 11 - Goldmate Group Pty Ltd v Yang (Contempt) [2026] FCA 1733 - Case Summary.pdf | dis.2.4, dis.2.7
+Cases/Year 11/Year 11 - Parsons v Assistant Minister for Immigration [2026] FCA 1706 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Year 11/Year 11 - Saha v Minister for Immigration and Citizenship [2026] FCA 1715 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Year 11/Year 11 - Spring and Minister for Immigration and Citizenship [2026] ARTA 2743 - Case Summary.pdf | dis.3.4, dis.3.1
