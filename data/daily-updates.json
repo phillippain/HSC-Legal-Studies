@@ -1,6 +1,404 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "days": [
+  {
+   "date": "2026-11-18",
+   "since": "2026-11-17",
+   "new": 10,
+   "updated": 9,
+   "groups": [
+    {
+     "key": "crime",
+     "label": "Crime",
+     "part": "HSC Core Part I",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "neurotechnology-police-interrogation-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Brain-reading in police interviews — a legal grey area (The Conversation, 17 November 2026)",
+       "summary": "The Conversation article asks whether brain-based recognition tests could be used in police interviews, noting NSW has no law regulating them, the Lie Detectors Act 1983 likely already bans neural lie detection, and s 138 could still let such evidence in. Use it for the rights of suspects during detention and questioning, and as an example of law lagging behind technology.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Detention and interrogation, rights of…",
+        "Use of evidence, including witnesses"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-neurotechnology-police-interrogation-2026",
+       "document_url": "https://drive.google.com/file/d/1EyjWssbxQEMcAZswIJSdG_Kl_ESbRAYf/view",
+       "document11_url": null,
+       "source": "https://theconversation.com/can-the-police-monitor-a-suspects-brain-during-interrogation-a-new-report-issues-a-stark-warning-295555"
+      },
+      {
+       "id": "bocsar-custody-september-2026",
+       "status": "new",
+       "type": "report",
+       "type_label": "Report & statistics",
+       "title": "NSW adult prison population stays near a record high — BOCSAR custody statistics, September 2026",
+       "summary": "BOCSAR's September 2026 figures show 14,026 adults in NSW custody, up 10% in a year, with 45.7% on remand and remand driving two-thirds of the growth. Use it to test bail and remand against the presumption of innocence, and whether near-record imprisonment is effective when it is meant to be a last resort.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Bail or remand",
+        "Post-sentencing considerations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-bocsar-custody-september-2026",
+       "document_url": "https://drive.google.com/file/d/1fVmyF1IwWUmwO_Rvkfi35459epxcwRAt/view",
+       "document11_url": null,
+       "source": "https://www.bocsar.nsw.gov.au"
+      },
+      {
+       "id": "jack-westren-murder-sentencing-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Teen who murdered Jack Westren faces sentence; intent disputed (ABC, 17 November 2026)",
+       "summary": "A 16-year-old has pleaded guilty to murder over a fatal attack at a train station on a man with an acquired brain injury, while five co-offenders pleaded to manslaughter; sentence is due on 17 December 2026. Use it for sentencing a child for murder, weighing youth and disability against a planned attack, and charge negotiation that ends in manslaughter pleas.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Penalties for children",
+        "Pleas, charge negotiation"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-jack-westren-murder-sentencing-2026",
+       "document_url": "https://drive.google.com/file/d/1V9Xo39PaDDCKQZk1wNTPGlQmwNo6MLXv/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-17/jack-westren-offender-sentencing/107394902"
+      },
+      {
+       "id": "nt-teen-terror-charges-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Darwin teenager charged with terrorism and 3D-gun blueprint offences — and refused bail (ABC, 29 October and 16 November 2026)",
+       "summary": "The card now records that the 14-year-old charged with three Commonwealth terrorism offences was refused bail, with s 15AA of the Crimes Act 1914 setting the starting point for bail on these charges. It now shows how federal counter-terrorism law and youth justice principles meet in bail decisions for a child.",
+       "note": "Content note: this item involves terrorism. The summary describes the legal decision only.",
+       "added": "2026-10-30",
+       "core_labels": [
+        "Categories of international crime",
+        "Children's Court",
+        "Bail or remand"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nt-teen-terror-charges-2026",
+       "document_url": "https://drive.google.com/file/d/15Sg0XCuW-6SE-LL3KzCnGw7JyFBV9PfE/view",
+       "document11_url": "https://drive.google.com/file/d/1GuE3RewH7-HrLDFFcSN5Kmcf1-Df0Yls/view",
+       "source": "https://www.abc.net.au/news/2026-10-29/nt-teen-terror-charges-extremism-3d-printed-gun-schematics/107322362"
+      },
+      {
+       "id": "r-v-rokomaqisa-series-2026",
+       "status": "updated",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Rokomaqisa (Nos 11 to 29) — a murder-conspiracy retrial in 19 rulings",
+       "summary": "The card has been expanded to cover all 19 rulings in the murder-conspiracy retrial, including two jurors discharged, five bids to discharge the jury refused and seven items of evidence excluded. It now gives a worked example of how a judge keeps a long jury trial fair through evidence rulings and directions.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Use of evidence, including witnesses",
+        "The role of juries, including verdicts"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-rokomaqisa-series-2026",
+       "document_url": "https://drive.google.com/file/d/1vYjjdgvG7l42tGYiJqkqR8t7oNmXjLFI/view",
+       "document11_url": "https://drive.google.com/file/d/1XCTjaQsrl1n4-00cPUvEEKsTcFM_XHGP/view",
+       "source": ""
+      },
+      {
+       "id": "lukes-law-bail-proposal-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "The Coalition's 'Luke's Law' would make bail refusal automatic (Moree Online News, 16 November 2026)",
+       "summary": "A fuller summary has been added of the Coalition's Luke's Law pledge to make bail refusal automatic for anyone charged with a serious offence while on bail. It now sets that promise against record remand levels and the case-by-case approach in the Bail Act 2013.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Bail or remand"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lukes-law-bail-proposal-2026",
+       "document_url": "https://drive.google.com/file/d/1s_QR5WK3li_NfBcXg39JXJtvmASjHNF4/view",
+       "document11_url": null,
+       "source": "https://moreeonlinenews.com.au/2026/11/16/moree-mp-backs-coalition-proposal-for-tougher-bail-laws/"
+      },
+      {
+       "id": "vic-coalition-youth-bootcamp-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Victorian Coalition pledges a Dhurringile bootcamp for young offenders (ABC, 15 November 2026)",
+       "summary": "A fuller summary has been added of the Victorian Coalition's plan for a Dhurringile bootcamp for 14 to 17-year-olds, compared with Queensland's abandoned boot camp model. It now supports the debate on whether penalties for young offenders should aim at rehabilitation or punishment.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Penalties for children",
+        "Alternatives to court"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-vic-coalition-youth-bootcamp-2026",
+       "document_url": "https://drive.google.com/file/d/1Z2LK5OkezQ6rY9yoD9j36C14PPvqfbwN/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-15/dhurringile-liberals-jess-wilson-crime-bootcamp/107387262"
+      }
+     ]
+    },
+    {
+     "key": "humanrights",
+     "label": "Human Rights",
+     "part": "HSC Core Part II",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "corporate-climate-targets-disclosure-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Big emitters' net zero pledges outpace their disclosed action (The Conversation, 17 November 2026)",
+       "summary": "All 16 large Australian emitters in a new study had net zero targets, but only five had their decarbonisation investments reviewed or audited. Use it to show corporations as non-state actors and how disclosure laws act as a soft legal response that requires reporting rather than emission cuts.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "Developing recognition of human rights"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-corporate-climate-targets-disclosure-2026",
+       "document_url": "https://drive.google.com/file/d/16Uuk0tq9v5Lsw-Wm3AAW_jWWdZQvGm_Z/view",
+       "document11_url": null,
+       "source": "https://theconversation.com/large-companies-can-still-fall-short-on-their-climate-commitments-heres-what-must-change-295971"
+      },
+      {
+       "id": "panguna-mine-legacy-fund-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Rio Tinto commits US$250m to a Panguna mine legacy fund (HRLC joint release, 16 November 2026)",
+       "summary": "Rio Tinto committed US$250m to a Panguna mine legacy fund after a 2020 complaint by 156 Bougainville residents to the Australian National Contact Point. Use it to show how a non-binding, non-judicial mechanism and NGO advocacy can win a large remedy, and to argue for binding human rights due diligence laws.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of non-government organisations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-panguna-mine-legacy-fund-2026",
+       "document_url": "https://drive.google.com/file/d/1IdZtXeuV9swG9TUR8K89HofOB0B8cjZ-/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "un-rapporteur-refused-youth-detention-access-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "NT and Queensland shut a UN expert out of youth detention — and his end-of-mission findings (November 2026)",
+       "summary": "The card now adds the UN Special Rapporteur's end-of-mission findings, including preliminary recommendations and a final report due to the Human Rights Council in September 2027. It now offers evidence on UN monitoring inside a federal state and on the overrepresentation of First Nations people in detention.",
+       "note": "",
+       "added": "2026-11-04",
+       "core_labels": [
+        "The role of the United Nations",
+        "State sovereignty"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-un-rapporteur-refused-youth-detention-access-2026",
+       "document_url": "https://drive.google.com/file/d/1M1T0cP1D89efOzU4c0iDRbjWQjkPU8J-/view",
+       "document11_url": "https://drive.google.com/file/d/1N6raFwz8V3_DLG2ri43sXGDt0-DotV20/view",
+       "source": "https://www.abc.net.au/news/2026-11-05/united-nations-blocked-from-inspecting-darwin-youth-jail/107343550"
+      },
+      {
+       "id": "high-court-abattoir-footage-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Activists keep copyright but must destroy covert abattoir footage (ABC, 11 November 2026)",
+       "summary": "A fuller summary has been added of the High Court's decision that activists keep the copyright in covert abattoir footage but must destroy their copies. It now illustrates how the common law balances property and privacy against freedom of communication, and the limits on those promoting animal welfare.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "The role of common law",
+        "The role of non-government organisation…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-high-court-abattoir-footage-2026",
+       "document_url": "https://drive.google.com/file/d/1A3VW8bWGHUnLV6QP_UPTNmgnUaoL0awq/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-11/animal-rights-high-court-appeal-video-footage-copyright/107369644"
+      }
+     ]
+    },
+    {
+     "key": "family",
+     "label": "Family",
+     "part": "HSC Option 3",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "operation-amarok-15-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "681 charged in NSW domestic violence blitz, Operation Amarok 15 (NSW Police, 16 November 2026)",
+       "summary": "NSW Police charged 681 people with 1,594 offences in a three-day domestic violence operation, and found alleged breaches in 283 of 11,375 ADVO compliance checks. Use it for proactive enforcement of ADVOs, balanced against the point that arrests are not convictions.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-operation-amarok-15-2026",
+       "document_url": "https://drive.google.com/file/d/1KnIZI3ZPqmZUcAB-CWdGf9bkdeyDMgYk/view",
+       "document11_url": null,
+       "source": "https://www.miragenews.com/operation-amarok-15-leads-to-681-arrests-1500-1777440/"
+      },
+      {
+       "id": "alrc-report-145-surrogacy-2026",
+       "status": "new",
+       "type": "report",
+       "type_label": "Report & statistics",
+       "title": "ALRC Report 145 — a national surrogacy framework in 47 recommendations (17 November 2026)",
+       "summary": "The ALRC's final report makes 47 recommendations for a national surrogacy framework, including a national regulator, parentage from birth and civil penalties, because about 80% of arrangements now happen overseas. Use it for the effectiveness of surrogacy law and the ALRC as an agency of law reform.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Surrogacy and birth technologies"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-alrc-report-145-surrogacy-2026",
+       "document_url": "https://drive.google.com/file/d/1-pjbJiD41VG6e7lOY9pr5g043MxO03n7/view",
+       "document11_url": null,
+       "source": "https://www.alrc.gov.au/news/national-reforms-needed-to-make-surrogacy-more-accessible-and-responsible/"
+      },
+      {
+       "id": "altruistic-surrogacy-alrc-review-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Nurse carries a colleague's baby as the ALRC surrogacy review nears its end (ABC, 15 November 2026)",
+       "summary": "A fuller summary has been added of a Queensland family's lawful altruistic surrogacy arrangement, set against the state's offence for commercial surrogacy and the approaching ALRC report. It now links an individual story to the case for national surrogacy reform.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Surrogacy and birth technologies"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-altruistic-surrogacy-alrc-review-2026",
+       "document_url": "https://drive.google.com/file/d/1jAddxTWrvBTfBvEYsLqj12vOTgLTVxZM/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-15/qld-woman-gives-birth-to-surrogate-baby/107350062"
+      },
+      {
+       "id": "puberty-blockers-guidelines-state-bans-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "States defy national advice backing access to puberty blockers (SMH/The Age, 16 November 2026)",
+       "summary": "A fuller summary has been added of the national health advice backing conditional access to puberty blockers, which Queensland and the NT have refused to follow. It now shows parental responsibility, children's rights and medical decisions, and what happens when national guidance and state services disagree. Present both positions neutrally.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "The changing nature of parental respons…",
+        "Legal rights and obligations of parents…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-puberty-blockers-guidelines-state-bans-2026",
+       "document_url": "https://drive.google.com/file/d/1lAyZrto-qFOKOwwWa-NaDHhgI-4pM-V2/view",
+       "document11_url": null,
+       "source": ""
+      }
+     ]
+    },
+    {
+     "key": "shelter",
+     "label": "Shelter",
+     "part": "HSC Option 5",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "renting-through-agents-repairs-rent-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Agent-managed renters twice as likely to report slow repairs and unfair rent rises (The Conversation, 17 November 2026)",
+       "summary": "A survey found agent-managed renters were 2.6 times as likely, after adjustment, to report delayed repairs or unfair rent rises. Use it to ask whether tenancy law protects renters in practice, and how intermediaries affect enforcement.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Leasing",
+        "Protection for tenants, landlords, boar…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-renting-through-agents-repairs-rent-2026",
+       "document_url": "https://drive.google.com/file/d/10lVstV-Q_86Rywp598RuK0-a9VFiegzX/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "cgt-housing-tax-spender-alternative-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Chalmers rejects the Spender CGT plan as housing tax bills stall in the Senate (ABC, 17 November 2026)",
+       "summary": "The Treasurer rejected an independent MP's alternative capital gains tax plan as housing tax bills stall in the Senate, with the 50% CGT discount due to end for gains from July 2027. Use it for tax law as a response to housing affordability, and reform through crossbench negotiation.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Affordability",
+        "Purchasing"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-cgt-housing-tax-spender-alternative-2026",
+       "document_url": "https://drive.google.com/file/d/1ZUUG1-9b9waknaUj19rLMbZ7j4QJPUr_/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-17/federal-politics-live-blog-senate-albanese-/107391106"
+      },
+      {
+       "id": "vinnies-homelessness-prevention-poll-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Vinnies poll pushes Victorian parties to fund homelessness prevention (CathNews, 17 November 2026)",
+       "summary": "A charity-commissioned poll of 648 Victorians found 49% ranked preventing homelessness first, and the charity is using it to press parties to fund prevention. Use it for how NGOs shape homelessness policy, noting the poll was opt-in and not representative.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Homelessness",
+        "The role of non-government organisations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-vinnies-homelessness-prevention-poll-2026",
+       "document_url": "https://drive.google.com/file/d/1EGbpHpFlEKLZr05TJV_nEzf-0bkzMShf/view",
+       "document11_url": null,
+       "source": "https://cathnews.com/2026/11/17/vinnies-urges-parties-to-commit-to-preventing-homelessness/"
+      },
+      {
+       "id": "victorian-underquoting-price-guides-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Underquoting laws fail to make Victorian price guides reliable — and NSW pauses its reforms (November 2026)",
+       "summary": "The card now records that NSW paused its underquoting reforms until 1 December 2027, hours before they were due to start on 17 November 2026. It now compares the rules as legislated with the paused position, a useful case on whether protection for buyers works without enforcement.",
+       "note": "",
+       "added": "2026-11-11",
+       "core_labels": [
+        "Purchasing",
+        "The role of government organisations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-victorian-underquoting-price-guides-2026",
+       "document_url": "https://drive.google.com/file/d/1n0BWFVOLQLh6GPB5V0QiFJiglzFEjCw6/view",
+       "document11_url": null,
+       "source": ""
+      }
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-17",
    "since": "2026-11-16",
