@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-11/animal-rights-high-court-appeal-v
 related: privacy-act-1988-and-2024-reforms, human-rights-in-australia-common-law-courts-media-charter
 added: 2026-11-16
 added_at: 2026-11-16 09:59
-updated_at: 2026-11-16 09:59
+updated_at: 2026-11-18 07:19
 ---
 
 Activists (FTI) trespassed **seven** times at night into an abattoir (January–April 2024) and published a 14-minute compilation on 17 May 2024. Damages of **$130,000** ($30,000 general and $100,000 exemplary) were ordered below.
@@ -28,6 +28,9 @@ Activists (FTI) trespassed **seven** times at night into an abattoir (January–
 | Assign copyright within 7 days | Trust and dependent relief removed |
 | Delete images | Destroy all recordings and copies obtained by trespass |
 | Copyright usable against anyone | FTI says the media is not restricted from publishing existing copies |
+
+A [second class summary (The Conversation, 11 November 2026)](https://drive.google.com/file/d/1SSwBayDOdHWfxLHgpszJXPU-e3xci41x/view) frames the decision as a win for press freedom:
+the abattoir cannot use copyright to suppress the footage held by media and third parties.
 
 ## Use it for
 

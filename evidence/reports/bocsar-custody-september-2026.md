@@ -15,7 +15,7 @@ source: https://www.bocsar.nsw.gov.au
 related: bocsar-custody-june-2026, nsw-prisoner-complaints-surge-remand-2026, lukes-law-bail-proposal-2026, bail-act-2013
 added: 2026-11-16
 added_at: 2026-11-17 09:17
-updated_at: 2026-11-17 09:17
+updated_at: 2026-11-18 07:19
 ---
 
 Adults in custody rose by **1,280 (10.0%)** to **14,026**; the monthly record is 14,159 (May 2026). Remand rose 847 (15.2%) to **6,415** — **45.7%** of adults, against about 34% in 2021. A record **22,728** adults entered remand in a year (median stay 46 days). Women in custody rose **19.1%** (men 9.4%).
@@ -33,6 +33,8 @@ Adults in custody rose by **1,280 (10.0%)** to **14,026**; the monthly record is
 **Offences**: domestic violence-related custody rose by 423 — about a third of the growth (3,833 people, up 12.4%); police DV charges rose 14.2% to 49,435. Adults charged by police rose 11.6% to 183,521 (year to June 2026). The bail refusal rate was 12% in 2025–26. Remand, not sentenced numbers, drives the rise: sentenced numbers are below 2017.
 
 A one-page [student infographic](https://drive.google.com/file/d/1qKWJ9hV9VzA4VTAH_hr4TpLjLOtcrinM/view) charts the trends.
+
+A [second class summary of the release](https://drive.google.com/file/d/12DA1QP3mZjKonsc0dEPJiW-VLsmki0h5/view) focuses on remand as the driver of the near-record total.
 
 ## Use it for
 

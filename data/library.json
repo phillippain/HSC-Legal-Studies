@@ -3597,6 +3597,23 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - ALRC Surrogacy Final Report (Report 145) Evidence Summary.pdf",
+   "name": "Family - ALRC Surrogacy Final Report (Report 145) Evidence Summary",
+   "file": "Family - ALRC Surrogacy Final Report (Report 145) Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208563,
+   "mtime": 1794946507,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "fam.3.3",
+    "chg.2.3"
+   ],
+   "dupe": "familyalrcsurrogacyfinalreportreport145evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Family - Altruistic Surrogacy and ALRC Review Evidence Summary.pdf",
    "name": "Family - Altruistic Surrogacy and ALRC Review Evidence Summary",
    "file": "Family - Altruistic Surrogacy and ALRC Review Evidence Summary.pdf",
@@ -3968,6 +3985,24 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - Operation Amarok 15 Domestic Violence Crackdown Evidence Summary.pdf",
+   "name": "Family - Operation Amarok 15 Domestic Violence Crackdown Evidence Summary",
+   "file": "Family - Operation Amarok 15 Domestic Violence Crackdown Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210213,
+   "mtime": 1794946508,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.2.4",
+    "crime.2.1",
+    "crime.2.5"
+   ],
+   "dupe": "familyoperationamarok15domesticviolencecrackdownevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Family - Parenting Policy Gap Commentary Evidence Summary.pdf",
    "name": "Family - Parenting Policy Gap Commentary Evidence Summary",
    "file": "Family - Parenting Policy Gap Commentary Evidence Summary.pdf",
@@ -4015,6 +4050,22 @@
     "crime.4.4"
    ],
    "dupe": "familypoliceprosecutordvsentencinghearingevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Family/Evidence Summaries/Family - Puberty Blockers Advice v State Bans - NHMRC Draft Evidence Summary.pdf",
+   "name": "Family - Puberty Blockers Advice v State Bans - NHMRC Draft Evidence Summary",
+   "file": "Family - Puberty Blockers Advice v State Bans - NHMRC Draft Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209901,
+   "mtime": 1794946508,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.3.2"
+   ],
+   "dupe": "familypubertyblockersadvicevstatebansnhmrcdraftevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -12005,6 +12056,23 @@
    "primary": true
   },
   {
+   "path": "Human Rights/HR - Corporate Climate Targets and Disclosure Evidence Summary.pdf",
+   "name": "HR - Corporate Climate Targets and Disclosure Evidence Summary",
+   "file": "HR - Corporate Climate Targets and Disclosure Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 214554,
+   "mtime": 1794946509,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.3.1",
+    "hr.1.2"
+   ],
+   "dupe": "hrcorporateclimatetargetsanddisclosureevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/HR - Digital Detox in Schools Screen and AI Limits Evidence Summary.pdf",
    "name": "HR - Digital Detox in Schools Screen and AI Limits Evidence Summary",
    "file": "HR - Digital Detox in Schools Screen and AI Limits Evidence Summary.pdf",
@@ -12135,6 +12203,22 @@
    "primary": true
   },
   {
+   "path": "Human Rights/HR - High Court Abattoir Footage - Press Freedom Second Summary Evidence Summary.pdf",
+   "name": "HR - High Court Abattoir Footage - Press Freedom Second Summary Evidence Summary",
+   "file": "HR - High Court Abattoir Footage - Press Freedom Second Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206988,
+   "mtime": 1794946511,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.10"
+   ],
+   "dupe": "hrhighcourtabattoirfootagepressfreedomsecondsummaryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/HR - High Court Abattoir Footage Evidence Summary.pdf",
    "name": "HR - High Court Abattoir Footage Evidence Summary",
    "file": "HR - High Court Abattoir Footage Evidence Summary.pdf",
@@ -12215,6 +12299,24 @@
     "hr.3.1"
    ],
    "dupe": "hrnazisalutemandatoryminimumanustickersevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - Panguna Mine Legacy Fund Evidence Summary.pdf",
+   "name": "HR - Panguna Mine Legacy Fund Evidence Summary",
+   "file": "HR - Panguna Mine Legacy Fund Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208054,
+   "mtime": 1794946512,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.3.1",
+    "hr.2.5",
+    "hr.2.12"
+   ],
+   "dupe": "hrpangunaminelegacyfundevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -12458,6 +12560,22 @@
     "hr.2.2"
    ],
    "dupe": "hrunrapporteurrefuseddetentionaccessendofmissionsecondsummaryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - UN Rapporteur Refused Detention Access - End of Mission Third Summary Evidence Summary.pdf",
+   "name": "HR - UN Rapporteur Refused Detention Access - End of Mission Third Summary Evidence Summary",
+   "file": "HR - UN Rapporteur Refused Detention Access - End of Mission Third Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211838,
+   "mtime": 1794946512,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.2"
+   ],
+   "dupe": "hrunrapporteurrefuseddetentionaccessendofmissionthirdsummaryevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -16424,6 +16542,23 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - CGT Housing Tax Reforms and the Spender Alternative Evidence Summary.pdf",
+   "name": "Shelter - CGT Housing Tax Reforms and the Spender Alternative Evidence Summary",
+   "file": "Shelter - CGT Housing Tax Reforms and the Spender Alternative Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208949,
+   "mtime": 1794946514,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.1",
+    "shel.2.1"
+   ],
+   "dupe": "sheltercgthousingtaxreformsandthespenderalternativeevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - Fair Trading priorities 2026-27 (first version) Evidence Summary.pdf",
    "name": "Shelter - Fair Trading priorities 2026-27 (first version) Evidence Summary",
    "file": "Shelter - Fair Trading priorities 2026-27 (first version) Evidence Summary.pdf",
@@ -16769,6 +16904,23 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - Renting Through Agents Repairs and Rent Increases Evidence Summary.pdf",
+   "name": "Shelter - Renting Through Agents Repairs and Rent Increases Evidence Summary",
+   "file": "Shelter - Renting Through Agents Repairs and Rent Increases Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208283,
+   "mtime": 1794946515,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.2",
+    "shel.2.3"
+   ],
+   "dupe": "shelterrentingthroughagentsrepairsandrentincreasesevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - Right Help Right Time Early Intervention Release Evidence Summary.pdf",
    "name": "Shelter - Right Help Right Time Early Intervention Release Evidence Summary",
    "file": "Shelter - Right Help Right Time Early Intervention Release Evidence Summary.pdf",
@@ -16872,6 +17024,22 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - Victorian Underquoting Laws - NSW Reforms Paused Evidence Summary.pdf",
+   "name": "Shelter - Victorian Underquoting Laws - NSW Reforms Paused Evidence Summary",
+   "file": "Shelter - Victorian Underquoting Laws - NSW Reforms Paused Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209326,
+   "mtime": 1794946514,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.1"
+   ],
+   "dupe": "sheltervictorianunderquotinglawsnswreformspausedevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - Victorian Underquoting Laws and Price Guides Evidence Summary.pdf",
    "name": "Shelter - Victorian Underquoting Laws and Price Guides Evidence Summary",
    "file": "Shelter - Victorian Underquoting Laws and Price Guides Evidence Summary.pdf",
@@ -16885,6 +17053,23 @@
     "shel.2.8"
    ],
    "dupe": "sheltervictorianunderquotinglawsandpriceguidesevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Vinnies Homelessness Prevention Election Poll Evidence Summary.pdf",
+   "name": "Shelter - Vinnies Homelessness Prevention Election Poll Evidence Summary",
+   "file": "Shelter - Vinnies Homelessness Prevention Election Poll Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209525,
+   "mtime": 1794946516,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.3",
+    "shel.2.9"
+   ],
+   "dupe": "sheltervinnieshomelessnesspreventionelectionpollevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -20155,6 +20340,22 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - BOCSAR custody September 2026 - Remand Near Record Evidence Summary.pdf",
+   "name": "Crime - BOCSAR custody September 2026 - Remand Near Record Evidence Summary",
+   "file": "Crime - BOCSAR custody September 2026 - Remand Near Record Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208749,
+   "mtime": 1794946502,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.5"
+   ],
+   "dupe": "crimebocsarcustodyseptember2026remandnearrecordevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - BOCSAR custody September 2026 - Student Infographic.pdf",
    "name": "Crime - BOCSAR custody September 2026 - Student Infographic",
    "file": "Crime - BOCSAR custody September 2026 - Student Infographic.pdf",
@@ -20427,6 +20628,24 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - Jack Westren Murder Sentencing Hearing Evidence Summary.pdf",
+   "name": "Crime - Jack Westren Murder Sentencing Hearing Evidence Summary",
+   "file": "Crime - Jack Westren Murder Sentencing Hearing Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207442,
+   "mtime": 1794946501,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.5.4",
+    "crime.3.4",
+    "crime.4.4"
+   ],
+   "dupe": "crimejackwestrenmurdersentencinghearingevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - Kariong Intake Centre Period Products Inspection Evidence Summary.pdf",
    "name": "Crime - Kariong Intake Centre Period Products Inspection Evidence Summary",
    "file": "Crime - Kariong Intake Centre Period Products Inspection Evidence Summary.pdf",
@@ -20458,6 +20677,22 @@
     "crime.3.9"
    ],
    "dupe": "crimelamarrecondondoublemurdertrialselfdefenceevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Luke's Law bail proposal - Break Bail Go to Jail Evidence Summary.pdf",
+   "name": "Crime - Luke's Law bail proposal - Break Bail Go to Jail Evidence Summary",
+   "file": "Crime - Luke's Law bail proposal - Break Bail Go to Jail Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211754,
+   "mtime": 1794946501,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.5"
+   ],
+   "dupe": "crimelukeslawbailproposalbreakbailgotojailevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -20603,6 +20838,23 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - NT Teen Terror Charges - Two Bail Decisions Evidence Summary.pdf",
+   "name": "Crime - NT Teen Terror Charges - Two Bail Decisions Evidence Summary",
+   "file": "Crime - NT Teen Terror Charges - Two Bail Decisions Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209467,
+   "mtime": 1794946504,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.5",
+    "crime.5.2"
+   ],
+   "dupe": "crimentteenterrorchargestwobaildecisionsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - NT Teen Terror Charges Evidence Summary.pdf",
    "name": "Crime - NT Teen Terror Charges Evidence Summary",
    "file": "Crime - NT Teen Terror Charges Evidence Summary.pdf",
@@ -20686,6 +20938,24 @@
     "crime.2.1"
    ],
    "dupe": "crimenationalgunbuybackafterbondidayone4nov26evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Neurotechnology Police Interrogation Evidence Summary.pdf",
+   "name": "Crime - Neurotechnology Police Interrogation Evidence Summary",
+   "file": "Crime - Neurotechnology Police Interrogation Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211137,
+   "mtime": 1794946505,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.6",
+    "crime.3.7",
+    "chg.1.3"
+   ],
+   "dupe": "crimeneurotechnologypoliceinterrogationevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -20874,6 +21144,22 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - R v Rokomaqisa (Nos 11 to 29) - Second Hung Jury Evidence Summary.pdf",
+   "name": "Crime - R v Rokomaqisa (Nos 11 to 29) - Second Hung Jury Evidence Summary",
+   "file": "Crime - R v Rokomaqisa (Nos 11 to 29) - Second Hung Jury Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207593,
+   "mtime": 1794946499,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.3.9"
+   ],
+   "dupe": "crimervrokomaqisanos11to29secondhungjuryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - Russell Manslaughter Sentencing Hearing Evidence Summary.pdf",
    "name": "Crime - Russell Manslaughter Sentencing Hearing Evidence Summary",
    "file": "Crime - Russell Manslaughter Sentencing Hearing Evidence Summary.pdf",
@@ -20973,6 +21259,22 @@
     "crime.6.2"
    ],
    "dupe": "crimetongacomancherosdeporteesentenceevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Vic Coalition Youth Bootcamp - Election Plans Second Summary Evidence Summary.pdf",
+   "name": "Crime - Vic Coalition Youth Bootcamp - Election Plans Second Summary Evidence Summary",
+   "file": "Crime - Vic Coalition Youth Bootcamp - Election Plans Second Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210140,
+   "mtime": 1794946505,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.5.4"
+   ],
+   "dupe": "crimeviccoalitionyouthbootcampelectionplanssecondsummaryevidencesummary",
    "copyOf": null,
    "primary": true
   },

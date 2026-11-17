@@ -15,7 +15,7 @@ document11: Preliminary/Year 11 - Experiences with the Law - NT Teen Terror Char
 source: https://www.abc.net.au/news/2026-10-29/nt-teen-terror-charges-extremism-3d-printed-gun-schematics/107322362
 related: afp-youth-radicalisation-data-2026, young-offenders-in-the-cjs, terrorism-police-powers-act-2002, nsw-firearms-reforms-and-gun-buyback-2026
 added: 2026-10-30
-updated_at: 2026-11-17 08:29
+updated_at: 2026-11-18 07:19
 ---
 
 After a Crime Stoppers tip-off about violent extremist material online, the NT Joint Counter Terrorism Team
@@ -62,6 +62,14 @@ sets the starting point, not only NT bail law.
 
 The AFP analysed 32 youth terrorism cases: all 19 people charged under violent extremist material laws were children, radicalised at
 least partly online. [Class evidence summary](https://drive.google.com/file/d/1aGvb-E2lFE-gByX5dPGam68dEml3AfJN/view).
+
+## Two teens, two bail decisions (ABC, 16 November 2026)
+
+A second child, a **15-year-old girl**, charged with one count of collecting or making documents likely to facilitate a terrorist act,
+was **granted bail** by Judge Greg Macdonald, citing her age, gender, lack of criminal history, neurodivergent factors and better access
+to interventions in the community. The 14-year-old boy (Judge Thomasin Opie) was refused bail: there were no independent risk
+assessments yet, despite a supportive family. Both decisions applied the same s 15AA exceptional-circumstances test.
+[Class evidence summary](https://drive.google.com/file/d/1S3HLMXgqMHLiUMUZTXe0V2R9eXHALdj_/view).
 
 ## Use it for
 

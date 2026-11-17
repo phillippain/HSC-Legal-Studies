@@ -12,10 +12,10 @@ themes: crime.t.balance, crime.t.discretion, crime.t.effectiveness
 criteria: justice, rights
 document: Cases/Crime/R v Rokomaqisa (Nos 11 to 29) 2026 NSWSC series - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - R v Rokomaqisa (Nos 11 to 29) 2026 NSWSC series - Case Summary.pdf
-related: r-v-rokomaqisa-no11-2026, r-v-rokomaqisa-no13-2026, r-v-rokomaqisa-no16-2026, r-v-rokomaqisa-no19-2026, r-v-rokomaqisa-no22-2026, r-v-rokomaqisa-no25-2026, jury-act-1977, evidence-act-1995
+related: zakaria-permanent-stay-2026, r-v-rokomaqisa-no11-2026, r-v-rokomaqisa-no13-2026, r-v-rokomaqisa-no16-2026, r-v-rokomaqisa-no19-2026, r-v-rokomaqisa-no22-2026, r-v-rokomaqisa-no25-2026, jury-act-1977, evidence-act-1995
 added: 2026-11-16
 added_at: 2026-11-17 08:29
-updated_at: 2026-11-17 08:29
+updated_at: 2026-11-18 07:19
 ---
 
 Samuel John Rokomaqisa is being retried for murder, conspiracy to murder and a car offence; the first jury was discharged without verdicts in October 2025. A retrial jury of fifteen was empanelled on 28 July 2026.
@@ -31,6 +31,15 @@ Samuel John Rokomaqisa is being retried for murder, conspiracy to murder and a c
 | Directions | Two jury directions declined (No 29) |
 
 Individual summaries cover Nos 11, 13, 16, 19, 22 and 25; the other rulings appear only in this series pack.
+
+## Outcome: a second hung jury (ABC, 16 November 2026)
+
+The retrial was for the 2021 gangland murder of **Bilal Hamze**. After **11 days** of deliberation, the second jury was discharged
+without a verdict on the murder charge — the second hung jury (the first jury deliberated about three and a half weeks in
+September–October 2025). A majority verdict needs 11 of 12 jurors after at least 8 hours (Jury Act s 55F; majority verdicts since
+2006, against the NSWLRC's 2005 advice). Whether there is a third trial is a matter for the DPP's discretion, weighing the community's
+interest in prosecution against delay, cost and years in custody without a verdict.
+[Class evidence summary](https://drive.google.com/file/d/1tedkmf8u8GygYe2hstvE29eHt0BxRqcU/view).
 
 ## Use it for
 

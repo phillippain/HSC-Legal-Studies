@@ -1,6 +1,6 @@
 ---
 type: media
-title: Underquoting laws fail to make Victorian price guides reliable (AFR, 10 November 2026)
+title: Underquoting laws fail to make Victorian price guides reliable — and NSW pauses its reforms (November 2026)
 short: Victorian underquoting laws
 citation: Evidence summary of Madeleine Bower, The Australian Financial Review, 10 November 2026, on Australian Property Institute and Homer analysis (year to 30 June 2026); Estate Agents Act 1980 (Vic) ss 47A–47C; Property and Stock Agents Act 2002 (NSW) s 72A; Australian Consumer Law ss 18, 30
 date: 2026-11-10
@@ -14,7 +14,7 @@ document: Shelter/Evidence Sheets/Shelter - Victorian Underquoting Laws and Pric
 related: fair-trading-enforcement-priorities-2026-27, fair-trading-act-1987, guide-to-purchasing-your-home-nsw, leader-properties-lockout-fair-trading-2026
 added: 2026-11-11
 added_at: 2026-11-11 08:07
-updated_at: 2026-11-11 08:07
+updated_at: 2026-11-18 07:19
 ---
 
 The API and Homer analysed **102,681** Victorian sales: **43%** sold within the first price guide buyers saw, and only **68 of
@@ -34,6 +34,20 @@ The API and Homer analysed **102,681** Victorian sales: **43%** sold within the 
 | Valuation | No independent valuation power found | Fair Trading can order an independent valuer check (since 29 June 2026) |
 
 Neither state requires a pre-sale independent valuation; the API is lobbying for one.
+
+## Update: NSW pauses its reforms (ABC, 16 November 2026)
+
+Hours before the price-guide rules were due to start on **17 November 2026**, Premier Chris Minns paused them until **1 December 2027**,
+citing a falling market (Sydney house prices down 9.7%).
+
+| As legislated (due 17 November 2026) | After the pause |
+|---|---|
+| Price or range required in all residential ads | Paused; agents still must not advertise below the estimated selling price |
+| No advertised price below an offer rejected as too low | Paused; agents can lower advertised prices in a falling market |
+| Estimate set and revised from comparable sales | Paused; the estimate must still be reasonable and revised |
+
+The maximum penalty in the paused rules is $110,000 or three times commission; existing underquoting offences still apply.
+[Class evidence summary](https://drive.google.com/file/d/1O2yYIisqWBW5gaH-81_IQAhBmWyKY-PW/view).
 
 ## Use it for
 

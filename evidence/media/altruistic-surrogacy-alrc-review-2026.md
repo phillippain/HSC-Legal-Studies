@@ -12,10 +12,10 @@ themes: fam.t.reform, fam.t.values, fam.t.effectiveness
 criteria: responsiveness, rights, enforceability
 document: Family/Evidence Summaries/Family - Altruistic Surrogacy and ALRC Review Evidence Summary.pdf
 source: https://www.abc.net.au/news/2026-11-15/qld-woman-gives-birth-to-surrogate-baby/107350062
-related: surrogacy-act-2010-and-art-act-2007, overseas-surrogacy-as-a-commonwealth-issue, abc-2025-commercial-surrogacy-prosecution-referral, surrogacy-birth-technology-evidence-file
+related: alrc-report-145-surrogacy-2026, surrogacy-act-2010-and-art-act-2007, overseas-surrogacy-as-a-commonwealth-issue, abc-2025-commercial-surrogacy-prosecution-referral, surrogacy-birth-technology-evidence-file
 added: 2026-11-16
 added_at: 2026-11-16 09:59
-updated_at: 2026-11-16 09:59
+updated_at: 2026-11-18 07:19
 ---
 
 A nurse carried a colleague's baby for a Queensland woman with a kidney condition. **103** babies were born to gestational surrogates at ANZ clinics in 2024; the ALRC estimates **275** children were born via overseas surrogacy in 2020 against 76 domestically. Commercial surrogacy carries up to **3 years**' jail in Queensland (s 56).
@@ -30,6 +30,9 @@ A nurse carried a colleague's baby for a Queensland woman with a kidney conditio
 | Unenforceable except reimbursement (s 15) | No known successful prosecutions |
 
 The ALRC Discussion Paper proposes repealing the extraterritorial offences in favour of registration and civil penalties.
+
+**Update:** the ALRC's final report (Report 145, 17 November 2026) has now been released with 47 recommendations — see the separate
+card for Report 145.
 
 ## Use it for
 
