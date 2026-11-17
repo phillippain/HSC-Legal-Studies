@@ -181,7 +181,17 @@
   "cxz22-v-minister-2026": "2026-11-17",
   "cabezz-v-mcshane-2026": "2026-11-17",
   "hiu26-v-minister-2026": "2026-11-17",
-  "kljm-v-minister-2026": "2026-11-17"
+  "kljm-v-minister-2026": "2026-11-17",
+  "neurotechnology-police-interrogation-2026": "2026-11-18",
+  "bocsar-custody-september-2026": "2026-11-18",
+  "jack-westren-murder-sentencing-2026": "2026-11-18",
+  "corporate-climate-targets-disclosure-2026": "2026-11-18",
+  "panguna-mine-legacy-fund-2026": "2026-11-18",
+  "operation-amarok-15-2026": "2026-11-18",
+  "alrc-report-145-surrogacy-2026": "2026-11-18",
+  "renting-through-agents-repairs-rent-2026": "2026-11-18",
+  "cgt-housing-tax-spender-alternative-2026": "2026-11-18",
+  "vinnies-homelessness-prevention-poll-2026": "2026-11-18"
  },
  "reported_updates": {
   "zakaria-permanent-stay-2026": "fcbb7ce",
@@ -189,8 +199,8 @@
   "nsw-firearms-reforms-and-gun-buyback-2026": "c0a6e42",
   "guardian-2026-reddit-high-court-social-media-ban": "fcbb7ce",
   "child-support-financial-abuse-2026": "c0a6e42",
-  "nt-teen-terror-charges-2026": "99bef98",
-  "un-rapporteur-refused-youth-detention-access-2026": "99bef98",
+  "nt-teen-terror-charges-2026": "ec3100f",
+  "un-rapporteur-refused-youth-detention-access-2026": "ec3100f",
   "right-help-right-time-homelessness-2026": "1660bf1",
   "afp-operation-integrity-fusion-2026": "fcbb7ce",
   "oconnell-v-dpp-2026": "fcbb7ce",
@@ -220,8 +230,14 @@
   "supportive-housing-end-rough-sleeping-2026": "8064473",
   "hunter-social-housing-waitlist-2026": "8064473",
   "northern-rivers-temporary-housing-villages-2026": "8064473",
-  "vic-coalition-youth-bootcamp-2026": "99bef98",
-  "nsw-human-rights-act-inquiry-2026": "99bef98"
+  "vic-coalition-youth-bootcamp-2026": "ec3100f",
+  "nsw-human-rights-act-inquiry-2026": "99bef98",
+  "r-v-rokomaqisa-series-2026": "ec3100f",
+  "lukes-law-bail-proposal-2026": "ec3100f",
+  "high-court-abattoir-footage-2026": "ec3100f",
+  "altruistic-surrogacy-alrc-review-2026": "ec3100f",
+  "puberty-blockers-guidelines-state-bans-2026": "ec3100f",
+  "victorian-underquoting-price-guides-2026": "ec3100f"
  },
- "last_run": "2026-11-17T08:33:46"
+ "last_run": "2026-11-18T07:25:52"
 }
