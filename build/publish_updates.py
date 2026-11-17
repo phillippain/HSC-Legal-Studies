@@ -360,6 +360,31 @@ def main(a):
         save(store)
         print(f"{day['date']}: {day['new']} new, {day['updated']} updated saved")
         rebuild()
+    elif a and a[0] == "append" and len(a) >= 3:
+        # add a later batch to a day that already exists (merges items by topic)
+        digest = json.load(open(a[1], encoding="utf-8"))
+        summaries = json.load(open(a[2], encoding="utf-8"))
+        store = load()
+        extra = make_day(digest, summaries)
+        cur = next((d for d in store["days"] if d["date"] == extra["date"]), None)
+        if not cur:
+            store["days"].append(extra)
+        else:
+            have = {it["id"] for g in cur["groups"] for it in g["items"]}
+            for g in extra["groups"]:
+                items = [it for it in g["items"] if it["id"] not in have]
+                tgt = next((x for x in cur["groups"] if x["key"] == g["key"] and x["course"] == g["course"]), None)
+                if tgt:
+                    tgt["items"] += items
+                elif items:
+                    cur["groups"].append({**g, "items": items})
+            order = {"core": 0, "preliminary": 1}
+            cur["groups"].sort(key=lambda g: order.get(g["course"], 2))
+            cur["new"] = sum(it["status"] == "new" for g in cur["groups"] for it in g["items"])
+            cur["updated"] = sum(it["status"] == "updated" for g in cur["groups"] for it in g["items"])
+        save(store)
+        print("appended to", extra["date"])
+        rebuild()
     elif a and a[0] == "rebuild":
         rebuild()
     elif a and a[0] == "status":

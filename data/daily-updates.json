@@ -4,9 +4,112 @@
   {
    "date": "2026-11-18",
    "since": "2026-11-17",
-   "new": 10,
+   "new": 16,
    "updated": 9,
    "groups": [
+    {
+     "key": "disputes",
+     "label": "Disputes under the law",
+     "part": "Year 11 (Preliminary) Focus area 2",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "asic-v-diamond-wheels-penalty-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "ASIC v Diamond Wheels Pty Ltd (Penalty Hearing) [2026] FCA 1734 — civil penalties for unlicensed car lending",
+       "summary": "A car dealer, a related company and their director ran consumer car loans without a credit licence, and the Federal Court, treating them as one family enterprise, set civil penalties of $2.5m, $3.5m and $750,000. Use it for civil penalties as a remedy enforced by a regulator, and for how civil and criminal law differ (Year 11).",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Types and aims of remedies",
+        "The purpose and characteristics of civi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-asic-v-diamond-wheels-penalty-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1JVbe47Wh922hPgmlYn0EYzZkamumVlRn/view",
+       "source": ""
+      },
+      {
+       "id": "goldmate-group-v-yang-contempt-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Goldmate Group Pty Ltd v Yang (Contempt) [2026] FCA 1733 — breaching a freezing order proved beyond reasonable doubt",
+       "summary": "A man subject to a freezing order was found, beyond reasonable doubt, to have breached it by directing borrowed money to liquidators, while a second charge failed because a notice to produce is not a court order. Use it to show that contempt is proved to the criminal standard even in civil proceedings, and for enforcing court orders and the rule of law (Year 11).",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "The burden and standard of proof in civ…",
+        "Types and aims of remedies"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-goldmate-group-v-yang-contempt-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1HK6QI7gU8hJ1M1N4DERUjEPeG1sk6xQQ/view",
+       "source": ""
+      },
+      {
+       "id": "parsons-v-assistant-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Parsons v Assistant Minister for Immigration [2026] FCA 1706 — a s 501BA cancellation upheld",
+       "summary": "A New Zealand citizen who arrived aged four had his Tribunal-restored visa cancelled again under s 501BA(2), and the Federal Court dismissed his judicial review, finding that using earlier offending as a comparator was not illogical. Use it for ministerial override of a tribunal and the limits of judicial review (Year 11 Disputes with the state).",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-parsons-v-assistant-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1gRUgurpUU23-4eGY72e-pEAETXS39roE/view",
+       "source": ""
+      },
+      {
+       "id": "saha-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Saha v Minister for Immigration and Citizenship [2026] FCA 1715 — a student visa appeal fails on all grounds",
+       "summary": "A Bangladeshi woman refused a further student visa as not a genuine temporary entrant lost her appeal on every ground, including ignored evidence, delay and unfairness. Use it to show that judicial review tests the legality of a decision, not whether the applicant should get the visa (Year 11 Disputes with the state).",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-saha-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1fW8b_xjjyXiwRQR2G48XueuTUq-nWodd/view",
+       "source": ""
+      },
+      {
+       "id": "spring-and-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Spring and Minister for Immigration and Citizenship [2026] ARTA 2743 — a visa cancellation after 40 convictions affirmed",
+       "summary": "The Administrative Review Tribunal affirmed the cancellation of a New Zealand citizen's visa after more than 40 convictions, mostly driving offences, and reoffending after a written warning. Use it for merits review by a tribunal applying a binding direction, where community protection outweighed family ties (Year 11 Disputes with the state).",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-spring-and-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1E_9RTV1rRGAOolACuiVHHjNfW9DzlF3-/view",
+       "source": ""
+      }
+     ]
+    },
     {
      "key": "crime",
      "label": "Crime",
@@ -145,6 +248,25 @@
        "document_url": "https://drive.google.com/file/d/1Z2LK5OkezQ6rY9yoD9j36C14PPvqfbwN/view",
        "document11_url": null,
        "source": "https://www.abc.net.au/news/2026-11-15/dhurringile-liberals-jess-wilson-crime-bootcamp/107387262"
+      },
+      {
+       "id": "r-v-kirby-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Kirby [2026] NSWSC 1444 — manslaughter, cognitive impairment and deprivation reduce culpability",
+       "summary": "A woman pleaded guilty to manslaughter after fatally stabbing her partner once during an argument, and the court found that cognitive impairment and deprivation significantly reduced her culpability, setting 6 years with a 3-year non-parole period. Use it for the purposes of sentencing, factors that reduce culpability (Bugmy), and how a murder charge can end in a manslaughter plea.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Factors affecting a sentencing decision",
+        "The purposes of punishment"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-kirby-2026",
+       "document_url": "https://drive.google.com/file/d/1Kg1wRuKDH_-B06b8288uGaHFYq1EUkvv/view",
+       "document11_url": "https://drive.google.com/file/d/1olzx5y8_bLkYKdkCZZ-Qp3ue0oDXCB-3/view",
+       "source": ""
       }
      ]
     },
