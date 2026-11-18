@@ -15,7 +15,7 @@ source: https://moreeonlinenews.com.au/2026/11/16/moree-mp-backs-coalition-propo
 related: bail-act-2013, statement-on-bail-chief-justice-2025, nsw-prisoner-complaints-surge-remand-2026, tran-v-r-2026
 added: 2026-11-16
 added_at: 2026-11-17 08:29
-updated_at: 2026-11-18 07:19
+updated_at: 2026-11-19 07:59
 ---
 
 The Moree MP backs the Coalition's Luke's Law. **6,081** people were on remand in December 2025 (up 20.1% in two years); 97 of 123 young people refused bail under s 22C (April–September 2024) were Aboriginal.
@@ -32,6 +32,8 @@ The Moree MP backs the Coalition's Luke's Law. **6,081** people were on remand i
 A [second class summary](https://drive.google.com/file/d/1bz3jKiwRp9t9AfWoYUjnqgMm1QFHXdqK/view) (NSW Nationals release and news reports, 16–17 November) adds that the Coalition also
 promises to expand the serious children's indictable offence list; the "nearly 16%" rise in bail breaches raised in question time is
 unverified.
+
+A [third class summary (NSW Nationals release, 16 November)](https://drive.google.com/file/d/16UYnOf2kF2Ui5RUa5WVSPiCJjijHNe5u/view) frames the pledge as replacing the court's risk assessment with automatic remand for adults and children alike.
 
 ## Use it for
 

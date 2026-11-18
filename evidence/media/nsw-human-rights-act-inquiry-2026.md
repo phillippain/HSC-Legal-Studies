@@ -14,7 +14,7 @@ document: Human Rights/HR - NSW Human Rights Act Inquiry Evidence Summary.pdf
 source: https://www.parliament.nsw.gov.au/bills/Pages/Profiles/human-rights-bill-2025.aspx
 related: charters-of-rights-act-vic-qld, human-rights-in-australia-common-law-courts-media-charter, qld-prison-human-rights-exemption-2026, anti-discrimination-act-1977
 added: 2026-11-03
-updated_at: 2026-11-17 08:29
+updated_at: 2026-11-19 07:59
 ---
 
 The **Human Rights Bill 2025 (NSW)** was referred to a Legislative Assembly committee on 18 March 2026; 120+ civil
@@ -48,6 +48,8 @@ days of public hearings; **120+** organisations backed the call for an inquiry. 
 | No general duty on public authorities | Unlawful to act incompatibly with rights or fail to consider them |
 
 [Class evidence summary](https://drive.google.com/file/d/1Ixnk3Yy_RQaCZQ25Afuorjh5tbNGK1JW/view).
+
+A [second class summary of the CathNews article](https://drive.google.com/file/d/1C0fvp__U60xL55F5na_xNL_sPGsyW29j/view) notes the Bill would give stronger court remedies than Victoria or Queensland, and that church critics warn of weak protection for religion.
 
 ## Use it for
 

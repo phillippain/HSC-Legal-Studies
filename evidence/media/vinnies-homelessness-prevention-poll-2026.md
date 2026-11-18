@@ -15,7 +15,7 @@ source: https://cathnews.com/2026/11/17/vinnies-urges-parties-to-commit-to-preve
 related: supportive-housing-end-rough-sleeping-2026, abs-homelessness-census-2021, shelter-homelessness-evidence-sheet
 added: 2026-11-16
 added_at: 2026-11-18 07:19
-updated_at: 2026-11-18 07:19
+updated_at: 2026-11-19 07:59
 ---
 
 In an opt-in online survey of **648** Victorians, **49%** ranked preventing homelessness first against **23%** for building social housing, and **89%** supported more investment in prevention. **30,660** Victorians were homeless on 2021 Census night.
@@ -27,6 +27,8 @@ In an opt-in online survey of **648** Victorians, **49%** ranked preventing home
 | Ranked top priority by 49% | Ranked top by 23% |
 | 89% back more prevention funding | 77% back social housing; 91% affordable housing |
 | Tenancy sustainment, rental assistance | Over 13,300 social and affordable homes |
+
+A [second class summary](https://drive.google.com/file/d/1RICLG4mevC1n-IlDToBmKW9amLx9q8Pc/view) frames homelessness as a cost-of-living problem best met by prevention.
 
 ## Use it for
 

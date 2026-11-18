@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-15/dhurringile-liberals-jess-wilson-
 related: vic-youth-rehabilitation-detention-pledge-2026, queensland-adult-crime-adult-time, bocsar-cjb281-youth-frontiers-mentoring
 added: 2026-11-16
 added_at: 2026-11-16 09:59
-updated_at: 2026-11-18 07:19
+updated_at: 2026-11-19 07:59
 ---
 
 The Coalition would use the former **Dhurringile Prison** near Murchison (closed 2024; courts have spent **$2.06m** keeping it empty). No cost, capacity or opening date has been released.
@@ -39,6 +39,8 @@ Dhurringile camp and Labor's $204m mandatory therapeutic order — as prevention
 NSW's diversion-first *Young Offenders Act*. [Class evidence summary](https://drive.google.com/file/d/167440V6-AoUvZRtn8T4TcLz8q1im16j7/view).
 
 A [second class summary of the same Conversation article](https://drive.google.com/file/d/1Z0QHzVMvmLBff-d7CMNXb9b0DmAKMYgH/view) compares both parties' plans with NSW's diversion-first approach.
+
+A [third class summary (ABC live blog, 16 November)](https://drive.google.com/file/d/1ZX79Zf7yTgKci2Poj7S4-bJh1e4M5y77/view) reports the Liberals' camp at a reported **$60 million**, against Labor's $204m therapeutic orders, and cites Queensland's failed 2013–15 camps.
 
 ## Use it for
 

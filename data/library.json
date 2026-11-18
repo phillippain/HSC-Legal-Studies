@@ -3597,6 +3597,22 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - ALRC Report 145 (surrogacy) - Second Summary Evidence Summary.pdf",
+   "name": "Family - ALRC Report 145 (surrogacy) - Second Summary Evidence Summary",
+   "file": "Family - ALRC Report 145 (surrogacy) - Second Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209788,
+   "mtime": 1795034469,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "fam.3.3"
+   ],
+   "dupe": "familyalrcreport145surrogacysecondsummaryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Family - ALRC Surrogacy Final Report (Report 145) Evidence Summary.pdf",
    "name": "Family - ALRC Surrogacy Final Report (Report 145) Evidence Summary",
    "file": "Family - ALRC Surrogacy Final Report (Report 145) Evidence Summary.pdf",
@@ -3643,6 +3659,23 @@
     "family"
    ],
    "dupe": "familycalvarycatholichospitalservicecutsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Family/Evidence Summaries/Family - Celestes Law GPS Monitoring of Stalkers Evidence Summary.pdf",
+   "name": "Family - Celestes Law GPS Monitoring of Stalkers Evidence Summary",
+   "file": "Family - Celestes Law GPS Monitoring of Stalkers Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209284,
+   "mtime": 1795034469,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.2.4",
+    "chg.1.3"
+   ],
+   "dupe": "familycelesteslawgpsmonitoringofstalkersevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -3782,6 +3815,24 @@
     "fam.2.4"
    ],
    "dupe": "familydomesticviolenceandsuicideinquiryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Family/Evidence Summaries/Family - Family Court Co-Parenting After DV Conviction Evidence Summary.pdf",
+   "name": "Family - Family Court Co-Parenting After DV Conviction Evidence Summary",
+   "file": "Family - Family Court Co-Parenting After DV Conviction Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 212239,
+   "mtime": 1795034471,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.4",
+    "fam.2.2",
+    "fam.2.5"
+   ],
+   "dupe": "familyfamilycourtcoparentingafterdvconvictionevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4859,6 +4910,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - AB v CD (No 2) [2026] NSWSC 1483 - Case Summary.pdf",
+   "name": "Year 11 - AB v CD (No 2) [2026] NSWSC 1483 - Case Summary",
+   "file": "Year 11 - AB v CD (No 2) [2026] NSWSC 1483 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 276921,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "dis.2.8"
+   ],
+   "dupe": "year11abvcdno22026nswsc1483casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - ASIC v Diamond Wheels Pty Ltd (Penalty Hearing) [2026] FCA 1734 - Case Summary.pdf",
    "name": "Year 11 - ASIC v Diamond Wheels Pty Ltd (Penalty Hearing) [2026] FCA 1734 - Case Summary",
    "file": "Year 11 - ASIC v Diamond Wheels Pty Ltd (Penalty Hearing) [2026] FCA 1734 - Case Summary.pdf",
@@ -5047,6 +5115,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Baum & Gunson (No 2) [2026] FedCFamC2F 1593 - Case Summary.pdf",
+   "name": "Year 11 - Baum & Gunson (No 2) [2026] FedCFamC2F 1593 - Case Summary",
+   "file": "Year 11 - Baum & Gunson (No 2) [2026] FedCFamC2F 1593 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 289494,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5"
+   ],
+   "dupe": "year11baumgunsonno22026fedcfamc2f1593casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Bechelli v CBA; Giordano v CBA [2026] NSWCATAD 347 - Case Summary.pdf",
    "name": "Year 11 - Bechelli v CBA; Giordano v CBA [2026] NSWCATAD 347 - Case Summary",
    "file": "Year 11 - Bechelli v CBA; Giordano v CBA [2026] NSWCATAD 347 - Case Summary.pdf",
@@ -5077,6 +5161,23 @@
     "dis.3.1"
    ],
    "dupe": "year11belmontvassistantminister2026fca1720casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Ben-Simon v Langton [2026] NSWCATAP 328 - Case Summary.pdf",
+   "name": "Year 11 - Ben-Simon v Langton [2026] NSWCATAP 328 - Case Summary",
+   "file": "Year 11 - Ben-Simon v Langton [2026] NSWCATAP 328 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271227,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "dis.2.8"
+   ],
+   "dupe": "year11bensimonvlangton2026nswcatap328casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5180,6 +5281,23 @@
     "dis.1.8"
    ],
    "dupe": "year11bunningvcross1978hca22casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Bunyan & Terho (No 2) [2026] FedCFamC2F 1508 - Case Summary.pdf",
+   "name": "Year 11 - Bunyan & Terho (No 2) [2026] FedCFamC2F 1508 - Case Summary",
+   "file": "Year 11 - Bunyan & Terho (No 2) [2026] FedCFamC2F 1508 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 292233,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.7",
+    "dis.2.8"
+   ],
+   "dupe": "year11bunyanterhono22026fedcfamc2f1508casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5306,6 +5424,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Catanuto v R [2026] NSWCCA 196 - Case Summary.pdf",
+   "name": "Year 11 - Catanuto v R [2026] NSWCCA 196 - Case Summary",
+   "file": "Year 11 - Catanuto v R [2026] NSWCCA 196 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 290611,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.7",
+    "dis.1.5"
+   ],
+   "dupe": "year11catanutovr2026nswcca196casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Chandler & Banfield [2026] FedCFamC2F 1237 - Case Summary.pdf",
    "name": "Year 11 - Chandler & Banfield [2026] FedCFamC2F 1237 - Case Summary",
    "file": "Year 11 - Chandler & Banfield [2026] FedCFamC2F 1237 - Case Summary.pdf",
@@ -5318,6 +5453,23 @@
     "exp.1.1"
    ],
    "dupe": "year11chandlerbanfield2026fedcfamc2f1237casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Chapman & Whiley [2026] FedCFamC2F 1247 - Case Summary.pdf",
+   "name": "Year 11 - Chapman & Whiley [2026] FedCFamC2F 1247 - Case Summary",
+   "file": "Year 11 - Chapman & Whiley [2026] FedCFamC2F 1247 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 265821,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "dis.2.6"
+   ],
+   "dupe": "year11chapmanwhiley2026fedcfamc2f1247casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5457,6 +5609,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Davers & Morley (No 2) [2026] FedCFamC2F 1250 - Case Summary.pdf",
+   "name": "Year 11 - Davers & Morley (No 2) [2026] FedCFamC2F 1250 - Case Summary",
+   "file": "Year 11 - Davers & Morley (No 2) [2026] FedCFamC2F 1250 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 273190,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "dis.2.7"
+   ],
+   "dupe": "year11daversmorleyno22026fedcfamc2f1250casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary.pdf",
    "name": "Year 11 - Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary",
    "file": "Year 11 - Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary.pdf",
@@ -5502,6 +5671,23 @@
     "family"
    ],
    "dupe": "year11dwayneevonne2026fedcfamc1f644casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - EPA v Wollongong Resources Pty Ltd [2026] NSWLEC 146 - Case Summary.pdf",
+   "name": "Year 11 - EPA v Wollongong Resources Pty Ltd [2026] NSWLEC 146 - Case Summary",
+   "file": "Year 11 - EPA v Wollongong Resources Pty Ltd [2026] NSWLEC 146 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 279416,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.7",
+    "dis.1.3"
+   ],
+   "dupe": "year11epavwollongongresourcesptyltd2026nswlec146casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5727,6 +5913,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Givens v R [2026] NSWCCA 191 - Case Summary.pdf",
+   "name": "Year 11 - Givens v R [2026] NSWCCA 191 - Case Summary",
+   "file": "Year 11 - Givens v R [2026] NSWCCA 191 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 279793,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.6",
+    "dis.1.4"
+   ],
+   "dupe": "year11givensvr2026nswcca191casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Goldmate Group Pty Ltd v Yang (Contempt) [2026] FCA 1733 - Case Summary.pdf",
    "name": "Year 11 - Goldmate Group Pty Ltd v Yang (Contempt) [2026] FCA 1733 - Case Summary",
    "file": "Year 11 - Goldmate Group Pty Ltd v Yang (Contempt) [2026] FCA 1733 - Case Summary.pdf",
@@ -5794,6 +5997,57 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Halverston & Dunkley [2026] FedCFamC2F 1281 - Case Summary.pdf",
+   "name": "Year 11 - Halverston & Dunkley [2026] FedCFamC2F 1281 - Case Summary",
+   "file": "Year 11 - Halverston & Dunkley [2026] FedCFamC2F 1281 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 289633,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "exp.1.1",
+    "exp.3.2"
+   ],
+   "dupe": "year11halverstondunkley2026fedcfamc2f1281casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Han and Minister for Immigration and Citizenship (Citizenship) [2026] ARTA 2747 - Case Summary.pdf",
+   "name": "Year 11 - Han and Minister for Immigration and Citizenship (Citizenship) [2026] ARTA 2747 - Case Summary",
+   "file": "Year 11 - Han and Minister for Immigration and Citizenship (Citizenship) [2026] ARTA 2747 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 276789,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11hanandministerforimmigrationandcitizenshipcitizenship2026arta2747casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Haswell & Haswell [2026] FedCFamC2F 1468 - Case Summary.pdf",
+   "name": "Year 11 - Haswell & Haswell [2026] FedCFamC2F 1468 - Case Summary",
+   "file": "Year 11 - Haswell & Haswell [2026] FedCFamC2F 1468 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 268105,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.7",
+    "dis.2.8"
+   ],
+   "dupe": "year11haswellhaswell2026fedcfamc2f1468casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Hatewar v Minister for Immigration and Citizenship [2026] HCA 45 - Case Summary.pdf",
    "name": "Year 11 - Hatewar v Minister for Immigration and Citizenship [2026] HCA 45 - Case Summary",
    "file": "Year 11 - Hatewar v Minister for Immigration and Citizenship [2026] HCA 45 - Case Summary.pdf",
@@ -5808,6 +6062,23 @@
     "dis.3.2"
    ],
    "dupe": "year11hatewarvministerforimmigrationandcitizenship2026hca45casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Hollowes & Hollowes [2026] FedCFamC2F 1410 - Case Summary.pdf",
+   "name": "Year 11 - Hollowes & Hollowes [2026] FedCFamC2F 1410 - Case Summary",
+   "file": "Year 11 - Hollowes & Hollowes [2026] FedCFamC2F 1410 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 272706,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "dis.2.7"
+   ],
+   "dupe": "year11holloweshollowes2026fedcfamc2f1410casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5880,6 +6151,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - KWO24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2263 - Case Summary.pdf",
+   "name": "Year 11 - KWO24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2263 - Case Summary",
+   "file": "Year 11 - KWO24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2263 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 281450,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11kwo24vministerforimmigrationandcitizenship2026fedcfamc2g2263casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Kathy (a pseudonym) (No 2) [2026] NSWCATGD 21 - Case Summary.pdf",
    "name": "Year 11 - Kathy (a pseudonym) (No 2) [2026] NSWCATGD 21 - Case Summary",
    "file": "Year 11 - Kathy (a pseudonym) (No 2) [2026] NSWCATGD 21 - Case Summary.pdf",
@@ -5943,6 +6231,23 @@
     "inv.1.6"
    ],
    "dupe": "year11klimovaandklimova2026fedcfamc1a190casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Kuot and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2748 - Case Summary.pdf",
+   "name": "Year 11 - Kuot and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2748 - Case Summary",
+   "file": "Year 11 - Kuot and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2748 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271594,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11kuotandministerforimmigrationandcitizenshipmigration2026arta2748casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6220,6 +6525,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Northwood & Fowler (No 2) [2026] FedCFamC2F 1198 - Case Summary.pdf",
+   "name": "Year 11 - Northwood & Fowler (No 2) [2026] FedCFamC2F 1198 - Case Summary",
+   "file": "Year 11 - Northwood & Fowler (No 2) [2026] FedCFamC2F 1198 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271500,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "dis.2.4"
+   ],
+   "dupe": "year11northwoodfowlerno22026fedcfamc2f1198casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - O'Connell v DPP; DPP v O'Connell [2026] HCA 41 - Case Summary.pdf",
    "name": "Year 11 - O'Connell v DPP; DPP v O'Connell [2026] HCA 41 - Case Summary",
    "file": "Year 11 - O'Connell v DPP; DPP v O'Connell [2026] HCA 41 - Case Summary.pdf",
@@ -6250,6 +6572,23 @@
     "inv.1.4"
    ],
    "dupe": "year11odalisandodalisno22026fedcfamc1f609casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - PDYY v Minister for Immigration and Citizenship [2026] FCA 1735 - Case Summary.pdf",
+   "name": "Year 11 - PDYY v Minister for Immigration and Citizenship [2026] FCA 1735 - Case Summary",
+   "file": "Year 11 - PDYY v Minister for Immigration and Citizenship [2026] FCA 1735 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271183,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11pdyyvministerforimmigrationandcitizenship2026fca1735casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6305,6 +6644,22 @@
     "family"
    ],
    "dupe": "year11peterssonalfero2026fedcfamc1f651casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Philipsen & Philipsen [2026] FedCFamC2F 1517 - Case Summary.pdf",
+   "name": "Year 11 - Philipsen & Philipsen [2026] FedCFamC2F 1517 - Case Summary",
+   "file": "Year 11 - Philipsen & Philipsen [2026] FedCFamC2F 1517 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 261946,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5"
+   ],
+   "dupe": "year11philipsenphilipsen2026fedcfamc2f1517casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6734,6 +7089,56 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Rankin & Sampat (No 2) [2026] FedCFamC2F 1388 - Case Summary.pdf",
+   "name": "Year 11 - Rankin & Sampat (No 2) [2026] FedCFamC2F 1388 - Case Summary",
+   "file": "Year 11 - Rankin & Sampat (No 2) [2026] FedCFamC2F 1388 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271636,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.1.6",
+    "inv.1.4"
+   ],
+   "dupe": "year11rankinsampatno22026fedcfamc2f1388casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Rankin & Sampat [2026] FedCFamC2F 1236 - Case Summary.pdf",
+   "name": "Year 11 - Rankin & Sampat [2026] FedCFamC2F 1236 - Case Summary",
+   "file": "Year 11 - Rankin & Sampat [2026] FedCFamC2F 1236 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 261502,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "exp.1.1",
+    "exp.2.1"
+   ],
+   "dupe": "year11rankinsampat2026fedcfamc2f1236casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Re Application by Sef Gonzales [2026] NSWCCA 197 - Case Summary.pdf",
+   "name": "Year 11 - Re Application by Sef Gonzales [2026] NSWCCA 197 - Case Summary",
+   "file": "Year 11 - Re Application by Sef Gonzales [2026] NSWCCA 197 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 275335,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.1.5"
+   ],
+   "dupe": "year11reapplicationbysefgonzales2026nswcca197casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf",
    "name": "Year 11 - Ridgeway v The Queen [1995] HCA 66 - Case Summary",
    "file": "Year 11 - Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf",
@@ -6747,6 +7152,23 @@
     "dis.1.8"
    ],
    "dupe": "year11ridgewayvthequeen1995hca66casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Rikkone v The Russian Club Ltd [2026] NSWCATAD 353 - Case Summary.pdf",
+   "name": "Year 11 - Rikkone v The Russian Club Ltd [2026] NSWCATAD 353 - Case Summary",
+   "file": "Year 11 - Rikkone v The Russian Club Ltd [2026] NSWCATAD 353 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 263811,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "dis.3.4"
+   ],
+   "dupe": "year11rikkonevtherussianclubltd2026nswcatad353casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7118,6 +7540,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Tarleton & Cantwell (No 2) [2026] FedCFamC2F 1493 - Case Summary.pdf",
+   "name": "Year 11 - Tarleton & Cantwell (No 2) [2026] FedCFamC2F 1493 - Case Summary",
+   "file": "Year 11 - Tarleton & Cantwell (No 2) [2026] FedCFamC2F 1493 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 274940,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5"
+   ],
+   "dupe": "year11tarletoncantwellno22026fedcfamc2f1493casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf",
    "name": "Year 11 - Thomas v Mowbray [2007] HCA 33 - Case Summary",
    "file": "Year 11 - Thomas v Mowbray [2007] HCA 33 - Case Summary.pdf",
@@ -7131,6 +7569,23 @@
     "inv.5.4"
    ],
    "dupe": "year11thomasvmowbray2007hca33casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Tonni v Minister for Immigration and Citizenship [2026] FedCFamC2G 2240 - Case Summary.pdf",
+   "name": "Year 11 - Tonni v Minister for Immigration and Citizenship [2026] FedCFamC2G 2240 - Case Summary",
+   "file": "Year 11 - Tonni v Minister for Immigration and Citizenship [2026] FedCFamC2G 2240 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 279740,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11tonnivministerforimmigrationandcitizenship2026fedcfamc2g2240casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7219,6 +7674,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Wang and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2751 - Case Summary.pdf",
+   "name": "Year 11 - Wang and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2751 - Case Summary",
+   "file": "Year 11 - Wang and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2751 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 277339,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11wangandministerforimmigrationandcitizenshipmigration2026arta2751casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Wannell and Luxford [2026] FedCFamC2F 930 - Case Summary.pdf",
    "name": "Year 11 - Wannell and Luxford [2026] FedCFamC2F 930 - Case Summary",
    "file": "Year 11 - Wannell and Luxford [2026] FedCFamC2F 930 - Case Summary.pdf",
@@ -7250,6 +7722,23 @@
     "dis.2.7"
    ],
    "dupe": "year11warlandvhuang2023nswcatcd115casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Welsh v Burrun Dalai Aboriginal Corporation [2026] NSWCATAD 355 - Case Summary.pdf",
+   "name": "Year 11 - Welsh v Burrun Dalai Aboriginal Corporation [2026] NSWCATAD 355 - Case Summary",
+   "file": "Year 11 - Welsh v Burrun Dalai Aboriginal Corporation [2026] NSWCATAD 355 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 266551,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5",
+    "dis.2.4"
+   ],
+   "dupe": "year11welshvburrundalaiaboriginalcorporation2026nswcatad355casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7457,6 +7946,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Baum & Gunson (No 2) [2026] FedCFamC2F 1593 - Case Summary.pdf",
+   "name": "Baum & Gunson (No 2) [2026] FedCFamC2F 1593 - Case Summary",
+   "file": "Baum & Gunson (No 2) [2026] FedCFamC2F 1593 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 322659,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.5"
+   ],
+   "dupe": "baumgunsonno22026fedcfamc2f1593casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Benzema & Devi [2026] FedCFamC1F 632 - Case Summary.pdf",
    "name": "Benzema & Devi [2026] FedCFamC1F 632 - Case Summary",
    "file": "Benzema & Devi [2026] FedCFamC1F 632 - Case Summary.pdf",
@@ -7572,6 +8077,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Bunyan & Terho (No 2) [2026] FedCFamC2F 1508 - Case Summary.pdf",
+   "name": "Bunyan & Terho (No 2) [2026] FedCFamC2F 1508 - Case Summary",
+   "file": "Bunyan & Terho (No 2) [2026] FedCFamC2F 1508 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 300002,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.3",
+    "fam.1.4"
+   ],
+   "dupe": "bunyanterhono22026fedcfamc2f1508casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Bymore and Mistral (Child support) [2026] ARTA 2700 - Case Summary.pdf",
    "name": "Bymore and Mistral (Child support) [2026] ARTA 2700 - Case Summary",
    "file": "Bymore and Mistral (Child support) [2026] ARTA 2700 - Case Summary.pdf",
@@ -7654,6 +8176,23 @@
     "family"
    ],
    "dupe": "chandlerbanfield2026fedcfamc2f1237casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Chapman & Whiley [2026] FedCFamC2F 1247 - Case Summary.pdf",
+   "name": "Chapman & Whiley [2026] FedCFamC2F 1247 - Case Summary",
+   "file": "Chapman & Whiley [2026] FedCFamC2F 1247 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 289934,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.2",
+    "fam.2.5"
+   ],
+   "dupe": "chapmanwhiley2026fedcfamc2f1247casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7914,6 +8453,22 @@
     "fam.2.4"
    ],
    "dupe": "daphnenirmal2026fedcfamc2f58casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Davers & Morley (No 2) [2026] FedCFamC2F 1250 - Case Summary.pdf",
+   "name": "Davers & Morley (No 2) [2026] FedCFamC2F 1250 - Case Summary",
+   "file": "Davers & Morley (No 2) [2026] FedCFamC2F 1250 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 303424,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.3"
+   ],
+   "dupe": "daversmorleyno22026fedcfamc2f1250casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8225,6 +8780,57 @@
     "fam.3.4"
    ],
    "dupe": "hcvvchildrensguardiannswcaselaw",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Halverston & Dunkley [2026] FedCFamC2F 1281 - Case Summary.pdf",
+   "name": "Halverston & Dunkley [2026] FedCFamC2F 1281 - Case Summary",
+   "file": "Halverston & Dunkley [2026] FedCFamC2F 1281 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 312776,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.2",
+    "fam.2.4"
+   ],
+   "dupe": "halverstondunkley2026fedcfamc2f1281casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Haswell & Haswell [2026] FedCFamC2F 1468 - Case Summary.pdf",
+   "name": "Haswell & Haswell [2026] FedCFamC2F 1468 - Case Summary",
+   "file": "Haswell & Haswell [2026] FedCFamC2F 1468 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 295783,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.3",
+    "fam.2.4"
+   ],
+   "dupe": "haswellhaswell2026fedcfamc2f1468casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Hollowes & Hollowes [2026] FedCFamC2F 1410 - Case Summary.pdf",
+   "name": "Hollowes & Hollowes [2026] FedCFamC2F 1410 - Case Summary",
+   "file": "Hollowes & Hollowes [2026] FedCFamC2F 1410 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 298981,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.3",
+    "fam.2.4"
+   ],
+   "dupe": "holloweshollowes2026fedcfamc2f1410casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8555,6 +9161,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Northwood & Fowler (No 2) [2026] FedCFamC2F 1198 - Case Summary.pdf",
+   "name": "Northwood & Fowler (No 2) [2026] FedCFamC2F 1198 - Case Summary",
+   "file": "Northwood & Fowler (No 2) [2026] FedCFamC2F 1198 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 294456,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.2",
+    "fam.2.4"
+   ],
+   "dupe": "northwoodfowlerno22026fedcfamc2f1198casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Odalis and Odalis (No 2) [2026] FedCFamC1F 609 - Case Summary.pdf",
    "name": "Odalis and Odalis (No 2) [2026] FedCFamC1F 609 - Case Summary",
    "file": "Odalis and Odalis (No 2) [2026] FedCFamC1F 609 - Case Summary.pdf",
@@ -8685,6 +9308,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Philipsen & Philipsen [2026] FedCFamC2F 1517 - Case Summary.pdf",
+   "name": "Philipsen & Philipsen [2026] FedCFamC2F 1517 - Case Summary",
+   "file": "Philipsen & Philipsen [2026] FedCFamC2F 1517 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 287606,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.1.3",
+    "fam.2.1",
+    "fam.2.3"
+   ],
+   "dupe": "philipsenphilipsen2026fedcfamc2f1517casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary.pdf",
    "name": "Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary",
    "file": "Pratley and Pratley (No 10) [2026] FedCFamC1F 643 - Case Summary.pdf",
@@ -8748,6 +9389,39 @@
     "fam.3.2"
    ],
    "dupe": "rangelbirdno22026fedcfamc1a193casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Rankin & Sampat (No 2) [2026] FedCFamC2F 1388 - Case Summary.pdf",
+   "name": "Rankin & Sampat (No 2) [2026] FedCFamC2F 1388 - Case Summary",
+   "file": "Rankin & Sampat (No 2) [2026] FedCFamC2F 1388 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 295790,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.5"
+   ],
+   "dupe": "rankinsampatno22026fedcfamc2f1388casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Rankin & Sampat [2026] FedCFamC2F 1236 - Case Summary.pdf",
+   "name": "Rankin & Sampat [2026] FedCFamC2F 1236 - Case Summary",
+   "file": "Rankin & Sampat [2026] FedCFamC2F 1236 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 286765,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.2",
+    "fam.3.2"
+   ],
+   "dupe": "rankinsampat2026fedcfamc2f1236casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8961,6 +9635,23 @@
     "family"
    ],
    "dupe": "tanvilbatta2026fedcfamc2f1001",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Tarleton & Cantwell (No 2) [2026] FedCFamC2F 1493 - Case Summary.pdf",
+   "name": "Tarleton & Cantwell (No 2) [2026] FedCFamC2F 1493 - Case Summary",
+   "file": "Tarleton & Cantwell (No 2) [2026] FedCFamC2F 1493 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 303458,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.2",
+    "fam.2.5"
+   ],
+   "dupe": "tarletoncantwellno22026fedcfamc2f1493casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -9695,6 +10386,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Human Rights/KWO24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2263 - Case Summary.pdf",
+   "name": "KWO24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2263 - Case Summary",
+   "file": "KWO24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2263 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 301743,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.11"
+   ],
+   "dupe": "kwo24vministerforimmigrationandcitizenship2026fedcfamc2g2263casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Human Rights/McAlleyandMinisterforImmigrationandCitizenship(Citizenship)[2026]ARTA1492(3August2026).rtf",
    "name": "McAlleyandMinisterforImmigrationandCitizenship(Citizenship)[2026]ARTA1492(3August2026)",
    "file": "McAlleyandMinisterforImmigrationandCitizenship(Citizenship)[2026]ARTA1492(3August2026).rtf",
@@ -9725,6 +10433,23 @@
     "hr.2.11"
    ],
    "dupe": "molttervaboriginalhousingoffice2026nswcatad351casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/PDYY v Minister for Immigration and Citizenship [2026] FCA 1735 - Case Summary.pdf",
+   "name": "PDYY v Minister for Immigration and Citizenship [2026] FCA 1735 - Case Summary",
+   "file": "PDYY v Minister for Immigration and Citizenship [2026] FCA 1735 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 295320,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.11"
+   ],
+   "dupe": "pdyyvministerforimmigrationandcitizenship2026fca1735casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -9763,6 +10488,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Human Rights/Rikkone v The Russian Club Ltd [2026] NSWCATAD 353 - Case Summary.pdf",
+   "name": "Rikkone v The Russian Club Ltd [2026] NSWCATAD 353 - Case Summary",
+   "file": "Rikkone v The Russian Club Ltd [2026] NSWCATAD 353 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 290412,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.2.9",
+    "hr.2.11"
+   ],
+   "dupe": "rikkonevtherussianclubltd2026nswcatad353casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Human Rights/Samuelu v Minister for Immigration and Citizenship [2026] FCAFC 100.rtf",
    "name": "Samuelu v Minister for Immigration and Citizenship [2026] FCAFC 100",
    "file": "Samuelu v Minister for Immigration and Citizenship [2026] FCAFC 100.rtf",
@@ -9792,6 +10534,23 @@
     "humanrights"
    ],
    "dupe": "tutoveanuvstateofnsw2026fca1624casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/Welsh v Burrun Dalai Aboriginal Corporation [2026] NSWCATAD 355 - Case Summary.pdf",
+   "name": "Welsh v Burrun Dalai Aboriginal Corporation [2026] NSWCATAD 355 - Case Summary",
+   "file": "Welsh v Burrun Dalai Aboriginal Corporation [2026] NSWCATAD 355 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 293072,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.2.9",
+    "hr.2.11"
+   ],
+   "dupe": "welshvburrundalaiaboriginalcorporation2026nswcatad355casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -10223,6 +10982,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Catanuto v R [2026] NSWCCA 196 - Case Summary.pdf",
+   "name": "Catanuto v R [2026] NSWCCA 196 - Case Summary",
+   "file": "Catanuto v R [2026] NSWCCA 196 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 310374,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.5",
+    "crime.4.2"
+   ],
+   "dupe": "catanutovr2026nswcca196casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Chimmalee v R [2026] NSWCCA 188 - Case Summary.pdf",
    "name": "Chimmalee v R [2026] NSWCCA 188 - Case Summary",
    "file": "Chimmalee v R [2026] NSWCCA 188 - Case Summary.pdf",
@@ -10288,6 +11065,24 @@
     "crime.2.5"
    ],
    "dupe": "dutvr2026nswcca184casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/EPA v Wollongong Resources Pty Ltd [2026] NSWLEC 146 - Case Summary.pdf",
+   "name": "EPA v Wollongong Resources Pty Ltd [2026] NSWLEC 146 - Case Summary",
+   "file": "EPA v Wollongong Resources Pty Ltd [2026] NSWLEC 146 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 302141,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.6",
+    "crime.4.7",
+    "crime.1.3"
+   ],
+   "dupe": "epavwollongongresourcesptyltd2026nswlec146casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -10374,6 +11169,24 @@
     "crime.4.3"
    ],
    "dupe": "gattvr2026nswcca182casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Givens v R [2026] NSWCCA 191 - Case Summary.pdf",
+   "name": "Givens v R [2026] NSWCCA 191 - Case Summary",
+   "file": "Givens v R [2026] NSWCCA 191 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 301504,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.9",
+    "crime.4.5",
+    "crime.3.7"
+   ],
+   "dupe": "givensvr2026nswcca191casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -11391,6 +12204,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Re Application by Sef Gonzales [2026] NSWCCA 197 - Case Summary.pdf",
+   "name": "Re Application by Sef Gonzales [2026] NSWCCA 197 - Case Summary",
+   "file": "Re Application by Sef Gonzales [2026] NSWCCA 197 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 301549,
+   "mtime": 1795034969,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.5",
+    "crime.4.8"
+   ],
+   "dupe": "reapplicationbysefgonzales2026nswcca197casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf",
    "name": "Ridgeway v The Queen [1995] HCA 66 - Case Summary",
    "file": "Ridgeway v The Queen [1995] HCA 66 - Case Summary.pdf",
@@ -12373,6 +13203,22 @@
    "primary": true
   },
   {
+   "path": "Human Rights/HR - NSW Human Rights Act Inquiry - Church Submissions Second Summary Evidence Summary.pdf",
+   "name": "HR - NSW Human Rights Act Inquiry - Church Submissions Second Summary Evidence Summary",
+   "file": "HR - NSW Human Rights Act Inquiry - Church Submissions Second Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210486,
+   "mtime": 1795034466,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "hr.2.14"
+   ],
+   "dupe": "hrnswhumanrightsactinquirychurchsubmissionssecondsummaryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/HR - NSW Human Rights Act Inquiry Evidence Summary.pdf",
    "name": "HR - NSW Human Rights Act Inquiry Evidence Summary",
    "file": "HR - NSW Human Rights Act Inquiry Evidence Summary.pdf",
@@ -12646,6 +13492,22 @@
     "hr.2.1"
    ],
    "dupe": "hrunrapporteurrefuseddetentionaccess10nov26summaryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - UN Rapporteur Refused Detention Access - Amnesty 13Nov26 Evidence Summary.pdf",
+   "name": "HR - UN Rapporteur Refused Detention Access - Amnesty 13Nov26 Evidence Summary",
+   "file": "HR - UN Rapporteur Refused Detention Access - Amnesty 13Nov26 Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211058,
+   "mtime": 1795034465,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.2"
+   ],
+   "dupe": "hrunrapporteurrefuseddetentionaccessamnesty13nov26evidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -14124,6 +14986,23 @@
     "chg.1.1"
    ],
    "dupe": "year11changingthelawdvsuicideinquiryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Coroners Inquest Newborn Deaths Outside Medical System Evidence Summary.pdf",
+   "name": "Year 11 - Coroners Inquest Newborn Deaths Outside Medical System Evidence Summary",
+   "file": "Year 11 - Coroners Inquest Newborn Deaths Outside Medical System Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208015,
+   "mtime": 1795034476,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "inv.4.2",
+    "inv.4.1"
+   ],
+   "dupe": "year11coronersinquestnewborndeathsoutsidemedicalsystemevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -16730,6 +17609,23 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - House Price Forecast and Housing Tax Reform Evidence Summary.pdf",
+   "name": "Shelter - House Price Forecast and Housing Tax Reform Evidence Summary",
+   "file": "Shelter - House Price Forecast and Housing Tax Reform Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211276,
+   "mtime": 1795034472,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.1",
+    "shel.2.1"
+   ],
+   "dupe": "shelterhousepriceforecastandhousingtaxreformevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - House Prices Seventh Fall and Investor Tax Changes Evidence Summary.pdf",
    "name": "Shelter - House Prices Seventh Fall and Investor Tax Changes Evidence Summary",
    "file": "Shelter - House Prices Seventh Fall and Investor Tax Changes Evidence Summary.pdf",
@@ -16828,6 +17724,24 @@
     "shel.2.8"
    ],
    "dupe": "shelterlydiaslegacytinyhomesplanningrulesevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Missing Middle Walk-Up Apartments Evidence Summary.pdf",
+   "name": "Shelter - Missing Middle Walk-Up Apartments Evidence Summary",
+   "file": "Shelter - Missing Middle Walk-Up Apartments Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210291,
+   "mtime": 1795034475,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.1.4",
+    "shel.2.1",
+    "shel.3.1"
+   ],
+   "dupe": "sheltermissingmiddlewalkupapartmentsevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -16989,6 +17903,23 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - Property Downturn Buyers and Sellers Evidence Summary.pdf",
+   "name": "Shelter - Property Downturn Buyers and Sellers Evidence Summary",
+   "file": "Shelter - Property Downturn Buyers and Sellers Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209600,
+   "mtime": 1795034473,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.1",
+    "shel.3.1"
+   ],
+   "dupe": "shelterpropertydownturnbuyersandsellersevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - RBA Rate Hike and Housing Affordability Evidence Summary.pdf",
    "name": "Shelter - RBA Rate Hike and Housing Affordability Evidence Summary",
    "file": "Shelter - RBA Rate Hike and Housing Affordability Evidence Summary.pdf",
@@ -17020,6 +17951,23 @@
     "shel.2.3"
    ],
    "dupe": "shelterreinswblamesnswrentalreformsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Rental Listings Fall Sydney Melbourne Evidence Summary.pdf",
+   "name": "Shelter - Rental Listings Fall Sydney Melbourne Evidence Summary",
+   "file": "Shelter - Rental Listings Fall Sydney Melbourne Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209125,
+   "mtime": 1795034474,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.2",
+    "shel.3.1"
+   ],
+   "dupe": "shelterrentallistingsfallsydneymelbourneevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -17109,6 +18057,23 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - Short-Term Rentals Town Hall Protest Evidence Summary.pdf",
+   "name": "Shelter - Short-Term Rentals Town Hall Protest Evidence Summary",
+   "file": "Shelter - Short-Term Rentals Town Hall Protest Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210783,
+   "mtime": 1795034467,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.1",
+    "shel.1.4"
+   ],
+   "dupe": "sheltershorttermrentalstownhallprotestevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - Supportive Housing to End Rough Sleeping - Second Summary Evidence Summary.pdf",
    "name": "Shelter - Supportive Housing to End Rough Sleeping - Second Summary Evidence Summary",
    "file": "Shelter - Supportive Housing to End Rough Sleeping - Second Summary Evidence Summary.pdf",
@@ -17190,6 +18155,22 @@
     "shel.2.9"
    ],
    "dupe": "sheltervinnieshomelessnesspreventionelectionpollevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Vinnies homelessness prevention poll - Second Summary Evidence Summary.pdf",
+   "name": "Shelter - Vinnies homelessness prevention poll - Second Summary Evidence Summary",
+   "file": "Shelter - Vinnies homelessness prevention poll - Second Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208163,
+   "mtime": 1795034468,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.3"
+   ],
+   "dupe": "sheltervinnieshomelessnesspreventionpollsecondsummaryevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -20801,6 +21782,23 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - Lehrmann Trial Counsel and Court Delay Evidence Summary.pdf",
+   "name": "Crime - Lehrmann Trial Counsel and Court Delay Evidence Summary",
+   "file": "Crime - Lehrmann Trial Counsel and Court Delay Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209998,
+   "mtime": 1795034463,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.3.5",
+    "crime.3.1"
+   ],
+   "dupe": "crimelehrmanntrialcounselandcourtdelayevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - Luke's Law bail proposal - Break Bail Go to Jail Evidence Summary.pdf",
    "name": "Crime - Luke's Law bail proposal - Break Bail Go to Jail Evidence Summary",
    "file": "Crime - Luke's Law bail proposal - Break Bail Go to Jail Evidence Summary.pdf",
@@ -20813,6 +21811,22 @@
     "crime.2.5"
    ],
    "dupe": "crimelukeslawbailproposalbreakbailgotojailevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Luke's Law bail proposal - Nationals Pledge Third Summary Evidence Summary.pdf",
+   "name": "Crime - Luke's Law bail proposal - Nationals Pledge Third Summary Evidence Summary",
+   "file": "Crime - Luke's Law bail proposal - Nationals Pledge Third Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 212492,
+   "mtime": 1795034462,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.5"
+   ],
+   "dupe": "crimelukeslawbailproposalnationalspledgethirdsummaryevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -21379,6 +22393,22 @@
     "crime.6.2"
    ],
    "dupe": "crimetongacomancherosdeporteesentenceevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Vic Coalition Youth Bootcamp - ABC Live Blog Third Summary Evidence Summary.pdf",
+   "name": "Crime - Vic Coalition Youth Bootcamp - ABC Live Blog Third Summary Evidence Summary",
+   "file": "Crime - Vic Coalition Youth Bootcamp - ABC Live Blog Third Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209608,
+   "mtime": 1795034464,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.5.4"
+   ],
+   "dupe": "crimeviccoalitionyouthbootcampabcliveblogthirdsummaryevidencesummary",
    "copyOf": null,
    "primary": true
   },
