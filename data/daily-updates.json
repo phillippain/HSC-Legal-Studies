@@ -1,6 +1,835 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "days": [
+  {
+   "date": "2026-11-19",
+   "since": "",
+   "new": 35,
+   "updated": 6,
+   "groups": [
+    {
+     "key": "crime",
+     "label": "Crime",
+     "part": "HSC Core Part I",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "catanuto-v-r-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Catanuto v R [2026] NSWCCA 196 — an 18-year drug sentence cut for errors in fact-finding and remorse",
+       "summary": "A man given 18 years for helping manufacture MDMA and methylamphetamine had his sentence cut to 14 years on appeal because the judge went beyond the agreed facts and tied remorse to his refusal to name others. Use it for sentencing on agreed facts, remorse and assistance to authorities, and the Court of Criminal Appeal's role in correcting sentencing errors.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Factors affecting a sentencing decision",
+        "Appeals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-catanuto-v-r-2026",
+       "document_url": "https://drive.google.com/file/d/1bhw8jagwLgDF-9ZqBcV_r9Gh3Aohzf8y/view",
+       "document11_url": "https://drive.google.com/file/d/1kDQ-YwWzJhkAIgP8dP5GkhOCvwjhrf6Q/view",
+       "source": ""
+      },
+      {
+       "id": "epa-v-wollongong-resources-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "EPA v Wollongong Resources Pty Ltd [2026] NSWLEC 146 — coal-laden water in a creek; restoration payments instead of fines",
+       "summary": "A colliery licence holder pleaded guilty after a faulty sensor let about 807 kilolitres of coal-laden water into a creek, and the Land and Environment Court ordered $60,000 for each offence to go to a council restoration project instead of fines. Use it for alternatives to fines for corporate environmental offenders and strict-liability regulatory offences.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Types of penalties",
+        "Alternative methods of sentencing"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-epa-v-wollongong-resources-2026",
+       "document_url": "https://drive.google.com/file/d/1X8_6fpENLz4AiVcKdsb_aUji6ILNIoXn/view",
+       "document11_url": "https://drive.google.com/file/d/196agXa9WZ3lv67a-zZCaQvukJBI2UWKd/view",
+       "source": ""
+      },
+      {
+       "id": "lehrmann-trial-counsel-court-delay-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Former judge to defend Lehrmann as rape trial moves to July 2027 (ABC, 18 November 2026)",
+       "summary": "A rape trial listed for 2 November 2026 was lost when the accused had no barrister, and it has been relisted for 26 July 2027; all allegations are unproven. Use it for the right to legal representation against the need for a timely trial, and how court delay affects witnesses and complainants.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Legal representation, including legal a…",
+        "Court jurisdiction"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lehrmann-trial-counsel-court-delay-2026",
+       "document_url": "https://drive.google.com/file/d/1JonnsMbJoOzya6AsmhBGERG4u5s2Ji22/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-18/stephen-rothman-to-represent-bruce-lehrmann-in-rape-trial/107398264"
+      },
+      {
+       "id": "givens-v-r-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Givens v R [2026] NSWCCA 191 — delay in complaint, jury directions and an unreasonable-verdict appeal",
+       "summary": "A man convicted of sexual intercourse without consent and choking argued the verdicts were unreasonable and the jury misdirected, but the Court of Criminal Appeal held that delay in complaint did not make the verdicts unreasonable and dismissed the appeal. Use it for jury directions on delay and consent and the unreasonable-verdict ground of appeal.",
+       "note": "Content note: this item involves sexual offences. The summary describes the legal decision only.",
+       "added": "2026-11-16",
+       "core_labels": [
+        "The role of juries, including verdicts",
+        "Appeals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-givens-v-r-2026",
+       "document_url": "https://drive.google.com/file/d/16Hag5SjA-eWn9H3kJfcjmcVZjbXLukCx/view",
+       "document11_url": "https://drive.google.com/file/d/1-greCOdqPlTX_9bc2g50DvtWb2f-MwIx/view",
+       "source": ""
+      },
+      {
+       "id": "re-application-sef-gonzales-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Re Application by Sef Gonzales [2026] NSWCCA 197 — a referral for sentence review does not reopen the convictions",
+       "summary": "After five failed applications against his three murder convictions, a sixth application led to a referral of the whole case as a sentence appeal, and the Court of Criminal Appeal held this did not reopen the convictions. Use it for post-conviction review, its limits, and the importance of finality.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Appeals",
+        "Post-sentencing considerations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-re-application-sef-gonzales-2026",
+       "document_url": "https://drive.google.com/file/d/1roJ58BmfzY1yHhmBOGehctu8Z4nhxzQ8/view",
+       "document11_url": "https://drive.google.com/file/d/1FmxLmo76OvQI0555CvjvFf4P94zk8whg/view",
+       "source": ""
+      },
+      {
+       "id": "lukes-law-bail-proposal-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "The Coalition's 'Luke's Law' would make bail refusal automatic (Moree Online News, 16 November 2026)",
+       "summary": "The card now links a third class summary, from a Nationals release, which frames the pledge as replacing the court's risk assessment with automatic remand for adults and children alike. It now gives a second viewpoint on how automatic refusal would change bail decisions.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Bail or remand"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lukes-law-bail-proposal-2026",
+       "document_url": "https://drive.google.com/file/d/1s_QR5WK3li_NfBcXg39JXJtvmASjHNF4/view",
+       "document11_url": null,
+       "source": "https://moreeonlinenews.com.au/2026/11/16/moree-mp-backs-coalition-proposal-for-tougher-bail-laws/"
+      },
+      {
+       "id": "vic-coalition-youth-bootcamp-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Victorian Coalition pledges a Dhurringile bootcamp for young offenders (ABC, 15 November 2026)",
+       "summary": "The card now links a third class summary from an ABC live blog, which reports the Liberals' camp at about $60 million against Labor's $204m therapeutic orders and cites Queensland's failed earlier model. It now gives a fuller comparison of the parties' rival youth justice promises.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Penalties for children",
+        "Alternatives to court"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-vic-coalition-youth-bootcamp-2026",
+       "document_url": "https://drive.google.com/file/d/1Z2LK5OkezQ6rY9yoD9j36C14PPvqfbwN/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-15/dhurringile-liberals-jess-wilson-crime-bootcamp/107387262"
+      }
+     ]
+    },
+    {
+     "key": "humanrights",
+     "label": "Human Rights",
+     "part": "HSC Core Part II",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "kwo24-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "KWO24 v Minister [2026] FedCFamC2G 2263 — a Vietnamese Catholic's judicial review fails",
+       "summary": "A Vietnamese Catholic man refused a protection visa said the Tribunal ignored police summonses and a priest's letter, but the court found it had considered and doubted them and applied the real chance test, so the review was dismissed. Use it to show that judicial review of refugee decisions tests legality, not the merits.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-kwo24-v-minister-2026",
+       "document_url": "https://drive.google.com/file/d/1ck1-l7ZRXSIJjjbetH1OcN4_v_HkKiuh/view",
+       "document11_url": "https://drive.google.com/file/d/1YGpsPp_jBeGVYRLJIj_BbT5oNmwIOTs4/view",
+       "source": ""
+      },
+      {
+       "id": "pdyy-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "PDYY v Minister [2026] FCA 1735 — a refugee refused protection as a danger to the community",
+       "summary": "A refugee-visa holder with a long criminal record was refused a protection visa as a danger to the community, and the Federal Court held it was not unreasonable to discount his partner's evidence. Use it for refugee protection limited by community safety and the narrow scope of judicial review.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-pdyy-v-minister-2026",
+       "document_url": "https://drive.google.com/file/d/1XXrHgCyWL6aFXN7Nb_55zSmDUSsuaFjL/view",
+       "document11_url": "https://drive.google.com/file/d/1BIr3C4U-2FTVDMQBmqSTSJ4kTnYtgt56/view",
+       "source": ""
+      },
+      {
+       "id": "rikkone-v-russian-club-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Rikkone v The Russian Club Ltd [2026] NSWCATAD 353 — discrimination complaints over club membership refused leave",
+       "summary": "A woman refused membership of a club complained of several kinds of discrimination and victimisation, but NCAT refused leave because each complaint lacked substance or was speculative. Use it for the leave filter at NCAT in anti-discrimination complaints.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "The role of statute law",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-rikkone-v-russian-club-2026",
+       "document_url": "https://drive.google.com/file/d/1lj9sRq4sipyuHTcC0OI-ZtYm16NdCYxY/view",
+       "document11_url": "https://drive.google.com/file/d/1ehHLKMQAxXllll7aag1rRYiHNqq3dZnd/view",
+       "source": ""
+      },
+      {
+       "id": "welsh-v-burrun-dalai-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Welsh v Burrun Dalai Aboriginal Corporation [2026] NSWCATAD 355 — a genuine restructure, not discrimination",
+       "summary": "An administration officer with a heart condition, made redundant in a cost-cutting restructure, alleged disability and age discrimination by inference, but NCAT found the restructure was genuine and dismissed the complaint. Use it for anti-discrimination law at work and the burden of proving discrimination by inference.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "The role of statute law",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-welsh-v-burrun-dalai-2026",
+       "document_url": "https://drive.google.com/file/d/1j-uA-KPlSOshYo_4y_btvOetqhCVCKHR/view",
+       "document11_url": "https://drive.google.com/file/d/10-IeB-8Z37FkGmtecISHd_gE96EHewkg/view",
+       "source": ""
+      },
+      {
+       "id": "nsw-human-rights-act-inquiry-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Human Rights Law Centre urges a NSW Human Rights Act as a parliamentary inquiry sits (2 November 2026)",
+       "summary": "The card now adds church leaders' submissions calling the Human Rights Bill 2025 fundamentally flawed, the classic argument that a charter moves power from Parliament to the courts, and notes 268 submissions published by early November. It now offers an opposing view alongside the Human Rights Law Centre's case for a NSW charter.",
+       "note": "",
+       "added": "2026-11-03",
+       "core_labels": [
+        "A Charter of Rights",
+        "The role of non-government organisation…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nsw-human-rights-act-inquiry-2026",
+       "document_url": "https://drive.google.com/file/d/1hSWpBxeFMrl47gRQjgEZmzO3FfD86A4R/view",
+       "document11_url": null,
+       "source": "https://www.parliament.nsw.gov.au/bills/Pages/Profiles/human-rights-bill-2025.aspx"
+      },
+      {
+       "id": "un-rapporteur-refused-youth-detention-access-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "NT and Queensland shut a UN expert out of youth detention — and his end-of-mission findings (November 2026)",
+       "summary": "The card now links a class summary of Amnesty International Australia's 13 November release on the Special Rapporteur's visit. It now offers a second NGO source alongside the end-of-mission findings.",
+       "note": "",
+       "added": "2026-11-04",
+       "core_labels": [
+        "The role of the United Nations",
+        "State sovereignty"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-un-rapporteur-refused-youth-detention-access-2026",
+       "document_url": "https://drive.google.com/file/d/1M1T0cP1D89efOzU4c0iDRbjWQjkPU8J-/view",
+       "document11_url": "https://drive.google.com/file/d/1N6raFwz8V3_DLG2ri43sXGDt0-DotV20/view",
+       "source": "https://www.abc.net.au/news/2026-11-05/united-nations-blocked-from-inspecting-darwin-youth-jail/107343550"
+      }
+     ]
+    },
+    {
+     "key": "family",
+     "label": "Family",
+     "part": "HSC Option 3",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "baum-gunson-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Baum & Gunson (No 2) [2026] FedCFamC2F 1593 — a new application with no legal basis summarily dismissed",
+       "summary": "A mother whose parenting and property orders were made in her absence filed a new application naming no legal basis, and the court dismissed it summarily with $8,729.49 costs because it had no reasonable prospect. Use it for the finality of orders and summary dismissal.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "The roles of courts and dispute resolut…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-baum-gunson-no2-2026",
+       "document_url": "https://drive.google.com/file/d/1eNu2F8_FywJVmWW6WL5Nsl0xrEQCdPW5/view",
+       "document11_url": "https://drive.google.com/file/d/1xkpsFdrlOYkoDhB3JufmlBRrggAFLYHb/view",
+       "source": ""
+      },
+      {
+       "id": "bunyan-terho-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Bunyan & Terho (No 2) [2026] FedCFamC2F 1508 — who keeps a baby's ashes after a de facto relationship ends",
+       "summary": "Former de facto partners disputed who should keep their infant son's ashes, and the court treated the urn and ashes as property, found the father's conduct disentitling and declared the mother sole owner. Use it for property law after a de facto relationship applied to a sensitive asset. Teach with care.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Legal consequences of separation",
+        "Alternative family relationships"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-bunyan-terho-no2-2026",
+       "document_url": "https://drive.google.com/file/d/1CtZoRG_qOgaL66AZYWC63v1rHnP7fnL6/view",
+       "document11_url": "https://drive.google.com/file/d/1D1Ag1bavZVO6EhJLTPCA_nkpVfdczn-c/view",
+       "source": ""
+      },
+      {
+       "id": "chapman-whiley-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Chapman & Whiley [2026] FedCFamC2F 1247 — parenting time around a 12-year-old's sport",
+       "summary": "Parents disputed how much time a sport-loving 12-year-old should spend with his father, and the judge adopted the Independent Children's Lawyer's proposal of alternate weekends, holiday blocks and consultation. Use it for a child's interests in parenting orders and the role of the Independent Children's Lawyer.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Legal consequences of separation",
+        "The roles of courts and dispute resolut…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-chapman-whiley-2026",
+       "document_url": "https://drive.google.com/file/d/1WvpUQe55a3wDgi5CF8w9JVFjcHuiYlO5/view",
+       "document11_url": "https://drive.google.com/file/d/1_56oyv1QfU4382Fsg99pWEWkhh1EOVvT/view",
+       "source": ""
+      },
+      {
+       "id": "celestes-law-gps-stalkers-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Coalition pledges GPS tracking of stalkers under 'Celeste's Law' (ABC, 16 November 2026)",
+       "summary": "A Coalition election pledge would GPS-track high-risk stalkers, going further than the Victorian Law Reform Commission, whose 45 recommendations did not include electronic monitoring. Use it for technology as a legal response to enforcing intervention orders and reform driven by a victim's family and an election.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-celestes-law-gps-stalkers-2026",
+       "document_url": "https://drive.google.com/file/d/1LCIfdD6Jw7lMYVxiV19GyxtuXDsVP4hC/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-16/vic-election-live-stalking-laws-nov-16/107388914"
+      },
+      {
+       "id": "family-court-co-parenting-after-dv-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Convicted abuser wins time with children as reforms fall short (SMH, 19 November 2026)",
+       "summary": "A mother whose ex-partner was convicted of assaulting her was ordered to co-parent with him, which the report uses to test whether the 2024 safety-first reforms work in practice. Use it for protecting victims in parenting cases and the effectiveness of the reforms, noting it is one person's account.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Dealing with domestic violence",
+        "Legal consequences of separation"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-family-court-co-parenting-after-dv-2026",
+       "document_url": "https://drive.google.com/file/d/1z8cqOFWOEI6IZIFiyksV4rnJqW0Hu4Qr/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "davers-morley-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Davers & Morley (No 2) [2026] FedCFamC2F 1250 — equal contributions and a 12% future needs adjustment after 32 years",
+       "summary": "After a 32-year marriage, the court found contributions equal in a pool of about $5.87 million and gave the wife 62% after a 12% adjustment for her future needs. Use it for the steps in property settlement under s 79: contributions, future needs and a just and equitable result.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Legal consequences of separation"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-davers-morley-no2-2026",
+       "document_url": "https://drive.google.com/file/d/1KIw3lR-FAfC5wyRu28MtlR4tDCGeG5BE/view",
+       "document11_url": "https://drive.google.com/file/d/11zkuOfFfHxZQjHJ5fV489olmgADFw1_z/view",
+       "source": ""
+      },
+      {
+       "id": "halverston-dunkley-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Halverston & Dunkley [2026] FedCFamC2F 1281 — no time for a mother at risk of reuniting with a violent partner",
+       "summary": "A mother with an intellectual disability sought supervised time with her eight-year-old son, and the court ordered no time unless the child wishes because she was likely to reunite with a violent former partner and no suitable supervision existed. Use it for protecting a child from family violence risk and the barriers to justice for a parent with disability.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Legal consequences of separation",
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-halverston-dunkley-2026",
+       "document_url": "https://drive.google.com/file/d/1G6GO7kyOa5fvOR4pxLy7oyLwAqWh1D3J/view",
+       "document11_url": "https://drive.google.com/file/d/1xd7sYTmHPzwTxdsbS_yn7fCdZ8cURtCw/view",
+       "source": ""
+      },
+      {
+       "id": "haswell-haswell-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Haswell & Haswell [2026] FedCFamC2F 1468 — consent property orders set aside for lies and pressure",
+       "summary": "The court set aside 2020 consent property orders after finding the husband knowingly lied about a serious illness and his business, pressed his wife with threats and understated his bank funds. Use it for setting aside consent orders for fraud, duress and non-disclosure, and economic abuse.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Legal consequences of separation",
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-haswell-haswell-2026",
+       "document_url": "https://drive.google.com/file/d/12Lr0HertEdWN2EV4VloRH89XNVQbF1Nd/view",
+       "document11_url": "https://drive.google.com/file/d/1qcxsRmjIOhQpgBirNK3fwhnu2NbxLHhP/view",
+       "source": ""
+      },
+      {
+       "id": "hollowes-hollowes-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Hollowes & Hollowes [2026] FedCFamC2F 1410 — two property pools, an inheritance and controlling conduct",
+       "summary": "A husband inherited most of his late employer's estate, and the court used two property pools, 85:15 in his favour on the estate and 55:45 in the wife's favour on the rest, partly because of his controlling conduct after separation. Use it for inheritances and family violence in property division.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Legal consequences of separation",
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-hollowes-hollowes-2026",
+       "document_url": "https://drive.google.com/file/d/1CkdA9XgDDiZOCZjOu8Bcd0K4gBOOI5EP/view",
+       "document11_url": "https://drive.google.com/file/d/1hBHtyYFfvNj00DcjSCybZ2k1SLZLO8x-/view",
+       "source": ""
+      },
+      {
+       "id": "northwood-fowler-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Northwood & Fowler (No 2) [2026] FedCFamC2F 1198 — children moved to the father's care after a third round of litigation",
+       "summary": "After two failed sets of consent orders and a third round of litigation, the court found the abuse claims against the father unsubstantiated, though he had used violence against the mother, and moved the children to his care because the mother posed an unacceptable risk. Use it for weighing unacceptable risk for both parents.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Legal consequences of separation",
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-northwood-fowler-no2-2026",
+       "document_url": "https://drive.google.com/file/d/1TAonQ-gm251iTCuYAzJMSX58EtopputU/view",
+       "document11_url": "https://drive.google.com/file/d/1R_zPeK6j9xc6Xyi43Z8S2ZEcmGb_jhma/view",
+       "source": ""
+      },
+      {
+       "id": "philipsen-philipsen-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Philipsen & Philipsen [2026] FedCFamC2F 1517 — even a void marriage leaves the Court jurisdiction over property",
+       "summary": "A husband argued a 2014 overseas marriage was void, but the court held that even a void marriage leaves it with jurisdiction over property, so his bid to dismiss the wife's claim failed. Use it for the legal requirements of marriage and nullity, and property jurisdiction.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Legal requirements of marriage",
+        "Legal consequences of separation"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-philipsen-philipsen-2026",
+       "document_url": "https://drive.google.com/file/d/1nD1VIpusXymL_uUpLoXZyRH9JhETYrhl/view",
+       "document11_url": "https://drive.google.com/file/d/1AtPlOIiafT36dIeBbq7MWyQp_7jwvWVp/view",
+       "source": ""
+      },
+      {
+       "id": "rankin-sampat-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Rankin & Sampat (No 2) [2026] FedCFamC2F 1388 — an adjournment refused on the morning of a parenting trial",
+       "summary": "The court refused an unrepresented father's adjournment on the morning of a parenting trial because he had dismissed three firms of lawyers and had held the family report since March. Use it for procedural fairness and self-represented parties.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "The roles of courts and dispute resolut…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-rankin-sampat-no2-2026",
+       "document_url": "https://drive.google.com/file/d/1dKE8SLmf1Vk26RMznz9pwVnhLMsjc1hB/view",
+       "document11_url": "https://drive.google.com/file/d/1IevdctGg_nbAgbawr_wYEyNxpJI7IzhI/view",
+       "source": ""
+      },
+      {
+       "id": "rankin-sampat-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Rankin & Sampat [2026] FedCFamC2F 1236 — moderate-to-high risk in the father's care: supervised time only",
+       "summary": "After a two-day trial in which an expert rated risk in the father's care as moderate to high, the court made final orders for the children to live with the mother, who has sole decision-making, with four supervised hours each alternate Sunday for the father. Use it for best interests and risk in final parenting orders, and the need for protection of children.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Legal consequences of separation",
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-rankin-sampat-2026",
+       "document_url": "https://drive.google.com/file/d/1c_58QPPuLBhqvKuDiGdtxLjgFdsZ2pO1/view",
+       "document11_url": "https://drive.google.com/file/d/1td5xV-hcH1ujzqfDKNX-st1BjY2JfbSk/view",
+       "source": ""
+      },
+      {
+       "id": "tarleton-cantwell-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Tarleton & Cantwell (No 2) [2026] FedCFamC2F 1493 — a mother's move stays; security for costs refused",
+       "summary": "An interim decision held that a mother could keep her two-year-old in a nearby city because parents may live where they choose unless the child's welfare is affected, and refused $75,000 security for costs that would stifle a genuine property claim. Use it for relocation in parenting cases and access to justice in property claims.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Legal consequences of separation",
+        "The roles of courts and dispute resolut…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-tarleton-cantwell-no2-2026",
+       "document_url": "https://drive.google.com/file/d/1scCldpRLTtFkF9XutgEpwMQ-bG0q1Jjl/view",
+       "document11_url": "https://drive.google.com/file/d/11XAHcvih8U-KnTy8H73ZIXkL0R5kguIl/view",
+       "source": ""
+      },
+      {
+       "id": "alrc-report-145-surrogacy-2026",
+       "status": "updated",
+       "type": "report",
+       "type_label": "Report & statistics",
+       "title": "ALRC Report 145 — a national surrogacy framework in 47 recommendations (17 November 2026)",
+       "summary": "The card now links a second class summary of the report, which emphasises parentage from birth, civil penalties in place of never-prosecuted offences and a National Surrogacy Register. It now gives a second angle on the ALRC's reform proposals.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Surrogacy and birth technologies"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-alrc-report-145-surrogacy-2026",
+       "document_url": "https://drive.google.com/file/d/1-pjbJiD41VG6e7lOY9pr5g043MxO03n7/view",
+       "document11_url": null,
+       "source": "https://www.alrc.gov.au/news/national-reforms-needed-to-make-surrogacy-more-accessible-and-responsible/"
+      }
+     ]
+    },
+    {
+     "key": "shelter",
+     "label": "Shelter",
+     "part": "HSC Option 5",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "property-downturn-buyers-sellers-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "A record property downturn tests the law on buying and selling (AFR, 19 November 2026)",
+       "summary": "Capital city values fell 8.1% over seven months to October, and the article argues that falling prices change who purchasing law protects, as sellers lose bargaining power, low-deposit buyers risk negative equity and NSW has paused its price-guide rules. Use it to ask whether purchasing law balances buyers, sellers and agents fairly.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Purchasing",
+        "Affordability"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-property-downturn-buyers-sellers-2026",
+       "document_url": "https://drive.google.com/file/d/1Yc26jaVaed-9qWg50kQx2BoR1vS3NJzm/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "house-price-forecast-tax-reform-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "House prices to fall further as investor tax reforms bite (SMH/Domain, 19 November 2026)",
+       "summary": "Domain forecasts house prices to fall a further 13% in Sydney and 11% in Melbourne as the June 2026 negative gearing and capital gains tax law and rate rises bite, while economists dispute Treasury's estimate of the effect on rents. Use it for legal and non-legal forces on housing affordability, and who benefits.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Affordability",
+        "Purchasing"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-house-price-forecast-tax-reform-2026",
+       "document_url": "https://drive.google.com/file/d/1K4isxRdvjtL6LR0Y3X428TubBE_O9DCH/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "rental-listings-fall-sydney-melbourne-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Rental listings fall 23,000 as rents climb in Sydney and Melbourne (AFR, 18 November 2026)",
+       "summary": "Rental listings fell sharply and rents rose after NSW and Victoria banned no-grounds evictions, with industry blaming the reform and government data pointing to migration, construction and tax. Use it for security of tenure for tenants against landlord supply, and competing explanations of the same data.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Leasing",
+        "Affordability"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-rental-listings-fall-sydney-melbourne-2026",
+       "document_url": "https://drive.google.com/file/d/1ZQHoTy2N-Bbxst-8S8GiJg7-Jv1OLhGU/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "short-term-rentals-town-hall-protest-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Sydney protesters push for New York-style limits on Airbnb (City Hub, 17 November 2026)",
+       "summary": "Protesters want New York-style limits on short-term rentals, as NSW allows non-hosted stays for 180 days a year in Greater Sydney and a state review begun in 2024 is still unreleased. Use it for property owners' freedom against renters' access to housing, and advocacy for reform.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Affordability",
+        "Types of shelter"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-short-term-rentals-town-hall-protest-2026",
+       "document_url": "https://drive.google.com/file/d/1SyjDV7_MLnBQvgFXIUZSTuzzf8gel_mF/view",
+       "document11_url": null,
+       "source": "https://cityhub.com.au/sydney-town-hall-protest-calls-for-short-term-rental-airbnb-restrictions/"
+      },
+      {
+       "id": "missing-middle-walk-ups-building-rules-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Sydney's walk-ups squeezed as rezoning outpaces building rules (SMH, 19 November 2026)",
+       "summary": "NSW has rezoned land for 112,000 low and mid-rise homes, but completions lag because building laws treat a three-storey walk-up much like a tower. Use it for the tension between consumer protection and affordable housing supply, and for law reform that opens the door without delivering homes.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Types of shelter",
+        "Affordability"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-missing-middle-walk-ups-building-rules-2026",
+       "document_url": "https://drive.google.com/file/d/1CGDR0xgGLMM_KwuQZr7IILHpu1g6ugim/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "vinnies-homelessness-prevention-poll-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Vinnies poll pushes Victorian parties to fund homelessness prevention (CathNews, 17 November 2026)",
+       "summary": "The card now links a second class summary, which frames homelessness as a cost-of-living problem best met by prevention. It now offers a second take on the charity's campaign for funded early help.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Homelessness",
+        "The role of non-government organisations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-vinnies-homelessness-prevention-poll-2026",
+       "document_url": "https://drive.google.com/file/d/1EGbpHpFlEKLZr05TJV_nEzf-0bkzMShf/view",
+       "document11_url": null,
+       "source": "https://cathnews.com/2026/11/17/vinnies-urges-parties-to-commit-to-preventing-homelessness/"
+      }
+     ]
+    },
+    {
+     "key": "investigating",
+     "label": "Investigating the law",
+     "part": "Year 11 (Preliminary) Focus area 1",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "coroners-inquest-newborn-deaths-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Inquest hears a doula reassured parents as their newborn was dying (SMH, 18 November 2026)",
+       "summary": "An inquest is examining four newborn deaths outside the medical system, and an unregistered doula gave evidence as a witness. Use it to show the Coroner's Court at work, as an inquisitorial body that can find facts and make recommendations but cannot find anyone guilty. Treat with care.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Specialist courts",
+        "The role, jurisdiction and hierarchy of…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-coroners-inquest-newborn-deaths-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1jIm3osp9uTLOLMfafR-9rrcRhZXYueBf/view",
+       "source": ""
+      }
+     ]
+    },
+    {
+     "key": "disputes",
+     "label": "Disputes under the law",
+     "part": "Year 11 (Preliminary) Focus area 2",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "ab-v-cd-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "AB v CD (No 2) [2026] NSWSC 1483 — a notice to produce to the media survives a journalist privilege claim",
+       "summary": "A man suing a former partner and a news company served the media defendants with a notice to produce their communications with her, and the Supreme Court held that relevant documents must be produced with privileged parts redacted. Use it for civil procedure, notices to produce and the protection of journalists' sources.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Procedures in NSW tribunals and civil c…",
+        "Key concepts of justice illustrated thr…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-ab-v-cd-no2-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1Endz9RysfAocHNDjTM8s3jrPubuLn_tO/view",
+       "source": ""
+      },
+      {
+       "id": "ben-simon-v-langton-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Ben-Simon v Langton [2026] NSWCATAP 328 — a tenant's appeal partly succeeds because claims were never decided",
+       "summary": "The Appeal Panel found no unfairness in the dismissal of a former tenant's claims over a fence, harassment and constructive eviction, but sent three claims back because the Tribunal never decided them. Use it for tribunal procedure and appeals, and NCAT's role in tenancy disputes.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Procedures in NSW tribunals and civil c…",
+        "Key concepts of justice illustrated thr…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-ben-simon-v-langton-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1QWYMspfMbdmxDpqNS939LzBLo7RRZQtn/view",
+       "source": ""
+      },
+      {
+       "id": "han-and-minister-citizenship-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Han and Minister (Citizenship) [2026] ARTA 2747 — citizenship by descent refused for unreliable birth evidence",
+       "summary": "A child born in Cambodia was refused Australian citizenship by descent because the birth records were unreliable, so the applicant's Australian mother was not shown to be his parent at birth. Use it for merits review of a citizenship decision and links to birth technologies.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-han-and-minister-citizenship-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1Zuq6XRl7Sp1wEMXhmt4r6jFhUm3z3-ZW/view",
+       "source": ""
+      },
+      {
+       "id": "kuot-and-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Kuot and Minister (Migration) [2026] ARTA 2748 — a second mandatory cancellation not revoked",
+       "summary": "On a rehearing, the Tribunal declined to revoke a second mandatory visa cancellation for a man who arrived as a refugee child, finding an unacceptable risk after repeated violent offending. Use it for merits review applying a binding direction.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-kuot-and-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1M8DTIVJbBFpxU0pioaMT-0aHHtwrOrv3/view",
+       "source": ""
+      },
+      {
+       "id": "tonni-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Tonni v Minister [2026] FedCFamC2G 2240 — a self-represented student visa challenge fails",
+       "summary": "A self-represented student visa applicant and her husband challenged a finding that she was not a genuine temporary entrant, but the court held each finding was open and that much of the challenge went to the merits. Use it for judicial review and self-represented applicants.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-tonni-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1AsLdQU_XfvgC_L5GGYDjQvx67_rP_GGN/view",
+       "source": ""
+      },
+      {
+       "id": "wang-and-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Wang and Minister (Migration) [2026] ARTA 2751 — a partner visa refusal set aside for the sake of two young sons",
+       "summary": "The Tribunal set aside a partner visa refusal for a man who failed the character test over a 2019 tobacco sentence, because of his low risk and the weight owed to his two young sons. Use it to compare the same discretion producing a different result from the Spring and Kuot decisions.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wang-and-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1k9A0UsK-DlkLWMtdcplgcRj_Tc9ArDoT/view",
+       "source": ""
+      }
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-18",
    "since": "2026-11-17",
