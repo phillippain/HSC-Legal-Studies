@@ -1,6 +1,361 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "days": [
+  {
+   "date": "2026-11-20",
+   "since": "",
+   "new": 12,
+   "updated": 5,
+   "groups": [
+    {
+     "key": "crime",
+     "label": "Crime",
+     "part": "HSC Core Part I",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "tammy-shipley-inquest-findings-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Coroner finds Tammy Shipley's death in custody preventable (ABC, 19 November 2026)",
+       "summary": "The State Coroner found that a woman with known mental illness who died on remand after shoplifting charges could have been saved, because inaccurate bail records on other charges kept her in custody when the magistrate intended her release, and made 10 recommendations. Use it for remand of vulnerable accused for minor offences, the Coroners Court's role and the effectiveness of deaths-in-custody reform. Teach with care.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Bail or remand",
+        "Post-sentencing considerations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-tammy-shipley-inquest-findings-2026",
+       "document_url": "https://drive.google.com/file/d/1YrPaIhzCJsbyrceSitdSkpvuDyCKlqtr/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-19/tammy-shipley-inquest-findings-death-in-custody/107398998"
+      },
+      {
+       "id": "hrw-sudan-icc-suspects-transfer-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "HRW urges Sudan to hand Darfur suspects to the ICC (Human Rights Watch, 18 November 2026)",
+       "summary": "Human Rights Watch urged Sudan to surrender three Darfur suspects to the International Criminal Court, including a former minister reportedly detained on 8 November 2026 but not transferred, 19 years after the ICC's warrant. Use it to show the ICC's reliance on state cooperation to make arrests, noting the source is an NGO release with an advocacy aim.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Dealing with international crime",
+        "Categories of international crime"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-hrw-sudan-icc-suspects-transfer-2026",
+       "document_url": "https://drive.google.com/file/d/1lf7i0eXPGjIYqQqaoDzClWXFvdtJt5il/view",
+       "document11_url": null,
+       "source": "https://www.hrw.org/news/2026/11/18/sudan-transfer-war-crimes-suspects-to-icc"
+      },
+      {
+       "id": "waterloo-ebike-police-officer-charged-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Police officer charged over fatal Waterloo e-bike pullover (AAP, 17 November 2026)",
+       "summary": "A NSW senior constable has been charged with dangerous driving occasioning death after an e-bike rider died following a police pullover in March 2025, and the charge is unproven. Use it for limits on police powers and police accountability, and the question of police investigating their own critical incidents.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Police powers",
+        "Arrest and charge, summons, warrants"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-waterloo-ebike-police-officer-charged-2026",
+       "document_url": "https://drive.google.com/file/d/1Vj2dL3-0D-TEiKs7hoBj-QmxmIGOJqVy/view",
+       "document11_url": null,
+       "source": "https://aapnews.aap.com.au/news/police-officer-faces-charge-over-fatal-e-bike-pullover"
+      },
+      {
+       "id": "nsw-prison-inquests-mental-health-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Dozens of inquests reveal mental health care failures in NSW prisons — and a psychiatrist says Corrections should not run it (ABC, 31 October and 8 November 2026)",
+       "summary": "The card now links to the new coroner's findings in a death in custody, adding a recent inquest to the ABC's review of mental health care failures in NSW prison inquests. It now offers a worked example of what coroners can recommend but cannot compel.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-02",
+       "core_labels": [
+        "Post-sentencing considerations",
+        "Court jurisdiction"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nsw-prison-inquests-mental-health-2026",
+       "document_url": "https://drive.google.com/file/d/1jfSBF6HvKjghNu4rYbtRLXKO8BShm0Tl/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-08/nsw-prisons-failing-inmates-on-mental-health-says-psychiatrist/107302582"
+      },
+      {
+       "id": "lukes-law-bail-proposal-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "The Coalition's 'Luke's Law' would make bail refusal automatic (Moree Online News, 16 November 2026)",
+       "summary": "The card now links a fourth class summary, from AAP, which sets the pledge against record remand: 14,026 adults in custody and 6,415 on remand. It now gives the clearest statistical context for the automatic bail refusal proposal.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Bail or remand"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lukes-law-bail-proposal-2026",
+       "document_url": "https://drive.google.com/file/d/1s_QR5WK3li_NfBcXg39JXJtvmASjHNF4/view",
+       "document11_url": null,
+       "source": "https://moreeonlinenews.com.au/2026/11/16/moree-mp-backs-coalition-proposal-for-tougher-bail-laws/"
+      }
+     ]
+    },
+    {
+     "key": "humanrights",
+     "label": "Human Rights",
+     "part": "HSC Core Part II",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "langford-cultural-obligation-trespass-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Culture no lawful excuse for trespass, Tasmanian court rules (AAP, 17 November 2026)",
+       "summary": "A Tasmanian court accepted an Aboriginal elder's cultural obligations to Country as genuine, but found they were no lawful excuse for staying in a logging coupe once a forestry officer directed her to leave. Use it for courts balancing Indigenous cultural rights against statute and protest laws, with no statutory cultural right in Tasmania.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "The role of courts and tribunals",
+        "The role of statute law"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-langford-cultural-obligation-trespass-2026",
+       "document_url": "https://drive.google.com/file/d/1eTJGekbdSh5JlYEVhN4c2Z3dn-ntIzpy/view",
+       "document11_url": null,
+       "source": "https://aapnews.aap.com.au/news/court-rules-aboriginal-culture-not-above-protest-laws"
+      },
+      {
+       "id": "defence-security-zones-bill-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Defence security zones bill raises protest and over-reach fears (AAP, 19 November 2026)",
+       "summary": "A 231-page bill passed by the House would let Defence declare security zones on land, sea, air and moving vehicles, with up to 7 years' jail for entering the Pine Gap zone, and critics fear limits on protest. Use it for statute law limiting assembly and movement for security, and the absence of a charter against which to test proportionality.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "The role of statute law"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-defence-security-zones-bill-2026",
+       "document_url": "https://drive.google.com/file/d/1_e7cnw2JiyuFycYfM8eowNrfzPhC6LYf/view",
+       "document11_url": null,
+       "source": "https://aapnews.aap.com.au/news/concerns-law-to-boost-defence-security-could-over-reach"
+      },
+      {
+       "id": "icj-gambia-v-myanmar-genocide-ruling-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "ICJ finds Myanmar committed genocide against the Rohingya (Al Jazeera, 19 November 2026)",
+       "summary": "The International Court of Justice found by 9 votes to 6 that Myanmar committed genocide against the Rohingya, the first such finding against a state brought by a state not directly affected. Use it for international courts enforcing human rights treaties, and the point that compliance depends on Myanmar and the Security Council.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "The role of courts, tribunals and indep…",
+        "State sovereignty"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-icj-gambia-v-myanmar-genocide-ruling-2026",
+       "document_url": "https://drive.google.com/file/d/1_5JceAgdsSzaHeyPW-ji1kcnV0eV-ewH/view",
+       "document11_url": null,
+       "source": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+      },
+      {
+       "id": "ahrc-human-rights-in-disasters-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Put human rights at the heart of disaster response, AHRC says (AHRC, 18 November 2026)",
+       "summary": "An Australian Human Rights Commission survey of 2,000 adults found 55% had been affected by a disaster in 10 years, and the Commission proposed five rights-based principles for emergency response. Use it for the role of an independent statutory authority in promoting rights, and the limits of recommendations without enforcement power.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "The role of courts, tribunals and indep…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-ahrc-human-rights-in-disasters-2026",
+       "document_url": "https://drive.google.com/file/d/1had5nsdWGNEjp1CvtxZ-oigcCCs4Uwon/view",
+       "document11_url": null,
+       "source": "https://newshub.medianet.com.au/2026/11/new-report-calls-for-human-rights-to-be-at-heart-of-emergency-response/182281/"
+      }
+     ]
+    },
+    {
+     "key": "family",
+     "label": "Family",
+     "part": "HSC Option 3",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "wake-murder-sentence-appeal-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Ex-wife's killer argues 26-year murder sentence is too long (AAP, 18 November 2026)",
+       "summary": "A man who pleaded guilty to murdering his former wife is appealing his 26-year sentence as manifestly excessive, while the DPP argues sentences for domestic violence offences are rising and deterrence matters. Use it for sentencing as a legal response to intimate partner homicide, and appeals against severity; the outcome has not been reported.",
+       "note": "Content note: this item involves a death or killing and family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wake-murder-sentence-appeal-2026",
+       "document_url": "https://drive.google.com/file/d/1lPNaz16jfkwg-ZIKyYdpu63bK7jDv-wz/view",
+       "document11_url": null,
+       "source": "https://aapnews.aap.com.au/news/christmas-day-ex-wife-killer-argues-jail-term-too-long"
+      },
+      {
+       "id": "qld-vicarious-liability-bill-rejected-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Queensland rejects bill to make institutions liable for child abuse (AAP, 18 November 2026)",
+       "summary": "Queensland voted down an Opposition bill that would have made institutions liable for abuse by people such as priests, after the High Court's Bird v DP decision limited vicarious liability to true employees. Use it for civil remedies for survivors of institutional child abuse, and how Parliament responds, or does not, to a High Court decision.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Care and protection of children"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-qld-vicarious-liability-bill-rejected-2026",
+       "document_url": "https://drive.google.com/file/d/1vslHam5YxKPuQ5rvwNJuqY9q0PM-Y53I/view",
+       "document11_url": null,
+       "source": "https://aapnews.aap.com.au/news/government-called-cruel-for-rejecting-sex-abuse-bill"
+      },
+      {
+       "id": "operation-amarok-15-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "681 charged in NSW domestic violence blitz, Operation Amarok 15 (NSW Police, 16 November 2026)",
+       "summary": "The card now links a second class summary, from Newcastle Weekly, reporting the same results for the three-day domestic violence operation, including warrants executed and firearms seized. It now gives a second source for the proactive enforcement figures.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-operation-amarok-15-2026",
+       "document_url": "https://drive.google.com/file/d/1KnIZI3ZPqmZUcAB-CWdGf9bkdeyDMgYk/view",
+       "document11_url": null,
+       "source": "https://www.miragenews.com/operation-amarok-15-leads-to-681-arrests-1500-1777440/"
+      },
+      {
+       "id": "alrc-report-145-surrogacy-2026",
+       "status": "updated",
+       "type": "report",
+       "type_label": "Report & statistics",
+       "title": "ALRC Report 145 — a national surrogacy framework in 47 recommendations (17 November 2026)",
+       "summary": "The card now adds ABC coverage of the report, noting that about four in five Australian surrogacy births happen overseas and covering the calls for a national regulator and parentage from birth. It now offers a media view alongside the ALRC's own recommendations.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Surrogacy and birth technologies"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-alrc-report-145-surrogacy-2026",
+       "document_url": "https://drive.google.com/file/d/1-pjbJiD41VG6e7lOY9pr5g043MxO03n7/view",
+       "document11_url": null,
+       "source": "https://www.alrc.gov.au/news/national-reforms-needed-to-make-surrogacy-more-accessible-and-responsible/"
+      }
+     ]
+    },
+    {
+     "key": "shelter",
+     "label": "Shelter",
+     "part": "HSC Option 5",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "orchard-hills-stage-1-rezoning-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Orchard Hills rezoning: 5,900 homes and 3% affordable housing (NSW Government, 17 November 2026)",
+       "summary": "NSW finalised a rezoning for up to 5,900 homes near the new Orchard Hills Metro station, cut from the 11,600 first proposed after 891 submissions, with an affordable housing contribution of up to 3%. Use it for planning law to increase supply near transport and community consultation reshaping a rezoning.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Affordability",
+        "The role of government organisations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-orchard-hills-stage-1-rezoning-2026",
+       "document_url": "https://drive.google.com/file/d/1NDRGZN1ytHAHT_GqGrFNJ3MGr0kKT0bH/view",
+       "document11_url": null,
+       "source": "https://www.nsw.gov.au/ministerial-releases/homes-jobs-greenlit-orchard-hills"
+      },
+      {
+       "id": "strata-moving-in-admin-fee-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Strata manager's $1,000 moving-in fee sparks Fair Trading probe (Real Estate Business, 16 November 2026)",
+       "summary": "A strata manager invoiced a new resident $1,000 as an admin fee for an unapproved move-in, and Fair Trading is investigating because owners corporations generally cannot fine owners directly and only NCAT can impose by-law penalties. Use it for rights and obligations in strata schemes and enforcing limits on strata managers.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Securing other types of shelter",
+        "The roles of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-strata-moving-in-admin-fee-2026",
+       "document_url": "https://drive.google.com/file/d/1-k4SfXmjfnCK94GwB46lfvLaaPZlb3b_/view",
+       "document11_url": null,
+       "source": "https://www.realestatebusiness.com.au/industry/32723-nsw-strata-company-facing-probe-over-1k-moving-in-admin-fee"
+      },
+      {
+       "id": "factory-built-housing-productivity-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Think tank urges factory-built homes to lift building productivity (ABC, 19 November 2026)",
+       "summary": "A think tank says only about 5% of Australian homes are built off-site against 45% in Scandinavia, and argues that factory-built housing could lift falling construction productivity. Use it for supply-side responses to affordability and how far Housing Accord targets are behind, noting the claims come from an advocacy group.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Affordability"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-factory-built-housing-productivity-2026",
+       "document_url": "https://drive.google.com/file/d/1YrDfGzVYO1_GvBFM6niFMBNlpVlQR-2u/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-19/committee-for-sydney-says-more-factory-made-housing-needed/107394616"
+      },
+      {
+       "id": "victorian-underquoting-price-guides-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Underquoting laws fail to make Victorian price guides reliable — and NSW pauses its reforms (November 2026)",
+       "summary": "The card now links a second class summary of the ABC's 16 November report on the NSW pause of its underquoting reforms. It now gives a second source for the pause alongside the Victorian research.",
+       "note": "",
+       "added": "2026-11-11",
+       "core_labels": [
+        "Purchasing",
+        "The role of government organisations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-victorian-underquoting-price-guides-2026",
+       "document_url": "https://drive.google.com/file/d/1n0BWFVOLQLh6GPB5V0QiFJiglzFEjCw6/view",
+       "document11_url": null,
+       "source": ""
+      }
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-19",
    "since": "",
