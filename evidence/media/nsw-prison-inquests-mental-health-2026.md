@@ -12,9 +12,9 @@ themes: crime.t.effectiveness, crime.t.balance, crime.t.moral
 criteria: rights, enforceability, responsiveness, justice
 document: Crime/Media/Crime - NSW Prisons Mental Health Care Evidence Summary.pdf
 source: https://www.abc.net.au/news/2026-11-08/nsw-prisons-failing-inmates-on-mental-health-says-psychiatrist/107302582
-related: deaths-in-custody-since-1991, rciadic-1991, kariong-period-products-inspection-2026, inquest-db-2025, balzan-inquest-2025
+related: deaths-in-custody-since-1991, rciadic-1991, kariong-period-products-inspection-2026, inquest-db-2025, balzan-inquest-2025, tammy-shipley-inquest-findings-2026
 added: 2026-11-02
-updated_at: 2026-11-12 07:51
+updated_at: 2026-11-20 06:50
 ---
 
 The ABC reviewed **249** coronial inquests into NSW prison deaths since 2015. **48** found failures in mental health

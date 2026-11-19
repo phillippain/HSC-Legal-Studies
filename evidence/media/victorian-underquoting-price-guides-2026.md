@@ -14,7 +14,7 @@ document: Shelter/Evidence Sheets/Shelter - Victorian Underquoting Laws and Pric
 related: fair-trading-enforcement-priorities-2026-27, fair-trading-act-1987, guide-to-purchasing-your-home-nsw, leader-properties-lockout-fair-trading-2026
 added: 2026-11-11
 added_at: 2026-11-11 08:07
-updated_at: 2026-11-18 07:19
+updated_at: 2026-11-20 06:50
 ---
 
 The API and Homer analysed **102,681** Victorian sales: **43%** sold within the first price guide buyers saw, and only **68 of
@@ -48,6 +48,9 @@ citing a falling market (Sydney house prices down 9.7%).
 
 The maximum penalty in the paused rules is $110,000 or three times commission; existing underquoting offences still apply.
 [Class evidence summary](https://drive.google.com/file/d/1O2yYIisqWBW5gaH-81_IQAhBmWyKY-PW/view).
+
+A [second class summary of the ABC's 16 November report](https://drive.google.com/file/d/16GGGxjnOejxEepHJi74rMXKwINV4MepH/view) covers the same NSW pause.
+
 
 ## Use it for
 

@@ -15,7 +15,7 @@ source: https://www.alrc.gov.au/news/national-reforms-needed-to-make-surrogacy-m
 related: altruistic-surrogacy-alrc-review-2026, surrogacy-act-2010-and-art-act-2007, overseas-surrogacy-as-a-commonwealth-issue, surrogacy-birth-technology-evidence-file
 added: 2026-11-16
 added_at: 2026-11-18 07:19
-updated_at: 2026-11-19 07:59
+updated_at: 2026-11-20 06:50
 ---
 
 The ALRC's final report makes **47** recommendations. Domestic gestational surrogacy births rose from an estimated **27** to **84** a year, and overseas surrogacy births to Australians from **246** to **375** (2015–2024); about **80%** of Australians' surrogacy arrangements take place overseas.
@@ -34,6 +34,11 @@ The ALRC's final report makes **47** recommendations. Domestic gestational surro
 None of this is law: implementation needs Commonwealth legislation and state referral or mirror laws (Rec 4).
 
 A [second class summary of the report](https://drive.google.com/file/d/1eg5cvkdywG3hcI3HQooIEXCG3fb9WGiZ/view) emphasises parentage from birth, civil penalties in place of never-prosecuted offences, and a National Surrogacy Register.
+
+## Media coverage (ABC, 18 November 2026)
+
+A [second class summary of the ABC's report](https://drive.google.com/file/d/183Ewwuy3riJlyPS1lnKC_UqA1MMIgXkA/view) covers the call for a national regulator and parentage from birth. It adds that about 4 in 5 Australian surrogacy births happen overseas (300+ children a year) and that domestic surrogacy births rose from an estimated 27 in 2014 to 84 in 2023. Governments have not yet responded.
+
 
 ## Use it for
 

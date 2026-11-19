@@ -3597,6 +3597,22 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - ALRC Report 145 (Surrogacy) ABC Coverage Evidence Summary.pdf",
+   "name": "Family - ALRC Report 145 (Surrogacy) ABC Coverage Evidence Summary",
+   "file": "Family - ALRC Report 145 (Surrogacy) ABC Coverage Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 205396,
+   "mtime": 1795117485,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "fam.3.3"
+   ],
+   "dupe": "familyalrcreport145surrogacyabccoverageevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Family - ALRC Report 145 (surrogacy) - Second Summary Evidence Summary.pdf",
    "name": "Family - ALRC Report 145 (surrogacy) - Second Summary Evidence Summary",
    "file": "Family - ALRC Report 145 (surrogacy) - Second Summary Evidence Summary.pdf",
@@ -4036,6 +4052,22 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - Operation Amarok 15 DV Crackdown Newcastle Weekly Evidence Summary.pdf",
+   "name": "Family - Operation Amarok 15 DV Crackdown Newcastle Weekly Evidence Summary",
+   "file": "Family - Operation Amarok 15 DV Crackdown Newcastle Weekly Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208052,
+   "mtime": 1795117487,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.4"
+   ],
+   "dupe": "familyoperationamarok15dvcrackdownnewcastleweeklyevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Family - Operation Amarok 15 Domestic Violence Crackdown Evidence Summary.pdf",
    "name": "Family - Operation Amarok 15 Domestic Violence Crackdown Evidence Summary",
    "file": "Family - Operation Amarok 15 Domestic Violence Crackdown Evidence Summary.pdf",
@@ -4134,6 +4166,22 @@
     "fam.1.5"
    ],
    "dupe": "familypubertyblockersnationalguidelinesandstatebansevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Family/Evidence Summaries/Family - Queensland Vicarious Liability Bill Rejected Evidence Summary.pdf",
+   "name": "Family - Queensland Vicarious Liability Bill Rejected Evidence Summary",
+   "file": "Family - Queensland Vicarious Liability Bill Rejected Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211349,
+   "mtime": 1795117488,
+   "bucket": "evidence",
+   "kind": "legislation",
+   "tags": [
+    "fam.3.4"
+   ],
+   "dupe": "familyqueenslandvicariousliabilitybillrejectedevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4270,6 +4318,23 @@
     "fam.1.5"
    ],
    "dupe": "familywaindigenouschildprotectionporthedlandevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Family/Evidence Summaries/Family - Wake Murder Sentence Appeal Evidence Summary.pdf",
+   "name": "Family - Wake Murder Sentence Appeal Evidence Summary",
+   "file": "Family - Wake Murder Sentence Appeal Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209444,
+   "mtime": 1795117486,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.2.4",
+    "crime.4.5"
+   ],
+   "dupe": "familywakemurdersentenceappealevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -12973,6 +13038,22 @@
    "primary": true
   },
   {
+   "path": "Human Rights/HR - AHRC Human Rights in Disasters Evidence Summary.pdf",
+   "name": "HR - AHRC Human Rights in Disasters Evidence Summary",
+   "file": "HR - AHRC Human Rights in Disasters Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207333,
+   "mtime": 1795117480,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.4"
+   ],
+   "dupe": "hrahrchumanrightsindisastersevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/HR - AI Chatbots and Children Digital Duty of Care Evidence Summary.pdf",
    "name": "HR - AI Chatbots and Children Digital Duty of Care Evidence Summary",
    "file": "HR - AI Chatbots and Children Digital Duty of Care Evidence Summary.pdf",
@@ -13019,6 +13100,22 @@
     "hr.1.2"
    ],
    "dupe": "hrcorporateclimatetargetsanddisclosureevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - Defence Security Zones Bill Evidence Summary.pdf",
+   "name": "HR - Defence Security Zones Bill Evidence Summary",
+   "file": "HR - Defence Security Zones Bill Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209005,
+   "mtime": 1795117478,
+   "bucket": "evidence",
+   "kind": "legislation",
+   "tags": [
+    "hr.2.9"
+   ],
+   "dupe": "hrdefencesecurityzonesbillevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -13183,6 +13280,40 @@
     "hr.2.13"
    ],
    "dupe": "hrhighcourtabattoirfootageevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - ICJ Rohingya Genocide Ruling Evidence Summary.pdf",
+   "name": "HR - ICJ Rohingya Genocide Ruling Evidence Summary",
+   "file": "HR - ICJ Rohingya Genocide Ruling Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206279,
+   "mtime": 1795117477,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.4",
+    "hr.2.1"
+   ],
+   "dupe": "hricjrohingyagenociderulingevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - Langford Cultural Obligation Trespass Ruling Evidence Summary.pdf",
+   "name": "HR - Langford Cultural Obligation Trespass Ruling Evidence Summary",
+   "file": "HR - Langford Cultural Obligation Trespass Ruling Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208122,
+   "mtime": 1795117479,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.11",
+    "hr.2.9"
+   ],
+   "dupe": "hrlangfordculturalobligationtrespassrulingevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -17558,6 +17689,22 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - Factory-Built Housing Productivity Evidence Summary.pdf",
+   "name": "Shelter - Factory-Built Housing Productivity Evidence Summary",
+   "file": "Shelter - Factory-Built Housing Productivity Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207755,
+   "mtime": 1795117482,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.1"
+   ],
+   "dupe": "shelterfactorybuilthousingproductivityevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - Fair Trading priorities 2026-27 (first version) Evidence Summary.pdf",
    "name": "Shelter - Fair Trading priorities 2026-27 (first version) Evidence Summary",
    "file": "Shelter - Fair Trading priorities 2026-27 (first version) Evidence Summary.pdf",
@@ -17780,6 +17927,22 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - NSW Pause on Victorian Underquoting Laws Model Evidence Summary.pdf",
+   "name": "Shelter - NSW Pause on Victorian Underquoting Laws Model Evidence Summary",
+   "file": "Shelter - NSW Pause on Victorian Underquoting Laws Model Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208599,
+   "mtime": 1795117481,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.1"
+   ],
+   "dupe": "shelternswpauseonvictorianunderquotinglawsmodelevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - NSW Short Stay Levy Proposal Evidence Summary.pdf",
    "name": "Shelter - NSW Short Stay Levy Proposal Evidence Summary",
    "file": "Shelter - NSW Short Stay Levy Proposal Evidence Summary.pdf",
@@ -17882,6 +18045,23 @@
     "shel.3.1"
    ],
    "dupe": "shelterolderwomencohousingdarraevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Orchard Hills Metro Rezoning Evidence Summary.pdf",
+   "name": "Shelter - Orchard Hills Metro Rezoning Evidence Summary",
+   "file": "Shelter - Orchard Hills Metro Rezoning Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 205723,
+   "mtime": 1795117483,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.1",
+    "shel.2.8"
+   ],
+   "dupe": "shelterorchardhillsmetrorezoningevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -18070,6 +18250,23 @@
     "shel.1.4"
    ],
    "dupe": "sheltershorttermrentalstownhallprotestevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Strata Moving-In Admin Fee Evidence Summary.pdf",
+   "name": "Shelter - Strata Moving-In Admin Fee Evidence Summary",
+   "file": "Shelter - Strata Moving-In Admin Fee Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208806,
+   "mtime": 1795117484,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.4",
+    "shel.2.6"
+   ],
+   "dupe": "shelterstratamovinginadminfeeevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -22224,6 +22421,23 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - Police Officer Charged Over Fatal E-bike Pullover Evidence Summary.pdf",
+   "name": "Crime - Police Officer Charged Over Fatal E-bike Pullover Evidence Summary",
+   "file": "Crime - Police Officer Charged Over Fatal E-bike Pullover Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209397,
+   "mtime": 1795117476,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.1",
+    "crime.2.4"
+   ],
+   "dupe": "crimepoliceofficerchargedoverfatalebikepulloverevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - Prisoner Complaints Surge and Remand Evidence Summary.pdf",
    "name": "Crime - Prisoner Complaints Surge and Remand Evidence Summary",
    "file": "Crime - Prisoner Complaints Surge and Remand Evidence Summary.pdf",
@@ -22294,6 +22508,22 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - Record Remand and Luke's Law Bail Proposal Evidence Summary.pdf",
+   "name": "Crime - Record Remand and Luke's Law Bail Proposal Evidence Summary",
+   "file": "Crime - Record Remand and Luke's Law Bail Proposal Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208729,
+   "mtime": 1795117475,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.5"
+   ],
+   "dupe": "crimerecordremandandlukeslawbailproposalevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - Russell Manslaughter Sentencing Hearing Evidence Summary.pdf",
    "name": "Crime - Russell Manslaughter Sentencing Hearing Evidence Summary",
    "file": "Crime - Russell Manslaughter Sentencing Hearing Evidence Summary.pdf",
@@ -22358,6 +22588,40 @@
     "crime.6.2"
    ],
    "dupe": "crimestarcasinoaustracmoneylaunderingpenaltyevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Sudan ICC Suspects Transfer Evidence Summary.pdf",
+   "name": "Crime - Sudan ICC Suspects Transfer Evidence Summary",
+   "file": "Crime - Sudan ICC Suspects Transfer Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210168,
+   "mtime": 1795117477,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.6.2",
+    "crime.6.1"
+   ],
+   "dupe": "crimesudaniccsuspectstransferevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Tammy Shipley Death in Custody Inquest Findings Evidence Summary.pdf",
+   "name": "Crime - Tammy Shipley Death in Custody Inquest Findings Evidence Summary",
+   "file": "Crime - Tammy Shipley Death in Custody Inquest Findings Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207626,
+   "mtime": 1795117474,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.5",
+    "crime.4.8"
+   ],
+   "dupe": "crimetammyshipleydeathincustodyinquestfindingsevidencesummary",
    "copyOf": null,
    "primary": true
   },
