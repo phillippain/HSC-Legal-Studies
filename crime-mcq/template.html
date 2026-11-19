@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Crime Multiple Choice Practice</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f3f6f8;--surface:#fff;--surface2:#e9eff3;--ink:#10222B;--ink2:#4a5e69;--line:#d3dde3;--harbour:#0B4F6C;--teal:#0E7C86;--coral:#E4572E;--gold:#E3B341;
+--ok:#17693a;--ok-t:#dcf2e4;--bad:#a3212b;--bad-t:#fde6e7;--shadow:0 1px 2px rgba(11,79,108,.08),0 6px 18px rgba(11,79,108,.08);
+--t1:#0E7C86;--t2:#E4572E;--t3:#6D4AFF;--t4:#B7860B;--t5:#2E9E5B;--t6:#2563EB;
+--display:"Poppins","Segoe UI",system-ui,sans-serif;--body:"Inter","Segoe UI",system-ui,sans-serif}
+@media(prefers-color-scheme:dark){:root{--bg:#0d1a21;--surface:#14262f;--surface2:#1c3340;--ink:#e8f1f5;--ink2:#9db4c0;--line:#2a4655;--ok:#6fd596;--ok-t:#13341f;--bad:#ff8f97;--bad-t:#40191d;--t4:#E3B341;color-scheme:dark}}
+*{box-sizing:border-box;margin:0}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--body)}
+button{font:inherit;color:inherit;cursor:pointer}
+.wrap{max-width:900px;margin:0 auto;padding:0 14px 40px}
+header{background:linear-gradient(135deg,var(--harbour),var(--teal));color:#fff;padding:22px 14px 26px;margin-bottom:-14px}
+header .in{max-width:900px;margin:0 auto}
+header h1{font:800 26px/1.15 var(--display)}
+header p{opacity:.9;margin-top:4px}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:0 0 14px}
+.stat{background:var(--surface);border-radius:14px;padding:12px;box-shadow:var(--shadow);text-align:center}
+.stat b{display:block;font:800 24px var(--display);color:var(--harbour)}
+@media(prefers-color-scheme:dark){.stat b{color:#6cc5d1}}
+.stat small{color:var(--ink2)}
+h2{font:700 17px var(--display);margin:18px 0 8px}
+.card{background:var(--surface);border-radius:16px;padding:14px;box-shadow:var(--shadow)}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{border:2px solid var(--c);background:var(--surface);border-radius:999px;padding:6px 12px;font-weight:600;font-size:14px;color:var(--ink)}
+.chip[aria-pressed=true]{background:var(--c);color:#fff}
+.tgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px}
+.topic{border-left:6px solid var(--c);background:var(--surface);border-radius:12px;padding:10px 12px;box-shadow:var(--shadow)}
+.topic b{display:block}
+.bar{height:8px;background:var(--surface2);border-radius:6px;overflow:hidden;margin-top:6px}
+.bar i{display:block;height:100%;background:var(--c);width:0}
+.topic small{color:var(--ink2)}
+.modes{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+.mode{border:0;text-align:left;border-radius:16px;padding:16px;color:#fff;box-shadow:var(--shadow);background:var(--m)}
+.mode .e{font-size:28px}.mode b{display:block;font:700 17px var(--display);margin-top:4px}.mode span{opacity:.92;font-size:13.5px}
+.mode:disabled{opacity:.45;cursor:not-allowed}
+.link{background:none;border:0;color:var(--ink2);text-decoration:underline;margin-top:14px}
+/* quiz */
+.top{display:flex;align-items:center;gap:10px;margin:16px 0 8px;flex-wrap:wrap}
+.top .sp{flex:1}
+.pill{border-radius:999px;padding:3px 10px;font-size:12.5px;font-weight:700;color:#fff;background:var(--c)}
+.pill.src{background:var(--surface2);color:var(--ink2)}
+.timer{font:700 16px var(--display);font-variant-numeric:tabular-nums;background:var(--surface);padding:4px 12px;border-radius:999px;box-shadow:var(--shadow)}
+.timer.low{color:var(--coral)}
+.prog{height:8px;background:var(--surface2);border-radius:6px;overflow:hidden;margin-bottom:12px}.prog i{display:block;height:100%;background:var(--harbour);transition:width .3s}
+.q{font:600 18px/1.4 var(--display);margin-bottom:14px}
+.opt{display:flex;gap:10px;width:100%;text-align:left;background:var(--surface);border:2px solid var(--line);border-radius:12px;padding:11px 12px;margin-bottom:9px;align-items:flex-start}
+.opt:hover:not(:disabled){border-color:var(--harbour)}
+.opt .l{flex:none;width:28px;height:28px;border-radius:50%;background:var(--surface2);display:grid;place-items:center;font-weight:700}
+.opt.sel{border-color:var(--harbour);background:var(--surface2)}
+.opt.right{border-color:var(--ok);background:var(--ok-t)}.opt.right .l{background:var(--ok);color:#fff}
+.opt.wrong{border-color:var(--bad);background:var(--bad-t)}.opt.wrong .l{background:var(--bad);color:#fff}
+.opt:disabled{cursor:default}
+.fb{margin-top:12px;border-radius:14px;padding:12px 14px;background:var(--surface);border-left:6px solid var(--ok);box-shadow:var(--shadow)}
+.fb.no{border-left-color:var(--bad)}
+.fb h3{font:700 16px var(--display);margin-bottom:4px}
+.fb .ev{margin-top:8px;display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:13px;color:var(--ink2)}
+.fb .ev a{background:var(--surface2);color:var(--harbour);border-radius:999px;padding:3px 10px;text-decoration:none;font-weight:600}
+@media(prefers-color-scheme:dark){.fb .ev a{color:#6cc5d1}}
+.btn{border:0;border-radius:12px;padding:10px 18px;font-weight:700;background:var(--harbour);color:#fff}
+.btn.alt{background:var(--surface2);color:var(--ink)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.row{display:flex;gap:10px;margin-top:14px;flex-wrap:wrap}
+/* results */
+.score{display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+.ring{width:110px;height:110px;border-radius:50%;display:grid;place-items:center;background:conic-gradient(var(--teal) calc(var(--p)*1%),var(--surface2) 0)}
+.ring span{width:84px;height:84px;border-radius:50%;background:var(--surface);display:grid;place-items:center;font:800 24px var(--display)}
+.rv{margin-top:8px;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+.rv summary{padding:10px 12px;cursor:pointer;font-weight:600}
+.rv .b{padding:0 12px 12px}.rv.ok summary::before{content:"✔ ";color:var(--ok)}.rv.no summary::before{content:"✘ ";color:var(--bad)}
+.hide{display:none}
+</style>
+</head>
+<body>
+<header><div class="in"><h1>⚖️ Crime Multiple Choice Practice</h1><p>HSC Legal Studies · Section I style questions across all six Crime topics</p></div></header>
+<div class="wrap" id="app"></div>
+<script>
+const DATA=/*DATA*/[];
+const TOPICS={1:['Nature of crime','🧩'],2:['Criminal investigation','🔎'],3:['Criminal trial process','🏛️'],4:['Sentencing & punishment','🔨'],5:['Young offenders','🧒'],6:['International crime','🌏']};
+const KEY='lsmcq-crime-v1';
+let mem={};
+const store={get(){try{return JSON.parse(localStorage.getItem(KEY))||{q:{}}}catch(e){return mem.d||{q:{}}}},
+ set(d){try{localStorage.setItem(KEY,JSON.stringify(d))}catch(e){mem.d=d}}};
+const $=s=>document.querySelector(s), app=$('#app');
+let sel=new Set([1,2,3,4,5,6]), S=null;
+const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]]}return a};
+const esc=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;');
+const col=t=>`style="--c:var(--t${t})"`;
+function stats(){const d=store.get();let a=0,c=0,w=0;DATA.forEach(q=>{const r=d.q[q.id];if(r){a++;c+=r.c;if(!r.l)w++}});
+ let tot=0,cor=0;Object.values(d.q).forEach(r=>{tot+=r.n;cor+=r.c});return{a,acc:tot?Math.round(cor/tot*100):null,w,d}}
+function home(){
+ S=null;const st=stats();
+ const weakN=DATA.filter(q=>sel.has(q.tp)&&st.d.q[q.id]&&!st.d.q[q.id].l).length;
+ const pool=DATA.filter(q=>sel.has(q.tp)).length;
+ app.innerHTML=`<div style="height:14px"></div>
+ <div class="stats"><div class="stat"><b>${st.a}/${DATA.length}</b><small>questions tried</small></div>
+ <div class="stat"><b>${st.acc===null?'–':st.acc+'%'}</b><small>overall accuracy</small></div>
+ <div class="stat"><b>${st.w}</b><small>weak questions</small></div></div>
+ <h2>1. Choose topics</h2><div class="card"><div class="chips">${Object.keys(TOPICS).map(t=>`<button class="chip" ${col(t)} data-t="${t}" aria-pressed="${sel.has(+t)}">${TOPICS[t][1]} ${t}. ${TOPICS[t][0]}</button>`).join('')}</div>
+ <div class="row"><button class="btn alt" id="all">All topics</button><button class="btn alt" id="none">Clear</button><span style="align-self:center;color:var(--ink2)">${pool} questions selected</span></div></div>
+ <h2>2. Pick a mode</h2><div class="modes">
+ <button class="mode" style="--m:var(--teal)" id="m1" ${pool?'':'disabled'}><span class="e">✏️</span><b>Practice</b><span>10 questions with instant feedback, an explanation and an Evidence Finder link.</span></button>
+ <button class="mode" style="--m:var(--harbour)" id="m2" ${pool?'':'disabled'}><span class="e">⏱️</span><b>Timed test</b><span>20 questions in 30 minutes. Feedback and score at the end.</span></button>
+ <button class="mode" style="--m:var(--coral)" id="m3" ${weakN?'':'disabled'}><span class="e">🎯</span><b>Retry weak spots</b><span>${weakN} question${weakN==1?'':'s'} you last got wrong in the selected topics.</span></button></div>
+ <h2>Your progress by topic</h2><div class="tgrid">${Object.keys(TOPICS).map(t=>{const qs=DATA.filter(q=>q.tp==t);let right=0,tried=0;qs.forEach(q=>{const r=st.d.q[q.id];if(r){tried++;if(r.l)right++}});
+  return`<div class="topic" ${col(t)}><b>${TOPICS[t][1]} ${t}. ${TOPICS[t][0]}</b><small>${right} mastered · ${tried} tried · ${qs.length} total</small><div class="bar"><i style="width:${right/qs.length*100}%"></i></div></div>`}).join('')}</div>
+ <p style="margin-top:14px;color:var(--ink2);font-size:13px">Progress is saved in this browser only. 'Mastered' means your last attempt was correct.</p>
+ <button class="link" id="reset">Reset my progress</button>`;
+ app.querySelectorAll('.chip').forEach(b=>b.onclick=()=>{const t=+b.dataset.t;sel.has(t)?sel.delete(t):sel.add(t);home()});
+ $('#all').onclick=()=>{sel=new Set([1,2,3,4,5,6]);home()};$('#none').onclick=()=>{sel.clear();home()};
+ $('#m1').onclick=()=>start('practice',10);$('#m2').onclick=()=>start('test',20);$('#m3').onclick=()=>start('weak',99);
+ $('#reset').onclick=()=>{if(confirm('Clear all saved progress?')){store.set({q:{}});home()}};
+}
+function start(mode,n,ids){
+ const d=store.get();let pool;
+ if(ids)pool=DATA.filter(q=>ids.includes(q.id));
+ else if(mode=='weak')pool=DATA.filter(q=>sel.has(q.tp)&&d.q[q.id]&&!d.q[q.id].l);
+ else{pool=DATA.filter(q=>sel.has(q.tp));
+  // prefer unseen, then previously wrong, then the rest
+  const rank=q=>{const r=d.q[q.id];return !r?0:(!r.l?1:2)};
+  pool=shuffle(pool).sort((a,b)=>rank(a)-rank(b)).slice(0,n);}
+ const qs=shuffle(pool).slice(0,n).map(q=>{const o=shuffle(q.o.map((t,i)=>({t,ok:i==q.a})));return{...q,opts:o}});
+ S={mode,qs,i:0,ans:[],t0:Date.now(),left:30*60,done:false};
+ if(mode=='test'){S.tm=setInterval(()=>{S.left--;const e=$('#tm');if(e){e.textContent=fmt(S.left);e.classList.toggle('low',S.left<300)}if(S.left<=0)finish()},1000)}
+ show();
+}
+const fmt=s=>Math.floor(s/60)+':'+String(s%60).padStart(2,'0');
+function show(){
+ const q=S.qs[S.i],test=S.mode=='test',a=S.ans[S.i];
+ app.innerHTML=`<div class="top"><span class="pill" ${col(q.tp)}>${TOPICS[q.tp][1]} ${TOPICS[q.tp][0]}</span><span class="pill src">${esc(q.src)}</span><span class="sp"></span>${test?`<span class="timer" id="tm">${fmt(S.left)}</span>`:''}<button class="btn alt" id="quit">${test?'Submit now':'End'}</button></div>
+ <div class="prog"><i style="width:${S.i/S.qs.length*100}%"></i></div>
+ <div class="card"><div style="color:var(--ink2);font-size:13px;margin-bottom:4px">Question ${S.i+1} of ${S.qs.length}</div><div class="q">${esc(q.q)}</div>
+ <div id="opts">${q.opts.map((o,i)=>`<button class="opt" data-i="${i}"><span class="l">${'ABCD'[i]}</span><span>${esc(o.t)}</span></button>`).join('')}</div>
+ <div id="fb"></div><div class="row"><button class="btn" id="next" disabled>${S.i==S.qs.length-1?'Finish':'Next'} →</button></div></div>`;
+ const opts=[...document.querySelectorAll('.opt')];
+ const mark=()=>{opts.forEach((b,i)=>{b.disabled=!test;b.classList.toggle('sel',test&&a!==undefined&&a===i)});$('#next').disabled=a===undefined};
+ opts.forEach((b,i)=>b.onclick=()=>pick(i));
+ $('#next').onclick=next;$('#quit').onclick=()=>{if(!test||confirm('Submit the test now? Unanswered questions score zero.'))finish()};
+ if(a!==undefined&&!test){reveal(a)}else if(test){opts.forEach(b=>b.disabled=false);mark();opts.forEach((b,i)=>b.disabled=false)}
+}
+function pick(i){
+ const q=S.qs[S.i],test=S.mode=='test';
+ S.ans[S.i]=i;
+ if(test){document.querySelectorAll('.opt').forEach((b,j)=>b.classList.toggle('sel',j==i));$('#next').disabled=false;return}
+ record(q,q.opts[i].ok);reveal(i);
+}
+function reveal(i){
+ const q=S.qs[S.i];
+ document.querySelectorAll('.opt').forEach((b,j)=>{b.disabled=true;if(q.opts[j].ok)b.classList.add('right');else if(j==i)b.classList.add('wrong')});
+ const ok=q.opts[i].ok;
+ $('#fb').innerHTML=`<div class="fb ${ok?'':'no'}"><h3>${ok?'✔ Correct':'✘ Not quite'}${ok?'':' — the answer is '+'ABCD'[q.opts.findIndex(o=>o.ok)]}</h3><div>${q.x}</div>${q.ev.length?`<div class="ev">📚 See in the Evidence Finder: ${q.ev.map(e=>`<a href="../evidence.html#ev-${e.id}" target="_blank" rel="noopener">${esc(e.t)}</a>`).join('')}</div>`:''}</div>`;
+ $('#next').disabled=false;$('#next').focus();
+}
+function record(q,ok){const d=store.get();const r=d.q[q.id]||{n:0,c:0,l:false};r.n++;if(ok)r.c++;r.l=ok;d.q[q.id]=r;store.set(d)}
+function next(){S.i<S.qs.length-1?(S.i++,show()):finish()}
+function finish(){
+ if(S.done)return;S.done=true;clearInterval(S.tm);
+ const test=S.mode=='test';
+ if(test)S.qs.forEach((q,i)=>{if(S.ans[i]!==undefined)record(q,q.opts[S.ans[i]].ok)});
+ const tried=S.qs.map((q,i)=>S.ans[i]!==undefined);
+ const right=S.qs.map((q,i)=>tried[i]&&q.opts[S.ans[i]].ok);
+ const sc=right.filter(Boolean).length,n=S.qs.length,pct=Math.round(sc/n*100);
+ const by={};S.qs.forEach((q,i)=>{(by[q.tp]=by[q.tp]||{c:0,n:0});by[q.tp].n++;if(right[i])by[q.tp].c++});
+ const wrongIds=S.qs.filter((q,i)=>tried[i]&&!right[i]).map(q=>q.id);
+ const secs=test?30*60-S.left:Math.round((Date.now()-S.t0)/1000);
+ const msg=pct>=80?'Excellent work!':pct>=60?'Solid. Keep going.':'Good start. Review the explanations below.';
+ app.innerHTML=`<div style="height:14px"></div><div class="card score"><div class="ring" style="--p:${pct}"><span>${pct}%</span></div><div><h2 style="margin:0">${sc} / ${n} correct</h2><div style="color:var(--ink2)">${msg} Time: ${fmt(secs)}${tried.includes(false)?` · ${tried.filter(x=>!x).length} unanswered`:''}</div></div></div>
+ <h2>Score by topic</h2><div class="tgrid">${Object.keys(by).map(t=>`<div class="topic" ${col(t)}><b>${TOPICS[t][1]} ${TOPICS[t][0]}</b><small>${by[t].c} / ${by[t].n}</small><div class="bar"><i style="width:${by[t].c/by[t].n*100}%"></i></div></div>`).join('')}</div>
+ <div class="row"><button class="btn" id="again">Back to start</button>${wrongIds.length?`<button class="btn alt" id="rw">Retry the ${wrongIds.length} I got wrong</button>`:''}</div>
+ <h2>Review</h2>${S.qs.map((q,i)=>`<details class="rv ${right[i]?'ok':'no'}"><summary>${i+1}. ${esc(q.q)}</summary><div class="b">${q.opts.map((o,j)=>`<div style="padding:2px 0${o.ok?';color:var(--ok);font-weight:700':S.ans[i]===j?';color:var(--bad)':''}">${'ABCD'[j]}. ${esc(o.t)}${o.ok?' ✔':S.ans[i]===j?' ✘ (your answer)':''}</div>`).join('')}<p style="margin-top:6px">${q.x}</p>${q.ev.map(e=>`<a href="../evidence.html#ev-${e.id}" target="_blank" rel="noopener" style="font-size:13px;margin-right:8px">📚 ${esc(e.t)}</a>`).join('')}</div></details>`).join('')}`;
+ $('#again').onclick=home;if($('#rw'))$('#rw').onclick=()=>start('practice',99,wrongIds);
+}
+document.addEventListener('keydown',e=>{if(!S||S.done||!$('#opts'))return;
+ const k=e.key.toUpperCase(),i='ABCD'.indexOf(k)>=0?'ABCD'.indexOf(k):'1234'.indexOf(k);
+ if(i>=0&&i<4&&(S.mode=='test'||S.ans[S.i]===undefined)){pick(i);return}
+ if((e.key=='Enter'||e.key=='ArrowRight')&&!$('#next').disabled)next()});
+home();
+</script>
+</body>
+</html>
