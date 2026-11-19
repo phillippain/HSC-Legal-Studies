@@ -1,0 +1,87 @@
+<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><base target="_top"><title>Bringing it together</title><style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:wght@500;600;700&display=swap');
+*{box-sizing:border-box;margin:0}
+:root{--ink:#1E2A2F;--paper:#FBF8F3;--line:#d9d2c5;--c:#1B5E63;--t:#E3EFEF}
+body{font:14.5px/1.55 Inter,Segoe UI,system-ui,sans-serif;color:var(--ink);background:transparent;padding:10px}
+h1,h2,h3{font-family:Lora,Georgia,serif;line-height:1.2}
+a{color:inherit}
+.nav{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+.nav a{border:1.5px solid var(--c);color:var(--c);background:#fff;border-radius:999px;padding:4px 11px;font-weight:600;font-size:13px;text-decoration:none}
+.nav a.on{background:var(--c);color:#fff}
+.hero{background:var(--c);color:#fff;border-radius:6px;padding:18px 20px;display:flex;gap:16px;align-items:center}
+.hero h1{font-size:28px}.hero p{opacity:.95;margin-top:4px}
+.plate{background:#fff;border-radius:6px;padding:4px 6px 0;text-align:center;flex:none}
+.plate b{display:block;font:700 18px Lora,serif;color:var(--c);margin-top:-6px;padding-bottom:3px}
+.box{background:#fff;border:1px solid var(--line);border-top:4px solid var(--c);padding:12px 14px;margin-top:12px}
+.box h3{font-size:16px;color:var(--c);margin-bottom:6px}
+.box ul{padding-left:20px}
+.learn{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media(max-width:620px){.learn{grid-template-columns:1fr}}
+.ican li{list-style:none;margin-left:-18px}
+.ican label{cursor:pointer}
+.terms{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:8px}
+.term{background:var(--t);border-left:4px solid var(--c);padding:8px 10px}
+.term b{font-family:Lora,serif;color:var(--c)}
+.sub{margin-top:26px}
+.sub>h2{display:flex;align-items:center;gap:10px;font-size:21px}
+.door{flex:none;background:var(--c);color:#fff;border-radius:18px 18px 3px 3px;min-width:44px;height:34px;display:grid;place-items:center;font:700 14px Inter;padding:0 8px}
+.frame{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:10px;margin-top:10px}
+.frame>div{background:#fff;border:1px solid var(--line);border-top:3px solid var(--c);padding:9px 11px}
+.frame small{display:block;font:700 11px Inter;letter-spacing:.06em;text-transform:uppercase;color:var(--c);margin-bottom:3px}
+.vis{margin-top:14px;background:var(--paper);border:1px solid var(--line);padding:12px 14px}
+.vis h3{font-size:15px;margin-bottom:8px}
+.vis .src{font-size:12px;color:#5c6a70;margin-top:6px}
+.seven{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px}
+.seven div{background:#fff;border:1px solid var(--line);border-top:3px solid var(--c);padding:7px 9px;font-size:13px}
+.seven b{display:block;font-family:Lora,serif;color:var(--c)}
+.tl{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:0;position:relative}
+.tl div{padding:8px 8px 8px 10px;border-left:3px solid var(--c);font-size:13px}
+.tl b.y{font:700 18px Lora,serif;color:var(--c);display:block}
+.flow{display:flex;flex-direction:column;gap:0}
+.flow div{background:#fff;border:1px solid var(--line);border-left:5px solid var(--c);padding:7px 12px;font-weight:600}
+.flow i{display:block;text-align:center;color:var(--c);line-height:1;font-style:normal;font-size:18px}
+.flow div.brk{background:#fde6e7;border-left-color:#A3262A;color:#A3262A}
+.note{margin-top:8px;font-size:13.5px}
+.split{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.split>div{background:#fff;border:1px solid var(--line);border-top:3px solid var(--c);padding:8px 12px}
+.split h4{font-family:Lora,serif;color:var(--c);margin-bottom:4px}
+.mid{grid-column:1/-1;text-align:center;background:var(--t);padding:6px;font-weight:600}
+.ladder .r{display:flex;align-items:center;gap:8px;margin:4px 0}
+.ladder .bar{background:var(--c);color:#fff;padding:6px 10px;font-weight:600;font-size:13px;border-radius:3px 12px 12px 3px}
+.ladder small{color:#5c6a70}
+.case{margin-top:14px;background:#fff;border:1px solid var(--line);border-top:4px solid var(--c);padding:12px 14px}
+.case .k{display:inline-block;background:var(--c);color:#fff;font:700 11px Inter;letter-spacing:.06em;padding:2px 8px;transform:skewX(-8deg)}
+.case h3{font-size:18px;margin:6px 0 0}.case .s{color:#5c6a70;margin-bottom:6px}
+.case .stat{float:right;margin:0 0 6px 10px;max-width:210px;background:var(--t);border-left:4px solid var(--c);padding:6px 10px}
+.case .stat b{font:700 26px Lora,serif;color:var(--c);display:block}
+.case ul{padding-left:20px;margin:6px 0}
+.law{font-size:13px;background:var(--paper);padding:5px 9px;margin:6px 0}
+.how{background:var(--t);padding:8px 11px;margin-top:8px}
+.btns{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+.btn,button.rv{font:600 13px Inter;border:1.5px solid var(--c);color:var(--c);background:#fff;border-radius:4px;padding:4px 10px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn.f{background:var(--c);color:#fff}
+.chk{margin-top:14px;border:1px dashed var(--c);padding:10px 12px;background:#fff}
+.chk h3{font-size:15px;color:var(--c);margin-bottom:6px}
+.qa{margin:8px 0}.qa .a{display:none;background:#E4EFE6;border-left:4px solid #2E6B3A;padding:6px 10px;margin-top:5px}
+.qa.open .a{display:block}
+table.t{border-collapse:collapse;width:100%;font-size:13.5px;margin:6px 0}
+table.t th{background:var(--c);color:#fff;text-align:left;padding:5px 8px}
+table.t td{border:1px solid var(--line);padding:5px 8px;vertical-align:top}
+td .ans{display:none;color:#1E6B4F;font-weight:600}
+td.open .ans{display:inline}td.open button{display:none}
+.card{background:#fff;border:1px solid var(--line);border-top:4px solid var(--c);padding:12px 14px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:12px;margin-top:14px}
+.cards .card{display:block;text-decoration:none}
+.cards h3{font-size:18px;color:var(--c)}
+.q{margin:10px 0}.q .o{display:block;width:100%;text-align:left;background:#fff;border:1.5px solid var(--line);padding:6px 10px;margin:4px 0;cursor:pointer;font:inherit}
+.q .o.right{background:#E4EFE6;border-color:#2E6B3A}.q .o.wrong{background:#fde6e7;border-color:#A3262A}
+.teeacl{margin-top:8px}.teeacl div{display:flex;gap:10px;margin:6px 0}
+.teeacl b.l{flex:none;width:30px;height:30px;border-radius:15px 15px 3px 3px;color:#fff;display:grid;place-items:center;font-family:Lora,serif}
+.ev{columns:2;column-gap:20px;font-size:13.5px}
+@media(max-width:620px){.ev{columns:1}}
+.ev h4{break-after:avoid;margin-top:8px;color:var(--c)}
+:root{--c:#2F4858;--t:#E3E9EC}</style></head><body><div class="nav"><a href="https://sites.google.com/education.nsw.gov.au/hsc-legal-studies-at-sscbwb/shelter/1-the-nature-of-shelter" target="_top">⌂ Hub</a><a class="" href="https://sites.google.com/education.nsw.gov.au/hsc-legal-studies-at-sscbwb/shelter/1-the-nature-of-shelter/definition-of-shelter" target="_top">1. Definition of shelter</a><a class="" href="https://sites.google.com/education.nsw.gov.au/hsc-legal-studies-at-sscbwb/shelter/1-the-nature-of-shelter/the-right-to-shelter" target="_top">2. The right to shelter</a><a class="" href="https://sites.google.com/education.nsw.gov.au/hsc-legal-studies-at-sscbwb/shelter/1-the-nature-of-shelter/the-obligation-to-provide-shelter" target="_top">3. The obligation to provide shelter</a><a class="" href="https://sites.google.com/education.nsw.gov.au/hsc-legal-studies-at-sscbwb/shelter/1-the-nature-of-shelter/types-of-shelter" target="_top">4. Types of shelter</a><a class="on" href="https://sites.google.com/education.nsw.gov.au/hsc-legal-studies-at-sscbwb/shelter/1-the-nature-of-shelter/bringing-it-together" target="_top">5. Bringing it together</a></div><div class="hero"><div class="plate"><svg viewBox="0 0 48 44" width="46" height="42" aria-hidden="true"><path d="M24 2 3 20h6v22h30V20h6z" fill="#2F4858"/><path d="M19 42V28a5 5 0 0 1 10 0v14z" fill="#fff"/></svg><b>5</b></div><div><h1>Bringing it together</h1><p>A scenario, a model paragraph, your evidence and six questions.</p></div></div><div class="box"><h3>Worked example: Amira</h3><p>Amira, 19, paid weekly for a room in a share house where the owner also lived. The owner sold the house and gave her five days to leave. She is now staying on a friend's couch.</p><table class="t"><tr><td><b>What type of shelter did she have?</b></td><td>A room as a lodger. She had no lease and no exclusive possession.</td></tr><tr><td><b>Which law applied?</b></td><td>Not the <i>Residential Tenancies Act 2010</i> (NSW). Only her agreement with the owner.</td></tr><tr><td><b>Is she homeless now?</b></td><td>Yes, under the ABS definition: no secure tenure and no control over the space.</td></tr><tr><td><b>Does she have a right to shelter she can enforce?</b></td><td>No. ICESCR art 11 is not part of Australian law.</td></tr><tr><td><b>Who has an obligation to help?</b></td><td>NSW (Homes NSW, homelessness services); the Commonwealth through income support.</td></tr></table></div><div class="chk"><h3>🔑 Your turn: Dev and Priya</h3><p>Dev and Priya rent a two-bedroom flat with their three children. Their lease has ended and they are on a periodic agreement. Rent takes 55% of their income. The landlord wants them out so he can raise the rent for new tenants.</p><table class="t"><tr><td><b>What type of shelter do they have?</b></td><td><button class="rv">Show</button><span class="ans">A private rental; they are tenants under a periodic agreement.</span></td></tr><tr><td><b>Which law applies?</b></td><td><button class="rv">Show</button><span class="ans">The <i>Residential Tenancies Act 2010</i> (NSW), as amended in 2024.</span></td></tr><tr><td><b>Which elements of adequate housing are at risk?</b></td><td><button class="rv">Show</button><span class="ans">Affordability (55% of income), security of tenure, and habitability (five people in two bedrooms).</span></td></tr><tr><td><b>Can the landlord end the tenancy for that reason?</b></td><td><button class="rv">Show</button><span class="ans">No. Since 19 May 2025 he needs a ground set out in the Act; wanting a higher rent is not one.</span></td></tr><tr><td><b>Which government is responsible for each problem?</b></td><td><button class="rv">Show</button><span class="ans">NSW for tenancy law; the Commonwealth for Rent Assistance and tax settings that affect rents.</span></td></tr></table></div><div class="box"><h3>Model paragraph (TEEACL)</h3><p><b>Explain why the right to shelter is not provided for in Australian law.</b></p><div class="teeacl"><div><b class="l" style="background:#1F3864">T</b><div><small><b>Topic</b></small><br>Although Australia has accepted the right to adequate housing in international law, the right is not provided for in Australian law because Parliament has never enacted it.</div></div><div><b class="l" style="background:#0F6E6E">E</b><div><small><b>Explain</b></small><br>Australia ratified the ICESCR in 1975, and art 11(1) recognises everyone's right to an adequate standard of living, including housing. However, Australia is a dualist system, so a treaty has no effect in domestic courts until it is put into an Act.</div></div><div><b class="l" style="background:#0F6E6E">E</b><div><small><b>Evidence</b></small><br>No Commonwealth or NSW Act does this, there is no right to housing in the Constitution, and the <i>Housing Act 2001</i> (NSW) states only objects for public housing.</div></div><div><b class="l" style="background:#6A3D6E">A</b><div><small><b>Analysis</b></small><br>As a result the right is not justiciable: 67,721 households were waiting for social housing in NSW in October 2025 and none could ask a court for a home. <i>Grootboom</i> shows this is a choice, because South Africa's Constitution lets a court test its government's housing programme.</div></div><div><b class="l" style="background:#A8481F">C</b><div><small><b>Counter</b></small><br>It can be argued, as in <i>Tanudjaja</i>, that housing policy involves budgets that elected governments should control.</div></div><div><b class="l" style="background:#A3262A">L</b><div><small><b>Link</b></small><br>Even so, without an enforceable right the people with the greatest need have the least legal protection, which limits how far the law can achieve justice in the provision of shelter.</div></div></div></div><div class="box"><h3>Your evidence list (LCMID)</h3><div class="ev"><h4>Legislation</h4><ul><li><i>Real Property Act 1900</i> (NSW) s 42</li><li><i>Residential Tenancies Act 2010</i> (NSW); <i>Residential Tenancies Amendment Act 2024</i> (NSW)</li><li><i>Housing Act 2001</i> (NSW)</li><li><i>Housing Australia Future Fund Act 2023</i> (Cth)</li><li>Constitution ss 51, 96</li></ul><h4>Cases</h4><ul><li><i>Government of the Republic of South Africa v Grootboom</i> (2000)</li><li><i>Tanudjaja v Canada (Attorney General)</i> 2014 ONCA 852</li></ul><h4>Media</h4><ul><li>ABC News, 'Home owners' welfare state' (13 August 2025)</li><li>ABC News, 'Shelter or asset?' analysis (14 October 2026)</li><li><i>SMH</i>, 'Priced out of parenthood' (5 November 2026)</li></ul><h4>International</h4><ul><li>UDHR art 25(1) (1948)</li><li>ICESCR arts 2(1), 11(1) (1966)</li><li>CESCR General Comment No 4 (1991)</li><li>UN CESCR review of Australia (17 February 2026)</li></ul><h4>Documents</h4><ul><li>ABS Census 2021: 122,494 people homeless</li><li>ANAO (July 2026): 1,432 of 40,000 HAFF homes</li><li>National Housing Accord: 307,635 homes to March 2026</li></ul></div></div><div class="chk"><h3>✅ Six questions (click an answer)</h3><div class="q" data-a="1"><p><b>1. Which instrument first recognised housing as part of the right to an adequate standard of living?</b></p><button class="o">A. The International Covenant on Civil and Political Rights</button><button class="o">B. The Universal Declaration of Human Rights</button><button class="o">C. The Convention on the Rights of the Child</button><button class="o">D. The Refugee Convention</button></div><div class="q" data-a="1"><p><b>2. Australia has ratified the ICESCR. Why can a person not rely on art 11 in a NSW court?</b></p><button class="o">A. Australia has a monist legal system</button><button class="o">B. The treaty has not been enacted into domestic law</button><button class="o">C. The ICESCR applies only to developing countries</button><button class="o">D. The High Court has declared the treaty invalid</button></div><div class="q" data-a="1"><p><b>3. Which statement best describes 'progressive realisation'?</b></p><button class="o">A. Rights must be delivered in full immediately</button><button class="o">B. A state must move towards the right over time, using available resources</button><button class="o">C. Only wealthy states are bound by the treaty</button><button class="o">D. Courts decide how much a government must spend</button></div><div class="q" data-a="2"><p><b>4. Which of the following is mainly the responsibility of the NSW Government?</b></p><button class="o">A. Commonwealth Rent Assistance</button><button class="o">B. Capital gains tax on housing</button><button class="o">C. Residential tenancy law</button><button class="o">D. The Housing Australia Future Fund</button></div><div class="q" data-a="2"><p><b>5. Jo pays weekly for a room in a house where the owner also lives. Which statement best describes Jo's legal position?</b></p><button class="o">A. Jo is a tenant under the Residential Tenancies Act 2010 (NSW)</button><button class="o">B. Jo has indefeasible title to the room</button><button class="o">C. Jo is a lodger and is largely outside the Residential Tenancies Act 2010 (NSW)</button><button class="o">D. Jo is protected by the Aged Care Act 2024 (Cth)</button></div><div class="q" data-a="1"><p><b>6. Which statement about Grootboom is correct?</b></p><button class="o">A. The court ordered the government to give each applicant a house</button><button class="o">B. The court held the housing programme unreasonable because it did nothing for people in desperate need</button><button class="o">C. The claim was struck out because housing is not justiciable</button><button class="o">D. It is a decision of the High Court of Australia</button></div></div><div class="btns" style="margin-top:20px"><a class=btn href=https://sites.google.com/education.nsw.gov.au/hsc-legal-studies-at-sscbwb/shelter/1-the-nature-of-shelter/types-of-shelter target=_top>← Back</a><a class="btn f" href="https://sites.google.com/education.nsw.gov.au/hsc-legal-studies-at-sscbwb/shelter/1-the-nature-of-shelter" target="_top">Back to the hub</a></div><script>
+document.querySelectorAll('.qa>button').forEach(b=>b.onclick=()=>b.parentNode.classList.toggle('open'));
+document.querySelectorAll('td button.rv').forEach(b=>b.onclick=()=>b.parentNode.classList.add('open'));
+document.querySelectorAll('.q').forEach(q=>{const a=+q.dataset.a;q.querySelectorAll('.o').forEach((o,i)=>o.onclick=()=>{q.querySelectorAll('.o').forEach((x,j)=>{x.classList.toggle('right',j==a);x.classList.toggle('wrong',j==i&&i!=a)})})});
+</script></body></html>
