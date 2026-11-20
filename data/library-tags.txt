@@ -848,3 +848,59 @@ Shelter/Evidence Sheets/Shelter - Factory-Built Housing Productivity Evidence Su
 Shelter/Evidence Sheets/Shelter - NSW Pause on Victorian Underquoting Laws Model Evidence Summary.pdf | shel.2.1
 Shelter/Evidence Sheets/Shelter - Orchard Hills Metro Rezoning Evidence Summary.pdf | shel.3.1, shel.2.8
 Shelter/Evidence Sheets/Shelter - Strata Moving-In Admin Fee Evidence Summary.pdf | shel.2.4, shel.2.6
+Cases/Year 11/Year 11 - AVJ21 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2285 - Case Summary.pdf | hr.3.1, hr.2.11
+Cases/Human Rights/AVJ21 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2285 - Case Summary.pdf | hr.3.1, hr.2.11
+Cases/Human Rights/BWH26 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2280 - Case Summary.pdf | hr.3.1, hr.2.11
+Cases/Year 11/Year 11 - BWH26 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2280 - Case Summary.pdf | hr.3.1, hr.2.11
+Cases/Year 11/Year 11 - Chen v Minister for Immigration and Citizenship [2026] FedCFamC2G 2278 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Year 11/Year 11 - DTI21 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2272 - Case Summary.pdf | hr.3.1, hr.2.11
+Cases/Human Rights/DTI21 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2272 - Case Summary.pdf | hr.3.1, hr.2.11
+Cases/Year 11/Year 11 - DYO21 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2279 - Case Summary.pdf | dis.3.4, dis.3.2
+Cases/Human Rights/LAO25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2242 - Case Summary.pdf | hr.3.1, hr.2.11
+Cases/Year 11/Year 11 - LAO25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2242 - Case Summary.pdf | hr.3.1, hr.2.11
+Cases/Human Rights/LGC24 v Assistant Minister for Citizenship, Customs and Multicultural Affairs [2026] FCA 1748 - Case Summary.pdf | hr.3.1, hr.2.11
+Cases/Year 11/Year 11 - LGC24 v Assistant Minister for Citizenship, Customs and Multicultural Affairs [2026] FCA 1748 - Case Summary.pdf | hr.3.1, hr.2.11
+Cases/Year 11/Year 11 - DJI20 v Minister for Immigration and Citizenship [2026] FCA 1755 - Case Summary.pdf | dis.3.4, inv.4.1
+Cases/Year 11/Year 11 - Paumolevuka v Federal Circuit and Family Court of Australia [2026] FCA 1767 - Case Summary.pdf | dis.3.4, inv.1.6
+Cases/Year 11/Year 11 - Rani v Minister for Immigration and Citizenship [2026] FCA 1769 - Case Summary.pdf | dis.3.4, inv.4.1
+Cases/Year 11/Year 11 - Chernyi v Commissioner of Police [2026] NSWCATAD 354 - Case Summary.pdf | hr.2.9, hr.2.11
+Cases/Human Rights/Chernyi v Commissioner of Police [2026] NSWCATAD 354 - Case Summary.pdf | hr.2.9, hr.2.11
+Cases/Year 11/Year 11 - Margarit & Ravi (No 3) [2026] FedCFamC1F 678 - Case Summary.pdf | fam.2.2, fam.2.5
+Cases/Family/Margarit & Ravi (No 3) [2026] FedCFamC1F 678 - Case Summary.pdf | fam.2.2, fam.2.5
+Cases/Year 11/Year 11 - Clay & Nagel (No 2) [2026] FedCFamC1F 688 - Case Summary.pdf | fam.2.2, fam.2.5
+Cases/Family/Clay & Nagel (No 2) [2026] FedCFamC1F 688 - Case Summary.pdf | fam.2.2, fam.2.5
+Cases/Year 11/Year 11 - Flipson & Ceelen [2026] FedCFamC1F 621 - Case Summary.pdf | fam.2.3, fam.1.4
+Cases/Family/Flipson & Ceelen [2026] FedCFamC1F 621 - Case Summary.pdf | fam.2.3, fam.1.4
+Cases/Family/Genesalio & Genesalio (No 10) [2026] FedCFamC1F 682 - Case Summary.pdf | fam.2.3, fam.2.5
+Cases/Year 11/Year 11 - Genesalio & Genesalio (No 10) [2026] FedCFamC1F 682 - Case Summary.pdf | fam.2.3, fam.2.5
+Cases/Year 11/Year 11 - Haig & Zorner [2026] FedCFamC1F 660 - Case Summary.pdf | fam.2.2, fam.3.2
+Cases/Family/Haig & Zorner [2026] FedCFamC1F 660 - Case Summary.pdf | fam.2.2, fam.3.2
+Cases/Family/Holgersson & Holgersson [2026] FedCFamC1F 704 - Case Summary.pdf | fam.2.2, fam.2.4
+Cases/Year 11/Year 11 - Holgersson & Holgersson [2026] FedCFamC1F 704 - Case Summary.pdf | fam.2.2, fam.2.4
+Cases/Family/Messina & Geddies [2026] FedCFamC1F 669 - Case Summary.pdf | fam.1.4, fam.2.3
+Cases/Year 11/Year 11 - Messina & Geddies [2026] FedCFamC1F 669 - Case Summary.pdf | fam.1.4, fam.2.3
+Cases/Year 11/Year 11 - Basile & Villalba [2026] FedCFamC1F 684 - Case Summary.pdf | fam.2.2
+Cases/Family/Basile & Villalba [2026] FedCFamC1F 684 - Case Summary.pdf | fam.2.2
+Cases/Year 11/Year 11 - Nuri & Nuri (No 2) [2026] FedCFamC1F 692 - Case Summary.pdf | fam.2.2, fam.2.5
+Cases/Family/Nuri & Nuri (No 2) [2026] FedCFamC1F 692 - Case Summary.pdf | fam.2.2, fam.2.5
+Cases/Family/Parashara & Dipaka [2026] FedCFamC1F 699 - Case Summary.pdf | fam.1.3
+Cases/Year 11/Year 11 - Parashara & Dipaka [2026] FedCFamC1F 699 - Case Summary.pdf | fam.1.3
+Cases/Year 11/Year 11 - Singh v Minister for Immigration and Citizenship [2026] FedCFamC2G 2269 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Year 11/Year 11 - Mete & Chares [2026] FedCFamC1F 655 - Case Summary.pdf | fam.2.2, fam.3.2
+Cases/Family/Mete & Chares [2026] FedCFamC1F 655 - Case Summary.pdf | fam.2.2, fam.3.2
+Cases/Year 11/Year 11 - Minami & Egawa (No 2) [2026] FedCFamC1F 625 - Case Summary.pdf | fam.2.3
+Cases/Family/Minami & Egawa (No 2) [2026] FedCFamC1F 625 - Case Summary.pdf | fam.2.3
+Cases/Year 11/Year 11 - Yonkers & Ramires [2026] FedCFamC1F 717 - Case Summary.pdf | fam.2.3
+Cases/Family/Yonkers & Ramires [2026] FedCFamC1F 717 - Case Summary.pdf | fam.2.3
+Cases/Crime/State of New South Wales v Warren (Preliminary) [2026] NSWSC 1471 - Case Summary.pdf | crime.4.8
+Cases/Family/Wojcik & Wojcik (No 4) [2026] FedCFamC1F 707 - Case Summary.pdf | fam.2.3, fam.2.5
+Cases/Year 11/Year 11 - Wojcik & Wojcik (No 4) [2026] FedCFamC1F 707 - Case Summary.pdf | fam.2.3, fam.2.5
+Cases/Year 11/Year 11 - Gratory Pty Ltd v Pastrello (No 2) [2026] NSWSC 1485 - Case Summary.pdf | dis.2.1, dis.2.7
+Cases/Year 11/Year 11 - Polycarpe & Verissimus (No 2) [2026] FedCFamC1F 715 - Case Summary.pdf | fam.2.3
+Cases/Family/Polycarpe & Verissimus (No 2) [2026] FedCFamC1F 715 - Case Summary.pdf | fam.2.3
+Cases/Human Rights/Secretary, Ministry of Health v Donald-Stanton [2026] NSWCATAP 372 - Case Summary.pdf | hr.2.9, hr.2.11
+Cases/Year 11/Year 11 - Secretary, Ministry of Health v Donald-Stanton [2026] NSWCATAP 372 - Case Summary.pdf | hr.2.9, hr.2.11
+Cases/Family/Ulises & Alberta [2026] FedCFamC1F 673 - Case Summary.pdf | fam.2.4, fam.2.2
+Cases/Year 11/Year 11 - Ulises & Alberta [2026] FedCFamC1F 673 - Case Summary.pdf | fam.2.4, fam.2.2
+Cases/Year 11/Year 11 - Zahid v Minister for Immigration and Citizenship [2026] FedCFamC2G 2273 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Year 11/Year 11 - State of New South Wales v Warren (Preliminary) [2026] NSWSC 1471 - Case Summary.pdf | crime.4.8
