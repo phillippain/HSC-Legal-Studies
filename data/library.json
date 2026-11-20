@@ -5097,6 +5097,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Alka v Minister for Immigration and Citizenship [2026] FCA 1751 - Case Summary.pdf",
+   "name": "Year 11 - Alka v Minister for Immigration and Citizenship [2026] FCA 1751 - Case Summary",
+   "file": "Year 11 - Alka v Minister for Immigration and Citizenship [2026] FCA 1751 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 272747,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "inv.4.1"
+   ],
+   "dupe": "year11alkavministerforimmigrationandcitizenship2026fca1751casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Antakirinja Matu-Yankunytjatjara Aboriginal Corporation RNTBC v State of South Australia [2026] FCA 1663 - Case Summary.pdf",
    "name": "Year 11 - Antakirinja Matu-Yankunytjatjara Aboriginal Corporation RNTBC v State of South Australia [2026] FCA 1663 - Case Summary",
    "file": "Year 11 - Antakirinja Matu-Yankunytjatjara Aboriginal Corporation RNTBC v State of South Australia [2026] FCA 1663 - Case Summary.pdf",
@@ -5181,6 +5198,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - BLS19 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2288 - Case Summary.pdf",
+   "name": "Year 11 - BLS19 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2288 - Case Summary",
+   "file": "Year 11 - BLS19 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2288 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 276704,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11bls19vministerforimmigrationandcitizenship2026fedcfamc2g2288casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - BWH26 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2280 - Case Summary.pdf",
    "name": "Year 11 - BWH26 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2280 - Case Summary",
    "file": "Year 11 - BWH26 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2280 - Case Summary.pdf",
@@ -5194,6 +5227,23 @@
     "hr.2.11"
    ],
    "dupe": "year11bwh26vministerforimmigrationandcitizenship2026fedcfamc2g2280casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Baig v Minister for Immigration and Citizenship [2026] FedCFamC2G 2266 - Case Summary.pdf",
+   "name": "Year 11 - Baig v Minister for Immigration and Citizenship [2026] FedCFamC2G 2266 - Case Summary",
+   "file": "Year 11 - Baig v Minister for Immigration and Citizenship [2026] FedCFamC2G 2266 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 274639,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11baigvministerforimmigrationandcitizenship2026fedcfamc2g2266casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5451,6 +5501,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - CHS22 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2290 - Case Summary.pdf",
+   "name": "Year 11 - CHS22 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2290 - Case Summary",
+   "file": "Year 11 - CHS22 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2290 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271987,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11chs22vministerforimmigrationandcitizenship2026fedcfamc2g2290casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - CXZ22 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2241 - Case Summary.pdf",
    "name": "Year 11 - CXZ22 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2241 - Case Summary",
    "file": "Year 11 - CXZ22 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2241 - Case Summary.pdf",
@@ -5464,6 +5530,23 @@
     "dis.3.1"
    ],
    "dupe": "year11cxz22vministerforimmigrationandcitizenship2026fedcfamc2g2241casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - CYX24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2265 - Case Summary.pdf",
+   "name": "Year 11 - CYX24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2265 - Case Summary",
+   "file": "Year 11 - CYX24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2265 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271144,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11cyx24vministerforimmigrationandcitizenship2026fedcfamc2g2265casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5636,6 +5719,23 @@
     "dis.1.7"
    ],
    "dupe": "year11chimmaleevr2026nswcca188casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Chinacalle v Minister for Immigration and Citizenship [2026] FCAFC 145 - Case Summary.pdf",
+   "name": "Year 11 - Chinacalle v Minister for Immigration and Citizenship [2026] FCAFC 145 - Case Summary",
+   "file": "Year 11 - Chinacalle v Minister for Immigration and Citizenship [2026] FCAFC 145 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 283440,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "inv.4.1"
+   ],
+   "dupe": "year11chinacallevministerforimmigrationandcitizenship2026fcafc145casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5826,6 +5926,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Datona Pty Ltd v Australian Tank Engineering Pty Ltd [2026] NSWDC 419 - Case Summary.pdf",
+   "name": "Year 11 - Datona Pty Ltd v Australian Tank Engineering Pty Ltd [2026] NSWDC 419 - Case Summary",
+   "file": "Year 11 - Datona Pty Ltd v Australian Tank Engineering Pty Ltd [2026] NSWDC 419 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 247325,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.3",
+    "dis.2.7"
+   ],
+   "dupe": "year11datonaptyltdvaustraliantankengineeringptyltd2026nswdc419casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Davers & Morley (No 2) [2026] FedCFamC2F 1250 - Case Summary.pdf",
    "name": "Year 11 - Davers & Morley (No 2) [2026] FedCFamC2F 1250 - Case Summary",
    "file": "Year 11 - Davers & Morley (No 2) [2026] FedCFamC2F 1250 - Case Summary.pdf",
@@ -5843,6 +5960,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Davis and Australian Securities and Investments Commission (Practice and procedure) [2026] ARTA 2754 - Case Summary.pdf",
+   "name": "Year 11 - Davis and Australian Securities and Investments Commission (Practice and procedure) [2026] ARTA 2754 - Case Summary",
+   "file": "Year 11 - Davis and Australian Securities and Investments Commission (Practice and procedure) [2026] ARTA 2754 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 275154,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11davisandaustraliansecuritiesandinvestmentscommissionpracticeandprocedure2026arta2754casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary.pdf",
    "name": "Year 11 - Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary",
    "file": "Year 11 - Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary.pdf",
@@ -5855,6 +5989,23 @@
     "dis.2.7"
    ],
    "dupe": "year11duanandrenno62026fedcfamc1f617casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Duong and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2759 - Case Summary.pdf",
+   "name": "Year 11 - Duong and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2759 - Case Summary",
+   "file": "Year 11 - Duong and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2759 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 273171,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11duongandministerforimmigrationandcitizenshipmigration2026arta2759casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5927,6 +6078,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - FFT19 v Minister for Immigration and Multicultural Affairs [2026] FCA 1760 - Case Summary.pdf",
+   "name": "Year 11 - FFT19 v Minister for Immigration and Multicultural Affairs [2026] FCA 1760 - Case Summary",
+   "file": "Year 11 - FFT19 v Minister for Immigration and Multicultural Affairs [2026] FCA 1760 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 277080,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11fft19vministerforimmigrationandmulticulturalaffairs2026fca1760casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Fhaolain & Fhaolain (No 2) [2026] FedCFamC1A 207 - Case Summary.pdf",
    "name": "Year 11 - Fhaolain & Fhaolain (No 2) [2026] FedCFamC1A 207 - Case Summary",
    "file": "Year 11 - Fhaolain & Fhaolain (No 2) [2026] FedCFamC1A 207 - Case Summary.pdf",
@@ -5977,6 +6145,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Foster v Minister for Immigration, Citizenship and Multicultural Affairs [2026] FCA 1750 - Case Summary.pdf",
+   "name": "Year 11 - Foster v Minister for Immigration, Citizenship and Multicultural Affairs [2026] FCA 1750 - Case Summary",
+   "file": "Year 11 - Foster v Minister for Immigration, Citizenship and Multicultural Affairs [2026] FCA 1750 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 275384,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11fostervministerforimmigrationcitizenshipandmulticulturalaffairs2026fca1750casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Funding Solved Pty Ltd v Aravanopoulos [2026] NSWSC 1440 - Case Summary.pdf",
    "name": "Year 11 - Funding Solved Pty Ltd v Aravanopoulos [2026] NSWSC 1440 - Case Summary",
    "file": "Year 11 - Funding Solved Pty Ltd v Aravanopoulos [2026] NSWSC 1440 - Case Summary.pdf",
@@ -5995,6 +6179,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - GGK25 & GGL25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2282 - Case Summary.pdf",
+   "name": "Year 11 - GGK25 & GGL25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2282 - Case Summary",
+   "file": "Year 11 - GGK25 & GGL25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2282 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 276797,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.11"
+   ],
+   "dupe": "year11ggk25ggl25vministerforimmigrationandcitizenship2026fedcfamc2g2282casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - GQN18 v Minister for Immigration and Citizenship [2026] FCA 1737 - Case Summary.pdf",
    "name": "Year 11 - GQN18 v Minister for Immigration and Citizenship [2026] FCA 1737 - Case Summary",
    "file": "Year 11 - GQN18 v Minister for Immigration and Citizenship [2026] FCA 1737 - Case Summary.pdf",
@@ -6008,6 +6209,23 @@
     "dis.3.1"
    ],
    "dupe": "year11gqn18vministerforimmigrationandcitizenship2026fca1737casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - GSD25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2275 - Case Summary.pdf",
+   "name": "Year 11 - GSD25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2275 - Case Summary",
+   "file": "Year 11 - GSD25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2275 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 274314,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.11"
+   ],
+   "dupe": "year11gsd25vministerforimmigrationandcitizenship2026fedcfamc2g2275casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6419,6 +6637,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Hunjan v Minister for Immigration and Citizenship [2026] FedCFamC2G 2281 - Case Summary.pdf",
+   "name": "Year 11 - Hunjan v Minister for Immigration and Citizenship [2026] FedCFamC2G 2281 - Case Summary",
+   "file": "Year 11 - Hunjan v Minister for Immigration and Citizenship [2026] FedCFamC2G 2281 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 280184,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11hunjanvministerforimmigrationandcitizenship2026fedcfamc2g2281casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Jacques [2026] FedCFamC1A 204 - Case Summary.pdf",
    "name": "Year 11 - Jacques [2026] FedCFamC1A 204 - Case Summary",
    "file": "Year 11 - Jacques [2026] FedCFamC1A 204 - Case Summary.pdf",
@@ -6432,6 +6666,22 @@
     "dis.2.8"
    ],
    "dupe": "year11jacques2026fedcfamc1a204casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Joshi v Minister for Immigration and Citizenship [2026] FedCFamC2G 2287 - Case Summary.pdf",
+   "name": "Year 11 - Joshi v Minister for Immigration and Citizenship [2026] FedCFamC2G 2287 - Case Summary",
+   "file": "Year 11 - Joshi v Minister for Immigration and Citizenship [2026] FedCFamC2G 2287 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 278731,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11joshivministerforimmigrationandcitizenship2026fedcfamc2g2287casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6499,6 +6749,23 @@
     "dis.2.5"
    ],
    "dupe": "year11kellyvnswlahc2026nswcatap214casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Khan v Minister for Immigration and Citizenship [2026] FCA 1768 - Case Summary.pdf",
+   "name": "Year 11 - Khan v Minister for Immigration and Citizenship [2026] FCA 1768 - Case Summary",
+   "file": "Year 11 - Khan v Minister for Immigration and Citizenship [2026] FCA 1768 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271043,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11khanvministerforimmigrationandcitizenship2026fca1768casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6670,6 +6937,22 @@
     "inv.3.2"
    ],
    "dupe": "year11mabovqueenslandno21992hca23casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Mackell v R [2026] NSWCCA 198 - Case Summary.pdf",
+   "name": "Year 11 - Mackell v R [2026] NSWCCA 198 - Case Summary",
+   "file": "Year 11 - Mackell v R [2026] NSWCCA 198 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271216,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.2.5"
+   ],
+   "dupe": "year11mackellvr2026nswcca198casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6928,6 +7211,40 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - NSW Aboriginal Land Council (Eleebana) v Minister [2026] NSWLEC 151 - Case Summary.pdf",
+   "name": "Year 11 - NSW Aboriginal Land Council (Eleebana) v Minister [2026] NSWLEC 151 - Case Summary",
+   "file": "Year 11 - NSW Aboriginal Land Council (Eleebana) v Minister [2026] NSWLEC 151 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 280704,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.2.9",
+    "hr.2.11"
+   ],
+   "dupe": "year11nswaboriginallandcouncileleebanavminister2026nswlec151casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Ngo v Minister for Immigration and Citizenship [2026] FCA 1758 - Case Summary.pdf",
+   "name": "Year 11 - Ngo v Minister for Immigration and Citizenship [2026] FCA 1758 - Case Summary",
+   "file": "Year 11 - Ngo v Minister for Immigration and Citizenship [2026] FCA 1758 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 269365,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.8"
+   ],
+   "dupe": "year11ngovministerforimmigrationandcitizenship2026fca1758casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Northwood & Fowler (No 2) [2026] FedCFamC2F 1198 - Case Summary.pdf",
    "name": "Year 11 - Northwood & Fowler (No 2) [2026] FedCFamC2F 1198 - Case Summary",
    "file": "Year 11 - Northwood & Fowler (No 2) [2026] FedCFamC2F 1198 - Case Summary.pdf",
@@ -7166,6 +7483,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - QFPD and Secretary, Department of Social Services (Social security second review) [2026] ARTA 2756 - Case Summary.pdf",
+   "name": "Year 11 - QFPD and Secretary, Department of Social Services (Social security second review) [2026] ARTA 2756 - Case Summary",
+   "file": "Year 11 - QFPD and Secretary, Department of Social Services (Social security second review) [2026] ARTA 2756 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 273765,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.2"
+   ],
+   "dupe": "year11qfpdandsecretarydepartmentofsocialservicessocialsecuritysecondreview2026arta2756casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - R v Binge [2026] NSWDC 409 - Case Summary.pdf",
    "name": "Year 11 - R v Binge [2026] NSWDC 409 - Case Summary",
    "file": "Year 11 - R v Binge [2026] NSWDC 409 - Case Summary.pdf",
@@ -7180,6 +7514,23 @@
     "dis.1.8"
    ],
    "dupe": "year11rvbinge2026nswdc409casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - R v Bobak (Sentence) [2026] NSWSC 1501 - Case Summary.pdf",
+   "name": "Year 11 - R v Bobak (Sentence) [2026] NSWSC 1501 - Case Summary",
+   "file": "Year 11 - R v Bobak (Sentence) [2026] NSWSC 1501 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 270133,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.1"
+   ],
+   "dupe": "year11rvbobaksentence2026nswsc1501casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7862,6 +8213,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Shaik v Minister for Immigration and Citizenship (No 2) [2026] FedCFamC2G 2284 - Case Summary.pdf",
+   "name": "Year 11 - Shaik v Minister for Immigration and Citizenship (No 2) [2026] FedCFamC2G 2284 - Case Summary",
+   "file": "Year 11 - Shaik v Minister for Immigration and Citizenship (No 2) [2026] FedCFamC2G 2284 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 283524,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11shaikvministerforimmigrationandcitizenshipno22026fedcfamc2g2284casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary.pdf",
    "name": "Year 11 - Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary",
    "file": "Year 11 - Silvestre and Meadow [2026] FedCFamC1F 642 - Case Summary.pdf",
@@ -8411,6 +8778,23 @@
     "inv.1.7"
    ],
    "dupe": "year11woolmingtonvdpp1935ac462casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - YTWB and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2753 - Case Summary.pdf",
+   "name": "Year 11 - YTWB and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2753 - Case Summary",
+   "file": "Year 11 - YTWB and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2753 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 273847,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11ytwbandministerforimmigrationandcitizenshipmigration2026arta2753casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -11208,6 +11592,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Human Rights/GGK25 & GGL25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2282 - Case Summary.pdf",
+   "name": "GGK25 & GGL25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2282 - Case Summary",
+   "file": "GGK25 & GGL25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2282 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 294734,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.11"
+   ],
+   "dupe": "ggk25ggl25vministerforimmigrationandcitizenship2026fedcfamc2g2282casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Human Rights/GQN18 v Minister for Immigration and Citizenship [2026] FCA 1737 - Case Summary.pdf",
    "name": "GQN18 v Minister for Immigration and Citizenship [2026] FCA 1737 - Case Summary",
    "file": "GQN18 v Minister for Immigration and Citizenship [2026] FCA 1737 - Case Summary.pdf",
@@ -11221,6 +11622,23 @@
     "hr.2.11"
    ],
    "dupe": "gqn18vministerforimmigrationandcitizenship2026fca1737casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/GSD25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2275 - Case Summary.pdf",
+   "name": "GSD25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2275 - Case Summary",
+   "file": "GSD25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2275 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 293967,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.11"
+   ],
+   "dupe": "gsd25vministerforimmigrationandcitizenship2026fedcfamc2g2275casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -11405,6 +11823,23 @@
     "hr.2.11"
    ],
    "dupe": "molttervaboriginalhousingoffice2026nswcatad351casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/NSW Aboriginal Land Council (Eleebana) v Minister [2026] NSWLEC 151 - Case Summary.pdf",
+   "name": "NSW Aboriginal Land Council (Eleebana) v Minister [2026] NSWLEC 151 - Case Summary",
+   "file": "NSW Aboriginal Land Council (Eleebana) v Minister [2026] NSWLEC 151 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 305628,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.2.9",
+    "hr.2.11"
+   ],
+   "dupe": "nswaboriginallandcouncileleebanavminister2026nswlec151casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -12365,6 +12800,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Mackell v R [2026] NSWCCA 198 - Case Summary.pdf",
+   "name": "Mackell v R [2026] NSWCCA 198 - Case Summary",
+   "file": "Mackell v R [2026] NSWCCA 198 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 295589,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.2.5"
+   ],
+   "dupe": "mackellvr2026nswcca198casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Magaming v The Queen [2013] HCA 40 - Case Summary.pdf",
    "name": "Magaming v The Queen [2013] HCA 40 - Case Summary",
    "file": "Magaming v The Queen [2013] HCA 40 - Case Summary.pdf",
@@ -12630,6 +13081,23 @@
     "crime.4.3"
    ],
    "dupe": "rvblair2026nswdc382evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Bobak (Sentence) [2026] NSWSC 1501 - Case Summary.pdf",
+   "name": "R v Bobak (Sentence) [2026] NSWSC 1501 - Case Summary",
+   "file": "R v Bobak (Sentence) [2026] NSWSC 1501 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 300876,
+   "mtime": 1795210174,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.1"
+   ],
+   "dupe": "rvbobaksentence2026nswsc1501casesummary",
    "copyOf": null,
    "primary": true
   },
