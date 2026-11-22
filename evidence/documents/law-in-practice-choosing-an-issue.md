@@ -6,8 +6,8 @@ citation: Year 11 reference note (from the former Preliminary notes), Part III, 
 date: 2026
 jurisdiction: Australia
 significance: Part III is not a topic but a method — pick an issue where the law is contested, then show what legal and non-legal responses have actually done about it.
-core: exp.4, chg.2.1, dis.3.2, dis.1.8, dis.2.8, inv.6.2
-support: exp.5, exp.5.5, exp.6, chg.1, chg.2, dis.3.3, hr.3.1
+core: chg.2.1, dis.3.2, dis.1.8, dis.2.8, inv.6.2
+support: chg.1, chg.2, dis.3.3, hr.3.1
 themes: exp.t.values, exp.t.justice
 criteria: society, rights, justice, responsiveness, accessibility
 related: law-in-practice-responses-and-effectiveness, law-reform-conditions-agencies-mechanisms

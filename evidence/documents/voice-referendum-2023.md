@@ -7,7 +7,7 @@ date: 2023-10-14
 jurisdiction: Commonwealth
 significance: A proposal that polled near 65% in late 2022 lost in every state once bipartisan support collapsed: 39.94% Yes nationally and no state carried.
 core: inv.5.5
-support: inv.5.1, inv.5.4, chg.1.1, chg.2.1, chg.2.2, chg.4.2, exp.5.2
+support: inv.5.1, inv.5.4, chg.1.1, chg.2.1, chg.2.2, chg.4.2
 themes: inv.t.values, inv.t.justice
 criteria: society, responsiveness, rights, justice
 source: https://results.aec.gov.au/29581/Website/ReferendumNationalResults-29581.htm

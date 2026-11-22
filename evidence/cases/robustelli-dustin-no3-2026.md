@@ -7,7 +7,7 @@ date: 2026-09-18
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Gill J, Canberra
 significance: Three children at risk of neglect and family violence stayed out of care because the court made the Minister a joint holder of parental responsibility with their carers.
 core: fam.3.2, fam.3.4, fam.1.5
-support: fam.2.2, fam.2.4, fam.2.5, fam.2.6, exp.4.1, exp.5.1, inv.4.1, dis.2.8
+support: fam.2.2, fam.2.4, fam.2.5, fam.2.6, inv.4.1, dis.2.8
 themes: fam.t.effectiveness, fam.t.cooperation, fam.t.reform
 criteria: justice, responsiveness, resource, rights
 document: Cases/Family/Robustelli & Dustin (No 3) [2026] FedCFamC1F 628 - Case Summary.pdf

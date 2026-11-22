@@ -7,7 +7,7 @@ date: 2026-10-28
 jurisdiction: NSW — Corrective Services NSW; Inspector of Custodial Services Act 2012 (NSW); Crimes (Administration of Sentences) Act 1999 (NSW) s 72(3)
 significance: Women on remand went days without period products and 29 people were held past the seven-day limit — an independent inspector's findings that Corrective Services is not bound to follow.
 core: crime.4.8, crime.2.5
-support: crime.4.6, crime.1.8, hr.2.4, hr.3.1, inv.7.4, exp.4, exp.1.1
+support: crime.4.6, crime.1.8, hr.2.4, hr.3.1, inv.7.4, exp.1.1
 themes: crime.t.effectiveness, crime.t.balance, crime.t.moral
 criteria: rights, resource, enforceability, responsiveness
 document: Crime/Media/Crime - Kariong Intake Centre Period Products Inspection Evidence Summary.pdf

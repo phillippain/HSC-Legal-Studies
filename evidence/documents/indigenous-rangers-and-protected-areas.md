@@ -7,7 +7,7 @@ date: 2024
 jurisdiction: Commonwealth
 significance: Traditional Owners manage fire, feral animals, water and sea country across more than 85 Indigenous Protected Areas — about half the National Reserve System — with 3,800 ranger jobs promised by 2030.
 core: inv.2.4
-support: inv.2.3, inv.2.2, chg.1.6, exp.5.4
+support: inv.2.3, inv.2.2, chg.1.6
 themes: inv.t.values, inv.t.effectiveness
 criteria: society, resource, responsiveness
 source: https://www.niaa.gov.au/indigenous-affairs/closing-gap/implementation-measures/double-number-indigenous-rangers

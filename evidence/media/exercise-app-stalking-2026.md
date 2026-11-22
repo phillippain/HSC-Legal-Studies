@@ -7,7 +7,7 @@ date: 2026-10-25
 jurisdiction: Victoria (incident); NSW and Commonwealth law for comparison
 significance: An old crime through a new app: stalking law already covers electronic contact and, in NSW, tracking — yet victims turned first to clubs and platforms, and only a quarter of women stalked say police were told.
 core: crime.1.8, crime.1.9, crime.2.2
-support: crime.1.1, crime.1.5, crime.1.6, crime.2.1, fam.2.4, chg.2.1, exp.6.2
+support: crime.1.1, crime.1.5, crime.1.6, crime.2.1, fam.2.4, chg.2.1
 themes: crime.t.effectiveness, crime.t.reform, crime.t.compliance
 criteria: enforceability, responsiveness, accessibility, rights, society
 document: Crime/Media/Crime - Exercise App Stalking Evidence Summary.pdf

@@ -7,7 +7,7 @@ date: 2025-09-05
 jurisdiction: Australia
 significance: The tax-free family home is worth up to $50 billion a year in forgone revenue, and economists say swapping stamp duty for a broad land tax would lower house prices and rents.
 core: shel.3.1, shel.2.1
-support: shel.1.3, shel.3.4, shel.3.3, shel.2.8, chg.1.3, chg.2.2, chg.6.1, inv.6.4, dis.3.2, exp.4.2
+support: shel.1.3, shel.3.4, shel.3.3, shel.2.8, chg.1.3, chg.2.2, chg.6.1, inv.6.4, dis.3.2
 themes: shel.t.values, shel.t.reform, shel.t.effectiveness, shel.t.cooperation
 criteria: resource, society, responsiveness, accessibility, justice, rights
 document: Shelter/Tax on the family home is ‘elephant in the room’ of reform.pdf

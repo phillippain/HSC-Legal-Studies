@@ -7,7 +7,7 @@ date: 2026-04-15
 jurisdiction: Commonwealth
 significance: At least 630 Aboriginal and Torres Strait Islander people have died in custody since the Royal Commission reported in 1991, and its central remedy — custody as a last resort — has gone the other way.
 core: dis.3.7
-support: dis.3.8, chg.4.2, chg.1.6, crime.4.8, crime.2.5, exp.6.2
+support: dis.3.8, chg.4.2, chg.1.6, crime.4.8, crime.2.5
 themes: dis.t.effectiveness, dis.t.justice
 criteria: responsiveness, justice, rights, enforceability
 source: https://sbs.com.au/nitv/article/35-years-since-the-royal-commission-into-deaths-in-custody-hundreds-of-deaths-have-been-recorded/qyfj1co2q

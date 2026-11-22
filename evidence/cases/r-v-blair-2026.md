@@ -7,7 +7,7 @@ date: 2026-10-21
 jurisdiction: District Court of NSW
 significance: An inmate who joined a cell attack at Clarence Correctional Centre got 5 years 7 months, starting only when his existing parole date arrived — s 56 makes sentences for violence in prison consecutive by default.
 core: crime.4.3, crime.4.8
-support: crime.4.1, crime.4.2, crime.3.4, crime.1.8, dis.1.7, exp.4.3
+support: crime.4.1, crime.4.2, crime.3.4, crime.1.8, dis.1.7
 themes: crime.t.balance, crime.t.discretion, crime.t.moral
 criteria: justice, society, rights
 document: Cases/Crime/R v Blair [2026] NSWDC 382 - Evidence Summary.pdf

@@ -7,7 +7,7 @@ date: 2026-11-13
 jurisdiction: UN Human Rights Council special procedures; Northern Territory and Queensland youth detention; Commonwealth answerable internationally
 significance: A UN expert invited to Australia was refused entry to two youth detention centres holding mostly First Nations children — the third UN access dispute since 2022.
 core: hr.2.2, hr.2.1
-support: hr.2.12, hr.3.1, hr.1.3, crime.5.4, crime.5.3, inv.6.2, inv.6.3, inv.6.4, inv.5.2, exp.4.1, exp.5.1
+support: hr.2.12, hr.3.1, hr.1.3, crime.5.4, crime.5.3, inv.6.2, inv.6.3, inv.6.4, inv.5.2
 themes: hr.t.sovereignty, hr.t.compliance, hr.t.effectiveness
 criteria: rights, enforceability, responsiveness
 document: Human Rights/HR - UN Rapporteur Blocked From Youth Jails Evidence Summary.pdf

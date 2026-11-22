@@ -7,7 +7,7 @@ date: 2026-07-24
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1)
 significance: A husband already in default of spousal maintenance and costs orders asked to have them varied or discharged, and failed because he could not show his financial circumstances had changed.
 core: fam.2.3
-support: fam.2.5, fam.1.5, fam.2.1, exp.4.1, exp.5.3, dis.2.5, dis.2.7, inv.1.4, inv.4.1
+support: fam.2.5, fam.1.5, fam.2.1, dis.2.5, dis.2.7, inv.1.4, inv.4.1
 themes: fam.t.compliance, fam.t.effectiveness, fam.t.values
 criteria: accessibility, enforceability, responsiveness, resource, rights, justice
 document: Jade Cases/Raw Cases/Silberman & Figgins [2026] FedCFamC1F 490.rtf

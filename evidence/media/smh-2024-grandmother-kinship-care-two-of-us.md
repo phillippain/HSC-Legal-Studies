@@ -7,7 +7,7 @@ date: 2024-10-31
 jurisdiction: Australia
 significance: A grandmother took in her three-year-old granddaughter in 1995 and did not have legal custody until the child was 13 — a decade of hearings around a care arrangement already in place.
 core: fam.1.4, fam.3.4
-support: fam.1.5, fam.3.2, fam.2.5, fam.2.6, exp.4.1, exp.4.3
+support: fam.1.5, fam.3.2, fam.2.5, fam.2.6
 themes: fam.t.values, fam.t.effectiveness, fam.t.compliance
 criteria: accessibility, responsiveness, justice, rights, resource
 document: Family/Two of Us: Marita and Ashlee McNamara.pdf

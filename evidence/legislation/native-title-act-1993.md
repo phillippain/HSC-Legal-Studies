@@ -7,7 +7,7 @@ date: 1993
 jurisdiction: Commonwealth
 significance: Parliament's response to Mabo — a claims process, a tribunal, and a validation of past grants.
 core: chg.5.4, chg.5.5
-support: chg.3, inv.3.3, inv.4.4, inv.2.1, exp.5
+support: chg.3, inv.3.3, inv.4.4, inv.2.1
 themes: chg.t.values, chg.t.justice
 criteria: accessibility, resource, responsiveness, justice
 related: mabo-no2-1992, wik-1996

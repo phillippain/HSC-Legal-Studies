@@ -7,7 +7,7 @@ date: 2026-11-21
 jurisdiction: Northern Territory — Coroners Court
 significance: A 26-year-old Aboriginal mother from Ngukurr died by suicide after years of serious violence. With a risk score of 51 (high risk from 28), she waited weeks for specialist support.
 core: fam.2.4
-support: fam.2.6, inv.4.2, exp.5.3, exp.6.2
+support: fam.2.6, inv.4.2
 themes: fam.t.effectiveness, fam.t.cooperation
 criteria: responsiveness, accessibility, rights
 document: Family/Evidence Summaries/Family - Ngukurr Inquest DV Risk Response Evidence Summary.pdf

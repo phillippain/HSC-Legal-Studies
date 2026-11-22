@@ -7,7 +7,7 @@ date: 2026-10-28
 jurisdiction: National survey; NSW child protection and criminal law; CRC art 19
 significance: About 85% of people physically abused as children were abused by family and only 4% by institutions — so care and protection law must work in the home, where prevention effort is weakest.
 core: fam.3.4, fam.1.5
-support: fam.2.4, fam.2.6, fam.3.2, hr.1.3, crime.1.8, exp.4
+support: fam.2.4, fam.2.6, fam.3.2, hr.1.3, crime.1.8
 themes: fam.t.effectiveness, fam.t.values, fam.t.reform
 criteria: rights, resource, responsiveness, society
 document: Family/Evidence Summaries/Family - Childhood Physical Abuse by Parents Study Evidence Summary.pdf

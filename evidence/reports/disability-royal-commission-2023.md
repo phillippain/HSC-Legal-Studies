@@ -6,8 +6,8 @@ citation: Final Report, 12 volumes, 222 recommendations, 29 September 2023; Chai
 date: 2023-09-29
 jurisdiction: Commonwealth
 significance: Four and a half years, 10,000 people heard, 222 recommendations — and a commission so divided on segregated schools, housing and workplaces that it published two positions.
-core: exp.4.1, exp.4.3, exp.6.2
-support: exp.4.2, exp.5.1, exp.5.2, exp.5.5, exp.6.1, dis.3.6, dis.3.7, chg.2.3, chg.1.6
+core: dis.3.6
+support: dis.3.7, chg.2.3, chg.1.6
 themes: exp.t.justice, exp.t.effectiveness
 criteria: rights, justice, responsiveness, accessibility, society
 source: https://disability.royalcommission.gov.au/publications/final-report

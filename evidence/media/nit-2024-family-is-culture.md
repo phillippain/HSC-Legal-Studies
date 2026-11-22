@@ -7,7 +7,7 @@ date: 2024-11-13
 jurisdiction: NSW
 significance: Five years after the Family Is Culture review, only 12 of its 126 recommendations had been fully implemented.
 core: fam.3.4
-support: fam.2.6, fam.2.7, fam.1.5, hr.3.1, chg.5.4, dis.3.3, exp.4
+support: fam.2.6, fam.2.7, fam.1.5, hr.3.1, chg.5.4, dis.3.3
 themes: fam.t.reform, fam.t.effectiveness, fam.t.values, fam.t.cooperation
 criteria: responsiveness, rights, society, enforceability, justice
 document: Family/"Enough is enough": NSW child protection system nee... | National Indigenous Times.pdf

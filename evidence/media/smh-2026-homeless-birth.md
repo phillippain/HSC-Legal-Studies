@@ -7,7 +7,7 @@ date: 2026-05-05
 jurisdiction: NSW
 significance: Welfare and housing systems that exist, and a pregnant woman who reached labour without either — support arriving after the crisis rather than before it.
 core: shel.3.3, shel.3.4
-support: shel.3.1, shel.1.2, shel.1.3, shel.2.9, fam.1.5, fam.2.6, exp.4, exp.5.5, shel.2.10, fam.2.7, chg.2.1
+support: shel.3.1, shel.1.2, shel.1.3, shel.2.9, fam.1.5, fam.2.6, shel.2.10, fam.2.7, chg.2.1
 themes: shel.t.effectiveness, shel.t.values, exp.t.justice, exp.t.effectiveness
 criteria: accessibility, society, rights, resource, justice
 document: Family/Evidence Summaries/Homeless Birth - Evidence Summary Table.pdf

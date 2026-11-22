@@ -6,8 +6,8 @@ citation: Disability Discrimination Act 1992 (Cth) s 113 (Disability Discriminat
 date: 2019-07-01
 jurisdiction: Commonwealth; NSW
 significance: Two statutory advocates for one group: a national commissioner who conciliates discrimination complaints and a NSW commissioner who investigates abuse of adults with disability — neither of whom can make a binding order.
-core: exp.5.2
-support: exp.5.1, exp.5.3, exp.5.5, exp.6.1, exp.6.2, dis.3.5, dis.3.4
+core: dis.3.5
+support: dis.3.4
 themes: exp.t.effectiveness, exp.t.justice
 criteria: accessibility, enforceability, rights, responsiveness
 source: https://humanrights.gov.au/our-work/disability-rights

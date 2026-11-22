@@ -7,7 +7,7 @@ date: 2026-11-05
 jurisdiction: Australia (all states and territories); NSW tenancy law used as the legal example
 significance: Full-time work in essential jobs no longer secures an affordable rental: most of 16 occupations can afford about 1% of listings, testing whether tenancy law and housing policy deliver affordability, not just security.
 core: shel.3.1, shel.2.2
-support: shel.2.6, shel.2.9, shel.2.10, shel.3.3, shel.3.4, shel.1.2, hr.2.12, hr.3.1, inv.1.4, chg.1, exp.4, exp.5, exp.6
+support: shel.2.6, shel.2.9, shel.2.10, shel.3.3, shel.3.4, shel.1.2, hr.2.12, hr.3.1, inv.1.4, chg.1
 themes: shel.t.effectiveness, shel.t.values, shel.t.reform
 criteria: accessibility, society, rights, justice, resource
 document: Shelter/Evidence Sheets/Shelter - Anglicare Essential Workers Rental Snapshot Evidence Summary.pdf

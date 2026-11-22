@@ -7,7 +7,7 @@ date: 2026-08-25
 jurisdiction: Administrative Review Tribunal — Child Support (Assessment) Act 1989 (Cth)
 significance: Two self-represented parents disputed how many nights their daughter spent with each; with no records, the Tribunal set aside a 75/25 decision and fixed care at 70/30.
 core: fam.2.2, fam.2.5
-support: fam.1.5, fam.3.2, hr.2.4, dis.3.4, dis.2.5, exp.6.2
+support: fam.1.5, fam.3.2, hr.2.4, dis.3.4, dis.2.5
 themes: fam.t.effectiveness, fam.t.cooperation
 criteria: accessibility, justice
 document: Cases/Family/Rogge and Loos (Child support) [2026] ARTA 2605 - Case Summary.pdf

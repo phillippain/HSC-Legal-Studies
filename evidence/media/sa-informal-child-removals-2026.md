@@ -7,7 +7,7 @@ date: 2026-10-27
 jurisdiction: South Australia — Department for Child Protection; SA Ombudsman; Youth Court
 significance: Child protection staff moved three children using 'safety plans' instead of statutory removal, bypassing the court and the parents' rights to contest — a repeat of a 2021–22 Ombudsman finding.
 core: fam.3.4, fam.1.5
-support: fam.2.5, fam.1.2, hr.2.4, inv.1.6, dis.3.4, exp.4, chg.4.2
+support: fam.2.5, fam.1.2, hr.2.4, inv.1.6, dis.3.4, chg.4.2
 themes: fam.t.effectiveness, fam.t.values, fam.t.compliance
 criteria: rights, justice, accessibility, enforceability
 document: Family/Evidence Summaries/Family - SA Informal Child Removals Evidence Summary.pdf

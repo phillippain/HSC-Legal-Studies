@@ -6,8 +6,8 @@ citation: Disability Discrimination Act 1992 (Cth), ss 5–6 (direct and indirec
 date: 1993-03-01
 jurisdiction: Commonwealth
 significance: The national statute against disability discrimination: complaint, conciliation and then court, with "reasonable adjustments" and Disability Standards that bind schools, transport and buildings.
-core: exp.5.1, exp.5.2
-support: exp.4.1, exp.4.3, exp.5.3, exp.6.1, exp.6.2, inv.7.2, inv.7.3, inv.7.4, dis.2.5
+core: inv.7.2
+support: inv.7.3, inv.7.4, dis.2.5
 themes: exp.t.justice, exp.t.effectiveness
 criteria: rights, accessibility, enforceability, justice
 source: https://www.legislation.gov.au/C2004A04426/latest/text

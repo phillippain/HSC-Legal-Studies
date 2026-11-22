@@ -7,7 +7,7 @@ date: 2024-03-01
 jurisdiction: NSW
 significance: Nearly 1,000 foster carers left in a year, only a third of the 15,000 children needing care are placed with a foster family, and DCJ says it needs 1,000 new carers every year.
 core: fam.3.4
-support: fam.1.5, fam.1.6, fam.2.6, fam.3.2, hr.3.1, dis.3.5, dis.3.6, inv.1.4, chg.1, exp.4, exp.5.5, exp.6
+support: fam.1.5, fam.1.6, fam.2.6, fam.3.2, hr.3.1, dis.3.5, dis.3.6, inv.1.4, chg.1
 themes: fam.t.effectiveness, fam.t.reform, fam.t.values, dis.t.justice
 criteria: resource, accessibility, responsiveness, rights, society, justice
 document: Family/Foster carers beg for support as record numbers quit the system.pdf

@@ -7,7 +7,7 @@ date: 2026-10-27
 jurisdiction: NSW — NSW Fair Trading and its Rental Taskforce; NCAT for disputes
 significance: Rights for 2.3 million renters are only as good as their enforcement: after no-grounds evictions ended, Fair Trading names fair rollout of the reforms, strata repairs and underquoting as targets.
 core: shel.2.2, shel.2.6
-support: shel.2.4, shel.2.1, shel.2.5, shel.2.8, shel.1.4, chg.4.2, exp.5
+support: shel.2.4, shel.2.1, shel.2.5, shel.2.8, shel.1.4, chg.4.2
 themes: shel.t.effectiveness, shel.t.compliance, shel.t.reform
 criteria: enforceability, resource, accessibility, responsiveness
 document: Shelter/Evidence Sheets/Shelter - Fair Trading priorities 2026-27 rental enforcement Evidence Summary.pdf

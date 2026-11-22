@@ -7,7 +7,7 @@ date: 2026-11-05
 jurisdiction: Northern Territory (NT Police, Local Court, Department of Children and Families) and Commonwealth national policy
 significance: Strong NT domestic violence laws exist on paper, yet police charged under-18s with 233 DV offences in seven months while remote teenage victims have little support to reach them.
 core: fam.2.4, fam.2.6
-support: fam.2.5, fam.2.7, fam.3.4, crime.5.1, crime.5.4, hr.2.12, hr.3.1, shel.3.3, inv.1.4, inv.2.1, chg.1, exp.4, exp.5, exp.6
+support: fam.2.5, fam.2.7, fam.3.4, crime.5.1, crime.5.4, hr.2.12, hr.3.1, shel.3.3, inv.1.4, inv.2.1, chg.1
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.reform, fam.t.values
 criteria: resource, accessibility, enforceability, responsiveness, rights, society, justice
 document: Family/Evidence Summaries/Family - NT Youth Domestic Violence Support Gap Evidence Summary.pdf

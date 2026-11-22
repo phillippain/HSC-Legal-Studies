@@ -7,7 +7,7 @@ date: 2026-11-02
 jurisdiction: Commonwealth — Services Australia (Child Support Registrar), DSS, ATO
 significance: A low income estimate can reverse who pays: a mother says her abusive ex used the scheme's rules so she, the main carer, now owes him — a protective law turned into a tool of financial abuse.
 core: fam.2.2, fam.2.4
-support: fam.2.5, fam.1.5, fam.2.7, dis.3.4, exp.6.2
+support: fam.2.5, fam.1.5, fam.2.7, dis.3.4
 themes: fam.t.effectiveness, fam.t.reform, fam.t.compliance
 criteria: enforceability, accessibility, justice, rights
 document: Family/Evidence Summaries/Family - Child Support Financial Abuse (updated 4Nov26) Evidence Summary.pdf

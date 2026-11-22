@@ -7,7 +7,7 @@ date: 2026-11-05
 jurisdiction: NSW (hospital licensing under the Private Health Facilities Act 2007) and Commonwealth (ACCC merger review, discrimination law)
 significance: A change of private owner removes lawful IVF, abortion and assisted dying from a region without any change in the law, testing access to birth technologies against institutional religious freedom.
 core: fam.3.3
-support: fam.1.5, fam.2.7, fam.2.5, fam.2.6, hr.2.12, hr.3.1, inv.1.4, chg.1, chg.2, exp.5, exp.6
+support: fam.1.5, fam.2.7, fam.2.5, fam.2.6, hr.2.12, hr.3.1, inv.1.4, chg.1, chg.2
 themes: fam.t.effectiveness, fam.t.values, fam.t.reform
 criteria: accessibility, rights, responsiveness, society, justice
 document: Family/Evidence Summaries/Family - Calvary Catholic Hospital Service Cuts Evidence Summary.pdf

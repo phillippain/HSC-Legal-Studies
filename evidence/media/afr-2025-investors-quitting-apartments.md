@@ -7,7 +7,7 @@ date: 2025-02-07
 jurisdiction: Australia (Sydney and Melbourne)
 significance: Investors are selling apartments in Sydney and Melbourne because rents no longer cover mortgages, and CoreLogic links the exit partly to land tax and minimum rental standards.
 core: shel.2.2, shel.3.1
-support: shel.2.1, shel.2.4, shel.3.4, shel.1.3, chg.1.3, chg.2.2, inv.1.2, dis.3.2, exp.4.2
+support: shel.2.1, shel.2.4, shel.3.4, shel.1.3, chg.1.3, chg.2.2, inv.1.2, dis.3.2
 themes: shel.t.effectiveness, shel.t.reform, shel.t.cooperation, shel.t.values
 criteria: resource, responsiveness, accessibility, enforceability, society, justice
 document: News Articles/Shelter/Shelter - Landlords pull out of flats in city markets.pdf

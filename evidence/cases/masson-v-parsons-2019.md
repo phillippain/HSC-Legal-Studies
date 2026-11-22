@@ -7,7 +7,7 @@ date: 2019-06-19
 jurisdiction: High Court of Australia
 significance: A man who provided semen believing he would father the child, and then did father it in every ordinary sense, is a parent under the Family Law Act whatever the state Act says about donors.
 core: fam.3.3, fam.1.5
-support: fam.1.1, fam.1.4, fam.2.2, fam.3.1, fam.3.2, fam.1.2, inv.4.1, inv.5.1, inv.5.2, inv.5.4, inv.1.5, dis.1.8, dis.2.8, exp.5
+support: fam.1.1, fam.1.4, fam.2.2, fam.3.1, fam.3.2, fam.1.2, inv.4.1, inv.5.1, inv.5.2, inv.5.4, inv.1.5, dis.1.8, dis.2.8
 themes: fam.t.values, fam.t.reform, fam.t.effectiveness, inv.t.justice, inv.t.values
 criteria: accessibility, enforceability, responsiveness, rights, justice
 source: https://www.hcourt.gov.au/

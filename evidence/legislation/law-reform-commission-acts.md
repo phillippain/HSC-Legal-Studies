@@ -7,7 +7,7 @@ date: 1967
 jurisdiction: NSW and Commonwealth
 significance: Create the two standing, independent law reform commissions — the NSWLRC and the ALRC — which inquire only on a reference from the Attorney-General, consult publicly and report with recommendations.
 core: chg.2
-support: chg.1, chg.3, chg.6, crime.4.1, fam.2.5, shel.2.9, hr.2.14, exp.5
+support: chg.1, chg.3, chg.6, crime.4.1, fam.2.5, shel.2.9, hr.2.14
 themes: chg.t.values, chg.t.justice
 criteria: responsiveness, accessibility, society, resource
 source: https://legislation.nsw.gov.au/view/html/inforce/current/act-1967-039

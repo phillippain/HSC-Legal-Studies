@@ -7,7 +7,7 @@ date: 2026-11-04
 jurisdiction: Western Australia (Department of Child Protection, South Hedland and the Pilbara) with national oversight by the National Commissioner
 significance: WA law puts a child's best interests first and requires Aboriginal participation, yet elders say the system failed children in South Hedland — raising who is accountable and what oversight follows.
 core: fam.3.4
-support: fam.1.5, fam.1.6, fam.2.5, fam.2.6, fam.2.7, hr.2.2, hr.2.12, hr.3.1, inv.1.4, inv.2.1, chg.1, exp.4, exp.5, exp.6
+support: fam.1.5, fam.1.6, fam.2.5, fam.2.6, fam.2.7, hr.2.2, hr.2.12, hr.3.1, inv.1.4, inv.2.1, chg.1
 themes: fam.t.effectiveness, fam.t.values, fam.t.reform, fam.t.cooperation
 criteria: responsiveness, resource, rights, enforceability, society, justice
 document: Family/Evidence Summaries/Family - Pilbara Child Protection Crisis Evidence Summary.pdf

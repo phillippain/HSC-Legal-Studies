@@ -7,7 +7,7 @@ date: 2026-03-03
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1)
 significance: Judgment was reserved and the husband moved to sell a business in the asset pool, so the Court was listed at 4.15pm the same day to put the proceeds into a trust account.
 core: fam.2.3, fam.2.5
-support: fam.2.1, fam.1.5, dis.2.5, dis.2.7, dis.1.8, inv.4.1, inv.1.4, exp.5.3
+support: fam.2.1, fam.1.5, dis.2.5, dis.2.7, dis.1.8, inv.4.1, inv.1.4
 themes: fam.t.compliance, fam.t.effectiveness, fam.t.cooperation
 criteria: enforceability, responsiveness, resource, accessibility, justice
 document: Jade Cases/Raw Cases/Peak & Peak (No 3) [2026] FedCFamC1F 553.rtf

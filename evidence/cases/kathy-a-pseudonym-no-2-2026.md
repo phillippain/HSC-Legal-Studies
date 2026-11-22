@@ -7,7 +7,7 @@ date: 2026-08-18
 jurisdiction: NSW Civil and Administrative Tribunal, Guardianship Division — S L Handebo, Principal Member, with two members
 significance: NCAT refused a late adjournment and appointed the Public Guardian for three years for an older woman with dementia, with last-resort conditions on restrictive practices.
 core: dis.2.5, inv.1.6
-support: dis.3.4, exp.5.3, exp.5.1, dis.2.8, inv.1.4
+support: dis.3.4, dis.2.8, inv.1.4
 themes: dis.t.justice, dis.t.values
 criteria: accessibility, rights, justice
 document11: Cases/Year 11/Year 11 - Kathy (a pseudonym) (No 2) [2026] NSWCATGD 21 - Case Summary.pdf

@@ -7,7 +7,7 @@ date: 2026-07-15
 jurisdiction: Administrative Review Tribunal — General Member S Hoffman
 significance: Jurisdiction beats merit — the Tribunal thought the father might be right about care and could do nothing about it.
 core: fam.1.5
-support: fam.2.3, fam.2.5, dis.3.4, dis.3.5, dis.3.6, inv.1.3, dis.3.1, exp.5
+support: fam.2.3, fam.2.5, dis.3.4, dis.3.5, dis.3.6, inv.1.3, dis.3.1
 themes: fam.t.compliance, fam.t.effectiveness, dis.t.effectiveness, dis.t.justice
 criteria: enforceability, accessibility, ruleoflaw, justice
 document: Cases/Family/Glancey and Glancey 2026 ARTA 1945 - Case Summary.pdf

@@ -7,7 +7,7 @@ date: 2026-08-11
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Family Law Act 1975 (Cth) s 79
 significance: A husband sought 55% of a 40-year marriage's property but repeatedly failed to disclose his overseas companies and accounts — so the court dismissed his application.
 core: fam.2.3
-support: fam.2.5, fam.1.2, dis.2.4, dis.2.8, dis.2.5, exp.6.2
+support: fam.2.5, fam.1.2, dis.2.4, dis.2.8, dis.2.5
 themes: fam.t.compliance, fam.t.effectiveness
 criteria: justice, enforceability
 document: Cases/Family/Rahman & Rahman (No 3) [2026] FedCFamC2F 1203 - Case Summary.pdf

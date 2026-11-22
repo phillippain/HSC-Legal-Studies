@@ -7,7 +7,7 @@ date: 2026-09-25
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Altobelli J, Sydney
 significance: After a trial, a father's messages and use of daycare are found to be coercive and controlling family violence, and the 2024 amendments are applied to give the mother sole decision-making for their toddler.
 core: fam.2.4, fam.3.2, fam.2.2
-support: fam.1.5, fam.2.5, fam.3.4, chg.1.1, chg.1.5, chg.4.2, inv.1.4, inv.4.3, exp.4.1, dis.2.8
+support: fam.1.5, fam.2.5, fam.3.4, chg.1.1, chg.1.5, chg.4.2, inv.1.4, inv.4.3, dis.2.8
 themes: fam.t.reform, fam.t.values, fam.t.effectiveness
 criteria: justice, rights, enforceability, responsiveness
 document: Cases/Family/Petersson & Alfero [2026] FedCFamC1F 651 - Case Summary.pdf

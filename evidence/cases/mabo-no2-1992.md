@@ -7,7 +7,7 @@ date: 1992-06-03
 jurisdiction: High Court of Australia
 significance: Terra nullius rejected; native title recognised at common law — the mandatory law reform example in the Year 11 course.
 core: chg.5.2, chg.5.4
-support: inv.3.1, inv.3.2, inv.5.4, inv.2.1, inv.2.2, chg.3, exp.4
+support: inv.3.1, inv.3.2, inv.5.4, inv.2.1, inv.2.2, chg.3
 themes: chg.t.values, chg.t.justice
 criteria: responsiveness, rights, justice, ruleoflaw
 related: native-title-act-1993, wik-1996

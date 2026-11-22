@@ -7,7 +7,7 @@ date: 2025-04-03
 jurisdiction: NSW
 significance: Eight months after the Special Inquiry said the practice should stop, the last child in NSW was moved out of unaccredited emergency accommodation — a recommendation actually carried out.
 core: fam.3.4, chg.3
-support: fam.1.5, fam.2.6, fam.3.2, chg.1, chg.2, dis.3.5, dis.3.6, hr.3.1, shel.3.3, exp.5, exp.5.5, exp.6
+support: fam.1.5, fam.2.6, fam.3.2, chg.1, chg.2, dis.3.5, dis.3.6, hr.3.1, shel.3.3
 themes: fam.t.reform, fam.t.effectiveness, fam.t.values, chg.t.values, chg.t.effectiveness
 criteria: resource, accessibility, responsiveness, rights, society, justice
 document: Family/NSW ends unaccredited emergency care for vulnerable children.pdf

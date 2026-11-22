@@ -7,7 +7,7 @@ date: 2025-08-12
 jurisdiction: Australia (Victoria, Tasmania)
 significance: Women in their fifties are carrying babies for their own adult children, and on birth the grandmother is first registered as the child's mother.
 core: fam.3.3
-support: fam.1.1, fam.1.4, fam.1.6, fam.3.1, fam.3.2, fam.2.2, chg.6.2, inv.1.5, exp.4.2
+support: fam.1.1, fam.1.4, fam.1.6, fam.3.1, fam.3.2, fam.2.2, chg.6.2, inv.1.5
 themes: fam.t.values, fam.t.effectiveness, fam.t.cooperation, fam.t.reform
 criteria: accessibility, responsiveness, rights, society, resource, justice
 document: Family/‘Surrogate Grans’ Offer GIft of Life.pdf

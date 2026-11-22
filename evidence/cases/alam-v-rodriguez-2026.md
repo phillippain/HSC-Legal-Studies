@@ -7,7 +7,7 @@ date: 2026-09-17
 jurisdiction: District Court of NSW (Criminal) — appeal from the Local Court under the Crimes (Domestic and Personal Violence) Act 2007 (NSW) s 84 and the Crimes (Appeal and Review) Act 2001 (NSW) ss 18–19
 significance: An unrepresented applicant whose AVO was refused got leave to call her mother on appeal — but the new evidence could not fit her own, the appeal failed, and $2,800 costs followed.
 core: crime.3.6, crime.3.7
-support: crime.4.5, crime.3.5, crime.2.1, fam.2.4, dis.2.5, exp.6.2, inv.1.4
+support: crime.4.5, crime.3.5, crime.2.1, fam.2.4, dis.2.5, inv.1.4
 themes: crime.t.balance, crime.t.effectiveness
 criteria: accessibility, justice, rights
 document: Cases/Crime/Alam v Rodriguez (Nos 1-3) [2026] NSWDC 387 - Case Summary.pdf

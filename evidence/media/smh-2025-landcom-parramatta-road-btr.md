@@ -7,7 +7,7 @@ date: 2025-02-10
 jurisdiction: NSW
 significance: The first site under NSW's $450 million build-to-rent scheme is a padlocked WestConnex dive site, where 200 of about 500 apartments will be let to essential workers at a discount.
 core: shel.3.4
-support: shel.3.1, shel.2.4, shel.2.8, shel.2.2, shel.1.3, chg.1.3, chg.2.2, inv.3.4, dis.3.2, exp.4.2
+support: shel.3.1, shel.2.4, shel.2.8, shel.2.2, shel.1.3, chg.1.3, chg.2.2, inv.3.4, dis.3.2
 themes: shel.t.reform, shel.t.effectiveness, shel.t.values, shel.t.cooperation
 criteria: resource, accessibility, responsiveness, society, justice
 document: News Articles/Shelter/Parramatta Road site for build-to-rent.pdf

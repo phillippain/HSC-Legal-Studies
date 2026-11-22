@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Australia
 significance: Reform needs a condition that makes the old law fail, an agency that names it, and a mechanism with the power to change it — and the third stage is where most reform dies.
 core: chg.1, chg.2, chg.3
-support: inv.3.3, inv.4.4, inv.5.4, inv.1.5, chg.6, exp.5, exp.6
+support: inv.3.3, inv.4.4, inv.5.4, inv.1.5, chg.6
 themes: chg.t.values, chg.t.justice
 criteria: responsiveness, society, enforceability, justice, rights
 related: statute-law-and-delegated-legislation, nit-2024-family-is-culture, crimes-amendment-provocation-2014

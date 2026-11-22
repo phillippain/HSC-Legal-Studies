@@ -7,7 +7,7 @@ date: 2025-10-06
 jurisdiction: Administrative Review Tribunal (Child support) — Senior Member A Suthers
 significance: The difference between what a parent earns and what a parent could earn, worth roughly $8,500 a year per child.
 core: fam.1.5
-support: fam.2.3, fam.2.5, dis.3.4, inv.1.3, dis.3.1, exp.6
+support: fam.2.3, fam.2.5, dis.3.4, inv.1.3, dis.3.1
 themes: fam.t.effectiveness, fam.t.cooperation, dis.t.effectiveness
 criteria: justice, resource, responsiveness, accessibility
 document: Jade Cases/Completed Case Summaries/04_Rolland_and_Fraser_2025_ARTA_3430.pdf

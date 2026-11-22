@@ -7,7 +7,7 @@ date: 2026-10-16
 jurisdiction: Administrative Review Tribunal — Senior Member S Trotter, child support second review; hearing by phone and video
 significance: Three years, four different care figures and a tribunal hearing — and because 14% and 31% sit in the same cost band, the child support payable never changed by a dollar.
 core: fam.1.5, fam.2.5, fam.2.3
-support: fam.1.1, fam.2.2, fam.3.2, dis.3.4, chg.1, chg.3, inv.1.4, shel.3.1, exp.6
+support: fam.1.1, fam.2.2, fam.3.2, dis.3.4, chg.1, chg.3, inv.1.4, shel.3.1
 themes: fam.t.reform, fam.t.effectiveness, fam.t.compliance, fam.t.cooperation, dis.t.effectiveness
 criteria: accessibility, responsiveness, enforceability, resource, justice
 document: Cases/Family/WNZP and Child Support Registrar [2026] ARTA 2398 - Case Summary.pdf

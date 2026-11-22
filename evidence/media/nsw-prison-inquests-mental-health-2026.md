@@ -7,7 +7,7 @@ date: 2026-11-08
 jurisdiction: NSW — Coroners Court; Corrective Services NSW; Justice Health and Forensic Mental Health Network
 significance: The ABC found mental health care failures in 48 of 249 NSW prison inquests — and Corrections did not fully support recommendations in 10 of 32, because coroners can recommend but not compel.
 core: crime.4.8, crime.3.1
-support: crime.4.6, crime.3.3, hr.2.13, hr.2.12, crime.4.2, inv.4.2, crime.1.8, hr.2.4, hr.3.1, dis.3.4, dis.3.7, exp.4.3, exp.6.2
+support: crime.4.6, crime.3.3, hr.2.13, hr.2.12, crime.4.2, inv.4.2, crime.1.8, hr.2.4, hr.3.1, dis.3.4, dis.3.7
 themes: crime.t.effectiveness, crime.t.balance, crime.t.moral
 criteria: rights, enforceability, responsiveness, justice
 document: Crime/Media/Crime - NSW Prisons Mental Health Care Evidence Summary.pdf

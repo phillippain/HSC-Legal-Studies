@@ -7,7 +7,7 @@ date: 2025-03-03
 jurisdiction: NSW
 significance: Fourteen years with the same carers, and the adoption turned on whether a great-grandmother's heritage made the boys Aboriginal children under the Act.
 core: fam.1.6
-support: fam.3.4, fam.1.5, fam.2.2, inv.2.1, inv.2.2, exp.4, dis.1.8, dis.2.8, hr.3.1
+support: fam.3.4, fam.1.5, fam.2.2, inv.2.1, inv.2.2, dis.1.8, dis.2.8, hr.3.1
 themes: fam.t.values, fam.t.cooperation, fam.t.effectiveness, inv.t.values
 criteria: rights, responsiveness, accessibility, justice
 document: Family/Adoption_saga_boys_not_Indigenous_under__Australian_The_Weekend_Australian_The_Australian_Magazine_The_Australia___March_3_2025__p3.pdf

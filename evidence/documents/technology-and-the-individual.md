@@ -7,7 +7,7 @@ date: 2026
 jurisdiction: Australia
 significance: Technology changes what can be done to a person faster than the law changes what may be done, and the gap is widest where the actor is a company rather than the state.
 core: chg.1.3, chg.6.1, inv.7.4, chg.6
-support: inv.7.2, inv.7.3, dis.3.5, dis.3.6, crime.2.1, crime.2.3, crime.6.1, shel.2.2, hr.3.1, chg.1, exp.5
+support: inv.7.2, inv.7.3, dis.3.5, dis.3.6, crime.2.1, crime.2.3, crime.6.1, shel.2.2, hr.3.1, chg.1
 themes: chg.t.values, chg.t.justice
 criteria: responsiveness, rights, enforceability, accessibility, justice
 related: ahuri-fr454-renttech-2026, guardian-2026-gps-tracking, detention-and-interrogation-rights

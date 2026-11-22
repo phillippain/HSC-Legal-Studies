@@ -7,7 +7,7 @@ date: 2026-11-04
 jurisdiction: NSW Civil and Administrative Tribunal (Administrative and Equal Opportunity Division) — Anti-Discrimination Act 1977 (NSW) s 105
 significance: A probationary employee with endometriosis asked NCAT to reinstate her while her disability discrimination complaint is investigated; the Tribunal applied injunction principles and refused.
 core: hr.2.11, hr.2.9
-support: hr.2.4, hr.3.1, dis.2.5, dis.2.7, dis.2.4, exp.5.3, exp.6.2
+support: hr.2.4, hr.3.1, dis.2.5, dis.2.7, dis.2.4
 themes: hr.t.effectiveness, hr.t.compliance
 criteria: accessibility, enforceability, rights, justice
 document: Cases/Human Rights/Gavin v Greenstone Financial Services Pty Ltd [2026] NSWCATAD 339 - Case Summary.pdf

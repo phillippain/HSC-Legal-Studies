@@ -7,7 +7,7 @@ date: 2025-11-13
 jurisdiction: NSW (Coroners Court, s 23 Coroners Act 2009)
 significance: A 20-year-old was shot dead eight minutes after plain-clothes police stopped him for looking suspicious, and the Coroner found the stop itself was never authorised by any power.
 core: crime.2.1, crime.2.3
-support: crime.2.4, crime.2.6, crime.1.9, crime.3.7, dis.3.2, dis.3.5, dis.3.6, inv.7.2, inv.7.3, inv.1.6, inv.1.7, inv.1.3, dis.3.1, chg.1, chg.2, hr.3.1, exp.5, exp.6
+support: crime.2.4, crime.2.6, crime.1.9, crime.3.7, dis.3.2, dis.3.5, dis.3.6, inv.7.2, inv.7.3, inv.1.6, inv.1.7, inv.1.3, dis.3.1, chg.1, chg.2, hr.3.1
 themes: crime.t.discretion, crime.t.balance, crime.t.compliance, crime.t.reform, dis.t.justice
 criteria: enforceability, accessibility, responsiveness, rights, ruleoflaw, justice
 document: Crime/Inquest_into_the_death_of_Bradley_Vincent_Balzan.pdf

@@ -7,7 +7,7 @@ date: 1983
 jurisdiction: NSW
 significance: For forty-two years the Act gave NSW a free, voluntary, confidential mediation service for neighbour, co-tenant and strata disputes — settling about four in five matters — until the Government closed it on 30 June 2025.
 core: shel.2.5, dis.2.5
-support: shel.2.2, shel.2.4, shel.2.6, shel.2.8, inv.1.6, dis.1.5, chg.1, exp.5.5, exp.6, fam.2.5
+support: shel.2.2, shel.2.4, shel.2.6, shel.2.8, inv.1.6, dis.1.5, chg.1, fam.2.5
 themes: shel.t.cooperation, shel.t.effectiveness, shel.t.values, shel.t.reform
 criteria: accessibility, resource, responsiveness, justice
 source: https://legislation.nsw.gov.au/view/html/repealed/current/act-1983-127

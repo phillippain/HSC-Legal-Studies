@@ -7,7 +7,7 @@ date: 2026-10-16
 jurisdiction: Administrative Review Tribunal — Senior Member S Trotter, child support second review; telephone hearing
 significance: Both parents claimed every night and neither could prove one — so the Tribunal, with no onus of proof on anyone, found a pattern of equal care from the best evidence rather than splitting the difference.
 core: fam.1.5, fam.2.5, fam.2.3
-support: fam.1.1, fam.2.2, fam.3.2, dis.3.4, inv.1.4, inv.1.6, dis.1.5, dis.2.5, hr.3.1, shel.3.1, exp.6
+support: fam.1.1, fam.2.2, fam.3.2, dis.3.4, inv.1.4, inv.1.6, dis.1.5, dis.2.5, hr.3.1, shel.3.1
 themes: fam.t.effectiveness, fam.t.cooperation, fam.t.compliance, dis.t.effectiveness
 criteria: accessibility, responsiveness, enforceability, justice, resource
 document: Cases/Family/XTXD and Child Support Registrar [2026] ARTA 2401 - Case Summary.pdf

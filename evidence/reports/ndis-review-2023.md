@@ -6,8 +6,8 @@ citation: Independent Review into the National Disability Insurance Scheme, fina
 date: 2023-12-07
 jurisdiction: Commonwealth
 significance: The scheme that was meant to be an insurance against disability had become the only door: the Review proposed "foundational supports" outside it, and the 2024 Act redefined what NDIS money can buy.
-core: exp.5.4, exp.6.2
-support: exp.5.1, exp.5.3, exp.6.1, chg.1.6, chg.2.3, chg.3.1, chg.4.2, dis.3.4
+core: chg.1.6
+support: chg.2.3, chg.3.1, chg.4.2, dis.3.4
 themes: exp.t.effectiveness, exp.t.justice
 criteria: accessibility, resource, responsiveness, rights
 source: https://www.ndisreview.gov.au/

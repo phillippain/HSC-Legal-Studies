@@ -6,8 +6,8 @@ citation: Australian Government Response to the Disability Royal Commission, 31 
 date: 2024-07-31
 jurisdiction: Commonwealth
 significance: Of 172 recommendations directed to the Commonwealth, 13 were accepted in full, 117 "in principle", 36 deferred for further consideration and 6 noted — and the Disability Rights Act was among the deferrals.
-core: exp.6.1, exp.6.2
-support: exp.5.1, exp.5.2, exp.4.3, chg.4.2, chg.2.3, dis.3.7
+core: chg.4.2
+support: chg.2.3, dis.3.7
 themes: exp.t.effectiveness, exp.t.justice
 criteria: responsiveness, rights, justice, resource
 source: https://www.dss.gov.au/disability-royal-commission

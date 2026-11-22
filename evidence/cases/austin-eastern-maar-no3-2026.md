@@ -7,7 +7,7 @@ date: 2026-07-30
 jurisdiction: Federal Court of Australia — Murphy J
 significance: Two Aboriginal groups from the same language society claimed the same country, and the claim failed because the case argued was not the case the witnesses gave.
 core: chg.5.4, chg.5.5
-support: chg.5.2, inv.2.1, inv.2.2, chg.3, dis.1.5, dis.2.5, exp.4, dis.1.8, dis.2.8, hr.3.1
+support: chg.5.2, inv.2.1, inv.2.2, chg.3, dis.1.5, dis.2.5, dis.1.8, dis.2.8, hr.3.1
 themes: chg.t.values, chg.t.justice
 criteria: accessibility, resource, rights, justice
 document: Jade Cases/Completed Case Summaries/11_Austin_Eastern_Maar_No_3_2026_FCA_1054.pdf

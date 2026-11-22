@@ -7,7 +7,7 @@ date: 2012
 jurisdiction: Commonwealth; NSW, Victoria, South Australia
 significance: Traditional Owners of the southern Murray–Darling hold responsibilities for water under Lore and less than 0.2% of the water entitlements under law — the gap the Basin Plan asks planners to "consider".
 core: inv.2.4
-support: inv.2.3, inv.2.1, chg.1.6, chg.4.2, exp.5.2
+support: inv.2.3, inv.2.1, chg.1.6, chg.4.2
 themes: inv.t.justice, inv.t.effectiveness
 criteria: rights, responsiveness, resource, justice
 source: https://mldrin.org/

@@ -7,7 +7,7 @@ date: 2026-01-27
 jurisdiction: NSW
 significance: Sixty thousand claims lodged since 1983 and more than 44,000 still undetermined; NSWALC puts waits at 15 to 20 years, and reports 274 hectares returned in the year.
 core: chg.5.1
-support: chg.5.5, chg.4.2, chg.1.6, chg.2.2, exp.5.2
+support: chg.5.5, chg.4.2, chg.1.6, chg.2.2
 themes: chg.t.effectiveness, chg.t.justice
 criteria: responsiveness, resource, accessibility, justice
 source: https://nit.com.au/27-01-2026/22339/corrective-not-symbolic-nswalc-calls-for-urgent-improvement-to-system-on-submitting-60000th-land-claim

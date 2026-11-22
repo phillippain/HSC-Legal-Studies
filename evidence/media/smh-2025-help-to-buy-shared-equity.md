@@ -7,7 +7,7 @@ date: 2025-03-29
 jurisdiction: Australia (Commonwealth scheme, Sydney examples)
 significance: First home buyers can take a 5 per cent deposit with the insurance waived, or a 2 per cent deposit with the government co-owning up to 40 per cent of the house.
 core: shel.2.1, shel.3.1
-support: shel.1.3, shel.3.4, shel.2.8, shel.3.3, chg.3.2, chg.4.1, inv.1.4, inv.6.4, dis.3.2, exp.4.2
+support: shel.1.3, shel.3.4, shel.2.8, shel.3.3, chg.3.2, chg.4.1, inv.1.4, inv.6.4, dis.3.2
 themes: shel.t.effectiveness, shel.t.values, shel.t.reform, shel.t.cooperation
 criteria: accessibility, resource, responsiveness, society, rights, justice
 document: Shelter/First Home Guarantee scheme - Sydney property: Help to Buy first home buyer scheme to offer buyers a choice.pdf

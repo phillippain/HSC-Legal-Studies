@@ -7,7 +7,7 @@ date: 2026-09-22
 jurisdiction: Federal Circuit and Family Court of Australia (Division 1) — Altobelli J, Sydney
 significance: After a mother's death, an aunt asks to move three children over their grandmother's undisclosed mental illness; the court keeps them in place and adds safeguards, because risk must be shown and stability matters.
 core: fam.2.2, fam.3.4, fam.2.5
-support: fam.1.5, fam.3.2, fam.2.4, inv.1.4, inv.1.6, inv.4.3, dis.2.4, dis.2.7, exp.1.1, exp.4.1
+support: fam.1.5, fam.3.2, fam.2.4, inv.1.4, inv.1.6, inv.4.3, dis.2.4, dis.2.7, exp.1.1
 themes: fam.t.effectiveness, fam.t.compliance, fam.t.cooperation
 criteria: justice, rights, enforceability, responsiveness
 document: Cases/Family/Danby & Sorner [2026] FedCFamC1F 639 - Case Summary.pdf

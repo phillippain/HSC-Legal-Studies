@@ -7,7 +7,7 @@ date: 2026-11-01
 jurisdiction: South Australia — Department for Correctional Services; UN Committee against Torture
 significance: Twelve of 14 interviewees with psychosocial disabilities were held in solitary — an NGO measuring SA prison practice against the Mandela Rules before Australia's next UN torture review.
 core: hr.2.12, hr.3.1
-support: hr.2.2, hr.2.3, hr.2.5, hr.1.3, hr.2.13, crime.4.8, inv.6.7, exp.5.5, exp.4.1
+support: hr.2.2, hr.2.3, hr.2.5, hr.1.3, hr.2.13, crime.4.8, inv.6.7
 themes: hr.t.compliance, hr.t.effectiveness, hr.t.sovereignty
 criteria: rights, enforceability, responsiveness
 document: Human Rights/HR - HRW Solitary Confinement Prisoners with Disabilities SA Evidence Summary.pdf

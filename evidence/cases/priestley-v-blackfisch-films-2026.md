@@ -7,7 +7,7 @@ date: 2026-11-06
 jurisdiction: NSW Civil and Administrative Tribunal (Administrative and Equal Opportunity Division) — Anti-Discrimination Act 1977 (NSW) ss 4A, 7, 8, 10, 102
 significance: Two Gomeroi applicants claimed race discrimination against an Aboriginal-owned film company; the Tribunal found they were contractors, rejected the alleged slurs and dismissed the claims as lacking substance.
 core: hr.2.11, hr.2.9
-support: hr.2.4, hr.3.1, dis.2.5, dis.2.4, exp.5.3
+support: hr.2.4, hr.3.1, dis.2.5, dis.2.4
 themes: hr.t.effectiveness, hr.t.compliance
 criteria: accessibility, justice, rights
 document: Cases/Human Rights/Priestley v Blackfisch Films Pty Ltd [2026] NSWCATAD 343 - Case Summary.pdf

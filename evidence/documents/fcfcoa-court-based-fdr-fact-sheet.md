@@ -7,7 +7,7 @@ date: 2024-10-22
 jurisdiction: Commonwealth
 significance: Shows the court itself running the mediation — a registrar and a court child expert, two confidential parts, shuttle on request — so ADR sits inside the litigation, not before it.
 core: fam.2.5
-support: fam.2.2, fam.2.4, fam.2.1, dis.2.5, exp.4.3
+support: fam.2.2, fam.2.4, fam.2.1, dis.2.5
 themes: fam.t.cooperation, fam.t.effectiveness, fam.t.compliance
 criteria: accessibility, resource, responsiveness, justice, rights
 document: Family/Court Based Family Dispute Resolution.pdf

@@ -7,7 +7,7 @@ date: 2025-06-04
 jurisdiction: NSW
 significance: An altruistic surrogate stayed the child's legal guardian for a year after handing him to his parents, because the parentage order takes that long.
 core: fam.3.3
-support: fam.1.5, fam.1.6, fam.2.5, fam.1.1, chg.1, chg.2, exp.6
+support: fam.1.5, fam.1.6, fam.2.5, fam.1.1, chg.1, chg.2
 themes: fam.t.reform, fam.t.values, fam.t.effectiveness, fam.t.cooperation
 criteria: accessibility, responsiveness, rights, resource, justice
 document: Family/Surrogacy Australia: Inquiry examines how government can make path to parenthood easier.pdf
