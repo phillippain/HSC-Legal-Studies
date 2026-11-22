@@ -6,8 +6,8 @@ citation: "[2026] FCA 1748 (O'Callaghan J, 19 November 2026)"
 date: 2026-11-19
 jurisdiction: Federal Court of Australia — Migration Act 1958 (Cth) ss 36, 501
 significance: Two parents were refused protection visas on character grounds. The Minister never answered the claim that their child, who has a speech delay, would be disadvantaged; both refusals quashed.
-core: hr.3.1, hr.2.11
-support: hr.1.3, hr.2.9, inv.1.6, dis.3.4, dis.3.8
+core: hr.3.1, hr.2.11, exp.5.3
+support: hr.1.3, hr.2.9, inv.1.6, dis.3.4, dis.3.8, exp.4.2, exp.5.1
 themes: hr.t.effectiveness, hr.t.compliance
 criteria: rights, justice, enforceability
 document: Cases/Human Rights/LGC24 v Assistant Minister for Citizenship, Customs and Multicultural Affairs [2026] FCA 1748 - Case Summary.pdf

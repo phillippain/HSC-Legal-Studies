@@ -6,8 +6,8 @@ citation: "[2026] FedCFamC2G 2272 (Judge Gerrard, 19 November 2026)"
 date: 2026-11-19
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Migration Act 1958 (Cth) s 477
 significance: A Malaysian man refused a protection visa filed three days late. The delay was minor, but his five template grounds had no merit, so an extension was not in the interests of justice.
-core: hr.3.1, hr.2.11
-support: hr.2.9, dis.3.4, inv.1.4
+core: hr.3.1, hr.2.11, exp.5.3
+support: hr.2.9, dis.3.4, inv.1.4, exp.4.2, exp.5.1, exp.6.2
 themes: hr.t.effectiveness
 criteria: accessibility, justice
 document: Cases/Human Rights/DTI21 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2272 - Case Summary.pdf

@@ -6,8 +6,8 @@ citation: "[2026] HCA 17 (10 June 2026, seven justices, original jurisdiction)"
 date: 2026-06-10
 jurisdiction: High Court of Australia — Constitution Ch III; Migration Act 1958 (Cth) ss 189(1), 196(1)
 significance: After NZYQ (2023) ended indefinite detention, a unanimous High Court refused the Commonwealth a defence for officers who followed the old law — opening false imprisonment claims for hundreds.
-core: hr.2.11, hr.2.8
-support: hr.2.10, hr.2.4, hr.2.7, hr.3.1, hr.1.1, crime.6.1, inv.1.7, dis.2.5
+core: hr.2.11, hr.2.8, exp.4.3, exp.6.1
+support: hr.2.10, hr.2.4, hr.2.7, hr.3.1, hr.1.1, crime.6.1, inv.1.7, dis.2.5, exp.5.3, exp.6.2
 themes: hr.t.effectiveness, hr.t.compliance, hr.t.sovereignty
 criteria: rights, enforceability, ruleoflaw, justice
 document: Cases/Human Rights/Abdel-Hady v Commonwealth [2026] HCA 17 - Evidence Summary.pdf

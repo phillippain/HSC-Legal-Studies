@@ -6,8 +6,8 @@ citation: "[2026] HCA 26"
 date: 2026-08-05
 jurisdiction: High Court of Australia — Gageler CJ, Jagot and Beech-Jones JJ
 significance: Being denied gender-affirming surgery at home is not, by itself, the kind of harm that triggers Australia's protection obligations.
-core: hr.3.1, hr.2.4, inv.5.4
-support: hr.1.2, hr.2.7, hr.2.9, dis.3.4, inv.4.1, inv.6.3, inv.7.2, exp.4, inv.6.2
+core: hr.3.1, hr.2.4, inv.5.4, exp.5.3
+support: hr.1.2, hr.2.7, hr.2.9, dis.3.4, inv.4.1, inv.6.3, inv.7.2, exp.4, inv.6.2, exp.4.2, exp.5.1
 themes: hr.t.sovereignty, hr.t.compliance, inv.t.justice
 criteria: accessibility, rights, ruleoflaw, justice
 document: Jade Cases/Completed Case Summaries/05_Plaintiff_M98-2025_v_Minister_2026_HCA_26.pdf

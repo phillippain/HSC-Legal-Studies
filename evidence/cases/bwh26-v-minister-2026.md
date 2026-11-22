@@ -6,8 +6,8 @@ citation: "[2026] FedCFamC2G 2280 (Judge Johns, 19 November 2026)"
 date: 2026-11-19
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Migration Act 1958 (Cth) ss 36, 476
 significance: A Lebanese man said the Tribunal ignored his evidence that he called Hezbollah 'the party of Satan'. A tribunal need not mention every piece of evidence; no jurisdictional error.
-core: hr.3.1, hr.2.11
-support: hr.2.9, hr.2.1, dis.3.4, dis.3.1
+core: hr.3.1, hr.2.11, exp.5.3
+support: hr.2.9, hr.2.1, dis.3.4, dis.3.1, exp.4.2, exp.5.1
 themes: hr.t.effectiveness, hr.t.sovereignty
 criteria: rights, justice
 document: Cases/Human Rights/BWH26 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2280 - Case Summary.pdf

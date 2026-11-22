@@ -6,8 +6,8 @@ citation: "[2026] FedCFamC2G 2275 (Judge Gerrard, 20 November 2026)"
 date: 2026-11-20
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Migration Act 1958 (Cth) ss 36, 476
 significance: A Chinese woman feared harm as a Christian; the Tribunal doubted her credibility. She said it should have given her the benefit of the doubt. No jurisdictional error; dismissed.
-core: hr.3.1, hr.2.11
-support: hr.2.9, hr.1.3, dis.3.4
+core: hr.3.1, hr.2.11, exp.5.3
+support: hr.2.9, hr.1.3, dis.3.4, exp.4.2, exp.5.1
 themes: hr.t.effectiveness, hr.t.sovereignty
 criteria: rights, justice
 document: Cases/Human Rights/GSD25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2275 - Case Summary.pdf

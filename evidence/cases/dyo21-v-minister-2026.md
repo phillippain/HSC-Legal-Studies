@@ -6,8 +6,8 @@ citation: "[2026] FedCFamC2G 2279 (Judge Johns, 19 November 2026)"
 date: 2026-11-19
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Migration Act 1958 (Cth) s 477
 significance: A woman sought to challenge a 2016 Tribunal decision 2,172 days late, blaming an agent's false contact details. The delay was extraordinary, so time was not extended.
-core: dis.3.4, dis.3.2
-support: inv.1.4, dis.3.8, exp.6.2
+core: dis.3.4, dis.3.2, exp.5.3
+support: inv.1.4, dis.3.8, exp.6.2, exp.4.2, exp.5.1
 themes: dis.t.justice, dis.t.effectiveness
 criteria: accessibility, justice
 document11: Cases/Year 11/Year 11 - DYO21 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2279 - Case Summary.pdf

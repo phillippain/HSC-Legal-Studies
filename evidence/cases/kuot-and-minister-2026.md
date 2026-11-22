@@ -6,8 +6,8 @@ citation: "[2026] ARTA 2748 (Senior Member, 16 November 2026)"
 date: 2026-11-16
 jurisdiction: Administrative Review Tribunal — Migration Act 1958 (Cth) s 501CA; Direction 123
 significance: A South Sudanese man who arrived as a refugee child in 2005 had his visa mandatorily cancelled a second time after repeated violent offending. On a rehearing, the risk was unacceptable; not revoked.
-core: dis.3.4, dis.3.1
-support: dis.3.2, dis.3.8
+core: dis.3.4, dis.3.1, exp.5.3
+support: dis.3.2, dis.3.8, exp.4.2, exp.5.1
 themes: dis.t.justice
 criteria: society, justice
 document11: Cases/Year 11/Year 11 - Kuot and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2748 - Case Summary.pdf

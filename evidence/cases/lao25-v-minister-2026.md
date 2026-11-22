@@ -6,8 +6,8 @@ citation: "[2026] FedCFamC2G 2242 (Judge Gerrard, 13 November 2026)"
 date: 2026-11-13
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Migration Act 1958 (Cth) ss 36, 476
 significance: A Turkish man said the Tribunal ignored his fears and a new country report. It had considered each claim; a finding of only a remote chance of harm was open. No error; dismissed.
-core: hr.3.1, hr.2.11
-support: hr.2.9, hr.2.1, dis.3.4
+core: hr.3.1, hr.2.11, exp.5.3
+support: hr.2.9, hr.2.1, dis.3.4, exp.4.2, exp.5.1
 themes: hr.t.effectiveness, hr.t.sovereignty
 criteria: rights, justice
 document: Cases/Human Rights/LAO25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2242 - Case Summary.pdf

@@ -6,8 +6,8 @@ citation: "[2026] FCA 1735 (Markovic J, 18 November 2026)"
 date: 2026-11-18
 jurisdiction: Federal Court of Australia — Migration Act 1958 (Cth) s 36(1C)
 significance: A refugee-visa holder with a long record including repeated family violence was refused a protection visa as a danger to the community. Discounting his partner's evidence was not unreasonable.
-core: hr.3.1, hr.2.11
-support: hr.2.9, hr.2.1, fam.2.4, dis.3.4
+core: hr.3.1, hr.2.11, exp.5.3
+support: hr.2.9, hr.2.1, fam.2.4, dis.3.4, exp.4.2, exp.5.1
 themes: hr.t.sovereignty, hr.t.effectiveness
 criteria: rights, society
 document: Cases/Human Rights/PDYY v Minister for Immigration and Citizenship [2026] FCA 1735 - Case Summary.pdf

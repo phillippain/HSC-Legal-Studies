@@ -6,8 +6,8 @@ citation: "[2026] FedCFamC2G 2263 (Judge Symons, 18 November 2026)"
 date: 2026-11-18
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Migration Act 1958 (Cth) s 36
 significance: A Vietnamese Catholic man said the Tribunal ignored police summonses and a priest's letter. It had considered and doubted them and applied the real chance test; review dismissed.
-core: hr.3.1, hr.2.11
-support: hr.2.9, hr.2.1, dis.3.4, dis.3.1
+core: hr.3.1, hr.2.11, exp.5.3
+support: hr.2.9, hr.2.1, dis.3.4, dis.3.1, exp.4.2, exp.5.1
 themes: hr.t.effectiveness, hr.t.sovereignty
 criteria: rights, justice
 document: Cases/Human Rights/KWO24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2263 - Case Summary.pdf

@@ -6,8 +6,8 @@ citation: "[2026] FCA 1760 (Anderson J, 20 November 2026)"
 date: 2026-11-20
 jurisdiction: Federal Court of Australia — Migration Act 1958 (Cth) s 66
 significance: A protection visa applicant said he never got a posted refusal letter. Section 66(1) is a single duty already performed by posting; a brief phone call is not reviewable. Dismissed.
-core: dis.3.4, dis.3.1
-support: inv.1.6, inv.3.3
+core: dis.3.4, dis.3.1, exp.5.3
+support: inv.1.6, inv.3.3, exp.4.2, exp.5.1, exp.6.2
 themes: dis.t.justice
 criteria: justice, accessibility
 document11: Cases/Year 11/Year 11 - FFT19 v Minister for Immigration and Multicultural Affairs [2026] FCA 1760 - Case Summary.pdf

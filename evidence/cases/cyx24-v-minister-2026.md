@@ -6,8 +6,8 @@ citation: "[2026] FedCFamC2G 2265 (Judge Legge, 19 November 2026)"
 date: 2026-11-19
 jurisdiction: Federal Circuit and Family Court of Australia (Division 2) — Migration Act 1958 (Cth) ss 426A, 441A
 significance: A protection visa applicant said he never got notice of his Tribunal hearing. Notice was validly emailed; confirming the dismissal a day early was immaterial. Dismissed.
-core: dis.3.4, dis.3.1
-support: inv.1.6, dis.3.8
+core: dis.3.4, dis.3.1, exp.5.3
+support: inv.1.6, dis.3.8, exp.4.2, exp.5.1, exp.6.2
 themes: dis.t.justice
 criteria: justice, accessibility
 document11: Cases/Year 11/Year 11 - CYX24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2265 - Case Summary.pdf

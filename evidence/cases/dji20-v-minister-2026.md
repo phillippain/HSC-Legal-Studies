@@ -6,8 +6,8 @@ citation: "[2026] FCA 1755 (Kennett J, 19 November 2026)"
 date: 2026-11-19
 jurisdiction: Federal Court of Australia (appellate) — Migration Act 1958 (Cth)
 significance: A Chinese national whose protection claims were found fabricated appealed a failed judicial review. His grounds identified no error and he made no submissions; dismissed with costs.
-core: dis.3.4, inv.4.1
-support: dis.3.8, inv.1.4, inv.4.3
+core: dis.3.4, inv.4.1, exp.5.3
+support: dis.3.8, inv.1.4, inv.4.3, exp.4.2, exp.5.1, exp.6.2
 themes: dis.t.justice
 criteria: justice, accessibility
 document11: Cases/Year 11/Year 11 - DJI20 v Minister for Immigration and Citizenship [2026] FCA 1755 - Case Summary.pdf
