@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-19/tammy-shipley-inquest-findings-de
 related: nsw-prison-inquests-mental-health-2026, deaths-in-custody-since-1991, rciadic-1991, bail-act-2013
 added: 2026-11-20
 added_at: 2026-11-20 06:50
-updated_at: 2026-11-20 06:50
+updated_at: 2026-11-23 07:11
 ---
 
 Tammy Shipley, a Wiradjuri woman with known mental illness, died of hyponatraemia on 20 December 2022 after 11 days on remand for shoplifting charges. The magistrate intended her release on 14 December, but inaccurate bail records on other charges kept her in custody. State Coroner Teresa O'Sullivan found the death **preventable** and made 10 recommendations to NSW Police, Corrective Services and Justice Health.
@@ -28,6 +28,8 @@ Tammy Shipley, a Wiradjuri woman with known mental illness, died of hyponatraemi
 | Diversion | Missed opportunity to divert; she was remanded |
 | Bail | Inaccurate records kept her in custody after release was intended |
 | Observations | Required 30-minute checks not done — a serious failure |
+
+A [second class summary (ABC Indigenous Affairs key findings, 20 November)](https://drive.google.com/file/d/197hGChnN1nrFwJC2G-92vdWFAruTWi0K/view) adds that police did not check COPS records of three recent mental health contacts before making a bail decision (Bail Act s 43), and that the $23 Woolworths goods sat alongside a Target shoplifting charge and a bail breach.
 
 ## Use it for
 
