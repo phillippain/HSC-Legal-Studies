@@ -676,7 +676,7 @@
    "part": "Year 11 (Preliminary) Focus area 4",
    "course": "preliminary",
    "weight": "30 indicative hours",
-   "principalFocus": "The ways the legal system interacts with young people and with one other group in society, and the extent to which justice is achieved: the nature of the experience, access to justice and the responsiveness of the law.",
+   "principalFocus": "The ways the legal system interacts with young people and with one other group in society (asylum seekers and refugees), and the extent to which justice is achieved: the nature of the experience, access to justice and the responsiveness of the law.",
    "themes": [
     {
      "id": "exp.t.justice",
@@ -761,7 +761,7 @@
     },
     {
      "id": "exp.4",
-     "label": "Case study 2 group: the nature of the experience",
+     "label": "Asylum seekers and refugees: the nature of the experience",
      "colour": "#8b1a7d",
      "points": [
       {
@@ -780,7 +780,7 @@
     },
     {
      "id": "exp.5",
-     "label": "Case study 2 group: access to justice",
+     "label": "Asylum seekers and refugees: access to justice",
      "colour": "#8b1a7d",
      "points": [
       {
@@ -807,7 +807,7 @@
     },
     {
      "id": "exp.6",
-     "label": "Case study 2 group: responsiveness of the legal system",
+     "label": "Asylum seekers and refugees: responsiveness of the legal system",
      "colour": "#8b1a7d",
      "points": [
       {
