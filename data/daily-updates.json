@@ -1,6 +1,1274 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-23",
  "days": [
+  {
+   "date": "2026-11-23",
+   "since": "2026-11-20",
+   "new": 64,
+   "updated": 1,
+   "groups": [
+    {
+     "key": "crime",
+     "label": "Crime",
+     "part": "HSC Core Part I",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "state-of-nsw-v-warren-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "State of NSW v Warren (Preliminary) [2026] NSWSC 1471 — examiners appointed in an extended supervision application",
+       "summary": "The State applied for an extended supervision order against a man on parole for a violent offence, and at the preliminary stage the Supreme Court found a high likelihood of violence and appointed two examiners. Use it for post-sentence supervision of high-risk offenders and balancing community protection against punishment already served; no order has been made.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Post-sentencing considerations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-state-of-nsw-v-warren-2026",
+       "document_url": "https://drive.google.com/file/d/1MSqjESEizEIe2JM-RJKjc6Bb0kjKLyvJ/view",
+       "document11_url": "https://drive.google.com/file/d/1y_UmSNJKyqMqWPxyegWbQNiJ1nyhPEvo/view",
+       "source": ""
+      },
+      {
+       "id": "mackell-v-r-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Mackell v R [2026] NSWCCA 198 — emailing an MP she would be 'humiliated on the stand' and bail conditions",
+       "summary": "A man charged over about 192 abusive calls to an MP's office emailed her that she would be 'humiliated on the stand', which the Court of Criminal Appeal treated as witness intimidation, so no-contact bail conditions stayed. Use it for bail conditions that protect witnesses, balanced against the accused's liberty and political speech; it is a bail ruling, not a finding of guilt.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Bail or remand"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-mackell-v-r-2026",
+       "document_url": "https://drive.google.com/file/d/1jkS6j5AMdRUNV6ou08Nj9IRNL9sMueCG/view",
+       "document11_url": "https://drive.google.com/file/d/1kceg_ByiflH6l4vuz6XVehwfc1RfHvcB/view",
+       "source": ""
+      },
+      {
+       "id": "r-v-bobak-sentence-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Bobak (Sentence) [2026] NSWSC 1501 — murder without intent to kill, a prior record and totality",
+       "summary": "A man convicted by a jury of a 2022 murder, with intent only to cause very serious harm and a 2002 record that denied him leniency, was sentenced to 26 years with a non-parole period of 19. Use it for aggravating and mitigating factors including prior record, and for totality and partly accumulated sentences.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Factors affecting a sentencing decision",
+        "Statutory and judicial guidelines"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-bobak-sentence-2026",
+       "document_url": "https://drive.google.com/file/d/1GdnzgpNAL4Jy0PVpaLbIQUXIHXdQ25Zg/view",
+       "document11_url": "https://drive.google.com/file/d/17dkSXpd1WHO9e9XGjtMmM4srOTyeFJZi/view",
+       "source": ""
+      },
+      {
+       "id": "daryl-maguire-visa-fraud-sentence-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Former MP Daryl Maguire jailed for cash-for-visa conspiracy (ABC, 20 November 2026)",
+       "summary": "A former MP was sentenced to three years with one year non-parole for a cash-for-visa conspiracy, while his co-offender served an aggregate term in the community because roles, pleas and circumstances differed. Use it for parity and individual sentencing factors, and white-collar and public-office crime.",
+       "note": "",
+       "added": "2026-11-23",
+       "core_labels": [
+        "Factors affecting a sentencing decision",
+        "Types of penalties"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-daryl-maguire-visa-fraud-sentence-2026",
+       "document_url": "https://drive.google.com/file/d/1SP0Lhr9H3ILsr3BkVx2XUX43hjRnnxYj/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-20/daryl-maguire-jailed-over-role-in-fraudulent-visa-scheme/107291680"
+      },
+      {
+       "id": "james-hollands-inquest-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Inquest tests early intervention and police force after teen's death (ABC, 20–21 November 2026)",
+       "summary": "An inquest is examining the death of a 16-year-old shot by police after a stabbing, who had spent two years in a voluntary countering violent extremism program; findings are reserved. Use it for social crime prevention and its limits, and the coroner's role.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-23",
+       "core_labels": [
+        "Crime prevention: situational and social",
+        "Police powers"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-james-hollands-inquest-2026",
+       "document_url": "https://drive.google.com/file/d/1azRfJw7cbuKK_KcF-a1bwv0fzg-TtWMU/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-21/james-hollands-inquest-examines-years-leading-to-police-shooting/107404726"
+      },
+      {
+       "id": "one-nation-gun-law-repeal-pledge-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "One Nation pledges to repeal NSW's post-Bondi gun reforms (ABC, 22 November 2026)",
+       "summary": "NSW One Nation pledged to scrap firearm caps and restore five-year licences, reversing reforms passed in December 2025 after the Bondi attack. Use it for situational crime prevention through gun control, and law reform as a contested political promise.",
+       "note": "",
+       "added": "2026-11-23",
+       "core_labels": [
+        "Crime prevention: situational and social"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-one-nation-gun-law-repeal-pledge-2026",
+       "document_url": "https://drive.google.com/file/d/1MyWcspOV20rk1iHO_i8FyS4yhAp4Ea1h/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-22/no-coalition-with-coalition-for-nsw-one-nation-mike-newman-says/107412396"
+      },
+      {
+       "id": "castle-towers-stabbings-youth-bail-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Teens charged after two boys stabbed at Castle Towers (ABC, 21 November 2026)",
+       "summary": "Two 16-year-olds were stabbed at a Castle Hill shopping centre and a 17-year-old was charged with wounding with intent to cause grievous bodily harm; the allegations are unproven. Use it for Children's Court process and bail for young people, since the show cause requirement does not apply to under-18s, balancing community safety against children's rights.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-23",
+       "core_labels": [
+        "Children's Court",
+        "Bail or remand"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-castle-towers-stabbings-youth-bail-2026",
+       "document_url": "https://drive.google.com/file/d/1m0Rt2XtooNbmh_9wHkH5FU8JVnQcwzGU/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-21/teenager-charged-after-sydney-shopping-centre-stabbings/107412324"
+      },
+      {
+       "id": "inslm-religion-terrorism-definition-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Watchdog says drop 'religious' from Australia's terrorism definition (The Conversation, 23 November 2026)",
+       "summary": "The Independent National Security Legislation Monitor recommends removing 'religious' from the terrorism definition, and an opinion piece argues for it, citing about 84% of jihadist prosecutions succeeding against about half for racist or nationalist terrorism. Use it for defining terrorism as a crime and a statutory monitor driving law reform, noting the figures come from media summaries.",
+       "note": "Content note: this item involves terrorism. The summary describes the legal decision only.",
+       "added": "2026-11-23",
+       "core_labels": [
+        "Categories of international crime",
+        "Categories of crime"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-inslm-religion-terrorism-definition-2026",
+       "document_url": "https://drive.google.com/file/d/1hafELkwq5wDOILGpPGokE8F0Sgt-WQTz/view",
+       "document11_url": null,
+       "source": "https://theconversation.com/we-need-to-better-combat-terrorism-the-first-step-remove-religion-from-the-definition-297132"
+      },
+      {
+       "id": "tammy-shipley-inquest-findings-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Coroner finds Tammy Shipley's death in custody preventable (ABC, 19 November 2026)",
+       "summary": "The card now links a repeat class summary of the coroner's findings that a woman's death in custody was preventable. It now offers a second source for the findings and the 10 recommendations. Teach with care.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Bail or remand",
+        "Post-sentencing considerations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-tammy-shipley-inquest-findings-2026",
+       "document_url": "https://drive.google.com/file/d/1YrPaIhzCJsbyrceSitdSkpvuDyCKlqtr/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-19/tammy-shipley-inquest-findings-death-in-custody/107398998"
+      }
+     ]
+    },
+    {
+     "key": "humanrights",
+     "label": "Human Rights",
+     "part": "HSC Core Part II",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "avj21-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "AVJ21 v Minister [2026] FedCFamC2G 2285 — a child's protection claim, s 424A and apprehended bias",
+       "summary": "A Malaysian mother, son and young daughter challenged Tribunal refusals of protection visas, and the court held that deciding the parents' claims first was not apprehended bias and s 424A was not breached. Use it for how a child's claim is assessed in refugee law, and procedural fairness and the bias rule.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-avj21-v-minister-2026",
+       "document_url": "https://drive.google.com/file/d/15w28j5Gqc2D_Y1Ex8naCUwjScUWsm7ul/view",
+       "document11_url": "https://drive.google.com/file/d/1099OtnUI45hn1-W35hUjGLlg6WQSlKl_/view",
+       "source": ""
+      },
+      {
+       "id": "bwh26-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "BWH26 v Minister [2026] FedCFamC2G 2280 — a Safe Haven Enterprise visa refusal and one overlooked remark",
+       "summary": "A Lebanese man argued the Tribunal ignored his evidence about calling Hezbollah 'the party of Satan', but the court held a tribunal need not mention every piece of evidence and found no jurisdictional error. Use it to show courts review legality, not merits, in refugee decisions.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-bwh26-v-minister-2026",
+       "document_url": "https://drive.google.com/file/d/1ADKtERrAkstBp3LwveMeiAVoIPEeTUeM/view",
+       "document11_url": "https://drive.google.com/file/d/17ywD9nEB5MXZK_P88JEJ8Qig12cvCTAF/view",
+       "source": ""
+      },
+      {
+       "id": "chernyi-v-commissioner-of-police-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Chernyi v Commissioner of Police [2026] NSWCATAD 354 — a race discrimination complaint about police service refused leave",
+       "summary": "A man complained that NSW Police discriminated against him on the ground of race in answering his emergency calls and interpreter request, and NCAT refused leave because it found no comparator or link to race. Use it for the anti-discrimination complaint pathway and its leave thresholds; no finding was made on what happened.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "The role of statute law",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-chernyi-v-commissioner-of-police-2026",
+       "document_url": "https://drive.google.com/file/d/1S5qagDy089-h3Oo_Rz2eFxdxmkZ1UBdV/view",
+       "document11_url": "https://drive.google.com/file/d/1e_1EgnnSSfTN62c1B6E4_5bHacdGlGWx/view",
+       "source": ""
+      },
+      {
+       "id": "dti21-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "DTI21 v Minister [2026] FedCFamC2G 2272 — three days late with template grounds: no extension of time",
+       "summary": "A Malaysian man filed his judicial review three days late, and the court refused an extension of time because his five template grounds had no merit. Use it for access barriers for unrepresented asylum seekers, and time limits.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-dti21-v-minister-2026",
+       "document_url": "https://drive.google.com/file/d/1eRcA6zCObL104dmw1P0saCPPmg1JsrP5/view",
+       "document11_url": "https://drive.google.com/file/d/17aNgJx6CpvrR8jKDQxizA3WdB7g41K2k/view",
+       "source": ""
+      },
+      {
+       "id": "lao25-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "LAO25 v Minister [2026] FedCFamC2G 2242 — a Turkish dissident's claim and the updated country report",
+       "summary": "A Turkish man said the Tribunal ignored his fears and an updated country report, but the court held it had considered each claim and a finding of only a remote chance of harm was open. Use it for refugee protection based on political opinion and the narrow role of courts in migration decisions.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lao25-v-minister-2026",
+       "document_url": "https://drive.google.com/file/d/1__PlE1mMPPAvt-50tycJffALWY1xGWn3/view",
+       "document11_url": "https://drive.google.com/file/d/1T9z9oVSHGktEkWPwP7nE5qi_dH6WJ0K4/view",
+       "source": ""
+      },
+      {
+       "id": "lgc24-v-assistant-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "LGC24 v Assistant Minister [2026] FCA 1748 — a child's speech delay overlooked: two visa refusals quashed",
+       "summary": "The Federal Court quashed two protection visa refusals because the Assistant Minister never answered the parents' claim that their child, who has a speech delay, would be disadvantaged. Use it for children's best interests in migration decisions and courts enforcing lawful decision-making; the cases go back for a fresh decision.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lgc24-v-assistant-minister-2026",
+       "document_url": "https://drive.google.com/file/d/1LTZno2o8S5MLav5uuGkhCZ1boRQ30p8Y/view",
+       "document11_url": "https://drive.google.com/file/d/1T9ndsJ54y6jucTftiD_gWBUZsWM4OIoZ/view",
+       "source": ""
+      },
+      {
+       "id": "secretary-health-v-donald-stanton-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Secretary, Ministry of Health v Donald-Stanton [2026] NSWCATAP 372 — a $55,000 disability discrimination award set aside for the wrong comparator",
+       "summary": "The Appeal Panel set aside a $55,000 disability discrimination award because the wrong comparator was used and sent the case back, although the employer's safety defence still failed. Use it for statutory protection against disability discrimination and the comparator test; liability is reopened, not decided for the employer.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "The role of statute law",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-secretary-health-v-donald-stanton-2026",
+       "document_url": "https://drive.google.com/file/d/1KDfLYt2WgD192yRbRBvm96-Ce62r6TDb/view",
+       "document11_url": "https://drive.google.com/file/d/17APc8bibjMHUXJuMu5UqV8FO_wvLpyvD/view",
+       "source": ""
+      },
+      {
+       "id": "ggk25-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "GGK25 & GGL25 v Minister [2026] FedCFamC2G 2282 — a change of Tribunal member and a mother's protection claim",
+       "summary": "A Vietnamese mother and young son challenged a protection visa refusal, including a change of Tribunal member after the first hearing, and the court found no jurisdictional error on any of five grounds. Use it for refugee claims based on gender-based harm and the narrow role of judicial review.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-ggk25-v-minister-2026",
+       "document_url": "https://drive.google.com/file/d/1ZA_9YJyTem_PyljWGu3xgyYoIIcwscgK/view",
+       "document11_url": "https://drive.google.com/file/d/1OuQxvTgPMQFRth47VMWy0LffHGdoDdpX/view",
+       "source": ""
+      },
+      {
+       "id": "gsd25-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "GSD25 v Minister [2026] FedCFamC2G 2275 — a Christian's protection claim and credibility findings",
+       "summary": "A Chinese woman who feared harm as a Christian said the Tribunal should have given her the benefit of the doubt after doubting her credibility, but the court found no jurisdictional error. Use it for religious persecution claims and credibility, and the point that courts cannot review the merits.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-gsd25-v-minister-2026",
+       "document_url": "https://drive.google.com/file/d/1dU5R5ocskB1ej3vpAbexs9_UtkRyyE-S/view",
+       "document11_url": "https://drive.google.com/file/d/1pC4IV65MiaLX8u9Qyy7J8vin4km2TIAs/view",
+       "source": ""
+      },
+      {
+       "id": "nswalc-eleebana-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "NSWALC (Eleebana) v Minister [2026] NSWLEC 151 — a 2010 land claim upheld: no proof of a Crown road",
+       "summary": "The Land and Environment Court upheld a 2010 Aboriginal land claim at Mount Hutton because the Minister failed to prove the land was a Crown road, so it must be transferred. Use it for statutory land rights for Aboriginal peoples and the effectiveness of a process that took 16 years for one claim.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "The role of statute law",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nswalc-eleebana-v-minister-2026",
+       "document_url": "https://drive.google.com/file/d/1Vp4MLWPj93tEtA1kUGWPmZZ7Dp1P4pqM/view",
+       "document11_url": "https://drive.google.com/file/d/12LgnP9_o_xrhi47ZHJgz3V82UZocHTU7/view",
+       "source": ""
+      },
+      {
+       "id": "texas-pentobarbital-execution-dennes-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Texas inmate cries out in pain during 63-minute execution (ABC/AP, 21 November 2026)",
+       "summary": "A Texas inmate cried out during a 63-minute pentobarbital execution, one of 39 in the US in 2026, and the report notes Australia is bound to abolish the death penalty while the US is not a party to the Second Optional Protocol. Use it for state sovereignty and the right to life, and the ICCPR and its optional protocol. Distressing content.",
+       "note": "",
+       "added": "2026-11-23",
+       "core_labels": [
+        "State sovereignty",
+        "Formal statements of human rights"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-texas-pentobarbital-execution-dennes-2026",
+       "document_url": "https://drive.google.com/file/d/1fwvrIw-TCEqLD98XxCr446yqYhqw3Qad/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-21/texas-death-row-inmate-reinaldo-dennes-screams-execution/107412316"
+      }
+     ]
+    },
+    {
+     "key": "family",
+     "label": "Family",
+     "part": "HSC Option 3",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "basile-villalba-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Basile & Villalba [2026] FedCFamC1F 684 — interim care on a 5:9 pattern: equality is no substitute for cooperation",
+       "summary": "Parents in a long, bitter dispute could not agree on interim care, so the court set a 5:9 pattern with the father and refused the mother's detailed changeover and make-up rules. Use it for interim parenting orders and the limits of orders when parents cannot cooperate.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal consequences of separation"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-basile-villalba-2026",
+       "document_url": "https://drive.google.com/file/d/1y-ti9g4fMoXtBlGg5aGkY7lZBLxRuqnc/view",
+       "document11_url": "https://drive.google.com/file/d/1M2rj83lF6qXUhKFK3iLWFf9q1b2dB-d5/view",
+       "source": ""
+      },
+      {
+       "id": "clay-nagel-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Clay & Nagel (No 2) [2026] FedCFamC1F 688 — vague contravention counts struck out",
+       "summary": "A mother sought a father's imprisonment for breaching parenting orders, but all ten counts were struck out because they said he 'failed to cause' time without stating what he should have done. Use it for enforcing parenting orders and fairness in pleadings; no finding was made on what happened.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal consequences of separation",
+        "The roles of courts and dispute resolut…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-clay-nagel-no2-2026",
+       "document_url": "https://drive.google.com/file/d/1dgOe2rNP-XIPOSLopUOavU-wZ3BabUNy/view",
+       "document11_url": "https://drive.google.com/file/d/1Bdy4ehwZJg9_BRjPjezFOhZAaISs-NfY/view",
+       "source": ""
+      },
+      {
+       "id": "flipson-ceelen-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Flipson & Ceelen [2026] FedCFamC1F 621 — adult children joined mid-hearing and $57,200 indemnity costs",
+       "summary": "In a de facto property case worth about $65 million, three adult children were joined mid-hearing to claim the family company, and the wife paid $57,200 in indemnity costs. Use it for third parties in property cases and the cost of late changes.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal consequences of separation",
+        "Alternative family relationships"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-flipson-ceelen-2026",
+       "document_url": "https://drive.google.com/file/d/131KEiwcMvMKCYt2fpUTT26TpCpz3-eJv/view",
+       "document11_url": "https://drive.google.com/file/d/18ulM5rhs5EjfAwmBQlcC9BqWbzDH-4CF/view",
+       "source": ""
+      },
+      {
+       "id": "genesalio-genesalio-no10-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Genesalio & Genesalio (No 10) [2026] FedCFamC1F 682 — no stay of a $4 million settlement",
+       "summary": "A husband's brother sought to pause orders for a property sale to pay a $4 million settlement, but he re-argued issues already rejected on appeal, so the stay was refused with $35,000 indemnity costs. Use it for enforcing property settlements and finality against repeated litigation.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal consequences of separation",
+        "The roles of courts and dispute resolut…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-genesalio-genesalio-no10-2026",
+       "document_url": "https://drive.google.com/file/d/1FTFRaM2QN2Qp4BVcQi5QzV4UmVEvINPt/view",
+       "document11_url": "https://drive.google.com/file/d/1HFZ01jYGhUYRGQi-lVBShn0J7mMfMs7M/view",
+       "source": ""
+      },
+      {
+       "id": "haig-zorner-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Haig & Zorner [2026] FedCFamC1F 660 — relocation overseas refused while a child's bond with her father develops",
+       "summary": "A mother asked to relocate overseas permanently with her five-year-old daughter, and the court refused because the child's relationship with her father was still developing. Use it for relocation and the child's best interests against a parent's freedom of movement.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal consequences of separation",
+        "The changing nature of parental respons…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-haig-zorner-2026",
+       "document_url": "https://drive.google.com/file/d/1OeV5n2Z76MvV2MydhpC1LNr8g9PBFAM1/view",
+       "document11_url": "https://drive.google.com/file/d/1v5XXr6v9YskgfPmNe9t0y4-rEE6VwqVI/view",
+       "source": ""
+      },
+      {
+       "id": "holgersson-holgersson-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Holgersson & Holgersson [2026] FedCFamC1F 704 — no suspension on untested claims, but an injunction against coaching",
+       "summary": "Seven weeks before a final hearing, the court declined to suspend a father's supervised time on untested claims but barred him from pressuring or coaching the children. Use it for interim parenting decisions and injunctions protecting children.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal consequences of separation",
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-holgersson-holgersson-2026",
+       "document_url": "https://drive.google.com/file/d/1-5lirk8DLsFO2uhIymvZpHOZrFEHsAEj/view",
+       "document11_url": "https://drive.google.com/file/d/1UoXGphj3UujxPQNoyIJZ_OteewYsvoFe/view",
+       "source": ""
+      },
+      {
+       "id": "margarit-ravi-no3-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Margarit & Ravi (No 3) [2026] FedCFamC1F 678 — restraining registration of US parenting orders until judgment",
+       "summary": "A father began registering US parenting orders in Australia, and in a short ex tempore ruling the court restrained further steps and enforcement until judgment. Use it for cross-border parenting orders and interim orders that preserve the position; the main issue is undecided.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal consequences of separation",
+        "The roles of courts and dispute resolut…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-margarit-ravi-no3-2026",
+       "document_url": "https://drive.google.com/file/d/1ta4RTrTKxk_b00J3U00H9_2scNGAEWbE/view",
+       "document11_url": "https://drive.google.com/file/d/1AslENnEwwrUgktkDOjRpApU0ViiXMc7n/view",
+       "source": ""
+      },
+      {
+       "id": "messina-geddies-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Messina & Geddies [2026] FedCFamC1F 669 — de facto property after a partner's death and a family trust",
+       "summary": "After an 11-year de facto relationship, a woman claimed property from her late partner's estate, and the court joined the trustee but held trust assets are not de facto property and made no preservation orders. Use it for de facto property rights surviving a partner's death and trusts in the property pool.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Alternative family relationships",
+        "Legal consequences of separation"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-messina-geddies-2026",
+       "document_url": "https://drive.google.com/file/d/1oOBW3HEoxmq331YWJxHAgr7p9V0rUAml/view",
+       "document11_url": "https://drive.google.com/file/d/1szL9VsXXANcPpeCDqQz60dfv39Pmrsr9/view",
+       "source": ""
+      },
+      {
+       "id": "mete-chares-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Mete & Chares [2026] FedCFamC1F 655 — no significant change: final parenting orders stand (s 65DAAA)",
+       "summary": "A father asked the court to reconsider 2023 parenting orders, but the children's wishes and his failed attempts at time continued earlier circumstances, so no significant change was shown under s 65DAAA. Use it for the finality of parenting orders and the 2023 codified rule.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal consequences of separation",
+        "The changing nature of parental respons…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-mete-chares-2026",
+       "document_url": "https://drive.google.com/file/d/1KvNVPIDem73Cm71GyDj1y-U5lOPJaoyl/view",
+       "document11_url": "https://drive.google.com/file/d/1J5Gu2oqCtv-3RQKjsqhpY6AjtrlFN1_1/view",
+       "source": ""
+      },
+      {
+       "id": "minami-egawa-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Minami & Egawa (No 2) [2026] FedCFamC1F 625 — a husband's 87-year-old mother stays a party (s 106B)",
+       "summary": "A wife seeks to set aside a house transfer to her husband's 87-year-old mother, and the mother stays a party because the wife has a case to be tried despite her age and health. Use it for transactions that defeat property claims and third parties drawn into family disputes; no finding has been made.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal consequences of separation"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-minami-egawa-no2-2026",
+       "document_url": "https://drive.google.com/file/d/1aHxdJvudRBTlooGI9tkIxq0YS8xdk_MS/view",
+       "document11_url": "https://drive.google.com/file/d/1qjOwk085k3D3AR2mGa4opw_Qx0TN1kUQ/view",
+       "source": ""
+      },
+      {
+       "id": "nuri-nuri-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Nuri & Nuri (No 2) [2026] FedCFamC1F 692 — the children's psychologist's notes produced on subpoena",
+       "summary": "The Independent Children's Lawyer subpoenaed the children's psychologist's notes, the therapy-harm objection failed, and the parents were restrained from discussing the notes with the children. Use it for the Independent Children's Lawyer's role and children's privacy against the court's need for evidence.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal consequences of separation",
+        "The roles of courts and dispute resolut…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nuri-nuri-no2-2026",
+       "document_url": "https://drive.google.com/file/d/1QESZaymcHWcylEn_Zs1ikTH4EJrsArmj/view",
+       "document11_url": "https://drive.google.com/file/d/1JZnxU1ODQvEAdoGQX5nYFtAf2Ii7kb-T/view",
+       "source": ""
+      },
+      {
+       "id": "parashara-dipaka-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Parashara & Dipaka [2026] FedCFamC1F 699 — no nullity for fraud about personal qualities",
+       "summary": "A husband asked for his 2025 arranged marriage to be declared void, but the court held that misrepresentation about personal qualities is not fraud that negates consent. Use it for the legal requirements of marriage and nullity versus divorce.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal requirements of marriage"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-parashara-dipaka-2026",
+       "document_url": "https://drive.google.com/file/d/1Ae9Qos4GJJ9ml42dLgFnvxlzIKPbDp-z/view",
+       "document11_url": "https://drive.google.com/file/d/1uVl56PMjl3ydraTvYcDbbKzGbXh4JQ6l/view",
+       "source": ""
+      },
+      {
+       "id": "polycarpe-verissimus-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Polycarpe & Verissimus (No 2) [2026] FedCFamC1F 715 — a home sale stalled by a debt writ and lawyers' caveats",
+       "summary": "After a Full Court rehearing order, a home sale was held up by a creditor's writ and caveats from the wife's former lawyers, so the firms were joined and the trial listed for January 2027. Use it for creditors and third parties in property cases, and the cost and delay of rehearings.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal consequences of separation"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-polycarpe-verissimus-no2-2026",
+       "document_url": "https://drive.google.com/file/d/1tN7HqZK8M69-W82eFsdwp1B-UvcW64Jv/view",
+       "document11_url": "https://drive.google.com/file/d/1uMT9ny2L3ZVNPwDhEPjmYG4iihfZVlHx/view",
+       "source": ""
+      },
+      {
+       "id": "ulises-alberta-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Ulises & Alberta [2026] FedCFamC1F 673 — a threat in the child's presence, coercive control and no time",
+       "summary": "A father sought time with his autistic 11-year-old daughter, but the court found a threat made in her presence within a pattern of coercive control and ordered no time, with sole responsibility to the mother. Use it for family violence in parenting decisions and protecting young people under the law. Teach with care.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Dealing with domestic violence",
+        "Legal consequences of separation"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-ulises-alberta-2026",
+       "document_url": "https://drive.google.com/file/d/1gMTKvg4ZIoq9ep6TJKodxUzF38lCxjNH/view",
+       "document11_url": "https://drive.google.com/file/d/1rMCgw-DRyC9zFtz8cWveWsTdyU-NUN7m/view",
+       "source": ""
+      },
+      {
+       "id": "wojcik-wojcik-no4-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Wojcik & Wojcik (No 4) [2026] FedCFamC1F 707 — late disclosure and a refused expert before a $200 million trial",
+       "summary": "Days before a trial over a $200 million pool, most of the wife's disclosure requests were ordered but her capacity reports and geriatrician were refused as too late. Use it for disclosure duties in property cases and case management in an adversarial system.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal consequences of separation",
+        "The roles of courts and dispute resolut…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wojcik-wojcik-no4-2026",
+       "document_url": "https://drive.google.com/file/d/19FAx8GVHhLx6uy7Eys9T-c7pGFFv68LP/view",
+       "document11_url": "https://drive.google.com/file/d/1x7mZZnoCIOxuXBrQeX-2aJkRKxPCcNKO/view",
+       "source": ""
+      },
+      {
+       "id": "yonkers-ramires-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Yonkers & Ramires [2026] FedCFamC1F 717 — no interim sale of the $4.1 million family home",
+       "summary": "A wife sought an immediate sale of the $4.1 million family home, but the court refused because a sale cannot be undone and would defeat the husband's claim to keep it. Use it for interim property orders and the financial cost of delay.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Legal consequences of separation"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-yonkers-ramires-2026",
+       "document_url": "https://drive.google.com/file/d/1gZhRO699K2lspa-5IvL2FZQwJDRUjbmf/view",
+       "document11_url": "https://drive.google.com/file/d/19Lx5pDoF9p9b0_vJ2Bo-kbJLo6Mb1fUk/view",
+       "source": ""
+      },
+      {
+       "id": "victorian-election-family-violence-pledges-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Family violence advocates march as parties pitch tougher laws (ABC, 20 November 2026)",
+       "summary": "Advocates marching in Melbourne said family violence is missing from Victoria's election, as Labor pledges tougher penalties and a $4m prevention fund against a sector ask of $554m a year. Use it for law reform responses to family violence and penalties versus service funding; the $554m is an ask, not a costed policy.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-23",
+       "core_labels": [
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-victorian-election-family-violence-pledges-2026",
+       "document_url": "https://drive.google.com/file/d/1i5GSld7pv5rkVhEXDkeJqgFoh1ZGl3DW/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-20/thousands-walk-against-family-violence-ahead-of-election/107394070"
+      },
+      {
+       "id": "joanne-young-drugging-rape-convictions-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Husband's 'permission' no defence: men guilty of abusing drugged wife (ABC/Reuters, 20 November 2026)",
+       "summary": "Four men were convicted of sexually abusing a woman who had been drugged by her husband, and the courts held that the husband's 'permission' was no defence. Use it for sexual violence within marriage, mistaken belief in consent as a defence, and a comparison with NSW affirmative consent. Graphic facts; teach with care.",
+       "note": "Content note: this item involves sexual offences. The summary describes the legal decision only.",
+       "added": "2026-11-23",
+       "core_labels": [
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-joanne-young-drugging-rape-convictions-2026",
+       "document_url": "https://drive.google.com/file/d/1jVTC1I65Hxx7EbHG-1Cv0OTKQzy-vGSS/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-20/woman-drugged-raped-by-men-in-scheme-organised-by-husband/107407112"
+      },
+      {
+       "id": "ngukurr-inquest-dv-risk-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Inquest hears high-risk young mother waited months for DV support (ABC, 21 November 2026)",
+       "summary": "An NT inquest heard that a young Aboriginal mother assessed as high risk of family violence waited weeks for specialist support before her death. Use it for how well domestic violence risk frameworks work in remote communities and gaps between agencies; this is evidence heard, not coronial findings. Content note: suicide and family violence.",
+       "note": "Content note: this item involves a death or killing and family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-23",
+       "core_labels": [
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-ngukurr-inquest-dv-risk-2026",
+       "document_url": "https://drive.google.com/file/d/1TBNERqHd53HcWYDr1lHI1ipiNzKG9Avh/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-21/ngukurr-inquest-mirniyowan-suicide-domestic-violence/107406224"
+      }
+     ]
+    },
+    {
+     "key": "disputes",
+     "label": "Disputes under the law",
+     "part": "Year 11 (Preliminary) Focus area 2",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "chen-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Chen v Minister [2026] FedCFamC2G 2278 — a missed Tribunal deadline and no right to a hearing",
+       "summary": "A student visa applicant missed a Tribunal deadline and was decided on the papers, and the court held the Migration Act's invitation scheme had been followed so he lost his right to a hearing. Use it for statutory procedure in tribunals and procedural fairness shaped by statute.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-chen-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1wQh9QjocgxdYQsMgD_OYEeAq5m421CeD/view",
+       "source": ""
+      },
+      {
+       "id": "dji20-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "DJI20 v Minister [2026] FCA 1755 — vague grounds and no submissions: appeal dismissed",
+       "summary": "A Chinese national whose protection claims were found fabricated appealed a failed judicial review, but his grounds identified no error and he made no submissions, so the appeal was dismissed with costs. Use it for the federal appellate hierarchy and the limits of review for unrepresented applicants.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The role, jurisdiction and hierarchy of…"
+       ],
+       "also": [
+        "investigating"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-dji20-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1GKX_J6eBBm2m2V3TJn4Z3ZJgfC-jfjZ0/view",
+       "source": ""
+      },
+      {
+       "id": "dyo21-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "DYO21 v Minister [2026] FedCFamC2G 2279 — 2,172 days late, blaming an agent",
+       "summary": "A woman sought to challenge a 2016 Tribunal decision 2,172 days late, blaming an agent's false contact details, and the court refused to extend time because the delay was extraordinary. Use it for time limits in judicial review and justice for people let down by unregistered agents.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "Reasons individuals and groups have dis…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-dyo21-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1l5WDU189YPzQUl1yWfCEKVigo7ED-S7h/view",
+       "source": ""
+      },
+      {
+       "id": "gratory-v-pastrello-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Gratory v Pastrello (No 2) [2026] NSWSC 1485 — a pub manager's $1.18 million diversion",
+       "summary": "Receivers for a pub company succeeded in showing its manager-director dishonestly diverted $1.18 million in ATM payments and rebates to his family company, but most missing-cash claims failed. Use it for equitable compensation as a remedy and proving loss on the balance of probabilities.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "The purpose and characteristics of civi…",
+        "Types and aims of remedies"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-gratory-v-pastrello-no2-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1hDVrD8DeW5XMwmNoHonXqcSEX62P3KAs/view",
+       "source": ""
+      },
+      {
+       "id": "paumolevuka-v-fcfcoa-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Paumolevuka v FCFCOA [2026] FCA 1767 — no interpreter at an urgent hearing, but no jurisdictional error",
+       "summary": "A Tongan-speaking man facing removal had no interpreter at his urgent hearing, and the Federal Court found he was disadvantaged but there is no right to an interpreter and his case was bound to fail. Use it for a fair hearing and language barriers, and access to justice for non-English speakers.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "Principles of procedural fairness"
+       ],
+       "also": [
+        "investigating"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-paumolevuka-v-fcfcoa-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1xP1zHyIvicLoLQ4cqUyGSwrm8MHD2kBM/view",
+       "source": ""
+      },
+      {
+       "id": "rani-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Rani v Minister [2026] FCA 1769 — a genuine-student finding and an appeal with no submissions",
+       "summary": "A student visa applicant found not to be a genuine temporary student appealed but made no submissions, and the court held the grounds lacked particulars and that weight is not jurisdictional error. Use it for appeals in the federal court hierarchy and legality against merits.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The role, jurisdiction and hierarchy of…"
+       ],
+       "also": [
+        "investigating"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-rani-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/19zXq5IcD4HZ8xwgzfyxjT-fJc77S1GKq/view",
+       "source": ""
+      },
+      {
+       "id": "singh-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Singh v Minister [2026] FedCFamC2G 2269 — bogus bank documents and PIC 4020",
+       "summary": "An Indian student refused a visa for bogus financial documents argued the Tribunal read 'compelling circumstances' too narrowly and was biased, but the court found no jurisdictional error. Use it for delegated legislation in the Migration Regulations and the limits of judicial review.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-singh-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/13bVOpIfkXVnZpSuSWYZOm6A7GQ5OsnY4/view",
+       "source": ""
+      },
+      {
+       "id": "zahid-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Zahid v Minister [2026] FedCFamC2G 2273 — not a genuine temporary entrant: student visa review fails",
+       "summary": "A Pakistani student refused a visa as not a genuine temporary entrant argued four grounds, but the court held weight was for the Tribunal and no illogicality was shown. Use it for judicial review of tribunal decisions and legality, not merits.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-zahid-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1WAu5ZMweJASDzgLsVcApACUqbWffSXR9/view",
+       "source": ""
+      },
+      {
+       "id": "alka-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Alka v Minister [2026] FCA 1751 — hardship does not cure an unmet visa criterion",
+       "summary": "An overstayer since 2009 was refused a medical treatment visa for missing the 28-day rule, and the court held her hardship could not change the unmet criteria, dismissing the appeal with costs. Use it to show courts review legality, not compassion, and how regulations set visa criteria.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The role, jurisdiction and hierarchy of…"
+       ],
+       "also": [
+        "investigating"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-alka-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1DYry4XDx8N_DD7KEMe3D9nT-A1ruR_nY/view",
+       "source": ""
+      },
+      {
+       "id": "bls19-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "BLS19 v Minister [2026] FedCFamC2G 2288 — a 2019 challenge dismissed for non-appearance",
+       "summary": "A 2019 challenge to a refused Safe Haven Enterprise Visa was dismissed when the applicant, who had left Australia, did not appear at a directions hearing, with no merits decided. Use it for court case management and delay.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-bls19-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1mdOfes2sr_WjZPcfxbxci1r0QmK9MPCY/view",
+       "source": ""
+      },
+      {
+       "id": "baig-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Baig v Minister [2026] FedCFamC2G 2266 — a nominated job lost to COVID and no discretion to help",
+       "summary": "A mechanic was refused a permanent visa because his nominated job no longer existed after COVID-19 lockdowns, and the court held it reviews legality, not the fairness of the outcome. Use it for the limits of judicial review and the point that law and fairness can diverge.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-baig-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1C_oUCSdn2VNQFrs6eEFh7EN_aLiMkNGE/view",
+       "source": ""
+      },
+      {
+       "id": "chs22-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "CHS22 v Minister [2026] FedCFamC2G 2290 — a protection visa challenge dismissed for non-appearance",
+       "summary": "A 2022 challenge to a protection visa refusal was dismissed with $4,300 costs when the applicant, who had left Australia, did not appear, with no merits decided. Use it for case management in the federal courts.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-chs22-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1Wt_21DeJ6HjVI7XP1x0M56QpsyHX9MMc/view",
+       "source": ""
+      },
+      {
+       "id": "cyx24-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "CYX24 v Minister [2026] FedCFamC2G 2265 — notice validly emailed: a Tribunal dismissal stands",
+       "summary": "A protection visa applicant said he never received notice of his Tribunal hearing, but the court held notice was validly emailed and confirming the dismissal a day early was immaterial. Use it for procedural rules and fair hearings; his protection claim was never examined.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-cyx24-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1m1IXsHCqaq4xDC-79DPdjjjcINxrWP65/view",
+       "source": ""
+      },
+      {
+       "id": "chinacalle-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Chinacalle v Minister [2026] FCAFC 145 — a secondary applicant's visa falls with her former partner's",
+       "summary": "The Full Federal Court held that a woman's visa fell when her former partner's visa was cancelled, because s 140(1) looks to the basis of her grant, not her situation at cancellation. Use it for statutory interpretation by courts and appeals in judicial review.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The role, jurisdiction and hierarchy of…"
+       ],
+       "also": [
+        "investigating"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-chinacalle-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1kmpbnDPaOu9Q7ySCNq0fJFPFqhSHQvQD/view",
+       "source": ""
+      },
+      {
+       "id": "datona-v-australian-tank-engineering-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Datona v Australian Tank Engineering [2026] NSWDC 419 — a defective fuel tanker trailer and the consumer guarantees",
+       "summary": "A trucking company's $224,000 fuel tanker trailer lost an axle, and the District Court found a defect rather than poor maintenance, a major failure of acceptable quality, and ordered a refund plus lost profits. Use it for statutory consumer guarantees and refunds and damages as remedies.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Types of civil law",
+        "Types and aims of remedies"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-datona-v-australian-tank-engineering-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1pfL5csgyK0oqcSoWr4W1PMlWzy-Vjg_a/view",
+       "source": ""
+      },
+      {
+       "id": "davis-and-asic-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Davis and ASIC [2026] ARTA 2754 — reinstating a dismissed review: an error, but not a causative one",
+       "summary": "A man refused registration as a company auditor asked the Tribunal to reinstate his dismissed review, and it refused because one finding was wrong but did not cause the dismissal. Use it for the Administrative Review Tribunal's procedures and what counts as a reviewable decision.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-davis-and-asic-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1iBpR_W8kQhjqeXQd2-M5yhb2BSpFJcw5/view",
+       "source": ""
+      },
+      {
+       "id": "duong-and-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Duong and Minister [2026] ARTA 2759 — visa cancellation after drug convictions: family v community protection",
+       "summary": "A man in Australia since age 16 had his visa cancelled after two drug convictions, and the Tribunal weighed his family and children against community protection and refused to revoke. Use it for tribunal review of character cancellations and family unity versus community protection.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-duong-and-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1G9_0cQY5c9hhpOrUbgwZEyHf1eIu_qfP/view",
+       "source": ""
+      },
+      {
+       "id": "fft19-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "FFT19 v Minister [2026] FCA 1760 — a posted refusal letter and a missed review deadline",
+       "summary": "A protection visa applicant said he never received a posted refusal letter, but the court held the duty is performed by posting and a brief phone call is not reviewable. Use it for notice rules and access to review.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-fft19-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/11U3S4M6TJruK62JFpvled75-Xmz72ByW/view",
+       "source": ""
+      },
+      {
+       "id": "foster-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Foster v Minister [2026] FCA 1750 — a stepson's visitor visa and a 42-day delay",
+       "summary": "A man sought more time to challenge his stepson's visitor visa refusal on character grounds, and the court refused because the 42-day delay was unexplained and the grounds weak. Use it for time limits in judicial review.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-foster-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1g3qGTDDlwOTZGL9FpScZZQoS4_1oimr1/view",
+       "source": ""
+      },
+      {
+       "id": "hunjan-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Hunjan v Minister [2026] FedCFamC2G 2281 — 15 days late to reinstate: refused",
+       "summary": "A visa applicant missed his final hearing then applied 15 days late to reinstate, and the court refused because his explanations were inconsistent and his grounds poor. Use it for reinstatement and time limits.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-hunjan-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1gZgBReJjT5jBpp4JdqB3eyDy_GJuxOUw/view",
+       "source": ""
+      },
+      {
+       "id": "joshi-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Joshi v Minister [2026] FedCFamC2G 2287 — dismissed for non-appearance after leaving Australia",
+       "summary": "A student visa applicant who had left Australia did not attend a directions hearing despite warnings, so his application was dismissed with $4,360 costs, though he may apply to reinstate. Use it for court procedure and case management.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-joshi-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1BbZeq-Pl0bL1AznQpUU8_runh6czM1rm/view",
+       "source": ""
+      },
+      {
+       "id": "khan-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Khan v Minister [2026] FCA 1768 — an agent's mistaken withdrawal ends a visa application",
+       "summary": "An agent lodged a withdrawal naming both spouses, apparently meaning only the wife, and the court held withdrawal under s 49 is objective, so the application ended and mandamus was refused. Use it for mandamus and the remedies available in judicial review.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-khan-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1D-UMJjtzXbEr2qwX4t8-T7LSgGyYTdG4/view",
+       "source": ""
+      },
+      {
+       "id": "ngo-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Ngo v Minister [2026] FCA 1758 — an illogical risk finding quashes a refusal to revoke",
+       "summary": "The Federal Court quashed a refusal to revoke a visa cancellation after drug trafficking convictions because the Tribunal made an illogical reoffending finding and wrongly said there was no expert evidence about his children. Use it for judicial review correcting tribunal error and legality and fairness in administrative decisions.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "Key concepts of justice illustrated thr…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-ngo-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1pjMVd5tKn4IBn7XF1OpHyguYG9i6xeAx/view",
+       "source": ""
+      },
+      {
+       "id": "qfpd-and-secretary-dss-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "QFPD and Secretary, DSS [2026] ARTA 2756 — a $400,000 settlement and a $58,163 compensation debt",
+       "summary": "A man who received a $400,000 injury settlement owed $58,163.44 in social security paid during the preclusion period, and the Tribunal applied the 50% rule and refused to waive the debt. Use it for merits review of welfare decisions and why people dispute government debts.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "Reasons individuals and groups have dis…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-qfpd-and-secretary-dss-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1_KsMSlpK2ghhSp3fyOv6fN0sl9xoXVPO/view",
+       "source": ""
+      },
+      {
+       "id": "shaik-v-minister-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Shaik v Minister (No 2) [2026] FedCFamC2G 2284 — 39 not 42 on the English test: reinstatement refused",
+       "summary": "A student visa applicant who missed his hearing sought reinstatement, but he scored 39 rather than the required 42 on the English test, so there was no arguable error and reinstatement was refused with costs. Use it for reinstatement and the merits threshold.",
+       "note": "",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-shaik-v-minister-no2-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1k9EaAXYcSteCb5UilKhFAk6tTW4w6NeK/view",
+       "source": ""
+      },
+      {
+       "id": "ytwb-and-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "YTWB and Minister [2026] ARTA 2753 — a bridging visa cancelled after a prison sentence",
+       "summary": "A man's bridging visa was cancelled while he was in prison, and the Tribunal affirmed the refusal to revoke because community expectations, protection and family violence outweighed his ties. Use it for merits review in migration and ministerial directions as delegated rules.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-21",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-ytwb-and-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1qMW1mS4C1g0ueaPoVUR8Qx4iMh0gkFCg/view",
+       "source": ""
+      }
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-20",
    "since": "",
