@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-03/beau-lamarre-condon-told-police-n
 related: crimes-act-homicide-defences, woolmington-v-dpp-1935, zecevic-v-dpp-1987, russell-manslaughter-sentencing-hearing-2026, jury-act-1977
 added: 2026-11-04
 added_at: 2026-11-04 07:17
-updated_at: 2026-11-04 07:17
+updated_at: 2026-11-24 08:19
 ---
 
 Former NSW police officer **Beau Lamarre-Condon** has pleaded not guilty to the **murders** of Jesse Baird and Luke
@@ -40,6 +40,11 @@ Self-defence (s 418) is a complete defence if the accused believed the conduct n
 response to the circumstances as perceived. Once raised, the **Crown must disprove it** beyond reasonable doubt
 (s 419). If the belief was genuine but the response unreasonable, **excessive self-defence** (s 421) reduces murder to
 manslaughter. Agreed facts include the disguise and moving the bodies.
+
+## Update: defence closing (ABC, 23 November 2026)
+
+A [second class summary](https://drive.google.com/file/d/1EtcCEJmtL1RdEtZTD38h8Z4PWHZQi2Hu/view) covers the first day of the defence closing by John Stratton SC, after a nine-week trial with about 90 Crown witnesses. The defence says Mr Davies was the majority contributor of DNA on the trigger and a missing bullet raises reasonable doubt; the Crown (Brett Hatfield SC) says the forensic and ballistic evidence alone is enough to convict and calls Mr Baird's second shot an 'execution'. These are each side's arguments to the jury, not findings.
+
 
 ## Use it for
 

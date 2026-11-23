@@ -4353,6 +4353,22 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - WA Coercive Control Offence Plan Evidence Summary.pdf",
+   "name": "Family - WA Coercive Control Offence Plan Evidence Summary",
+   "file": "Family - WA Coercive Control Offence Plan Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210351,
+   "mtime": 1795465029,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.2.4"
+   ],
+   "dupe": "familywacoercivecontroloffenceplanevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Family - WA Indigenous Child Protection Port Hedland Evidence Summary.pdf",
    "name": "Family - WA Indigenous Child Protection Port Hedland Evidence Summary",
    "file": "Family - WA Indigenous Child Protection Port Hedland Evidence Summary.pdf",
@@ -4926,6 +4942,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - 2109932 (Refugee) [2026] ARTA 2795 - Case Summary.pdf",
+   "name": "Year 11 - 2109932 (Refugee) [2026] ARTA 2795 - Case Summary",
+   "file": "Year 11 - 2109932 (Refugee) [2026] ARTA 2795 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 276047,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.9",
+    "exp.5.3"
+   ],
+   "dupe": "year112109932refugee2026arta2795casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - 2208670 (Refugee) [2026] ARTA 2691 - Case Summary.pdf",
    "name": "Year 11 - 2208670 (Refugee) [2026] ARTA 2691 - Case Summary",
    "file": "Year 11 - 2208670 (Refugee) [2026] ARTA 2691 - Case Summary.pdf",
@@ -4940,6 +4974,42 @@
     "exp.5.3"
    ],
    "dupe": "year112208670refugee2026arta2691casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - 2211687 (Refugee) [2026] ARTA 2784 - Case Summary.pdf",
+   "name": "Year 11 - 2211687 (Refugee) [2026] ARTA 2784 - Case Summary",
+   "file": "Year 11 - 2211687 (Refugee) [2026] ARTA 2784 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 269085,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "exp.5.3",
+    "exp.4.2"
+   ],
+   "dupe": "year112211687refugee2026arta2784casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - 2216280 (Refugee) [2026] ARTA 2772 - Case Summary.pdf",
+   "name": "Year 11 - 2216280 (Refugee) [2026] ARTA 2772 - Case Summary",
+   "file": "Year 11 - 2216280 (Refugee) [2026] ARTA 2772 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 268322,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "exp.5.3",
+    "exp.4.2"
+   ],
+   "dupe": "year112216280refugee2026arta2772casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4964,6 +5034,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - 2217285 (Refugee) [2026] ARTA 2786 - Case Summary.pdf",
+   "name": "Year 11 - 2217285 (Refugee) [2026] ARTA 2786 - Case Summary",
+   "file": "Year 11 - 2217285 (Refugee) [2026] ARTA 2786 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 267720,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "exp.5.3",
+    "exp.4.2"
+   ],
+   "dupe": "year112217285refugee2026arta2786casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - 2219294 (Refugee) [2026] ARTA 2687 - Case Summary.pdf",
    "name": "Year 11 - 2219294 (Refugee) [2026] ARTA 2687 - Case Summary",
    "file": "Year 11 - 2219294 (Refugee) [2026] ARTA 2687 - Case Summary.pdf",
@@ -4978,6 +5066,42 @@
     "exp.6.2"
    ],
    "dupe": "year112219294refugee2026arta2687casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - 2300424 (Refugee) [2026] ARTA 2798 - Case Summary.pdf",
+   "name": "Year 11 - 2300424 (Refugee) [2026] ARTA 2798 - Case Summary",
+   "file": "Year 11 - 2300424 (Refugee) [2026] ARTA 2798 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 250757,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.9",
+    "exp.5.3"
+   ],
+   "dupe": "year112300424refugee2026arta2798casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - 2305424 (Refugee) [2026] ARTA 2780 - Case Summary.pdf",
+   "name": "Year 11 - 2305424 (Refugee) [2026] ARTA 2780 - Case Summary",
+   "file": "Year 11 - 2305424 (Refugee) [2026] ARTA 2780 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 253374,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.9",
+    "exp.5.3"
+   ],
+   "dupe": "year112305424refugee2026arta2780casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4999,6 +5123,41 @@
     "dis.3.4"
    ],
    "dupe": "year112305552refugee2026arta2673casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - 2523859 (Migration) [2026] ARTA 2775 - Case Summary.pdf",
+   "name": "Year 11 - 2523859 (Migration) [2026] ARTA 2775 - Case Summary",
+   "file": "Year 11 - 2523859 (Migration) [2026] ARTA 2775 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 267731,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year112523859migration2026arta2775casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - 2551292 (Refugee) [2026] ARTA 2797 - Case Summary.pdf",
+   "name": "Year 11 - 2551292 (Refugee) [2026] ARTA 2797 - Case Summary",
+   "file": "Year 11 - 2551292 (Refugee) [2026] ARTA 2797 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 247837,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.9",
+    "exp.5.3"
+   ],
+   "dupe": "year112551292refugee2026arta2797casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5172,6 +5331,23 @@
    "kind": "case",
    "tags": [],
    "dupe": "year11antakirinjamatuyankunytjatjaraaboriginalcorporationrntbcvstateofsouthaustralia2026fca1663casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Anthonige v Drip N Dry Services Pty Ltd [2026] FCA 1772 - Case Summary.pdf",
+   "name": "Year 11 - Anthonige v Drip N Dry Services Pty Ltd [2026] FCA 1772 - Case Summary",
+   "file": "Year 11 - Anthonige v Drip N Dry Services Pty Ltd [2026] FCA 1772 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 272587,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.8",
+    "dis.2.5"
+   ],
+   "dupe": "year11anthonigevdripndryservicesptyltd2026fca1772casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -5465,6 +5641,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Briggs on behalf of the Wulli Wulli People #3 v State of Queensland (No 3) [2026] FCA 1770 - Case Summary.pdf",
+   "name": "Year 11 - Briggs on behalf of the Wulli Wulli People #3 v State of Queensland (No 3) [2026] FCA 1770 - Case Summary",
+   "file": "Year 11 - Briggs on behalf of the Wulli Wulli People #3 v State of Queensland (No 3) [2026] FCA 1770 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 272615,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "chg.5.2"
+   ],
+   "dupe": "year11briggsonbehalfofthewulliwullipeople3vstateofqueenslandno32026fca1770casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Brooker v R [2026] NSWCCA 181 - Case Summary.pdf",
    "name": "Year 11 - Brooker v R [2026] NSWCCA 181 - Case Summary",
    "file": "Year 11 - Brooker v R [2026] NSWCCA 181 - Case Summary.pdf",
@@ -5532,6 +5724,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - CBO20 v Minister for Immigration and Citizenship [2026] FCA 1732 - Case Summary.pdf",
+   "name": "Year 11 - CBO20 v Minister for Immigration and Citizenship [2026] FCA 1732 - Case Summary",
+   "file": "Year 11 - CBO20 v Minister for Immigration and Citizenship [2026] FCA 1732 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 275122,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11cbo20vministerforimmigrationandcitizenship2026fca1732casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - CFS25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2190 - Case Summary.pdf",
    "name": "Year 11 - CFS25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2190 - Case Summary",
    "file": "Year 11 - CFS25 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2190 - Case Summary.pdf",
@@ -5561,6 +5769,22 @@
     "dis.3.4"
    ],
    "dupe": "year11chs22vministerforimmigrationandcitizenship2026fedcfamc2g2290casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - CSY21 v Minister for Immigration, Citizenship and Multicultural Affairs [2026] FCA 1784 - Case Summary.pdf",
+   "name": "Year 11 - CSY21 v Minister for Immigration, Citizenship and Multicultural Affairs [2026] FCA 1784 - Case Summary",
+   "file": "Year 11 - CSY21 v Minister for Immigration, Citizenship and Multicultural Affairs [2026] FCA 1784 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 276477,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11csy21vministerforimmigrationcitizenshipandmulticulturalaffairs2026fca1784casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6025,6 +6249,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Dong v Minister for Immigration and Citizenship [2026] FCAFC 149 - Case Summary.pdf",
+   "name": "Year 11 - Dong v Minister for Immigration and Citizenship [2026] FCAFC 149 - Case Summary",
+   "file": "Year 11 - Dong v Minister for Immigration and Citizenship [2026] FCAFC 149 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 281931,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "inv.4.1"
+   ],
+   "dupe": "year11dongvministerforimmigrationandcitizenship2026fcafc149casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary.pdf",
    "name": "Year 11 - Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary",
    "file": "Year 11 - Duan and Ren (No 6) [2026] FedCFamC1F 617 - Case Summary.pdf",
@@ -6091,6 +6332,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - EIX18 and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2791 - Case Summary.pdf",
+   "name": "Year 11 - EIX18 and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2791 - Case Summary",
+   "file": "Year 11 - EIX18 and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2791 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 278674,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.1",
+    "exp.5.3"
+   ],
+   "dupe": "year11eix18andministerforimmigrationandcitizenshipmigration2026arta2791casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - EPA v Wollongong Resources Pty Ltd [2026] NSWLEC 146 - Case Summary.pdf",
    "name": "Year 11 - EPA v Wollongong Resources Pty Ltd [2026] NSWLEC 146 - Case Summary",
    "file": "Year 11 - EPA v Wollongong Resources Pty Ltd [2026] NSWLEC 146 - Case Summary.pdf",
@@ -6104,6 +6363,38 @@
     "dis.1.3"
    ],
    "dupe": "year11epavwollongongresourcesptyltd2026nswlec146casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - EPE26 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2309 - Case Summary.pdf",
+   "name": "Year 11 - EPE26 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2309 - Case Summary",
+   "file": "Year 11 - EPE26 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2309 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 282017,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11epe26vministerforimmigrationandcitizenship2026fedcfamc2g2309casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - EXP26 v Minister for Immigration and Citizenship (No 2) [2026] FedCFamC2G 2305 - Case Summary.pdf",
+   "name": "Year 11 - EXP26 v Minister for Immigration and Citizenship (No 2) [2026] FedCFamC2G 2305 - Case Summary",
+   "file": "Year 11 - EXP26 v Minister for Immigration and Citizenship (No 2) [2026] FedCFamC2G 2305 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 282599,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11exp26vministerforimmigrationandcitizenshipno22026fedcfamc2g2305casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6223,6 +6514,22 @@
     "dis.2.7"
    ],
    "dupe": "year11fundingsolvedptyltdvaravanopoulos2026nswsc1440casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Furnadjiev & B Pty Ltd [2026] FedCFamC1A 208 - Case Summary.pdf",
+   "name": "Year 11 - Furnadjiev & B Pty Ltd [2026] FedCFamC1A 208 - Case Summary",
+   "file": "Year 11 - Furnadjiev & B Pty Ltd [2026] FedCFamC1A 208 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 269497,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5"
+   ],
+   "dupe": "year11furnadjievbptyltd2026fedcfamc1a208casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6701,6 +7008,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Imiarachchi v Minister for Immigration and Citizenship [2026] FedCFamC2G 2302 - Case Summary.pdf",
+   "name": "Year 11 - Imiarachchi v Minister for Immigration and Citizenship [2026] FedCFamC2G 2302 - Case Summary",
+   "file": "Year 11 - Imiarachchi v Minister for Immigration and Citizenship [2026] FedCFamC2G 2302 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271526,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11imiarachchivministerforimmigrationandcitizenship2026fedcfamc2g2302casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Jacques [2026] FedCFamC1A 204 - Case Summary.pdf",
    "name": "Year 11 - Jacques [2026] FedCFamC1A 204 - Case Summary",
    "file": "Year 11 - Jacques [2026] FedCFamC1A 204 - Case Summary.pdf",
@@ -7174,6 +7497,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Midwest Academy v Secretary, DCCEEW; Akkari v Secretary (No 2) [2026] NSWLEC 152 - Case Summary.pdf",
+   "name": "Year 11 - Midwest Academy v Secretary, DCCEEW; Akkari v Secretary (No 2) [2026] NSWLEC 152 - Case Summary",
+   "file": "Year 11 - Midwest Academy v Secretary, DCCEEW; Akkari v Secretary (No 2) [2026] NSWLEC 152 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 274666,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.5",
+    "crime.4.3"
+   ],
+   "dupe": "year11midwestacademyvsecretarydcceewakkarivsecretaryno22026nswlec152casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Mikhaiel v R [2026] NSWCCA 186 - Case Summary.pdf",
    "name": "Year 11 - Mikhaiel v R [2026] NSWCCA 186 - Case Summary",
    "file": "Year 11 - Mikhaiel v R [2026] NSWCCA 186 - Case Summary.pdf",
@@ -7255,6 +7595,23 @@
     "inv.3.2"
    ],
    "dupe": "year11musaevandmusaev2026fedcfamc1f641casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - NMT26 v Minister for Immigration and Citizenship (No 2) [2026] FedCFamC2G 2295 - Case Summary.pdf",
+   "name": "Year 11 - NMT26 v Minister for Immigration and Citizenship (No 2) [2026] FedCFamC2G 2295 - Case Summary",
+   "file": "Year 11 - NMT26 v Minister for Immigration and Citizenship (No 2) [2026] FedCFamC2G 2295 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 280852,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.2"
+   ],
+   "dupe": "year11nmt26vministerforimmigrationandcitizenshipno22026fedcfamc2g2295casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7907,6 +8264,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - R v Zakaria (No 3) [2026] NSWSC 1505 - Case Summary.pdf",
+   "name": "Year 11 - R v Zakaria (No 3) [2026] NSWSC 1505 - Case Summary",
+   "file": "Year 11 - R v Zakaria (No 3) [2026] NSWSC 1505 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271437,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7"
+   ],
+   "dupe": "year11rvzakariano32026nswsc1505casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Rahman & Rahman (No 3) [2026] FedCFamC2F 1203 - Case Summary.pdf",
    "name": "Year 11 - Rahman & Rahman (No 3) [2026] FedCFamC2F 1203 - Case Summary",
    "file": "Year 11 - Rahman & Rahman (No 3) [2026] FedCFamC2F 1203 - Case Summary.pdf",
@@ -8308,6 +8681,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Singh v Minister for Immigration and Citizenship [2026] FedCFamC2G 2264 - Case Summary.pdf",
+   "name": "Year 11 - Singh v Minister for Immigration and Citizenship [2026] FedCFamC2G 2264 - Case Summary",
+   "file": "Year 11 - Singh v Minister for Immigration and Citizenship [2026] FedCFamC2G 2264 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 272139,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11singhvministerforimmigrationandcitizenship2026fedcfamc2g2264casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Singh v Minister for Immigration and Citizenship [2026] FedCFamC2G 2269 - Case Summary.pdf",
    "name": "Year 11 - Singh v Minister for Immigration and Citizenship [2026] FedCFamC2G 2269 - Case Summary",
    "file": "Year 11 - Singh v Minister for Immigration and Citizenship [2026] FedCFamC2G 2269 - Case Summary.pdf",
@@ -8642,6 +9031,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - WRVX and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2790 - Case Summary.pdf",
+   "name": "Year 11 - WRVX and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2790 - Case Summary",
+   "file": "Year 11 - WRVX and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2790 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 275261,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.8"
+   ],
+   "dupe": "year11wrvxandministerforimmigrationandcitizenshipmigration2026arta2790casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Wang and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2751 - Case Summary.pdf",
    "name": "Year 11 - Wang and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2751 - Case Summary",
    "file": "Year 11 - Wang and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2751 - Case Summary.pdf",
@@ -8843,6 +9249,23 @@
     "dis.3.1"
    ],
    "dupe": "year11ytwbandministerforimmigrationandcitizenshipmigration2026arta2753casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Yassein and Minister for Immigration and Citizenship (Citizenship) [2026] ARTA 2788 - Case Summary.pdf",
+   "name": "Year 11 - Yassein and Minister for Immigration and Citizenship (Citizenship) [2026] ARTA 2788 - Case Summary",
+   "file": "Year 11 - Yassein and Minister for Immigration and Citizenship (Citizenship) [2026] ARTA 2788 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 272288,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "exp.5.3"
+   ],
+   "dupe": "year11yasseinandministerforimmigrationandcitizenshipcitizenship2026arta2788casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -11240,6 +11663,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Human Rights/2109932 (Refugee) [2026] ARTA 2795 - Case Summary.pdf",
+   "name": "2109932 (Refugee) [2026] ARTA 2795 - Case Summary",
+   "file": "2109932 (Refugee) [2026] ARTA 2795 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 297120,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.9",
+    "exp.5.3"
+   ],
+   "dupe": "2109932refugee2026arta2795casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Human Rights/2111844 (Refugee) [2025] ARTA 3362 Case Summary.pdf",
    "name": "2111844 (Refugee) [2025] ARTA 3362 Case Summary",
    "file": "2111844 (Refugee) [2025] ARTA 3362 Case Summary.pdf",
@@ -11309,6 +11750,42 @@
    "primary": true
   },
   {
+   "path": "Cases/Human Rights/2211687 (Refugee) [2026] ARTA 2784 - Case Summary.pdf",
+   "name": "2211687 (Refugee) [2026] ARTA 2784 - Case Summary",
+   "file": "2211687 (Refugee) [2026] ARTA 2784 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 289967,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "exp.5.3",
+    "exp.4.2"
+   ],
+   "dupe": "2211687refugee2026arta2784casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/2216280 (Refugee) [2026] ARTA 2772 - Case Summary.pdf",
+   "name": "2216280 (Refugee) [2026] ARTA 2772 - Case Summary",
+   "file": "2216280 (Refugee) [2026] ARTA 2772 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 290217,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "exp.5.3",
+    "exp.4.2"
+   ],
+   "dupe": "2216280refugee2026arta2772casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Human Rights/2217075 (Refugee) [2026] ARTA 2676 - Case Summary.pdf",
    "name": "2217075 (Refugee) [2026] ARTA 2676 - Case Summary",
    "file": "2217075 (Refugee) [2026] ARTA 2676 - Case Summary.pdf",
@@ -11328,6 +11805,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Human Rights/2217285 (Refugee) [2026] ARTA 2786 - Case Summary.pdf",
+   "name": "2217285 (Refugee) [2026] ARTA 2786 - Case Summary",
+   "file": "2217285 (Refugee) [2026] ARTA 2786 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 289250,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "exp.5.3",
+    "exp.4.2"
+   ],
+   "dupe": "2217285refugee2026arta2786casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Human Rights/2219294 (Refugee) [2026] ARTA 2687 - Case Summary.pdf",
    "name": "2219294 (Refugee) [2026] ARTA 2687 - Case Summary",
    "file": "2219294 (Refugee) [2026] ARTA 2687 - Case Summary.pdf",
@@ -11342,6 +11837,42 @@
     "hr.2.11"
    ],
    "dupe": "2219294refugee2026arta2687casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/2300424 (Refugee) [2026] ARTA 2798 - Case Summary.pdf",
+   "name": "2300424 (Refugee) [2026] ARTA 2798 - Case Summary",
+   "file": "2300424 (Refugee) [2026] ARTA 2798 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 269755,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.9",
+    "exp.5.3"
+   ],
+   "dupe": "2300424refugee2026arta2798casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/2305424 (Refugee) [2026] ARTA 2780 - Case Summary.pdf",
+   "name": "2305424 (Refugee) [2026] ARTA 2780 - Case Summary",
+   "file": "2305424 (Refugee) [2026] ARTA 2780 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 268534,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.9",
+    "exp.5.3"
+   ],
+   "dupe": "2305424refugee2026arta2780casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -11446,6 +11977,24 @@
     "hr.3.1"
    ],
    "dupe": "2540409refugee2025arta342919december2025",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/2551292 (Refugee) [2026] ARTA 2797 - Case Summary.pdf",
+   "name": "2551292 (Refugee) [2026] ARTA 2797 - Case Summary",
+   "file": "2551292 (Refugee) [2026] ARTA 2797 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 267560,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.9",
+    "exp.5.3"
+   ],
+   "dupe": "2551292refugee2026arta2797casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -11601,6 +12150,24 @@
     "hr.2.11"
    ],
    "dupe": "dti21vministerforimmigrationandcitizenship2026fedcfamc2g2272casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/EIX18 and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2791 - Case Summary.pdf",
+   "name": "EIX18 and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2791 - Case Summary",
+   "file": "EIX18 and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2791 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 295132,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.1",
+    "exp.5.3"
+   ],
+   "dupe": "eix18andministerforimmigrationandcitizenshipmigration2026arta2791casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -12931,6 +13498,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Midwest Academy v Secretary, DCCEEW; Akkari v Secretary (No 2) [2026] NSWLEC 152 - Case Summary.pdf",
+   "name": "Midwest Academy v Secretary, DCCEEW; Akkari v Secretary (No 2) [2026] NSWLEC 152 - Case Summary",
+   "file": "Midwest Academy v Secretary, DCCEEW; Akkari v Secretary (No 2) [2026] NSWLEC 152 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 306207,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.5",
+    "crime.4.3"
+   ],
+   "dupe": "midwestacademyvsecretarydcceewakkarivsecretaryno22026nswlec152casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Mikhaiel v R [2026] NSWCCA 186 - Case Summary.pdf",
    "name": "Mikhaiel v R [2026] NSWCCA 186 - Case Summary",
    "file": "Mikhaiel v R [2026] NSWCCA 186 - Case Summary.pdf",
@@ -13705,6 +14289,22 @@
     "crime.4.5"
    ],
    "dupe": "rvxerriapseudonym2026nswcca183casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Zakaria (No 3) [2026] NSWSC 1505 - Case Summary.pdf",
+   "name": "R v Zakaria (No 3) [2026] NSWSC 1505 - Case Summary",
+   "file": "R v Zakaria (No 3) [2026] NSWSC 1505 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 294020,
+   "mtime": 1795467944,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7"
+   ],
+   "dupe": "rvzakariano32026nswsc1505casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -14757,6 +15357,22 @@
    "primary": true
   },
   {
+   "path": "Human Rights/HR - ICJ Rohingya Genocide Ruling Refugee Council Release Evidence Summary.pdf",
+   "name": "HR - ICJ Rohingya Genocide Ruling Refugee Council Release Evidence Summary",
+   "file": "HR - ICJ Rohingya Genocide Ruling Refugee Council Release Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206812,
+   "mtime": 1795465025,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.4"
+   ],
+   "dupe": "hricjrohingyagenociderulingrefugeecouncilreleaseevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/HR - Langford Cultural Obligation Trespass Ruling Evidence Summary.pdf",
    "name": "HR - Langford Cultural Obligation Trespass Ruling Evidence Summary",
    "file": "HR - Langford Cultural Obligation Trespass Ruling Evidence Summary.pdf",
@@ -14770,6 +15386,23 @@
     "hr.2.9"
    ],
    "dupe": "hrlangfordculturalobligationtrespassrulingevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - Mount Pleasant Mine Act Evidence Summary.pdf",
+   "name": "HR - Mount Pleasant Mine Act Evidence Summary",
+   "file": "HR - Mount Pleasant Mine Act Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209806,
+   "mtime": 1795465027,
+   "bucket": "evidence",
+   "kind": "legislation",
+   "tags": [
+    "hr.2.9",
+    "hr.2.11"
+   ],
+   "dupe": "hrmountpleasantmineactevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -15263,6 +15896,23 @@
     "hr.3.1"
    ],
    "dupe": "hrunder16socialmediabanlawsuitevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - West Bank Settler Sanctions Evidence Summary.pdf",
+   "name": "HR - West Bank Settler Sanctions Evidence Summary",
+   "file": "HR - West Bank Settler Sanctions Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211624,
+   "mtime": 1795465026,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.1",
+    "hr.2.5"
+   ],
+   "dupe": "hrwestbanksettlersanctionsevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -19416,6 +20066,23 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - NSW Rental Bond Interest and Rental Taskforce Evidence Summary.pdf",
+   "name": "Shelter - NSW Rental Bond Interest and Rental Taskforce Evidence Summary",
+   "file": "Shelter - NSW Rental Bond Interest and Rental Taskforce Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207770,
+   "mtime": 1795465027,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.3",
+    "shel.2.8"
+   ],
+   "dupe": "shelternswrentalbondinterestandrentaltaskforceevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - NSW Short Stay Levy Proposal Evidence Summary.pdf",
    "name": "Shelter - NSW Short Stay Levy Proposal Evidence Summary",
    "file": "Shelter - NSW Short Stay Levy Proposal Evidence Summary.pdf",
@@ -19608,6 +20275,22 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - Rental Affordability Index 2026 Evidence Summary.pdf",
+   "name": "Shelter - Rental Affordability Index 2026 Evidence Summary",
+   "file": "Shelter - Rental Affordability Index 2026 Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 205426,
+   "mtime": 1795465028,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.1"
+   ],
+   "dupe": "shelterrentalaffordabilityindex2026evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - Rental Listings Fall Sydney Melbourne Evidence Summary.pdf",
    "name": "Shelter - Rental Listings Fall Sydney Melbourne Evidence Summary",
    "file": "Shelter - Rental Listings Fall Sydney Melbourne Evidence Summary.pdf",
@@ -19672,6 +20355,22 @@
     "shel.2.6"
    ],
    "dupe": "shelterrighthelprighttimehomelessnessevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Senate Social Housing Inquiry Evidence Summary.pdf",
+   "name": "Shelter - Senate Social Housing Inquiry Evidence Summary",
+   "file": "Shelter - Senate Social Housing Inquiry Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 210454,
+   "mtime": 1795465029,
+   "bucket": "evidence",
+   "kind": "report",
+   "tags": [
+    "shel.3.4"
+   ],
+   "dupe": "sheltersenatesocialhousinginquiryevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -23264,6 +23963,22 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - Coalition Luke's Law Bail Proposal Break Bail Go to Jail AAP Evidence Summary.pdf",
+   "name": "Crime - Coalition Luke's Law Bail Proposal Break Bail Go to Jail AAP Evidence Summary",
+   "file": "Crime - Coalition Luke's Law Bail Proposal Break Bail Go to Jail AAP Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206854,
+   "mtime": 1795465025,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.5"
+   ],
+   "dupe": "crimecoalitionlukeslawbailproposalbreakbailgotojailaapevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - Daryl Maguire Visa Fraud Sentence Evidence Summary.pdf",
    "name": "Crime - Daryl Maguire Visa Fraud Sentence Evidence Summary",
    "file": "Crime - Daryl Maguire Visa Fraud Sentence Evidence Summary.pdf",
@@ -23516,6 +24231,23 @@
     "crime.3.9"
    ],
    "dupe": "crimelamarrecondondoublemurdertrialselfdefenceevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - Lamarre-Condon Murder Trial Defence Closing Evidence Summary.pdf",
+   "name": "Crime - Lamarre-Condon Murder Trial Defence Closing Evidence Summary",
+   "file": "Crime - Lamarre-Condon Murder Trial Defence Closing Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208618,
+   "mtime": 1795465024,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.3.2",
+    "crime.3.8"
+   ],
+   "dupe": "crimelamarrecondonmurdertrialdefenceclosingevidencesummary",
    "copyOf": null,
    "primary": true
   },

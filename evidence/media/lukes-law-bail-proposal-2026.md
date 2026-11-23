@@ -15,7 +15,7 @@ source: https://moreeonlinenews.com.au/2026/11/16/moree-mp-backs-coalition-propo
 related: bail-act-2013, statement-on-bail-chief-justice-2025, nsw-prisoner-complaints-surge-remand-2026, tran-v-r-2026
 added: 2026-11-16
 added_at: 2026-11-17 08:29
-updated_at: 2026-11-20 06:50
+updated_at: 2026-11-24 08:19
 ---
 
 The Moree MP backs the Coalition's Luke's Law. **6,081** people were on remand in December 2025 (up 20.1% in two years); 97 of 123 young people refused bail under s 22C (April–September 2024) were Aboriginal.
@@ -36,6 +36,9 @@ unverified.
 A [third class summary (NSW Nationals release, 16 November)](https://drive.google.com/file/d/16UYnOf2kF2Ui5RUa5WVSPiCJjijHNe5u/view) frames the pledge as replacing the court's risk assessment with automatic remand for adults and children alike.
 
 A [fourth class summary (AAP, 17 November)](https://drive.google.com/file/d/1UH0u2InPpPp9qEmVwbtLEd3IWP49UOcU/view) sets the pledge against record remand: **14,026** adults in custody (up 10% in a year), **6,415** on remand (45.7% of adults in custody), and about a third of custody growth from domestic violence-related offences. AAP's figure of about 23,000 adults spending time on remand in the year to September was not on the BOCSAR page checked.
+
+
+A [fifth class summary (AAP via The Canberra Times, 15 November)](https://drive.google.com/file/d/1BlWqCat15lzyuVXrS82_5VsnbKT5HHNE/view) adds that 33.6% of adult prisoners (4,713 people) are Aboriginal, 22,728 adults spent time on remand in the year to September 2026, and the court bail refusal rate fell from 13% to 12% in 2025–26.
 
 
 ## Use it for
