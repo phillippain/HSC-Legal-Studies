@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-import sys, json, re, importlib, html
+import sys, json, re, importlib, html, os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from analytics import inject  # GA4 tag
 BOOKDIR = sys.argv[1]; OUT = sys.argv[2]
 sys.path.insert(0, BOOKDIR); c = importlib.import_module('content')
 SITE = 'https://sites.google.com/education.nsw.gov.au/hsc-legal-studies-at-sscbwb'
@@ -111,7 +113,7 @@ def nav(active):
     items = [f'<a href="{HUB}" target="_top">⌂ Hub</a>'] + [f'<a class="{"on" if i==active else ""}" href="{purl(i)}" target="_top">{i+1}. {esc(p["title"])}</a>' for i,p in enumerate(parts)]
     return '<div class="nav">' + ''.join(items) + '</div>'
 def wrap(col, tint, body, title):
-    return f'<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><base target="_top"><title>{esc(title)}</title><style>{CSS}:root{{--c:{col};--t:{tint}}}</style></head><body>{body}<script>{JS}</script></body></html>'
+    return inject(f'<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><base target="_top"><title>{esc(title)}</title><style>{CSS}:root{{--c:{col};--t:{tint}}}</style></head><body>{body}<script>{JS}</script></body></html>')
 def cell(x):
     if isinstance(x, (list,tuple)) and x and x[0]=='?': return f'<button class="rv">Show</button><span class="ans">{x[1]}</span>'
     return x

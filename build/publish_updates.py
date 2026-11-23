@@ -21,6 +21,8 @@ The page is written for students. Summaries stay with the legal decision; any ca
 offences, terrorism, a death or family violence gets a short content note (see NOTE_RULES).
 """
 import datetime, html, json, os, re, subprocess, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from analytics import inject  # GA4 tag
 
 ROOT = os.environ.get("EVIDENCE_REPO") or os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data", "daily-updates.json")
@@ -342,7 +344,7 @@ def build_page(store):
 
 def rebuild():
     store = load()
-    open(PAGE, "w", encoding="utf-8").write(build_page(store))
+    open(PAGE, "w", encoding="utf-8").write(inject(build_page(store)))
     n = sum(d["new"] + d["updated"] for d in store["days"])
     print(f"updates.html: {len(store['days'])} days, {n} items")
     wn = os.path.join(ROOT, "build", "build_whatsnew.py")

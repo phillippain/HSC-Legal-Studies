@@ -27,6 +27,7 @@ ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 sys.path.insert(0, os.path.join(ROOT, "mind-map", "src"))
 import evidence_lib as L  # noqa: E402
+from analytics import inject as TagGA  # noqa: E402  (GA4 tag)
 import themes as TH  # noqa: E402
 
 SRC = os.path.join(ROOT, "mind-map", "src")
@@ -274,6 +275,7 @@ def write_review(nodes, edges):
                e["a"], html.escape(nodes[e["a"]]["s"]), html.escape(tlabel(e["a"])), arrow,
                e["b"], html.escape(nodes[e["b"]]["s"]), html.escape(tlabel(e["b"])), html.escape(e["why"])))
     page = REVIEW.replace("__ROWS__", "\n".join(rows)).replace("__N__", str(len(edges)))
+    page = TagGA(page)
     open(os.path.join(OUT, "links-review.html"), "w", encoding="utf-8").write(page)
     print("wrote mind-map/links-review.html")
 
