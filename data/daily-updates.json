@@ -1,6 +1,818 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "days": [
+  {
+   "date": "2026-11-24",
+   "since": "2026-11-23",
+   "new": 35,
+   "updated": 3,
+   "groups": [
+    {
+     "key": "crime",
+     "label": "Crime",
+     "part": "HSC Core Part I",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "midwest-academy-v-secretary-dcceew-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Midwest Academy v Secretary, DCCEEW; Akkari v Secretary (No 2) [2026] NSWLEC 152 — land-clearing fines called modest",
+       "summary": "A man and his company, who cleared 2.4 hectares of native bushland, were fined $42,000 and $63,000 in the Local Court, and the Land and Environment Court found the offending reckless and commercial, called the fines modest and dismissed the appeals. Use it for sentence appeals from the Local Court and fines for environmental offences.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Appeals",
+        "Factors affecting a sentencing decision"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-midwest-academy-v-secretary-dcceew-2026",
+       "document_url": "https://drive.google.com/file/d/15hHKtABDOS_Sea8wJdx5Yc6KmIP0SJ_J/view",
+       "document11_url": "https://drive.google.com/file/d/1r6LfDuaavO-uUJzVQMLhjwws-HbaBnHv/view",
+       "source": ""
+      },
+      {
+       "id": "r-v-zakaria-no3-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Zakaria (No 3) [2026] NSWSC 1505 — no waiver of legal privilege, but unfair evidence excluded",
+       "summary": "In a stay application over the accused's removal to Australia, the Supreme Court found the Commonwealth had not waived legal professional privilege, but excluded an Assistant Commissioner's answers as unfair to the accused. Use it for legal professional privilege and the exclusion of evidence; it is a pre-trial ruling, not a final decision.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Use of evidence, including witnesses"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-zakaria-no3-2026",
+       "document_url": "https://drive.google.com/file/d/1c0Zf4oO9JHMEgZINxxoj5IeMr3OpwTzc/view",
+       "document11_url": "https://drive.google.com/file/d/16owWjbe6prDggIUJpNKNQTzsYbOGzs13/view",
+       "source": ""
+      },
+      {
+       "id": "lamarre-condon-murder-trial-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Ex-officer's double murder trial tests self-defence law (ABC, 3 November 2026)",
+       "summary": "The card now adds the first day of the defence closing in the double murder trial, in which the defence argues that DNA on the trigger and a missing bullet raise reasonable doubt, while the Crown says the forensic and ballistic evidence alone proves the case. It now shows the Crown's burden of disproving self-defence at the end of a nine-week trial; check the verdict before using it.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-04",
+       "core_labels": [
+        "Defences to criminal charges",
+        "Burden and standard of proof",
+        "The role of juries, including verdicts"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lamarre-condon-murder-trial-2026",
+       "document_url": "https://drive.google.com/file/d/1TiNOqw-2rZx-L9d1b-dXmtgQXtqUzOpN/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-03/beau-lamarre-condon-told-police-not-a-bad-person/107342440"
+      },
+      {
+       "id": "lukes-law-bail-proposal-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "The Coalition's 'Luke's Law' would make bail refusal automatic (Moree Online News, 16 November 2026)",
+       "summary": "The card now links a fifth class summary, which adds that 33.6% of adult prisoners are Aboriginal, 22,728 adults spent time on remand in the year to September 2026, and the court bail refusal rate fell from 13% to 12% in 2025-26. It now gives more data for testing the case for automatic bail refusal.",
+       "note": "",
+       "added": "2026-11-16",
+       "core_labels": [
+        "Bail or remand"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lukes-law-bail-proposal-2026",
+       "document_url": "https://drive.google.com/file/d/1s_QR5WK3li_NfBcXg39JXJtvmASjHNF4/view",
+       "document11_url": null,
+       "source": "https://moreeonlinenews.com.au/2026/11/16/moree-mp-backs-coalition-proposal-for-tougher-bail-laws/"
+      }
+     ]
+    },
+    {
+     "key": "humanrights",
+     "label": "Human Rights",
+     "part": "HSC Core Part II",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "refugee-2109932-2026-arta-2795",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "2109932 (Refugee) [2026] ARTA 2795 — an elderly disabled couple and no real chance of future harm",
+       "summary": "An elderly, seriously disabled Indian couple sought protection, and the Tribunal accepted a 2014 attack but found their long returns to India showed no real chance of future harm, so it affirmed the refusals. Use it for the forward-looking refugee test and barriers for disabled and elderly applicants.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of statute law",
+        "Contact with legal processes"
+       ],
+       "also": [
+        "Experiences with the law"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2109932-2026-arta-2795",
+       "document_url": "https://drive.google.com/file/d/1J91bWNZWkfjrHsmY1Hk5SlezEdFDgw-N/view",
+       "document11_url": "https://drive.google.com/file/d/1MTmqnsCWg4NCqdf2d0w7XceMbkxWbIXa/view",
+       "source": ""
+      },
+      {
+       "id": "refugee-2211687-2026-arta-2784",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "2211687 (Refugee) [2026] ARTA 2784 — corrupt police claims and a justice system that worked",
+       "summary": "A Filipino woman said corrupt police framed and still threaten her, and the Tribunal accepted a 2005 arrest and bribe but found the charge was set aside and the justice system worked, so it affirmed the refusal. Use it for state protection in refugee law and why asylum seekers encounter the legal system.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "Contact with legal processes",
+        "Reasons for encountering the legal syst…"
+       ],
+       "also": [
+        "Experiences with the law"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2211687-2026-arta-2784",
+       "document_url": "https://drive.google.com/file/d/1NnTcJoKZIDVeszTdpux9qPw3UeE_CGNq/view",
+       "document11_url": "https://drive.google.com/file/d/1dc5V85P0emUB_ziUHEi3dqCj9kdQIS9T/view",
+       "source": ""
+      },
+      {
+       "id": "refugee-2216280-2026-arta-2772",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "2216280 (Refugee) [2026] ARTA 2772 — a sexual orientation claim not accepted",
+       "summary": "A Malaysian man claimed he is gay and would be punished, but the Tribunal found his evidence vague and inconsistent and photographs staged, and affirmed the refusal. Use it for how sexual orientation claims are proved, and compare the 2300424 decision, which had the opposite result.",
+       "note": "Content note: this item involves sexual offences. The summary describes the legal decision only.",
+       "added": "2026-11-24",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "Contact with legal processes",
+        "Reasons for encountering the legal syst…"
+       ],
+       "also": [
+        "Experiences with the law"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2216280-2026-arta-2772",
+       "document_url": "https://drive.google.com/file/d/1jeIHfTauPSBBJdMkqZHBjGnqbMNY1cSn/view",
+       "document11_url": "https://drive.google.com/file/d/1139byXrcAXAfq7NX_ylHV45gQ6hcX2RR/view",
+       "source": ""
+      },
+      {
+       "id": "refugee-2217285-2026-arta-2786",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "2217285 (Refugee) [2026] ARTA 2786 — image-based abuse and the forward-looking test",
+       "summary": "A Sri Lankan woman feared harm after an explicit video of her was shared without consent in 2007, and the Tribunal accepted the abuse but not current recognition 19 years later, so it affirmed the refusal. Use it for the forward-looking test for persecution and gendered harm. Teach with care.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "Contact with legal processes",
+        "Reasons for encountering the legal syst…"
+       ],
+       "also": [
+        "Experiences with the law"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2217285-2026-arta-2786",
+       "document_url": "https://drive.google.com/file/d/1_sLqMaj1vWT3xwUW4y2LS1TqAwxduT8E/view",
+       "document11_url": "https://drive.google.com/file/d/1hzLdlXLgXZnMRKNLTRgp-34_IgZ3Vzxx/view",
+       "source": ""
+      },
+      {
+       "id": "refugee-2300424-2026-arta-2798",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "2300424 (Refugee) [2026] ARTA 2798 — a gay Malaysian man is a refugee; hiding is not the answer",
+       "summary": "The Tribunal accepted that a Malaysian man is openly gay, found a real chance of serious harm anywhere in Malaysia, held that hiding his sexuality was no answer, and set aside the refusal. Use it for refugee protection for LGBTQI+ people and merits review for asylum seekers.",
+       "note": "Content note: this item involves sexual offences. The summary describes the legal decision only.",
+       "added": "2026-11-24",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of statute law",
+        "Contact with legal processes"
+       ],
+       "also": [
+        "Experiences with the law"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2300424-2026-arta-2798",
+       "document_url": "https://drive.google.com/file/d/1_ikMgIGT5AzhVtGd-zUFoscFRdMkZgDc/view",
+       "document11_url": "https://drive.google.com/file/d/1hCn2--bBBmKtX7z9LAechqemnQJxyCur/view",
+       "source": ""
+      },
+      {
+       "id": "refugee-2305424-2026-arta-2780",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "2305424 (Refugee) [2026] ARTA 2780 — Taiwan is his country: nationality limits protection",
+       "summary": "A man born in Myanmar who held Taiwanese citizenship sought protection, and the Tribunal held Taiwan is his country of nationality, so fears about Myanmar did not matter and the refusal was affirmed. Use it for who counts as a refugee under the Convention definition.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of statute law",
+        "Contact with legal processes"
+       ],
+       "also": [
+        "Experiences with the law"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2305424-2026-arta-2780",
+       "document_url": "https://drive.google.com/file/d/1-T6kElUIYb-k0WZl-jkK-znVJ3I0otq1/view",
+       "document11_url": "https://drive.google.com/file/d/1h8s1z3EuGJeU3HU9wbD0N_c--SJZl9HO/view",
+       "source": ""
+      },
+      {
+       "id": "refugee-2551292-2026-arta-2797",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "2551292 (Refugee) [2026] ARTA 2797 — a land compensation dispute and a credibility finding",
+       "summary": "A Vietnamese man said officials threatened him over land compensation, but his oral evidence contradicted his documents, so the Tribunal did not believe him and affirmed the refusal. Use it for credibility as the decisive issue in protection claims.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of statute law",
+        "Contact with legal processes"
+       ],
+       "also": [
+        "Experiences with the law"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2551292-2026-arta-2797",
+       "document_url": "https://drive.google.com/file/d/1JAXw4LElyggZ4Da1Hy0nyPPRiYp8Ma3u/view",
+       "document11_url": "https://drive.google.com/file/d/1Rc0RZdNrivdsR3WkB__kGOOZzCDdll8d/view",
+       "source": ""
+      },
+      {
+       "id": "australia-west-bank-settler-sanctions-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Australia sanctions settlers but stops short of a trade ban (Human Rights Watch, 22 November 2026)",
+       "summary": "Australia sanctioned three settlers and four entities over West Bank violence but, unlike the UK, France and Canada, did not ban settlement trade. Use it for states using domestic law to respond to violations abroad and NGO pressure on government, noting the source is an NGO commentary.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "State sovereignty",
+        "The role of non-government organisations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-australia-west-bank-settler-sanctions-2026",
+       "document_url": "https://drive.google.com/file/d/1riJ51J-jgZHAcWy11BQ4tFmXPi5939ei/view",
+       "document11_url": null,
+       "source": "https://www.hrw.org/news/2026/11/23/australias-sanctions-on-west-bank-settlers-increase-pressure"
+      },
+      {
+       "id": "eix18-and-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "EIX18 and Minister [2026] ARTA 2791 — a refugee refused a visa on character grounds and removal to Nauru",
+       "summary": "An Afghan Hazara man already found to be a refugee was refused a Safe Haven Enterprise visa because a sexual offence sentence meant he failed the character test, and the Tribunal found removal to Nauru lawful and affirmed the refusal. Use it for sovereignty and non-refoulement, and character cancellations of refugees.",
+       "note": "Content note: this item involves sexual offences. The summary describes the legal decision only.",
+       "added": "2026-11-24",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "State sovereignty",
+        "Contact with legal processes"
+       ],
+       "also": [
+        "Experiences with the law"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-eix18-and-minister-2026",
+       "document_url": "https://drive.google.com/file/d/1msmRxzgMBGUdY_VCiwtbnaXg7PeymkX1/view",
+       "document11_url": "https://drive.google.com/file/d/1yl_iuXSpZd3jrw1vwPN0y-VUYXSonXAN/view",
+       "source": ""
+      },
+      {
+       "id": "mount-pleasant-mine-act-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "NSW passes a special law for one coal mine after High Court loss (The Conversation, 23 November 2026)",
+       "summary": "After the High Court invalidated a coal mine's 2022 consent for not dealing with scope 3 emissions, NSW passed a law creating a separate approval for that one mine, which sidesteps rather than overturns the ruling. Use it for statute overriding a court outcome and the relationship between courts and parliament, noting it is an expert opinion piece.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "The role of statute law",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-mount-pleasant-mine-act-2026",
+       "document_url": "https://drive.google.com/file/d/1iHjpBKG1j-48ZCgJa8xQ9mX7z7BVMzfq/view",
+       "document11_url": null,
+       "source": "https://theconversation.com/nsw-has-passed-a-special-law-for-one-coal-mine-heres-why-thats-worrying-296703"
+      },
+      {
+       "id": "icj-gambia-v-myanmar-genocide-ruling-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "ICJ finds Myanmar committed genocide against the Rohingya (Al Jazeera, 19 November 2026)",
+       "summary": "The card now links a second class summary, of the Refugee Council of Australia's reaction, which traces how the case reached the ICJ and calls for justice and durable solutions for Rohingya refugees. It now adds a refugee-sector response alongside the ruling.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "The role of courts, tribunals and indep…",
+        "State sovereignty"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-icj-gambia-v-myanmar-genocide-ruling-2026",
+       "document_url": "https://drive.google.com/file/d/1_5JceAgdsSzaHeyPW-ji1kcnV0eV-ewH/view",
+       "document11_url": null,
+       "source": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+      }
+     ]
+    },
+    {
+     "key": "family",
+     "label": "Family",
+     "part": "HSC Option 3",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "wa-coercive-control-offence-plan-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "WA promises coercive control offence in 2027 after phased reform (ABC, 23 November 2026)",
+       "summary": "WA will introduce a standalone coercive control offence in 2027 within a $121m family and domestic violence package, while NSW's offence has produced one proven charge from 473 incidents. Use it for legal responses to coercive control across states and the low conviction numbers in NSW.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wa-coercive-control-offence-plan-2026",
+       "document_url": "https://drive.google.com/file/d/1Qzf2Ke1czX7H_XE6hhQeNlc2wDjm_NnQ/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-23/wa-government-promises-to-make-coercive-control-criminal-offence/107415816"
+      }
+     ]
+    },
+    {
+     "key": "shelter",
+     "label": "Shelter",
+     "part": "HSC Option 5",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "rental-affordability-index-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Rents stay at crisis levels as only ACT limits rent rises (ABC, 24 November 2026)",
+       "summary": "The 2026 Rental Affordability Index puts Greater Sydney at 99, with rent taking 30.2% of income, and only the ACT limits how much rent can rise. Use it for affordability data in essays and rent caps as a contested reform.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Affordability"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-rental-affordability-index-2026",
+       "document_url": "https://drive.google.com/file/d/1MCiz_APzCBqYCk83hDp-b18klUJxl9mi/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-24/rental-affordability-remains-at-crisis-levels-across-australia/107379494"
+      },
+      {
+       "id": "senate-social-housing-inquiry-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Senate inquiry hears the human cost of social housing shortfalls (New England Times, 21 November 2026)",
+       "summary": "A Senate inquiry heard that 206,000 households wait for social housing and that its share of households fell from 4.8% to 4.0% between 2011 and 2025. Use it for the adequacy of social housing supply and parliamentary inquiries as a reform mechanism.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Social housing"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-senate-social-housing-inquiry-2026",
+       "document_url": "https://drive.google.com/file/d/1gJX064naTl44-SNuv7XXPQA-DqBi_Op-/view",
+       "document11_url": null,
+       "source": "https://www.netimes.com.au/2026/11/21/inquiry-hears-cost-of-social-housing-deserts/"
+      },
+      {
+       "id": "nsw-rental-bond-interest-taskforce-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Tenants' union says NSW forgoes up to $200m a year in bond interest (ABC, 23 November 2026)",
+       "summary": "The Tenants' Union says NSW holds $2.3bn in renters' bonds and better investment could earn up to $200m a year to fund the Rental Taskforce, which received 10,745 complaints in 2025-26. Use it for enforcing tenant protections and an NGO pushing reform; the $200m is an advocacy estimate.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Protection for tenants, landlords, boar…",
+        "The role of government organisations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nsw-rental-bond-interest-taskforce-2026",
+       "document_url": "https://drive.google.com/file/d/1QQ4u7h7EIhr7Xjb9vOQxBbdja2QbkJUI/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-23/more-funding-needed-to-equip-nsw-rental-taskforce-says-union/106973144"
+      }
+     ]
+    },
+    {
+     "key": "disputes",
+     "label": "Disputes under the law",
+     "part": "Year 11 (Preliminary) Focus area 2",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "migration-2523859-2026-arta-2775",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "2523859 (Migration) [2026] ARTA 2775 — genuine treatment, but no genuine temporary stay",
+       "summary": "A Lithuanian woman in Australia since 2013 sought a medical treatment visa, and the Tribunal found her treatment genuine but her wish to stay permanently meant the temporary-stay criterion failed. Use it for tribunal merits review and visa criteria in delegated legislation.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-migration-2523859-2026-arta-2775",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1DGl7UF9Dz88RrMQgD3Lq2RJYJJF2m6uf/view",
+       "source": ""
+      },
+      {
+       "id": "anthonige-v-drip-n-dry-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Anthonige v Drip N Dry [2026] FCA 1772 — wrong advice and leave to appeal late",
+       "summary": "A cleaner who lost a wage claim as a contractor missed the appeal deadline after being told to appeal to the wrong body, and the Federal Court extended time because the advice was understandable and two grounds were arguable. Use it for access to justice for low-income workers and civil appeal procedure.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Key concepts of justice illustrated thr…",
+        "Procedures in NSW tribunals and civil c…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-anthonige-v-drip-n-dry-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/18_lUTw0-1W1Vkz5l_X3oUXHGXrfxW3JT/view",
+       "source": ""
+      },
+      {
+       "id": "cbo20-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "CBO20 v Minister [2026] FCA 1732 — email notice counts and COVID came later",
+       "summary": "A man who missed his 2020 Tribunal hearing said he never got the emails and COVID stopped him, but email to his nominated address counted and lockdowns began later, so the appeal was dismissed. Use it for notice rules and tribunal procedure.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Addressing disputes through government…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-cbo20-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1_eJ0-UrO1MAo9O052ZzRxdbZEwO35oR2/view",
+       "source": ""
+      },
+      {
+       "id": "csy21-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "CSY21 v Minister [2026] FCA 1784 — no submissions, no attendance: dismissed with $5,000 costs",
+       "summary": "A man refused a protection visa sought more time to appeal but filed nothing and did not attend despite notice and an interpreter, so it was dismissed with costs fixed at $5,000. Use it for court procedure and unrepresented litigants.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Addressing disputes through government…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-csy21-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/129rcuwNmRr0HgubcAIe_pTUrjBaf7Khn/view",
+       "source": ""
+      },
+      {
+       "id": "dong-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Dong v Minister [2026] FCAFC 149 — a parole report and a fairness complaint he raised himself",
+       "summary": "A partner visa holder jailed for drug offences said the Tribunal unfairly used a parole report about his companions, but the Full Court held he had raised it himself and found no unfairness. Use it for procedural fairness and appeals to the Full Court.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The role, jurisdiction and hierarchy of…"
+       ],
+       "also": [
+        "investigating"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-dong-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1bdbSU0RBYAAXTLHSugDb1Kg13QCly95G/view",
+       "source": ""
+      },
+      {
+       "id": "epe26-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "EPE26 v Minister [2026] FedCFamC2G 2309 — a decision on the papers at his own request",
+       "summary": "An unrepresented man said a Tribunal decision on the papers was unfair, though he had asked for it, and none of his six grounds had prospects, so it was dismissed with costs. Use it for summary dismissal and costs.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Addressing disputes through government…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-epe26-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1KwA8-A1irWfTtHFDHChYbAzn78QrTzF6/view",
+       "source": ""
+      },
+      {
+       "id": "exp26-v-minister-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "EXP26 v Minister (No 2) [2026] FedCFamC2G 2305 — two missed hearings and no medical proof",
+       "summary": "An Indian man missed two Tribunal hearings, saying he had a fever but giving no medical evidence, and the court found no reasonable prospect of jurisdictional error and dismissed the case with costs. Use it for reinstatement and fair hearings.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Addressing disputes through government…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-exp26-v-minister-no2-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1Hhsljyo5oK4gOQQSowye7kQTQjjTcJ5w/view",
+       "source": ""
+      },
+      {
+       "id": "furnadjiev-b-pty-ltd-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Furnadjiev & B Pty Ltd [2026] FedCFamC1A 208 — no adjournment of an appeal over a set-aside financial agreement",
+       "summary": "A bankrupt husband sought to delay his appeal against an order setting aside a financial agreement a creditor said protected the family home, and the court refused because delay would prejudice the creditor. Use it for court case management and financial agreements and creditors.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Procedures in NSW tribunals and civil c…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-furnadjiev-b-pty-ltd-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1MDtmtomzVts7XcjMB0Iw0YIMcAYq2KMA/view",
+       "source": ""
+      },
+      {
+       "id": "imiarachchi-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Imiarachchi v Minister [2026] FedCFamC2G 2302 — no injunction against removal from the airport",
+       "summary": "A student whose visa was cancelled at the airport sought an urgent injunction against removal while already on a flight, and the court refused because there was no serious question to be tried. Use it for interim injunctions in judicial review.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Addressing disputes through government…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-imiarachchi-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/18tU7bgA4x-Ww_Zg5vT_ghTZ95n-juIGL/view",
+       "source": ""
+      },
+      {
+       "id": "nmt26-v-minister-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "NMT26 v Minister (No 2) [2026] FedCFamC2G 2295 — 180 days late, blaming a fake agent",
+       "summary": "A Thai couple missed their Tribunal hearing on an unregistered agent's advice and filed 180 days late, and the court found no arguable case, refused the extension and lifted the removal injunction. Use it for time limits and exploitation by unregistered agents.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "Reasons individuals and groups have dis…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nmt26-v-minister-no2-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/11ZXkwiFRQIQhu2ynsQ7Lgu9Nb6bstGkr/view",
+       "source": ""
+      },
+      {
+       "id": "singh-v-minister-2264-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Singh v Minister [2026] FedCFamC2G 2264 — seven days late, honestly explained, but no arguable ground",
+       "summary": "A couple refused a student visa filed seven days late and honestly explained it, but none of their three grounds was arguable because they were complaints about weight, so the extension was refused. Use it for time limits and the merits screen in judicial review.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Addressing disputes through government…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-singh-v-minister-2264-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1e4eHNyx6jALbkpUyDUMO22v8IEnpeGzi/view",
+       "source": ""
+      },
+      {
+       "id": "wrvx-and-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "WRVX and Minister [2026] ARTA 2790 — a finely balanced revocation for a man here since age four",
+       "summary": "In a finely balanced case, the Tribunal revoked the cancellation of the visa of a man in Australia since 1981 who had served a long prison term, because his ties, hardship overseas and abuse history outweighed community protection. Use it to show merits review can go either way, compared with Duong and YTWB.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "Key concepts of justice illustrated thr…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wrvx-and-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1ntsByYMQ6L7X2dk2adQaZJ5CieOHKvvJ/view",
+       "source": ""
+      },
+      {
+       "id": "yassein-and-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Yassein and Minister [2026] ARTA 2788 — citizenship without the test and a psychologist who did not attend",
+       "summary": "A Syrian refugee sought citizenship without sitting the test, citing PTSD, but his psychologist ignored a summons and no enduring incapacity was found, so the Tribunal affirmed the refusal. Use it for merits review of citizenship decisions and barriers for traumatised refugees.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "Contact with legal processes"
+       ],
+       "also": [
+        "Experiences with the law"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-yassein-and-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1hMzeswdY9sB3S7Lkm05zK7uUT38am3sw/view",
+       "source": ""
+      }
+     ]
+    },
+    {
+     "key": "changing",
+     "label": "Changing the law",
+     "part": "Year 11 (Preliminary) Focus area 3",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "briggs-wulli-wulli-v-queensland-no3-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Briggs (Wulli Wulli #3) v Queensland (No 3) [2026] FCA 1770 — a competing group's respondent removed",
+       "summary": "In the Wulli Wulli native title claim, a respondent said the land was another group's country, but his evidence was unsupported personal history, so he was removed as a party. Use it for the native title process and connection to Country; it is an interlocutory ruling.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Overview of native title"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-briggs-wulli-wulli-v-queensland-no3-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1rjywCdWrcOyy7L4iyCHsDTey-nt7kT_1/view",
+       "source": ""
+      }
+     ]
+    },
+    {
+     "key": "experiences",
+     "label": "Experiences with the law",
+     "part": "Year 11 (Preliminary) Focus area 4",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "al-kateb-v-godwin-2004",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Al-Kateb v Godwin [2004] HCA 37 — indefinite detention of a stateless man held lawful (overruled in 2023)",
+       "summary": "By 4 to 3, the High Court held that the Migration Act required a stateless man to stay in detention although no country would take him, and that this was constitutionally valid. Use it for the history of indefinite detention, but do not cite it as current law on validity, because that holding was overruled in NZYQ in 2023.",
+       "note": "",
+       "added": "2026-11-23",
+       "core_labels": [
+        "Issues arising from contact with the law",
+        "Barriers to achieving justice",
+        "The role of the Constitution"
+       ],
+       "also": [
+        "Human Rights"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-al-kateb-v-godwin-2004",
+       "document_url": null,
+       "document11_url": null,
+       "source": "https://www.hcourt.gov.au/cases-and-judgments/judgments/judgments-2000-current/al-kateb-v-godwin"
+      },
+      {
+       "id": "immigration-detention-statistics-sept-2026",
+       "status": "new",
+       "type": "report",
+       "type_label": "Report & statistics",
+       "title": "Immigration Detention and Community Statistics Summary, 30 September 2026 (Department of Home Affairs)",
+       "summary": "On 30 September 2026, 1,182 people were in immigration detention for an average of 432 days, 62 had been detained more than five years, and five children were in alternative places of detention. Use it for detention with no time limit; most people held are not asylum seekers, so do not use the total as an asylum seeker figure.",
+       "note": "",
+       "added": "2026-11-23",
+       "core_labels": [
+        "Issues arising from contact with the law",
+        "Barriers to achieving justice"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-immigration-detention-statistics-sept-2026",
+       "document_url": null,
+       "document11_url": null,
+       "source": "https://www.homeaffairs.gov.au/research-and-stats/files/immigration-detention-community-statistics-30-sep-2026.pdf"
+      },
+      {
+       "id": "mi-v-australia-2025",
+       "status": "new",
+       "type": "international",
+       "type_label": "International instrument",
+       "title": "M.I. et al v Australia — UN Human Rights Committee finds Australia responsible for arbitrary detention on Nauru (2025)",
+       "summary": "The UN Human Rights Committee found that Australia kept effective control over the Nauru centre and so remained responsible for arbitrarily detaining asylum seekers there, though its views are not binding. Use it for international protection and a UN body as an authority that advocates, and as a barrier since the finding has no force in Australian law.",
+       "note": "",
+       "added": "2026-11-23",
+       "core_labels": [
+        "Protection under domestic and internati…",
+        "Authorities that advocate for the right…",
+        "Barriers to achieving justice"
+       ],
+       "also": [
+        "Human Rights"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-mi-v-australia-2025",
+       "document_url": null,
+       "document11_url": null,
+       "source": "https://www.rnz.co.nz/news/pacific/538613/australia-responsible-for-nauru-detainees-un-human-rights-committee"
+      },
+      {
+       "id": "nzyq-v-minister-2023",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "NZYQ v Minister for Immigration, Citizenship and Multicultural Affairs [2023] HCA 37 — indefinite immigration detention is unconstitutional",
+       "summary": "The High Court overruled Al-Kateb, holding that detaining a non-citizen with no real prospect of removal in the reasonably foreseeable future is punishment, which only a court can impose. Use it for indefinite detention and a unanimous court protecting liberty; it did not end mandatory detention or set a time limit.",
+       "note": "",
+       "added": "2026-11-23",
+       "core_labels": [
+        "Issues arising from contact with the law",
+        "Contact with legal processes",
+        "Indicators of success in achieving just…"
+       ],
+       "also": [
+        "Human Rights"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nzyq-v-minister-2023",
+       "document_url": null,
+       "document11_url": null,
+       "source": "https://www.hcourt.gov.au/showCase/2023/HCA/37"
+      },
+      {
+       "id": "plaintiff-m70-2011",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Plaintiff M70/2011 v Minister for Immigration and Citizenship [2011] HCA 32 — the 'Malaysia solution' declared invalid",
+       "summary": "The High Court stopped the Government sending asylum seekers to Malaysia because Malaysia was not legally bound to protect them, and Parliament then amended the Act so offshore processing resumed. Use it for domestic law giving effect to protection obligations, and a court check that worked and was then answered by Parliament.",
+       "note": "",
+       "added": "2026-11-23",
+       "core_labels": [
+        "Protection under domestic and internati…",
+        "Contact with legal processes",
+        "Indicators of success in achieving just…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-plaintiff-m70-2011",
+       "document_url": null,
+       "document11_url": null,
+       "source": "https://www.hcourt.gov.au/showCase/2011/HCA/32"
+      }
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-23",
    "since": "2026-11-20",
