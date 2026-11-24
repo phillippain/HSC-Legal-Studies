@@ -12,10 +12,10 @@ themes: crime.t.balance, crime.t.discretion, crime.t.compliance
 criteria: rights, justice, enforceability
 document: Cases/Crime/Tran v R [2026] NSWCCA 187 - Case Summary.pdf
 document11: Cases/Year 11/Year 11 - Tran v R [2026] NSWCCA 187 - Case Summary.pdf
-related: bail-act-2013, statement-on-bail-chief-justice-2025, criminal-code-cth-transnational-offences
+related: bail-act-2013, statement-on-bail-chief-justice-2025, criminal-code-cth-transnational-offences, tran-v-r-appeal-2026
 added: 2026-11-12
 added_at: 2026-11-12 07:51
-updated_at: 2026-11-12 07:51
+updated_at: 2026-11-25 08:15
 ---
 
 **Quoc Hoang Tran**, 49, had his conviction for attempting to possess a commercial quantity of a border controlled drug quashed,

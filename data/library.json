@@ -5160,6 +5160,41 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - 2317447 (Refugee) [2026] ARTA 2811 - Case Summary.pdf",
+   "name": "Year 11 - 2317447 (Refugee) [2026] ARTA 2811 - Case Summary",
+   "file": "Year 11 - 2317447 (Refugee) [2026] ARTA 2811 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 274652,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.9",
+    "exp.5.3"
+   ],
+   "dupe": "year112317447refugee2026arta2811casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - 2429268 (Refugee) [2026] ARTA 2810 - Case Summary.pdf",
+   "name": "Year 11 - 2429268 (Refugee) [2026] ARTA 2810 - Case Summary",
+   "file": "Year 11 - 2429268 (Refugee) [2026] ARTA 2810 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 268558,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "exp.5.3"
+   ],
+   "dupe": "year112429268refugee2026arta2810casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - 2523859 (Migration) [2026] ARTA 2775 - Case Summary.pdf",
    "name": "Year 11 - 2523859 (Migration) [2026] ARTA 2775 - Case Summary",
    "file": "Year 11 - 2523859 (Migration) [2026] ARTA 2775 - Case Summary.pdf",
@@ -5211,6 +5246,23 @@
     "dis.3.8"
    ],
    "dupe": "year112552942refugee2026arta2678casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - 2614252 (Refugee) [2026] ARTA 2808 - Case Summary.pdf",
+   "name": "Year 11 - 2614252 (Refugee) [2026] ARTA 2808 - Case Summary",
+   "file": "Year 11 - 2614252 (Refugee) [2026] ARTA 2808 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 270953,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "exp.5.3"
+   ],
+   "dupe": "year112614252refugee2026arta2808casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6092,6 +6144,23 @@
     "fam.2.5"
    ],
    "dupe": "year11claynagelno22026fedcfamc1f688casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Commissioner of the Australian Federal Police v Yuan & Ors [2026] NSWSC 1523 - Case Summary.pdf",
+   "name": "Year 11 - Commissioner of the Australian Federal Police v Yuan & Ors [2026] NSWSC 1523 - Case Summary",
+   "file": "Year 11 - Commissioner of the Australian Federal Police v Yuan & Ors [2026] NSWSC 1523 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 267857,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.1.6",
+    "inv.1.7"
+   ],
+   "dupe": "year11commissioneroftheaustralianfederalpolicevyuanors2026nswsc1523casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7107,6 +7176,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - KRRX and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2804 - Case Summary.pdf",
+   "name": "Year 11 - KRRX and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2804 - Case Summary",
+   "file": "Year 11 - KRRX and Minister for Immigration and Citizenship (Migration) [2026] ARTA 2804 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 280406,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11krrxandministerforimmigrationandcitizenshipmigration2026arta2804casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - KWO24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2263 - Case Summary.pdf",
    "name": "Year 11 - KWO24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2263 - Case Summary",
    "file": "Year 11 - KWO24 v Minister for Immigration and Citizenship [2026] FedCFamC2G 2263 - Case Summary.pdf",
@@ -7341,6 +7427,23 @@
     "inv.3.2"
    ],
    "dupe": "year11mabovqueenslandno21992hca23casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - MacFarlane v State of New South Wales [2026] NSWDC 423 - Case Summary.pdf",
+   "name": "Year 11 - MacFarlane v State of New South Wales [2026] NSWDC 423 - Case Summary",
+   "file": "Year 11 - MacFarlane v State of New South Wales [2026] NSWDC 423 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 276198,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.2.1",
+    "crime.2.4"
+   ],
+   "dupe": "year11macfarlanevstateofnewsouthwales2026nswdc423casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7938,6 +8041,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Qube Re Services (No 2) Pty Limited v Martinus Rail Pty Ltd (No 2) [2026] NSWSC 1475 - Case Summary.pdf",
+   "name": "Year 11 - Qube Re Services (No 2) Pty Limited v Martinus Rail Pty Ltd (No 2) [2026] NSWSC 1475 - Case Summary",
+   "file": "Year 11 - Qube Re Services (No 2) Pty Limited v Martinus Rail Pty Ltd (No 2) [2026] NSWSC 1475 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 269291,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.7",
+    "dis.2.5"
+   ],
+   "dupe": "year11qubereservicesno2ptylimitedvmartinusrailptyltdno22026nswsc1475casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - R v Binge [2026] NSWDC 409 - Case Summary.pdf",
    "name": "Year 11 - R v Binge [2026] NSWDC 409 - Case Summary",
    "file": "Year 11 - R v Binge [2026] NSWDC 409 - Case Summary.pdf",
@@ -8039,6 +8159,23 @@
     "dis.1.5"
    ],
    "dupe": "year11rvhaouchar2026nswdc417casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - R v Kalandyk [2026] NSWDC 422 - Case Summary.pdf",
+   "name": "Year 11 - R v Kalandyk [2026] NSWDC 422 - Case Summary",
+   "file": "Year 11 - R v Kalandyk [2026] NSWDC 422 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 268482,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.2"
+   ],
+   "dupe": "year11rvkalandyk2026nswdc422casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8243,6 +8380,23 @@
     "dis.1.6"
    ],
    "dupe": "year11rvrokomaqisanos11to292026nswscseriescasesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - R v Russell [2026] NSWDC 421 - Case Summary.pdf",
+   "name": "Year 11 - R v Russell [2026] NSWDC 421 - Case Summary",
+   "file": "Year 11 - R v Russell [2026] NSWDC 421 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 270182,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.6"
+   ],
+   "dupe": "year11rvrussell2026nswdc421casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8747,6 +8901,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Singh v Minister for Immigration and Citizenship [2026] FedCFamC2G 2307 - Case Summary.pdf",
+   "name": "Year 11 - Singh v Minister for Immigration and Citizenship [2026] FedCFamC2G 2307 - Case Summary",
+   "file": "Year 11 - Singh v Minister for Immigration and Citizenship [2026] FedCFamC2G 2307 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 271002,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4"
+   ],
+   "dupe": "year11singhvministerforimmigrationandcitizenship2026fedcfamc2g2307casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Singh v Tian Hock Development Pty Ltd [2026] NSWSC 1432 - Case Summary.pdf",
    "name": "Year 11 - Singh v Tian Hock Development Pty Ltd [2026] NSWSC 1432 - Case Summary",
    "file": "Year 11 - Singh v Tian Hock Development Pty Ltd [2026] NSWSC 1432 - Case Summary.pdf",
@@ -8976,6 +9146,23 @@
     "dis.1.4"
    ],
    "dupe": "year11tranvr2026nswcca187casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Tran v R [2026] NSWCCA 202 - Case Summary.pdf",
+   "name": "Year 11 - Tran v R [2026] NSWCCA 202 - Case Summary",
+   "file": "Year 11 - Tran v R [2026] NSWCCA 202 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 265124,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.9",
+    "crime.4.5"
+   ],
+   "dupe": "year11tranvr2026nswcca202casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -11929,6 +12116,24 @@
    "primary": true
   },
   {
+   "path": "Cases/Human Rights/2317447 (Refugee) [2026] ARTA 2811 - Case Summary.pdf",
+   "name": "2317447 (Refugee) [2026] ARTA 2811 - Case Summary",
+   "file": "2317447 (Refugee) [2026] ARTA 2811 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 290999,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.9",
+    "exp.5.3"
+   ],
+   "dupe": "2317447refugee2026arta2811casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Human Rights/2530964 (Refugee) [2026] ARTA 2488 - Case Summary.pdf",
    "name": "2530964 (Refugee) [2026] ARTA 2488 - Case Summary",
    "file": "2530964 (Refugee) [2026] ARTA 2488 - Case Summary.pdf",
@@ -12047,6 +12252,23 @@
     "hr.2.1"
    ],
    "dupe": "2552942refugee2026arta2678casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/2614252 (Refugee) [2026] ARTA 2808 - Case Summary.pdf",
+   "name": "2614252 (Refugee) [2026] ARTA 2808 - Case Summary",
+   "file": "2614252 (Refugee) [2026] ARTA 2808 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 289358,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "exp.5.3"
+   ],
+   "dupe": "2614252refugee2026arta2808casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -13448,6 +13670,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/MacFarlane v State of New South Wales [2026] NSWDC 423 - Case Summary.pdf",
+   "name": "MacFarlane v State of New South Wales [2026] NSWDC 423 - Case Summary",
+   "file": "MacFarlane v State of New South Wales [2026] NSWDC 423 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 304441,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.2.1",
+    "crime.2.4"
+   ],
+   "dupe": "macfarlanevstateofnewsouthwales2026nswdc423casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Mackell v R [2026] NSWCCA 198 - Case Summary.pdf",
    "name": "Mackell v R [2026] NSWCCA 198 - Case Summary",
    "file": "Mackell v R [2026] NSWCCA 198 - Case Summary.pdf",
@@ -13889,6 +14128,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/R v Kalandyk [2026] NSWDC 422 - Case Summary.pdf",
+   "name": "R v Kalandyk [2026] NSWDC 422 - Case Summary",
+   "file": "R v Kalandyk [2026] NSWDC 422 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 295051,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.2"
+   ],
+   "dupe": "rvkalandyk2026nswdc422casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/R v Kirby [2026] NSWSC 1444 - Case Summary.pdf",
    "name": "R v Kirby [2026] NSWSC 1444 - Case Summary",
    "file": "R v Kirby [2026] NSWSC 1444 - Case Summary.pdf",
@@ -14158,6 +14414,23 @@
     "crime.3.2"
    ],
    "dupe": "rvrokomaqisanos11to292026nswscseriescasesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Russell [2026] NSWDC 421 - Case Summary.pdf",
+   "name": "R v Russell [2026] NSWDC 421 - Case Summary",
+   "file": "R v Russell [2026] NSWDC 421 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 296560,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.6"
+   ],
+   "dupe": "rvrussell2026nswdc421casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -14759,6 +15032,23 @@
     "crime.6.1"
    ],
    "dupe": "tranvr2026nswcca187casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Tran v R [2026] NSWCCA 202 - Case Summary.pdf",
+   "name": "Tran v R [2026] NSWCCA 202 - Case Summary",
+   "file": "Tran v R [2026] NSWCCA 202 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 294367,
+   "mtime": 1795554546,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.9",
+    "crime.4.5"
+   ],
+   "dupe": "tranvr2026nswcca202casesummary",
    "copyOf": null,
    "primary": true
   },
