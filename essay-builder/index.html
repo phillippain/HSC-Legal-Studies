@@ -132,6 +132,52 @@ textarea, input[type=text], input:not([type]), select { width: 100%; border: 1.5
 .feed { display: flex; gap: 7px; align-items: center; font-size: 12.5px; color: var(--ink2); margin: -3px 0 0; } .feed svg { color: var(--ink2); } .feed.live { color: var(--ok); } .feed.live svg { color: var(--ok); }
 .pbtns { display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; } .evl { color: inherit; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; } .evl:hover { text-decoration-color: var(--st); }
 .stance button { padding: 7px 11px; font-size: 13.5px; }
+
+/* support levels, My evidence, worked models (24 Nov 2026) */
+.btn.sm { padding: 5px 11px; font-size: 13px; border-radius: 8px; }
+.lab em { text-transform: none; font-weight: 500; font-style: normal; letter-spacing: 0; }
+.mvb { display: inline-flex; width: 18px; height: 18px; border-radius: 50%; color: #fff; font: 800 10.5px var(--display); font-style: normal; align-items: center; justify-content: center; margin-right: 6px; vertical-align: -3px; letter-spacing: 0; }
+.supbar { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; padding: 10px 16px; margin-top: 16px; scroll-margin-top: 70px; }
+.supname { font-family: var(--display); font-weight: 700; display: inline-flex; gap: 7px; align-items: center; } .supname svg, .supline svg, .choose h3 svg, .lvl b svg { color: var(--st); font-size: 1.15em; }
+.supd { flex: 1 1 260px; color: var(--ink2); font-size: 13.5px; }
+.supbar .seg { flex-basis: 100%; } .supbar .seg button { display: inline-flex; gap: 6px; align-items: center; font-size: 13px; padding: 6px 11px; }
+.supline { display: flex; gap: 7px; align-items: center; flex-wrap: wrap; font-size: 13px; color: var(--ink2); margin-top: 4px; } .supline a { color: var(--st); font-weight: 600; }
+.choose { margin-top: 14px; } .choose h3 { display: flex; gap: 8px; align-items: center; font-size: 18px; } .choose .seg { margin-top: 2px; } .choose .lab { margin-top: 12px; }
+.rec > small, .choose .or { display: block; font-size: 11.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .4px; color: var(--ink2); margin: 14px 0 5px; }
+.lvls { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 8px; }
+.lvl { border: 1.5px solid var(--line); background: var(--surface); border-radius: 11px; padding: 9px 12px; display: grid; gap: 3px; align-content: start; }
+.lvl:hover { border-color: var(--st); } .lvl b { display: flex; gap: 6px; align-items: center; font-family: var(--display); font-size: 14px; } .lvl span { font-size: 12.5px; color: var(--ink2); }
+.lvl.big { border: 2px solid var(--st); background: var(--st-t); max-width: 560px; width: 100%; } .lvl.big b { font-size: 16px; } .lvl.big span { font-size: 13.5px; color: var(--ink); } .lvl.big u { text-decoration: none; font-weight: 700; color: var(--st); margin-top: 3px; }
+.sts { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 5px; align-items: center; } .sts > span { font-size: 12px; color: var(--ink2); }
+.st { border: 1px dashed var(--ink2); background: var(--surface); border-radius: 999px; padding: 2px 10px; font-size: 12.5px; color: var(--ink2); } .st:hover { border-color: var(--st); color: var(--st); }
+.gq { margin: 2px 0 5px 1.15em; padding: 0; font-size: 13px; color: var(--ink2); } .gq li { margin: 1px 0; }
+.walk { border: 1px solid var(--line); border-left: 5px solid var(--su); border-radius: 0 10px 10px 0; background: var(--surface2); padding: 10px 14px 12px; margin-top: 10px; } .walk > b { font-family: var(--display); } .walk .lab { margin-top: 8px; }
+.dhint { font-size: 12.5px; color: var(--ink2); margin-top: 4px; }
+.note2 { border-left: 5px solid var(--su); background: var(--surface2); padding: 8px 12px; border-radius: 0 9px 9px 0; font-size: 14px; margin-top: 10px; } .note2.s { border-color: var(--dt); background: var(--dt-t); }
+.ideas, .model { border: 1px solid var(--line); border-radius: 11px; background: var(--surface2); padding: 9px 12px 11px; margin-top: 12px; }
+.ideas h4 { font: 700 14.5px var(--display); } .ideas h5 { font: 700 11.5px var(--body); text-transform: uppercase; letter-spacing: .4px; color: var(--ink2); margin: 9px 0 4px; } .ideas h5 em { text-transform: none; letter-spacing: 0; font-weight: 400; font-style: normal; }
+.idl { display: grid; gap: 4px; }
+.idea { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 5px 9px; font-size: 13px; display: flex; gap: 10px; justify-content: space-between; align-items: center; width: 100%; }
+.idea:hover { border-color: var(--st); } .idea.on { border-color: var(--ok); background: var(--ok-t); } .idea u { text-decoration: none; font-weight: 700; color: var(--st); font-size: 12.5px; flex: none; } .idea em { font-style: normal; color: var(--ink2); font-size: 12px; }
+.lines { margin: 4px 0 0 1.15em; font-size: 13.5px; }
+details.helpd { border: 1px solid var(--line); border-radius: 11px; background: var(--surface2); margin: 10px 0; } details.helpd > summary { cursor: pointer; padding: 8px 12px; font-weight: 700; font-size: 14px; display: flex; gap: 8px; align-items: center; } details.helpd > summary svg { color: var(--st); font-size: 1.15em; }
+details.helpd > div { padding: 0 12px 10px; } details.helpd .model { border: 0; padding: 0; margin: 0; background: none; }
+.mq { font-weight: 700; margin: 2px 0 6px; }
+.m2 { display: grid; grid-template-columns: 1fr 1.25fr; gap: 6px 16px; } @media (max-width: 760px) { .m2 { grid-template-columns: 1fr; } }
+.m2 small { display: block; color: var(--ink2); font-weight: 700; text-transform: uppercase; letter-spacing: .4px; font-size: 11.5px; } .m2 .mv { font-size: 13.5px; }
+.mpara { line-height: 1.8; font-size: 14px; margin-top: 4px; } .mk { border-bottom: 2px solid; } .mb { display: inline-grid; place-items: center; width: 1.35em; height: 1.35em; border-radius: 50%; color: #fff; font: 800 .72em var(--display); margin-right: 4px; vertical-align: 1px; }
+.evtabs { align-self: flex-start; } .evtabs button { padding: 5px 12px; font-size: 13px; } .evf.one { grid-template-columns: 1fr; } .evf { margin-top: 8px; }
+.ownf { border: 1px solid var(--line); border-radius: 11px; padding: 9px; background: var(--surface2); display: grid; gap: 7px; margin-top: 8px; } .ownf .seg button { padding: 4px 9px; font-size: 12.5px; }
+.ownin { display: grid; gap: 6px; } .ownin label { display: grid; gap: 2px; font-size: 12px; font-weight: 600; color: var(--ink2); } .ownin input { font-size: 13.5px; } .ownf .row { display: flex; gap: 6px; flex-wrap: wrap; }
+.ownact { display: flex; gap: 12px; justify-content: flex-end; margin: -2px 4px 2px; } .ownact button { color: var(--ink2); font-size: 12px; text-decoration: underline; padding: 0; }
+.ownbk { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; } .ownbk label { cursor: pointer; }
+.t-stimulus { --tc: var(--dt); --tt: var(--dt-t); } .tags em.stm { background: var(--dt-t); color: var(--dt); }
+.then { font-size: 13.5px; margin-top: 8px; } .then.down { display: flex; gap: 8px; align-items: flex-start; border: 1px dashed var(--ok); border-radius: 9px; padding: 6px 10px; } .then.down svg { color: var(--ok); font-size: 1.2em; margin-top: 2px; }
+.toast { position: fixed; left: 50%; bottom: 22px; transform: translateX(-50%); background: var(--ink); color: var(--bg); border-radius: 10px; padding: 9px 16px; font-size: 14px; z-index: 50; display: flex; gap: 12px; align-items: center; box-shadow: var(--shadow); max-width: calc(100vw - 24px); } .toast button { color: var(--gold); font-weight: 700; text-decoration: underline; }
+#suplist p { margin-top: 7px; font-size: 14px; } #suplist b { display: inline-flex; gap: 6px; align-items: center; } #suplist svg { color: var(--st); }
+.gcard .card p.gp { margin-top: 7px; font-size: 14px; }
+.gcard > .card { min-width: 0; } @media (max-width: 600px) { .lcmid { grid-template-columns: repeat(2, 1fr); } }
+@media print { .toast { display: none !important; } }
 #printdoc { display: none; }
 @page { size: A4; margin: 14mm; }
 @media print {
@@ -193,6 +239,11 @@ textarea, input[type=text], input:not([type]), select { width: 100%; border: 1.5
  <symbol id="i-ladder" viewBox="0 0 24 24"><path d="M8 3v18M16 3v18M8 7h8M8 12h8M8 17h8"/></symbol>
  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.500"/><path d="M16 16l5 5"/></symbol>
  <symbol id="i-heart" viewBox="0 0 24 24"><path d="M12 20s-7-4.500-7-10a4 4 0 017-2.500A4 4 0 0119 10c0 5.500-7 10-7 10z"/></symbol>
+ <symbol id="i-s0" viewBox="0 0 24 24"><path opacity=".28" d="M5 20v-4M10 20v-8M15 20V8M20 20V4"/></symbol>
+ <symbol id="i-s1" viewBox="0 0 24 24"><path d="M5 20v-4"/><path opacity=".28" d="M10 20v-8M15 20V8M20 20V4"/></symbol>
+ <symbol id="i-s2" viewBox="0 0 24 24"><path d="M5 20v-4M10 20v-8"/><path opacity=".28" d="M15 20V8M20 20V4"/></symbol>
+ <symbol id="i-s3" viewBox="0 0 24 24"><path d="M5 20v-4M10 20v-8M15 20V8"/><path opacity=".28" d="M20 20V4"/></symbol>
+ <symbol id="i-s4" viewBox="0 0 24 24"><path d="M5 20v-4M10 20v-8M15 20V8M20 20V4"/></symbol>
  <symbol id="i-lock" viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="9" rx="2"/><path d="M8 11V8a4 4 0 018 0v3"/></symbol>
 </svg>
 <header class="mast"><div class="mast-in">
@@ -263,12 +314,13 @@ a.sm-a:hover,a.sm-a:focus-visible{background:#eceeff;outline:none}
 <section class="view" id="v-build">
   <div class="stepbar"><span id="stepbar" style="display:contents"></span><button class="btn ghost" id="reset">Start again</button></div>
   <section class="step" id="s1"><h2><i>1</i>Choose a question</h2><p class="sub">Every Crime extended response question from 2011 to 2025, each worth 15 marks. The gold tags show what the question is built on.</p><div class="qlist" id="qlist"></div></section>
-  <p class="card" id="noq" style="margin-top:16px">Choose a question to start. The builder then helps you unpack it, plan each paragraph with evidence from the class Evidence Finder, and check the plan before you write.</p>
+  <p class="card" id="noq" style="margin-top:16px">Choose a question to start. The builder asks how much support you want, then helps you unpack the question, plan each paragraph with evidence from the class Evidence Finder or your own research, and check the plan before you write.</p>
+  <section class="card needq supbar" id="supbar" aria-label="Level of support" hidden></section>
   <section class="step needq" id="s2"><h2><i>2</i>Unpack it</h2><div class="card" id="unpack"></div></section>
-  <section class="step needq" id="s3"><h2><i>3</i>Plan your paragraphs</h2><p class="sub">Aim for three or four body paragraphs. Open a paragraph, then add evidence to it from the list on the right.</p>
+  <section class="step needq needsup" id="s3"><h2><i>3</i>Plan your paragraphs</h2><p class="sub">Aim for three or four body paragraphs. Open a paragraph, then add evidence to it from the Evidence Finder list or from <b>My evidence</b>.</p><p class="supline" id="supline"></p>
     <div class="build"><div id="paras"></div>
-      <aside class="shelf"><h3>Evidence Finder<span id="evfor"></span></h3><p class="feed" id="feed"></p><div id="evhead"></div><div class="evlist" id="evlist"></div></aside></div></section>
-  <section class="step needq" id="s4"><h2><i>4</i>Review the plan</h2><p class="sub">Your plan updates as you build. Check it, copy it, then write the response by hand under timed conditions.</p><div id="plan"></div></section>
+      <aside class="shelf"><h3>Evidence<span id="evfor"></span></h3><p class="feed" id="feed"></p><div id="evhead"></div><div class="evlist" id="evlist"></div></aside></div></section>
+  <section class="step needq needsup" id="s4"><h2><i>4</i>Review the plan</h2><p class="sub">Your plan updates as you build. Check it, copy it, then write the response by hand under timed conditions.</p><div id="plan"></div></section>
 </section>
 <section class="view" id="v-guide">
   <div class="gcard">
@@ -277,10 +329,20 @@ a.sm-a:hover,a.sm-a:focus-visible{background:#eceeff;outline:none}
       <h2 style="margin-top:18px">Evidence: LCMID</h2><p class="sub">Strong responses draw on more than one kind of evidence.</p>
       <div class="lcmid"><div class="t-legislation"><i>L</i>Legislation</div><div class="t-case"><i>C</i>Cases</div><div class="t-media"><i>M</i>Media</div><div class="t-international"><i>I</i>International instruments</div><div class="t-document"><i>D</i>Documents and reports</div></div>
       <h2 style="margin-top:18px">Criteria for judging the law</h2><p class="sub">Analysis means measuring the evidence against one of these.</p><div class="chips" id="critl" style="margin-top:8px"></div></div>
+    <div class="card"><h2>Choose your level of support</h2><p class="sub">When you start a plan, the builder asks two quick questions and suggests a level. The level shows above the plan, you can change it at any time, and it is recorded on the plan you print or copy.</p><div id="suplist"></div>
+      <p class="note2"><b>Step down.</b> Start where you need to, then drop a level each time you plan a response. Aim to plan on your own before the exam.</p></div>
+    <div class="card"><h2>Your own evidence</h2><p class="sub">You are not limited to the Evidence Finder. In step 3, open <b>My evidence</b> in the evidence list to add a case, an Act, a news story, a report or a statistic from your own research.</p>
+      <p class="gp"><b>Name it and cite it.</b> Give each piece a name, its citation or its source and date, and one line on what it shows.</p>
+      <p class="gp"><b>Stimulus.</b> When a question comes with a stimulus, add what it gives you as Stimulus evidence. It stays with that question.</p>
+      <p class="note2"><b>Kept on this device.</b> Your evidence is offered in every plan, but only in this browser. Save a backup file from My evidence, and load it on another device to carry it across.</p>
+      <h2 style="margin-top:18px">The shape of a 15-mark response</h2><p class="sub">About four writing booklet pages, or 600 words. Allow about 30 minutes, including a few minutes to plan.</p>
+      <p class="gp"><b>Introduction.</b> Answer the question in your first sentence with a clear judgement, then name the areas you will cover.</p>
+      <p class="gp"><b>Body.</b> Three or four TEEACL paragraphs. Each one makes a single point, proves it with two or more pieces of evidence, and judges it against a criterion.</p>
+      <p class="gp"><b>Conclusion.</b> Restate your judgement and the strongest reason for it. No new evidence.</p></div>
   </div>
 </section>
 <div id="printdoc" aria-hidden="true"></div>
-<p class="foot">Questions are from the 2011 to 2025 HSC Legal Studies papers, as recorded in the class Question Finder. Evidence is the Crime collection in the class Evidence Finder. On the class website the list refreshes from the Evidence Finder each time the page opens; evidence titles in the plan link to the full record. Your plan is kept only in this browser and can disappear, so copy it when you finish. The builder plans a response; it does not write one.</p>
+<p class="foot">Questions are from the 2011 to 2025 HSC Legal Studies papers, as recorded in the class Question Finder. Evidence is the Crime collection in the class Evidence Finder. On the class website the list refreshes from the Evidence Finder each time the page opens; evidence titles in the plan link to the full record. Your plan and your own evidence are kept only in this browser and can disappear, so copy or print the plan when you finish and save a backup file of your evidence. Suggested ideas and worked models are starting points written for this site. The builder plans a response; it does not write one.</p>
 
 </main>
 <script>
@@ -315,134 +377,348 @@ const EF = 'https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-', 
 const framed = (() => { try { return window.self !== window.top; } catch (e) { return true; } })();
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
-const KEY = 'er-builder-v2';
-let S = { q: null, stance: 2, thesis: '', paras: [], open: 0, f: { part: '', type: '', text: '', match: true } };
-const save = () => { try { localStorage.setItem(KEY, JSON.stringify({ q: S.q, stance: S.stance, thesis: S.thesis, paras: S.paras })); } catch (e) {} };
-try { const d = JSON.parse(localStorage.getItem(KEY) || 'null'); if (d && typeof d.q === 'number' && DATA.q[d.q]) { Object.assign(S, d); S.paras.forEach(p => p.ev = p.ev.filter(id => REC[id])); } } catch (e) {}
-const newPara = () => ({ part: '', point: '', crit: '', ev: [], counter: '' });
+/* ---------- state (v3: support levels, My evidence, analysis and link boxes; 24 Nov 2026) ---------- */
+const KEY = 'er-builder-v3', KEY_OLD = 'er-builder-v2';
+const STIM = { 2014: 'Second Reading Speech, Law Enforcement (Powers and Responsibilities) Bill 2002 (NSW), 17 September 2002', 2022: 'Comment by the NSW Attorney General on a proposal to raise the age of criminal responsibility, The Sydney Morning Herald, 21 November 2021' };
+const TLX = Object.assign({}, TL, { stimulus: ['stimulus', 'S', 'Stimulus'] });
+const uid = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
+const str = v => typeof v === 'string' ? v : '';
+const cap = s => s ? s[0].toUpperCase() + s.slice(1) : s;
+const blankG = () => ({ topic: '', what: '', r1: '', r2: '', lim: '' });
+const newDraft = k => ({ id: '', type: k || 'case', short: '', cite: '', sig: '' });
+function cleanBank(a) { return (Array.isArray(a) ? a : []).filter(x => x && typeof x === 'object' && str(x.short).trim()).slice(0, 300).map(x => ({
+  id: /^own-[a-z0-9]+$/.test(str(x.id)) ? x.id : 'own-' + uid(), own: true, type: TLX[x.type] ? x.type : 'document', short: str(x.short).trim().slice(0, 300), cite: str(x.cite).trim().slice(0, 300), sig: str(x.sig).trim().slice(0, 600),
+  qy: x.type === 'stimulus' && typeof x.qy === 'number' ? x.qy : null, core: [], sup: [], th: [] })); }
+const newPara = () => ({ part: '', point: '', crit: '', ev: [], analysis: '', counter: '', link: '' });
+const fresh = () => ({ q: null, stance: 2, thesis: '', paras: [], open: 0, supSet: false, supMax: 0, hc: [null, null], supOpen: false, walk: false, g: blankG(), out: false });
+let S = Object.assign(fresh(), { sup: 0, lastSup: null, bank: [], f: { part: '', type: '', text: '', own: false, form: false, draft: newDraft() } });
+const rebuildREC = () => { REC = Object.fromEntries(DATA.recs.concat(S.bank).map(r => [r.id, r])); };
+function normParas() { S.paras = (Array.isArray(S.paras) ? S.paras : []).filter(p => p && typeof p === 'object').slice(0, 5); S.paras.forEach(p => { ['part', 'point', 'crit', 'analysis', 'counter', 'link'].forEach(k => { if (typeof p[k] !== 'string') p[k] = ''; }); p.ev = (Array.isArray(p.ev) ? p.ev : []).filter(id => REC[id]); }); }
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify({ q: S.q, stance: S.stance, thesis: S.thesis, paras: S.paras, sup: S.sup, supSet: S.supSet, supMax: S.supMax, hc: S.hc, lastSup: S.lastSup, g: S.g, out: S.out, bank: S.bank })); } catch (e) {} };
+try { let d = JSON.parse(localStorage.getItem(KEY) || 'null'); const old = !d; if (old) d = JSON.parse(localStorage.getItem(KEY_OLD) || 'null');
+  if (d && typeof d === 'object') { S.bank = cleanBank(d.bank); if ([0, 1, 2, 3, 4].includes(d.sup)) S.sup = d.sup; if ([0, 1, 2, 3, 4].includes(d.lastSup)) S.lastSup = d.lastSup;
+    if (typeof d.q === 'number' && DATA.q[d.q]) { S.q = d.q; if ([0, 1, 2, 3, 4].includes(d.stance)) S.stance = d.stance; S.thesis = str(d.thesis); S.paras = d.paras; S.supSet = !old && !!d.supSet; S.supMax = [0, 1, 2, 3, 4].includes(d.supMax) ? d.supMax : 0; S.out = !!d.out;
+      if (Array.isArray(d.hc)) S.hc = [0, 1].map(i => [0, 1, 2].includes(d.hc[i]) ? d.hc[i] : null); if (d.g && typeof d.g === 'object') Object.keys(S.g).forEach(k => S.g[k] = str(d.g[k])); } } } catch (e) {}
+rebuildREC(); normParas();
 const Q = () => DATA.q[S.q];
 const qParts = q => [...new Set(q.core.concat(q.support).filter(x => !x.startsWith('crime.t.')))];
 const qThemes = q => q.core.concat(q.support).filter(x => x.startsWith('crime.t.'));
+const scale = () => (VERB[Q().dir] || VERB.assess)[2][S.stance];
+const isJudge = () => !['explain', 'analyse'].includes(Q().dir);
+let toastT = null;
+function toast(msg, undo) { let t = $('#toast'); if (!t) { t = document.createElement('div'); t.id = 'toast'; t.className = 'toast'; t.setAttribute('role', 'status'); document.body.appendChild(t); }
+  t.innerHTML = `<span>${esc(msg)}</span>${undo ? '<button type="button">Undo</button>' : ''}`; t.hidden = false; if (undo) t.querySelector('button').onclick = () => { undo(); t.hidden = true; };
+  clearTimeout(toastT); toastT = setTimeout(() => { t.hidden = true; }, undo ? 8000 : 4000); }
+
+/* ---------- graduated support: 0 on my own, 1 sentence starters, 2 guiding questions, 3 suggested ideas, 4 worked model ---------- */
+const SUPL = [['On my own', 'Prompts in each box only. This is how you will plan in the exam, so aim to finish here.'],
+  ['Sentence starters', 'Adds starters and linking words under each box. Click one to drop it in, then finish the sentence.'],
+  ['Guiding questions', 'Adds questions that walk you to a thesis and through each part of a paragraph, plus the starters.'],
+  ['Suggested ideas', 'Adds possible points and evidence that fit this part of the syllabus. Choose, then reword to fit the question.'],
+  ['Worked model', 'Adds a model thesis and a model paragraph for a different Crime question. Copy the pattern, not the words.']];
+const HCQ = [['Have you planned a Crime extended response before?', ['This is my first', 'A few times', 'Many times']], ['How confident are you with this part of Crime?', ['Not yet', 'Fairly confident', 'Very confident']]];
+const supName = n => (n ? `Level ${n}: ` : '') + SUPL[n][0];
+const supUsed = () => supName(Math.max(S.supMax || 0, S.supSet ? S.sup : 0));
+const PSTART = { explain: ['One way the law … is …', 'A key reason for … is …', '… is balanced against … by …'], analyse: ['… operates to … through …', 'The relationship between … and … is …', 'An implication of … is …'],
+  assess: ['… is effective in … because …', '… has had limited success in …', 'A strength of … is …', 'A weakness of … is …'],
+  discuss: ['One argument for … is …', 'A benefit of … is …', 'However, a concern with … is …'],
+  'to what extent': ['To a large extent, … because …', '… only partly … because …', '… is limited by …'] };
+PSTART.evaluate = PSTART['how effective'] = PSTART.assess;
+function starters(kind) { const q = Q(), sc = scale(), p = S.paras[S.open];
+  switch (kind) {
+    case 'thesis': if (q.dir === 'discuss') return ['There are arguments for and against …, but overall …', 'While …, on balance …', '… although this is limited by …'];
+      return isJudge() ? [(/^to a/.test(sc) ? cap(sc) + ', … because …' : '… is ' + sc + ' in … because …'), 'While …, overall the criminal justice system …', '… although this is limited by …'] : ['The criminal justice system … mainly through …', 'There is a tension between … and … because …', '… operates to … by …'];
+    case 'point': return PSTART[q.dir] || PSTART.explain;
+    case 'analysis': return ['This shows that …', 'This protects … because …', (p && p.crit ? `Measured against ${p.crit[0].toLowerCase() + p.crit.slice(1)}, …` : 'Measured against [your criterion], …'), 'As a result, …', 'This is effective in … as …'];
+    case 'counter': return ['However, …', 'Critics argue that …', 'In practice, …', 'This is limited by …'];
+    case 'link': return isJudge() ? ['Therefore, …', 'On balance, …', (/^to a/.test(sc) ? `This shows that, ${sc}, …` : `Overall, … is ${sc} because …`)] : ['Therefore, …', 'This shows that …', 'This matters because …'];
+  } return []; }
+function guideQs(kind) { const judge = isJudge();
+  switch (kind) {
+    case 'point': return ['Which part of the question does this paragraph answer?', 'What is the one claim? Say it in a sentence that uses words from the question.'].concat(judge ? ['Does the sentence show your judgement?'] : []);
+    case 'ev': return ['Which Act and section gives this power or right?', 'Which case, report or media story shows it working, or failing, in practice?'];
+    case 'crit': return ['Who is this good or bad for: victims, the accused, or society?'];
+    case 'analysis': return ['What does the evidence prove about your point?', 'How does it measure up against the criterion you chose?'];
+    case 'counter': return ['Who loses out, or what limits this?', 'Is there evidence that points the other way? How do you answer it?'];
+    case 'link': return [judge ? 'So how far does this paragraph support your thesis?' : 'Why does this matter for the question?'];
+  } return []; }
+const gqHTML = kind => { const q = S.sup >= 2 ? guideQs(kind) : []; return q.length ? `<ul class="gq">${q.map(x => `<li>${x}</li>`).join('')}</ul>` : ''; };
+const stHTML = (to, kind) => { const s = S.sup >= 1 ? starters(kind) : []; return s.length ? `<div class="sts" role="group" aria-label="Sentence starters">${s.map(x => `<button type="button" class="st" data-ins="${esc(x)}" data-to="${to}">${esc(x)}</button>`).join('')}</div>` : ''; };
+function chooser() { const a = S.hc, done = a[0] != null && a[1] != null, rec = done ? 4 - a[0] - a[1] : null;
+  const card = (i, big) => `<button type="button" class="lvl ${big ? 'big' : ''}" data-sup="${i}"><b>${ic('s' + i)}${supName(i)}</b><span>${SUPL[i][1]}</span>${big ? '<u>Use this level →</u>' : ''}</button>`;
+  return `<div class="choose"><h3>${ic('s2')}Choose your level of support</h3><p class="sub">Answer two quick questions and the builder suggests a level. You can change it at any time, and each level adds to the one before.</p>
+    ${S.lastSup != null && S.lastSup > 0 ? `<p class="note2"><b>Last time you chose ${esc(SUPL[S.lastSup][0])}.</b> If that plan went well, try one level down this time: ${esc(SUPL[S.lastSup - 1][0])}.</p>` : ''}
+    ${HCQ.map((q, i) => `<p class="lab">${i + 1}. ${q[0]}</p><div class="seg" role="group">${q[1].map((t, k) => `<button type="button" data-hc="${i}|${k}" aria-pressed="${a[i] === k}">${t}</button>`).join('')}</div>`).join('')}
+    ${done ? `<div class="rec"><small>Suggested for you</small>${card(rec, true)}</div>` : ''}
+    <span class="or">${done ? 'Or choose a different level' : 'Or choose a level yourself'}</span><div class="lvls">${SUPL.map((l, i) => card(i)).join('')}</div></div>`; }
+function renderSup() { const el = $('#supbar'), on = S.q !== null && S.supSet; el.hidden = !on; if (!on) { el.innerHTML = ''; return; } S.supMax = Math.max(S.supMax || 0, S.sup);
+  el.innerHTML = `<span class="supname">${ic('s' + S.sup)}Support: ${supName(S.sup)}</span><p class="supd">${SUPL[S.sup][1]}</p><button type="button" class="btn ghost sm" data-supopen aria-expanded="${S.supOpen}">${S.supOpen ? 'Close' : 'Change level'}</button>
+    ${S.supOpen ? `<div class="seg" role="group" aria-label="Level of support">${SUPL.map((l, i) => `<button data-sup="${i}" aria-pressed="${S.sup === i}" title="${esc(l[1])}">${ic('s' + i)}${l[0]}</button>`).join('')}</div>` : ''}`;
+  const sl = $('#supline'); if (sl) sl.innerHTML = `${ic('s' + S.sup)}Support: <b>${supName(S.sup)}</b> <a href="#supbar" data-supjump>Change level</a>`; }
+
+/* suggested ideas (level 3): lines of argument for each part of the Crime topic and each theme. They are prompts, not answers. */
+const SUG = {
+  'crime.1': ['Requiring both actus reus and mens rea protects people from being punished for accidents', 'Strict liability offences trade individual fairness for efficient enforcement and public safety', 'Dividing offences into summary and indictable matches the seriousness of the crime to the resources of the court', 'Situational and social crime prevention can reduce offending before the criminal law is needed', 'What counts as a crime changes as the moral standards of the community change'],
+  'crime.2': ['LEPRA pairs each police power with a safeguard, which protects suspects only when the safeguard is followed', 'Police discretion at arrest and charge decides who enters the criminal justice system', 'Warrants place a court between the police and a person’s privacy', 'Bail law balances the presumption of innocence against the safety of victims and the community', 'Limits on detention and interrogation protect the right to silence and guard against unreliable confessions', 'Technology gives police more evidence but creates new risks to privacy'],
+  'crime.3': ['The adversary system delivers a fair trial only when both sides are equally resourced', 'Legal aid makes the right to a fair trial real, but strict tests leave many accused people unrepresented', 'Charge negotiation saves court time and spares victims a trial, at some cost to open justice', 'The jury brings community values into the trial, but jurors can be influenced by material outside the evidence', 'The burden and standard of proof protect the accused by making the state prove its case', 'The rules of evidence keep unfair or unlawfully obtained material away from the jury', 'Defences let the law recognise reduced blame'],
+  'crime.4': ['Judicial discretion lets a sentence fit the offender and the offence', 'The purposes of punishment pull in different directions, so a judge must rank them in each case', 'Mandatory sentences and standard non-parole periods give consistency but limit individualised justice', 'Victim impact statements give victims a voice in sentencing without deciding the sentence', 'Alternatives to full-time imprisonment can reduce reoffending at lower cost', 'Diversionary programs such as circle sentencing address the causes of offending', 'Post-sentencing measures such as parole and continued detention balance rehabilitation against community safety'],
+  'crime.5': ['The law treats children differently because they are less mature and more able to change', 'Doli incapax protects children aged 10 to 13 who do not understand that what they did was seriously wrong', 'The Young Offenders Act diverts young people from court through warnings, cautions and conferences', 'The Children’s Court uses a closed court and a ban on naming to protect a child’s future', 'Detention as a last resort reflects the Convention on the Rights of the Child, but remand numbers test it', 'Access to diversion depends on police discretion, which is not applied equally to all young people'],
+  'crime.6': ['The International Criminal Court prosecutes crimes against the international community only when states are unable or unwilling to', 'State sovereignty limits enforcement because international law depends on states cooperating', 'Transnational crime is tackled through domestic law that reaches overseas and through police cooperation between countries', 'Extradition lets states return suspects, but only where both states agree', 'International measures can be slow and costly compared with the scale of the harm'],
+  'crime.t.discretion': ['Discretion allows justice to be fitted to the individual case', 'Discretion can produce different outcomes for similar conduct', 'Discretion is used at every stage, by police, prosecutors, judges and parole authorities', 'Parliament limits discretion when the public loses confidence in how it is used'],
+  'crime.t.compliance': ['Most people comply because they share the values the law protects, not because they fear punishment', 'Deterrence works only when offenders believe they will be caught', 'Courts encourage compliance by punishing in public and by holding the state to the law', 'Non-compliance has social and economic causes that the criminal law alone cannot fix'],
+  'crime.t.moral': ['The criminal law changes as community standards change', 'Jury verdicts bring community values into individual cases', 'Public and media pressure can push law reform faster than the evidence supports', 'Due process rights reflect the ethical standard that the state must prove guilt fairly'],
+  'crime.t.reform': ['Law reform often follows a single case that outrages the public', 'Law reform commissions and inquiries give reform an evidence base', 'Reform can be slow, leaving victims without protection in the meantime', 'A new offence achieves little unless police and courts can enforce it'],
+  'crime.t.balance': ['A right given to one party often comes at the expense of another', 'Protecting the community can mean limiting the liberty of a person who has not been convicted', 'Victims now have a formal voice, though the trial remains a contest between the state and the accused', 'A fair process for the accused protects society from wrongful convictions'],
+  'crime.t.effectiveness': ['Legal measures are enforceable but act mostly after harm has occurred', 'Non-legal measures such as education, programs and the media can prevent crime or prompt reform', 'Effectiveness depends on resources, because delay and cost reduce access to justice', 'Legal and non-legal measures work best together'] };
+const sugKey = t => t.startsWith('crime.t.') ? t : t.split('.').slice(0, 2).join('.');
+const rr = lists => { const out = []; for (let i = 0; lists.some(l => i < l.length); i++) lists.forEach(l => { if (i < l.length && !out.includes(l[i])) out.push(l[i]); }); return out; };
+const sugPoints = (tags, n) => rr([...new Set(tags.map(sugKey))].map(k => SUG[k] || [])).slice(0, n);
+function scoreRec(r, part) { const q = Q(), th = qThemes(q); let s = 0; const all = r.core.concat(r.sup), tags = all.concat(r.th);
+  if (part) { if (r.core.some(t => t.startsWith(part))) s += 6; else if (r.sup.some(t => t.startsWith(part))) s += 3; }
+  th.forEach(t => { if (tags.includes(t)) s += q.core.includes(t) ? 3 : 1; }); return s; }
+function bestEv(p, n) { const parts = p.part ? [p.part] : qParts(Q()), seen = new Set(), out = [];
+  const rows = DATA.recs.filter(r => r.core.concat(r.sup).some(t => parts.some(x => t.startsWith(x)))).map(r => [Math.max(...parts.map(x => scoreRec(r, x))), r]).sort((a, b) => b[0] - a[0] || a[1].short.localeCompare(b[1].short));
+  rows.forEach(([s, r]) => { const t = tcode(r.type); if (out.length < n && !seen.has(t)) { seen.add(t); out.push(r); } }); rows.forEach(([s, r]) => { if (out.length < n && !out.includes(r)) out.push(r); }); return out; }
+function ideas(p) { if (S.sup < 3) return ''; const q = Q(), tags = p.part ? [p.part].concat(qThemes(q)) : q.core.concat(q.support), pts = sugPoints(tags, 8), evs = bestEv(p, 4);
+  return `<div class="ideas"><h4>Suggested ideas for this paragraph</h4><p class="dhint">These fit ${p.part ? 'this area of Crime' : 'the question’s tags. Choose an area above to narrow them'}. They are not answers to this question: choose one, then reword it to fit.</p>
+    ${pts.length ? `<h5>Possible points</h5><div class="idl">${pts.map(t => `<button type="button" class="idea" data-usept="${esc(t)}"><span>${esc(t)}</span><u>Use</u></button>`).join('')}</div>` : ''}
+    ${evs.length ? `<h5>Evidence that fits <em>(more in the evidence list)</em></h5><div class="idl">${evs.map(r => { const on = p.ev.includes(r.id); return `<button type="button" class="idea ${on ? 'on' : ''}" data-quickev="${esc(r.id)}"><span><b>${esc(r.short)}</b> <em>${TLX[tcode(r.type)][2]} · ${esc(r.sig)}</em></span><u>${on ? '✓' : '+'}</u></button>`; }).join('')}</div>` : ''}</div>`; }
+
+/* worked models (level 4): one paragraph each, written from Evidence Finder records. No colons in the model sentences. */
+const MODELS = [
+  { y: 2023, tags: ['crime.3', 'crime.4', 'crime.t.compliance', 'crime.t.effectiveness'], q: 'To what extent do courts encourage compliance with criminal law? (HSC 2023)',
+    thesis: 'Courts encourage compliance with criminal law to a moderate extent because sentencing and the exclusion of unlawfully obtained evidence hold both individuals and the state to the law, although a court can only act once an offence has been detected and charged.',
+    plan: { point: 'Sentencing encourages individuals to comply', ev: [['crimes-sentencing-procedure-act-1999', 'CSPA 1999 (NSW) s 3A'], ['r-v-loveridge-2014', 'R v Loveridge [2014] NSWCCA 120']], crit: 'Enforceability and meeting society’s needs', counter: 'Courts act only on offences that are charged (coercive control figures)', link: 'A moderate extent' },
+    para: [[0, 'Courts encourage individuals to comply with the criminal law through sentencing, which is enforceable because every proven offence carries a consequence that is announced in open court.'],
+      [1, 'Section 3A of the Crimes (Sentencing Procedure) Act 1999 (NSW) lists deterrence and denunciation among the purposes for which a court may impose a sentence.'],
+      [1, 'In R v Loveridge [2014] NSWCCA 120 the Court of Criminal Appeal almost doubled a one-punch manslaughter sentence on a Crown appeal because general deterrence and denunciation had been given only passing weight.'],
+      [3, 'This shows the courts meeting society’s needs, since the sentence sends a public message about the cost of violence as well as punishing one offender.'],
+      [4, 'However, a court can only encourage compliance with offences that reach it, and in the first two years of the coercive control offence BOCSAR recorded 682 incidents but only 4 proven charges, so weak enforceability limits what sentencing can achieve.'],
+      [5, 'Therefore sentencing encourages compliance to a moderate extent, and it is strongest where offences are reliably detected and prosecuted.']] },
+  { y: 2013, tags: ['crime.4', 'crime.t.discretion', 'crime.t.balance'], q: 'Assess the role discretion plays in the sentencing and punishment of offenders. (HSC 2013)',
+    thesis: 'Judicial discretion is mostly effective in the sentencing and punishment of offenders because it lets a court fit the penalty to the offender and the offence, although its results can be inconsistent enough that Parliament has at times removed it.',
+    plan: { point: 'Discretion achieves justice for the individual offender', ev: [['muldrock-v-the-queen-2011', 'Muldrock v The Queen (2011) 244 CLR 120'], ['bugmy-v-the-queen-2013', 'Bugmy v The Queen (2013) 249 CLR 571']], crit: 'Protection of individual rights', counter: 'Lenient outcomes and the one-punch laws (R v Loveridge)', link: 'Mostly effective' },
+    para: [[0, 'Judicial discretion is effective in achieving justice for the individual because it allows a sentence to reflect the circumstances of each offender as well as the seriousness of the offence.'],
+      [1, 'In Muldrock v The Queen (2011) 244 CLR 120 the High Court held that a standard non-parole period is a guidepost and not a starting point, so the judge still weighs every factor together.'],
+      [1, 'In Bugmy v The Queen (2013) 249 CLR 571 the High Court held that a childhood of profound deprivation can reduce an offender’s moral culpability and that its effect does not fade with time.'],
+      [3, 'Together these cases show discretion protecting individual rights, since a judge can respond to disadvantage that a fixed penalty would ignore.'],
+      [4, 'However, discretion does not always meet society’s needs, as in R v Loveridge [2014] NSWCCA 120 where a sentence widely seen as lenient was almost doubled on appeal and Parliament then removed the judge’s discretion for intoxicated one-punch killings.'],
+      [5, 'Therefore discretion is mostly effective, because appeals correct the outliers while mandatory sentences remove the flexibility that individual justice requires.']] },
+  { y: 2014, tags: ['crime.2', 'crime.t.balance', 'crime.t.effectiveness'], q: 'To what extent does the criminal investigation process balance the rights of victims, suspects and society? (HSC 2014)',
+    thesis: 'The criminal investigation process balances the rights of victims, suspects and society to a moderate extent because the law matches each police power with a safeguard, although those safeguards are often enforced only after a breach has occurred.',
+    plan: { point: 'Police powers are paired with safeguards for suspects', ev: [['lepra-2002', 'LEPRA 2002 (NSW), including Part 9'], ['evidence-act-1995', 'Evidence Act 1995 (NSW) s 138']], crit: 'Enforceability and protection of individual rights', counter: 'Unlawful strip searches (LECC inquiry 2020)', link: 'A moderate extent' },
+    para: [[0, 'The investigation process protects the rights of suspects in principle because each police power is paired with a responsibility that limits how it may be used.'],
+      [1, 'The Law Enforcement (Powers and Responsibilities) Act 2002 (NSW) holds almost every police power in one statute, and Part 9 sets out the rights of a person who is detained for questioning.'],
+      [1, 'Under s 138 of the Evidence Act 1995 (NSW) a court can refuse to admit evidence that police obtained improperly or illegally.'],
+      [3, 'This makes the safeguards enforceable, since police who ignore the rules risk losing the evidence the prosecution depends on, which also serves society’s interest in lawful policing.'],
+      [4, 'However, the Law Enforcement Conduct Commission’s 2020 inquiry found strip searches unlawful in four of the seven investigations it examined, which suggests that the protection of individual rights depends on how the powers are used in practice.'],
+      [5, 'Therefore the investigation process balances these rights to a moderate extent, with strong rules on paper but weaker compliance with them.']] }];
+function modelFor() { const q = Q(), tags = q.core.concat(q.support); let best = null, bs = -1;
+  MODELS.filter(m => m.y !== q.y).forEach(m => { let s = 0; m.tags.forEach((t, j) => { const i = tags.findIndex(x => sugKey(x) === t); if (i >= 0) s += (q.core.includes(tags[i]) ? 4 : 1) + (j === 0 ? 2 : 0); }); if (s > bs) { bs = s; best = m; } }); return best; }
+const mrow = (k, html) => `<div class="mv"><i style="background:${MOVES[k][3]}">${MOVES[k][0]}</i><span>${html}</span></div>`;
+function modelPanel() { if (S.sup < 4) return ''; const m = modelFor();
+  return `<details class="helpd hm" open><summary>${ic('s4')}Worked model for a different Crime question</summary><div><div class="model"><p class="dhint">Copy the pattern, not the words.</p><p class="mq">${esc(m.q)}</p>
+    <div class="m2"><div><small>The plan</small>${mrow(0, esc(m.plan.point))}${m.plan.ev.map(e => mrow(1, REC[e[0]] ? `<a class="evl" href="${EF}${encodeURIComponent(e[0])}" target="_blank" rel="noopener">${esc(e[1])}</a>` : esc(e[1]))).join('')}${mrow(3, 'Judged against: ' + esc(m.plan.crit))}${mrow(4, esc(m.plan.counter))}${mrow(5, esc(m.plan.link))}</div>
+    <div><small>The paragraph written from the plan</small><p class="mpara">${m.para.map(([k, t]) => `<span class="mk" style="border-color:${MOVES[k][3]}"><b class="mb" style="background:${MOVES[k][3]}" title="${k === 1 ? 'Evidence and explanation' : MOVES[k][1]}">${MOVES[k][0]}</b>${esc(t)}</span>`).join(' ')}</p></div></div>
+    <p class="dhint">The evidence was checked against the Evidence Finder in November 2026. Use the newest evidence in your own paragraph.</p></div></div></details>`; }
+
+/* thesis: guided steps (level 2), lines of argument (level 3), model thesis (level 4) */
+const tidy = (s, re) => (s || '').trim().replace(/[.\s]+$/, '').replace(re || /^$/, '');
+const gfld = (k, ph) => `<input type="text" data-b="g.${k}" value="${esc(S.g[k])}" placeholder="${esc(ph)}">`;
+function draftThesis() { const g = S.g, sc = scale(), topic = tidy(g.topic), what = tidy(g.what, /^(it|they)\s+/i), r1 = tidy(g.r1, /^because\s+/i), r2 = tidy(g.r2, /^(and|because)\s+/i), lim = tidy(g.lim, /^(although|but|however,?)\s+/i);
+  if (!topic || !what) return '';
+  const head = isJudge() && /^to a/.test(sc) ? `${cap(sc)}, ${topic} ${what}` : `${cap(topic)} ${what}`;
+  return head + (r1 ? ` because ${r1}` : '') + (r1 && r2 ? ` and ${r2}` : '') + (lim ? `, although ${lim}` : '') + '.'; }
+function thesisHelp() { const q = Q(), judge = isJudge(), sc = scale(); let h = '';
+  if (S.sup >= 2) h += `<p style="margin-top:12px"><button type="button" class="btn ${S.walk ? '' : 'ghost '}sm" data-walk aria-pressed="${S.walk}">${ic('s2')}${S.walk ? 'Hide the thesis steps' : 'Build my thesis step by step'}</button></p>` + (S.walk ? `<div class="walk"><b>Build your thesis step by step</b><p class="dhint">Answer in a few words each. The builder joins your answers into a draft for you to improve.</p>
+    <label class="lab">1. What is the question about? <em>Name the process, law or issue.</em></label>${gfld('topic', 'e.g. the criminal trial process')}
+    <label class="lab">2. ${judge ? 'What is your judgement of it? <em>Finish the sentence: it …</em>' : 'What does it do? <em>Finish the sentence: it …</em>'}</label>${gfld('what', judge ? (/^to a/.test(sc) ? 'e.g. reflects the moral and ethical standards of society' : `e.g. is ${sc} in achieving justice for offenders`) : 'e.g. balances community interests against individual rights')}
+    <label class="lab">3. Your strongest reason <em>because …</em></label>${gfld('r1', 'e.g. the jury brings community values into each verdict')}
+    <label class="lab">4. A second reason <em>(optional)</em></label>${gfld('r2', 'e.g. the rules of evidence protect a fair trial')}
+    <label class="lab">5. ${judge ? 'What limits it or works against it?' : 'Is there a limit or an exception?'} <em>although … (optional)</em></label>${gfld('lim', 'e.g. access to legal aid is limited')}
+    <p style="margin-top:8px"><button type="button" class="btn sm" data-mkthesis>Draft my thesis from these answers</button></p></div>` : '');
+  if (S.sup >= 3) { const pts = sugPoints(q.core.concat(q.support), 8); if (pts.length) h += `<details class="helpd hi"><summary>${ic('s3')}Ideas: lines of argument from this part of the syllabus</summary><div><p class="dhint">Which of these would best answer this question? Your reasons in the thesis become your paragraphs.</p><ul class="lines">${pts.map(t => `<li>${esc(t)}</li>`).join('')}</ul></div></details>`; }
+  if (S.sup >= 4) { const m = modelFor(); h += `<details class="helpd hm"><summary>${ic('s4')}Model thesis for a different Crime question</summary><div><p class="mq">${esc(m.q)}</p><p>${esc(m.thesis)}</p></div></details>`; }
+  return h; }
+const fromThesis = () => { if (S.sup < 2) return ''; const g = S.g, xs = [tidy(g.r1, /^because\s+/i), tidy(g.r2, /^(and|because)\s+/i), tidy(g.lim, /^(although|but|however,?)\s+/i)].filter(Boolean); return xs.length ? `<div class="sts"><span>From your thesis answers:</span>${xs.map(x => `<button type="button" class="st" data-ins="${esc(cap(x))}" data-to="p.point">${esc(x)}</button>`).join('')}</div>` : ''; };
 
 /* ---------- 1. question ---------- */
 function renderQs() {
-  $('#qlist').innerHTML = DATA.q.map((q, i) => `<button class="q" data-q="${i}" aria-pressed="${S.q === i}"><span class="yr">${q.y}</span><span class="qt">${esc(q.t)}</span><span class="tags">${q.core.map(c => `<em>${label(c)}</em>`).join('')}</span></button>`).join('');
+  $('#qlist').innerHTML = DATA.q.map((q, i) => `<button class="q" data-q="${i}" aria-pressed="${S.q === i}"><span class="yr">${q.y}</span><span class="qt">${esc(q.t)}</span><span class="tags">${q.core.map(c => `<em>${label(c)}</em>`).join('')}${STIM[q.y] ? '<em class="stm">Stimulus</em>' : ''}</span></button>`).join('');
 }
 /* ---------- 2. unpack ---------- */
 function renderUnpack() {
   const q = Q(), v = VERB[q.dir] || VERB.assess;
-  $('#unpack').innerHTML = `<div class="qcard"><small>HSC ${q.y} · Question ${q.q} · ${q.m} marks</small><b>${esc(q.t)}</b></div>
+  const qc = `<div class="qcard"><small>HSC ${q.y} · Question ${q.q} · ${q.m} marks</small><b>${esc(q.t)}</b></div>${STIM[q.y] ? `<p class="note2 s"><b>This question came with a stimulus.</b> ${esc(STIM[q.y])}. A top response refers to it. In step 3, note what it gives you under My evidence.</p>` : ''}`;
+  if (!S.supSet) { $('#unpack').innerHTML = qc + chooser(); return; }
+  $('#unpack').innerHTML = qc + `
     <div class="un3"><div class="un v"><small>Directive</small><b>${v[0]}</b><p>${v[1]}</p></div>
     <div class="un"><small>What the question is built on</small><div class="chips">${q.core.map(c => `<span class="chip core">${label(c)}</span>`).join('')}</div><p>You cannot answer without these.</p></div>
     <div class="un"><small>Also expected as evidence or context</small><div class="chips">${q.support.map(c => `<span class="chip">${label(c)}</span>`).join('')}</div></div></div>
     <h3>${ic('scales')}Your judgement</h3><p class="sub">Markers reward a clear position that is held from the first sentence to the last. Where do you stand on this five-point scale?</p>
-    <div class="seg stance">${v[2].map((s, i) => `<button data-st="${i}" aria-pressed="${S.stance === i}">${s[0].toUpperCase() + s.slice(1)}</button>`).join('')}</div>
+    <div class="seg stance">${v[2].map((s, i) => `<button data-st="${i}" aria-pressed="${S.stance === i}">${cap(s)}</button>`).join('')}</div>
     <label class="lab" for="thesis">Your thesis in one sentence</label>
-    <textarea id="thesis" rows="2" placeholder="State your position (${v[2][S.stance]}) and your main reason for it.">${esc(S.thesis)}</textarea>`;
-  $('#thesis').oninput = e => { S.thesis = e.target.value; save(); renderPlan(); };
+    <textarea id="thesis" data-b="thesis" rows="2" placeholder="State your position (${v[2][S.stance]}) and your main reason for it.">${esc(S.thesis)}</textarea>${stHTML('thesis', 'thesis')}${thesisHelp()}`;
 }
 /* ---------- 3. paragraphs ---------- */
 function coverage() { const c = {}; S.paras.forEach(p => p.ev.forEach(id => { const t = tcode(REC[id].type); c[t] = (c[t] || 0) + 1; })); return c; }
 function renderParas() {
   const q = Q(), parts = qParts(q);
-  $('#paras').innerHTML = S.paras.map((p, i) => `<div class="para ${S.open === i ? 'open' : ''}"><button class="ph" data-open="${i}"><i>${i + 1}</i><span><b>${p.point ? esc(p.point) : 'Paragraph ' + (i + 1)}</b><em>${p.part ? label(p.part) : 'No area chosen'} · ${p.ev.length} piece${p.ev.length === 1 ? '' : 's'} of evidence</em></span>${ic(S.open === i ? 'prev' : 'next')}</button>
+  $('#paras').innerHTML = modelPanel() + S.paras.map((p, i) => `<div class="para ${S.open === i ? 'open' : ''}"><button class="ph" data-open="${i}"><i>${i + 1}</i><span><b>${p.point ? esc(p.point) : 'Paragraph ' + (i + 1)}</b><em>${p.part ? label(p.part) : 'No area chosen'} · ${p.ev.length} piece${p.ev.length === 1 ? '' : 's'} of evidence</em></span>${ic(S.open === i ? 'prev' : 'next')}</button>
     ${S.open === i ? `<div class="pb">
       <div class="g2"><div><label class="lab" for="part">Area of the Crime topic</label><select id="part"><option value="">Choose an area</option>${DATA.sections.map(s => `<option value="${s.id}" ${p.part === s.id ? 'selected' : ''}>${s.label}${parts.includes(s.id) ? ' (named in the question tags)' : ''}</option>`).join('')}</select></div>
-      <div><label class="lab" for="crit">Criterion you will judge against</label><select id="crit"><option value="">Choose a criterion</option>${CRIT.map(c => `<option ${p.crit === c ? 'selected' : ''}>${c}</option>`).join('')}</select></div></div>
-      <label class="lab" for="point">Your point for this paragraph</label><input id="point" value="${esc(p.point)}" placeholder="One clear claim that supports your thesis">
-      <label class="lab">Evidence chosen</label><div class="evsel">${p.ev.length ? p.ev.map(id => `<span class="ev t-${tcode(REC[id].type)}"><i>${TL[tcode(REC[id].type)][1]}</i>${esc(REC[id].short)}<button data-rm="${id}" aria-label="Remove">×</button></span>`).join('') : '<em>Nothing yet. Add two or three pieces from the Evidence Finder list.</em>'}</div>
-      <label class="lab" for="counter">Counterpoint: the “yes, but”</label><input id="counter" value="${esc(p.counter)}" placeholder="A limitation, competing right or contrary evidence">
+      <div><label class="lab" for="crit">Criterion you will judge against</label>${gqHTML('crit')}<select id="crit"><option value="">Choose a criterion</option>${CRIT.map(c => `<option ${p.crit === c ? 'selected' : ''}>${c}</option>`).join('')}</select></div></div>
+      <label class="lab" for="point"><i class="mvb" style="background:${MOVES[0][3]}">T</i>Your point for this paragraph</label>${gqHTML('point')}<input id="point" data-b="p.point" value="${esc(p.point)}" placeholder="One clear claim that supports your thesis">${stHTML('p.point', 'point')}${fromThesis()}
+      <label class="lab"><i class="mvb" style="background:${MOVES[1][3]}">E</i>Evidence chosen</label>${gqHTML('ev')}<div class="evsel">${p.ev.length ? p.ev.map(id => `<span class="ev t-${tcode(REC[id].type)}"><i>${TLX[tcode(REC[id].type)][1]}</i>${esc(REC[id].short)}<button data-rm="${esc(id)}" aria-label="Remove">×</button></span>`).join('') : '<em>Nothing yet. Add two or three pieces from the evidence list.</em>'}</div>
+      <label class="lab" for="analysis"><i class="mvb" style="background:${MOVES[3][3]}">A</i>Analysis: what the evidence proves <em>(optional)</em></label>${gqHTML('analysis')}<textarea id="analysis" data-b="p.analysis" rows="2" placeholder="What the evidence shows, measured against your criterion">${esc(p.analysis)}</textarea>${stHTML('p.analysis', 'analysis')}
+      <label class="lab" for="counter"><i class="mvb" style="background:${MOVES[4][3]}">C</i>Counterpoint: the “yes, but”</label>${gqHTML('counter')}<input id="counter" data-b="p.counter" value="${esc(p.counter)}" placeholder="A limitation, competing right or contrary evidence">${stHTML('p.counter', 'counter')}
+      <label class="lab" for="link"><i class="mvb" style="background:${MOVES[5][3]}">L</i>Link back to your judgement <em>(optional)</em></label>${gqHTML('link')}<input id="link" data-b="p.link" value="${esc(p.link)}" placeholder="How far this paragraph supports your thesis (${esc(scale())})">${stHTML('p.link', 'link')}
+      ${ideas(p)}
       <div class="prow"><button class="btn ghost" data-del="${i}">${ic('trash')}Remove paragraph</button></div></div>` : ''}</div>`).join('') +
     `<button class="btn add" id="addp" ${S.paras.length >= 5 ? 'disabled' : ''}>${ic('plus')}Add a paragraph</button>`;
   const p = S.paras[S.open];
-  if (p) { $('#part').onchange = e => { p.part = e.target.value; S.f.part = p.part; save(); renderParas(); renderEv(); renderPlan(); };
-    $('#crit').onchange = e => { p.crit = e.target.value; save(); renderPlan(); };
-    $('#point').oninput = e => { p.point = e.target.value; save(); renderPlan(); document.querySelector('.para.open .ph b').textContent = p.point || 'Paragraph ' + (S.open + 1); };
-    $('#counter').oninput = e => { p.counter = e.target.value; save(); renderPlan(); }; }
+  if (p) { $('#part').onchange = e => { p.part = e.target.value; S.f.part = p.part; save(); renderAll3(); };
+    $('#crit').onchange = e => { p.crit = e.target.value; save(); renderParas(); renderPlan(); }; }
   $('#addp').onclick = () => { S.paras.push(newPara()); S.open = S.paras.length - 1; save(); renderAll3(); };
 }
-/* ---------- evidence picker ---------- */
+/* ---------- evidence picker: the Evidence Finder list, and My evidence ---------- */
 function evList() {
-  const q = Q(), th = qThemes(q), f = S.f, p = S.paras[S.open], txt = f.text.trim().toLowerCase();
-  const score = r => { let s = 0; const all = r.core.concat(r.sup), tags = all.concat(r.th);
-    if (f.part) { if (r.core.some(t => t.startsWith(f.part))) s += 6; else if (r.sup.some(t => t.startsWith(f.part))) s += 3; }
-    th.forEach((t, i) => { if (r.th.includes(t) || tags.includes(t)) s += q.core.includes(t) ? 3 : 1; });
-    return s; };
+  const f = S.f, txt = f.text.trim().toLowerCase();
   return DATA.recs.filter(r => (!f.type || tcode(r.type) === f.type) && (!f.part || r.core.concat(r.sup).some(t => t.startsWith(f.part))) && (!txt || (r.short + ' ' + r.sig + ' ' + r.cite).toLowerCase().includes(txt)))
-    .map(r => [score(r), r]).sort((a, b) => b[0] - a[0] || TO[tcode(a[1].type)] - TO[tcode(b[1].type)] || a[1].short.localeCompare(b[1].short)).slice(0, 80);
+    .map(r => [scoreRec(r, f.part), r]).sort((a, b) => b[0] - a[0] || TO[tcode(a[1].type)] - TO[tcode(b[1].type)] || a[1].short.localeCompare(b[1].short)).slice(0, 80);
 }
+const ownKinds = () => TYPES.map(t => [t[0], t[2]]).concat(STIM[Q().y] ? [['stimulus', 'Stimulus']] : []);
+const ownRows = () => { const txt = S.f.text.trim().toLowerCase(), y = Q().y; return S.bank.filter(x => (x.type !== 'stimulus' || x.qy === y) && (!txt || (x.short + ' ' + x.sig + ' ' + x.cite).toLowerCase().includes(txt))); };
+function ownForm(p) { const d = S.f.draft; if (d.type === 'stimulus' && !STIM[Q().y]) d.type = 'case';
+  const PH = { legislation: ['e.g. Bail Act 2013 (NSW) s 22C', 'e.g. as amended in 2024', 'e.g. A stricter bail test for some young people'], case: ['e.g. R v Smith', 'e.g. [2026] NSWSC 411', 'e.g. The court held that …'], media: ['e.g. Youth detention rises 34%', 'e.g. The Sydney Morning Herald, 1 November 2026', 'e.g. Most of the rise is remand, not sentenced detention'],
+    international: ['e.g. Convention on the Rights of the Child', 'e.g. art 37(b), 1989', 'e.g. Detention of a child must be a last resort'], document: ['e.g. BOCSAR custody statistics', 'e.g. NSW Bureau of Crime Statistics and Research, June 2026', 'e.g. The figure, finding or recommendation'], stimulus: ['e.g. The Attorney General’s comment', 'e.g. where it is in the stimulus', 'e.g. The figure or short quote, and what it shows'] }[d.type] || ['', '', ''];
+  const inp = (f, ph, lab) => `<label><span>${lab}</span><input type="text" data-ownf="${f}" value="${esc(d[f] || '')}" placeholder="${esc(ph)}" maxlength="${f === 'sig' ? 600 : 300}"></label>`;
+  return `<div class="ownf"><div class="seg" role="group" aria-label="Kind of evidence">${ownKinds().map(k => `<button type="button" data-ownk="${k[0]}" aria-pressed="${d.type === k[0]}">${k[1]}</button>`).join('')}</div>
+    <div class="ownin">${inp('short', PH[0], 'Name')}${inp('cite', PH[1], d.type === 'stimulus' ? 'Where in the stimulus' : 'Citation, or source and date')}${inp('sig', PH[2], 'What it shows')}</div>${d.type === 'stimulus' ? '<p class="dhint">Stimulus evidence is kept with this question only.</p>' : ''}
+    <div class="row">${d.id ? '<button type="button" class="btn sm" data-ownsave="only">Save changes</button>' : `${p ? `<button type="button" class="btn sm" data-ownsave="add">Save and add to paragraph ${S.open + 1}</button>` : ''}<button type="button" class="btn ghost sm" data-ownsave="only">Save${p ? ' only' : ''}</button>`}<button type="button" class="btn ghost sm" data-owncancel>Cancel</button></div></div>`; }
+function saveOwn(add) { const d = S.f.draft, c = s => (s || '').trim(), x = { type: d.type, short: c(d.short), cite: c(d.cite), sig: c(d.sig), qy: d.type === 'stimulus' ? Q().y : null };
+  if (!x.short) { toast('Give the evidence a name first.'); return; }
+  if (d.id) { const old = S.bank.find(b => b.id === d.id); if (old) Object.assign(old, x); }
+  else { const r = Object.assign({ id: 'own-' + uid(), own: true, core: [], sup: [], th: [] }, x); S.bank.unshift(r); const p = add ? S.paras[S.open] : null; if (p) { if (p.ev.length < 5) p.ev.push(r.id); else toast('Saved. That paragraph already has five pieces, so it was not added there.'); } }
+  S.f.draft = newDraft(d.type); S.f.form = false; rebuildREC(); save(); renderAll3(); }
+function exportBank() { try { const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([JSON.stringify({ app: 'hsc-legal-studies-extended-response-builder', saved: new Date().toISOString().slice(0, 10), bank: S.bank }, null, 1)], { type: 'application/json' })); a.download = 'my-legal-studies-evidence.json'; document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 2000); } catch (e) { toast('The backup could not be saved here.'); } }
+function importBank(file) { const r = new FileReader(); r.onload = () => { try { const d = JSON.parse(r.result), arr = cleanBank(Array.isArray(d) ? d : d.bank); let n = 0; arr.forEach(x => { if (!S.bank.some(b => b.id === x.id)) { S.bank.push(x); n++; } }); rebuildREC(); save(); renderEv(); toast(n ? `${n} piece${n === 1 ? '' : 's'} of evidence added from the backup.` : 'Nothing new in that backup.'); } catch (e) { toast('That file could not be read as a backup.'); } }; r.readAsText(file); }
 function renderEv() {
-  const p = S.paras[S.open], f = S.f, list = p ? evList() : [];
-  $('#evhead').innerHTML = `<div class="evf"><div class="srch">${ic('search')}<input id="evq" value="${esc(f.text)}" placeholder="Search cases, Acts, media, reports" aria-label="Search evidence"></div>
-    <select id="evpart" aria-label="Area"><option value="">All areas of Crime</option>${DATA.sections.map(s => `<option value="${s.id}" ${f.part === s.id ? 'selected' : ''}>${s.label}</option>`).join('')}</select></div>
-    <div class="tfil"><button data-ty="" aria-pressed="${!f.type}">All</button>${TYPES.map(t => `<button data-ty="${t[0]}" class="t-${t[0]}" aria-pressed="${f.type === t[0]}"><i>${t[1]}</i>${t[2]}</button>`).join('')}</div>`;
-  $('#evlist').innerHTML = !p ? '<p class="empty">Add a paragraph first, then choose evidence for it here.</p>' : list.length ? list.map(([sc, r]) => { const on = p.ev.includes(r.id); return `<button class="er t-${tcode(r.type)} ${on ? 'on' : ''}" data-ev="${r.id}"><i>${TL[tcode(r.type)][1]}</i><span><b>${esc(r.short)}</b><em>${esc(r.sig)}</em></span><u>${on ? ic('check') : ic('plus')}</u></button>`; }).join('') : '<p class="empty">No evidence matches. Clear the search or choose another area.</p>';
+  const p = S.paras[S.open], f = S.f, own = f.own;
+  const tabs = `<div class="seg evtabs" role="group" aria-label="Evidence source"><button type="button" data-evtab="0" aria-pressed="${!own}">Evidence Finder</button><button type="button" data-evtab="1" aria-pressed="${own}">My evidence${S.bank.length ? ' (' + S.bank.length + ')' : ''}</button></div>`;
+  const srch = `<div class="srch">${ic('search')}<input id="evq" value="${esc(f.text)}" placeholder="${own ? 'Search my evidence' : 'Search cases, Acts, media, reports'}" aria-label="Search evidence"></div>`;
+  if (own) {
+    const rows = ownRows();
+    $('#evhead').innerHTML = tabs + `<div class="evf one">${srch}</div>${f.form ? ownForm(p) : `<p style="margin-top:8px"><button type="button" class="btn sm" data-ownnew>${ic('plus')}Add my own evidence</button></p>`}`;
+    $('#evlist').innerHTML = (rows.length ? (p ? '' : '<p class="empty">Open a paragraph to add evidence to it.</p>') + rows.map(r => { const on = p && p.ev.includes(r.id); return `<button class="er t-${tcode(r.type)} ${on ? 'on' : ''}" data-ev="${esc(r.id)}" ${p ? '' : 'disabled'}><i>${TLX[tcode(r.type)][1]}</i><span><b>${esc(r.short)}</b><em>${esc([r.cite, r.sig].filter(Boolean).join(' · ') || TLX[tcode(r.type)][2])}</em></span><u>${on ? ic('check') : ic('plus')}</u></button><div class="ownact"><button type="button" data-ownedit="${esc(r.id)}">Edit</button><button type="button" data-owndel="${esc(r.id)}">Delete</button></div>`; }).join('')
+      : `<p class="empty">${S.bank.length ? 'Nothing matches the search.' : 'Nothing here yet. Add a case, an Act, a news story, a report or a statistic from your own research. It is saved on this device and offered in every plan.'}</p>`)
+      + `<div class="ownbk"><button type="button" class="btn ghost sm" data-ownexp ${S.bank.length ? '' : 'disabled'}>Save a backup file</button><label class="btn ghost sm">Load a backup file<input type="file" id="ownimp" accept=".json,application/json" hidden></label></div>`;
+    $('#feed').innerHTML = `${ic('lock')}<span>Your own evidence is kept in this browser on this device. Save a backup file so you do not lose it.</span>`; $('#feed').className = 'feed';
+  } else {
+    const list = p ? evList() : [];
+    $('#evhead').innerHTML = tabs + `<div class="evf">${srch}
+      <select id="evpart" aria-label="Area"><option value="">All areas of Crime</option>${DATA.sections.map(s => `<option value="${s.id}" ${f.part === s.id ? 'selected' : ''}>${s.label}</option>`).join('')}</select></div>
+      <div class="tfil"><button data-ty="" aria-pressed="${!f.type}">All</button>${TYPES.map(t => `<button data-ty="${t[0]}" class="t-${t[0]}" aria-pressed="${f.type === t[0]}"><i>${t[1]}</i>${t[2]}</button>`).join('')}</div>`;
+    $('#evlist').innerHTML = !p ? '<p class="empty">Add a paragraph first, then choose evidence for it here.</p>' : list.length ? list.map(([sc, r]) => { const on = p.ev.includes(r.id); return `<button class="er t-${tcode(r.type)} ${on ? 'on' : ''}" data-ev="${r.id}"><i>${TL[tcode(r.type)][1]}</i><span><b>${esc(r.short)}</b><em>${esc(r.sig)}</em></span><u>${on ? ic('check') : ic('plus')}</u></button>`; }).join('') : '<p class="empty">No evidence matches. Clear the search or choose another area.</p>';
+    $('#evpart').onchange = e => { S.f.part = e.target.value; renderEv(); };
+    $('#feed').innerHTML = `${ic(FEED.live ? 'check' : 'book')}<span>${FEED.live ? 'Up to date with the Evidence Finder' : 'Saved copy of the Evidence Finder'}: ${FEED.n} Crime records${FEED.built ? ', as at ' + FEED.built : ''}.</span>`; $('#feed').className = 'feed ' + (FEED.live ? 'live' : '');
+  }
   $('#evq').oninput = e => { S.f.text = e.target.value; const pos = e.target.selectionStart; renderEv(); const n = $('#evq'); n.focus(); n.setSelectionRange(pos, pos); };
-  $('#evpart').onchange = e => { S.f.part = e.target.value; renderEv(); };
   $('#evfor').textContent = p ? `Adding to paragraph ${S.open + 1}` : '';
-  $('#feed').innerHTML = `${ic(FEED.live ? 'check' : 'book')}<span>${FEED.live ? 'Up to date with the Evidence Finder' : 'Saved copy of the Evidence Finder'}: ${FEED.n} Crime records${FEED.built ? ', as at ' + FEED.built : ''}.</span>`; $('#feed').className = 'feed ' + (FEED.live ? 'live' : '');
 }
 /* ---------- 4. plan ---------- */
-function planText() { const q = Q(), v = VERB[q.dir] || VERB.assess; let t = `HSC ${q.y} Question ${q.q} (${q.m} marks)\n${q.t}\n\nTHESIS (${v[2][S.stance]}): ${S.thesis || '...'}\n`;
-  S.paras.forEach((p, i) => { t += `\nPARAGRAPH ${i + 1}: ${p.part ? label(p.part) : ''}\n  Topic sentence: ${p.point || '...'}\n` + p.ev.map(id => `  Evidence (${TL[tcode(REC[id].type)][2]}): ${REC[id].short}${REC[id].cite ? ', ' + REC[id].cite : ''}\n`).join('') + `  Analysis against: ${p.crit || '...'}\n  Counterpoint: ${p.counter || '...'}\n  Link: back to "${v[2][S.stance]}"\n`; });
-  return t + `\nCONCLUSION: restate your judgement (${v[2][S.stance]}) and the strongest reason for it.\n`; }
+const evCite = r => r.cite ? ', ' + r.cite : '';
+function checks() { const cov = coverage(), y = Q().y;
+  return [[!!S.thesis.trim(), 'A thesis that answers the question'], [S.paras.length >= 3, 'At least three body paragraphs'], [S.paras.length > 0 && S.paras.every(p => p.ev.length >= 2), 'Two or more pieces of evidence in every paragraph'], [!!cov.legislation && !!cov.case, 'Both legislation and cases'], [!!cov.media || !!cov.document || !!cov.international, 'Media, reports or international instruments'], [S.paras.length > 0 && S.paras.every(p => p.crit), 'A criterion for judging in every paragraph'], [S.paras.some(p => p.counter.trim()), 'At least one counterpoint']].concat(STIM[y] ? [[!!cov.stimulus, 'The stimulus is used in at least one paragraph']] : []); }
+function planText() { const q = Q(), sc = scale(); let t = `HSC ${q.y} Question ${q.q} (${q.m} marks)\nSupport used: ${supUsed()}\n${q.t}\n\nTHESIS (${sc}): ${S.thesis || '...'}\n`;
+  S.paras.forEach((p, i) => { t += `\nPARAGRAPH ${i + 1}: ${p.part ? label(p.part) : ''}\n  Topic sentence: ${p.point || '...'}\n` + p.ev.map(id => `  Evidence (${TLX[tcode(REC[id].type)][2]}): ${REC[id].short}${evCite(REC[id])}\n`).join('') + `  Analysis against: ${p.crit || '...'}${p.analysis.trim() ? '\n    ' + p.analysis.trim() : ''}\n  Counterpoint: ${p.counter || '...'}\n  Link: ${p.link.trim() || 'back to "' + sc + '"'}\n`; });
+  return t + `\nCONCLUSION: restate your judgement (${sc}) and the strongest reason for it.\n`; }
 function renderPlan() {
-  if (S.q === null) return; const q = Q(), v = VERB[q.dir] || VERB.assess, cov = coverage(), nEv = S.paras.reduce((n, p) => n + p.ev.length, 0);
-  const checks = [[!!S.thesis.trim(), 'A thesis that answers the question'], [S.paras.length >= 3, 'At least three body paragraphs'], [S.paras.length > 0 && S.paras.every(p => p.ev.length >= 2), 'Two or more pieces of evidence in every paragraph'], [!!cov.legislation && !!cov.case, 'Both legislation and cases'], [!!cov.media || !!cov.document || !!cov.international, 'Media, reports or international instruments'], [S.paras.length > 0 && S.paras.every(p => p.crit), 'A criterion for judging in every paragraph'], [S.paras.some(p => p.counter.trim()), 'At least one counterpoint']];
-  $('#plan').innerHTML = `<div class="planhead"><div><small>HSC ${q.y} · Question ${q.q}</small><b>${esc(q.t)}</b></div><div class="pbtns">${framed ? '' : `<button class="btn" id="print">${ic('doc')}Print or save as PDF</button>`}<button class="btn" id="copy">${ic('copy')}Copy the plan</button></div></div>
+  if (S.q === null || !S.supSet) return; const q = Q(), sc = scale(), cov = coverage(), nEv = S.paras.reduce((n, p) => n + p.ev.length, 0), ch = checks(), all = ch.every(c => c[0]), used = Math.max(S.supMax || 0, S.sup);
+  const evH = id => { const r = REC[id]; return `<div class="mv"><i style="background:${MOVES[1][3]}">E</i><span>${r.own ? `<b>${esc(r.short)}</b>` : `<a class="evl" href="${EF}${encodeURIComponent(id)}" target="_blank" rel="noopener" title="Open this record in the Evidence Finder"><b>${esc(r.short)}</b></a>`}${r.cite ? ' <u>' + esc(r.cite) + '</u>' : ''}${r.own ? ' <u>(my evidence)</u>' : ''}${r.sig ? `<br><em class="sig">${esc(r.sig)}</em>` : ''}</span></div>`; };
+  $('#plan').innerHTML = `<div class="planhead"><div><small>HSC ${q.y} · Question ${q.q} · Support used: ${supUsed()}</small><b>${esc(q.t)}</b></div><div class="pbtns">${framed ? '' : `<button class="btn" id="print">${ic('doc')}Print or save as PDF</button>`}<button class="btn" id="copy">${ic('copy')}Copy the plan</button></div></div>
     <div class="pl2"><div class="outline">
-      <div class="ol th"><small>Introduction and thesis · ${v[2][S.stance]}</small><p>${S.thesis.trim() ? esc(S.thesis) : '<em>Write your thesis in step 2.</em>'}</p></div>
+      <div class="ol th"><small>Introduction and thesis · ${sc}</small><p>${S.thesis.trim() ? esc(S.thesis) : '<em>Write your thesis in step 2.</em>'}</p></div>
       ${S.paras.map((p, i) => `<div class="ol"><small>Paragraph ${i + 1}${p.part ? ' · ' + label(p.part) : ''}</small>
         <div class="mv"><i style="background:${MOVES[0][3]}">T</i><span>${p.point ? esc(p.point) : '<em>Your point</em>'}</span></div>
-        ${p.ev.length ? p.ev.map(id => `<div class="mv"><i style="background:${MOVES[1][3]}">E</i><span><a class="evl" href="${EF}${encodeURIComponent(id)}" target="_blank" rel="noopener" title="Open this record in the Evidence Finder"><b>${esc(REC[id].short)}</b></a>${REC[id].cite ? ' <u>' + esc(REC[id].cite) + '</u>' : ''}<br><em class="sig">${esc(REC[id].sig)}</em></span></div>`).join('') : `<div class="mv"><i style="background:${MOVES[1][3]}">E</i><span><em>Choose evidence</em></span></div>`}
-        <div class="mv"><i style="background:${MOVES[3][3]}">A</i><span>${p.crit ? 'Judge it against: <b>' + p.crit + '</b>' : '<em>Choose a criterion</em>'}</span></div>
+        ${p.ev.length ? p.ev.map(evH).join('') : `<div class="mv"><i style="background:${MOVES[1][3]}">E</i><span><em>Choose evidence</em></span></div>`}
+        <div class="mv"><i style="background:${MOVES[3][3]}">A</i><span>${p.crit ? 'Judge it against: <b>' + p.crit + '</b>' : '<em>Choose a criterion</em>'}${p.analysis.trim() ? '<br>' + esc(p.analysis) : ''}</span></div>
         <div class="mv"><i style="background:${MOVES[4][3]}">C</i><span>${p.counter ? esc(p.counter) : '<em>Your counterpoint</em>'}</span></div>
-        <div class="mv"><i style="background:${MOVES[5][3]}">L</i><span>Link back to your judgement: <b>${v[2][S.stance]}</b>.</span></div></div>`).join('') || '<p class="empty">Add paragraphs in step 3 and they will appear here.</p>'}
-      <div class="ol th"><small>Conclusion</small><p>Restate your judgement (<b>${v[2][S.stance]}</b>) and the strongest reason for it. No new evidence.</p></div></div>
-    <div class="side"><h3>${ic('check')}Plan check</h3><ul class="chk">${checks.map(c => `<li class="${c[0] ? 'y' : ''}">${ic(c[0] ? 'check' : 'x')}${c[1]}</li>`).join('')}</ul>
+        <div class="mv"><i style="background:${MOVES[5][3]}">L</i><span>${p.link.trim() ? esc(p.link) : `Link back to your judgement: <b>${sc}</b>.`}</span></div></div>`).join('') || '<p class="empty">Add paragraphs in step 3 and they will appear here.</p>'}
+      <div class="ol th"><small>Conclusion</small><p>Restate your judgement (<b>${sc}</b>) and the strongest reason for it. No new evidence.</p></div></div>
+    <div class="side"><h3>${ic('check')}Plan check</h3><ul class="chk">${ch.map(c => `<li class="${c[0] ? 'y' : ''}">${ic(c[0] ? 'check' : 'x')}${c[1]}</li>`).join('')}</ul>
+      ${all ? `<p class="then">Now write the response by hand in about 30 minutes, without the builder open.</p>${used > 0 ? `<p class="then down">${ic('s' + (used - 1))}<span><b>Step down next time.</b> You planned this with ${esc(SUPL[used][0].toLowerCase())}. For your next response, try ${esc(SUPL[used - 1][0].toLowerCase())}.</span></p>` : `<p class="then down">${ic('s0')}<span><b>Planned on your own.</b> This is how you will plan in the exam.</span></p>`}` : ''}
       <h3>${ic('book')}Evidence mix: ${nEv} piece${nEv === 1 ? '' : 's'}</h3><div class="mix">${TYPES.map(t => `<div class="t-${t[0]} ${cov[t[0]] ? '' : 'zero'}"><i>${t[1]}</i><b>${cov[t[0]] || 0}</b><span>${t[2]}</span></div>`).join('')}</div>
       <h3>${ic('pen')}Every paragraph: TEEACL</h3><div class="moves">${MOVES.map(m => `<div><i style="background:${m[3]}">${m[0]}</i><span><b>${m[1]}</b> ${m[2]}</span></div>`).join('')}</div></div></div>`;
-  $('#copy').onclick = () => { const done = ok => { $('#copy').innerHTML = ic(ok ? 'check' : 'x') + (ok ? 'Copied' : 'Could not copy. Select the plan and copy it by hand.'); };
+  $('#copy').onclick = () => { const done = ok => { $('#copy').innerHTML = ic(ok ? 'check' : 'x') + (ok ? 'Copied' : 'Could not copy. Select the plan and copy it by hand.'); if (ok) { S.out = true; save(); } };
     try { navigator.clipboard.writeText(planText()).then(() => done(true), () => done(false)); } catch (e) { done(false); } };
-  if ($('#print')) $('#print').onclick = () => { $('#printdoc').innerHTML = printHTML(); try { window.print(); } catch (e) {} };
+  if ($('#print')) $('#print').onclick = () => { $('#printdoc').innerHTML = printHTML(); S.out = true; save(); try { window.print(); } catch (e) {} };
 }
-function printHTML() { const q = Q(), v = VERB[q.dir] || VERB.assess, cov = coverage(), line = '<span class="wl"></span>';
-  return `<header><div><small>HSC Legal Studies · Crime · Extended response plan</small><h1>HSC ${q.y}, Question ${q.q} (${q.m} marks)</h1></div><div class="nm">Name ${line}<br>Date ${line}</div></header>
+function printHTML() { const q = Q(), sc = scale(), cov = coverage(), line = '<span class="wl"></span>';
+  return `<header><div><small>HSC Legal Studies · Crime · Extended response plan · Support used: ${supUsed()}</small><h1>HSC ${q.y}, Question ${q.q} (${q.m} marks)</h1></div><div class="nm">Name ${line}<br>Date ${line}</div></header>
     <div class="pq">${esc(q.t)}</div>
-    <div class="pt"><small>Thesis · my judgement: ${v[2][S.stance]}</small><p>${S.thesis.trim() ? esc(S.thesis) : '&nbsp;'}</p></div>
+    <div class="pt"><small>Thesis · my judgement: ${sc}</small><p>${S.thesis.trim() ? esc(S.thesis) : '&nbsp;'}</p></div>
     ${S.paras.map((p, i) => `<section><h2><i>${i + 1}</i>${p.part ? label(p.part) : 'Paragraph ' + (i + 1)}</h2>
       <div class="pr"><b style="background:${MOVES[0][3]}">T</b><div><small>Topic sentence</small>${p.point ? esc(p.point) : '&nbsp;'}</div></div>
-      ${(p.ev.length ? p.ev : [null]).map(id => `<div class="pr"><b style="background:${MOVES[1][3]}">E</b><div><small>Evidence${id ? ' · ' + TL[tcode(REC[id].type)][2] : ''}</small>${id ? `<strong>${esc(REC[id].short)}</strong>${REC[id].cite ? ' ' + esc(REC[id].cite) : ''}<br><span>${esc(REC[id].sig)}</span>` : '&nbsp;'}</div></div>`).join('')}
-      <div class="pr"><b style="background:${MOVES[3][3]}">A</b><div><small>Analysis · judged against</small>${p.crit || '&nbsp;'}</div></div>
+      ${(p.ev.length ? p.ev : [null]).map(id => `<div class="pr"><b style="background:${MOVES[1][3]}">E</b><div><small>Evidence${id ? ' · ' + TLX[tcode(REC[id].type)][2] + (REC[id].own ? ' · my evidence' : '') : ''}</small>${id ? `<strong>${esc(REC[id].short)}</strong>${REC[id].cite ? ' ' + esc(REC[id].cite) : ''}${REC[id].sig ? `<br><span>${esc(REC[id].sig)}</span>` : ''}` : '&nbsp;'}</div></div>`).join('')}
+      <div class="pr"><b style="background:${MOVES[3][3]}">A</b><div><small>Analysis · judged against${p.crit ? ' ' + esc(p.crit.toLowerCase()) : ''}</small>${p.analysis.trim() ? esc(p.analysis) : (p.crit ? '' : '&nbsp;')}</div></div>
       <div class="pr"><b style="background:${MOVES[4][3]}">C</b><div><small>Counterpoint</small>${p.counter ? esc(p.counter) : '&nbsp;'}</div></div>
-      <div class="pr"><b style="background:${MOVES[5][3]}">L</b><div><small>Link</small>Back to my judgement: ${v[2][S.stance]}.</div></div></section>`).join('')}
-    <div class="pt"><small>Conclusion</small><p>Restate the judgement (${v[2][S.stance]}) and the strongest reason for it. No new evidence.</p></div>
-    <footer><span>Evidence used: ${TYPES.map(t => `${t[2]} ${cov[t[0]] || 0}`).join(' · ')}</span><span>Built with the Extended Response Builder · evidence as at ${FEED.built || 'the last refresh'}</span></footer>`; }
-function renderAll3() { renderParas(); renderEv(); renderPlan(); }
+      <div class="pr"><b style="background:${MOVES[5][3]}">L</b><div><small>Link</small>${p.link.trim() ? esc(p.link) : 'Back to my judgement: ' + sc + '.'}</div></div></section>`).join('')}
+    <div class="pt"><small>Conclusion</small><p>Restate the judgement (${sc}) and the strongest reason for it. No new evidence.</p></div>
+    <footer><span>Evidence used: ${TYPES.map(t => `${t[2]} ${cov[t[0]] || 0}`).join(' · ')}${cov.stimulus ? ' · Stimulus ' + cov.stimulus : ''}</span><span>Built with the Extended Response Builder · evidence as at ${FEED.built || 'the last refresh'}</span></footer>`; }
+function stepbar() { const has = S.q !== null;
+  $('#stepbar').innerHTML = [['Choose a question', has], ['Unpack it', has && S.supSet && !!S.thesis.trim()], ['Plan paragraphs', S.paras.length >= 3], ['Review the plan', has && S.supSet && S.out && checks().every(c => c[0])]].map((s, i) => `<a href="#s${i + 1}" class="${s[1] ? 'done' : ''}"><i>${i + 1}</i>${s[0]}</a>`).join(''); }
+function renderAll3() { renderParas(); renderEv(); renderPlan(); stepbar(); }
 function renderAll() {
   renderQs(); const has = S.q !== null;
-  $$('.needq').forEach(e => e.hidden = !has); $('#noq').hidden = has;
-  if (has) { renderUnpack(); renderAll3(); }
-  $('#stepbar').innerHTML = [['Choose a question', has], ['Unpack it', has && !!S.thesis.trim()], ['Plan paragraphs', S.paras.length >= 3], ['Review the plan', false]].map((s, i) => `<a href="#s${i + 1}" class="${s[1] ? 'done' : ''}"><i>${i + 1}</i>${s[0]}</a>`).join('');
+  $$('.needq').forEach(e => e.hidden = !has); $$('.needsup').forEach(e => e.hidden = !(has && S.supSet)); $('#noq').hidden = has;
+  renderSup(); if (has) { renderUnpack(); if (S.supSet) { renderParas(); renderEv(); renderPlan(); } }
+  stepbar();
 }
-$('#qlist').onclick = e => { const b = e.target.closest('.q'); if (!b) return; const i = +b.dataset.q; if (S.q !== i) { S.q = i; S.stance = 2; S.thesis = ''; S.paras = [newPara()]; S.open = 0; S.f = { part: '', type: '', text: '' }; save(); } renderAll(); $('#s2').scrollIntoView({ block: 'start' }); };
-$('#unpack').addEventListener('click', e => { const b = e.target.closest('[data-st]'); if (b) { S.stance = +b.dataset.st; save(); renderUnpack(); renderPlan(); } });
+const keepLast = () => { if (S.q !== null && S.supSet) S.lastSup = Math.max(S.supMax || 0, S.sup); };
+$('#qlist').onclick = e => { const b = e.target.closest('.q'); if (!b) return; const i = +b.dataset.q; if (S.q !== i) { keepLast(); Object.assign(S, fresh(), { q: i, paras: [newPara()] }); Object.assign(S.f, { part: '', type: '', text: '', form: false }); save(); } renderAll(); $('#s2').scrollIntoView({ block: 'start' }); };
+function setSup(n) { const first = !S.supSet; S.sup = n; S.supSet = true; S.supOpen = false; if (n < 2) S.walk = false; save(); renderAll(); if (first) $('#s2').scrollIntoView({ block: 'start' }); }
+function setB(path, v) { if (path === 'thesis') S.thesis = v; else if (path.startsWith('g.')) S.g[path.slice(2)] = v; else if (path.startsWith('p.')) { const p = S.paras[S.open]; if (p) p[path.slice(2)] = v; } }
+document.addEventListener('input', e => { const t = e.target, b = t.dataset && t.dataset.b;
+  if (b) { setB(b, t.value); save(); renderPlan(); stepbar(); if (b === 'p.point') { const h = document.querySelector('.para.open .ph b'); if (h) h.textContent = t.value || 'Paragraph ' + (S.open + 1); } return; }
+  if (t.dataset && t.dataset.ownf) S.f.draft[t.dataset.ownf] = t.value; });
+document.addEventListener('change', e => { if (e.target.id === 'ownimp' && e.target.files[0]) importBank(e.target.files[0]); else if (e.target.dataset && /^g\./.test(e.target.dataset.b || '') && S.sup >= 2 && S.open >= 0 && !document.querySelector('#paras :focus')) renderParas(); });
+document.addEventListener('click', e => { const c = s => e.target.closest(s);
+  const ins = c('.st'); if (ins) { const el = document.querySelector(`[data-b="${ins.dataset.to}"]`); if (el) { const v = el.value; el.value = v + (v && !/\s$/.test(v) ? ' ' : '') + ins.dataset.ins; el.dispatchEvent(new Event('input', { bubbles: true })); el.focus(); el.setSelectionRange(el.value.length, el.value.length); } return; }
+  const sp = c('[data-sup]'); if (sp) { setSup(+sp.dataset.sup); return; }
+  const hc = c('[data-hc]'); if (hc) { const a = hc.dataset.hc.split('|'); S.hc[+a[0]] = +a[1]; save(); renderUnpack(); return; }
+  if (c('[data-supopen]')) { S.supOpen = !S.supOpen; renderSup(); return; }
+  if (c('[data-supjump]')) { e.preventDefault(); S.supOpen = true; renderSup(); $('#supbar').scrollIntoView({ block: 'center' }); return; }
+  if (c('[data-walk]')) { S.walk = !S.walk; renderUnpack(); return; }
+  if (c('[data-mkthesis]')) { const d = draftThesis(); if (!d) { toast('Answer questions 1 and 2 first.'); return; } const old = S.thesis; S.thesis = d; save(); renderUnpack(); renderParas(); renderPlan(); stepbar(); toast('Draft thesis written. Now improve it in your own words.', old.trim() ? () => { S.thesis = old; save(); renderUnpack(); renderPlan(); stepbar(); } : null); const t = $('#thesis'); if (t) t.scrollIntoView({ block: 'center' }); return; }
+  const up = c('[data-usept]'), p = S.paras[S.open]; if (up && p) { const old = p.point; p.point = up.dataset.usept; save(); renderParas(); renderPlan(); toast('Point added. Reword it to fit the question.', old.trim() ? () => { p.point = old; save(); renderParas(); renderPlan(); } : null); return; }
+  const qe = c('[data-quickev]'); if (qe && p) { const id = qe.dataset.quickev; if (p.ev.includes(id)) p.ev = p.ev.filter(x => x !== id); else if (p.ev.length < 5) p.ev.push(id); else toast('A paragraph holds up to five pieces of evidence.'); save(); renderAll3(); return; }
+  const tab = c('[data-evtab]'); if (tab) { S.f.own = tab.dataset.evtab === '1'; S.f.text = ''; S.f.form = false; renderEv(); return; }
+  if (c('[data-ownnew]')) { S.f.draft = newDraft(S.f.draft.type); S.f.form = true; renderEv(); const i = document.querySelector('[data-ownf="short"]'); if (i) i.focus(); return; }
+  if (c('[data-owncancel]')) { S.f.form = false; S.f.draft = newDraft(S.f.draft.type); renderEv(); return; }
+  const ok = c('[data-ownk]'); if (ok) { S.f.draft.type = ok.dataset.ownk; renderEv(); return; }
+  const os = c('[data-ownsave]'); if (os) { saveOwn(os.dataset.ownsave === 'add'); return; }
+  const oe = c('[data-ownedit]'); if (oe) { const x = S.bank.find(b => b.id === oe.dataset.ownedit); if (x) { S.f.draft = { id: x.id, type: x.type, short: x.short, cite: x.cite, sig: x.sig }; S.f.form = true; renderEv(); } return; }
+  const od = c('[data-owndel]'); if (od) { const snap = JSON.stringify([S.bank, S.paras]); S.bank = S.bank.filter(b => b.id !== od.dataset.owndel); rebuildREC(); normParas(); save(); renderAll3(); toast('Deleted from My evidence.', () => { const d = JSON.parse(snap); S.bank = d[0]; S.paras = d[1]; rebuildREC(); normParas(); save(); renderAll3(); }); return; }
+  if (c('[data-ownexp]')) { exportBank(); return; } });
+$('#unpack').addEventListener('click', e => { const b = e.target.closest('[data-st]'); if (b) { S.stance = +b.dataset.st; save(); renderUnpack(); renderParas(); renderPlan(); } });
 $('#paras').addEventListener('click', e => { const o = e.target.closest('[data-open]'), d = e.target.closest('[data-del]'), rm = e.target.closest('[data-rm]');
   if (rm) { const p = S.paras[S.open]; p.ev = p.ev.filter(x => x !== rm.dataset.rm); save(); renderAll3(); }
-  else if (d) { S.paras.splice(+d.dataset.del, 1); S.open = Math.max(0, S.open - 1); save(); renderAll3(); }
+  else if (d) { const i = +d.dataset.del, old = S.paras[i], was = S.open; S.paras.splice(i, 1); S.open = Math.max(0, S.open - 1); save(); renderAll3(); toast('Paragraph removed.', () => { S.paras.splice(i, 0, old); S.open = was; save(); renderAll3(); }); }
   else if (o) { S.open = S.open === +o.dataset.open ? -1 : +o.dataset.open; const p = S.paras[S.open]; if (p && p.part) S.f.part = p.part; renderParas(); renderEv(); } });
 $('#evhead').addEventListener('click', e => { const b = e.target.closest('[data-ty]'); if (b) { S.f.type = b.dataset.ty; renderEv(); } });
-$('#evlist').addEventListener('click', e => { const b = e.target.closest('[data-ev]'), p = S.paras[S.open]; if (!b || !p) return; const id = b.dataset.ev; p.ev.includes(id) ? p.ev = p.ev.filter(x => x !== id) : p.ev.length < 5 && p.ev.push(id); save(); const top = $('#evlist').scrollTop; renderAll3(); $('#evlist').scrollTop = top; });
-$('#reset').onclick = () => { S = { q: null, stance: 2, thesis: '', paras: [], open: 0, f: { part: '', type: '', text: '' } }; try { localStorage.removeItem(KEY); } catch (e) {} renderAll(); scrollTo(0, 0); };
+$('#evlist').addEventListener('click', e => { const b = e.target.closest('[data-ev]'), p = S.paras[S.open]; if (!b || !p) return; const id = b.dataset.ev; if (p.ev.includes(id)) p.ev = p.ev.filter(x => x !== id); else if (p.ev.length < 5) p.ev.push(id); else toast('A paragraph holds up to five pieces of evidence.'); save(); const top = $('#evlist').scrollTop; renderAll3(); $('#evlist').scrollTop = top; });
+$('#reset').onclick = () => { if (S.q === null) return; const snap = JSON.stringify(S); keepLast(); Object.assign(S, fresh()); Object.assign(S.f, { part: '', type: '', text: '', form: false }); save(); renderAll(); scrollTo(0, 0); toast('Plan cleared. Your own evidence is kept.', () => { S = JSON.parse(snap); rebuildREC(); save(); renderAll(); }); };
 $('#verbs').innerHTML = Object.values(VERB).map(v => `<div><b>${v[0]}</b><span>${v[1]}</span></div>`).join('');
 $('#critl').innerHTML = CRIT.map(c => `<span class="chip">${c}</span>`).join('');
 $('#movel').innerHTML = MOVES.map(m => `<div><i style="background:${m[3]}">${m[0]}</i><span><b>${m[1]}</b> ${m[2]}</span></div>`).join('');
+$('#suplist').innerHTML = SUPL.map((l, i) => `<p><b>${ic('s' + i)}${supName(i)}.</b> ${l[1]}</p>`).join('');
 renderAll();
 /* Pick up evidence added to the Evidence Finder since this page was built. */
 (async () => { try { const r = await fetch(new URL('../data/evidence-crime.json', location.href), { cache: 'no-store' }); if (!r.ok) return; const f = await r.json();
     if (!f || !Array.isArray(f.records) || !f.records.length || !f.records.every(x => x && x.id && x.short && Array.isArray(x.core))) return;
-    DATA.recs = f.records; REC = Object.fromEntries(DATA.recs.map(x => [x.id, x])); Object.assign(FEED, { live: true, built: f.builtAt || '', n: f.records.length });
-    S.paras.forEach(p => p.ev = p.ev.filter(id => REC[id])); if (S.q !== null) renderAll3(); } catch (e) {} })();
+    DATA.recs = f.records; rebuildREC(); Object.assign(FEED, { live: true, built: f.builtAt || '', n: f.records.length });
+    normParas(); if (S.q !== null && S.supSet) renderAll3(); } catch (e) {} })();
 
 show(location.hash.slice(1) || VIEWS[0], false);
 </script>
