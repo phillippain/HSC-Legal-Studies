@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-23/wa-government-promises-to-make-co
 related: coercive-control-nsw-full-explainer-2026, bocsar-coercive-control-june-2026
 added: 2026-11-24
 added_at: 2026-11-24 08:19
-updated_at: 2026-11-24 08:19
+updated_at: 2026-11-25 07:24
 ---
 
 Premier Roger Cook, Attorney General Tony Buti and Minister Jessica Stojkovski announced a bill for a standalone offence in 2027, within a $121m 2026 family and domestic violence package ($66.1m new money). WA has not released the offence's elements.
@@ -27,6 +27,9 @@ Premier Roger Cook, Attorney General Tony Buti and Minister Jessica Stojkovski a
 | No standalone offence; bill promised for 2027 | Abusive behaviour towards intimate partners |
 | Restraining order definition covers patterns (2024 Act) | Course of conduct; no minimum number of incidents |
 | NSW results to December 2025 | 473 incidents, 22 charges, 1 proven |
+
+A [second class summary of the same ABC report](https://drive.google.com/file/d/1SWglk1--jhiZg8eLjUuAxSAe6ERWhCIi/view) adds that the $121m includes $31.7m in previously awarded Commonwealth funds, and gives the ABS figures for men too (14% emotionally and 7.8% economically abused by a cohabiting partner since 15).
+
 
 ## Use it for
 

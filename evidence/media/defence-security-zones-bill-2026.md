@@ -15,7 +15,7 @@ source: https://aapnews.aap.com.au/news/concerns-law-to-boost-defence-security-c
 related: lees-and-jarrett-protest-powers
 added: 2026-11-20
 added_at: 2026-11-20 06:50
-updated_at: 2026-11-20 06:50
+updated_at: 2026-11-25 07:24
 ---
 
 The 231-page bill, introduced on 27 October and passed by the House on 29 October, amends about 20 Acts and replaces parts of the Defence (Special Undertakings) Act 1952. Officials could stop vehicles and detain people until police arrive. Twenty submissions went to the Senate committee, which reported on 18 November.
@@ -27,6 +27,11 @@ The 231-page bill, introduced on 27 October and passed by the House on 29 Octobe
 | Up to 7 years for entering Pine Gap | Up to 7 years and/or 420 penalty units ($152,880) |
 | Fixed places declared by Gazette | Land, sea, air and moving vehicles, public or private |
 | Prohibited areas only | Permanent, temporary, mobile and emergency zones |
+
+## Update: the laws pass (ABC, 24 November 2026)
+
+A [second class summary](https://drive.google.com/file/d/1IcHIkxEwJ1YkLN8uGfnKUNuhTNWOKjDW/view) reports the bill was rushed through Parliament with only three business days for public submissions. It replaces a patchwork of Defence security laws with a single zone framework (permanent, temporary, mobile, emergency and special zones, possibly at private facilities) and gives an enduring power to detect and act against drones; 246 drone incidents at bases were reported since mid-last year. Critics say the powers are too broad.
+
 
 ## Use it for
 

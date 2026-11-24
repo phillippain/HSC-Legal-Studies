@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-24/rental-affordability-remains-at-c
 related: anglicare-rental-affordability-2026, residential-tenancies-act-2010
 added: 2026-11-24
 added_at: 2026-11-24 08:19
-updated_at: 2026-11-24 08:19
+updated_at: 2026-11-25 07:24
 ---
 
 A score of 100 means rent takes 30% of income, the stress threshold. Canberra (133) is the most affordable capital; Perth (94) the least. Median rent would take 84% of a single Sydney pensioner's income.
@@ -26,6 +26,11 @@ A score of 100 means rent takes 30% of income, the stress threshold. Canberra (1
 |---|---|
 | Once every 12 months | Once every 12 months |
 | No cap on amount; excessive increases challengeable at NCAT | Increases above a CPI-linked benchmark presumed excessive |
+
+## Regional NSW (ABC and index coverage, 23–24 November 2026)
+
+A [second class summary](https://drive.google.com/file/d/1TNd8ClXoXsx0uonRKL7prNB7mD6k_3u3/view) finds regional NSW worse off for a second year, below Sydney: renting households spend 31% of income on median rent, a single person on JobSeeker needs 73% (71% in 2025), and a single pensioner 45%. Average renting household income is $97,143 regionally against $134,288 in Sydney; 73,121 households were on the NSW social housing register at 31 October 2026.
+
 
 ## Use it for
 

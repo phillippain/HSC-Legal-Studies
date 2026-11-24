@@ -15,7 +15,7 @@ source: https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-
 related: south-africa-v-israel-icj, un-charter-1945, rome-statute-1998
 added: 2026-11-20
 added_at: 2026-11-20 06:50
-updated_at: 2026-11-24 08:19
+updated_at: 2026-11-25 07:24
 ---
 
 The Gambia, backed by the OIC, filed the case in November 2019. On 19 November 2026 the Court found Myanmar committed genocide against the Rohingya (9–6), with about 10,000 killed and over 740,000 fleeing to Bangladesh after August 2017. Myanmar has two years to report on compensation. Separately the ICC is investigating individuals.
@@ -32,6 +32,9 @@ The Gambia, backed by the OIC, filed the case in November 2019. On 19 November 2
 ## Reaction (Refugee Council of Australia, 23 November 2026)
 
 A [second class summary of the Refugee Council's media release](https://drive.google.com/file/d/1KxAtNNNEvTULEepqXfxnDOBtUGvx4mat/view) welcomes the judgment, traces the case's path through the ICJ (only states can be parties; The Gambia used the Genocide Convention's dispute clause) and calls for justice and durable solutions for Rohingya refugees, over 700,000 of whom fled to Bangladesh from 2017.
+
+
+A [third class summary of the Refugee Council release](https://drive.google.com/file/d/1p_7n-_VNj9P0f0NHwhLY1afaM1VYRX6m/view) stresses that the judgment is final and binding but the ICJ cannot enforce it itself, and notes about 1 million Rohingya refugees are now in Bangladesh (UNHCR).
 
 
 ## Use it for
