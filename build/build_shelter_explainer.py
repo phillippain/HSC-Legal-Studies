@@ -184,7 +184,7 @@ def part_page(i):
         h+='<div class="box"><h3>Your evidence list (LCMID)</h3><div class="ev">'+''.join(f'<h4>{labs[k]}</h4><ul>'+''.join(f'<li>{x}</li>' for x in ev[k])+'</ul>' for k in 'LCMID' if ev.get(k))+'</div></div>'
         h+='<div class="chk"><h3>✅ Six questions (click an answer)</h3>'+''.join(f'<div class="q" data-a="{a}"><p><b>{j+1}. {q}</b></p>'+''.join(f'<button class="o">{"ABCD"[k]}. {esc(o)}</button>' for k,o in enumerate(opts))+'</div>' for j,(q,opts,a) in enumerate(p['mcq']))+'</div>'
     nxt = f'<a class="btn f" href="{purl(i+1)}" target="_blank">Next: {esc(parts[i+1]["title"])} →</a>' if i+1<len(parts) else f'<a class="btn f" href="{HUB}" target="_blank">Back to the hub</a>'
-    h+=f'<div class="btns" style="margin-top:20px">{"<a class=btn href=%s target=_top>← Back</a>"%(purl(i-1) if i else HUB)}{nxt}</div>'
+    h+=f'<div class="btns" style="margin-top:20px">{"<a class=btn href=%s target=_blank>← Back</a>"%(purl(i-1) if i else HUB)}{nxt}</div>'
     return wrap(col,tint,h,p['title'])
 def hub_page():
     B=c.BOOK; col,tint='#1B5E63','#E3EFEF'
