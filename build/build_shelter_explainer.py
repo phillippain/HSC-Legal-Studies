@@ -110,10 +110,10 @@ document.querySelectorAll('td button.rv').forEach(b=>b.onclick=()=>b.parentNode.
 document.querySelectorAll('.q').forEach(q=>{const a=+q.dataset.a;q.querySelectorAll('.o').forEach((o,i)=>o.onclick=()=>{q.querySelectorAll('.o').forEach((x,j)=>{x.classList.toggle('right',j==a);x.classList.toggle('wrong',j==i&&i!=a)})})});
 """
 def nav(active):
-    items = [f'<a href="{HUB}" target="_top">⌂ Hub</a>'] + [f'<a class="{"on" if i==active else ""}" href="{purl(i)}" target="_top">{i+1}. {esc(p["title"])}</a>' for i,p in enumerate(parts)]
+    items = [f'<a href="{HUB}" target="_blank">⌂ Hub</a>'] + [f'<a class="{"on" if i==active else ""}" href="{purl(i)}" target="_blank">{i+1}. {esc(p["title"])}</a>' for i,p in enumerate(parts)]
     return '<div class="nav">' + ''.join(items) + '</div>'
 def wrap(col, tint, body, title):
-    return inject(f'<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><base target="_top"><title>{esc(title)}</title><style>{CSS}:root{{--c:{col};--t:{tint}}}</style></head><body>{body}<script>{JS}</script></body></html>')
+    return inject(f'<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><base target="_blank"><title>{esc(title)}</title><style>{CSS}:root{{--c:{col};--t:{tint}}}</style></head><body>{body}<script>{JS}</script></body></html>')
 def cell(x):
     if isinstance(x, (list,tuple)) and x and x[0]=='?': return f'<button class="rv">Show</button><span class="ans">{x[1]}</span>'
     return x
@@ -183,7 +183,7 @@ def part_page(i):
         labs={'L':'Legislation','C':'Cases','M':'Media','I':'International','D':'Documents'}
         h+='<div class="box"><h3>Your evidence list (LCMID)</h3><div class="ev">'+''.join(f'<h4>{labs[k]}</h4><ul>'+''.join(f'<li>{x}</li>' for x in ev[k])+'</ul>' for k in 'LCMID' if ev.get(k))+'</div></div>'
         h+='<div class="chk"><h3>✅ Six questions (click an answer)</h3>'+''.join(f'<div class="q" data-a="{a}"><p><b>{j+1}. {q}</b></p>'+''.join(f'<button class="o">{"ABCD"[k]}. {esc(o)}</button>' for k,o in enumerate(opts))+'</div>' for j,(q,opts,a) in enumerate(p['mcq']))+'</div>'
-    nxt = f'<a class="btn f" href="{purl(i+1)}" target="_top">Next: {esc(parts[i+1]["title"])} →</a>' if i+1<len(parts) else f'<a class="btn f" href="{HUB}" target="_top">Back to the hub</a>'
+    nxt = f'<a class="btn f" href="{purl(i+1)}" target="_blank">Next: {esc(parts[i+1]["title"])} →</a>' if i+1<len(parts) else f'<a class="btn f" href="{HUB}" target="_blank">Back to the hub</a>'
     h+=f'<div class="btns" style="margin-top:20px">{"<a class=btn href=%s target=_top>← Back</a>"%(purl(i-1) if i else HUB)}{nxt}</div>'
     return wrap(col,tint,h,p['title'])
 def hub_page():
@@ -194,9 +194,9 @@ def hub_page():
     h+='<div class="cards">'
     for i,p in enumerate(parts):
         subs=', '.join(f'{s["id"]} {s["title"]}' for s in p.get('subs',[])) or 'Scenario, model paragraph, evidence list and six questions'
-        h+=f'<a class="card" href="{purl(i)}" target="_top" style="border-top-color:{p["colour"]}"><div style="display:flex;gap:10px;align-items:center"><div class="plate" style="background:{p["tint"]}">{HOUSE(p["colour"])}<b style="color:{p["colour"]}">{p["n"]}</b></div><h3 style="color:{p["colour"]}">{esc(p["title"])}</h3></div><p style="margin-top:6px">{esc(p["strap"])}</p><p style="font-size:12.5px;color:#5c6a70;margin-top:4px">{esc(subs)}</p></a>'
+        h+=f'<a class="card" href="{purl(i)}" target="_blank" style="border-top-color:{p["colour"]}"><div style="display:flex;gap:10px;align-items:center"><div class="plate" style="background:{p["tint"]}">{HOUSE(p["colour"])}<b style="color:{p["colour"]}">{p["n"]}</b></div><h3 style="color:{p["colour"]}">{esc(p["title"])}</h3></div><p style="margin-top:6px">{esc(p["strap"])}</p><p style="font-size:12.5px;color:#5c6a70;margin-top:4px">{esc(subs)}</p></a>'
     h+='</div>'
-    h+=f'<div class="btns" style="margin-top:16px"><a class="btn" href="{OVERVIEW}" target="_top">⌂ All Shelter explainers</a><a class="btn" href="https://phillippain.github.io/HSC-Legal-Studies/evidence.html" target="_blank" rel="noopener">📚 Evidence Finder</a></div>'
+    h+=f'<div class="btns" style="margin-top:16px"><a class="btn" href="{OVERVIEW}" target="_blank">⌂ All Shelter explainers</a><a class="btn" href="https://phillippain.github.io/HSC-Legal-Studies/evidence.html" target="_blank" rel="noopener">📚 Evidence Finder</a></div>'
     return wrap(col,tint,h,B['title'])
 import os
 os.makedirs(OUT,exist_ok=True)
