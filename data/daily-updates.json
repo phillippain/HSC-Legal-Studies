@@ -1,6 +1,489 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "days": [
+  {
+   "date": "2026-11-25",
+   "since": "2026-11-24",
+   "new": 16,
+   "updated": 6,
+   "groups": [
+    {
+     "key": "crime",
+     "label": "Crime",
+     "part": "HSC Core Part I",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "linton-ryan-death-in-custody-inquest-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Inquest hears warning signs missed before Linton Ryan's death (ABC, 23 November 2026)",
+       "summary": "An inquest in Perth is examining the death of an Aboriginal man in WA prison custody four days after leaving crisis care, and heard that his threat to kill himself was not recorded and that six officers received managerial sanctions. Use it for the rights and safety of people in detention and the effectiveness of responses to deaths in custody; this is untested inquest evidence, not findings. Content note: suicide.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Detention and interrogation, rights of…",
+        "Bail or remand"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-linton-ryan-death-in-custody-inquest-2026",
+       "document_url": "https://drive.google.com/file/d/1ghNZSqrnE6TWsbK2lrah_VJJ4u_JT0wy/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-23/linton-phillip-ryan-inquest-hears-police-officer-felt-unprepared/107416238"
+      },
+      {
+       "id": "macfarlane-v-state-of-nsw-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "MacFarlane v State of NSW [2026] NSWDC 423 — a bail arrest, OC spray and a failed tort claim",
+       "summary": "Police arrested a 66-year-old in his van for breaching bail, used OC spray and removed him, and the District Court found the arrest and force lawful and gave judgment for the State on his false imprisonment and battery claims. Use it for police powers and their limits, and torts against the State.",
+       "note": "",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Police powers",
+        "Arrest and charge, summons, warrants"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-macfarlane-v-state-of-nsw-2026",
+       "document_url": "https://drive.google.com/file/d/1xrJzkJN-ZanJYYs2wf1kMTREqYEgZfuz/view",
+       "document11_url": "https://drive.google.com/file/d/1E_A-57TjuCCdznJc6E93ksJyru96Rcn0/view",
+       "source": ""
+      },
+      {
+       "id": "macrae-parole-review-decision-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Quadruple murderer MacRae wins parole as AG's challenge fails (ABC, 24 November 2026)",
+       "summary": "A man serving four life sentences for 1985 murders was granted parole after about 39 years, and the Attorney-General's challenge failed because there was no cogent reason to depart from the Parole Board. Use it for parole as a post-sentencing consideration, balancing rehabilitation against community and victims' views.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Post-sentencing considerations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-macrae-parole-review-decision-2026",
+       "document_url": "https://drive.google.com/file/d/1l9UBg37IIJikr01hJEddWKgW1VelBmRH/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-24/underworld-killer-to-be-released-on-parole/107419956"
+      },
+      {
+       "id": "r-v-kalandyk-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Kalandyk [2026] NSWDC 422 — burning his parents' home while unwell: reduced culpability and special circumstances",
+       "summary": "A man who burned his parents' home while intoxicated, unmedicated and mentally unwell had his culpability found substantially reduced and was sentenced to 3 years with a non-parole period of 1 year 11 months, with special circumstances. Use it for mental illness and moral culpability, the plea discount and special circumstances.",
+       "note": "",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Factors affecting a sentencing decision",
+        "The purposes of punishment"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-kalandyk-2026",
+       "document_url": "https://drive.google.com/file/d/1g6x1TpUhWZDlHj_JK3_Iffc1XK4xJjtk/view",
+       "document11_url": "https://drive.google.com/file/d/1x7Zqrqq0muLk6xRxv4ybBHtnkJ5Oujcq/view",
+       "source": ""
+      },
+      {
+       "id": "r-v-russell-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Russell [2026] NSWDC 421 — a DV assault on parole, impairment and a deprived childhood",
+       "summary": "A 20-year-old on parole for a juvenile manslaughter assaulted his ex-partner, and the court set a below-midrange sentence of 6 months, backdated, because impairment, PTSD, youth and a deprived childhood reduced his culpability. Use it for the Bugmy principles, subjective factors and sentencing domestic violence offences.",
+       "note": "Content note: this item involves a death or killing and family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Factors affecting a sentencing decision",
+        "Types of penalties"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-russell-2026",
+       "document_url": "https://drive.google.com/file/d/1NY4xKX-FAzS2QOwJzqLUdt22JmUimyFz/view",
+       "document11_url": "https://drive.google.com/file/d/1A7PYuSBoVZWzxgrv7m5CObLU2f58B3NH/view",
+       "source": ""
+      },
+      {
+       "id": "tran-v-r-appeal-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Tran v R [2026] NSWCCA 202 — a misdirection on recklessness and silence: new trial ordered",
+       "summary": "The Court of Criminal Appeal quashed the conviction of a man who collected a parcel of methamphetamine hidden in grease pumps because the judge misstated recklessness and gave no direction on his silence, and ordered a new trial. Use it for jury directions and appeals that correct trial error; a new trial is not a finding of innocence.",
+       "note": "",
+       "added": "2026-11-25",
+       "core_labels": [
+        "The role of juries, including verdicts",
+        "Appeals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-tran-v-r-appeal-2026",
+       "document_url": "https://drive.google.com/file/d/1YizHK6SFU0MDHmhsEoWxBAWWxu33A-JQ/view",
+       "document11_url": "https://drive.google.com/file/d/1h4E5cv-DW5jq1B4-OM7bFR6J9zL9r8CR/view",
+       "source": ""
+      },
+      {
+       "id": "tran-v-r-2026",
+       "status": "updated",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Tran v R [2026] NSWCCA 187 — bail pending a retrial after a drug importation conviction is quashed",
+       "summary": "The card now links to the Court of Criminal Appeal's decision quashing the conviction that led to this bail application. It now lets students follow the case from the appeal through to bail pending a retrial.",
+       "note": "",
+       "added": "2026-11-12",
+       "core_labels": [
+        "Bail or remand"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-tran-v-r-2026",
+       "document_url": "https://drive.google.com/file/d/1PtnxzwDGnbG6mTFZDUxpetUA-97tszJF/view",
+       "document11_url": "https://drive.google.com/file/d/1Tw43IUs-oJfWVCrLatAuL6GSghUuQ_RW/view",
+       "source": ""
+      }
+     ]
+    },
+    {
+     "key": "humanrights",
+     "label": "Human Rights",
+     "part": "HSC Core Part II",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "refugee-2317447-2026-arta-2811",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "2317447 (Refugee) [2026] ARTA 2811 — a family's claims and Australian-born sons",
+       "summary": "A Nepalese husband, Indian wife and Australian-born sons sought protection, and the Tribunal found his torture claims shifted, her fear was not accepted and the sons faced only hard adjustment, so it affirmed the refusals. Use it for family claims and children in refugee law.",
+       "note": "",
+       "added": "2026-11-25",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of statute law",
+        "Contact with legal processes"
+       ],
+       "also": [
+        "Experiences with the law"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2317447-2026-arta-2811",
+       "document_url": "https://drive.google.com/file/d/10mbWb6Yt7YMeC_WtavC_Es-qQVYI0eEY/view",
+       "document11_url": "https://drive.google.com/file/d/15yTm03I1Dguk5LgBeElZhspyLPFED4uh/view",
+       "source": ""
+      },
+      {
+       "id": "refugee-2614252-2026-arta-2808",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "2614252 (Refugee) [2026] ARTA 2808 — a family violence claim decided on the papers",
+       "summary": "A Chinese woman claimed her husband was violent and threatened to kill her and asked for no hearing, and with no documents or detail the Tribunal did not accept her claims and affirmed the refusal. Use it for gender-based claims and evidence, and barriers when applicants do not engage.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-25",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "Contact with legal processes"
+       ],
+       "also": [
+        "Experiences with the law"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2614252-2026-arta-2808",
+       "document_url": "https://drive.google.com/file/d/1zpVpW52SoCqwqbdf-XogXZ7xqI1XwwFa/view",
+       "document11_url": "https://drive.google.com/file/d/1hst4KjJT40xoH1HxmX1vGg4clzC3YGbn/view",
+       "source": ""
+      },
+      {
+       "id": "defence-security-zones-bill-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Defence security zones bill raises protest and over-reach fears (AAP, 19 November 2026)",
+       "summary": "The card now adds a second class summary reporting the bill was rushed through Parliament with only three business days for public submissions, replacing a patchwork of Defence security laws with a single zone framework. It now shows the final outcome and the criticism of the speed of passage.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "The role of statute law"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-defence-security-zones-bill-2026",
+       "document_url": "https://drive.google.com/file/d/1_e7cnw2JiyuFycYfM8eowNrfzPhC6LYf/view",
+       "document11_url": null,
+       "source": "https://aapnews.aap.com.au/news/concerns-law-to-boost-defence-security-could-over-reach"
+      },
+      {
+       "id": "icj-gambia-v-myanmar-genocide-ruling-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "ICJ finds Myanmar committed genocide against the Rohingya (Al Jazeera, 19 November 2026)",
+       "summary": "The card now links a third class summary, which stresses that the judgment is final and binding but the ICJ cannot enforce it itself, and notes about 1 million Rohingya refugees are now in Bangladesh. It now sharpens the point about enforcement depending on states and the Security Council.",
+       "note": "",
+       "added": "2026-11-20",
+       "core_labels": [
+        "The role of courts, tribunals and indep…",
+        "State sovereignty"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-icj-gambia-v-myanmar-genocide-ruling-2026",
+       "document_url": "https://drive.google.com/file/d/1_5JceAgdsSzaHeyPW-ji1kcnV0eV-ewH/view",
+       "document11_url": null,
+       "source": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"
+      }
+     ]
+    },
+    {
+     "key": "family",
+     "label": "Family",
+     "part": "HSC Option 3",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "acyp-dfv-child-protection-reports-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "91,000 family violence reports, but most at-risk children unseen (ABC, 24 November 2026)",
+       "summary": "More than 91,000 NSW child protection reports in 2025-26 related to family violence, and about 48,000 high-risk reports were closed for 'no capacity to allocate' a caseworker. Use it for the effectiveness of child protection and an authority advocating for young people; the counts are reports, not children.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Care and protection of children",
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-acyp-dfv-child-protection-reports-2026",
+       "document_url": "https://drive.google.com/file/d/1eTNT_rku7XJL-Tiort41Q5WKabut9hKp/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-24/91000-child-protection-reports-domestic-violence-nsw-in-a-year/107404086"
+      },
+      {
+       "id": "wa-coercive-control-offence-plan-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "WA promises coercive control offence in 2027 after phased reform (ABC, 23 November 2026)",
+       "summary": "The card now links a second class summary adding that the $121m package includes $31.7m in previously awarded Commonwealth funds, and giving ABS figures for men as well as women. It now gives fuller context for judging the funding and the scale of the problem.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wa-coercive-control-offence-plan-2026",
+       "document_url": "https://drive.google.com/file/d/1Qzf2Ke1czX7H_XE6hhQeNlc2wDjm_NnQ/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-23/wa-government-promises-to-make-coercive-control-criminal-offence/107415816"
+      }
+     ]
+    },
+    {
+     "key": "shelter",
+     "label": "Shelter",
+     "part": "HSC Option 5",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "rental-affordability-index-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Rents stay at crisis levels as only ACT limits rent rises (ABC, 24 November 2026)",
+       "summary": "The card now adds regional NSW, which is worse off than Sydney for a second year, with renting households spending 31% of income on median rent and a single person on JobSeeker needing 73%. It now gives a regional comparison for essays on affordability.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Affordability"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-rental-affordability-index-2026",
+       "document_url": "https://drive.google.com/file/d/1MCiz_APzCBqYCk83hDp-b18klUJxl9mi/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-24/rental-affordability-remains-at-crisis-levels-across-australia/107379494"
+      },
+      {
+       "id": "nsw-rental-bond-interest-taskforce-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Tenants' union says NSW forgoes up to $200m a year in bond interest (ABC, 23 November 2026)",
+       "summary": "The card now links a second class summary adding that more than $31m of bond interest funds tenant advocacy and support, and that the Tenants' Union modelled forgone returns of about $97m to $178.5m a year. It now shows how far the headline $200m figure is an advocacy estimate.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Protection for tenants, landlords, boar…",
+        "The role of government organisations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nsw-rental-bond-interest-taskforce-2026",
+       "document_url": "https://drive.google.com/file/d/1QQ4u7h7EIhr7Xjb9vOQxBbdja2QbkJUI/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-23/more-funding-needed-to-equip-nsw-rental-taskforce-says-union/106973144"
+      }
+     ]
+    },
+    {
+     "key": "investigating",
+     "label": "Investigating the law",
+     "part": "Year 11 (Preliminary) Focus area 1",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "afp-v-yuan-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Commissioner of the AFP v Yuan [2026] NSWSC 1523 — frozen accounts and proper notice of forfeiture",
+       "summary": "The AFP froze bank accounts in a suspected laundering scheme, and the Supreme Court held that serving a summons and letter was not notice of forfeiture, which could not exist until six months after freezing, so it ordered written notice. Use it for notice as part of procedural fairness and the rule of law in civil confiscation.",
+       "note": "",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Principles of procedural fairness",
+        "The rule of law and its importance to i…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-afp-v-yuan-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1CF4HPSYUt4pF2CR3tX43pqetnbwllt8T/view",
+       "source": ""
+      }
+     ]
+    },
+    {
+     "key": "disputes",
+     "label": "Disputes under the law",
+     "part": "Year 11 (Preliminary) Focus area 2",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "refugee-2429268-2026-arta-2810",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "2429268 (Refugee) [2026] ARTA 2810 — a Sikh persecution claim not believed",
+       "summary": "An Indian man said he was a Sikh attacked by Hindu nationalists, but his evidence was vague and inconsistent, so the Tribunal did not accept he was a genuine Sikh and affirmed the refusal. Use it for tribunal fact-finding and asylum seekers in merits review.",
+       "note": "",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "Contact with legal processes"
+       ],
+       "also": [
+        "Experiences with the law"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2429268-2026-arta-2810",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1WS5dGRbmkDnW_MoUatGlV-UwyLW561oK/view",
+       "source": ""
+      },
+      {
+       "id": "krrx-and-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "KRRX and Minister [2026] ARTA 2804 — overwhelming weight on community protection",
+       "summary": "An Armenian man who came to Australia at 17 lost his partner visa after violent offences, and the Tribunal found family violence and moderate risk outweighed family ties and hardship and affirmed the cancellation. Use it for merits review of character cancellations, compared with the WRVX decision where the cancellation was revoked.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-krrx-and-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1GHEHJp0P0c5yD-ewp6cadlH-6jwLNO6D/view",
+       "source": ""
+      },
+      {
+       "id": "qube-v-martinus-rail-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Qube v Martinus Rail (No 2) [2026] NSWSC 1475 — no instalments on a $26 million judgment",
+       "summary": "A rail company owing a $26 million judgment asked to pay by instalments, but it ignored its assets and $12.8m sent to related companies, so it failed its onus and the application was dismissed with costs. Use it for enforcing remedies and the relationship between arbitration and the courts.",
+       "note": "",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Types and aims of remedies",
+        "Procedures in NSW tribunals and civil c…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-qube-v-martinus-rail-no2-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1pm9ArpfQ2k41J8AXRgoBFRRXMoExRrPB/view",
+       "source": ""
+      },
+      {
+       "id": "singh-v-minister-2307-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Singh v Minister [2026] FedCFamC2G 2307 — an airport cancellation and no injunction",
+       "summary": "A Temporary Graduate visa was cancelled hours after the holder arrived at Sydney airport, ending his wife's visa too, and the court refused an urgent injunction against removal because there was no serious issue to be tried. Use it for urgent judicial review.",
+       "note": "",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Addressing disputes through government…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-singh-v-minister-2307-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/13sWPWTXMyDEHnwl62qVaD5NcrXmwG9i8/view",
+       "source": ""
+      }
+     ]
+    },
+    {
+     "key": "experiences",
+     "label": "Experiences with the law",
+     "part": "Year 11 (Preliminary) Focus area 4",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "nsw-modern-slavery-taskforce-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "NSW forms modern slavery taskforce after labour hire allegations (ABC, 23 November 2026)",
+       "summary": "NSW formed a Modern Slavery Taskforce after labour hire allegations, with an estimated 16,400 people in modern slavery in NSW and fewer than 10% of AFP reports leading to prosecution. Use it for the protection of migrant workers under domestic law and barriers such as fear, visa status and low prosecutions.",
+       "note": "",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Protection under domestic and internati…",
+        "The need for protection under the law"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nsw-modern-slavery-taskforce-2026",
+       "document_url": "https://drive.google.com/file/d/1Nuji_QjO-ulCqSYVZKHseJKMFnIcOB3Z/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-23/supply-chain-reviews-modern-slavery-report-as-taskforce-formed/107416486"
+      },
+      {
+       "id": "parkinson-temporary-visa-cap-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Parkinson calls for purpose-based cap on temporary visa holders (ABC, 24 November 2026)",
+       "summary": "A former Treasury head called for a cap on temporary visa holders, or a time limit on stays, set by each visa's purpose, noting that 108,000 students and graduates had stayed five or more years. Use it for why migrants meet the legal system and 'permanent temporariness' as a barrier; the speech had not yet been reported as delivered.",
+       "note": "",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Reasons for encountering the legal syst…",
+        "Barriers to achieving justice"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-parkinson-temporary-visa-cap-2026",
+       "document_url": "https://drive.google.com/file/d/1SZyw-UYts0HXohrh2Up44edz4PoyrlRA/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-24/martin-parkinson-calls-for-cap-on-temporary-visa-holders/107423044"
+      }
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-24",
    "since": "2026-11-23",
