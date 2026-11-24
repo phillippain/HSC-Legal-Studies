@@ -106,7 +106,7 @@ def main():
     if "__DATA__" in html:
         fail.append("the __DATA__ placeholder is still in the page")
     for src in re.findall(r'<(?:script|link)[^>]*(?:src|href)="(https?://[^"]+)"', html):
-        if not src.startswith("https://fonts."):
+        if not src.startswith(("https://fonts.", "https://www.googletagmanager.com/gtag/js")):  # fonts + the site-wide analytics tag (build/analytics.py)
             fail.append(f"the page loads something other than fonts: {src}")
 
     # ------------------------------------------------------------- report --
