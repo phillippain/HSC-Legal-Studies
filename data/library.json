@@ -3852,6 +3852,22 @@
    "primary": true
   },
   {
+   "path": "Family/Evidence Summaries/Family - Economic Abuse and Rebuilding Work After Leaving Evidence Summary.pdf",
+   "name": "Family - Economic Abuse and Rebuilding Work After Leaving Evidence Summary",
+   "file": "Family - Economic Abuse and Rebuilding Work After Leaving Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207906,
+   "mtime": 1795635836,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.2.4"
+   ],
+   "dupe": "familyeconomicabuseandrebuildingworkafterleavingevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Family/Evidence Summaries/Family - Family Court Co-Parenting After DV Conviction Evidence Summary.pdf",
    "name": "Family - Family Court Co-Parenting After DV Conviction Evidence Summary",
    "file": "Family - Family Court Co-Parenting After DV Conviction Evidence Summary.pdf",
@@ -3981,6 +3997,22 @@
     "fam.3.3"
    ],
    "dupe": "familymaleinfertilityundiagnosedbirthtechnologiesevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Family/Evidence Summaries/Family - Massen & Massen Family Wealth Gifts AFR Evidence Summary.pdf",
+   "name": "Family - Massen & Massen Family Wealth Gifts AFR Evidence Summary",
+   "file": "Family - Massen & Massen Family Wealth Gifts AFR Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 203960,
+   "mtime": 1795635835,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.2.3"
+   ],
+   "dupe": "familymassenmassenfamilywealthgiftsafrevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -4398,6 +4430,22 @@
     "fam.2.4"
    ],
    "dupe": "familywacoercivecontroloffenceplansecondsummaryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Family/Evidence Summaries/Family - WA Coercive Control Offence Plan Third Summary Evidence Summary.pdf",
+   "name": "Family - WA Coercive Control Offence Plan Third Summary Evidence Summary",
+   "file": "Family - WA Coercive Control Offence Plan Third Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211607,
+   "mtime": 1795635834,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "fam.2.4"
+   ],
+   "dupe": "familywacoercivecontroloffenceplanthirdsummaryevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -6602,6 +6650,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Fu (Migration) [2026] ARTA 2862 - Evidence Summary.pdf",
+   "name": "Year 11 - Fu (Migration) [2026] ARTA 2862 - Evidence Summary",
+   "file": "Year 11 - Fu (Migration) [2026] ARTA 2862 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 203853,
+   "mtime": 1795640343,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11fumigration2026arta2862evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Funding Solved Pty Ltd v Aravanopoulos [2026] NSWSC 1440 - Case Summary.pdf",
    "name": "Year 11 - Funding Solved Pty Ltd v Aravanopoulos [2026] NSWSC 1440 - Case Summary",
    "file": "Year 11 - Funding Solved Pty Ltd v Aravanopoulos [2026] NSWSC 1440 - Case Summary.pdf",
@@ -6991,6 +7056,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Hasan (Migration) [2026] ARTA 2859 - Evidence Summary.pdf",
+   "name": "Year 11 - Hasan (Migration) [2026] ARTA 2859 - Evidence Summary",
+   "file": "Year 11 - Hasan (Migration) [2026] ARTA 2859 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 201775,
+   "mtime": 1795640344,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11hasanmigration2026arta2859evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Haswell & Haswell [2026] FedCFamC2F 1468 - Case Summary.pdf",
    "name": "Year 11 - Haswell & Haswell [2026] FedCFamC2F 1468 - Case Summary",
    "file": "Year 11 - Haswell & Haswell [2026] FedCFamC2F 1468 - Case Summary.pdf",
@@ -7126,6 +7208,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - JDM25 v Minister for Immigration and Citizenship [2026] FCA 1795 - Evidence Summary.pdf",
+   "name": "Year 11 - JDM25 v Minister for Immigration and Citizenship [2026] FCA 1795 - Evidence Summary",
+   "file": "Year 11 - JDM25 v Minister for Immigration and Citizenship [2026] FCA 1795 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 202041,
+   "mtime": 1795640344,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "inv.4.1"
+   ],
+   "dupe": "year11jdm25vministerforimmigrationandcitizenship2026fca1795evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Jacques [2026] FedCFamC1A 204 - Case Summary.pdf",
    "name": "Year 11 - Jacques [2026] FedCFamC1A 204 - Case Summary",
    "file": "Year 11 - Jacques [2026] FedCFamC1A 204 - Case Summary.pdf",
@@ -7139,6 +7238,23 @@
     "dis.2.8"
    ],
    "dupe": "year11jacques2026fedcfamc1a204casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Jaskaran Singh (Migration) [2026] ARTA 2865 - Evidence Summary.pdf",
+   "name": "Year 11 - Jaskaran Singh (Migration) [2026] ARTA 2865 - Evidence Summary",
+   "file": "Year 11 - Jaskaran Singh (Migration) [2026] ARTA 2865 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 202894,
+   "mtime": 1795640344,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.8"
+   ],
+   "dupe": "year11jaskaransinghmigration2026arta2865evidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7850,6 +7966,23 @@
     "inv.1.4"
    ],
    "dupe": "year11odalisandodalisno22026fedcfamc1f609casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Oman (Migration) [2026] ARTA 2858 - Evidence Summary.pdf",
+   "name": "Year 11 - Oman (Migration) [2026] ARTA 2858 - Evidence Summary",
+   "file": "Year 11 - Oman (Migration) [2026] ARTA 2858 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 204227,
+   "mtime": 1795640344,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11omanmigration2026arta2858evidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8821,6 +8954,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Shah Automotive Pty Ltd (Migration) [2026] ARTA 2853 - Evidence Summary.pdf",
+   "name": "Year 11 - Shah Automotive Pty Ltd (Migration) [2026] ARTA 2853 - Evidence Summary",
+   "file": "Year 11 - Shah Automotive Pty Ltd (Migration) [2026] ARTA 2853 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 203666,
+   "mtime": 1795640345,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year11shahautomotiveptyltdmigration2026arta2853evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Shaik v Minister for Immigration and Citizenship (No 2) [2026] FedCFamC2G 2284 - Case Summary.pdf",
    "name": "Year 11 - Shaik v Minister for Immigration and Citizenship (No 2) [2026] FedCFamC2G 2284 - Case Summary",
    "file": "Year 11 - Shaik v Minister for Immigration and Citizenship (No 2) [2026] FedCFamC2G 2284 - Case Summary.pdf",
@@ -9585,6 +9735,23 @@
     "fam.3.4"
    ],
    "dupe": "adoptionofbellini2026nswsc1341casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Ashcroft & Ashcroft [2026] FedCFamC2F 1291 - Evidence Summary.pdf",
+   "name": "Ashcroft & Ashcroft [2026] FedCFamC2F 1291 - Evidence Summary",
+   "file": "Ashcroft & Ashcroft [2026] FedCFamC2F 1291 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 203576,
+   "mtime": 1795640343,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.3",
+    "fam.2.4"
+   ],
+   "dupe": "ashcroftashcroft2026fedcfamc2f1291evidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -10361,6 +10528,23 @@
     "fam.2.5"
    ],
    "dupe": "floresflores2026fedcfamc1a196casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Gannon & Halverson [2026] FedCFamC2F 1261 - Evidence Summary.pdf",
+   "name": "Gannon & Halverson [2026] FedCFamC2F 1261 - Evidence Summary",
+   "file": "Gannon & Halverson [2026] FedCFamC2F 1261 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206483,
+   "mtime": 1795640344,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.2",
+    "fam.3.2"
+   ],
+   "dupe": "gannonhalverson2026fedcfamc2f1261evidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -11371,6 +11555,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Romero & Molerov [2026] FedCFamC2F 1328 - Evidence Summary.pdf",
+   "name": "Romero & Molerov [2026] FedCFamC2F 1328 - Evidence Summary",
+   "file": "Romero & Molerov [2026] FedCFamC2F 1328 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 204397,
+   "mtime": 1795640344,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.2",
+    "fam.2.4"
+   ],
+   "dupe": "romeromolerov2026fedcfamc2f1328evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/SRQY and Child Support Registrar [2026] ARTA 2480 - Case Summary.pdf",
    "name": "SRQY and Child Support Registrar [2026] ARTA 2480 - Case Summary",
    "file": "SRQY and Child Support Registrar [2026] ARTA 2480 - Case Summary.pdf",
@@ -11449,6 +11650,23 @@
     "fam.2.3"
    ],
    "dupe": "stathamstatham2026fedcfamc2f182casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Stirton & Stirton [2026] FedCFamC2F 1295 - Evidence Summary.pdf",
+   "name": "Stirton & Stirton [2026] FedCFamC2F 1295 - Evidence Summary",
+   "file": "Stirton & Stirton [2026] FedCFamC2F 1295 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 202321,
+   "mtime": 1795640345,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.3",
+    "fam.2.5"
+   ],
+   "dupe": "stirtonstirton2026fedcfamc2f1295evidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -11984,6 +12202,24 @@
     "exp.4.2"
    ],
    "dupe": "2211687refugee2026arta2784casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Human Rights/2214124 (Refugee) [2026] ARTA 2863 - Evidence Summary.pdf",
+   "name": "2214124 (Refugee) [2026] ARTA 2863 - Evidence Summary",
+   "file": "2214124 (Refugee) [2026] ARTA 2863 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 205117,
+   "mtime": 1795640344,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.3.1",
+    "hr.2.1",
+    "exp.5.3"
+   ],
+   "dupe": "2214124refugee2026arta2863evidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -12714,6 +12950,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Human Rights/Nataraja v North Metropolitan Health Service [2026] FedCFamC2G 2319 - Evidence Summary.pdf",
+   "name": "Nataraja v North Metropolitan Health Service [2026] FedCFamC2G 2319 - Evidence Summary",
+   "file": "Nataraja v North Metropolitan Health Service [2026] FedCFamC2G 2319 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 202856,
+   "mtime": 1795640344,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "hr.2.9",
+    "hr.2.11"
+   ],
+   "dupe": "natarajavnorthmetropolitanhealthservice2026fedcfamc2g2319evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Human Rights/PDYY v Minister for Immigration and Citizenship [2026] FCA 1735 - Case Summary.pdf",
    "name": "PDYY v Minister for Immigration and Citizenship [2026] FCA 1735 - Case Summary",
    "file": "PDYY v Minister for Immigration and Citizenship [2026] FCA 1735 - Case Summary.pdf",
@@ -13312,6 +13565,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Craig Collins (a pseudonym) v R [2026] NSWCCA 203 - Evidence Summary.pdf",
+   "name": "Craig Collins (a pseudonym) v R [2026] NSWCCA 203 - Evidence Summary",
+   "file": "Craig Collins (a pseudonym) v R [2026] NSWCCA 203 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 203637,
+   "mtime": 1795640343,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.9",
+    "crime.1.4"
+   ],
+   "dupe": "craigcollinsapseudonymvr2026nswcca203evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/DPP (Cth) v Duong [2024] VCC 182 - Case Summary.pdf",
    "name": "DPP (Cth) v Duong [2024] VCC 182 - Case Summary",
    "file": "DPP (Cth) v Duong [2024] VCC 182 - Case Summary.pdf",
@@ -13533,6 +13803,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/JH v Director of Public Prosecutions (NSW) [2026] NSWSC 1522 - Evidence Summary.pdf",
+   "name": "JH v Director of Public Prosecutions (NSW) [2026] NSWSC 1522 - Evidence Summary",
+   "file": "JH v Director of Public Prosecutions (NSW) [2026] NSWSC 1522 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 203803,
+   "mtime": 1795640344,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.5.3",
+    "crime.5.2"
+   ],
+   "dupe": "jhvdirectorofpublicprosecutionsnsw2026nswsc1522evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Jarrett v State of New South Wales [2026] NSWCA 62 - Case Summary.pdf",
    "name": "Jarrett v State of New South Wales [2026] NSWCA 62 - Case Summary",
    "file": "Jarrett v State of New South Wales [2026] NSWCA 62 - Case Summary.pdf",
@@ -13612,6 +13899,23 @@
     "crime.4.3"
    ],
    "dupe": "klomfarvr2019nswcca61casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Kutti v R [2026] NSWCCA 195 - Evidence Summary.pdf",
+   "name": "Kutti v R [2026] NSWCCA 195 - Evidence Summary",
+   "file": "Kutti v R [2026] NSWCCA 195 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 203620,
+   "mtime": 1795640344,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.5"
+   ],
+   "dupe": "kuttivr2026nswcca195evidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -14534,6 +14838,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/R v Soltani [2026] NSWDC 425 - Evidence Summary.pdf",
+   "name": "R v Soltani [2026] NSWDC 425 - Evidence Summary",
+   "file": "R v Soltani [2026] NSWDC 425 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 204267,
+   "mtime": 1795640345,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.1"
+   ],
+   "dupe": "rvsoltani2026nswdc425evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/R v Walker [2026] NSWDC 384 - Evidence Summary.pdf",
    "name": "R v Walker [2026] NSWDC 384 - Evidence Summary",
    "file": "R v Walker [2026] NSWDC 384 - Evidence Summary.pdf",
@@ -14772,6 +15093,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Scicluna v R [2026] NSWCCA 199 - Evidence Summary.pdf",
+   "name": "Scicluna v R [2026] NSWCCA 199 - Evidence Summary",
+   "file": "Scicluna v R [2026] NSWCCA 199 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 202642,
+   "mtime": 1795640345,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.9",
+    "crime.4.5"
+   ],
+   "dupe": "sciclunavr2026nswcca199evidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Secretary DCCEEW v Dalton [2026] NSWLEC 138 - Case Summary.pdf",
    "name": "Secretary DCCEEW v Dalton [2026] NSWLEC 138 - Case Summary",
    "file": "Secretary DCCEEW v Dalton [2026] NSWLEC 138 - Case Summary.pdf",
@@ -14965,6 +15303,23 @@
     "crime.3.8"
    ],
    "dupe": "symonsvrmcdonaldvr2024nswcca212casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/Taouk v R [2026] NSWCCA 201 - Evidence Summary.pdf",
+   "name": "Taouk v R [2026] NSWCCA 201 - Evidence Summary",
+   "file": "Taouk v R [2026] NSWCCA 201 - Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 203130,
+   "mtime": 1795640345,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.5"
+   ],
+   "dupe": "taoukvr2026nswcca201evidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -15417,6 +15772,23 @@
    "primary": true
   },
   {
+   "path": "Human Rights/HR - ACT Ngambri Indigenous Protocol Review Order Evidence Summary.pdf",
+   "name": "HR - ACT Ngambri Indigenous Protocol Review Order Evidence Summary",
+   "file": "HR - ACT Ngambri Indigenous Protocol Review Order Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207224,
+   "mtime": 1795635830,
+   "bucket": "evidence",
+   "kind": "international",
+   "tags": [
+    "hr.2.14",
+    "hr.2.11"
+   ],
+   "dupe": "hractngambriindigenousprotocolrevieworderevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/HR - AHRC Human Rights in Disasters Evidence Summary.pdf",
    "name": "HR - AHRC Human Rights in Disasters Evidence Summary",
    "file": "HR - AHRC Human Rights in Disasters Evidence Summary.pdf",
@@ -15582,6 +15954,22 @@
     "chg.1.3"
    ],
    "dupe": "hrdigitaldutyofcarebillrighttosueevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Human Rights/HR - Digital Duty of Care Bill Senate Deal Right to Sue Evidence Summary.pdf",
+   "name": "HR - Digital Duty of Care Bill Senate Deal Right to Sue Evidence Summary",
+   "file": "HR - Digital Duty of Care Bill Senate Deal Right to Sue Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209339,
+   "mtime": 1795635829,
+   "bucket": "evidence",
+   "kind": "legislation",
+   "tags": [
+    "hr.2.9"
+   ],
+   "dupe": "hrdigitaldutyofcarebillsenatedealrighttosueevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -17817,6 +18205,23 @@
    "primary": true
   },
   {
+   "path": "Preliminary/Year 11 - One Nation Refugee Intake Cut Evidence Summary.pdf",
+   "name": "Year 11 - One Nation Refugee Intake Cut Evidence Summary",
+   "file": "Year 11 - One Nation Refugee Intake Cut Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209130,
+   "mtime": 1795635837,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "exp.5.1",
+    "exp.4.1"
+   ],
+   "dupe": "year11onenationrefugeeintakecutevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Preliminary/Year 11 - Parkinson Temporary Visa Cap Evidence Summary.pdf",
    "name": "Year 11 - Parkinson Temporary Visa Cap Evidence Summary",
    "file": "Year 11 - Parkinson Temporary Visa Cap Evidence Summary.pdf",
@@ -17830,6 +18235,22 @@
     "exp.6.2"
    ],
    "dupe": "year11parkinsontemporaryvisacapevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Preliminary/Year 11 - Parkinson Temporary Visa Cap Speech Second Summary Evidence Summary.pdf",
+   "name": "Year 11 - Parkinson Temporary Visa Cap Speech Second Summary Evidence Summary",
+   "file": "Year 11 - Parkinson Temporary Visa Cap Speech Second Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207115,
+   "mtime": 1795635837,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "exp.4.2"
+   ],
+   "dupe": "year11parkinsontemporaryvisacapspeechsecondsummaryevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -20133,6 +20554,23 @@
    "primary": true
   },
   {
+   "path": "Shelter/Evidence Sheets/Shelter - Affordable Liveable Suburbs and First Home Buyer Schemes Evidence Summary.pdf",
+   "name": "Shelter - Affordable Liveable Suburbs and First Home Buyer Schemes Evidence Summary",
+   "file": "Shelter - Affordable Liveable Suburbs and First Home Buyer Schemes Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208964,
+   "mtime": 1795635832,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.1",
+    "shel.2.1"
+   ],
+   "dupe": "shelteraffordableliveablesuburbsandfirsthomebuyerschemesevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Shelter/Evidence Sheets/Shelter - Anglicare Essential Workers Rental Snapshot - WA Follow-up Evidence Summary.pdf",
    "name": "Shelter - Anglicare Essential Workers Rental Snapshot - WA Follow-up Evidence Summary",
    "file": "Shelter - Anglicare Essential Workers Rental Snapshot - WA Follow-up Evidence Summary.pdf",
@@ -20247,6 +20685,23 @@
     "shel.2.6"
    ],
    "dupe": "shelterfairtradingpriorities202627rentalenforcementevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Homelessness NSW Regional Unit Rents and Rent Cap Call Evidence Summary.pdf",
+   "name": "Shelter - Homelessness NSW Regional Unit Rents and Rent Cap Call Evidence Summary",
+   "file": "Shelter - Homelessness NSW Regional Unit Rents and Rent Cap Call Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206765,
+   "mtime": 1795635832,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.2.2",
+    "shel.3.1"
+   ],
+   "dupe": "shelterhomelessnessnswregionalunitrentsandrentcapcallevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -20435,6 +20890,23 @@
     "shel.3.1"
    ],
    "dupe": "sheltermortgageprisonandrefinancingevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Mosman Affordable Housing Bonus Approval Evidence Summary.pdf",
+   "name": "Shelter - Mosman Affordable Housing Bonus Approval Evidence Summary",
+   "file": "Shelter - Mosman Affordable Housing Bonus Approval Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 209756,
+   "mtime": 1795635833,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.1",
+    "shel.2.8"
+   ],
+   "dupe": "sheltermosmanaffordablehousingbonusapprovalevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -20708,6 +21180,22 @@
     "shel.3.1"
    ],
    "dupe": "shelterrentalaffordabilityindex2026regionalnswevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Shelter/Evidence Sheets/Shelter - Rental Affordability Index 2026 Regional NSW Third Summary Evidence Summary.pdf",
+   "name": "Shelter - Rental Affordability Index 2026 Regional NSW Third Summary Evidence Summary",
+   "file": "Shelter - Rental Affordability Index 2026 Regional NSW Third Summary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206519,
+   "mtime": 1795635831,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "shel.3.1"
+   ],
+   "dupe": "shelterrentalaffordabilityindex2026regionalnswthirdsummaryevidencesummary",
    "copyOf": null,
    "primary": true
   },
@@ -24673,6 +25161,22 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - Lamarre-Condon Murder Trial Verdict Evidence Summary.pdf",
+   "name": "Crime - Lamarre-Condon Murder Trial Verdict Evidence Summary",
+   "file": "Crime - Lamarre-Condon Murder Trial Verdict Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 206630,
+   "mtime": 1795635826,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.3.9"
+   ],
+   "dupe": "crimelamarrecondonmurdertrialverdictevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - Lehrmann Trial Counsel and Court Delay Evidence Summary.pdf",
    "name": "Crime - Lehrmann Trial Counsel and Court Delay Evidence Summary",
    "file": "Crime - Lehrmann Trial Counsel and Court Delay Evidence Summary.pdf",
@@ -24874,6 +25378,39 @@
     "hr.3.1"
    ],
    "dupe": "crimenswprisonsmentalhealthcareevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - NT Castle Law Self-Defence Proposal Evidence Summary.pdf",
+   "name": "Crime - NT Castle Law Self-Defence Proposal Evidence Summary",
+   "file": "Crime - NT Castle Law Self-Defence Proposal Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208784,
+   "mtime": 1795635828,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.3.8"
+   ],
+   "dupe": "crimentcastlelawselfdefenceproposalevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - NT Sex Offender Anonymity and Good Character Bill Evidence Summary.pdf",
+   "name": "Crime - NT Sex Offender Anonymity and Good Character Bill Evidence Summary",
+   "file": "Crime - NT Sex Offender Anonymity and Good Character Bill Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208669,
+   "mtime": 1795635827,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.4.3",
+    "crime.3.2"
+   ],
+   "dupe": "crimentsexoffenderanonymityandgoodcharacterbillevidencesummary",
    "copyOf": null,
    "primary": true
   },

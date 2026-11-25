@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-03/beau-lamarre-condon-told-police-n
 related: crimes-act-homicide-defences, woolmington-v-dpp-1935, zecevic-v-dpp-1987, russell-manslaughter-sentencing-hearing-2026, jury-act-1977
 added: 2026-11-04
 added_at: 2026-11-04 07:17
-updated_at: 2026-11-24 08:19
+updated_at: 2026-11-26 08:23
 ---
 
 Former NSW police officer **Beau Lamarre-Condon** has pleaded not guilty to the **murders** of Jesse Baird and Luke
@@ -44,6 +44,11 @@ manslaughter. Agreed facts include the disguise and moving the bodies.
 ## Update: defence closing (ABC, 23 November 2026)
 
 A [second class summary](https://drive.google.com/file/d/1EtcCEJmtL1RdEtZTD38h8Z4PWHZQi2Hu/view) covers the first day of the defence closing by John Stratton SC, after a nine-week trial with about 90 Crown witnesses. The defence says Mr Davies was the majority contributor of DNA on the trigger and a missing bullet raises reasonable doubt; the Crown (Brett Hatfield SC) says the forensic and ballistic evidence alone is enough to convict and calls Mr Baird's second shot an 'execution'. These are each side's arguments to the jury, not findings.
+
+
+## Verdict: guilty (ABC, 25 November 2026)
+
+A [class summary of the verdict](https://drive.google.com/file/d/1MFEG-tLTKNh_dC7sy5myS7GTQMC0D85p/view) reports the jury found Beau Lamarre-Condon **guilty of both murders** and of a 2023 break-in, after about two hours' deliberation. Before trial he had offered to plead guilty to Mr Baird's manslaughter; the Crown refused. Murder carries a maximum of life imprisonment, with a 20-year standard non-parole period; a sentence hearing is listed.
 
 
 ## Use it for

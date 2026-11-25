@@ -15,7 +15,7 @@ document11: Cases/Year 11/Year 11 - Massen & Massen [2026] FedCFamC1A 200 - Case
 related: family-law-act-1975, family-courts-and-dispute-resolution, federal-circuit-and-family-court-act-2021
 added: 2026-11-10
 added_at: 2026-11-10 08:36
-updated_at: 2026-11-10 08:36
+updated_at: 2026-11-26 08:23
 ---
 
 The couple (both 41, pseudonyms, three children) married in 2009 and separated in early 2024. Net assets of
@@ -32,6 +32,11 @@ property in the wife (Order 22(a)).
 | Rehear, or decide on appeal? | Remit the s 79 applications to a **different judge** |
 
 Appeal **allowed**; Order 22(a) set aside.
+
+## Media coverage (AFR, 24 November 2026)
+
+A [class summary of the Australian Financial Review's report](https://drive.google.com/file/d/1mox7my3uLUWtJH0FLx4tvnceC1GtMN_Q/view) frames the case as estate-planning advice for wealthy families: the husband's mother gave evidence for the wife that the $18.5m (2018) was meant for both, but the trial judge held it a gift to the husband because of contemporaneous documents (his father's bank note). Figures in the article ($56.17m pool) are not independently confirmed.
+
 
 ## Use it for
 

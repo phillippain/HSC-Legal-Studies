@@ -14,7 +14,7 @@ document: Human Rights/HR - Digital Duty of Care Bill Right to Sue Evidence Summ
 source: https://www.smh.com.au/politics/federal/the-new-legal-weapon-aimed-at-big-tech-20261109-p61cbr.html
 related: ai-chatbots-children-digital-duty-2026, hanson-faruqi-18c-high-court-2026, online-safety-act-2021-and-social-media-minimum-age, croc-1989, technology-and-the-individual, kmart-camera-glasses-2026, human-rights-in-australia-common-law-courts-media-charter, law-reform-conditions-agencies-mechanisms, guardian-2026-gps-tracking
 added: 2026-10-16
-updated_at: 2026-11-11 08:07
+updated_at: 2026-11-26 08:23
 ---
 
 The *Online Safety Amendment (Digital Duty of Care) Bill 2026* (Cth) was introduced on **15 October
@@ -85,6 +85,11 @@ pornography — could reach **email and private file storage** such as Gmail and
 34) against the right to privacy of correspondence (ICCPR art 17). Failing s 27D carries up to **60,000 penalty units**; services
 must offer at least **two** age-assurance methods. The headline's "scan" is a conditional warning, not a plan, and the article has
 no government or eSafety response. [Class evidence summary](https://drive.google.com/file/d/1gIlpdX02-nfWgHWkfCjsajnzFr2jFppe/view).
+
+## Update: Labor–Greens deal adds a right to sue (ABC, 24 November 2026)
+
+A [class summary](https://drive.google.com/file/d/1cVqJPKEBiuEHcI8KVSvjlg1OOnp4A47n/view) reports Labor needed the Greens because the Coalition opposed the bill. The deal adds a **private right to sue** platforms that breach the duty, raises the maximum penalty to **5% of global revenue** (from $109.2m) and cuts the time platforms have to act on cyberbullying complaints from 48 to 24 hours. The amended bill passed the Senate on 25 November 2026. eSafety received 40,030 complaints in 2025–26, up 38%.
+
 
 ## Use it for
 

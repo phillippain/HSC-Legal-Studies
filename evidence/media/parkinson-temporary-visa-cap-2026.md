@@ -12,10 +12,10 @@ themes: exp.t.values, exp.t.effectiveness
 criteria: responsiveness, society
 document: Preliminary/Year 11 - Parkinson Temporary Visa Cap Evidence Summary.pdf
 source: https://www.abc.net.au/news/2026-11-24/martin-parkinson-calls-for-cap-on-temporary-visa-holders/107423044
-related: temporary-visas-family-violence-2026
+related: temporary-visas-family-violence-2026, one-nation-refugee-intake-cut-2026
 added: 2026-11-25
 added_at: 2026-11-25 07:24
-updated_at: 2026-11-25 07:24
+updated_at: 2026-11-26 08:23
 ---
 
 Parkinson, who chaired the 2023 Review of the Migration System, previewed a speech for 25 November 2026. The permanent Migration Program is 185,000 places in 2026–27; net overseas migration was 292,100 in the year to March 2026, down from 309,500.
@@ -27,6 +27,11 @@ Parkinson, who chaired the 2023 Review of the Migration System, previewed a spee
 | Demand-driven temporary labour, largely left to employers | Cap on temporary holders, only if it follows visa purpose |
 | Long temporary stays; 108,000 students and graduates stayed 5+ years | Time limit on temporary stays |
 
+## Update: the speech (25 November 2026)
+
+A [second class summary](https://drive.google.com/file/d/13TxL2-6ovX1I2e8NjYB37tcbS7Y6-hUi/view) confirms the speech was delivered and covered by AAP and Future Campus. It adds that the 2023 Review counted 1.8 million temporary migrants with work rights, and a 2026 survey of almost 10,000 temporary visa holders found 65% were paid below their Fair Work entitlements.
+
+
 ## Use it for
 
 - **exp.4.2** — why migrants encounter the legal system.
@@ -34,4 +39,4 @@ Parkinson, who chaired the 2023 Review of the Migration System, previewed a spee
 
 ## Caution
 
-A speech preview; the speech had not been reported as delivered.
+The first summary was a speech preview; the second confirms delivery.

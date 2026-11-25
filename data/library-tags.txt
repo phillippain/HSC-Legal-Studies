@@ -1012,3 +1012,35 @@ Cases/Crime/R v Russell [2026] NSWDC 421 - Case Summary.pdf | crime.4.3, crime.4
 Cases/Crime/R v Kalandyk [2026] NSWDC 422 - Case Summary.pdf | crime.4.3, crime.4.2
 Cases/Human Rights/2317447 (Refugee) [2026] ARTA 2811 - Case Summary.pdf | hr.3.1, hr.2.9, exp.5.3
 Cases/Human Rights/2614252 (Refugee) [2026] ARTA 2808 - Case Summary.pdf | hr.3.1, exp.5.3
+Cases/Crime/JH v Director of Public Prosecutions (NSW) [2026] NSWSC 1522 - Evidence Summary.pdf | crime.5.3, crime.5.2
+Cases/Crime/Kutti v R [2026] NSWCCA 195 - Evidence Summary.pdf | crime.4.3, crime.4.5
+Crime/Media/Crime - Lamarre-Condon Murder Trial Verdict Evidence Summary.pdf | crime.3.9
+Crime/Media/Crime - NT Castle Law Self-Defence Proposal Evidence Summary.pdf | crime.3.8
+Crime/Media/Crime - NT Sex Offender Anonymity and Good Character Bill Evidence Summary.pdf | crime.4.3, crime.3.2
+Cases/Crime/Craig Collins (a pseudonym) v R [2026] NSWCCA 203 - Evidence Summary.pdf | crime.3.9, crime.1.4
+Cases/Crime/R v Soltani [2026] NSWDC 425 - Evidence Summary.pdf | crime.4.3, crime.4.1
+Cases/Crime/Scicluna v R [2026] NSWCCA 199 - Evidence Summary.pdf | crime.3.9, crime.4.5
+Cases/Crime/Taouk v R [2026] NSWCCA 201 - Evidence Summary.pdf | crime.4.3, crime.4.5
+Cases/Family/Ashcroft & Ashcroft [2026] FedCFamC2F 1291 - Evidence Summary.pdf | fam.2.3, fam.2.4
+Family/Evidence Summaries/Family - Economic Abuse and Rebuilding Work After Leaving Evidence Summary.pdf | fam.2.4
+Family/Evidence Summaries/Family - Massen & Massen Family Wealth Gifts AFR Evidence Summary.pdf | fam.2.3
+Cases/Family/Gannon & Halverson [2026] FedCFamC2F 1261 - Evidence Summary.pdf | fam.2.2, fam.3.2
+Cases/Family/Romero & Molerov [2026] FedCFamC2F 1328 - Evidence Summary.pdf | fam.2.2, fam.2.4
+Cases/Family/Stirton & Stirton [2026] FedCFamC2F 1295 - Evidence Summary.pdf | fam.2.3, fam.2.5
+Family/Evidence Summaries/Family - WA Coercive Control Offence Plan Third Summary Evidence Summary.pdf | fam.2.4
+Human Rights/HR - ACT Ngambri Indigenous Protocol Review Order Evidence Summary.pdf | hr.2.14, hr.2.11
+Human Rights/HR - Digital Duty of Care Bill Senate Deal Right to Sue Evidence Summary.pdf | hr.2.9
+Cases/Human Rights/Nataraja v North Metropolitan Health Service [2026] FedCFamC2G 2319 - Evidence Summary.pdf | hr.2.9, hr.2.11
+Cases/Human Rights/2214124 (Refugee) [2026] ARTA 2863 - Evidence Summary.pdf | hr.3.1, hr.2.1, exp.5.3
+Shelter/Evidence Sheets/Shelter - Affordable Liveable Suburbs and First Home Buyer Schemes Evidence Summary.pdf | shel.3.1, shel.2.1
+Shelter/Evidence Sheets/Shelter - Homelessness NSW Regional Unit Rents and Rent Cap Call Evidence Summary.pdf | shel.2.2, shel.3.1
+Shelter/Evidence Sheets/Shelter - Mosman Affordable Housing Bonus Approval Evidence Summary.pdf | shel.3.1, shel.2.8
+Shelter/Evidence Sheets/Shelter - Rental Affordability Index 2026 Regional NSW Third Summary Evidence Summary.pdf | shel.3.1
+Cases/Year 11/Year 11 - Fu (Migration) [2026] ARTA 2862 - Evidence Summary.pdf | dis.3.4, dis.3.1
+Cases/Year 11/Year 11 - Hasan (Migration) [2026] ARTA 2859 - Evidence Summary.pdf | dis.3.4, dis.3.1
+Cases/Year 11/Year 11 - JDM25 v Minister for Immigration and Citizenship [2026] FCA 1795 - Evidence Summary.pdf | dis.3.4, inv.4.1
+Cases/Year 11/Year 11 - Jaskaran Singh (Migration) [2026] ARTA 2865 - Evidence Summary.pdf | dis.3.4, dis.3.8
+Cases/Year 11/Year 11 - Oman (Migration) [2026] ARTA 2858 - Evidence Summary.pdf | dis.3.4, dis.3.1
+Preliminary/Year 11 - One Nation Refugee Intake Cut Evidence Summary.pdf | exp.5.1, exp.4.1
+Preliminary/Year 11 - Parkinson Temporary Visa Cap Speech Second Summary Evidence Summary.pdf | exp.4.2
+Cases/Year 11/Year 11 - Shah Automotive Pty Ltd (Migration) [2026] ARTA 2853 - Evidence Summary.pdf | dis.3.4, dis.3.1
