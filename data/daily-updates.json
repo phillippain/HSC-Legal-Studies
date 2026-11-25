@@ -1,6 +1,675 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "days": [
+  {
+   "date": "2026-11-26",
+   "since": "2026-11-25",
+   "new": 26,
+   "updated": 6,
+   "groups": [
+    {
+     "key": "crime",
+     "label": "Crime",
+     "part": "HSC Core Part I",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "collins-v-r-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Collins v R [2026] NSWCCA 203 — no causation direction: ABH replaced by common assault",
+       "summary": "In a 21-count domestic violence trial, the jury was never told how much the accused had to contribute to the injury, so the Court of Criminal Appeal replaced the actual bodily harm conviction with common assault, leaving the 4-year aggregate unchanged. Use it for causation and jury directions.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-26",
+       "core_labels": [
+        "The role of juries, including verdicts",
+        "Causation"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-collins-v-r-2026",
+       "document_url": "https://drive.google.com/file/d/1ANy6SAfUUpfylLGx3WxAAyiBJiUHV0di/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "jh-v-dpp-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "JH v DPP [2026] NSWSC 1522 — a 15-year-old skipper, police questioning and negligent navigation causing death",
+       "summary": "A 15-year-old skipper found guilty in the Children's Court of negligently operating a vessel causing death, with two years' probation and no conviction, lost his appeal despite being questioned with no caution or responsible adult noted. Use it for the rights of children when questioned and Children's Court procedure and appeals.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Children's Court",
+        "The rights of children when questioned…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-jh-v-dpp-2026",
+       "document_url": "https://drive.google.com/file/d/1wfscSKHo8waRLom4NVeQores2HVTYZJK/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "kutti-v-r-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Kutti v R [2026] NSWCCA 195 — reduced moral culpability, sentencing purposes and De Simoni",
+       "summary": "The Court of Criminal Appeal found two errors, that the judge did not consider how reduced moral culpability affects deterrence and denunciation and breached De Simoni, yet the 3 years 6 months stood. Use it for moral culpability and the purposes of punishment, and the point that error does not always mean a lower sentence.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Factors affecting a sentencing decision",
+        "Appeals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-kutti-v-r-2026",
+       "document_url": "https://drive.google.com/file/d/1eWmv0PNkmCYNJ_ffNJLtHX_iAhbhEIaG/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "nt-sex-offender-anonymity-good-character-bill-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "NT bill to name accused sex offenders and end character references (ABC, 24 November 2026)",
+       "summary": "The NT, the last jurisdiction to keep accused sex offenders anonymous until committal, introduced a bill to end that and to stop good character mitigating sentences for sexual offences, with debate expected in February. Use it for limits on mitigating factors and balancing open justice, the presumption of innocence and victim safety; it is a bill only.",
+       "note": "Content note: this item involves sexual offences. The summary describes the legal decision only.",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Factors affecting a sentencing decision",
+        "The adversary system"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nt-sex-offender-anonymity-good-character-bill-2026",
+       "document_url": "https://drive.google.com/file/d/1npYPNDewroKyRPgCJtFWfVgeQKSzL3Xj/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-24/nt-sex-offender-reform-ending-anonymity-introduced-in-parliament/107420324"
+      },
+      {
+       "id": "nt-castle-law-proposal-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "NT government confirms it is considering a 'castle law' (ABC, 25 November 2026)",
+       "summary": "The NT government confirmed it is considering a 'castle law' widening when occupiers may use lethal force against intruders, though NT house break-ins fell 24% in the year to May 2026. Use it for self-defence as a defence and law reform responding to fear of crime; there is no bill yet.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Defences to criminal charges"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nt-castle-law-proposal-2026",
+       "document_url": "https://drive.google.com/file/d/1MpzqjFunU4ngtCa0PJdXqMpmR5Itzr3j/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-25/nt-clp-government-considering-castle-law/107425492"
+      },
+      {
+       "id": "r-v-soltani-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Soltani [2026] NSWDC 425 — one detention, eight offenders, eight sentences",
+       "summary": "One 80-hour detention for advantage produced eight sentences, from 2 years 3 months to 7 years, shaped by role, plea, health, parity and the statutory ratio. Use it for individualised sentencing and parties to a crime.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Factors affecting a sentencing decision",
+        "Statutory and judicial guidelines"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-soltani-2026",
+       "document_url": "https://drive.google.com/file/d/1Ojh-RPSaRgp9quc5Qa_6kIXWAb0SOrCC/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "scicluna-v-r-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Scicluna v R [2026] NSWCCA 199 — an unbalanced summing up and a retrial",
+       "summary": "The trial judge called an unnamed man in the defence case 'Mr No Name' 34 times, and the Court of Criminal Appeal quashed three convictions and ordered a retrial after the Crown conceded the summing up was unbalanced. Use it for the judge's summing up and fairness in the adversary system; a retrial is not a finding of innocence.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "The role of juries, including verdicts",
+        "Appeals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-scicluna-v-r-2026",
+       "document_url": "https://drive.google.com/file/d/1y7yLUUzIMdB7RtvcvUYSSTlN5xHmuKuC/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "taouk-v-r-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Taouk v R [2026] NSWCCA 201 — threatened violence can aggravate demanding property with menaces",
+       "summary": "A man convicted of demanding property with menaces argued threatened violence was double counted, but the Court of Criminal Appeal held it was not an element and could aggravate the offence, so all four grounds failed and the 6-year sentence stood. Use it for aggravating factors under s 21A and the limits of sentence appeals.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Factors affecting a sentencing decision",
+        "Appeals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-taouk-v-r-2026",
+       "document_url": "https://drive.google.com/file/d/11GjZ5BvGPTFDmaA6OHeaG1z9n9k0EhxV/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "lamarre-condon-murder-trial-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Ex-officer's double murder trial tests self-defence law (ABC, 3 November 2026)",
+       "summary": "The card now records the verdict: the jury found the former officer guilty of both murders and of a 2023 break-in after about two hours' deliberation, having rejected his earlier offer to plead to manslaughter in one case. It now shows how the Crown's burden of disproving self-defence played out at trial.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-04",
+       "core_labels": [
+        "Defences to criminal charges",
+        "Burden and standard of proof",
+        "The role of juries, including verdicts"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lamarre-condon-murder-trial-2026",
+       "document_url": "https://drive.google.com/file/d/1TiNOqw-2rZx-L9d1b-dXmtgQXtqUzOpN/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-03/beau-lamarre-condon-told-police-not-a-bad-person/107342440"
+      }
+     ]
+    },
+    {
+     "key": "humanrights",
+     "label": "Human Rights",
+     "part": "HSC Core Part II",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "refugee-2214124-2026-arta-2863",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "2214124 (Refugee) [2026] ARTA 2863 — religion, gender and harm in Colombia",
+       "summary": "A Colombian woman's claims of harassment, an assault and family rejection were accepted, but the Tribunal found no real chance of future persecution after seven years without contact and affirmed the refusal. Use it for how Parliament sets the tests that the Tribunal applies, and delay for asylum seekers. Sensitive.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "State sovereignty",
+        "Contact with legal processes"
+       ],
+       "also": [
+        "Experiences with the law"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-refugee-2214124-2026-arta-2863",
+       "document_url": "https://drive.google.com/file/d/11gVX614v-ZBIWr5xhHjdM7xdH2r4htCX/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "act-ngambri-protocol-review-order-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "ACT ordered to finish Indigenous protocol review within 12 months (ABC, 24 November 2026)",
+       "summary": "Ngambri custodians lost their ACT Human Rights Act claim but won on breach of a 2023 settlement, so the ACT must finish its Indigenous protocol review within 12 months. Use it for what a statutory charter can and cannot achieve, and Elders and cultural authority.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "A Charter of Rights",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-act-ngambri-protocol-review-order-2026",
+       "document_url": "https://drive.google.com/file/d/1OyZiN8CI0P8pHdZVq15nyGTzuWd5wTRk/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-24/act-government-to-review-indigenous-protocol-within-12-months/107417430"
+      },
+      {
+       "id": "nataraja-v-nmhs-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Nataraja v North Metropolitan Health Service [2026] FedCFamC2G 2319 — leave refused in an unvaccinated worker's disability claim",
+       "summary": "A former genetic counsellor claimed disability discrimination after the AHRC terminated her complaint, and the court refused leave because no reasonably arguable case was shown. Use it for the federal discrimination complaint pathway and courts as a filter; there is no finding on discrimination.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "The role of statute law",
+        "The role of courts and tribunals"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nataraja-v-nmhs-2026",
+       "document_url": "https://drive.google.com/file/d/1bruAqOVxvigbmOKRssbF8-D_y1r837sQ/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "digital-duty-of-care-bill-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Digital duty of care bill: could Australians sue big tech? — passes the House; faith groups push for a right to sue (2026)",
+       "summary": "The card now records that a Labor-Greens deal added a private right to sue platforms, raised the maximum penalty to 5% of global revenue and cut the time to act on cyberbullying complaints from 48 to 24 hours. It now shows how a bill changed in Parliament and how a right to sue works with a regulator.",
+       "note": "",
+       "added": "2026-10-16",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of statute law",
+        "chg.6"
+       ],
+       "also": [
+        "changing"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-digital-duty-of-care-bill-2026",
+       "document_url": "https://drive.google.com/file/d/1fatNv109KDMurKgG3Dm3_6Ee0lVgi5nJ/view",
+       "document11_url": null,
+       "source": "https://www.smh.com.au/politics/federal/the-new-legal-weapon-aimed-at-big-tech-20261109-p61cbr.html"
+      }
+     ]
+    },
+    {
+     "key": "family",
+     "label": "Family",
+     "part": "HSC Option 3",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "ashcroft-ashcroft-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Ashcroft & Ashcroft [2026] FedCFamC2F 1291 — a 50:50 split when a husband disengages",
+       "summary": "A self-represented husband disengaged and gave no full disclosure, and the court found contributions 60:40, adjusted for family violence and future needs, with the home sold and proceeds split 50:50. Use it for the s 79 steps and family violence in property cases.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Legal consequences of separation",
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-ashcroft-ashcroft-2026",
+       "document_url": "https://drive.google.com/file/d/1Vw3lNa87VHvDd_0ZAex9mxsqlg_aQX6i/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "economic-abuse-rebuilding-work-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Economic abuse, leaving violence and rebuilding a working life (Sunday Life, 26 November 2026)",
+       "summary": "A feature follows victim-survivors of economic abuse into work, noting 16% of women have experienced it, family violence leave covers only employees and coercive control prosecutions remain rare. Use it for economic abuse as family violence and legal versus non-legal support.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-economic-abuse-rebuilding-work-2026",
+       "document_url": "https://drive.google.com/file/d/1pTT_SqCnvyAzPO8p5A5KZzVlzOhPbBcq/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "gannon-halverson-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Gannon & Halverson [2026] FedCFamC2F 1261 — children stay with father; decision-making split by issue",
+       "summary": "A mother sought to become primary carer, but applying the 2024 best interests factors the court kept settled care with the father and split decision-making by issue. Use it for the post-2024 best interests test and parental responsibility tailored to conflict.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Legal consequences of separation",
+        "The changing nature of parental respons…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-gannon-halverson-2026",
+       "document_url": "https://drive.google.com/file/d/1E5S3SVjqrZS4ARvOlVb5k4FtEtxAk5Qe/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "romero-molerov-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Romero & Molerov [2026] FedCFamC2F 1328 — relocation allowed; the mother has the final say",
+       "summary": "The court allowed relocation of two young children, found family violence relevant, refused joint decision-making and gave the mother the final say after 28 days. Use it for relocation, compared with Haig and Zorner where it was refused, and orders imposed when parents cannot cooperate.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Legal consequences of separation",
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-romero-molerov-2026",
+       "document_url": "https://drive.google.com/file/d/1Ld6pxSBbI1AVjE872vbiscEcXm84Hx27/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "stirton-stirton-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Stirton & Stirton [2026] FedCFamC2F 1295 — enforcing ignored consent property orders",
+       "summary": "A husband ignored consent orders to pay $1.5 million, and after 29 months the court ordered sale by a trustee, possession and a 55:45 split. Use it for enforcing property orders and protection from personal cross-examination.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Legal consequences of separation",
+        "The roles of courts and dispute resolut…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-stirton-stirton-2026",
+       "document_url": "https://drive.google.com/file/d/1xTTfNsFgv5qVmIg4JRlE69a4Sqjbz0YS/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "massen-massen-2026",
+       "status": "updated",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Massen & Massen [2026] FedCFamC1A 200 — a $23 million family gift and \"opaque\" reasons send a property case back",
+       "summary": "The card now adds an AFR report framing the case as estate-planning advice for wealthy families, noting the trial judge held the family money a gift to the husband because of contemporaneous documents. It now gives a media view alongside the Full Court's decision to send the property case back.",
+       "note": "",
+       "added": "2026-11-10",
+       "core_labels": [
+        "Legal consequences of separation",
+        "The roles of courts and dispute resolut…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-massen-massen-2026",
+       "document_url": "https://drive.google.com/file/d/1EQWXEs055Ldl6aYbDA2smkxQMr7L9MO-/view",
+       "document11_url": "https://drive.google.com/file/d/1LKlLLHqP61ickcZtOtNEiKzLFaMLYrss/view",
+       "source": ""
+      },
+      {
+       "id": "wa-coercive-control-offence-plan-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "WA promises coercive control offence in 2027 after phased reform (ABC, 23 November 2026)",
+       "summary": "The card now links a third class summary of the same announcement, made at a 16 Days event in WA, with the government statement. It now gives a primary-style source for the plan.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wa-coercive-control-offence-plan-2026",
+       "document_url": "https://drive.google.com/file/d/1Qzf2Ke1czX7H_XE6hhQeNlc2wDjm_NnQ/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-23/wa-government-promises-to-make-coercive-control-criminal-offence/107415816"
+      }
+     ]
+    },
+    {
+     "key": "shelter",
+     "label": "Shelter",
+     "part": "HSC Option 5",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "affordable-liveable-suburbs-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Affordable suburbs rise as buyers chase value in a falling market (Domain, 26 November 2026)",
+       "summary": "Even as capital city values fell 8.1% in seven months, buyers crowded into cheaper suburbs and pushed prices up, while 60,043 five percent deposit guarantees were issued in 2025-26. Use it for affordability of purchasing and first home buyer schemes weighed against supply-side reform.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Affordability",
+        "Purchasing"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-affordable-liveable-suburbs-2026",
+       "document_url": "https://drive.google.com/file/d/1qKsAJ8tFB9zRVPdxJEwjsva8DMg2El84/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "homelessness-nsw-regional-unit-rents-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Regional unit rents jump 60%+ as Homelessness NSW seeks a rent cap (Homelessness NSW, 10 September 2026)",
+       "summary": "Unit rents in Bourke rose 66% and in Hay 60%, and Homelessness NSW wants a rent cap because NSW limits how often but not how much rent rises. Use it for gaps in tenant protection and NGO advocacy for reform, noting it is an advocacy release.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Leasing",
+        "Affordability"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-homelessness-nsw-regional-unit-rents-2026",
+       "document_url": "https://drive.google.com/file/d/1YyptVGME8GNHjNk2MYZuaPuM6H5c8kdc/view",
+       "document11_url": null,
+       "source": "https://homelessnessnsw.org.au/unit-rents-soar-as-homelessness-nsw-calls-for-protections/"
+      },
+      {
+       "id": "mosman-affordable-housing-bonus-approval-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "State approves Mosman tower using affordable housing bonus (SMH, 26 November 2026)",
+       "summary": "NSW approved a Mosman tower over the council and about 98% opposing submissions using the in-fill bonus, with 11 of 53 apartments affordable for at least 15 years. Use it for supply through planning bonuses and state versus local control.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Affordability",
+        "The role of government organisations"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-mosman-affordable-housing-bonus-approval-2026",
+       "document_url": "https://drive.google.com/file/d/1jt211_HTBKo2fkf-26RdBtsH6il9z-gA/view",
+       "document11_url": null,
+       "source": ""
+      },
+      {
+       "id": "rental-affordability-index-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Rents stay at crisis levels as only ACT limits rent rises (ABC, 24 November 2026)",
+       "summary": "The card now links a third class summary from the ABC adding case studies of older Hunter renters. It now puts a human face on the index figures.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Affordability"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-rental-affordability-index-2026",
+       "document_url": "https://drive.google.com/file/d/1MCiz_APzCBqYCk83hDp-b18klUJxl9mi/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-24/rental-affordability-remains-at-crisis-levels-across-australia/107379494"
+      }
+     ]
+    },
+    {
+     "key": "disputes",
+     "label": "Disputes under the law",
+     "part": "Year 11 (Preliminary) Focus area 2",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "fu-migration-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Fu (Migration) [2026] ARTA 2862 — strong ties but an unmet residency criterion",
+       "summary": "A former permanent resident with strong ties to Australia was refused because more than 10 years had passed since her residence ceased, so a mandatory criterion was not met and the refusal was affirmed. Use it for the strengths and limits of merits review.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-fu-migration-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1rGEFd-i01FD5uJJKI9IYWcAHHsOL04zG/view",
+       "source": ""
+      },
+      {
+       "id": "hasan-migration-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Hasan (Migration) [2026] ARTA 2859 — visa cancelled for false answers on forms",
+       "summary": "False answers on seven visa applications and a passenger card between 2018 and 2024 justified cancellation despite serious hardship. Use it for discretion in merits review.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-hasan-migration-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1E7Pp358xmTda5LP3ruuQchGlWQ2oPVzn/view",
+       "source": ""
+      },
+      {
+       "id": "jdm25-v-minister-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "JDM25 v Minister [2026] FCA 1795 — courts review law, not merits",
+       "summary": "A visa appeal that went through four decision-makers over 6.5 years failed on all five grounds, with fresh evidence and new grounds limited and costs of $4,500. Use it for the path from delegate to appeal court and the principle that courts review law, not merits.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The role, jurisdiction and hierarchy of…"
+       ],
+       "also": [
+        "investigating"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-jdm25-v-minister-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1gy0a7y_dfZYYb175tO1HduNuD5lwuy2j/view",
+       "source": ""
+      },
+      {
+       "id": "jaskaran-singh-migration-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Jaskaran Singh (Migration) [2026] ARTA 2865 — \"convictions\" that were never recorded",
+       "summary": "A student visa was refused for false information about convictions, but the court had released him without conviction, so his answer was accurate and the Tribunal set the decision aside. Use it for merits review correcting error.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "Key concepts of justice illustrated thr…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-jaskaran-singh-migration-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1Y7rdpr9XFxmybJ0vzfwezVKSaGCaKUFJ/view",
+       "source": ""
+      },
+      {
+       "id": "oman-migration-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Oman (Migration) [2026] ARTA 2858 — a non-genuine police certificate and a child visa",
+       "summary": "A parent sought review of a Child visa refusal, and the Tribunal found the police certificate was not genuine and affirmed the refusal despite compassionate family separation. Use it for strict integrity rules and discretion.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-oman-migration-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1Q8ZDNbn_xIu1WBhyzQMoyLHc91_O11Cv/view",
+       "source": ""
+      },
+      {
+       "id": "shah-automotive-migration-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Shah Automotive (Migration) [2026] ARTA 2853 — a sponsor nomination refused on a different criterion",
+       "summary": "The Tribunal remade a business's sponsor nomination decision, raised a new issue after inviting a response, and affirmed the refusal on a criterion different from the delegate's. Use it to show merits review remakes the decision.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-shah-automotive-migration-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1X4PXcS6vmcxh7iCsk4BgS8z2x6Tp-XbQ/view",
+       "source": ""
+      }
+     ]
+    },
+    {
+     "key": "experiences",
+     "label": "Experiences with the law",
+     "part": "Year 11 (Preliminary) Focus area 4",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "one-nation-refugee-intake-cut-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Burke says One Nation's 90% refugee cut would aid people smugglers (The Nightly/AAP, 22 November 2026)",
+       "summary": "One Nation proposes cutting humanitarian places from 20,000 to 2,000, and the Minister says the cut would aid people smugglers, while resettlement is a policy choice rather than a Convention duty. Use it for protection under domestic and international law and sovereignty and refugee intake; claims on both sides come from secondary sources.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Protection under domestic and internati…",
+        "The need for protection under the law"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-one-nation-refugee-intake-cut-2026",
+       "document_url": "https://drive.google.com/file/d/13pE9N51gtrXW7nKlzKc199KwC_b6jXT6/view",
+       "document11_url": null,
+       "source": "https://thenightly.com.au/politics/tony-burke-claims-one-nations-refugee-cut-will-lead-to-human-trafficking-and-unlawful-arrivals-c-23196469"
+      },
+      {
+       "id": "parkinson-temporary-visa-cap-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Parkinson calls for purpose-based cap on temporary visa holders (ABC, 24 November 2026)",
+       "summary": "The card now confirms the speech was delivered and adds that the 2023 Review counted 1.8 million temporary migrants with work rights, and a 2026 survey found 65% of nearly 10,000 temporary visa holders were paid below their Fair Work entitlements. It now links the proposed cap to exploitation as a barrier to justice.",
+       "note": "",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Reasons for encountering the legal syst…",
+        "Barriers to achieving justice"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-parkinson-temporary-visa-cap-2026",
+       "document_url": "https://drive.google.com/file/d/1SZyw-UYts0HXohrh2Up44edz4PoyrlRA/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-24/martin-parkinson-calls-for-cap-on-temporary-visa-holders/107423044"
+      }
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-25",
    "since": "2026-11-24",
