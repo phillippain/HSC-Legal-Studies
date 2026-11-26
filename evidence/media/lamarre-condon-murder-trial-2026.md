@@ -12,10 +12,10 @@ themes: crime.t.balance, crime.t.moral
 criteria: justice, rights, ruleoflaw
 document: Crime/Media/Crime - Lamarre-Condon Double Murder Trial Self-Defence Evidence Summary.pdf
 source: https://www.abc.net.au/news/2026-11-03/beau-lamarre-condon-told-police-not-a-bad-person/107342440
-related: crimes-act-homicide-defences, woolmington-v-dpp-1935, zecevic-v-dpp-1987, russell-manslaughter-sentencing-hearing-2026, jury-act-1977
+related: crimes-act-homicide-defences, woolmington-v-dpp-1935, zecevic-v-dpp-1987, russell-manslaughter-sentencing-hearing-2026, jury-act-1977, r-v-lamarre-condon-rulings-2026
 added: 2026-11-04
 added_at: 2026-11-04 07:17
-updated_at: 2026-11-27 07:10
+updated_at: 2026-11-27 07:38
 ---
 
 Former NSW police officer **Beau Lamarre-Condon** has pleaded not guilty to the **murders** of Jesse Baird and Luke

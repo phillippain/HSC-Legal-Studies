@@ -5256,6 +5256,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - 2308340 (Migration) and Minister for Immigration and Citizenship [2026] ARTA 2870 - Case Summary.pdf",
+   "name": "Year 11 - 2308340 (Migration) and Minister for Immigration and Citizenship [2026] ARTA 2870 - Case Summary",
+   "file": "Year 11 - 2308340 (Migration) and Minister for Immigration and Citizenship [2026] ARTA 2870 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 290533,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.3.1"
+   ],
+   "dupe": "year112308340migrationandministerforimmigrationandcitizenship2026arta2870casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - 2317447 (Refugee) [2026] ARTA 2811 - Case Summary.pdf",
    "name": "Year 11 - 2317447 (Refugee) [2026] ARTA 2811 - Case Summary",
    "file": "Year 11 - 2317447 (Refugee) [2026] ARTA 2811 - Case Summary.pdf",
@@ -6294,6 +6311,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Cyrilla & Cyrilla [2026] FedCFamC1F 698 - Case Summary.pdf",
+   "name": "Year 11 - Cyrilla & Cyrilla [2026] FedCFamC1F 698 - Case Summary",
+   "file": "Year 11 - Cyrilla & Cyrilla [2026] FedCFamC1F 698 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 275652,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.5"
+   ],
+   "dupe": "year11cyrillacyrilla2026fedcfamc1f698casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - DJI20 v Minister for Immigration and Citizenship [2026] FCA 1755 - Case Summary.pdf",
    "name": "Year 11 - DJI20 v Minister for Immigration and Citizenship [2026] FCA 1755 - Case Summary",
    "file": "Year 11 - DJI20 v Minister for Immigration and Citizenship [2026] FCA 1755 - Case Summary.pdf",
@@ -6852,6 +6885,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Gavin Brown (a pseudonym) v R [2026] NSWCCA 193 - Case Summary.pdf",
+   "name": "Year 11 - Gavin Brown (a pseudonym) v R [2026] NSWCCA 193 - Case Summary",
+   "file": "Year 11 - Gavin Brown (a pseudonym) v R [2026] NSWCCA 193 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 270971,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.5",
+    "crime.4.3"
+   ],
+   "dupe": "year11gavinbrownapseudonymvr2026nswcca193casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Gavin v Greenstone Financial Services Pty Ltd [2026] NSWCATAD 339 - Case Summary.pdf",
    "name": "Year 11 - Gavin v Greenstone Financial Services Pty Ltd [2026] NSWCATAD 339 - Case Summary",
    "file": "Year 11 - Gavin v Greenstone Financial Services Pty Ltd [2026] NSWCATAD 339 - Case Summary.pdf",
@@ -7100,6 +7150,22 @@
     "dis.3.1"
    ],
    "dupe": "year11hanandministerforimmigrationandcitizenshipcitizenship2026arta2747casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Harlow & Harlow (No 5) [2026] FedCFamC1F 663 - Case Summary.pdf",
+   "name": "Year 11 - Harlow & Harlow (No 5) [2026] FedCFamC1F 663 - Case Summary",
+   "file": "Year 11 - Harlow & Harlow (No 5) [2026] FedCFamC1F 663 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 275536,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5"
+   ],
+   "dupe": "year11harlowharlowno52026fedcfamc1f663casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7560,6 +7626,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Law v Fenix Freighters Pty Ltd (in liq) (No 3) [2026] FedCFamC2G 2330 - Case Summary.pdf",
+   "name": "Year 11 - Law v Fenix Freighters Pty Ltd (in liq) (No 3) [2026] FedCFamC2G 2330 - Case Summary",
+   "file": "Year 11 - Law v Fenix Freighters Pty Ltd (in liq) (No 3) [2026] FedCFamC2G 2330 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 270921,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.7",
+    "dis.2.1"
+   ],
+   "dupe": "year11lawvfenixfreightersptyltdinliqno32026fedcfamc2g2330casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Lee and Minister for Immigration and Citizenship [2026] ARTA 2513 - Case Summary.pdf",
    "name": "Year 11 - Lee and Minister for Immigration and Citizenship [2026] ARTA 2513 - Case Summary",
    "file": "Year 11 - Lee and Minister for Immigration and Citizenship [2026] ARTA 2513 - Case Summary.pdf",
@@ -7572,6 +7655,23 @@
     "dis.3.4"
    ],
    "dupe": "year11leeandministerforimmigrationandcitizenship2026arta2513casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Lucas v Commissioner for Fair Trading [2026] NSWCATAP 391 - Case Summary.pdf",
+   "name": "Year 11 - Lucas v Commissioner for Fair Trading [2026] NSWCATAP 391 - Case Summary",
+   "file": "Year 11 - Lucas v Commissioner for Fair Trading [2026] NSWCATAP 391 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 272990,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.3.4",
+    "dis.2.5"
+   ],
+   "dupe": "year11lucasvcommissionerforfairtrading2026nswcatap391casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -7814,6 +7914,22 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Mihova & Mihova (No 8) [2026] FedCFamC1F 709 - Case Summary.pdf",
+   "name": "Year 11 - Mihova & Mihova (No 8) [2026] FedCFamC1F 709 - Case Summary",
+   "file": "Year 11 - Mihova & Mihova (No 8) [2026] FedCFamC1F 709 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 266330,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "dis.2.5"
+   ],
+   "dupe": "year11mihovamihovano82026fedcfamc1f709casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Mikhaiel v R [2026] NSWCCA 186 - Case Summary.pdf",
    "name": "Year 11 - Mikhaiel v R [2026] NSWCCA 186 - Case Summary",
    "file": "Year 11 - Mikhaiel v R [2026] NSWCCA 186 - Case Summary.pdf",
@@ -7997,6 +8113,23 @@
     "dis.1.6"
    ],
    "dupe": "year11oconnellvdppdppvoconnell2026hca41casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Odalis & Odalis (No 3) [2026] FedCFamC1F 720 - Case Summary.pdf",
+   "name": "Year 11 - Odalis & Odalis (No 3) [2026] FedCFamC1F 720 - Case Summary",
+   "file": "Year 11 - Odalis & Odalis (No 3) [2026] FedCFamC1F 720 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 266150,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "inv.1.6",
+    "inv.4.3"
+   ],
+   "dupe": "year11odalisodalisno32026fedcfamc1f720casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8239,6 +8372,56 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - R v Beaumont Lamarre-Condon (No 6) [2026] NSWSC 1386 - Case Summary.pdf",
+   "name": "Year 11 - R v Beaumont Lamarre-Condon (No 6) [2026] NSWSC 1386 - Case Summary",
+   "file": "Year 11 - R v Beaumont Lamarre-Condon (No 6) [2026] NSWSC 1386 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 266539,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7",
+    "crime.3.3"
+   ],
+   "dupe": "year11rvbeaumontlamarrecondonno62026nswsc1386casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - R v Bell (No 2) [2026] NSWSC 1467 - Case Summary.pdf",
+   "name": "Year 11 - R v Bell (No 2) [2026] NSWSC 1467 - Case Summary",
+   "file": "Year 11 - R v Bell (No 2) [2026] NSWSC 1467 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 302150,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.2"
+   ],
+   "dupe": "year11rvbellno22026nswsc1467casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - R v Bell [2026] NSWSC 546 - Case Summary.pdf",
+   "name": "Year 11 - R v Bell [2026] NSWSC 546 - Case Summary",
+   "file": "Year 11 - R v Bell [2026] NSWSC 546 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 267312,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7"
+   ],
+   "dupe": "year11rvbell2026nswsc546casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - R v Binge [2026] NSWDC 409 - Case Summary.pdf",
    "name": "Year 11 - R v Binge [2026] NSWDC 409 - Case Summary",
    "file": "Year 11 - R v Binge [2026] NSWDC 409 - Case Summary.pdf",
@@ -8327,6 +8510,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - R v Franklin [2026] NSWDC 428 - Case Summary.pdf",
+   "name": "Year 11 - R v Franklin [2026] NSWDC 428 - Case Summary",
+   "file": "Year 11 - R v Franklin [2026] NSWDC 428 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 274391,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.6"
+   ],
+   "dupe": "year11rvfranklin2026nswdc428casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - R v Haouchar [2026] NSWDC 417 - Case Summary.pdf",
    "name": "Year 11 - R v Haouchar [2026] NSWDC 417 - Case Summary",
    "file": "Year 11 - R v Haouchar [2026] NSWDC 417 - Case Summary.pdf",
@@ -8374,6 +8574,71 @@
     "dis.1.2"
    ],
    "dupe": "year11rvkirby2026nswsc1444casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - R v Lamarre-Condon (No 3) [2026] NSWSC 1357 - Case Summary.pdf",
+   "name": "Year 11 - R v Lamarre-Condon (No 3) [2026] NSWSC 1357 - Case Summary",
+   "file": "Year 11 - R v Lamarre-Condon (No 3) [2026] NSWSC 1357 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 281307,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7"
+   ],
+   "dupe": "year11rvlamarrecondonno32026nswsc1357casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - R v Lamarre-Condon (No 4) [2026] NSWSC 1367 - Case Summary.pdf",
+   "name": "Year 11 - R v Lamarre-Condon (No 4) [2026] NSWSC 1367 - Case Summary",
+   "file": "Year 11 - R v Lamarre-Condon (No 4) [2026] NSWSC 1367 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 267113,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7"
+   ],
+   "dupe": "year11rvlamarrecondonno42026nswsc1367casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - R v Lamarre-Condon (No 8) [2026] NSWSC 1449 - Case Summary.pdf",
+   "name": "Year 11 - R v Lamarre-Condon (No 8) [2026] NSWSC 1449 - Case Summary",
+   "file": "Year 11 - R v Lamarre-Condon (No 8) [2026] NSWSC 1449 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 263274,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7"
+   ],
+   "dupe": "year11rvlamarrecondonno82026nswsc1449casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - R v Lamarre-Condon (Nos 1 to 9) [2026] NSWSC - Case Summary.pdf",
+   "name": "Year 11 - R v Lamarre-Condon (Nos 1 to 9) [2026] NSWSC - Case Summary",
+   "file": "Year 11 - R v Lamarre-Condon (Nos 1 to 9) [2026] NSWSC - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 270824,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7",
+    "crime.3.2"
+   ],
+   "dupe": "year11rvlamarrecondonnos1to92026nswsccasesummary",
    "copyOf": null,
    "primary": true
   },
@@ -8778,6 +9043,23 @@
     "dis.1.8"
    ],
    "dupe": "year11ridgewayvthequeen1995hca66casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Ridley & Hanegan [2026] FedCFamC1F 695 - Case Summary.pdf",
+   "name": "Year 11 - Ridley & Hanegan [2026] FedCFamC1F 695 - Case Summary",
+   "file": "Year 11 - Ridley & Hanegan [2026] FedCFamC1F 695 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 278881,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.2",
+    "fam.3.2"
+   ],
+   "dupe": "year11ridleyhanegan2026fedcfamc1f695casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -9671,6 +9953,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Year 11/Year 11 - Yaramaka & Missouni [2026] FedCFamC1F 588 - Case Summary.pdf",
+   "name": "Year 11 - Yaramaka & Missouni [2026] FedCFamC1F 588 - Case Summary",
+   "file": "Year 11 - Yaramaka & Missouni [2026] FedCFamC1F 588 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 280288,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.1.2",
+    "fam.2.2"
+   ],
+   "dupe": "year11yaramakamissouni2026fedcfamc1f588casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Year 11/Year 11 - Yassein and Minister for Immigration and Citizenship (Citizenship) [2026] ARTA 2788 - Case Summary.pdf",
    "name": "Year 11 - Yassein and Minister for Immigration and Citizenship (Citizenship) [2026] ARTA 2788 - Case Summary",
    "file": "Year 11 - Yassein and Minister for Immigration and Citizenship (Citizenship) [2026] ARTA 2788 - Case Summary.pdf",
@@ -9734,6 +10033,22 @@
     "dis.3.1"
    ],
    "dupe": "year11zahidvministerforimmigrationandcitizenship2026fedcfamc2g2273casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Year 11/Year 11 - Ziemniak & Smets [2026] FedCFamC1F 683 - Case Summary.pdf",
+   "name": "Year 11 - Ziemniak & Smets [2026] FedCFamC1F 683 - Case Summary",
+   "file": "Year 11 - Ziemniak & Smets [2026] FedCFamC1F 683 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 275080,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.5"
+   ],
+   "dupe": "year11ziemniaksmets2026fedcfamc1f683casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -10296,6 +10611,22 @@
     "family"
    ],
    "dupe": "curtinbush2026fedcfamc2f1021",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Cyrilla & Cyrilla [2026] FedCFamC1F 698 - Case Summary.pdf",
+   "name": "Cyrilla & Cyrilla [2026] FedCFamC1F 698 - Case Summary",
+   "file": "Cyrilla & Cyrilla [2026] FedCFamC1F 698 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 310352,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.5"
+   ],
+   "dupe": "cyrillacyrilla2026fedcfamc1f698casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -11553,6 +11884,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Ridley & Hanegan [2026] FedCFamC1F 695 - Case Summary.pdf",
+   "name": "Ridley & Hanegan [2026] FedCFamC1F 695 - Case Summary",
+   "file": "Ridley & Hanegan [2026] FedCFamC1F 695 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 302519,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.2",
+    "fam.3.2"
+   ],
+   "dupe": "ridleyhanegan2026fedcfamc1f695casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Robustelli & Dustin (No 3) [2026] FedCFamC1F 628 - Case Summary.pdf",
    "name": "Robustelli & Dustin (No 3) [2026] FedCFamC1F 628 - Case Summary",
    "file": "Robustelli & Dustin (No 3) [2026] FedCFamC1F 628 - Case Summary.pdf",
@@ -12049,6 +12397,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Family/Yaramaka & Missouni [2026] FedCFamC1F 588 - Case Summary.pdf",
+   "name": "Yaramaka & Missouni [2026] FedCFamC1F 588 - Case Summary",
+   "file": "Yaramaka & Missouni [2026] FedCFamC1F 588 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 302850,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.1.2",
+    "fam.2.2"
+   ],
+   "dupe": "yaramakamissouni2026fedcfamc1f588casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Family/Yonkers & Ramires [2026] FedCFamC1F 717 - Case Summary.pdf",
    "name": "Yonkers & Ramires [2026] FedCFamC1F 717 - Case Summary",
    "file": "Yonkers & Ramires [2026] FedCFamC1F 717 - Case Summary.pdf",
@@ -12095,6 +12460,22 @@
     "family"
    ],
    "dupe": "zeelanabneyno32026fedcfamc1f605casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Family/Ziemniak & Smets [2026] FedCFamC1F 683 - Case Summary.pdf",
+   "name": "Ziemniak & Smets [2026] FedCFamC1F 683 - Case Summary",
+   "file": "Ziemniak & Smets [2026] FedCFamC1F 683 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 304370,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "fam.2.5"
+   ],
+   "dupe": "ziemniaksmets2026fedcfamc1f683casesummary",
    "copyOf": null,
    "primary": true
   },
@@ -13785,6 +14166,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/Gavin Brown (a pseudonym) v R [2026] NSWCCA 193 - Case Summary.pdf",
+   "name": "Gavin Brown (a pseudonym) v R [2026] NSWCCA 193 - Case Summary",
+   "file": "Gavin Brown (a pseudonym) v R [2026] NSWCCA 193 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 299460,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.5",
+    "crime.4.3"
+   ],
+   "dupe": "gavinbrownapseudonymvr2026nswcca193casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/Givens v R [2026] NSWCCA 191 - Case Summary.pdf",
    "name": "Givens v R [2026] NSWCCA 191 - Case Summary",
    "file": "Givens v R [2026] NSWCCA 191 - Case Summary.pdf",
@@ -14289,6 +14687,56 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/R v Beaumont Lamarre-Condon (No 6) [2026] NSWSC 1386 - Case Summary.pdf",
+   "name": "R v Beaumont Lamarre-Condon (No 6) [2026] NSWSC 1386 - Case Summary",
+   "file": "R v Beaumont Lamarre-Condon (No 6) [2026] NSWSC 1386 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 290341,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7",
+    "crime.3.3"
+   ],
+   "dupe": "rvbeaumontlamarrecondonno62026nswsc1386casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Bell (No 2) [2026] NSWSC 1467 - Case Summary.pdf",
+   "name": "R v Bell (No 2) [2026] NSWSC 1467 - Case Summary",
+   "file": "R v Bell (No 2) [2026] NSWSC 1467 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 327477,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.2"
+   ],
+   "dupe": "rvbellno22026nswsc1467casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Bell [2026] NSWSC 546 - Case Summary.pdf",
+   "name": "R v Bell [2026] NSWSC 546 - Case Summary",
+   "file": "R v Bell [2026] NSWSC 546 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 292040,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7"
+   ],
+   "dupe": "rvbell2026nswsc546casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/R v Billings [2026] NSWSC 1088 - Case Summary.pdf",
    "name": "R v Billings [2026] NSWSC 1088 - Case Summary",
    "file": "R v Billings [2026] NSWSC 1088 - Case Summary.pdf",
@@ -14430,6 +14878,23 @@
    "primary": true
   },
   {
+   "path": "Cases/Crime/R v Franklin [2026] NSWDC 428 - Case Summary.pdf",
+   "name": "R v Franklin [2026] NSWDC 428 - Case Summary",
+   "file": "R v Franklin [2026] NSWDC 428 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 302911,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.4.3",
+    "crime.4.6"
+   ],
+   "dupe": "rvfranklin2026nswdc428casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Cases/Crime/R v Haouchar [2026] NSWDC 417 - Case Summary.pdf",
    "name": "R v Haouchar [2026] NSWDC 417 - Case Summary",
    "file": "R v Haouchar [2026] NSWDC 417 - Case Summary.pdf",
@@ -14511,6 +14976,71 @@
     "crime.3.4"
    ],
    "dupe": "rvkirby2026nswsc1444casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Lamarre-Condon (No 3) [2026] NSWSC 1357 - Case Summary.pdf",
+   "name": "R v Lamarre-Condon (No 3) [2026] NSWSC 1357 - Case Summary",
+   "file": "R v Lamarre-Condon (No 3) [2026] NSWSC 1357 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 309120,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7"
+   ],
+   "dupe": "rvlamarrecondonno32026nswsc1357casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Lamarre-Condon (No 4) [2026] NSWSC 1367 - Case Summary.pdf",
+   "name": "R v Lamarre-Condon (No 4) [2026] NSWSC 1367 - Case Summary",
+   "file": "R v Lamarre-Condon (No 4) [2026] NSWSC 1367 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 296022,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7"
+   ],
+   "dupe": "rvlamarrecondonno42026nswsc1367casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Lamarre-Condon (No 8) [2026] NSWSC 1449 - Case Summary.pdf",
+   "name": "R v Lamarre-Condon (No 8) [2026] NSWSC 1449 - Case Summary",
+   "file": "R v Lamarre-Condon (No 8) [2026] NSWSC 1449 - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 291534,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7"
+   ],
+   "dupe": "rvlamarrecondonno82026nswsc1449casesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Cases/Crime/R v Lamarre-Condon (Nos 1 to 9) [2026] NSWSC - Case Summary.pdf",
+   "name": "R v Lamarre-Condon (Nos 1 to 9) [2026] NSWSC - Case Summary",
+   "file": "R v Lamarre-Condon (Nos 1 to 9) [2026] NSWSC - Case Summary.pdf",
+   "ext": "pdf",
+   "bytes": 310938,
+   "mtime": 1795725181,
+   "bucket": "evidence",
+   "kind": "case",
+   "tags": [
+    "crime.3.7",
+    "crime.3.2"
+   ],
+   "dupe": "rvlamarrecondonnos1to92026nswsccasesummary",
    "copyOf": null,
    "primary": true
   },

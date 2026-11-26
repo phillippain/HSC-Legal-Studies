@@ -1059,3 +1059,35 @@ Shelter/Evidence Sheets/Shelter - Landmark Missing Off-the-Plan Deposits Evidenc
 Shelter/Evidence Sheets/Shelter - Rental Affordability Index 2026 Regional NSW Fourth Summary Evidence Summary.pdf | shel.3.1
 Shelter/Evidence Sheets/Shelter - Unhealthy Housing Mould and Rental Standards Evidence Summary.pdf | shel.2.2, shel.1.2
 Preliminary/Year 11 - Parkinson Temporary Visa Cap Third Summary Evidence Summary.pdf | exp.4.2
+Cases/Year 11/Year 11 - 2308340 (Migration) and Minister for Immigration and Citizenship [2026] ARTA 2870 - Case Summary.pdf | dis.3.4, dis.3.1
+Cases/Year 11/Year 11 - Cyrilla & Cyrilla [2026] FedCFamC1F 698 - Case Summary.pdf | fam.2.5
+Cases/Year 11/Year 11 - Gavin Brown (a pseudonym) v R [2026] NSWCCA 193 - Case Summary.pdf | crime.4.5, crime.4.3
+Cases/Year 11/Year 11 - Harlow & Harlow (No 5) [2026] FedCFamC1F 663 - Case Summary.pdf | dis.2.5
+Cases/Year 11/Year 11 - Law v Fenix Freighters Pty Ltd (in liq) (No 3) [2026] FedCFamC2G 2330 - Case Summary.pdf | dis.2.7, dis.2.1
+Cases/Year 11/Year 11 - Lucas v Commissioner for Fair Trading [2026] NSWCATAP 391 - Case Summary.pdf | dis.3.4, dis.2.5
+Cases/Year 11/Year 11 - Mihova & Mihova (No 8) [2026] FedCFamC1F 709 - Case Summary.pdf | dis.2.5
+Cases/Year 11/Year 11 - R v Bell [2026] NSWSC 546 - Case Summary.pdf | crime.3.7
+Cases/Year 11/Year 11 - R v Bell (No 2) [2026] NSWSC 1467 - Case Summary.pdf | crime.4.3, crime.4.2
+Cases/Year 11/Year 11 - R v Franklin [2026] NSWDC 428 - Case Summary.pdf | crime.4.3, crime.4.6
+Cases/Year 11/Year 11 - R v Lamarre-Condon (No 3) [2026] NSWSC 1357 - Case Summary.pdf | crime.3.7
+Cases/Year 11/Year 11 - R v Lamarre-Condon (No 4) [2026] NSWSC 1367 - Case Summary.pdf | crime.3.7
+Cases/Year 11/Year 11 - R v Beaumont Lamarre-Condon (No 6) [2026] NSWSC 1386 - Case Summary.pdf | crime.3.7, crime.3.3
+Cases/Year 11/Year 11 - R v Lamarre-Condon (No 8) [2026] NSWSC 1449 - Case Summary.pdf | crime.3.7
+Cases/Year 11/Year 11 - R v Lamarre-Condon (Nos 1 to 9) [2026] NSWSC - Case Summary.pdf | crime.3.7, crime.3.2
+Cases/Year 11/Year 11 - Ridley & Hanegan [2026] FedCFamC1F 695 - Case Summary.pdf | fam.2.2, fam.3.2
+Cases/Year 11/Year 11 - Ziemniak & Smets [2026] FedCFamC1F 683 - Case Summary.pdf | fam.2.5
+Cases/Year 11/Year 11 - Odalis & Odalis (No 3) [2026] FedCFamC1F 720 - Case Summary.pdf | inv.1.6, inv.4.3
+Cases/Year 11/Year 11 - Yaramaka & Missouni [2026] FedCFamC1F 588 - Case Summary.pdf | fam.1.2, fam.2.2
+Cases/Crime/R v Bell [2026] NSWSC 546 - Case Summary.pdf | crime.3.7
+Cases/Crime/R v Lamarre-Condon (No 8) [2026] NSWSC 1449 - Case Summary.pdf | crime.3.7
+Cases/Crime/R v Lamarre-Condon (No 3) [2026] NSWSC 1357 - Case Summary.pdf | crime.3.7
+Cases/Crime/R v Lamarre-Condon (No 4) [2026] NSWSC 1367 - Case Summary.pdf | crime.3.7
+Cases/Crime/R v Beaumont Lamarre-Condon (No 6) [2026] NSWSC 1386 - Case Summary.pdf | crime.3.7, crime.3.3
+Cases/Crime/R v Lamarre-Condon (Nos 1 to 9) [2026] NSWSC - Case Summary.pdf | crime.3.7, crime.3.2
+Cases/Crime/R v Franklin [2026] NSWDC 428 - Case Summary.pdf | crime.4.3, crime.4.6
+Cases/Crime/Gavin Brown (a pseudonym) v R [2026] NSWCCA 193 - Case Summary.pdf | crime.4.5, crime.4.3
+Cases/Crime/R v Bell (No 2) [2026] NSWSC 1467 - Case Summary.pdf | crime.4.3, crime.4.2
+Cases/Family/Yaramaka & Missouni [2026] FedCFamC1F 588 - Case Summary.pdf | fam.1.2, fam.2.2
+Cases/Family/Cyrilla & Cyrilla [2026] FedCFamC1F 698 - Case Summary.pdf | fam.2.5
+Cases/Family/Ziemniak & Smets [2026] FedCFamC1F 683 - Case Summary.pdf | fam.2.5
+Cases/Family/Ridley & Hanegan [2026] FedCFamC1F 695 - Case Summary.pdf | fam.2.2, fam.3.2
