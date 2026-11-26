@@ -1,6 +1,706 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "days": [
+  {
+   "date": "2026-11-27",
+   "since": "2026-11-26",
+   "new": 27,
+   "updated": 7,
+   "groups": [
+    {
+     "key": "crime",
+     "label": "Crime",
+     "part": "HSC Core Part I",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "nsw-adult-crime-adult-time-pledge-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Adult crime, adult time: what the NSW pledge would change (Legal 500, 24 November 2026)",
+       "summary": "A law firm explainer sets out what a Coalition pledge would change by sending more children to adult sentencing, noting Queensland's 'adult time' list grew from 13 to 47 offences while the UN Convention on the Rights of the Child treats detention as a last resort. Use it for penalties for children and evidence from Queensland; the pledge has no published bill.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Penalties for children",
+        "Children's Court"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nsw-adult-crime-adult-time-pledge-2026",
+       "document_url": "https://drive.google.com/file/d/1A_Zrk_iO42bOeVY7HGqth2Qtpbm_PtYD/view",
+       "document11_url": null,
+       "source": "https://www.legal500.com/intelligence/australia/criminal-law/adult-crime-adult-time-laws-in-nsw"
+      },
+      {
+       "id": "qld-dv-attempted-murder-bail-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Bail granted on DV attempted murder charges over weak case (ABC, 26 November 2026)",
+       "summary": "A woman charged with attempting to murder two boys got bail despite a reverse onus because the prosecution case was weak and pre-trial custody long, and the charges are unproven. Use it for bail discretion in serious domestic violence cases, balancing the presumption of innocence against community safety.",
+       "note": "Content note: this item involves a death or killing and family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Bail or remand"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-qld-dv-attempted-murder-bail-2026",
+       "document_url": "https://drive.google.com/file/d/1LV3azjmwq7K1f1WWYi2wNClNWl16UXBA/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-26/qld-noxious-substance-attempted-murder/107430146"
+      },
+      {
+       "id": "gavin-brown-v-r-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Gavin Brown v R [2026] NSWCCA 193 — assessing each offence, not the whole course of conduct",
+       "summary": "The Court of Criminal Appeal resentenced a man from 10 years to 7 years 6 months after the Crown conceded the judge assessed the whole course of conduct rather than each offence. Use it for successful sentence appeals.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Appeals",
+        "Factors affecting a sentencing decision"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-gavin-brown-v-r-2026",
+       "document_url": "https://drive.google.com/file/d/1BMp8_xtWarj9xgqQ8QnOEQaR6Ioi7umh/view",
+       "document11_url": "https://drive.google.com/file/d/15ZB4fYkQIIqYpOcyUcP7n231TvRPjhpL/view",
+       "source": ""
+      },
+      {
+       "id": "nsw-luring-hate-crime-offences-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "New NSW luring offence targets dating-app 'bait and bash' attacks (Legal 500, 24 November 2026)",
+       "summary": "A new NSW luring offence, carrying up to 5 years, is complete at the lure before any assault and targets dating-app 'bait and bash' attacks, while s 93Z penalties rise to 7 years if aggravated. Use it for hate crimes as a category and whether higher penalties prevent crime; the source is a law firm explainer.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Categories of crime",
+        "Crime prevention: situational and social"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nsw-luring-hate-crime-offences-2026",
+       "document_url": "https://drive.google.com/file/d/1ss0EakllpEKVv9xFp_HkeGjCZmO4pi4_/view",
+       "document11_url": null,
+       "source": "https://www.legal500.com/intelligence/australia/criminal-law/new-luring-offences-in-nsw-hate-crime-reforms-explained"
+      },
+      {
+       "id": "r-v-bell-no2-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Bell (No 2) [2026] NSWSC 1467 — sentencing a 21-year-old on parole for murder",
+       "summary": "A 21-year-old on parole who killed a neighbour in a fight was sentenced to 20 years 10 months with a 13-year non-parole period because there was no planning and deprivation and youth reduced culpability. Use it for subjective factors in a murder sentence.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Factors affecting a sentencing decision",
+        "The purposes of punishment"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-bell-no2-2026",
+       "document_url": "https://drive.google.com/file/d/14mbgLOhzyzhIS1HnAR5gERawWKOkpkQx/view",
+       "document11_url": "https://drive.google.com/file/d/1hBdPSfyR3aFQk4rAiQcZZlTNaaJd54_a/view",
+       "source": ""
+      },
+      {
+       "id": "r-v-bell-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Bell [2026] NSWSC 546 — lies to police excluded under s 137",
+       "summary": "The Supreme Court excluded the accused's lies to police under s 137 because explaining them would reveal prison and parole, which directions could not cure. Use it for excluding evidence to protect a fair trial; this appears to be the same matter as R v Bell (No 2).",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Use of evidence, including witnesses"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-bell-2026",
+       "document_url": "https://drive.google.com/file/d/1FGn8nH5Pszd02wy_4FMrG9rdnsyXnjPz/view",
+       "document11_url": "https://drive.google.com/file/d/1YNrpvEMYsjTd8KmvhJvFVDTvnjnrKozo/view",
+       "source": ""
+      },
+      {
+       "id": "r-v-franklin-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Franklin [2026] NSWDC 428 — firearms and MDMA sold to a police witness: 6 years 6 months",
+       "summary": "While on a community order, a man sold 701.8g of MDMA and four firearms, including three privately made submachine guns, to a police witness and received an aggregate 6 years 6 months with a 4-year-4-month non-parole period. Use it for aggravating factors such as offending on a community order, and aggregate sentences.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Factors affecting a sentencing decision",
+        "Types of penalties"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-franklin-2026",
+       "document_url": "https://drive.google.com/file/d/1W5-lCvg7dlUmBOy-6YhNezsw1QqAEq9Q/view",
+       "document11_url": "https://drive.google.com/file/d/1OEVOWZ05fff5ibd_e7ZPXPIqM8QJX-HI/view",
+       "source": ""
+      },
+      {
+       "id": "r-v-lamarre-condon-no3-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Lamarre-Condon (No 3) [2026] NSWSC 1357 — video-link evidence for two unwell witnesses",
+       "summary": "Two Crown witnesses with serious mental illness said they could not testify in court, and the judge ruled both would give evidence by audio-visual link with a support person, with no unfairness. Use it for protecting vulnerable witnesses; it is a ruling during the trial.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Use of evidence, including witnesses"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-lamarre-condon-no3-2026",
+       "document_url": "https://drive.google.com/file/d/1ZHB38_Oa0JPL9Y0SOXrhTRRkHHj37nTQ/view",
+       "document11_url": "https://drive.google.com/file/d/1yl1bDxY2kYyi-7uI_ZNMI26OwGvR-Ojl/view",
+       "source": ""
+      },
+      {
+       "id": "r-v-lamarre-condon-no4-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Lamarre-Condon (No 4) [2026] NSWSC 1367 — no convictions, but no claim to good character on violence",
+       "summary": "The judge ruled the accused could tell the jury he had no convictions without raising good character, so the Crown could not reply with witnesses or taser footage, but he could not claim good character on violence. Use it for character evidence; it is a ruling during the trial.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Use of evidence, including witnesses"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-lamarre-condon-no4-2026",
+       "document_url": "https://drive.google.com/file/d/1CxTwI6sjJ_G1OhtPx_saKqeCjyA1yAYS/view",
+       "document11_url": "https://drive.google.com/file/d/1gaEGz-QRN5e99bL3SYMmKpayYY-kcs7Z/view",
+       "source": ""
+      },
+      {
+       "id": "r-v-lamarre-condon-no6-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Lamarre-Condon (No 6) [2026] NSWSC 1386 — privilege waived by using part of a file note",
+       "summary": "Defence counsel cross-examined a Crown witness using a redacted lawyer's file note, and the judge held privilege was waived over the whole note because the redacted parts covered the same subjects. Use it for client legal privilege and the role of defence counsel.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Use of evidence, including witnesses",
+        "Legal personnel"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-lamarre-condon-no6-2026",
+       "document_url": "https://drive.google.com/file/d/1zF3WB6TRWGCRUU8jn3Tp1d7MynfTCsLF/view",
+       "document11_url": "https://drive.google.com/file/d/1xONBupTwHEpKGwLMLfp8lXxU2WiQlkCl/view",
+       "source": ""
+      },
+      {
+       "id": "r-v-lamarre-condon-no8-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Lamarre-Condon (No 8) [2026] NSWSC 1449 — a recorded remark admissible as a possible admission",
+       "summary": "The judge ruled that part of a recorded conversation with a friend in custody was admissible because it could be an admission, was not unfairly prejudicial and did not trigger s 137. Use it for admissions and unfair prejudice.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Use of evidence, including witnesses"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-lamarre-condon-no8-2026",
+       "document_url": "https://drive.google.com/file/d/1njOpbqlFYNY-es_ZSreDtqtX6vq5T2g_/view",
+       "document11_url": "https://drive.google.com/file/d/1-9AYwBB9JU5rKv5IQOWmu1xQe4E8h-De/view",
+       "source": ""
+      },
+      {
+       "id": "r-v-lamarre-condon-rulings-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "R v Lamarre-Condon (Nos 1 to 9) [2026] NSWSC — nine trial rulings on what a jury may see and hear",
+       "summary": "Nine interlocutory rulings in the double murder trial cover a view, video-link evidence, character, a non-publication order, privilege, leading questions, admissions and relationship evidence. Use it for the rules of evidence in a real trial and the judge as umpire; the guilty verdict is recorded on the media card.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Use of evidence, including witnesses",
+        "The adversary system"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-r-v-lamarre-condon-rulings-2026",
+       "document_url": "https://drive.google.com/file/d/1raevU3tANLndRw6veu8CdZV5fhhRX1JG/view",
+       "document11_url": "https://drive.google.com/file/d/1YXhuKrflkRhC24EW2Ou40fUjB53UUa0R/view",
+       "source": ""
+      },
+      {
+       "id": "schoolies-bashing-bail-remand-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Teens remanded over alleged schoolies bashing: bail on trial (ABC, 25 November 2026)",
+       "summary": "Eleven teenagers were charged over an alleged schoolies bashing and seven were remanded, with those aged 17 and those aged 18 to 19 facing different bail laws for the same charge. Use it for children and bail and young people's contact with courts; the allegations are unproven.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Children's Court",
+        "Bail or remand"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-schoolies-bashing-bail-remand-2026",
+       "document_url": "https://drive.google.com/file/d/1M-TUofOWcEP3V9L5lw6O8hqrNt1xN8qM/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-25/qld-schoolies-grievous-bodily-harm-bashing-court/107424536"
+      },
+      {
+       "id": "lamarre-condon-murder-trial-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Ex-officer's double murder trial tests self-defence law (ABC, 3 November 2026)",
+       "summary": "The card now links a second class summary of the verdict report, adding that the jury began at 12 and the trial ran about 10 weeks, and links the nine trial rulings. It now connects the verdict to the evidence rulings that shaped the trial.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-04",
+       "core_labels": [
+        "Defences to criminal charges",
+        "Burden and standard of proof",
+        "The role of juries, including verdicts"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lamarre-condon-murder-trial-2026",
+       "document_url": "https://drive.google.com/file/d/1TiNOqw-2rZx-L9d1b-dXmtgQXtqUzOpN/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-03/beau-lamarre-condon-told-police-not-a-bad-person/107342440"
+      },
+      {
+       "id": "nt-castle-law-proposal-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "NT government confirms it is considering a 'castle law' (ABC, 25 November 2026)",
+       "summary": "The card now links a second class summary adding NT house break-in numbers, 1,734 in the 12 months to May 2026, and noting two private member's castle law bills in Queensland. It now gives more evidence for weighing fear of crime against the protection of life.",
+       "note": "",
+       "added": "2026-11-26",
+       "core_labels": [
+        "Defences to criminal charges"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nt-castle-law-proposal-2026",
+       "document_url": "https://drive.google.com/file/d/1MpzqjFunU4ngtCa0PJdXqMpmR5Itzr3j/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-25/nt-clp-government-considering-castle-law/107425492"
+      }
+     ]
+    },
+    {
+     "key": "humanrights",
+     "label": "Human Rights",
+     "part": "HSC Core Part II",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "national-commissioner-first-nations-children-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "First Nations children's commissioner vows to grade governments (ABC, 25 November 2026)",
+       "summary": "The first National Commissioner for First Nations children says removals never stopped and 1,600 recommendations sit unimplemented, and she will grade every government each year. Use it for a new independent statutory authority and Indigenous children's rights, noting its powers are monitoring, not enforcement.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "The role of courts, tribunals and indep…",
+        "A contemporary issue illustrating the p…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-national-commissioner-first-nations-children-2026",
+       "document_url": "https://drive.google.com/file/d/1SvdLjvIChQQR8yQTV3B0QjqyjO03ZluC/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-25/indigenous-children-commissioner-calls-government-accountable/107421074"
+      },
+      {
+       "id": "digital-duty-of-care-bill-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Digital duty of care bill: could Australians sue big tech? — passes the House; faith groups push for a right to sue (2026)",
+       "summary": "The card now links a second class summary of the Labor-Greens deal, adding a 12-month transition before the duty and the right to sue commence. It now shows the timetable for the new right to sue.",
+       "note": "",
+       "added": "2026-10-16",
+       "core_labels": [
+        "A contemporary issue illustrating the p…",
+        "The role of statute law",
+        "chg.6"
+       ],
+       "also": [
+        "changing"
+       ],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-digital-duty-of-care-bill-2026",
+       "document_url": "https://drive.google.com/file/d/1fatNv109KDMurKgG3Dm3_6Ee0lVgi5nJ/view",
+       "document11_url": null,
+       "source": "https://www.smh.com.au/politics/federal/the-new-legal-weapon-aimed-at-big-tech-20261109-p61cbr.html"
+      }
+     ]
+    },
+    {
+     "key": "family",
+     "label": "Family",
+     "part": "HSC Option 3",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "cyrilla-cyrilla-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Cyrilla & Cyrilla [2026] FedCFamC1F 698 — restraining a law firm to protect the appearance of justice",
+       "summary": "A wife's former solicitor joined her ex-husband's firm, and the court found no breach of confidence but restrained the firm to protect the appearance of justice. Use it for courts managing fairness for self-represented parties.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "The roles of courts and dispute resolut…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-cyrilla-cyrilla-2026",
+       "document_url": "https://drive.google.com/file/d/1mESDmHZUsUYgfA0tsX1wmDuS_2KM3zSI/view",
+       "document11_url": "https://drive.google.com/file/d/1K_-TLauUpVyjIE8YmeKxJ2yovMSt89-r/view",
+       "source": ""
+      },
+      {
+       "id": "nt-child-protection-consultation-paper-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "NT floats further child protection changes after July overhaul (ABC, 25 November 2026)",
+       "summary": "NT options would cut court oversight of contact and kinship, let workers seek domestic violence orders and open adoption, after the Child Placement Principle was weakened in July, and about 90% of NT children in care are Indigenous. Use it for the care and protection of Indigenous children, and family and culture versus permanency; these are options only.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Care and protection of children"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-nt-child-protection-consultation-paper-2026",
+       "document_url": "https://drive.google.com/file/d/1OIOugKxluq2qalqNle_MHw5zMITurAW5/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-25/indigenous-advocates-concerned-about-child-protection-overhaul/107424898"
+      },
+      {
+       "id": "ridley-hanegan-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Ridley & Hanegan [2026] FedCFamC1F 695 — a 16-year-old's refusal and the least worst option",
+       "summary": "A 16-year-old refused to live with her father and made a complaint the court found fabricated, so the court chose the least worst option of living with her grandparents, with injunctions and treatment. Use it for children's views at 16 and evolving capacity.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Legal consequences of separation",
+        "The changing nature of parental respons…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-ridley-hanegan-2026",
+       "document_url": "https://drive.google.com/file/d/1Ux0bgtY1BnZO2Fwj2-H-nRLM0TZ8Wvgg/view",
+       "document11_url": "https://drive.google.com/file/d/140ACgmUCcqIQtgCM7hs5eDy32KgGWXvX/view",
+       "source": ""
+      },
+      {
+       "id": "yaramaka-missouni-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Yaramaka & Missouni [2026] FedCFamC1F 588 — no parenting orders for a child habitually resident in India",
+       "summary": "A mother sought parenting orders for a child who has always lived in India, and the court held Part XIIIAA bars them, though a parentage declaration remains possible. Use it for jurisdiction in family law and sovereignty in cross-border cases.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "State and federal jurisdiction in famil…",
+        "Legal consequences of separation"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-yaramaka-missouni-2026",
+       "document_url": "https://drive.google.com/file/d/1dCOWQdlqYbZD_I__1ntRZoWLJxB4ONJp/view",
+       "document11_url": "https://drive.google.com/file/d/1IBda9BRBH-bi7RjweoO9rubnj3aLe6gF/view",
+       "source": ""
+      },
+      {
+       "id": "ziemniak-smets-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Ziemniak & Smets [2026] FedCFamC1F 683 — no discharge of the Independent Children's Lawyer",
+       "summary": "A self-represented mother sought to discharge the Independent Children's Lawyer for misreporting and collusion, and the court dismissed it because there was no evidence. Use it for the role of the Independent Children's Lawyer.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "The roles of courts and dispute resolut…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-ziemniak-smets-2026",
+       "document_url": "https://drive.google.com/file/d/1kwJIL0EsQzDxjUQn-0rdNavyfKItVUbR/view",
+       "document11_url": "https://drive.google.com/file/d/1dCFuJS4g0QxZEMg6rU3v0NACAZonsmJP/view",
+       "source": ""
+      },
+      {
+       "id": "wa-coercive-control-offence-plan-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "WA promises coercive control offence in 2027 after phased reform (ABC, 23 November 2026)",
+       "summary": "The card now links a fourth class summary adding that NSW recorded 297 incidents but laid only 9 charges in the first year of its coercive control offence. It now gives a clearer measure of how few charges followed.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-wa-coercive-control-offence-plan-2026",
+       "document_url": "https://drive.google.com/file/d/1Qzf2Ke1czX7H_XE6hhQeNlc2wDjm_NnQ/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-23/wa-government-promises-to-make-coercive-control-criminal-offence/107415816"
+      },
+      {
+       "id": "acyp-dfv-child-protection-reports-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "91,000 family violence reports, but most at-risk children unseen (ABC, 24 November 2026)",
+       "summary": "The card now links a second class summary calling the report the first NSW report to look across the whole service system at children affected by family violence. It now stresses what is new about the advocate's findings.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Care and protection of children",
+        "Dealing with domestic violence"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-acyp-dfv-child-protection-reports-2026",
+       "document_url": "https://drive.google.com/file/d/1eTNT_rku7XJL-Tiort41Q5WKabut9hKp/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-24/91000-child-protection-reports-domestic-violence-nsw-in-a-year/107404086"
+      }
+     ]
+    },
+    {
+     "key": "shelter",
+     "label": "Shelter",
+     "part": "HSC Option 5",
+     "course": "hsc",
+     "items": [
+      {
+       "id": "unhealthy-housing-mould-rental-standards-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Millions in unhealthy homes as rental standards lag on mould (ABC, 26 November 2026)",
+       "summary": "Research finds 2.5 million households in unhealthy housing, and NSW requires rentals to be fit to live in but does not name mould, heating or insulation, unlike Victoria and the ACT. Use it for adequacy of housing as part of the right to shelter and national minimum standards.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Leasing",
+        "Right to shelter"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-unhealthy-housing-mould-rental-standards-2026",
+       "document_url": "https://drive.google.com/file/d/14Xdz69GqW2Ksr8BaJtTMyq8X8k20-CcA/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-26/millions-australians-living-houses-linked-poor-health-mould/107425024"
+      },
+      {
+       "id": "landmark-missing-off-the-plan-deposits-2026",
+       "status": "new",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Off-the-plan buyers in limbo as $24m in trust deposits goes astray (ABC, 26 November 2026)",
+       "summary": "About 285 off-the-plan buyers cannot settle after $24m in trust deposits allegedly went missing, and the Fidelity Fund cap is $1m per law practice, which leaves a gap in purchaser protection. Use it for risks in buying off the plan and the limits of trust account regulation; these are allegations with no findings.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Purchasing"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-landmark-missing-off-the-plan-deposits-2026",
+       "document_url": "https://drive.google.com/file/d/1a-M1KbtyyylQiCXwHSNiyF8Xo_NwpeSr/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-26/landmark-dee-why-blacktown-projects-missing-unit-deposits-sydney/107431556"
+      },
+      {
+       "id": "rental-affordability-index-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Rents stay at crisis levels as only ACT limits rent rises (ABC, 24 November 2026)",
+       "summary": "The card now links a fourth class summary giving regional NSW's index score as 97 against Sydney's 99, and single pensioner couples at 38% of income. It now adds a regional comparison to the affordability data.",
+       "note": "",
+       "added": "2026-11-24",
+       "core_labels": [
+        "Affordability"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-rental-affordability-index-2026",
+       "document_url": "https://drive.google.com/file/d/1MCiz_APzCBqYCk83hDp-b18klUJxl9mi/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-24/rental-affordability-remains-at-crisis-levels-across-australia/107379494"
+      }
+     ]
+    },
+    {
+     "key": "investigating",
+     "label": "Investigating the law",
+     "part": "Year 11 (Preliminary) Focus area 1",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "odalis-odalis-no3-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Odalis & Odalis (No 3) [2026] FedCFamC1F 720 — subpoena to former solicitors and partial waiver",
+       "summary": "A father subpoenaed the mother's former solicitors, and the court held the documents relevant but privilege waived only over trial-mechanics emails, with advice redacted. Use it for evidence in the adversarial system.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Principles of procedural fairness",
+        "Features of the adversarial system"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-odalis-odalis-no3-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1t-8piBEcAfikgG2ZrFMqh00piORJrHXh/view",
+       "source": ""
+      }
+     ]
+    },
+    {
+     "key": "disputes",
+     "label": "Disputes under the law",
+     "part": "Year 11 (Preliminary) Focus area 2",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "migration-2308340-2026-arta-2870",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "2308340 (Migration) [2026] ARTA 2870 — a partner visa and a relationship not found genuine",
+       "summary": "A man's partner visa was refused because, although the marriage was valid, thin financial, household and social evidence meant the relationship was not genuine and continuing, and the family violence claim failed for lack of a declaration. Use it for merits review of visa decisions.",
+       "note": "Content note: this item involves family or domestic violence. The summary describes the legal decision only.",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "The purpose and characteristics of admi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-migration-2308340-2026-arta-2870",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1eZyCgcbbHDgonlofi-oASFQ5tzVRJb7B/view",
+       "source": ""
+      },
+      {
+       "id": "harlow-harlow-no5-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Harlow & Harlow (No 5) [2026] FedCFamC1F 663 — a non-party son pays indemnity costs",
+       "summary": "After a husband died mid-case, his adult son who was not a party tried to halt the trial and sale, lost every application and must pay $87,538 in indemnity costs from his estate share. Use it for court procedure and costs.",
+       "note": "Content note: this item involves a death or killing. The summary describes the legal decision only.",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Procedures in NSW tribunals and civil c…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-harlow-harlow-no5-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/13U-BUB2-miBZHbw3fydjEfCFdoTeMw5S/view",
+       "source": ""
+      },
+      {
+       "id": "law-v-fenix-freighters-no3-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Law v Fenix Freighters (No 3) [2026] FedCFamC2G 2330 — directors pay unpaid truck drivers and penalties",
+       "summary": "Two truck drivers were not paid leave, super or notice, and with the employer in liquidation two directors were ordered to pay compensation and penalties of $16,000 to $22,500 each. Use it for compensation and civil penalties as remedies.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Types and aims of remedies",
+        "The purpose and characteristics of civi…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-law-v-fenix-freighters-no3-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1CZL1l9MSAIg4DbfvTAHO6I45lwXtt8L7/view",
+       "source": ""
+      },
+      {
+       "id": "lucas-v-commissioner-fair-trading-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Lucas v Commissioner for Fair Trading [2026] NSWCATAP 391 — dishonesty convictions and a refused real estate licence",
+       "summary": "A woman sober since 2024 sought a real estate licence, but five dishonesty convictions left her a disqualified person, and the Appeal Panel found no legal error and refused leave to appeal. Use it for tribunal appeals.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Addressing disputes through government…",
+        "Procedures in NSW tribunals and civil c…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-lucas-v-commissioner-fair-trading-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1Lo0_9dFyCQAdb18EeNC-MTE4ykbFcbsl/view",
+       "source": ""
+      },
+      {
+       "id": "mihova-mihova-no8-2026",
+       "status": "new",
+       "type": "case",
+       "type_label": "Case law",
+       "title": "Mihova & Mihova (No 8) [2026] FedCFamC1F 709 — choosing a forensic document examiner",
+       "summary": "The parties could not agree on one forensic document examiner, and because the wife had not complied with orders and raised fingerprints late, the company's preferred examiner was appointed. Use it for case management and expert evidence.",
+       "note": "",
+       "added": "2026-11-27",
+       "core_labels": [
+        "Procedures in NSW tribunals and civil c…"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-mihova-mihova-no8-2026",
+       "document_url": null,
+       "document11_url": "https://drive.google.com/file/d/1JY1aZlHThSCU3AaI_JgU83Fkg3vsO-Iz/view",
+       "source": ""
+      }
+     ]
+    },
+    {
+     "key": "experiences",
+     "label": "Experiences with the law",
+     "part": "Year 11 (Preliminary) Focus area 4",
+     "course": "preliminary",
+     "items": [
+      {
+       "id": "parkinson-temporary-visa-cap-2026",
+       "status": "updated",
+       "type": "media",
+       "type_label": "Media",
+       "title": "Parkinson calls for purpose-based cap on temporary visa holders (ABC, 24 November 2026)",
+       "summary": "The card now links a third class summary adding that there were 2.81 million temporary visa holders at 30 June 2026 and that 6 in 7 underpaid temporary workers surveyed never tried to recover wages. It now gives the scale of temporary migration and a barrier to justice in recovering wages.",
+       "note": "",
+       "added": "2026-11-25",
+       "core_labels": [
+        "Reasons for encountering the legal syst…",
+        "Barriers to achieving justice"
+       ],
+       "also": [],
+       "card_url": "https://phillippain.github.io/HSC-Legal-Studies/evidence.html#ev-parkinson-temporary-visa-cap-2026",
+       "document_url": "https://drive.google.com/file/d/1SZyw-UYts0HXohrh2Up44edz4PoyrlRA/view",
+       "document11_url": null,
+       "source": "https://www.abc.net.au/news/2026-11-24/martin-parkinson-calls-for-cap-on-temporary-visa-holders/107423044"
+      }
+     ]
+    }
+   ]
+  },
   {
    "date": "2026-11-26",
    "since": "2026-11-25",
