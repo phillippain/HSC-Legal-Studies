@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-24/91000-child-protection-reports-do
 related: children-and-young-persons-care-and-protection-act-1998, care-and-protection-of-children-evidence-sheet
 added: 2026-11-25
 added_at: 2026-11-25 07:24
-updated_at: 2026-11-25 07:24
+updated_at: 2026-11-27 07:10
 ---
 
 Advocate Katherine McKernan's report, tabled on 20 November 2026, found about 66,000 of the 91,000+ DFV-related reports were screened in as risk of significant harm (ROSH). Police recorded more than 12,000 children as DV victim-survivors in the year to March 2026.
@@ -27,6 +27,8 @@ Advocate Katherine McKernan's report, tabled on 20 November 2026, found about 66
 | s 27: mandatory reporters must report ROSH | 91,000+ DFV-related reports |
 | s 23(d): living with DV can be ROSH | About 66,000 screened in |
 | s 30: Secretary must investigate and assess | About 48,000 (about 73%) closed with no caseworker |
+
+A [second class summary](https://drive.google.com/file/d/1B-8qxwLIvLmicXUGObBVA2lDIdQnNQYj/view) of the same ABC report calls it the first NSW report to look across the whole service system at children affected by DFV.
 
 ## Use it for
 

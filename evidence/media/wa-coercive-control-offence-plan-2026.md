@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-23/wa-government-promises-to-make-co
 related: coercive-control-nsw-full-explainer-2026, bocsar-coercive-control-june-2026
 added: 2026-11-24
 added_at: 2026-11-24 08:19
-updated_at: 2026-11-26 08:23
+updated_at: 2026-11-27 07:10
 ---
 
 Premier Roger Cook, Attorney General Tony Buti and Minister Jessica Stojkovski announced a bill for a standalone offence in 2027, within a $121m 2026 family and domestic violence package ($66.1m new money). WA has not released the offence's elements.
@@ -33,6 +33,8 @@ A [second class summary of the same ABC report](https://drive.google.com/file/d/
 
 A [third class summary](https://drive.google.com/file/d/1G0wSdpVWcxhlLs6DtNnsKDyszWoe3Tf2/view) covers the same announcement, made at a 16 Days in WA event, and the government statement republished by National Tribune.
 
+
+A [fourth class summary](https://drive.google.com/file/d/1-ioxOH3jWN1MRI_7icTsz2CxBhufmqrD/view) adds that NSW recorded 297 incidents but laid only 9 charges in the first year of s 54D.
 
 ## Use it for
 

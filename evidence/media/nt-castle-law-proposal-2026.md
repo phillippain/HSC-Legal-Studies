@@ -15,7 +15,7 @@ source: https://www.abc.net.au/news/2026-11-25/nt-clp-government-considering-cas
 related: defences-to-criminal-charges, crimes-act-homicide-defences
 added: 2026-11-26
 added_at: 2026-11-26 08:23
-updated_at: 2026-11-26 08:23
+updated_at: 2026-11-27 07:10
 ---
 
 Chief Minister Lia Finocchiaro confirmed the government is looking at an explicit castle law. Professor Tyrone Kirchengast commented on the risks. NT house break-ins fell 24% in the year to May 2026; a Queensland petition for a castle law drew 113,380 signatures. WA and South Australia already have home-invasion defences.
@@ -26,6 +26,8 @@ Chief Minister Lia Finocchiaro confirmed the government is looking at an explici
 |---|---|
 | Conduct must be a reasonable response in the circumstances as perceived | Wider presumption for occupiers against intruders |
 | Applies anywhere | Focused on the home |
+
+A [second class summary](https://drive.google.com/file/d/1-fHqop0eZj0UpwdGsxgPJS6cTrgqBf8R/view) adds NT house break-in numbers (1,734 in the 12 months to May 2026) and notes two private member's castle law bills in Queensland (2024 and 2026).
 
 ## Use it for
 
