@@ -16400,6 +16400,23 @@
    "primary": true
   },
   {
+   "path": "Human Rights/HR - Armed Drones and Autonomous Weapons Evidence Summary.pdf",
+   "name": "HR - Armed Drones and Autonomous Weapons Evidence Summary",
+   "file": "HR - Armed Drones and Autonomous Weapons Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 211298,
+   "mtime": 1795753941,
+   "bucket": "evidence",
+   "kind": "document",
+   "tags": [
+    "hr.2.2",
+    "hr.2.3"
+   ],
+   "dupe": "hrarmeddronesandautonomousweaponsevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Human Rights/HR - Australia Sudan Human Rights Sanctions Evidence Summary.pdf",
    "name": "HR - Australia Sudan Human Rights Sanctions Evidence Summary",
    "file": "HR - Australia Sudan Human Rights Sanctions Evidence Summary.pdf",
@@ -25692,6 +25709,23 @@
    "primary": true
   },
   {
+   "path": "Crime/Media/Crime - Good Character at Sentencing Act 2026 Themed Commentary Evidence Summary.pdf",
+   "name": "Crime - Good Character at Sentencing Act 2026 Themed Commentary Evidence Summary",
+   "file": "Crime - Good Character at Sentencing Act 2026 Themed Commentary Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 208798,
+   "mtime": 1795753939,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.4.3",
+    "crime.4.1"
+   ],
+   "dupe": "crimegoodcharacteratsentencingact2026themedcommentaryevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
    "path": "Crime/Media/Crime - Griffith NSW Childcare Abuse Charges Evidence Summary.pdf",
    "name": "Crime - Griffith NSW Childcare Abuse Charges Evidence Summary",
    "file": "Crime - Griffith NSW Childcare Abuse Charges Evidence Summary.pdf",
@@ -26066,6 +26100,23 @@
     "crime.1.9"
    ],
    "dupe": "crimenswluringhatecrimeoffencesevidencesummary",
+   "copyOf": null,
+   "primary": true
+  },
+  {
+   "path": "Crime/Media/Crime - NSW Police Toll Camera and Phone Access Laws Evidence Summary.pdf",
+   "name": "Crime - NSW Police Toll Camera and Phone Access Laws Evidence Summary",
+   "file": "Crime - NSW Police Toll Camera and Phone Access Laws Evidence Summary.pdf",
+   "ext": "pdf",
+   "bytes": 207851,
+   "mtime": 1795753940,
+   "bucket": "evidence",
+   "kind": "media",
+   "tags": [
+    "crime.2.1",
+    "crime.2.3"
+   ],
+   "dupe": "crimenswpolicetollcameraandphoneaccesslawsevidencesummary",
    "copyOf": null,
    "primary": true
   },

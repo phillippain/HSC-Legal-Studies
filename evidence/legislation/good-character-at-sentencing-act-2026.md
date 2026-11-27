@@ -13,7 +13,7 @@ criteria: responsiveness, justice, rights, society
 source: https://www.parliament.nsw.gov.au/bill/files/18856/First%20Print.pdf
 related: crimes-sentencing-procedure-act-1999
 added: 2026-10-19
-updated_at: 2026-10-24 21:47
+updated_at: 2026-11-27 15:33
 ---
 
 - **What changed:** s 21A(3)(f) ('the offender was a person of good character') is removed, as is the
@@ -26,6 +26,10 @@ updated_at: 2026-10-24 21:47
   removing the factor as vague and subjective.
 - **Opposed by** the NSW Bar Association and the Aboriginal Legal Service. A review is required two
   years after commencement.
+
+## Commentary (class summary, sources Feb–Jun 2026)
+
+A [class summary drawing on LSJ, The Conversation, ABC News and nswcourts.com.au commentary](https://drive.google.com/file/d/1EPrO7uNhpuKwOHnRYaYMFuryH1SEa8U7/view) traces the reform: two bills in 2026 (sexual offences first, then all offences), the all-offences Act passed on 4 June and assented to on 23 June 2026, commencing by proclamation, with a ministerial review two years after commencement. Every jurisdiction except WA now limits good character where it aided child sexual abuse. No source gives data on how often good character is raised or how much it reduces sentences.
 
 ## Use it for
 

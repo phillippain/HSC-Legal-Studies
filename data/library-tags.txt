@@ -1091,3 +1091,6 @@ Cases/Family/Yaramaka & Missouni [2026] FedCFamC1F 588 - Case Summary.pdf | fam.
 Cases/Family/Cyrilla & Cyrilla [2026] FedCFamC1F 698 - Case Summary.pdf | fam.2.5
 Cases/Family/Ziemniak & Smets [2026] FedCFamC1F 683 - Case Summary.pdf | fam.2.5
 Cases/Family/Ridley & Hanegan [2026] FedCFamC1F 695 - Case Summary.pdf | fam.2.2, fam.3.2
+Crime/Media/Crime - NSW Police Toll Camera and Phone Access Laws Evidence Summary.pdf | crime.2.1, crime.2.3
+Human Rights/HR - Armed Drones and Autonomous Weapons Evidence Summary.pdf | hr.2.2, hr.2.3
+Crime/Media/Crime - Good Character at Sentencing Act 2026 Themed Commentary Evidence Summary.pdf | crime.4.3, crime.4.1
