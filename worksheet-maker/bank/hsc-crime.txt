@@ -1,0 +1,661 @@
+# HSC Crime (2009 syllabus). Written 28 November 2026 by Claude. Not yet reviewed.
+
+=== mc cr-mc-01
+c: crime.1.2
+lv: 1
+Q: Which term describes the mental element of a crime?
+A: Actus reus
+B: Mens rea
+C: Causation
+D: Strict liability
+ANS: B
+WHY: Mens rea is the guilty mind (intention, recklessness or criminal negligence). Actus reus is the physical act.
+
+=== mc cr-mc-02
+c: crime.1.3
+lv: 2
+Q: Why is speeding classed as a strict liability offence?
+A: The prosecution must prove the driver intended to speed
+B: It can only be heard in the District Court
+C: The prosecution only needs to prove the act, not a guilty mind
+D: No penalty can be imposed for it
+ANS: C
+WHY: Strict liability offences need proof of the actus reus only. An honest and reasonable mistake of fact can still be raised.
+
+=== mc cr-mc-03
+c: crime.1.4
+lv: 2
+LEAD: Sam punches Lee. Lee falls, hits his head and later dies in hospital from the head injury.
+Q: Which element must the prosecution prove to link Sam's punch to Lee's death?
+A: Causation
+B: Motive
+C: Recklessness
+D: Complicity
+ANS: A
+WHY: Causation requires an unbroken link between the accused's act and the harm.
+
+=== mc cr-mc-04
+c: crime.1.6
+lv: 1
+Q: Which statement about summary offences in NSW is correct?
+A: They are heard by a judge and jury in the District Court
+B: They are less serious offences heard by a magistrate in the Local Court
+C: They always begin with a committal hearing
+D: They can only be prosecuted by the Director of Public Prosecutions
+ANS: B
+WHY: Summary offences are finalised in the Local Court by a magistrate sitting alone, usually with a police prosecutor.
+
+=== mc cr-mc-05
+c: crime.1.7
+lv: 2
+LEAD: Jo keeps watch at the door while Kim robs a shop.
+Q: What is Jo's role in the crime?
+A: Principal in the first degree
+B: Accessory after the fact
+C: Accessory before the fact
+D: Principal in the second degree
+ANS: D
+WHY: A principal in the second degree is present and assists while the crime is committed. Kim, who commits the act, is the principal in the first degree.
+
+=== mc cr-mc-06
+c: crime.1.9
+lv: 1
+Q: Which of the following is an example of situational crime prevention?
+A: A parenting program for young families
+B: Extra funding for school attendance officers
+C: Better street lighting and CCTV at a train station
+D: A youth employment scheme
+ANS: C
+WHY: Situational prevention makes a crime harder or riskier to commit in a place. The other options are social prevention, which targets the causes of offending.
+
+=== mc cr-mc-07
+c: crime.2.1
+lv: 1
+Q: Which Act sets out most police powers in NSW, including search, arrest and detention?
+A: Bail Act 2013 (NSW)
+B: Evidence Act 1995 (NSW)
+C: Law Enforcement (Powers and Responsibilities) Act 2002 (NSW)
+D: Crimes (Sentencing Procedure) Act 1999 (NSW)
+ANS: C
+WHY: The Act, known as LEPRA, brought police powers together in one statute and sets safeguards on their use.
+
+=== mc cr-mc-08
+c: crime.2.5
+lv: 2
+Q: Under the Bail Act 2013 (NSW), what must a bail authority consider for every accused person?
+A: Whether the accused is likely to be found guilty
+B: Whether there is an unacceptable risk that cannot be managed by conditions
+C: Whether the victim agrees to bail
+D: Whether the accused can afford a lawyer
+ANS: B
+WHY: The unacceptable risk test asks about failing to appear, committing a serious offence, endangering safety and interfering with witnesses or evidence.
+
+=== mc cr-mc-09
+c: crime.2.6
+lv: 2
+Q: Which statement best describes the right to silence for a suspect questioned by police in NSW?
+A: A suspect must answer every question once cautioned
+B: A suspect generally need not answer questions, other than giving details such as name and address when required by law
+C: The right applies only to people under 18
+D: The right is lost once a person is arrested
+ANS: B
+WHY: Police must caution a suspect that they do not have to say or do anything. Some laws require identity details to be given.
+
+=== mc cr-mc-10
+c: crime.3.1
+lv: 2
+Q: Which court hears most trials for serious indictable offences such as armed robbery in NSW?
+A: Local Court
+B: District Court
+C: Coroner's Court
+D: Land and Environment Court
+ANS: B
+WHY: The District Court hears most indictable offences. The Supreme Court hears the most serious, such as murder.
+
+=== mc cr-mc-11
+c: crime.3.2
+lv: 2
+Q: Which is a feature of the adversary system?
+A: The judge leads the investigation and questions witnesses
+B: Two opposing sides present their cases before an impartial decision-maker
+C: The accused must prove their innocence
+D: Evidence is collected by the court itself
+ANS: B
+WHY: In the adversary system the parties run their own cases and the judge or magistrate is an impartial umpire.
+
+=== mc cr-mc-12
+c: crime.3.4
+lv: 2
+Q: What is charge negotiation?
+A: The magistrate reducing a sentence after hearing a victim impact statement
+B: An agreement in which the accused pleads guilty in return for a lesser or fewer charges
+C: The jury agreeing on a majority verdict
+D: Police deciding whether to issue a caution
+ANS: B
+WHY: Charge negotiation takes place between the prosecution and the defence before trial. It saves court time but can be seen as lenient.
+
+=== mc cr-mc-13
+c: crime.3.6
+lv: 1
+Q: What is the standard of proof in a criminal trial?
+A: On the balance of probabilities
+B: Beyond reasonable doubt
+C: Reasonable suspicion
+D: A prima facie case
+ANS: B
+WHY: The prosecution carries the burden and must prove the offence beyond reasonable doubt.
+
+=== mc cr-mc-14
+c: crime.3.8
+lv: 2
+Q: Which of the following is a partial defence to murder in NSW?
+A: Self-defence
+B: Duress
+C: Substantial impairment because of mental health impairment or cognitive impairment
+D: Necessity
+ANS: C
+WHY: A partial defence reduces murder to manslaughter. Self-defence, duress and necessity are complete defences that lead to an acquittal.
+
+=== mc cr-mc-15
+c: crime.3.9
+lv: 2
+Q: How many jurors usually sit on a criminal trial in NSW, and what verdict can be accepted?
+A: Six jurors; the verdict must be unanimous
+B: Twelve jurors; a majority verdict of 11 to 1 may be accepted after long deliberation
+C: Twelve jurors; a simple majority of 7 to 5 is enough
+D: Four jurors; the verdict must be unanimous
+ANS: B
+WHY: The Jury Act 1977 (NSW) allows a majority verdict of 11 to 1 when a unanimous verdict cannot be reached after reasonable time.
+
+=== mc cr-mc-16
+c: crime.4.2
+lv: 2
+Q: A judge says the sentence must "send a message to others who might think of committing this offence". Which purpose of punishment is this?
+A: Specific deterrence
+B: Rehabilitation
+C: General deterrence
+D: Incapacitation
+ANS: C
+WHY: General deterrence aims to discourage the wider community. Specific deterrence aims at the offender.
+
+=== mc cr-mc-17
+c: crime.4.3
+lv: 2
+Q: Which of the following is a mitigating factor in sentencing?
+A: The offence was committed in company
+B: The victim was vulnerable
+C: The offender showed remorse and pleaded guilty early
+D: A weapon was used
+ANS: C
+WHY: Mitigating factors can reduce a sentence. The other options are aggravating factors under s 21A of the Crimes (Sentencing Procedure) Act 1999 (NSW).
+
+=== mc cr-mc-18
+c: crime.4.6
+lv: 2
+Q: Which penalty allows an offender to serve a sentence of imprisonment in the community under strict supervision?
+A: Conditional release order
+B: Intensive correction order
+C: Fine
+D: Forfeiture of assets
+ANS: B
+WHY: An intensive correction order is a custodial sentence served in the community, with conditions such as home detention, curfews or community service.
+
+=== mc cr-mc-19
+c: crime.4.8
+lv: 2
+Q: What is parole?
+A: A sentence served entirely in the community
+B: The conditional release of a prisoner to serve the rest of the sentence in the community under supervision
+C: A reduction in sentence for a guilty plea
+D: An order made after a sentence has ended
+ANS: B
+WHY: Parole helps reintegration under supervision. Breaching conditions can return the offender to custody.
+
+=== mc cr-mc-20
+c: crime.5.1
+lv: 2
+Q: What does doli incapax mean for a child aged 10 to under 14 in NSW?
+A: The child can never be charged with an offence
+B: The child is presumed incapable of criminal intent unless the prosecution proves the child knew the act was seriously wrong
+C: The child must be tried as an adult
+D: The child's parents are criminally responsible
+ANS: B
+WHY: The presumption can be rebutted. RP v The Queen (2016) confirmed the prosecution must prove the child knew the conduct was seriously wrong in a moral sense.
+
+=== mc cr-mc-21
+c: crime.5.5
+lv: 2
+Q: Which options does the Young Offenders Act 1997 (NSW) provide as alternatives to court?
+A: Bail, remand and parole
+B: Warnings, cautions and youth justice conferences
+C: Fines, bonds and control orders
+D: Committal, trial and appeal
+ANS: B
+WHY: The Act diverts young people from court for less serious offences, in increasing order of seriousness.
+
+=== mc cr-mc-22
+c: crime.6.1
+lv: 2
+Q: Which of the following is a transnational crime rather than a crime against the international community?
+A: Genocide
+B: War crimes
+C: Human trafficking across borders
+D: Crimes against humanity
+ANS: C
+WHY: Transnational crimes cross borders and are prosecuted under domestic law. Genocide, war crimes and crimes against humanity can be tried by the International Criminal Court.
+
+=== mc cr-mc-23
+c: crime.6.2
+lv: 2
+Q: What is a limitation of the International Criminal Court?
+A: It can only hear civil disputes between countries
+B: It has no police force and relies on states to arrest and surrender suspects
+C: It can only try people under 18
+D: Its decisions must be approved by the High Court of Australia
+ANS: B
+WHY: The Court depends on state cooperation, and several powerful states are not parties to the Rome Statute.
+
+=== mc cr-mc-24
+c: crime.4.7
+lv: 2
+Q: What is circle sentencing?
+A: A sentencing hearing held by three judges
+B: An alternative sentencing court for adult Aboriginal offenders that involves Elders and community members
+C: A program in which prisoners move between prisons
+D: A type of youth justice conference for first offenders
+ANS: B
+WHY: The magistrate sits with Elders, the offender, and often the victim, to discuss the offence and an appropriate sentence.
+
+=== sa cr-sa-01
+c: crime.1.2 crime.1.3
+m: 3
+lv: 2
+Q: Distinguish between a strict liability offence and an offence that requires mens rea. Use an example of each.
+PTS:
+- Mens rea offences need proof of a guilty mind as well as the act, for example murder or larceny (1)
+- Strict liability offences need proof of the act only, for example speeding (1)
+- Shows the difference clearly, such as what the prosecution must prove (1)
+
+=== sa cr-sa-02
+c: crime.2.5
+m: 4
+lv: 2
+Q: Explain how the Bail Act 2013 (NSW) tries to balance the rights of the accused with the safety of the community.
+PTS:
+- Bail lets an accused stay in the community until trial, which respects the presumption of innocence (1)
+- The unacceptable risk test protects the community, victims and witnesses (1)
+- Show cause offences place the onus on the accused for serious charges (1)
+- Conditions such as reporting or curfews can manage risk without remand (1)
+
+=== sa cr-sa-03
+c: crime.3.5
+m: 4
+lv: 2
+Q: Explain why access to legal representation is important in a criminal trial. Refer to one case.
+PTS:
+- The adversary system assumes both sides are equally able to present a case (1)
+- An unrepresented accused faces a trained prosecutor and complex rules of evidence (1)
+- Dietrich v The Queen (1992): a trial for a serious offence may be stayed if the accused cannot get representation through no fault of their own (1)
+- Legal Aid NSW applies a means test, a merit test and a jurisdiction test, so some people miss out (1)
+
+=== sa cr-sa-04
+c: crime.4.4
+m: 3
+lv: 2
+Q: Outline the role of the victim in sentencing.
+PTS:
+- A victim may give a victim impact statement about the harm suffered (1)
+- It is read or given to the court after conviction and before sentence (1)
+- The court may take it into account, but the sentence is still the court's decision (1)
+
+=== sa cr-sa-05
+c: crime.5.3
+m: 4
+lv: 2
+Q: Describe TWO ways the Children's Court operates differently from an adult court.
+PTS:
+- It is a closed court and the child's name cannot generally be published (2 for a described feature)
+- Proceedings are less formal, and the magistrate must make sure the child understands (2 for a second described feature)
+ANS: Other acceptable features: a specialist magistrate sits without a jury; rehabilitation is given priority; penalties come from the Children (Criminal Proceedings) Act 1987 (NSW).
+
+=== sa cr-sa-06
+c: crime.6.2
+m: 5
+lv: 3
+Q: Assess the effectiveness of ONE domestic or international measure in dealing with international crime.
+PTS:
+- Names a measure, such as the International Criminal Court, extradition treaties or the Australian Federal Police working with Interpol (1)
+- Explains how it works (1)
+- Gives at least one strength with evidence (1)
+- Gives at least one limit, such as state sovereignty, cost or delay (1)
+- Makes a judgement about its effectiveness (1)
+
+=== scen cr-sc-01
+c: crime.2.1 crime.2.4 crime.2.6
+lv: 2
+LEAD: Police stop Dani, aged 22, outside a shopping centre after a staff member reports that someone matching her description put a phone in her bag without paying. An officer searches her bag without a warrant, finds an unopened phone and arrests her. At the station she is questioned for two hours without being told she does not have to answer.
+PART (a) 2: Identify the power police used to search Dani's bag and what they needed before using it.
+PTS:
+- A search without a warrant under the Law Enforcement (Powers and Responsibilities) Act 2002 (NSW) (1)
+- Police must suspect on reasonable grounds that she has something stolen (1)
+PART (b) 4: Explain whether police acted lawfully at the station. Refer to the scenario.
+PTS:
+- Police must caution a suspect that they do not have to say or do anything (1)
+- Dani was not cautioned, so this safeguard was breached (1)
+- She should also be told of her right to contact a lawyer or support person, and the detention time limits apply (1)
+- A court has a discretion to exclude evidence that was improperly obtained (1)
+
+=== scen cr-sc-02
+c: crime.3.8
+lv: 2
+LEAD: Marco is walking home when a stranger grabs him from behind and threatens him with a broken bottle. Marco pushes the man hard. The man falls, strikes his head on the kerb and is seriously injured. Marco is charged with recklessly causing grievous bodily harm.
+PART (a) 1: Identify the defence Marco is most likely to raise.
+ANS: Self-defence.
+PART (b) 4: Explain how a court would decide whether the defence succeeds. Refer to the scenario.
+PTS:
+- Marco must have believed his conduct was necessary to defend himself (1)
+- His response must be reasonable in the circumstances as he perceived them (1)
+- A threat with a broken bottle supports both parts of the test (1)
+- Once the defence is raised, the prosecution must disprove it beyond reasonable doubt; if it cannot, Marco is acquitted (1)
+
+=== scen cr-sc-03
+c: crime.5.1 crime.5.2 crime.5.5
+lv: 2
+LEAD: Tayla, aged 12, is caught spraying paint on a bus shelter. She has never been in trouble with police before. Police take her to the station and want to ask her questions. Her mother is at work and cannot be reached.
+PART (a) 2: Outline how doli incapax applies to Tayla.
+PTS:
+- She is aged 10 to under 14, so she is presumed incapable of criminal intent (1)
+- The prosecution would need to prove she knew the act was seriously wrong (1)
+PART (b) 2: Explain why police should not interview Tayla alone.
+PTS:
+- A child should have a responsible adult present when questioned (1)
+- A statement made without one may not be admitted as evidence (1)
+PART (c) 3: Recommend the most suitable response under the Young Offenders Act 1997 (NSW). Give reasons.
+PTS:
+- A warning or a caution (1)
+- The offence is minor, non-violent and her first (1)
+- Diversion avoids a court record and reduces the risk of reoffending (1)
+
+=== scen cr-sc-04
+c: crime.4.2 crime.4.3 crime.4.6
+lv: 3
+LEAD: Ravi, aged 34, pleads guilty at the first opportunity to breaking into a house at night while the family was asleep. He stole jewellery worth $4,000. He has two earlier convictions for similar offences. He has since begun treatment for drug addiction and has written a letter of apology to the family.
+PART (a) 2: Identify ONE aggravating factor and ONE mitigating factor in the scenario.
+PTS:
+- Aggravating: prior convictions, or the offence took place in a home at night with the occupants present (1)
+- Mitigating: early guilty plea, remorse or steps towards rehabilitation (1)
+PART (b) 4: Explain which purposes of punishment a court might give most weight to when sentencing Ravi.
+PTS:
+- Names relevant purposes, such as specific deterrence, protection of the community and rehabilitation (1)
+- Links deterrence or protection to his record (1)
+- Links rehabilitation to his treatment (1)
+- Shows the court must balance competing purposes (1)
+
+=== er cr-er-01
+c: crime.t.discretion crime.2 crime.4
+m: 15
+lv: 3
+Q: Evaluate the role of discretion in achieving justice in the criminal justice system.
+PTS:
+- Defines discretion and names who uses it: police, prosecutors, magistrates and judges, juries
+- Police discretion: warnings and cautions under the Young Offenders Act 1997 (NSW); decisions to arrest and charge under the Law Enforcement (Powers and Responsibilities) Act 2002 (NSW)
+- Prosecutorial discretion: charge negotiation and the prosecution guidelines
+- Judicial discretion in sentencing: s 21A factors, guideline judgments, and limits such as standard non-parole periods and mandatory sentences
+- Weighs individualised justice against inconsistency and possible bias, using cases, media and reports
+- Makes a sustained judgement
+PLAN:
+- Police: flexibility for minor and young offenders, but uneven use
+- Prosecution and pre-trial: efficiency against transparency
+- Sentencing: individual justice against consistency
+- Judgement: discretion is necessary but needs guidelines and review
+
+=== er cr-er-02
+c: crime.5 crime.t.effectiveness
+m: 15
+lv: 3
+Q: To what extent does the criminal justice system deal effectively with young offenders?
+PTS:
+- Age of criminal responsibility and doli incapax (RP v The Queen 2016), and the debate about raising the age
+- Rights when questioned and arrested
+- Children's Court procedures and the focus on rehabilitation
+- Diversion under the Young Offenders Act 1997 (NSW) and the Youth Koori Court
+- Penalties, detention and reoffending, with statistics from a named source
+- Over-representation of Aboriginal and Torres Strait Islander young people
+- A judgement that addresses "to what extent"
+PLAN:
+- Different treatment is justified: age and capacity
+- Diversion works for most young people
+- Limits: detention, remand and over-representation
+- Judgement
+
+=== er cr-er-03
+c: crime.t.balance crime.3 crime.4
+m: 15
+lv: 3
+Q: Assess how effectively the criminal trial and sentencing processes balance the rights of victims, offenders and society.
+PTS:
+- Rights of the accused: presumption of innocence, legal representation (Dietrich v The Queen 1992), rules of evidence, appeals
+- Rights of victims: the Charter of Victims Rights, victim impact statements, support services
+- Society: open justice, juries, the purposes of punishment
+- Tensions: charge negotiation, bail, sentencing discounts, mandatory sentences
+- A judgement on the balance, with a range of evidence
+PLAN:
+- Trial: protections for the accused
+- Victims: growing recognition but a limited role
+- Sentencing: community protection against rehabilitation
+- Judgement
+
+=== teeacl cr-te-01
+c: crime.2.5 crime.t.balance
+lv: 2
+Q: Assess the effectiveness of bail laws in balancing the rights of the accused and the protection of the community.
+PTS:
+- A judgement, for example that the law now favours community protection
+- Evidence: Bail Act 2013 (NSW), the show cause requirement and the unacceptable risk test
+- Analysis against a criterion, such as protection of individual rights or meeting society's needs
+- Counterpoint: the growing remand population and the presumption of innocence
+- A link back to the question
+
+=== teeacl cr-te-02
+c: crime.4.7 crime.t.effectiveness
+lv: 2
+Q: Evaluate the effectiveness of alternative methods of sentencing in achieving justice.
+PTS:
+- A judgement about circle sentencing or restorative justice
+- Evidence: the program, who takes part and what research from a named source found
+- Analysis against a criterion, such as responsiveness or reducing reoffending
+- Counterpoint: limited places, eligibility rules or mixed results
+- A link back to the question
+
+=== order cr-or-01
+c: crime.2.4 crime.3.1
+TITLE: An indictable offence, from arrest to sentence
+LEAD: An adult is accused of a serious indictable offence in NSW and pleads not guilty.
+- Police arrest and charge the suspect
+- A bail decision is made
+- The charge is first mentioned in the Local Court
+- The matter is committed to the District Court for trial
+- A jury is empanelled
+- The prosecution and the defence present their evidence
+- The jury gives its verdict
+- The judge sentences the offender
+NOTE: Every indictable matter starts in the Local Court. Only the higher court can hold the trial.
+
+=== order cr-or-02
+c: crime.3.7
+TITLE: The order of a criminal trial
+- The prosecution makes its opening address
+- Prosecution witnesses give evidence in chief
+- The defence cross-examines prosecution witnesses
+- The defence presents its case
+- Both sides give closing addresses
+- The judge sums up and directs the jury on the law
+- The jury retires to consider its verdict
+NOTE: The prosecution goes first because it carries the burden of proof.
+
+=== order cr-or-03
+c: crime.5.5
+TITLE: Responses to a young offender, from least to most serious
+- Warning
+- Caution
+- Youth justice conference
+- Children's Court hearing
+- Control order (detention)
+NOTE: The Young Offenders Act 1997 (NSW) requires the least restrictive suitable response.
+
+=== chain cr-ch-01
+c: crime.t.reform crime.2.5
+TITLE: How a crisis can change bail law
+TRIGGER: A person on bail commits a serious violent offence that is widely reported.
+- The media report the case and question the bail decision => Media coverage shapes public opinion about the law.
+- The community and victims' groups call for tougher laws => Public pressure reaches members of parliament.
+- The government announces a review or a bill => Parliament responds to keep public confidence.
+- Parliament amends the Bail Act 2013 (NSW) => Statute law can change quickly.
+- More accused people are refused bail => The test is harder to meet.
+- The remand population rises => More people who have not been convicted are held in custody.
+
+=== sort cr-so-01
+c: crime.1.6
+Q: Sort each feature under the correct type of offence.
+CATS: Summary offence | Indictable offence
+- Heard by a magistrate alone => Summary offence
+- Finalised in the Local Court => Summary offence
+- Usually prosecuted by a police prosecutor => Summary offence
+- Offensive language => Summary offence
+- Tried by a judge and jury => Indictable offence
+- Heard in the District Court or the Supreme Court => Indictable offence
+- Begins with committal proceedings => Indictable offence
+- Murder => Indictable offence
+- Prosecuted by the Director of Public Prosecutions => Indictable offence
+
+=== sort cr-so-02
+c: crime.3.8
+Q: Sort each defence under the correct heading.
+CATS: Complete defence | Partial defence to murder
+- Self-defence => Complete defence
+- Duress => Complete defence
+- Necessity => Complete defence
+- Mental health impairment or cognitive impairment => Complete defence
+- Extreme provocation => Partial defence to murder
+- Substantial impairment => Partial defence to murder
+- Excessive self-defence => Partial defence to murder
+
+=== sort cr-so-03
+c: crime.4.2
+Q: Match each sentencing remark to the purpose of punishment it shows.
+CATS: Deterrence | Retribution | Rehabilitation | Incapacitation
+- "Others must see that this conduct brings a heavy penalty." => Deterrence
+- "You will think twice before doing this again." => Deterrence
+- "The sentence must reflect the harm done to the victim." => Retribution
+- "The punishment must fit the crime." => Retribution
+- "You must complete a drug treatment program." => Rehabilitation
+- "Counselling will address the causes of your offending." => Rehabilitation
+- "The community needs to be protected from you." => Incapacitation
+- "Your licence is disqualified for five years." => Incapacitation
+
+=== compare cr-co-01
+c: crime.5.3 crime.3.1
+Q: Complete the table to compare how a child and an adult are treated by the criminal justice system in NSW.
+COLS: A child (10 to 17) | An adult
+- Court for most matters => Children's Court | !Local Court or District Court
+- Open or closed court => Closed court | Open court
+- Naming in the media => Generally cannot be named | !Can usually be named
+- Main aim of sentencing => !Rehabilitation is given priority | All purposes are weighed, including deterrence and retribution
+- Diversion => Warnings, cautions and conferences under the Young Offenders Act 1997 (NSW) | Limited, for example some cautions and diversion programs
+- Custody => Detention in a youth justice centre | Imprisonment in a correctional centre
+
+=== compare cr-co-02
+c: crime.3.2
+Q: Complete the table to compare the adversary system with the inquisitorial system.
+COLS: Adversary system | Inquisitorial system
+- Role of the judge => Impartial umpire | !Leads the inquiry and questions witnesses
+- Who gathers evidence => The parties | The judge or court
+- Used in => !Australia and other common law countries | Many European countries
+- Main strength => Each side can test the other's case | Less depends on the skill of the lawyers
+- Main weakness => Depends on equal resources and representation | The judge may be less impartial
+
+=== error cr-er-x1
+c: crime.3.6 crime.3.9
+Q: This paragraph answers: "Outline the role of the jury in a criminal trial."
+TEXT: In a criminal trial in the District Court, a jury of [[six => twelve]] people decides whether the accused is guilty. The jury decides questions of [[law => fact]], while the judge decides questions of law. The [[defence => prosecution]] must prove its case [[on the balance of probabilities => beyond reasonable doubt]]. If the jury finds the accused guilty, the [[jury => judge]] decides the sentence.
+
+=== error cr-er-x2
+c: crime.2.4 crime.2.6
+Q: This paragraph answers: "Describe the rights of a suspect who has been arrested in NSW."
+TEXT: Police powers of arrest are set out in the [[Bail Act 2013 => Law Enforcement (Powers and Responsibilities) Act 2002]] (NSW). Before questioning, police must [[interview => caution]] the suspect, who has a right to silence. A suspect can usually be detained for investigation for up to [[twenty-four => six]] hours before being charged or released, and a longer period needs a [[search warrant => detention warrant]]. A suspect is entitled to contact a lawyer.
+
+=== stim cr-st-01
+c: crime.4.6 crime.4.8
+lv: 2
+TITLE: Prison numbers and reoffending
+BY: Constructed source for practice. The figures are invented.
+TEXT: A state report finds that the number of adults in prison has grown faster than the population over ten years. About four in ten adults released from prison return to custody within two years. The report says short prison sentences give little time for treatment programs, while supervised orders served in the community cost far less per day and have lower reoffending rates for comparable offenders.
+PART (a) 2: Outline ONE finding of the report.
+PTS:
+- States a finding accurately (1)
+- Adds detail from the source (1)
+PART (b) 4: Explain what the source suggests about how well imprisonment achieves the purposes of punishment.
+PTS:
+- Imprisonment achieves incapacitation and retribution (1)
+- A high return-to-custody rate suggests weak specific deterrence (1)
+- Short sentences limit rehabilitation (1)
+- Community-based orders may achieve rehabilitation at lower cost (1)
+PART (c) 5: Assess the effectiveness of ONE penalty other than imprisonment.
+PTS:
+- Names a penalty, such as an intensive correction order or a community correction order (1)
+- Explains how it works under the Crimes (Sentencing Procedure) Act 1999 (NSW) (1)
+- Gives a strength with evidence (1)
+- Gives a limit (1)
+- Makes a judgement (1)
+
+=== tf cr-tf-01
+c: crime.1.1 crime.1.2 crime.1.6
+- T: A crime is an act or omission against the community that is punishable by the state.
+- F: Actus reus is the mental element of a crime. => Actus reus is the physical element of a crime.
+- T: Recklessness can satisfy the mental element of an offence.
+- F: Indictable offences are finalised by a magistrate sitting alone. => Indictable offences are usually tried by a judge and jury in a higher court.
+- F: Motive is an element the prosecution must always prove. => The prosecution must prove actus reus and mens rea, not motive.
+- T: Criminal negligence can amount to mens rea for some offences, such as manslaughter.
+
+=== tf cr-tf-02
+c: crime.2.1 crime.2.4 crime.2.5
+- T: Police can arrest without a warrant if they suspect on reasonable grounds that a person has committed an offence and the arrest is reasonably necessary.
+- F: Bail means the accused has been found not guilty. => Bail is the conditional release of an accused person until the case is heard.
+- T: An accused who is refused bail is held on remand.
+- F: Police need a warrant for every search. => Police can search without a warrant in some situations, such as on reasonable suspicion.
+- T: A court attendance notice tells an accused when and where to appear in court.
+- F: A person on remand has been convicted. => A person on remand has not been convicted and is presumed innocent.
+
+=== tf cr-tf-03
+c: crime.3.1 crime.3.3 crime.3.6
+- T: The burden of proof in a criminal trial rests on the prosecution.
+- F: The Director of Public Prosecutions represents the accused. => The Director of Public Prosecutions prosecutes serious offences on behalf of the state.
+- T: Public Defenders are barristers who represent people who have been granted legal aid in serious matters.
+- F: A magistrate sits with a jury in the Local Court. => A magistrate sits alone, without a jury.
+- T: The Court of Criminal Appeal hears appeals against conviction and sentence from the District and Supreme Courts.
+- F: The accused must give evidence at their trial. => The accused cannot be forced to give evidence.
+
+=== tf cr-tf-04
+c: crime.4.1 crime.4.5 crime.4.6
+- T: Imprisonment is a sentence of last resort in NSW.
+- F: A guideline judgment is a law passed by parliament. => A guideline judgment is issued by the Court of Criminal Appeal to guide sentencing for an offence.
+- T: The prosecution can appeal against a sentence it considers manifestly inadequate.
+- F: A fine is a custodial sentence. => A fine is a non-custodial penalty.
+- T: A standard non-parole period guides the court when it sentences for certain serious offences.
+- F: The maximum penalty must be given for every offence. => The maximum penalty is reserved for the worst cases.
+
+=== tf cr-tf-05
+c: crime.5.1 crime.5.3 crime.5.4
+- T: A child under 10 cannot be charged with a criminal offence in NSW.
+- F: The Children's Court is open to the public. => The Children's Court is a closed court.
+- T: Detention is a last resort for young offenders.
+- F: A young offender is sentenced under the same Act as an adult. => Penalties for children are set out in the Children (Criminal Proceedings) Act 1987 (NSW).
+- T: The Convention on the Rights of the Child says the best interests of the child must be a primary consideration.
+
+=== tf cr-tf-06
+c: crime.6.1 crime.6.2
+- T: The International Criminal Court was set up by the Rome Statute.
+- F: The International Criminal Court tries countries rather than people. => The International Criminal Court tries individuals.
+- T: Extradition is the surrender of a person by one state to another to face trial or punishment.
+- F: Transnational crimes can only be prosecuted by international courts. => Transnational crimes are prosecuted under the domestic law of the states involved.
+- T: State sovereignty can limit the enforcement of international criminal law.

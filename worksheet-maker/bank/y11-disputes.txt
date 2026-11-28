@@ -1,0 +1,277 @@
+# Year 11 (2025 syllabus), Focus area 2: Disputes under the law. Written 28 November 2026 by Claude. Not yet reviewed.
+
+=== terms y11-dis-terms-01
+c: dis.1
+- Prosecution => The party that brings a criminal case against an accused person on behalf of the state.
+- Accused => A person charged with a criminal offence.
+- Presumption of innocence => The principle that an accused person is treated as innocent until proved guilty.
+- Beyond reasonable doubt => The standard of proof in a criminal case.
+- Summary offence => A less serious offence heard by a magistrate in the Local Court.
+- Indictable offence => A serious offence usually tried by a judge and jury.
+- Sanction => A penalty imposed by a court on a person found guilty of an offence.
+
+=== terms y11-dis-terms-02
+c: dis.2
+- Plaintiff => The person who starts a civil case.
+- Defendant => In a civil case, the person who is being sued.
+- Balance of probabilities => The standard of proof in a civil case: more likely than not.
+- Tort => A civil wrong, other than a breach of contract, for which the law provides a remedy.
+- Negligence => A failure to take reasonable care that causes harm to a person to whom a duty of care is owed.
+- Duty of care => A legal obligation to avoid acts or omissions that could reasonably be foreseen to harm others.
+- Contract => A legally binding agreement between two or more parties.
+- Damages => Money awarded by a court to compensate a plaintiff for loss.
+- Injunction => A court order that requires a person to do, or to stop doing, something.
+
+=== terms y11-dis-terms-03
+c: dis.3
+- Administrative law => The area of law that deals with the decisions and actions of government bodies and officials.
+- Judicial review => A court's review of whether a government decision was made lawfully.
+- Merits review => A fresh look at a government decision by a tribunal, which can change the decision.
+- Tribunal => A body that resolves certain disputes with less cost and formality than a court.
+- Ombudsman => An independent official who investigates complaints about government agencies.
+- Alternative dispute resolution => Ways of settling a dispute without a court hearing, such as negotiation, mediation and conciliation.
+- Mediation => A process in which a neutral third person helps the parties reach their own agreement.
+
+=== mc y11-dis-mc-01
+c: dis.1
+lv: 1
+Q: Who brings a criminal case to court?
+A: The victim
+B: The state, through the police or the Director of Public Prosecutions
+C: The plaintiff
+D: The jury
+ANS: B
+WHY: A crime is treated as a wrong against the whole community, so the state prosecutes.
+
+=== mc y11-dis-mc-02
+c: dis.1
+lv: 2
+Q: What must the prosecution prove for most criminal offences?
+A: Motive and opportunity
+B: Actus reus and mens rea
+C: Breach and loss
+D: Offer and acceptance
+ANS: B
+WHY: The physical act and the guilty mind must both be proved. Strict liability offences are the exception.
+
+=== mc y11-dis-mc-03
+c: dis.1
+lv: 2
+LEAD: A driver is fined for travelling 15 km/h over the speed limit. She says she did not notice the sign.
+Q: Why is she still liable?
+A: Speeding is an indictable offence
+B: Speeding is a strict liability offence, so intention need not be proved
+C: She has the burden of proving her innocence beyond reasonable doubt
+D: Driving offences are civil matters
+ANS: B
+WHY: For strict liability offences the prosecution proves the act only.
+
+=== mc y11-dis-mc-04
+c: dis.2
+lv: 1
+Q: What is the standard of proof in a civil case?
+A: Beyond reasonable doubt
+B: On the balance of probabilities
+C: Beyond any doubt
+D: Reasonable suspicion
+ANS: B
+WHY: The plaintiff must show their version is more likely than not.
+
+=== mc y11-dis-mc-05
+c: dis.2
+lv: 2
+Q: Which case established the modern law of negligence and the "neighbour principle"?
+A: Mabo v Queensland (No 2)
+B: Donoghue v Stevenson
+C: Dietrich v The Queen
+D: RP v The Queen
+ANS: B
+WHY: In 1932 the House of Lords held that a manufacturer owed a duty of care to the person who consumed its product.
+
+=== mc y11-dis-mc-06
+c: dis.2
+lv: 2
+Q: What must a plaintiff prove to succeed in a negligence claim?
+A: Intention, act and motive
+B: A duty of care, a breach of that duty, and damage caused by the breach
+C: Offer, acceptance and consideration
+D: Guilt beyond reasonable doubt
+ANS: B
+WHY: These are the elements of negligence. Offer, acceptance and consideration are elements of a contract.
+
+=== mc y11-dis-mc-07
+c: dis.2
+lv: 2
+Q: Which of the following is needed for a valid contract?
+A: A written document signed in front of a witness
+B: Offer, acceptance, consideration and an intention to create legal relations
+C: Approval by a court
+D: Payment in full in advance
+ANS: B
+WHY: Many contracts are verbal. The elements, not the form, make an agreement binding.
+
+=== mc y11-dis-mc-08
+c: dis.2
+lv: 1
+Q: What is the most common remedy in a civil case?
+A: Imprisonment
+B: A fine paid to the state
+C: Damages paid to the plaintiff
+D: A community correction order
+ANS: C
+WHY: Civil remedies aim to compensate the person who was wronged. Fines and imprisonment are criminal sanctions.
+
+=== mc y11-dis-mc-09
+c: dis.3
+lv: 2
+Q: A person wants an independent body to take a fresh look at a Commonwealth visa decision and, if it is wrong, change it. Which process is this?
+A: Judicial review
+B: Merits review
+C: A criminal appeal
+D: A referendum
+ANS: B
+WHY: Merits review, by a body such as the Administrative Review Tribunal, reconsiders the facts, law and policy. Judicial review only asks whether the decision was lawful.
+
+=== mc y11-dis-mc-10
+c: dis.3
+lv: 2
+Q: Which body investigates complaints about the conduct of NSW government agencies?
+A: The NSW Ombudsman
+B: The Director of Public Prosecutions
+C: The Coroner's Court
+D: The Law Society of NSW
+ANS: A
+WHY: The Ombudsman is independent, free to use and can recommend changes, but cannot usually force an agency to act.
+
+=== mc y11-dis-mc-11
+c: dis.3
+lv: 2
+Q: Which is an advantage of using a tribunal rather than a court?
+A: Tribunals can impose prison sentences
+B: Tribunals are usually cheaper, quicker and less formal
+C: Tribunal decisions can never be appealed
+D: Tribunals always use juries
+ANS: B
+WHY: Tribunals such as the NSW Civil and Administrative Tribunal are designed to be accessible to people without lawyers.
+
+=== sa y11-dis-sa-01
+c: dis.1 dis.2
+m: 4
+lv: 2
+Q: Distinguish between criminal law and civil law.
+PTS:
+- Purpose: criminal law punishes and protects the community; civil law compensates (1)
+- Parties: the state against an accused; a plaintiff against a defendant (1)
+- Standard of proof: beyond reasonable doubt; balance of probabilities (1)
+- Outcome: guilty and a sanction; liable and a remedy (1)
+
+=== sa y11-dis-sa-02
+c: dis.3
+m: 4
+lv: 2
+Q: Explain TWO ways a person can challenge a decision made by a government agency.
+PTS:
+- Names and explains one way, such as internal review, merits review by a tribunal, a complaint to the Ombudsman or judicial review by a court (2)
+- Names and explains a second way (2)
+
+=== sa y11-dis-sa-03
+c: dis.2
+m: 5
+lv: 3
+Q: Assess the effectiveness of alternative dispute resolution in resolving civil disputes.
+PTS:
+- Describes a method, such as mediation (1)
+- Strengths: lower cost, speed and privacy (1)
+- The parties keep control and relationships are preserved (1)
+- Limits: an imbalance of power, no binding precedent, and the need for cooperation (1)
+- A judgement (1)
+
+=== scen y11-dis-sc-01
+c: dis.2
+lv: 2
+LEAD: Ben buys a takeaway salad from a cafe. Halfway through eating it he finds a piece of broken glass and cuts his mouth. He needs stitches and misses three days of work. The cafe owner says a jar broke in the kitchen that morning and the staff "thought they had cleaned it all up".
+PART (a) 3: Explain whether the cafe owed Ben a duty of care and whether it was breached.
+PTS:
+- A business that sells food owes a duty of care to its customers (1)
+- Harm from glass in food is reasonably foreseeable (1)
+- Serving food after a jar broke nearby, without proper checks, is a failure to take reasonable care (1)
+PART (b) 2: Identify the remedy Ben would seek and what it would cover.
+PTS:
+- Damages (1)
+- Medical costs, lost wages, and pain and suffering (1)
+PART (c) 2: Explain why Ben's case is a civil matter and not a criminal one.
+PTS:
+- It is a dispute between private parties about compensation (1)
+- Ben, as plaintiff, must prove his case on the balance of probabilities (1)
+
+=== scen y11-dis-sc-02
+c: dis.3
+lv: 2
+LEAD: Lina's application for a disability support payment is refused by a Commonwealth agency. The letter gives no clear reasons. She believes the officer ignored her doctor's report.
+PART (a) 2: Outline the first steps Lina should take.
+PTS:
+- Ask the agency for reasons and for an internal review (1)
+- Keep to the time limits for review (1)
+PART (b) 3: Explain how a tribunal could help if the internal review fails.
+PTS:
+- The Administrative Review Tribunal can conduct a merits review (1)
+- It looks at the evidence afresh, including the doctor's report (1)
+- It can affirm, vary or set aside the decision (1)
+
+=== order y11-dis-or-01
+c: dis.2
+TITLE: Steps in a civil dispute
+- The dispute arises
+- The parties try to negotiate
+- A letter of demand is sent
+- The parties attend mediation
+- The plaintiff files a statement of claim
+- The court hears the case
+- The court gives judgment and orders a remedy
+NOTE: Most civil disputes settle before a hearing.
+
+=== sort y11-dis-so-01
+c: dis.1 dis.2
+Q: Sort each term under the type of case it belongs to.
+CATS: Criminal case | Civil case
+- Prosecution => Criminal case
+- Accused => Criminal case
+- Guilty => Criminal case
+- Beyond reasonable doubt => Criminal case
+- Sentence => Criminal case
+- Plaintiff => Civil case
+- Liable => Civil case
+- Balance of probabilities => Civil case
+- Damages => Civil case
+- Injunction => Civil case
+
+=== compare y11-dis-co-01
+c: dis.3
+Q: Complete the table to compare two ways of reviewing a government decision.
+COLS: Merits review | Judicial review
+- Who conducts it => A tribunal | !A court
+- The question asked => !Was this the correct or preferable decision? | Was the decision made lawfully?
+- What can happen => The decision can be changed | The decision can be set aside and sent back to be made again
+- Cost and formality => Lower | Higher
+
+=== error y11-dis-er-x1
+c: dis.1 dis.2
+Q: This paragraph answers: "Outline the difference between criminal and civil cases."
+TEXT: In a criminal case the [[plaintiff => prosecution]] must prove the offence [[on the balance of probabilities => beyond reasonable doubt]]. If the accused is found guilty, the court imposes a [[remedy => sanction]]. In a civil case the person who sues is called the [[accused => plaintiff]], and a successful claim usually ends in an award of damages.
+
+=== tf y11-dis-tf-01
+c: dis.1 dis.2
+- T: The standard of proof is higher in a criminal case than in a civil case.
+- F: The victim decides whether to prosecute a serious crime. => The state decides whether to prosecute.
+- T: A single act, such as an assault, can lead to both a criminal case and a civil case.
+- F: A person found liable in a civil case is sent to prison. => A person found liable is usually ordered to pay damages.
+- T: A contract can be binding even if it is not in writing.
+- F: In negligence, the plaintiff must prove the defendant intended to cause harm. => The plaintiff must prove a duty of care, a breach and damage; intention is not required.
+
+=== tf y11-dis-tf-02
+c: dis.3
+- T: Administrative law lets people challenge decisions made by government bodies.
+- F: An ombudsman can send a public servant to prison. => An ombudsman investigates complaints and makes recommendations.
+- T: The media and non-government organisations can help people in disputes with the state by drawing attention to their cases.
+- F: Judicial review lets a court replace a government decision with the one it prefers. => Judicial review only decides whether the decision was lawfully made.
+- T: Tribunals are generally cheaper and less formal than courts.

@@ -1,0 +1,354 @@
+# Year 11 (2025 syllabus), Focus area 1: Investigating the law. Written 28 November 2026 by Claude. Not yet reviewed.
+
+=== terms y11-inv-terms-01
+c: inv.1
+- Law => A set of rules made by the state that binds everyone in the community and is enforced by the courts.
+- Rule of law => The principle that everyone, including the government, is subject to the law and equal before it.
+- Justice => The fair and impartial treatment of all people under the law.
+- Procedural fairness => The right to a fair hearing by an unbiased decision-maker.
+- Public law => Law that governs the relationship between individuals and the state, such as criminal and constitutional law.
+- Private law => Law that governs relationships between individuals, such as contract and tort law.
+- Anarchy => The absence of law and government.
+
+=== terms y11-inv-terms-02
+c: inv.3
+- Common law => Law made by judges through their decisions in cases.
+- Statute law => Law made by parliament.
+- Precedent => A court decision that guides or binds later courts deciding similar cases.
+- Ratio decidendi => The legal reason for a court's decision, which forms the binding precedent.
+- Obiter dicta => Remarks made by a judge in passing that are not binding but may be persuasive.
+- Stare decisis => The principle that courts stand by what has already been decided.
+- Bill => A proposed law that has not yet been passed by parliament.
+- Royal assent => The formal approval of a bill by the Governor-General or a Governor, which makes it an Act.
+- Delegated legislation => Rules made by a body that parliament has given the power to make them, such as regulations and by-laws.
+
+=== terms y11-inv-terms-03
+c: inv.4 inv.5
+- Jurisdiction => The power of a court to hear a particular kind of matter.
+- Original jurisdiction => The power of a court to hear a case for the first time.
+- Appellate jurisdiction => The power of a court to hear appeals from lower courts.
+- Adversarial system => A system of trial in which two opposing sides present their cases to an impartial judge or jury.
+- Division of powers => The way the Constitution shares law-making power between the Commonwealth and the states.
+- Separation of powers => The division of government into the legislature, the executive and the judiciary so that no one body holds all power.
+- Exclusive powers => Law-making powers that only the Commonwealth Parliament can use.
+- Concurrent powers => Law-making powers shared by the Commonwealth and the states.
+- Residual powers => Law-making powers left with the states because the Constitution does not give them to the Commonwealth.
+- Referendum => A national vote on a proposal to change the Constitution.
+
+=== terms y11-inv-terms-04
+c: inv.2 inv.6
+- Customary Lore => The laws, customs and practices of Aboriginal and Torres Strait Islander Peoples, passed on by word of mouth, story, song and ceremony.
+- Elder => A respected senior member of an Aboriginal or Torres Strait Islander community who holds and passes on knowledge and Lore.
+- Country => The lands, waters and skies to which Aboriginal and Torres Strait Islander Peoples are connected.
+- Customary international law => Rules that bind states because states follow them consistently out of a sense of legal duty.
+- Nation-state => A political unit with a defined territory, a permanent population, a government and the capacity to deal with other states.
+
+=== mc y11-inv-mc-01
+c: inv.1
+lv: 1
+Q: What is the main difference between a law and a rule?
+A: Laws are written down; rules are not
+B: Laws apply to everyone in society and are enforced by the state
+C: Rules carry heavier penalties than laws
+D: Laws are made by schools and clubs
+ANS: B
+WHY: Rules apply to members of a group, such as a school. Laws bind the whole community and are enforced by police and courts.
+
+=== mc y11-inv-mc-02
+c: inv.1
+lv: 2
+Q: Which of the following is a characteristic of an effective law?
+A: It is kept secret until it is enforced
+B: It is known, clear and able to be enforced
+C: It applies only to some people
+D: It never changes
+ANS: B
+WHY: People can only obey laws they can find out about and understand, and a law that cannot be enforced will be ignored.
+
+=== mc y11-inv-mc-03
+c: inv.1
+lv: 2
+Q: A person sues a builder for failing to finish a house. Which area of law is this?
+A: Criminal law
+B: Constitutional law
+C: Private (civil) law
+D: International law
+ANS: C
+WHY: A dispute between individuals over a contract is private law. The state is not a party.
+
+=== mc y11-inv-mc-04
+c: inv.2
+lv: 2
+Q: How is Aboriginal and Torres Strait Islander Customary Lore traditionally passed on?
+A: Through Acts of parliament
+B: Orally, through stories, song, dance and ceremony
+C: Through written court judgments
+D: Through international treaties
+ANS: B
+WHY: Customary Lore is an oral tradition. Elders hold the knowledge and pass it on to the next generation.
+
+=== mc y11-inv-mc-05
+c: inv.2
+lv: 2
+Q: Which statement about Customary Lore is most accurate?
+A: It is the same for all Aboriginal and Torres Strait Islander Peoples
+B: It differs between nations and language groups but shares common features, such as connection to Country
+C: It deals only with criminal matters
+D: It was created by the British in 1788
+ANS: B
+WHY: There are many nations, each with its own Lore. Shared features include kinship, Country and the role of Elders.
+
+=== mc y11-inv-mc-06
+c: inv.3
+lv: 2
+Q: Which part of a judgment creates a binding precedent?
+A: The obiter dicta
+B: The ratio decidendi
+C: The dissenting judgment
+D: The orders for costs
+ANS: B
+WHY: The ratio decidendi is the legal reasoning needed for the decision. Lower courts in the same hierarchy must follow it.
+
+=== mc y11-inv-mc-07
+c: inv.3
+lv: 2
+Q: A District Court judge in NSW is deciding a case. Which decision is binding on that judge?
+A: A decision of the Local Court
+B: A decision of the Supreme Court of Victoria
+C: A decision of the High Court of Australia
+D: A decision of a court in England
+ANS: C
+WHY: Decisions of higher courts in the same hierarchy bind lower courts. Decisions from other hierarchies are persuasive only.
+
+=== mc y11-inv-mc-08
+c: inv.3
+lv: 1
+Q: What is the final step before a bill becomes an Act?
+A: The first reading
+B: The second reading debate
+C: Royal assent
+D: The committee stage
+ANS: C
+WHY: After both houses pass the bill, the Governor-General (or a state Governor) gives royal assent.
+
+=== mc y11-inv-mc-09
+c: inv.4
+lv: 1
+Q: Which is the highest court in Australia?
+A: The Supreme Court of NSW
+B: The Federal Court of Australia
+C: The High Court of Australia
+D: The District Court of NSW
+ANS: C
+WHY: The High Court is the final court of appeal and decides cases about the Constitution.
+
+=== mc y11-inv-mc-10
+c: inv.4
+lv: 2
+Q: What is the role of the Coroner's Court?
+A: To sentence people convicted of murder
+B: To inquire into the cause and manner of unexplained deaths, and into fires and explosions
+C: To hear appeals from the Local Court
+D: To settle family disputes
+ANS: B
+WHY: A coroner holds an inquest to make findings and recommendations. A coroner does not decide guilt.
+
+=== mc y11-inv-mc-11
+c: inv.5
+lv: 2
+Q: What happens under s 109 of the Constitution when a valid Commonwealth law and a state law are inconsistent?
+A: The state law prevails
+B: The Commonwealth law prevails and the state law is invalid to the extent of the inconsistency
+C: Both laws are invalid
+D: The High Court holds a referendum
+ANS: B
+WHY: Section 109 settles clashes in areas of concurrent power in favour of the Commonwealth.
+
+=== mc y11-inv-mc-12
+c: inv.5
+lv: 2
+Q: What is needed for a referendum to change the Constitution to succeed?
+A: A majority in the House of Representatives only
+B: A majority of voters nationally and a majority of voters in a majority of states
+C: The agreement of all six state premiers
+D: A unanimous decision of the High Court
+ANS: B
+WHY: Section 128 requires this double majority. Only 8 of 45 proposals have passed.
+
+=== mc y11-inv-mc-13
+c: inv.5
+lv: 2
+Q: Which arm of government interprets and applies the law?
+A: The legislature
+B: The executive
+C: The judiciary
+D: The public service
+ANS: C
+WHY: The legislature makes law, the executive carries it out and the judiciary (the courts) interprets it.
+
+=== mc y11-inv-mc-14
+c: inv.6
+lv: 2
+Q: What is a treaty?
+A: A law passed by the United Nations that binds every country
+B: A written agreement between states that binds the states that ratify it
+C: A decision of the International Court of Justice
+D: A custom followed within one country
+ANS: B
+WHY: Treaties bind only the states that agree to them. In Australia a treaty also needs legislation before it applies in domestic law.
+
+=== mc y11-inv-mc-15
+c: inv.7
+lv: 2
+Q: Which of the following is a source of rights in Australia?
+A: A national bill of rights
+B: The Constitution, statute law, common law and international law
+C: The decisions of juries
+D: The rules of political parties
+ANS: B
+WHY: Australia has no national bill of rights. Rights come from several sources, each with limits.
+
+=== sa y11-inv-sa-01
+c: inv.3
+m: 4
+lv: 2
+Q: Explain how the doctrine of precedent promotes fairness and consistency.
+PTS:
+- Courts follow earlier decisions of higher courts in the same hierarchy (1)
+- Like cases are decided alike (1)
+- People and lawyers can predict how the law will apply (1)
+- Judges can still distinguish a case on its facts, which allows the law to develop (1)
+
+=== sa y11-inv-sa-02
+c: inv.5
+m: 4
+lv: 2
+Q: Explain why the separation of powers is important.
+PTS:
+- Names the three arms and what each does (1)
+- No single body makes, carries out and judges the law (1)
+- Independent courts can check the other arms (1)
+- This protects individuals from the abuse of power (1)
+
+=== sa y11-inv-sa-03
+c: inv.2
+m: 4
+lv: 2
+Q: Describe the role of Elders in maintaining Customary Lore.
+PTS:
+- Elders hold knowledge of Lore and pass it on (1)
+- They teach through story, ceremony and example (1)
+- They help resolve disputes through discussion and mediation (1)
+- They are involved in programs such as circle sentencing (1)
+
+=== sa y11-inv-sa-04
+c: inv.6
+m: 5
+lv: 3
+Q: Explain how state sovereignty affects the enforcement of international law.
+PTS:
+- Defines state sovereignty (1)
+- States choose whether to sign and ratify treaties (1)
+- There is no world police force; enforcement relies on cooperation and pressure (1)
+- An example of a state not complying (1)
+- Sovereignty also lets states pass laws to give effect to their obligations (1)
+
+=== scen y11-inv-sc-01
+c: inv.5
+lv: 2
+LEAD: The NSW Parliament passes a law that says shops may refuse to accept cash. A year later the Commonwealth Parliament passes a valid law, under its currency power, that says all shops must accept cash for purchases under $500. A shop owner in Sydney does not know which law to follow.
+PART (a) 1: Identify the section of the Constitution that resolves this conflict.
+ANS: Section 109.
+PART (b) 3: Explain which law the shop owner must follow and why.
+PTS:
+- The Commonwealth law (1)
+- Where a valid Commonwealth law and a state law are inconsistent, the Commonwealth law prevails (1)
+- The state law is invalid to the extent of the inconsistency (1)
+
+=== order y11-inv-or-01
+c: inv.3
+TITLE: How a bill becomes an Act of the Commonwealth Parliament
+- The bill is drafted
+- First reading: the bill is introduced
+- Second reading: the minister explains the bill and it is debated
+- Consideration in detail: the bill is examined clause by clause
+- Third reading: the house votes on the bill
+- The bill goes through the same stages in the other house
+- The Governor-General gives royal assent
+NOTE: A bill must pass both houses in the same form before royal assent.
+
+=== order y11-inv-or-02
+c: inv.4
+TITLE: Courts that hear criminal matters in NSW, from lowest to highest
+- Local Court
+- District Court
+- Supreme Court
+- Court of Criminal Appeal
+- High Court of Australia
+
+=== sort y11-inv-so-01
+c: inv.5
+Q: Sort each area of law-making under the correct type of power.
+CATS: Exclusive to the Commonwealth | Concurrent (shared) | Residual (states)
+- Defence => Exclusive to the Commonwealth
+- Currency => Exclusive to the Commonwealth
+- Customs duties => Exclusive to the Commonwealth
+- Taxation => Concurrent (shared)
+- Marriage => Concurrent (shared)
+- Schools => Residual (states)
+- Police => Residual (states)
+- Public hospitals => Residual (states)
+- Public transport => Residual (states)
+
+=== sort y11-inv-so-02
+c: inv.1
+Q: Classify each matter as criminal law or civil law.
+CATS: Criminal law | Civil law
+- Assault => Criminal law
+- Theft => Criminal law
+- Drink driving => Criminal law
+- A claim for negligence after a car crash => Civil law
+- A breach of contract => Civil law
+- Defamation => Civil law
+- A dispute over a will => Civil law
+
+=== compare y11-inv-co-01
+c: inv.3
+Q: Complete the table to compare common law and statute law.
+COLS: Common law | Statute law
+- Made by => Judges | Parliament
+- Found in => !Reported court decisions | Acts of parliament
+- How it changes => Case by case, as disputes arise | !By passing, amending or repealing an Act
+- Which prevails in a conflict? => It gives way to statute | It overrides common law
+
+=== error y11-inv-er-x1
+c: inv.5
+Q: This paragraph answers: "Outline how the Australian Constitution can be changed."
+TEXT: The Constitution came into effect on 1 January [[1900 => 1901]]. It can be changed only by a referendum under section [[109 => 128]]. A proposal must first be passed by [[the High Court => Parliament]]. It then needs a majority of voters across Australia and a majority of voters in at least [[three => four]] of the six states. This is called a [[simple => double]] majority.
+
+=== tf y11-inv-tf-01
+c: inv.1 inv.3
+- T: Laws apply to everyone in society, while rules apply only to members of a particular group.
+- F: Obiter dicta are binding on lower courts. => Obiter dicta are persuasive only; the ratio decidendi is binding.
+- T: Statute law overrides common law where the two conflict.
+- F: A bill becomes law as soon as the lower house passes it. => A bill must pass both houses and receive royal assent.
+- T: Delegated legislation is made by bodies such as local councils under a power given by parliament.
+- F: Criminal law is a type of private law. => Criminal law is a type of public law.
+
+=== tf y11-inv-tf-02
+c: inv.4 inv.5
+- T: The High Court of Australia can hear appeals from state Supreme Courts.
+- F: The Local Court hears murder trials. => Murder trials are heard in the Supreme Court.
+- T: In the adversarial system the judge acts as an impartial umpire.
+- F: The executive is the arm of government that makes laws. => The legislature (parliament) makes laws; the executive carries them out.
+- T: Residual powers belong to the states.
+- F: Most referendums in Australia have succeeded. => Only 8 of 45 referendum proposals have succeeded.
+
+=== tf y11-inv-tf-03
+c: inv.2 inv.6 inv.7
+- T: Customary Lore connects people, Country, cultural practice and kinship.
+- F: Customary Lore is written in a single code. => Customary Lore is an oral tradition and differs between nations.
+- T: A state must ratify a treaty before it is bound by it.
+- F: The United Nations can force any state to obey international law. => International law relies largely on the consent and cooperation of states.
+- T: Rights in Australia are protected by the Constitution, statute law, common law and international law.
+- F: Rights come without responsibilities. => Rights are matched by responsibilities, such as respecting the rights of others.

@@ -1,0 +1,2155 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<!-- GA:START (Google Analytics; written by build/build_analytics.py, do not edit here) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-11YGV11ZES"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-11YGV11ZES');</script>
+<!-- GA:END -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Legal Studies Worksheet Maker</title>
+<meta name="description" content="For teachers: make printable Legal Studies worksheets as PDFs for the 2009 HSC course and the 2025 Year 11 and Year 12 courses, with a matching answer copy.">
+<style>
+/*__FONTS__*/
+:root{
+  --bg:#f3f5fa; --card:#ffffff; --card2:#e9eef8; --ink:#0b1330; --mut:#3b4663; --rule:#c9d2e4; --rule2:#a7b3cd;
+  --acc:#1c3fb0; --acc-ink:#ffffff; --acc-soft:#e3eafb; --gold:#ffd24a; --ok:#1c7d52; --bad:#b42318; --warn:#fff3c9;
+  --g-exam:#1c3fb0; --g-dc:#0e8a8a; --g-know:#b26a00; --g-think:#8a3fb0;
+  --shadow:0 1px 0 rgba(14,21,38,.06),0 8px 24px -14px rgba(14,21,38,.25);
+  --head:'Manrope','Avenir Next','Segoe UI',system-ui,sans-serif; --body:'Manrope','Segoe UI',system-ui,-apple-system,sans-serif;
+  color-scheme:light;
+}
+:root[data-theme="dark"]{
+  --bg:#0c1120; --card:#151c30; --card2:#1b2339; --ink:#e9eefb; --mut:#a2aec9; --rule:#27304b; --rule2:#3a4566;
+  --acc:#8fa6ff; --acc-ink:#0c1120; --acc-soft:#212c52; --warn:#3a3010; --ok:#59d39b; --bad:#ff8b72;
+  --g-exam:#8fa6ff; --g-dc:#4fd1d1; --g-know:#f0b44c; --g-think:#c99af0; color-scheme:dark;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0c1120; --card:#151c30; --card2:#1b2339; --ink:#e9eefb; --mut:#a2aec9; --rule:#27304b; --rule2:#3a4566;
+  --acc:#8fa6ff; --acc-ink:#0c1120; --acc-soft:#212c52; --warn:#3a3010; --ok:#59d39b; --bad:#ff8b72;
+  --g-exam:#8fa6ff; --g-dc:#4fd1d1; --g-know:#f0b44c; --g-think:#c99af0; color-scheme:dark}}
+*{box-sizing:border-box;min-width:0}
+[hidden]{display:none!important}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font:500 1rem/1.5 var(--body);color:var(--ink);background:var(--bg)}
+button,input,select,textarea{font:inherit;color:inherit}
+button{cursor:pointer}
+a{color:var(--acc)}
+:focus-visible{outline:3px solid var(--acc);outline-offset:2px;border-radius:4px}
+.wrap{max-width:1280px;margin:0 auto;padding:0 20px 60px}
+h1,h2,h3{font-family:var(--head);letter-spacing:-.015em;margin:0}
+p{margin:0}
+.mast{display:flex;flex-wrap:wrap;gap:12px 28px;align-items:flex-end;justify-content:space-between;padding:16px 0 14px;border-bottom:2px solid var(--acc);margin-bottom:16px}
+.school{font-size:.82rem;color:var(--mut);font-weight:600}
+.mast h1{font-size:clamp(1.6rem,3vw,2.2rem);line-height:1.1}
+.tag{color:var(--mut);max-width:62ch;margin-top:4px}
+.seg{display:inline-flex;border:1px solid var(--rule2);border-radius:999px;overflow:hidden;background:var(--card)}
+.seg button{border:0;background:none;padding:7px 14px;font-weight:700;font-size:.9rem}
+.seg button[aria-pressed="true"]{background:var(--acc);color:var(--acc-ink)}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 16px}
+.tab{border:1px solid var(--rule2);background:var(--card);border-radius:999px;padding:8px 16px;font-weight:700}
+.tab[aria-selected="true"]{background:var(--acc);border-color:var(--acc);color:var(--acc-ink)}
+.tab .n{display:inline-grid;place-items:center;width:1.4em;height:1.4em;border-radius:50%;background:var(--acc-soft);color:var(--acc);font-size:.8em;margin-right:6px}
+.tab[aria-selected="true"] .n{background:var(--acc-ink);color:var(--acc)}
+.split{display:grid;grid-template-columns:minmax(0,440px) minmax(0,1fr);gap:18px;align-items:start}
+@media (max-width:900px){.split{grid-template-columns:minmax(0,1fr)}}
+.panel{background:var(--card);border:1px solid var(--rule);border-radius:14px;box-shadow:var(--shadow);padding:14px 16px}
+.panel+.panel{margin-top:12px}
+.step>summary{list-style:none;cursor:pointer;display:flex;gap:10px;align-items:center;font-family:var(--head);font-weight:800;font-size:1.05rem}
+.step>summary::-webkit-details-marker{display:none}
+.step>summary .num{display:inline-grid;place-items:center;width:1.7em;height:1.7em;border-radius:50%;background:var(--acc);color:var(--acc-ink);font-size:.85rem;flex:none}
+.step>summary .sum{margin-left:auto;font:600 .8rem var(--body);color:var(--mut);text-align:right}
+.step>summary::after{content:"▾";color:var(--mut);transition:transform .15s}
+.step[open]>summary::after{transform:rotate(180deg)}
+.step .body{margin-top:12px}
+.hint{color:var(--mut);font-size:.86rem}
+.small{font-size:.86rem}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.btn{border:1px solid var(--acc);background:var(--acc);color:var(--acc-ink);border-radius:10px;padding:9px 14px;font-weight:700;min-height:40px}
+.btn.ghost{background:var(--card);color:var(--acc)}
+.btn.sm{padding:5px 10px;min-height:32px;font-size:.86rem;border-radius:8px}
+.btn.gold{background:var(--gold);border-color:#d9ad16;color:#1a1d2b}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.wide{width:100%}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{display:inline-flex;align-items:center;gap:4px;border:1px solid var(--rule2);background:var(--card);border-radius:999px;padding:3px 10px;font-size:.82rem;font-weight:700}
+.chip[aria-pressed="true"]{background:var(--acc-soft);border-color:var(--acc);color:var(--acc)}
+.chip button{border:0;background:none;padding:0 0 0 2px;color:var(--mut)}
+/* syllabus picker */
+.ttabs{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:8px}
+.ttab{border:1px solid var(--rule2);background:var(--card);border-radius:8px;padding:5px 10px;font-weight:700;font-size:.86rem;border-left:4px solid var(--tc)}
+.ttab[aria-pressed="true"]{background:var(--acc-soft);border-color:var(--tc)}
+.ttab .c{color:var(--mut);font-weight:600;margin-left:4px}
+.secs{max-height:430px;overflow:auto;border:1px solid var(--rule);border-radius:10px;padding:4px 8px;background:var(--card)}
+.sec{border-bottom:1px solid var(--rule)}
+.sec:last-child{border-bottom:0}
+.sec>summary{display:flex;gap:8px;align-items:center;padding:7px 0;cursor:pointer;list-style:none;font-weight:700;font-size:.92rem}
+.sec>summary::-webkit-details-marker{display:none}
+.sec>summary .id{font-family:ui-monospace,Menlo,monospace;color:var(--mut);font-size:.8rem;flex:none}
+.sec>summary .cnt{margin-left:auto;color:var(--mut);font-weight:600;font-size:.78rem;flex:none}
+.pt{display:grid;grid-template-columns:22px 50px 1fr auto;gap:4px 6px;align-items:start;padding:4px 0 4px 6px;font-size:.88rem;cursor:pointer}
+.pt input{margin-top:3px}
+.pt .id{font-family:ui-monospace,Menlo,monospace;color:var(--mut);font-size:.78rem;padding-top:2px}
+.pt .cnt{color:var(--mut);font-size:.76rem;padding-top:2px}
+.pt.none{opacity:.55}
+.search{width:100%;border:1px solid var(--rule2);border-radius:10px;padding:8px 12px;background:var(--card);margin-bottom:8px}
+.selline{margin-top:8px;font-size:.86rem}
+/* formats */
+.grp{margin-bottom:10px}
+.grp h3{font-size:.86rem;text-transform:none;color:var(--gc);display:flex;align-items:center;gap:6px;margin:6px 0}
+.grp h3::before{content:"";width:10px;height:10px;border-radius:3px;background:var(--gc)}
+.fmt{display:grid;grid-template-columns:1fr auto;gap:2px 10px;align-items:center;padding:6px 0;border-top:1px dashed var(--rule)}
+.fmt b{font-size:.92rem}
+.fmt .d{grid-column:1;font-size:.8rem;color:var(--mut)}
+.fmt .av{font-size:.75rem;color:var(--mut)}
+.fmt.zero b,.fmt.zero .d{opacity:.55}
+.stepper{display:inline-flex;align-items:center;border:1px solid var(--rule2);border-radius:9px;overflow:hidden;grid-row:1/3;grid-column:2}
+.stepper button{border:0;background:var(--card2);width:30px;height:32px;font-weight:800}
+.stepper output{min-width:30px;text-align:center;font-weight:800}
+.presets{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+input[type=checkbox]{width:20px;height:20px;flex:none;margin:0;accent-color:var(--acc);cursor:pointer}
+label.opt{display:flex;gap:10px;align-items:flex-start;padding:6px 0;font-size:.9rem;cursor:pointer}
+label.opt input[type=checkbox]{margin-top:1px}
+select,input[type=number],input[type=text],input[type=password],textarea{border:1px solid var(--rule2);border-radius:8px;padding:6px 8px;background:var(--card)}
+.field{display:grid;gap:3px;margin:6px 0}
+.field>span{font-size:.82rem;font-weight:700;color:var(--mut)}
+.go{position:sticky;bottom:0;background:linear-gradient(transparent,var(--bg) 22%);padding:14px 0 4px;display:grid;gap:8px}
+@media (max-width:900px){.go{position:static;background:none}}
+/* worksheet */
+.sheet-head{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.sheet-head input{flex:1 1 260px;font:800 1.15rem var(--head);border:1px solid var(--rule2);border-radius:10px;padding:8px 12px;background:var(--card)}
+.stats{color:var(--mut);font-size:.9rem;margin:8px 0 10px}
+.list{display:grid;gap:8px}
+.q{background:var(--card);border:1px solid var(--rule);border-left:5px solid var(--gc);border-radius:12px;padding:10px 12px;display:grid;grid-template-columns:auto 1fr;gap:4px 10px}
+.q .no{font:800 1rem var(--head);min-width:1.8em;color:var(--gc)}
+.q .meta{display:flex;gap:6px;flex-wrap:wrap;align-items:center;font-size:.78rem;color:var(--mut)}
+.q .meta .f{font-weight:800;color:var(--gc)}
+.q .meta .m{font-weight:800;color:var(--ink)}
+.q .meta .rev{background:var(--warn);border-radius:6px;padding:0 6px;color:var(--ink)}
+.q .txt{grid-column:2;font-size:.92rem;white-space:pre-line}
+.q .txt ol{margin:4px 0 0;padding-left:1.4em}
+.q .acts{grid-column:2;display:flex;gap:4px;flex-wrap:wrap}
+.q .acts button{border:1px solid var(--rule2);background:var(--card);border-radius:7px;padding:3px 9px;font-size:.8rem;font-weight:700;min-height:30px}
+.q .acts button.c{border-color:#c79a1d;background:var(--warn)}
+.parthead{font:800 .95rem var(--head);color:var(--gc);margin:10px 0 2px;display:flex;gap:8px;align-items:center}
+.empty{border:2px dashed var(--rule2);border-radius:14px;padding:28px;text-align:center;color:var(--mut)}
+.toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:10px;font-weight:700;z-index:50;display:flex;gap:12px;align-items:center;max-width:90vw}
+.toast button{background:none;border:1px solid currentColor;color:inherit;border-radius:7px;padding:2px 8px}
+/* layout and print */
+.styles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.style{border:2px solid var(--rule);border-radius:12px;padding:8px;background:var(--card);text-align:left;display:grid;gap:6px}
+.style[aria-pressed="true"]{border-color:var(--acc);box-shadow:0 0 0 3px var(--acc-soft)}
+.style b{font-size:.92rem}
+.style span{font-size:.76rem;color:var(--mut)}
+.mini{height:84px;border-radius:6px;border:1px solid var(--rule);background:#fff;padding:7px;display:grid;gap:4px;align-content:start;overflow:hidden}
+.mini i{display:block;height:5px;border-radius:2px;background:#cfd6e4}
+.mini i.t{height:8px;width:60%;background:#2a3550}
+.mini i.l{background:none;border-bottom:1px solid #8b95a8;height:6px}
+.mini i.d{background:none;border-bottom:1px dotted #8b95a8;height:6px}
+.mini .band{height:10px;border-radius:3px;background:#10253F}
+.mini .two{display:grid;grid-template-columns:1fr 1fr;gap:5px}
+.mini.lex i{height:7px}
+.mini.lex .box{border:1px solid #8b95a8;border-radius:4px;padding:4px;display:grid;gap:4px}
+.preview{background:#525a6b;border-radius:14px;padding:14px;min-height:420px;display:grid;gap:14px;justify-items:center;align-content:start}
+.preview canvas{background:#fff;box-shadow:0 2px 10px rgba(0,0,0,.35);max-width:100%;height:auto}
+.preview .msg{color:#e8ecf5;text-align:center;padding:40px 10px}
+.ptools{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px}
+.ptools .sp{flex:1}
+fieldset{border:1px solid var(--rule);border-radius:10px;padding:6px 12px 10px;margin:10px 0}
+legend{font-weight:800;font-size:.88rem;padding:0 4px}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:4px 12px}
+@media (max-width:520px){.two-col,.styles{grid-template-columns:1fr}}
+/* dialogs */
+dialog{border:1px solid var(--rule2);border-radius:16px;padding:0;max-width:min(860px,96vw);width:100%;background:var(--card);color:var(--ink);box-shadow:0 20px 60px rgba(0,0,0,.35)}
+dialog::backdrop{background:rgba(8,12,28,.55)}
+.dh{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:12px 16px;border-bottom:1px solid var(--rule);position:sticky;top:0;background:var(--card);z-index:2}
+.db{padding:12px 16px;max-height:70vh;overflow:auto}
+.df{padding:10px 16px;border-top:1px solid var(--rule);display:flex;gap:8px;justify-content:flex-end;flex-wrap:wrap}
+.res{display:grid;gap:6px}
+.res .r{border:1px solid var(--rule);border-radius:10px;padding:8px 10px;display:grid;grid-template-columns:1fr auto;gap:4px 10px;align-items:start}
+.res .r .meta{font-size:.76rem;color:var(--mut)}
+.res .r .t{font-size:.88rem}
+textarea{width:100%;min-height:90px}
+.claude{border:1px solid #c79a1d;background:var(--warn)}
+.claude h3{font-size:1rem;margin-bottom:6px}
+.claude .who{margin-top:8px;font-size:.8rem;color:var(--mut)}
+.linkish{border:0;background:none;padding:0;color:var(--acc);font:inherit;font-weight:700;text-decoration:underline;cursor:pointer}
+ol.steps{margin:6px 0 10px 1.2em;display:grid;gap:4px}
+.spin{display:inline-block;width:14px;height:14px;border:2px solid currentColor;border-right-color:transparent;border-radius:50%;animation:sp 1s linear infinite;vertical-align:-2px}
+@keyframes sp{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.spin{animation:none}}
+.saved .r{grid-template-columns:1fr auto}
+.foot{color:var(--mut);font-size:.82rem;margin-top:26px;border-top:1px solid var(--rule);padding-top:12px}
+.help h2{font-size:1.15rem;margin:18px 0 6px}
+.help p,.help li{max-width:75ch}
+.newtab{position:fixed;right:14px;bottom:14px;z-index:40}
+body.embed .mast{padding-top:8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="mast">
+  <div>
+    <p class="school">Sydney Secondary College, Blackwattle Bay Campus</p>
+    <h1>Legal Studies Worksheet Maker</h1>
+    <p class="tag">For teachers. Make a printable practice sheet: choose the syllabus content and skills, mix past HSC questions with new questions, scenarios, key terms, evidence tasks and TEEACL paragraphs, then set out the page and download the PDF with its answer copy.</p>
+  </div>
+  <div class="seg" id="fw" role="group" aria-label="Choose the syllabus and the course">
+    <button data-fw="h09" aria-pressed="true" title="Year 12 (HSC), 2009 syllabus">2009 HSC</button><button data-fw="y11" aria-pressed="false" title="Year 11 (Preliminary), 2025 syllabus">2025 Year 11</button><button data-fw="y12" aria-pressed="false" title="Year 12 (HSC), 2025 syllabus">2025 Year 12</button>
+  </div>
+</header>
+<nav class="tabs" role="tablist" aria-label="Steps">
+  <button class="tab" role="tab" data-view="build" aria-selected="true"><span class="n">1</span>Choose questions</button>
+  <button class="tab" role="tab" data-view="print" aria-selected="false"><span class="n">2</span>Layout and print</button>
+  <button class="tab" role="tab" data-view="saved" aria-selected="false">My worksheets</button>
+  <button class="tab" role="tab" data-view="help" aria-selected="false">How it works</button>
+</nav>
+<main>
+<section class="view split" id="v-build">
+  <div>
+    <details class="panel step" id="st-content" open>
+      <summary><span class="num">1</span>What to practise<span class="sum" id="sum-content"></span></summary>
+      <div class="body">
+        <input class="search" id="q" type="search" placeholder="Search the syllabus, e.g. bail, parental responsibility, native title" aria-label="Search dot points">
+        <div class="ttabs" id="ttabs"></div>
+        <div class="secs" id="secs"></div>
+        <div class="selline" id="selline"></div>
+        <details class="sec" id="skillbox" style="margin-top:8px;border:0">
+          <summary style="padding:4px 0">Focus on skills (optional)<span class="cnt" id="skillcnt"></span></summary>
+          <p class="hint" style="margin:2px 0 6px">Only use questions that practise these skills. Leave them all off to use every question for the dot points above.</p>
+          <div class="chips" id="prac"></div>
+          <div class="chips" id="ssk" hidden></div>
+        </details>
+      </div>
+    </details>
+    <details class="panel step" id="st-formats" open>
+      <summary><span class="num">2</span>Question types<span class="sum" id="sum-formats"></span></summary>
+      <div class="body">
+        <div class="presets" id="presets"></div>
+        <div id="fmts"></div>
+      </div>
+    </details>
+    <details class="panel step" id="st-sources">
+      <summary><span class="num">3</span>Where questions come from<span class="sum" id="sum-sources"></span></summary>
+      <div class="body" id="sources"></div>
+    </details>
+    <div class="go">
+      <button class="btn wide" id="make">Make the worksheet</button>
+      <div class="row">
+        <button class="btn ghost sm" id="addmore" title="Keep the questions you have and add more">Add more questions</button>
+        <button class="btn ghost sm" id="browse">Pick questions one by one</button>
+        <button class="btn ghost sm" id="qfimport" title="Questions you ticked in the Question Finder on this device">Add my Question Finder ticks</button>
+      </div>
+    </div>
+    <div class="panel claude" id="claudebox" hidden>
+      <h3>Write new questions with Claude</h3>
+      <div id="cl-setup" hidden>
+        <p class="hint">Claude can write new questions in the same style as the ones on your worksheet, for any dot point. On this website it uses a teacher’s own Anthropic API key, kept in this browser only.</p>
+        <div class="row" style="margin-top:6px"><button class="btn sm" id="cl-key">Set up Claude…</button></div>
+      </div>
+      <div id="cl-form" hidden>
+        <p class="hint" style="margin-bottom:8px"><b>More like my worksheet</b> copies the style of the questions already on your worksheet for the dot point (or of past HSC questions on it, if there are none yet): the same types, marks and verbs, with new scenarios and data. Check Claude’s questions before you print: they are not from NESA and have not been reviewed.</p>
+        <div class="two-col">
+          <label class="field"><span>What to write</span><select id="cl-fmt"></select></label>
+          <label class="field"><span>How many</span><select id="cl-n"><option>1</option><option>2</option><option>3</option><option>4</option><option selected>5</option><option>6</option><option>8</option><option>10</option></select></label>
+          <label class="field"><span>Dot point</span><select id="cl-dp"></select></label>
+          <label class="field" id="cl-lv-f"><span>Level</span><select id="cl-lv"><option value="1">Foundation</option><option value="2" selected>HSC standard</option><option value="3">Extension (Band 6)</option></select></label>
+          <label class="field"><span>Reading level</span><select id="cl-read"><option value="std" selected>Year 12</option><option value="plain">Plain English (about Year 7)</option></select></label>
+        </div>
+        <label class="field"><span>Anything else (optional)</span><input type="text" id="cl-note" placeholder="e.g. use the 2024 bail changes; focus on doli incapax"></label>
+        <div class="row" style="margin-top:6px"><button class="btn" id="cl-go">Write them</button><button class="btn ghost sm" id="cl-stop" hidden>Stop</button><span class="hint" id="cl-msg" role="status"></span></div>
+        <p class="who" id="cl-who"></p>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="sheet-head">
+      <input id="title" aria-label="Worksheet title" value="Practice worksheet">
+      <button class="btn ghost sm" id="clear" title="Remove every question">Clear</button>
+      <button class="btn ghost sm" id="save">Save</button>
+      <button class="btn gold sm" id="toprint">Layout and print →</button>
+    </div>
+    <p class="stats" id="stats"></p>
+    <div id="list" class="list"></div>
+  </div>
+</section>
+
+<section class="view split" id="v-print" hidden>
+  <div>
+    <div class="panel">
+      <h2 style="font-size:1.05rem;margin-bottom:8px">Page style</h2>
+      <div class="styles" id="styles"></div>
+    </div>
+    <div class="panel" id="layout"></div>
+  </div>
+  <div>
+    <div class="ptools">
+      <button class="btn" id="dl-ws">Download worksheet (PDF)</button>
+      <button class="btn ghost" id="dl-ans">Download answer copy</button>
+      <span class="sp"></span>
+      <label class="small"><input type="checkbox" id="pv-ans"> Preview the answer copy</label>
+    </div>
+    <p class="hint" id="pvnote" style="margin-bottom:8px"></p>
+    <div class="preview" id="preview"><p class="msg">The preview appears here.</p></div>
+  </div>
+</section>
+
+<section class="view" id="v-saved" hidden>
+  <div class="panel saved">
+    <div class="row" style="justify-content:space-between;margin-bottom:10px">
+      <h2 style="font-size:1.1rem">My worksheets</h2>
+      <div class="row"><button class="btn ghost sm" id="exportall">Save all to a file</button><label class="btn ghost sm" style="display:inline-flex;align-items:center">Open a file<input type="file" id="importfile" accept=".json,application/json" hidden></label></div>
+    </div>
+    <p class="hint" style="margin-bottom:10px">Worksheets are kept in this browser. Save them to a file to keep a copy or move them to another computer.</p>
+    <div class="res" id="savedlist"></div>
+  </div>
+</section>
+
+<section class="view help panel" id="v-help" hidden></section>
+</main>
+<p class="foot" id="foot"></p>
+</div>
+
+<dialog id="dlg" aria-labelledby="dlg-t">
+  <div class="dh"><h2 id="dlg-t" style="font-size:1.05rem"></h2><button class="btn ghost sm" data-close>Close</button></div>
+  <div class="db" id="dlg-b"></div>
+  <div class="df" id="dlg-f"></div>
+</dialog>
+<div class="toast" id="toast" role="status" hidden></div>
+<a class="btn gold newtab" id="newtab" target="_blank" rel="noopener" hidden>Open in a new tab ↗</a>
+<script>
+(function () {
+'use strict';
+/* ================================================================ basics */
+const $ = (s, r = document) => r.querySelector(s), $$ = (s, r = document) => [...r.querySelectorAll(s)];
+const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const FIGBASE = window.WM_FIGBASE || '../hsc-question-finder-site/figs/';
+const LIVE_EV = null;
+const KEY = 'legal-worksheet-maker-v1', QFKEY = 'hsc-ls-done';
+const store = {
+  get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); return true; } catch (e) { return false; } }
+};
+function mulberry(a) { return function () { a |= 0; a = a + 0x6D2B79F5 | 0; let t = Math.imul(a ^ a >>> 15, 1 | a); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+const shuffle = (arr, rnd) => { const a = [...arr]; for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const uniq = a => [...new Set(a)];
+const uid = () => Math.random().toString(36).slice(2, 9);
+const clone = o => JSON.parse(JSON.stringify(o));
+const newRnd = () => mulberry((Date.now() ^ Math.floor(Math.random() * 1e9)) >>> 0);
+const sentence1 = s => { const m = String(s).match(/^(.{40,}?[.!?])\s/); return m ? m[1] : String(s); };
+const escRe = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+let toastT = null;
+function toast(msg, undo) {
+  const t = $('#toast'); t.innerHTML = esc(msg) + (undo ? ' <button type="button">Undo</button>' : ''); t.hidden = false;
+  if (undo) t.querySelector('button').onclick = () => { undo(); t.hidden = true; };
+  clearTimeout(toastT); toastT = setTimeout(() => { t.hidden = true; }, undo ? 7000 : 3800);
+}
+
+/* ================================================================ what the page offers */
+const GROUPS = [
+  { id: 'exam', name: 'HSC exam formats', col: '#1c3fb0', css: '--g-exam' },
+  { id: 'legal', name: 'Legal Studies tasks', col: '#0e8a8a', css: '--g-dc' },
+  { id: 'know', name: 'Knowledge checks', col: '#b26a00', css: '--g-know' },
+  { id: 'think', name: 'Thinking tasks', col: '#8a3fb0', css: '--g-think' }];
+const GBY = Object.fromEntries(GROUPS.map(g => [g.id, g]));
+const FMT = [
+  { id: 'mc', g: 'exam', name: 'Multiple choice', d: 'Four options, one answer', u: 'questions', ins: 'Circle the letter of the best answer.' },
+  { id: 'sa', g: 'exam', name: 'Short answer', d: 'Outline, describe, explain: 1 to 8 marks', u: 'questions', ins: 'Answer in the spaces provided.' },
+  { id: 'stim', g: 'exam', name: 'Source-based', d: 'A case, law, media report or data with questions', u: 'sources', ins: 'Read the source, then answer the questions.' },
+  { id: 'er', g: 'exam', name: 'Extended response', d: 'Crime (15 marks) and option (25 marks) essays, with a planning box', u: 'questions', ins: 'Plan first: a judgement that answers the question, then paragraphs that each make a point, support it with evidence (LCMID), analyse it and link back.' },
+  { id: 'scen', g: 'legal', name: 'Scenario application', d: 'Apply the law to a set of facts', u: 'scenarios', ins: 'Read the scenario. Apply the law to the facts in each answer.' },
+  { id: 'cases', g: 'legal', name: 'Match the evidence', d: 'Cases, laws and instruments to their significance', u: 'sets', gen: true, ins: 'Write the letter of the matching significance beside each case, law or instrument.' },
+  { id: 'lcmid', g: 'legal', name: 'LCMID evidence sort', d: 'Legislation, Cases, Media, International instruments, Documents', u: 'tasks', gen: true, ins: 'Write each piece of evidence under the right LCMID heading.' },
+  { id: 'teeacl', g: 'legal', name: 'TEEACL paragraph', d: 'One scaffolded paragraph for an essay question', u: 'paragraphs', ins: 'Write one paragraph. Fill in each row of the TEEACL scaffold.' },
+  { id: 'match', g: 'know', name: 'Match terms', d: 'Key terms to their definitions', u: 'sets', gen: true, ins: 'Write the letter of the matching definition beside each term.' },
+  { id: 'cloze', g: 'know', name: 'Fill the gaps', d: 'Definitions with the key term missing', u: 'sets', gen: true, ins: 'Write the missing key term in each gap.' },
+  { id: 'define', g: 'know', name: 'Define', d: 'Short definitions, 2 marks each', u: 'terms', gen: true, ins: 'Define each term.' },
+  { id: 'tf', g: 'know', name: 'True or false', d: 'Then correct the false ones', u: 'sets', gen: true, ins: 'Write T (true) or F (false). Rewrite each false statement so it is true.' },
+  { id: 'order', g: 'think', name: 'Put in order', d: 'Number the steps of a legal process', u: 'tasks', ins: 'Number the steps in the order they happen.' },
+  { id: 'chain', g: 'think', name: 'Cause and effect chain', d: 'Fill in each step from an event to its outcome', u: 'chains', ins: 'Fill in the missing steps of the chain.' },
+  { id: 'sort', g: 'think', name: 'Sort and classify', d: 'Put each item under the right heading', u: 'tasks', ins: 'Write each item under the right heading.' },
+  { id: 'compare', g: 'think', name: 'Compare', d: 'Complete a comparison table', u: 'tables', ins: 'Complete the table.' },
+  { id: 'error', g: 'think', name: 'Spot the mistake', d: 'Find and fix the mistakes in an answer', u: 'tasks', ins: 'Find the mistakes. Underline each one and write the correction in the table.' }];
+const FBY = Object.fromEntries(FMT.map(f => [f.id, f]));
+const FORDER = Object.fromEntries(FMT.map((f, i) => [f.id, i]));
+const PRESETS = [
+  { n: 'Quick quiz', c: { mc: 10, match: 1, tf: 1 } },
+  { n: 'HSC practice', c: { mc: 8, sa: 3, er: 1 } },
+  { n: 'Key terms', c: { match: 1, cloze: 1, define: 4, tf: 1 } },
+  { n: 'Evidence (LCMID)', c: { cases: 1, lcmid: 1, stim: 1, teeacl: 1 } },
+  { n: 'Apply the law', c: { scen: 2, mc: 5, error: 1 } },
+  { n: 'Thinking', c: { order: 1, chain: 1, sort: 1, compare: 1, error: 1 } },
+  { n: 'Essay skills', c: { teeacl: 2, er: 1 } }];
+const LC = { legislation: 'Legislation', 'case': 'Cases', media: 'Media', international: 'International instruments', document: 'Documents', report: 'Documents' };
+const LCATS = ['Legislation', 'Cases', 'Media', 'International instruments', 'Documents'];
+const EVN = { legislation: 'legislation', 'case': 'case', media: 'media', international: 'international instrument', document: 'document', report: 'report' };
+const STYLES = {
+  exam: { name: 'HSC exam style', d: 'Plain, like the paper: marks on the right, ruled lines scaled to the marks.', font: 'Exam', size: 11, space: 'lines', cols: 1 },
+  book: { name: 'Workbook style', d: 'Your workbook look: navy and gold, coloured activity banners, dotted lines.', font: 'Book', size: 10.5, space: 'dots', cols: 1 },
+  adapt: { name: 'Adapted layout', d: 'Lexend 12 pt, calm pages, word boxes, hints and extra space.', font: 'Lex', size: 12.5, space: 'lines', cols: 1 },
+  compact: { name: 'Compact revision', d: 'Two columns, little or no writing space, for books or quick quizzes.', font: 'Book', size: 9.5, space: 'none', cols: 2 }};
+const KINDN = {};
+const TC = { T1: '#2447d6', T2: '#0e8a8a', T3: '#d9822b', T4: '#8a3fb0', Y1: '#d9822b', Y2: '#8a3fb0', Y3: '#0e8a8a' };
+
+/* ================================================================ data */
+let D = null;
+const POOL = new Map(), DOT = {}, SEC = {}, TOP = {}, SECN = {}, XW = {};
+function indexData() {
+  for (const fw of ['h09', 'y12', 'y11']) for (const t of D.syl[fw] || []) for (const s of t.sections) {
+    SECN[s.id] = s.name;
+    for (const p of s.points) { DOT[p.id] = p.t; SEC[p.id] = s.id; TOP[p.id] = t.id; }
+    TOP[s.id] = t.id;
+  }
+  for (const [c09, ys] of D.xwalk) XW[c09] = ys;     // a 2009 section or dot point -> 2025 sections (Year 12 and Year 11)
+  D.prac.forEach(p => { KINDN[p.k] = p.n; });
+  for (const it of D.items) addToPool(it);
+}
+/* The 2025 sections a code belongs to: a 2025 dot point (Y1a.2, P2e.3) or section (Y3c, P2e) directly; a 2009 dot
+   point through the class crosswalk (2C.1 -> Y3c and P6c). */
+const P11 = ['inv', 'dis', 'chg', 'exp'], P12 = ['cj', 'ir', 'fl', 'hl'], pfx = c => String(c).split('.')[0];
+const isY11 = c => P11.includes(pfx(c)), isY12 = c => P12.includes(pfx(c)), is25 = c => isY11(c) || isY12(c);
+function secs25(c) { return is25(c) ? [SEC[c] || (SECN[c] ? c : '')].filter(Boolean) : (XW[c] || XW[SEC[c]] || []); }
+function addToPool(it) {
+  const all = it.c.concat(it.c25 || []);
+  it._y = uniq(all.flatMap(secs25));                                         // directly or through the crosswalk
+  it._yd = uniq(all.filter(is25).flatMap(secs25));         // tagged to the 2025 syllabus directly
+  POOL.set(it.id, it);
+}
+/* The 2025 sections that count for a question. Year 11 uses only material tagged to Year 11 directly (the Year 11
+   bank, news, key terms and calculations), so HSC-level content does not come in through the crosswalk. The one
+   exception is past HSC questions, which the teacher can add for stretch (step 3). */
+const y25 = it => S.fw === 'y11' && it.src !== 'hsc' ? it._yd || [] : it._y || [];
+/* The teacher's decisions from the Question review page (staff Tools site), saved in bank/reviews.json. A decision
+   counts only while the question is unchanged (same fingerprint h): approved questions lose "not yet reviewed";
+   flagged and removed ones stay out of new worksheets (a sheet that already has one still shows it, labelled). */
+async function loadReviews() {
+  try {
+    const r = await fetch('bank/reviews.json?t=' + Date.now(), { cache: 'no-store' }); if (!r.ok) return 0;
+    const dec = ((await r.json()) || {}).items || {}; let n = 0;
+    const apply = x => { const d = dec[x.id]; if (!d || !x.h || d.h !== x.h) return true; n++;
+      if (d.s === 'ok') { x.rev = 0; delete x.hold; return true; }
+      if (d.s === 'fix' || d.s === 'out') { x.hold = d.s; x.note = d.note || ''; return false; }
+      return true; };
+    D.items.forEach(x => { if (x.src === 'bank') apply(x); });
+    D.tf = D.tf.filter(t => !t.h || apply(t)); D.gloss = D.gloss.filter(t => !t.h || apply(t));
+    return n;
+  } catch (e) { return 0; }
+}
+/* News filed after the last build: read the Evidence Finder's live file (on the class site only). */
+async function liveEvidence() {
+  if (!LIVE_EV) return 0;
+  try {
+    const r = await fetch(LIVE_EV, { cache: 'no-cache' }); if (!r.ok) return 0;
+    const E = await r.json(); let n = 0;
+    for (const e of E) {
+      const id = 'ev:' + e.id; if (POOL.has(id)) continue;
+      const qs = (e.questions || []).filter(q => q.q), c = ((e.about || {}).h09 || []).filter(p => DOT[p]);
+      const c25 = ((e.about || {}).y12 || []).concat((e.about || {}).y11 || []).filter(p => DOT[p]);
+      if (!qs.length || !(c.length || c25.length)) continue;
+      const figs = (e.figures || []).slice(0, 6).map(f => ({ label: f.label || '', value: f.value || '', asAt: f.asAt || '', source: f.source || '' }));
+      const x = { id, src: 'ev', f: 'stim', c, c25, date: e.date, title: e.title, outlets: e.outlets || [], lede: e.lede || '', figs,
+        qs: qs.slice(0, 4).map(q => ({ q: q.q, m: +q.marks || 2 })), guide: e.angle || '', terms: (e.terms || []).slice(0, 4), k: ['stimulus', 'extract'].concat(figs.length ? ['table'] : []), live: true };
+      x.m = x.qs.reduce((a, q) => a + q.m, 0);
+      D.items.push(x); addToPool(x); n++;
+    }
+    return n;
+  } catch (e) { return 0; }
+}
+
+/* ================================================================ state */
+function defaultLayout(style) {
+  const s = STYLES[style];
+  return { style, size: 0, space: s.space, amount: 1, cols: s.cols, group: 'format', marks: true, tags: false, source: true, instr: true,
+    name: true, cls: true, date: true, intro: '', time: true, breaks: style === 'adapt', erPages: style === 'compact' ? 0 : 1, plan: true,
+    answers: 'none', mcGrid: false, hints: style === 'adapt', wordbank: true, version: 'A', diagram: 'blank', course: 'hsc' };
+}
+const newSheet = () => ({ id: 'ws' + Date.now().toString(36), title: 'Practice worksheet', items: [], layout: defaultLayout('exam'), seed: Math.floor(Math.random() * 1e9), created: Date.now() });
+const S = { view: 'build', fw: 'h09', topic: 'T1', q: '', sel09: new Set(), sel25: new Set(), sel11: new Set(), skills: new Set(),
+  counts: { mc: 8, sa: 3 }, src: { hsc: true, hsc11: false, bank: true, ev: true, auto: true }, from: 2011, to: 2025, lv: 0, whole: false, ws: newSheet() };
+let SAMPLE = null, DOWNLOADS = null, CLAUDE = null, APIKEY = null;
+function persist() {
+  store.set(KEY + ':cur', { fw: S.fw, topic: S.topic, sel09: [...S.sel09], sel25: [...S.sel25], sel11: [...S.sel11], skills: [...S.skills], counts: S.counts, src: S.src,
+    from: S.from, to: S.to, lv: S.lv, whole: S.whole, ws: S.ws });
+}
+function restore() {
+  const c = store.get(KEY + ':cur', null); if (!c) return;
+  Object.assign(S, { fw: c.fw || 'h09', topic: c.topic || 'T1', counts: c.counts || S.counts, src: Object.assign(S.src, c.src || {}),
+    from: c.from || 2011, to: c.to || 2025, lv: c.lv || 0, whole: !!c.whole });
+  S.sel09 = new Set(c.sel09 || []); S.sel25 = new Set(c.sel25 || []); S.sel11 = new Set(c.sel11 || []); S.skills = new Set(c.skills || []);
+  if (c.ws && Array.isArray(c.ws.items)) { S.ws = c.ws; S.ws.layout = Object.assign(defaultLayout(c.ws.layout && c.ws.layout.style || 'exam'), c.ws.layout || {}); }
+}
+const itemOf = e => e.item || POOL.get(e.ref);
+
+/* ================================================================ matching */
+/* S.fw: 'h09' (2009 syllabus, HSC dot points), 'y11' or 'y12' (2025 syllabus, Year 11 or Year 12 sections). */
+const selOf = () => S.fw === 'h09' ? S.sel09 : S.fw === 'y11' ? S.sel11 : S.sel25;
+const hasSel = () => selOf().size > 0;
+const courseOf = () => S.fw === 'y11' ? 'y11' : 'hsc';
+const COURSE = { hsc: 'HSC Legal Studies', y11: 'Year 11 Legal Studies' };
+/* The dot points to show for a question: Year 11 codes on a Year 11 sheet, HSC codes otherwise (key terms and
+   calculations can carry both). */
+function codesShown(it) {
+  const all = (it.cs || it.c || []).concat(it.c25 || []), y11 = (LAY().course || 'hsc') === 'y11';
+  const pick = all.filter(c => y11 ? isY11(c) : !isY11(c));
+  return (pick.length ? pick : all).slice(0, 6);
+}
+function inContentC(c) {     // key terms, true/false statements and calculations
+  if (S.fw === 'h09') return c.some(x => S.sel09.has(x));
+  const sel = selOf();
+  if (S.fw === 'y11') return c.some(x => isY11(x) && sel.has(SEC[x]));
+  return c.some(x => secs25(x).some(y => sel.has(y)));
+}
+function inContent(it) { if (S.fw === 'h09') return it.c.some(c => S.sel09.has(c)); const sel = selOf(); return y25(it).some(y => sel.has(y)); }
+function inSkills(k, ss) { if (!S.skills.size) return true; return (k || []).some(x => S.skills.has(x)) || (ss || []).some(x => S.skills.has(x)); }
+function srcOk(it) {
+  if (it.hold) return false;              // flagged for a fix or removed on the Question review page
+  if (it.src === 'hsc') return (S.fw === 'y11' ? S.src.hsc11 : S.src.hsc) && it.y >= S.from && it.y <= S.to;
+  if (it.src === 'bank' || it.src === 'claude') return S.src.bank;
+  if (it.src === 'ev') return S.src.ev;
+  return S.src.auto;
+}
+const lvOk = it => !S.lv || !it.lv || it.lv === S.lv;
+const usable = it => srcOk(it) && inContent(it) && inSkills(it.k, it.ss) && lvOk(it);
+const glossFor = () => D.gloss.filter(t => inContentC(t.c));
+const tfFor = () => D.tf.filter(t => inContentC(t.c));
+const calcFor = () => D.calc.filter(c => inContentC(c.c) && inSkills(['calc'], c.ss));
+const evFor = () => hasSel() ? D.items.filter(it => it.src === 'ev' && it.f === 'stim' && !it.hold && inContent(it)) : [];
+const caseFor = () => evFor().filter(it => ['case', 'legislation', 'international'].includes(it.typ));
+const termsOk = () => S.src.auto && inSkills(['define', 'recall'], []);
+function avail() {
+  const a = {}; FMT.forEach(f => { a[f.id] = { hsc: 0, bank: 0, ev: 0, auto: 0, gen: 0 }; });
+  if (!hasSel()) return a;
+  for (const it of D.items) if (usable(it)) a[it.f][it.src === 'claude' ? 'bank' : it.src]++;
+  if (termsOk()) { const g = glossFor().length; if (g >= 4) { a.match.gen = a.cloze.gen = Math.floor(g / 4); a.mc.gen = g; } a.define.gen = g; }
+  if (S.src.auto && inSkills(['recall', 'explain'], [])) { const t = tfFor().length; if (t >= 4) a.tf.gen = Math.floor(t / 4); }
+  if (S.src.ev && inSkills(['evidence', 'recall'], [])) {
+    const cs = caseFor().length, ev = evFor().length;
+    if (cs >= 4) a.cases.gen = Math.floor(cs / 4);
+    if (ev >= 6) a.lcmid.gen = Math.floor(ev / 6);
+  }
+  if (inSkills(['evaluate', 'evidence'], [])) a.teeacl.gen = D.items.filter(it => it.f === 'er' && usable(it)).length;
+  return a;
+}
+const total = x => x.hsc + x.bank + x.ev + x.auto + (x.gen === Infinity ? 0 : x.gen);
+
+/* ================================================================ generators: key terms, true/false, calculations */
+function termPick(n, rnd, used) {
+  const all = shuffle(glossFor(), rnd), fresh = all.filter(t => !used.has('term:' + t.id));
+  const out = (fresh.length >= n ? fresh : fresh.concat(all.filter(t => used.has('term:' + t.id)))).slice(0, n);
+  out.forEach(t => used.add('term:' + t.id));
+  return out;
+}
+function blankTerm(def, term) {
+  const names = [term, term.replace(/\s*\(.*?\)\s*/g, ' ').trim(), (term.match(/\(([^)]+)\)/) || [])[1]].filter(Boolean);
+  let text = def, hit = false;
+  for (const n of names) { const re = new RegExp('\\b' + escRe(n) + '(?:s|es)?\\b', 'gi'); if (re.test(text)) { text = text.replace(re, '[[gap]]'); hit = true; } }
+  return hit ? text : '[[gap]]: ' + def;
+}
+function genItem(fmt, rnd, used, size) {
+  const base = { id: 'gen:' + fmt + ':' + uid(), src: 'auto', f: fmt, gen: true };
+  if (fmt === 'match') {
+    const T = termPick(size || 8, rnd, used); if (T.length < 4) return null;
+    return Object.assign(base, { c: uniq(T.flatMap(t => t.c)), k: ['define', 'recall'], m: T.length, pairs: T.map(t => ({ term: t.term, def: sentence1(t.def) })), perm: shuffle(T.map((_, i) => i), rnd) });
+  }
+  if (fmt === 'cloze') {
+    const T = termPick(size || 6, rnd, used); if (T.length < 4) return null;
+    const rows = T.map(t => ({ text: blankTerm(sentence1(t.def), t.term), ans: t.term }));
+    const extra = shuffle(glossFor().filter(t => !T.includes(t)), rnd).slice(0, 2).map(t => t.term);
+    return Object.assign(base, { c: uniq(T.flatMap(t => t.c)), k: ['define', 'recall'], m: T.length, rows, words: shuffle(T.map(t => t.term).concat(extra), rnd) });
+  }
+  if (fmt === 'define') {
+    const T = termPick(size || 1, rnd, used); if (!T.length) return null;
+    return Object.assign(base, { c: uniq(T.flatMap(t => t.c)), k: ['define', 'recall'], m: 2 * T.length, rows: T.map(t => ({ term: t.term, def: t.def })) });
+  }
+  if (fmt === 'tf') {
+    const pool = shuffle(tfFor().filter(t => !used.has(t.id)), rnd).slice(0, size || 8); if (pool.length < 4) return null;
+    pool.forEach(t => used.add(t.id));
+    const rows = pool.map(t => { const showTrue = !t.f || (t.t && rnd() < 0.5); return { s: showTrue ? t.t : t.f, ans: showTrue, fix: showTrue ? (t.why || '') : t.t, why: t.why || '' }; });
+    const from = pool.every(t => t.h) ? 'bank' : pool.some(t => t.h) ? 'mixed' : 'chain';      // bank statements carry a fingerprint
+    return Object.assign(base, { c: uniq(pool.flatMap(t => t.c)), k: ['recall', 'explain'], m: rows.length, rows, from });
+  }
+  if (fmt === 'calc') {
+    let skills = calcFor(); if (!skills.length) return null;
+    const fresh = skills.filter(s => !used.has('calc:' + s.id)); if (fresh.length) skills = fresh;
+    const sk = skills[Math.floor(rnd() * skills.length)]; used.add('calc:' + sk.id);
+    return calcItem(sk, rnd);
+  }
+  if (fmt === 'cases') {
+    const all = shuffle(caseFor(), rnd), fresh = all.filter(t => !used.has('case:' + t.id));
+    const T = (fresh.length >= 4 ? fresh : fresh.concat(all.filter(t => used.has('case:' + t.id)))).slice(0, Math.min(size || 6, 8)); if (T.length < 4) return null;
+    T.forEach(t => used.add('case:' + t.id));
+    return Object.assign(base, { src: 'ev', c: uniq(T.flatMap(t => t.c)), k: ['evidence', 'recall'], m: T.length, pairs: T.map(t => ({ term: t.title, def: sentence1(t.sig) })), perm: shuffle(T.map((_, i) => i), rnd) });
+  }
+  if (fmt === 'lcmid') {
+    const all = shuffle(evFor(), rnd), fresh = all.filter(t => !used.has('lc:' + t.id));
+    const T = (fresh.length >= 6 ? fresh : fresh.concat(all.filter(t => used.has('lc:' + t.id)))).slice(0, 10); if (T.length < 6) return null;
+    T.forEach(t => used.add('lc:' + t.id));
+    return Object.assign(base, { src: 'ev', c: uniq(T.flatMap(t => t.c)), k: ['evidence'], m: Math.round(T.length / 2), q: 'Sort each piece of evidence under its LCMID heading. Leave a column empty if nothing belongs in it.', cats: LCATS, rows: T.map(t => ({ t: t.title, cat: LC[t.typ] || 'Documents' })) });
+  }
+  if (fmt === 'teeacl') {
+    const q = shuffle(D.items.filter(it => it.f === 'er' && usable(it) && !used.has('tee:' + it.id)), rnd)[0]; if (!q) return null;
+    used.add('tee:' + q.id); return teeFrom(q, rnd);
+  }
+  if (fmt === 'mc') return termMc(rnd, used);
+  return null;
+}
+/* A TEEACL paragraph task from an essay question, with evidence from the Evidence Finder suggested on the answer copy. */
+function teeFrom(q, rnd) {
+  const want = (q.cs || q.c || []).filter(c => !/\.t\./.test(c));
+  const ev = shuffle(D.items.filter(it => it.src === 'ev' && it.f === 'stim' && !it.hold && it.c.some(c => want.includes(c) || (q.c || []).includes(c))), rnd);
+  const pick = []; for (const typ of ['legislation', 'case', 'media', 'international', 'document', 'report']) pick.push(...ev.filter(e => e.typ === typ).slice(0, typ === 'case' || typ === 'legislation' ? 2 : 1));
+  return { id: 'gen:teeacl:' + uid(), src: 'auto', f: 'teeacl', gen: true, c: q.c, cs: q.cs, k: ['evaluate', 'evidence'], m: 8, q: q.q, lead: q.lead,
+    from: q.src === 'hsc' ? `HSC ${q.y} ${q.l}` : 'a new essay question', evid: pick.map(e => ({ t: e.title, typ: e.typ, sig: sentence1(e.sig) })), pts: (q.pts || []).slice(0, 5) };
+}
+function calcItem(sk, rnd) {
+  const gen = CALC.SK.find(s => s.id === sk.id); CALC.setRNG(rnd); const Q = gen.gen(); CALC.setRNG(Math.random);
+  return { id: 'gen:calc:' + uid(), src: 'auto', f: 'calc', gen: true, c: sk.c, ss: sk.ss, k: ['calc'], skill: sk.id, name: sk.name,
+    blocks: htmlBlocks(Q.q), parts: Q.parts.map(p => Object.assign({}, p, { shown: p.type === 'sel' ? p.value : CALC.f(p.value, p.dp > 0 ? p.dp : 0) + (p.unit ? ' ' + p.unit : '') })),
+    steps: Q.steps, watch: Q.watch, formula: gen.formula, m: Q.parts.length + 1 };
+}
+function termMc(rnd, used) {
+  const G = glossFor(); if (G.length < 4) return null;
+  const T = termPick(1, rnd, used)[0]; if (!T) return null;
+  const same = G.filter(t => t !== T && t.c.some(c => T.c.includes(c))), rest = G.filter(t => t !== T && !same.includes(t));
+  const dist = shuffle(same, rnd).concat(shuffle(rest, rnd)).slice(0, 3); if (dist.length < 3) return null;
+  const opts = shuffle([T].concat(dist), rnd);
+  let stem = sentence1(T.def).replace(new RegExp('\\b' + escRe(T.term.replace(/\s*\(.*?\)/g, '')) + '\\b', 'gi'), '______');
+  return { id: 'gen:mc:' + uid(), src: 'auto', f: 'mc', gen: true, c: T.c, k: ['define', 'recall'], m: 1,
+    q: 'Which key term matches this description? “' + stem + '”', o: opts.map(t => t.term), key: ['ABCD'[opts.indexOf(T)]],
+    e: { why: T.term + ': ' + T.def, not: {} } };
+}
+/* The Calculation Trainer writes its questions as small HTML: turn that into paragraphs and tables. */
+function htmlBlocks(html) {
+  const box = new DOMParser().parseFromString('<div>' + html + '</div>', 'text/html').body.firstChild, out = [];
+  const runs = el => { const r = []; (function walk(n, b) { for (const c of n.childNodes) { if (c.nodeType === 3) { if (c.textContent) r.push({ t: c.textContent, b }); } else walk(c, b || /^(B|STRONG)$/.test(c.tagName)); } })(el, false); return r; };
+  for (const el of box.childNodes) {
+    if (el.nodeType === 3) { if (el.textContent.trim()) out.push({ p: [{ t: el.textContent.trim() }] }); continue; }
+    if (el.tagName === 'TABLE') out.push({ table: [...el.querySelectorAll('tr')].map(tr => [...tr.children].map(td => td.textContent.trim())) });
+    else out.push({ p: runs(el) });
+  }
+  return out;
+}
+
+/* ================================================================ making a worksheet */
+function firstSel(it) {
+  if (S.fw === 'h09') return it.c.find(c => S.sel09.has(c)) || it.c[0] || '';
+  const sel = selOf(); return y25(it).find(y => sel.has(y)) || '';
+}
+function pickFor(fmt, n, rnd, used) {
+  const out = [];
+  if (['match', 'cloze', 'define', 'tf', 'cases', 'lcmid'].includes(fmt)) {
+    if (fmt === 'define') { const x = genItem('define', rnd, used, n); if (x) out.push({ k: uid(), item: x }); return out; }
+    for (let i = 0; i < n; i++) { const x = genItem(fmt, rnd, used, LAY().style === 'adapt' ? 5 : (LAY().style === 'compact' ? 10 : 8)); if (!x) break; out.push({ k: uid(), item: x }); }
+    return out;
+  }
+  const cands = shuffle(D.items.filter(it => it.f === fmt && usable(it) && !used.has(it.id)), rnd);
+  const buckets = new Map();
+  for (const it of cands) { const k = firstSel(it); if (!buckets.has(k)) buckets.set(k, []); buckets.get(k).push(it); }
+  const keys = shuffle([...buckets.keys()], rnd), chosen = [];
+  while (chosen.length < n && keys.some(k => buckets.get(k).length)) for (const k of keys) { const b = buckets.get(k); if (b.length && chosen.length < n) chosen.push(b.shift()); }
+  for (const it of chosen) {
+    used.add(it.id); out.push({ k: uid(), ref: it.id });
+    if (fmt === 'sa' && it.grp && S.whole) for (const sib of D.items) if (sib.grp === it.grp && sib.id !== it.id && !used.has(sib.id)) { used.add(sib.id); out.push({ k: uid(), ref: sib.id }); }
+  }
+  if (fmt === 'teeacl') for (let i = out.length; i < n; i++) { const x = genItem('teeacl', rnd, used); if (!x) break; out.push({ k: uid(), item: x }); }
+  if (fmt === 'mc' && out.length < n && termsOk()) for (let i = out.length; i < n; i++) { const x = termMc(rnd, used); if (!x) break; out.push({ k: uid(), item: x }); }
+  return out;
+}
+function usedSet() {
+  const used = new Set();
+  for (const e of S.ws.items) { const it = itemOf(e); if (!it) continue; used.add(it.id);
+    (it.pairs || []).forEach(p => used.add('term:' + (D.gloss.find(t => t.term === p.term) || {}).id));
+    if (it.skill) used.add('calc:' + it.skill); }
+  return used;
+}
+function make(append) {
+  if (!hasSel()) { toast('Choose at least one dot point first.'); $('#st-content').open = true; $('#st-content').scrollIntoView({ behavior: 'smooth' }); return; }
+  const before = clone(S.ws.items);
+  if (!append) S.ws.items = [];
+  if (!S.ws.items.length) S.ws.layout.course = courseOf();
+  const rnd = newRnd(), used = usedSet(), short = [];
+  let added = 0;
+  for (const f of FMT) {
+    const n = S.counts[f.id] || 0; if (!n) continue;
+    const got = pickFor(f.id, n, rnd, used);
+    S.ws.items.push(...got); added += got.length;
+    const wanted = f.id === 'define' ? 1 : n;
+    if (got.length < wanted) short.push(`${f.name.toLowerCase()} (${got.length} of ${n})`);
+  }
+  if (!append && (S.ws.title === 'Practice worksheet' || S.ws.autoT) || !S.ws.title) { S.ws.title = autoTitle(); S.ws.autoT = true; }
+  persist(); renderAll();
+  if (!added) toast('No questions match. Choose more dot points, more question types or more sources.');
+  else toast(short.length ? `Added ${added}. Not enough for: ${short.join(', ')}.` : `Added ${added} ${added === 1 ? 'question' : 'questions'}.`, () => { S.ws.items = before; persist(); renderAll(); });
+}
+function autoTitle() {
+  if (S.fw === 'h09') {
+    const secs = uniq([...S.sel09].map(p => SEC[p]));
+    if (secs.length === 1) return SECN[secs[0]] + ': practice';
+    const tops = uniq([...S.sel09].map(p => TOP[p]));
+    if (tops.length === 1) { const t = D.syl.h09.find(x => x.id === tops[0]); return t.name + ': practice'; }
+    return 'HSC Legal Studies practice';
+  }
+  const secs = [...selOf()], tops = uniq(secs.map(x => TOP[x]));
+  if (secs.length === 1) return SECN[secs[0]] + ': practice';
+  const t = tops.length === 1 && (D.syl[S.fw] || []).find(x => x.id === tops[0]);
+  if (t) return t.name.charAt(0).toUpperCase() + t.name.slice(1) + ': practice';
+  return COURSE[courseOf()] + ' practice';
+}
+
+/* ================================================================ worksheet order and numbering */
+const LAY = () => S.ws.layout;
+function topicKey(it) { const c = it.c[0] || ''; return (TOP[c] || 'T9') + (SEC[c] || ''); }
+function ordered() {
+  const ents = S.ws.items.map((e, i) => ({ e, it: itemOf(e), i })).filter(x => x.it);
+  const g = LAY().group;
+  if (g === 'format') ents.sort((a, b) => FORDER[a.it.f] - FORDER[b.it.f] || a.i - b.i);
+  else if (g === 'topic') ents.sort((a, b) => topicKey(a.it).localeCompare(topicKey(b.it)) || FORDER[a.it.f] - FORDER[b.it.f] || a.i - b.i);
+  // the parts of one HSC question stay together, in the order the paper set them
+  const out = [], done = new Set();
+  for (const x of ents) {
+    if (done.has(x)) continue;
+    if (x.it.f === 'sa' && x.it.grp) ents.filter(y => y.it.f === 'sa' && y.it.grp === x.it.grp).sort((a, b) => String(a.it.l).localeCompare(String(b.it.l))).forEach(y => { out.push(y); done.add(y); });
+    else { out.push(x); done.add(x); }
+  }
+  return out;
+}
+/* Consecutive parts of the same HSC question become one numbered question. */
+function units(ents) {
+  const U = [];
+  for (const x of ents) {
+    const last = U[U.length - 1];
+    if (last && x.it.f === 'sa' && x.it.grp && last.f === 'sa' && last.grp === x.it.grp) { last.ents.push(x); continue; }
+    U.push({ f: x.it.f, grp: x.it.f === 'sa' ? x.it.grp : null, ents: [x] });
+  }
+  U.forEach((u, i) => { u.num = i + 1; u.marks = u.ents.reduce((a, x) => a + (x.it.m || 0), 0); });
+  return U;
+}
+const marksOf = it => it.m || 0;
+function sheetStats() {
+  const ents = ordered(); let marks = 0, mins = 0;
+  for (const x of ents) { const m = marksOf(x.it); marks += m; mins += m * (['mc', 'sa', 'er', 'stim', 'scen', 'teeacl'].includes(x.it.f) ? 1.8 : 1.1); }
+  return { n: units(ents).length, marks, mins: Math.max(5, Math.round(mins / 5) * 5) };
+}
+
+/* ================================================================ labels for the cards */
+function srcLabel(it) {
+  if (it.src === 'hsc') return `HSC ${it.y} ${it.l}`;
+  if (it.src === 'ev') return it.f === 'stim' ? 'Evidence Finder · ' + (EVN[it.typ] || 'source') : 'From the Evidence Finder';
+  if (it.src === 'bank') return 'New question';
+  if (it.src === 'claude') return 'Written by Claude';
+  if (it.f === 'teeacl') return 'From ' + (it.from || 'an essay question');
+  if (it.f === 'mc' && !it.gen) return 'Crime practice set';
+  if (it.f === 'tf') return 'New statements';
+  return 'Key terms';
+}
+function plain(s) { return String(s || '').replace(/\[\[(.+?)=>(.+?)\]\]/g, '$1').replace(/\[\[gap\]\]/g, '______').replace(/<[^>]+>/g, ''); }
+function preview(it) {
+  const t = s => esc(plain(s));
+  switch (it.f) {
+    case 'mc': return (it.lead ? '<i>' + t(it.lead) + '</i>\n' : '') + t(it.q) + (it.fig ? ' <i>[figure or table]</i>' : '') + (it.mat ? ' <i>[options in a table]</i>' : '<ol type="A">' + it.o.map(o => `<li>${t(o)}</li>`).join('') + '</ol>');
+    case 'sa': case 'scen': case 'read': return (it.lead ? t(it.lead) + '\n' : '') + (it.parts ? it.parts.map(p => `${p.label} ${t(p.q)} (${p.m})`).join('\n') : t(it.q)) + (it.fig || it.table ? ' <i>[figure or table]</i>' : '');
+    case 'teeacl': return `<b>TEEACL paragraph</b> for: ` + t(it.q);
+    case 'er': return (it.lead ? '<i>' + t(it.lead).slice(0, 160) + '</i>\n' : '') + t(it.q) + (it.fig ? ' <i>[stimulus]</i>' : '');
+    case 'stim': return `<b>${t(it.title)}</b>\n` + t(it.lede).slice(0, 220) + (it.lede.length > 220 ? '…' : '') + '\n' + it.qs.map((q, i) => `(${'abcd'[i]}) ${t(q.q)} (${q.m})`).join('\n');
+    case 'calc': return `<b>${t(it.name)}</b>: ` + t(it.blocks.map(b => b.p ? b.p.map(r => r.t).join('') : '[table]').join(' ')).slice(0, 260);
+    case 'draw': case 'label': return t(it.q);
+    case 'cases': return `${it.pairs.length} pieces of evidence: ` + it.pairs.map(p => t(p.term)).join('; ');
+    case 'match': return `${it.pairs.length} terms: ` + it.pairs.map(p => t(p.term)).join(', ');
+    case 'cloze': return `${it.rows.length} gaps: ` + it.rows.map(r => t(r.ans)).join(', ');
+    case 'define': return it.rows.map(r => t(r.term)).join(', ');
+    case 'tf': return `${it.rows.length} statements, e.g. “${t(it.rows[0].s)}”`;
+    case 'chain': return `<b>${t(it.title)}${it.strand ? ': ' + t(it.strand) : ''}</b>\n${t(it.trigger)} (${it.steps.length} steps)`;
+    case 'order': return `<b>${t(it.title)}</b> (${it.steps.length} steps)`;
+    case 'lcmid': return `${it.rows.length} pieces of evidence to sort: ` + it.rows.map(r => t(r.t)).join('; ');
+    case 'sort': return t(it.q) + '\nHeadings: ' + it.cats.map(t).join(' · ');
+    case 'compare': return t(it.q) + '\nColumns: ' + it.cols.map(t).join(' · ');
+    case 'error': return t(it.q || 'Spot the error') + '\n' + t(it.text).slice(0, 200) + '…';
+  }
+  return '';
+}
+
+/* ================================================================ rendering: step 1, the syllabus */
+function topicsNow() { return D.syl[S.fw]; }
+function countFor(pointOrSec) {
+  // how many questions (any type, current sources) sit under a dot point (2009) or section (2025)
+  let n = 0;
+  for (const it of D.items) {
+    if (!srcOk(it) || !lvOk(it)) continue;
+    if (S.fw === 'h09' ? it.c.includes(pointOrSec) : y25(it).includes(pointOrSec)) n++;
+  }
+  return n;
+}
+function renderContent() {
+  const T = topicsNow(); if (!T.some(t => t.id === S.topic)) S.topic = T[0].id;
+  const selN = selOf().size;
+  $('#ttabs').innerHTML = T.map(t => {
+    const n = S.fw === 'h09' ? t.sections.flatMap(s => s.points).filter(p => S.sel09.has(p.id)).length : t.sections.filter(s => selOf().has(s.id)).length;
+    return `<button class="ttab" style="--tc:${t.color}" data-t="${t.id}" aria-pressed="${t.id === S.topic}">${esc(t.label || t.id)}${n ? `<span class="c">${n}</span>` : ''}</button>`;
+  }).join('');
+  const q = S.q.trim().toLowerCase();
+  const tops = q ? T : T.filter(t => t.id === S.topic);
+  let html = '';
+  for (const t of tops) for (const s of t.sections) {
+    if (s.skills) continue;
+    if (S.fw === 'h09') {
+      const pts = s.points.filter(p => !q || (p.id + ' ' + p.t + ' ' + s.name).toLowerCase().includes(q)); if (!pts.length) continue;
+      const on = pts.filter(p => S.sel09.has(p.id)).length;
+      html += `<details class="sec" ${q || on ? 'open' : ''}><summary><input type="checkbox" data-sec="${s.id}" ${on === pts.length ? 'checked' : ''} aria-label="All of ${esc(s.name)}"><span class="id">${s.id}</span>${esc(s.name)}<span class="cnt">${on ? on + ' of ' : ''}${pts.length}</span></summary>`
+        + pts.map(p => { const n = countFor(p.id); return `<label class="pt ${n ? '' : 'none'}"><input type="checkbox" data-p="${p.id}" ${S.sel09.has(p.id) ? 'checked' : ''}><span class="id">${p.id}</span><span>${esc(p.t)}</span><span class="cnt">${n}</span></label>`; }).join('') + '</details>';
+    } else {
+      if (s.themes) continue;
+      if (q && !(s.id + ' ' + s.name + ' ' + s.points.map(p => p.t).join(' ')).toLowerCase().includes(q)) continue;
+      const n = countFor(s.id);
+      html += `<div class="sec" style="padding:6px 0"><label class="pt ${n ? '' : 'none'}" style="grid-template-columns:22px 50px 1fr auto;padding-left:0"><input type="checkbox" data-s25="${s.id}" ${selOf().has(s.id) ? 'checked' : ''}><span class="id">${s.id}</span><span><b>${esc(s.name)}</b><br><span class="hint">${esc((t => t.length > 150 ? t.slice(0, 148) + '…' : t)(s.points.map(p => p.t).join('; ')))}</span></span><span class="cnt">${n}</span></label></div>`;
+    }
+  }
+  $('#secs').innerHTML = html || '<p class="hint" style="padding:10px">Nothing matches that search.</p>';
+  $('#selline').innerHTML = selN ? `<b>${selN}</b> ${S.fw === 'h09' ? (selN === 1 ? 'dot point' : 'dot points') : (selN === 1 ? 'section' : 'sections')} chosen <button class="btn ghost sm" id="selclear">Clear</button>` + (S.fw === 'y12' ? ' <span class="hint">Past HSC questions, evidence and the 2009 bank are matched to the 2025 Year 12 content through the class crosswalk; questions written for the 2025 content are tagged to it directly.</span>' : S.fw === 'y11' ? ' <span class="hint">Questions, evidence and key terms tagged to the 2025 Year 11 course. Past HSC questions are optional (step 3).</span>' : '') : `<span class="hint">${S.fw === 'h09' ? 'Tick the dot points to practise. Tick a section heading to take all of it.' : `Tick the ${S.fw === 'y11' ? 'Year 11' : 'Year 12'} sections to practise.`}</span>`;
+  $('#sum-content').textContent = selN ? `${selN} chosen` : '';
+  // skills
+  $('#prac').innerHTML = D.prac.map(p => `<button class="chip" data-k="${p.k}" aria-pressed="${S.skills.has(p.k)}">${esc(p.n)}</button>`).join('');
+  $('#skillcnt').textContent = S.skills.size ? S.skills.size + ' on' : '';
+}
+
+/* ================================================================ rendering: steps 2 and 3 */
+function renderFormats() {
+  const A = avail();
+  $('#presets').innerHTML = PRESETS.map((p, i) => `<button class="chip" data-pre="${i}">${esc(p.n)}</button>`).join('') + '<button class="chip" data-pre="none">None</button>';
+  $('#fmts').innerHTML = GROUPS.map(g => `<div class="grp" style="--gc:var(${g.css})"><h3>${esc(g.name)}</h3>` + FMT.filter(f => f.g === g.id).map(f => {
+    const a = A[f.id], n = S.counts[f.id] || 0, tot = total(a);
+    const bits = [a.hsc && `${a.hsc} past HSC`, a.bank && `${a.bank} new`, a.ev && `${a.ev} from the Evidence Finder`, a.auto && `${a.auto} from class tools`,
+      a.gen === Infinity ? 'new numbers each time' : (a.gen && (f.id === 'mc' ? `${a.gen} key terms` : f.id === 'define' ? `${a.gen} terms` : f.id === 'teeacl' ? `${a.gen} from essay questions` : `about ${a.gen} sets`))].filter(Boolean);
+    const none = !tot && !a.gen;
+    return `<div class="fmt ${none ? 'zero' : ''}"><b>${esc(f.name)}</b><span class="stepper"><button data-dec="${f.id}" aria-label="Fewer ${esc(f.name)}">−</button><output>${n}</output><button data-inc="${f.id}" aria-label="More ${esc(f.name)}">+</button></span><span class="d">${esc(f.d)}<br><span class="av">${hasSel() ? (bits.length ? bits.join(' · ') : 'none for these dot points') : ''}</span></span></div>`;
+  }).join('') + '</div>').join('');
+  const nq = FMT.reduce((s, f) => s + (S.counts[f.id] || 0), 0);
+  $('#sum-formats').textContent = nq ? `${nq} chosen` : '';
+  renderClaudeBox();
+}
+function renderSources() {
+  const yrs = []; for (let y = 2011; y <= 2025; y++) yrs.push(y);
+  const opt = (v, cur) => yrs.map(y => `<option ${y === cur ? 'selected' : ''}>${y}</option>`).join('');
+  $('#sources').innerHTML = `
+    <label class="opt"><input type="checkbox" data-src="${S.fw === 'y11' ? 'hsc11' : 'hsc'}" ${(S.fw === 'y11' ? S.src.hsc11 : S.src.hsc) ? 'checked' : ''}><span><b>Past HSC questions</b>${S.fw === 'y11' ? ' (Year 12 level, for stretch: those the class crosswalk links to the Year 11 content)' : S.fw === 'y12' ? ' (set on the 2009 syllabus, matched through the class crosswalk)' : ''} from the Question Finder, from <select id="from" aria-label="From">${opt(0, S.from)}</select> to <select id="to" aria-label="To">${opt(0, S.to)}</select>, with NESA’s marking criteria</span></label>
+    <label class="opt" style="padding-left:24px"><input type="checkbox" id="whole" ${S.whole ? 'checked' : ''}><span>Keep HSC short-answer questions whole (add every part of a question)</span></label>
+    <label class="opt"><input type="checkbox" data-src="bank" ${S.src.bank ? 'checked' : ''}><span><b>New practice questions</b> written for this site: ${S.fw === 'y11' ? 'Year 11' : 'HSC-style'} questions, scenarios, sources, sorting, comparing and spot-the-mistake tasks${CLAUDE ? ', and any Claude writes for you' : ''}</span></label>
+    <label class="opt"><input type="checkbox" data-src="ev" ${S.src.ev ? 'checked' : ''}><span><b>The Evidence Finder</b>: the class’s cases, legislation, media, international instruments, documents and reports, as sources with questions, matching tasks and LCMID sorts</span></label>
+    <label class="opt"><input type="checkbox" data-src="auto" ${S.src.auto ? 'checked' : ''}><span><b>Built from the class tools</b>: key terms (the Crime Glossary and the terms written for the other topics), true or false, the Crime practice multiple choice and TEEACL paragraphs made from essay questions</span></label>
+    <label class="field" style="max-width:280px"><span>Level of the new questions</span><select id="lv"><option value="0">Any level</option><option value="1" ${S.lv === 1 ? 'selected' : ''}>Foundation</option><option value="2" ${S.lv === 2 ? 'selected' : ''}>${S.fw === 'y11' ? 'Year 11 standard' : 'HSC standard'}</option><option value="3" ${S.lv === 3 ? 'selected' : ''}>${S.fw === 'y11' ? 'Extension' : 'Extension (Band 6)'}</option></select></label>`;
+  const on = [S.fw === 'y11' ? 'hsc11' : 'hsc', 'bank', 'ev', 'auto'].filter(k => S.src[k]).length;
+  $('#sum-sources').textContent = on === 4 ? 'all sources' : `${on} of 4 sources`;
+}
+
+/* ================================================================ rendering: the worksheet list */
+function renderList() {
+  if (document.activeElement !== $('#title')) $('#title').value = S.ws.title;
+  const ents = ordered(), U = units(ents), st = sheetStats();
+  $('#stats').textContent = ents.length ? `${st.n} ${st.n === 1 ? 'question' : 'questions'} · ${st.marks} marks · about ${st.mins} minutes` : '';
+  if (!ents.length) { $('#list').innerHTML = `<div class="empty"><p><b>No questions yet.</b></p><p>Choose dot points and question types on the left, then press <b>Make the worksheet</b>. You can also pick questions one by one, or add the questions you ticked in the Question Finder.</p></div>`; return; }
+  let html = '', lastHead = null;
+  for (const u of U) {
+    const it0 = u.ents[0].it, g = GBY[FBY[it0.f].g];
+    const head = LAY().group === 'format' ? FBY[it0.f].name : LAY().group === 'topic' ? (TOP[it0.c[0]] || '') + ' ' + (SECN[SEC[it0.c[0]]] || '') : null;
+    if (head && head !== lastHead) { html += `<div class="parthead" style="--gc:var(${g.css})">${esc(head)}</div>`; lastHead = head; }
+    for (const x of u.ents) {
+      const it = x.it, isFirst = x === u.ents[0];
+      const acts = [`<button data-act="up" data-k="${x.e.k}" aria-label="Move up">↑</button>`, `<button data-act="down" data-k="${x.e.k}" aria-label="Move down">↓</button>`,
+        `<button data-act="swap" data-k="${x.e.k}" title="Replace with another question like it">Swap</button>`,
+        (it.src === 'hsc' ? `<button data-act="like" data-k="${x.e.k}" title="Add a new question of the same kind">Look-alike</button>` : ''),
+        (CLAUDE && (it.src === 'hsc' || it.src === 'bank' || it.src === 'ev') ? `<button class="c" data-act="clike" data-k="${x.e.k}" title="Claude writes a new question modelled on this one">Look-alike by Claude</button>` : ''),
+        (CLAUDE && ['mc', 'sa', 'scen', 'er', 'stim', 'teeacl', 'sort', 'compare', 'error'].includes(it.f) ? `<button class="c" data-act="plain" data-k="${x.e.k}" title="Claude rewrites the wording in plain English">Simpler wording</button>` : ''),
+        `<button data-act="edit" data-k="${x.e.k}">Edit</button>`, `<button data-act="del" data-k="${x.e.k}">Remove</button>`].join('');
+      html += `<div class="q" style="--gc:var(${g.css})"><span class="no">${isFirst ? u.num : ''}</span><div class="meta"><span class="f">${esc(FBY[it.f].name)}</span><span>${esc(srcLabel(it))}</span><span>${esc(codesShown(it).slice(0, 4).join(' '))}</span><span class="m">${marksOf(it)} ${marksOf(it) === 1 ? 'mark' : 'marks'}</span>${it.hold ? `<span class="rev">${it.hold === 'fix' ? 'flagged: needs a fix' : 'removed from the bank'}</span>` : it.rev ? '<span class="rev">not yet reviewed</span>' : ''}${it.src === 'claude' ? '<span class="rev">check before printing</span>' : ''}${it.ed ? '<span>edited</span>' : ''}${it.part ? `<span>part ${esc(it.part)}</span>` : ''}</div><div class="txt">${preview(it)}</div><div class="acts">${acts}</div></div>`;
+    }
+  }
+  $('#list').innerHTML = html;
+}
+function renderAll() { renderContent(); renderFormats(); renderSources(); renderList(); renderClaudeBox(); }
+
+/* ================================================================ worksheet actions */
+function entryIndex(k) { return S.ws.items.findIndex(e => e.k === k); }
+function moveEntry(k, dir) {
+  const ents = ordered(), pos = ents.findIndex(x => x.e.k === k); if (pos < 0) return;
+  const tgt = ents[pos + dir]; if (!tgt) return;
+  if (LAY().group === 'format' && tgt.it.f !== ents[pos].it.f) return;
+  const a = entryIndex(k), b = entryIndex(tgt.e.k); [S.ws.items[a], S.ws.items[b]] = [S.ws.items[b], S.ws.items[a]];
+  persist(); renderList();
+}
+function similarPool(it) {
+  return D.items.filter(x => x.f === it.f && x.id !== it.id && srcOk(x) && (hasSel() ? inContent(x) : x.c.some(c => it.c.includes(c))) && !S.ws.items.some(e => (e.ref || (e.item && e.item.id)) === x.id));
+}
+function swapEntry(k) {
+  const i = entryIndex(k), it = itemOf(S.ws.items[i]); if (!it) return;
+  const before = clone(S.ws.items[i]), rnd = newRnd();
+  if (it.gen) {
+    const saved = { sel09: S.sel09, sel25: S.sel25, sel11: S.sel11 };
+    if (!hasSel()) {
+      if (S.fw === 'h09') S.sel09 = new Set(it.c);
+      else { const secs = new Set(it.c.flatMap(secs25).filter(y => S.fw === 'y11' ? isY11(y) : isY12(y))); if (S.fw === 'y11') S.sel11 = secs; else S.sel25 = secs; }
+    }
+    let x = it.f === 'calc' ? calcItem(D.calc.find(c => c.id === it.skill), rnd) : genItem(it.f, rnd, usedSet(), (it.pairs || it.rows || []).length || 8);
+    Object.assign(S, saved);
+    if (!x) { toast('No other question of this kind for these dot points.'); return; }
+    S.ws.items[i] = { k, item: x };
+  } else {
+    const p = similarPool(it); if (!p.length) { toast('No other question of this kind for these dot points.'); return; }
+    const near = p.filter(x => x.c.some(c => it.c.includes(c))), pick = (near.length ? near : p)[Math.floor(rnd() * (near.length || p.length))];
+    S.ws.items[i] = { k, ref: pick.id };
+  }
+  persist(); renderList(); toast('Swapped.', () => { S.ws.items[entryIndex(k)] = before; persist(); renderList(); });
+}
+function lookAlike(k) {
+  const i = entryIndex(k), it = itemOf(S.ws.items[i]); if (!it) return;
+  const rnd = newRnd();
+  const sk = (it.k || []).includes('calc') && D.calc.find(c => c.c.some(x => it.c.includes(x)));
+  let add = null;
+  if (sk) add = { k: uid(), item: calcItem(sk, rnd) };
+  else {
+    const like = D.items.filter(x => (x.like || []).includes(it.id) && !S.ws.items.some(e => e.ref === x.id));
+    const same = like.length ? like : D.items.filter(x => x.src !== 'hsc' && x.f === (it.f === 'er' ? 'er' : it.f) && x.c.some(c => it.c.includes(c)) && !S.ws.items.some(e => e.ref === x.id));
+    if (same.length) add = { k: uid(), ref: same[Math.floor(rnd() * same.length)].id };
+    else if (it.k && it.k.includes('diagram')) { const d = D.items.filter(x => x.f === 'draw' && x.c.some(c => it.c.includes(c))); if (d.length) add = { k: uid(), ref: d[Math.floor(rnd() * d.length)].id }; }
+  }
+  if (!add) { toast(CLAUDE ? 'No ready-made look-alike for this one: try “Look-alike by Claude”.' : 'No ready-made look-alike for this question yet.'); return; }
+  S.ws.items.splice(i + 1, 0, add); persist(); renderList(); toast('Added a look-alike after it.', () => { S.ws.items.splice(entryIndex(add.k), 1); persist(); renderList(); });
+}
+function removeEntry(k) {
+  const i = entryIndex(k), e = S.ws.items[i]; S.ws.items.splice(i, 1); persist(); renderList(); renderFormats();
+  toast('Removed.', () => { S.ws.items.splice(i, 0, e); persist(); renderList(); });
+}
+
+/* ================================================================ dialogs: edit, browse */
+const dlg = $('#dlg');
+function openDlg(title, body, foot) { $('#dlg-t').textContent = title; $('#dlg-b').innerHTML = body; $('#dlg-f').innerHTML = foot || ''; if (!dlg.open) dlg.showModal(); }
+dlg.addEventListener('click', e => { if (e.target.matches('[data-close]') || e.target === dlg) dlg.close(); });
+function editEntry(k) {
+  const i = entryIndex(k), it = clone(itemOf(S.ws.items[i]));
+  const ta = (id, label, v, rows) => `<label class="field"><span>${label}</span><textarea id="${id}" rows="${rows || 3}">${esc(v || '')}</textarea></label>`;
+  let body = '';
+  if (it.lead !== undefined || ['sa', 'scen', 'mc', 'er'].includes(it.f)) body += ta('e-lead', it.f === 'scen' ? 'Scenario' : 'Lead-in, scenario or quote (optional)', it.lead, it.f === 'scen' ? 5 : 2);
+  if (it.parts) body += it.parts.map((p, j) => ta('e-p' + j, `Part ${esc(p.label)} (${p.m} marks)`, p.q, 2) + `<label class="field"><span>Marks for ${esc(p.label)}</span><input type="number" id="e-pm${j}" min="0" max="20" value="${p.m}"></label>`).join('');
+  else if ('q' in it) body += ta('e-q', it.f === 'mc' ? 'Question (stem)' : 'Question or instructions', it.q, 4);
+  if (it.f === 'mc' && !it.mat) body += it.o.map((o, j) => `<label class="field"><span>Option ${'ABCD'[j]}</span><input type="text" id="e-o${j}" value="${esc(o)}"></label>`).join('');
+  if (it.f === 'mc') body += `<label class="field"><span>Correct answer</span><select id="e-key">${'ABCD'.split('').map(L => `<option ${(it.key || []).includes(L) ? 'selected' : ''}>${L}</option>`).join('')}</select></label>`;
+  if (!it.parts) body += `<label class="field"><span>Marks</span><input type="number" id="e-m" min="0" max="25" value="${marksOf(it)}"></label>`;
+  if (['sa', 'er', 'scen', 'stim', 'teeacl'].includes(it.f)) body += `<label class="field"><span>Extra writing lines (can be negative)</span><input type="number" id="e-x" min="-20" max="40" value="${it.xl || 0}"></label>`;
+  if (['sa', 'er', 'teeacl'].includes(it.f) && !it.parts) body += ta('e-ans', 'Answer or marking notes for the answer copy (one point per line)', it.ans || (it.pts || []).join('\n') || (it.could || []).join('\n'), 4);
+  openDlg('Edit question', body || '<p>This kind of task has nothing to edit here apart from its marks.</p>', '<button class="btn ghost" data-close>Cancel</button><button class="btn" id="e-save">Save changes</button>');
+  $('#e-save').onclick = () => {
+    const v = id => { const el = $('#' + id); return el ? el.value : undefined; };
+    if (v('e-lead') !== undefined) it.lead = v('e-lead').trim() || undefined;
+    if (it.parts) it.parts.forEach((p, j) => { p.q = v('e-p' + j); p.m = +v('e-pm' + j) || 0; }), it.m = it.parts.reduce((a, p) => a + p.m, 0);
+    else if (v('e-q') !== undefined) it.q = v('e-q');
+    if (it.f === 'mc' && !it.mat) it.o = it.o.map((o, j) => v('e-o' + j));
+    if (it.f === 'mc') it.key = [v('e-key')];
+    if (v('e-m') !== undefined) it.m = +v('e-m') || 0;
+    if (v('e-x') !== undefined) it.xl = +v('e-x') || 0;
+    if (v('e-ans') !== undefined) { const lines = v('e-ans').split('\n').map(s => s.trim()).filter(Boolean); if (lines.length > 1) { it.pts = lines; delete it.ans; } else if (lines.length) { it.ans = lines[0]; delete it.pts; } }
+    it.ed = true; it.id = it.id.startsWith('ed:') ? it.id : 'ed:' + it.id;
+    S.ws.items[i] = { k, item: it }; persist(); dlg.close(); renderList(); toast('Saved your changes to this worksheet.');
+  };
+}
+function browse() {
+  const fmts = FMT.map(f => `<option value="${f.id}">${esc(f.name)}</option>`).join('');
+  openDlg('Pick questions one by one', `<div class="row" style="margin-bottom:8px"><input class="search" id="b-q" style="flex:1 1 220px;margin:0" type="search" placeholder="Search the question text"><select id="b-f"><option value="">Every type</option>${fmts}</select><select id="b-s"><option value="">Every source</option><option value="hsc">Past HSC</option><option value="bank">New questions</option><option value="ev">Evidence Finder</option><option value="auto">Class tools</option></select></div><label class="opt"><input type="checkbox" id="b-mine" ${hasSel() ? 'checked' : ''}> Only the dot points I chose</label><div class="res" id="b-res"></div>`, '<button class="btn" data-close>Done</button>');
+  let limit = 60;
+  const draw = () => {
+    const q = $('#b-q').value.trim().toLowerCase(), f = $('#b-f').value, s = $('#b-s').value, mine = $('#b-mine').checked;
+    const res = D.items.filter(it => !it.hold && (!f || it.f === f) && (!s || it.src === s) && (!mine || inContent(it)) && (!q || JSON.stringify([it.q, it.title, it.lede, it.o, it.parts, it.id]).toLowerCase().includes(q)));
+    const inSheet = new Set(S.ws.items.map(e => e.ref).filter(Boolean));
+    $('#b-res').innerHTML = `<p class="hint">${res.length} found</p>` + res.slice(0, limit).map(it => `<div class="r"><div><div class="meta">${esc(FBY[it.f].name)} · ${esc(srcLabel(it))} · ${esc(codesShown(it).join(' '))} · ${marksOf(it)} marks</div><div class="t">${preview(it)}</div></div><button class="btn sm ${inSheet.has(it.id) ? 'ghost' : ''}" data-add="${esc(it.id)}" ${inSheet.has(it.id) ? 'disabled' : ''}>${inSheet.has(it.id) ? 'Added' : 'Add'}</button></div>`).join('')
+      + (res.length > limit ? `<button class="btn ghost sm" id="b-more">Show more</button>` : '');
+    const more = $('#b-more'); if (more) more.onclick = () => { limit += 60; draw(); };
+  };
+  ['#b-q', '#b-f', '#b-s', '#b-mine'].forEach(s => $(s).addEventListener('input', () => { limit = 60; draw(); }));
+  $('#b-res').addEventListener('click', e => { const b = e.target.closest('[data-add]'); if (!b) return; S.ws.items.push({ k: uid(), ref: b.dataset.add }); b.textContent = 'Added'; b.disabled = true; b.classList.add('ghost'); persist(); renderList(); });
+  draw();
+}
+function qfImport(fromUrl) {
+  const ids = (fromUrl || store.get(QFKEY, [])).filter(id => POOL.has(id));
+  const have = new Set(S.ws.items.map(e => e.ref));
+  const add = ids.filter(id => !have.has(id)).sort((a, b) => { const A = POOL.get(a), B = POOL.get(b); return A.y - B.y || A.sec.localeCompare(B.sec) || String(A.n).localeCompare(String(B.n), undefined, { numeric: true }) || A.l.localeCompare(B.l); });
+  if (!ids.length) { toast('No ticked questions found. Tick questions in the Question Finder in this browser, then come back.'); return; }
+  if (!add.length) { toast('Your ticked Question Finder questions are already on the worksheet.'); return; }
+  add.forEach(id => S.ws.items.push({ k: uid(), ref: id })); persist(); renderList(); toast(`Added ${add.length} ticked ${add.length === 1 ? 'question' : 'questions'} from the Question Finder.`);
+}
+
+/* ================================================================ saved worksheets */
+const SAVED = KEY + ':saved';
+function packSheet(ws) { return { v: 1, id: ws.id, title: ws.title, items: ws.items, layout: ws.layout, seed: ws.seed, created: ws.created, updated: Date.now() }; }
+function saveSheet() {
+  const list = store.get(SAVED, []), i = list.findIndex(x => x.id === S.ws.id), p = packSheet(S.ws);
+  if (i >= 0) list[i] = p; else list.unshift(p);
+  if (!store.set(SAVED, list)) { toast('This browser would not save it (storage is full or blocked). Use “Save all to a file”.'); return; }
+  toast('Saved in My worksheets.'); renderSaved();
+}
+function openSheet(p) {
+  const missing = p.items.filter(e => !e.item && !POOL.has(e.ref)).length;
+  S.ws = { id: p.id, title: p.title, items: p.items.filter(e => e.item || POOL.has(e.ref)), layout: Object.assign(defaultLayout((p.layout || {}).style || 'exam'), p.layout || {}), seed: p.seed || 1, created: p.created || Date.now() };
+  persist(); go('build'); renderAll(); toast(missing ? `Opened. ${missing} question(s) are no longer in the bank and were left out.` : 'Opened.');
+}
+function downloadText(name, text) {
+  const blob = new Blob([text], { type: 'application/json' });
+  if (DOWNLOADS) { DOWNLOADS.save({ filename: name, data: blob }).catch(e => { if (e.code !== 'declined') toast('Could not save the file.'); }); return; }
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = name; document.body.append(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 3000);
+}
+function renderSaved() {
+  const list = store.get(SAVED, []);
+  $('#savedlist').innerHTML = list.length ? list.map((p, i) => `<div class="r"><div><b>${esc(p.title)}</b><div class="hint">${p.items.length} questions · ${esc(STYLES[(p.layout || {}).style || 'exam'].name)} · saved ${new Date(p.updated).toLocaleString('en-AU', { dateStyle: 'medium', timeStyle: 'short' })}</div></div><div class="row"><button class="btn sm" data-open="${i}">Open</button><button class="btn ghost sm" data-copy="${i}">Duplicate</button><button class="btn ghost sm" data-file="${i}">File</button><button class="btn ghost sm" data-delsaved="${i}">Delete</button></div></div>`).join('')
+    : '<div class="empty">Nothing saved yet. Press <b>Save</b> above a worksheet to keep it here.</div>';
+}
+
+/* ================================================================ views and events */
+function go(v) {
+  S.view = v; $$('.tab').forEach(t => t.setAttribute('aria-selected', String(t.dataset.view === v)));
+  $$('.view').forEach(s => { s.hidden = s.id !== 'v-' + v; });
+  if (v === 'print') { renderLayout(); schedulePreview(0); }
+  if (v === 'saved') renderSaved();
+  if (v === 'help') renderHelp();
+  window.scrollTo({ top: 0 });
+}
+function bind() {
+  $$('.tab').forEach(t => t.onclick = () => go(t.dataset.view));
+  $('#fw').onclick = e => { const b = e.target.closest('[data-fw]'); if (!b) return; S.fw = b.dataset.fw; $$('#fw button').forEach(x => x.setAttribute('aria-pressed', String(x === b))); S.topic = topicsNow()[0].id;
+    if (!S.ws.items.length) S.ws.layout.course = courseOf();
+    persist(); renderAll(); };
+  $('#q').addEventListener('input', e => { S.q = e.target.value; renderContent(); });
+  $('#ttabs').onclick = e => { const b = e.target.closest('[data-t]'); if (!b) return; S.topic = b.dataset.t; S.q = ''; $('#q').value = ''; persist(); renderContent(); };
+  $('#secs').addEventListener('change', e => {
+    const t = e.target;
+    if (t.dataset.p) { t.checked ? S.sel09.add(t.dataset.p) : S.sel09.delete(t.dataset.p); }
+    else if (t.dataset.sec) { const sec = topicsNow().flatMap(x => x.sections).find(s => s.id === t.dataset.sec); sec.points.forEach(p => t.checked ? S.sel09.add(p.id) : S.sel09.delete(p.id)); }
+    else if (t.dataset.s25) { t.checked ? selOf().add(t.dataset.s25) : selOf().delete(t.dataset.s25); }
+    persist(); renderContent(); renderFormats();
+  });
+  $('#secs').addEventListener('click', e => { if (e.target.matches('summary input')) e.stopPropagation(); }, true);
+  $('#selline').onclick = e => { if (e.target.id === 'selclear') { selOf().clear(); persist(); renderContent(); renderFormats(); } };
+  $('#skillbox').addEventListener('click', e => { const b = e.target.closest('[data-k]'); if (!b) return; S.skills.has(b.dataset.k) ? S.skills.delete(b.dataset.k) : S.skills.add(b.dataset.k); persist(); renderContent(); renderFormats(); });
+  $('#fmts').onclick = e => { const b = e.target.closest('[data-inc],[data-dec]'); if (!b) return; const id = b.dataset.inc || b.dataset.dec; S.counts[id] = Math.max(0, Math.min(40, (S.counts[id] || 0) + (b.dataset.inc ? 1 : -1))); persist(); renderFormats(); };
+  $('#presets').onclick = e => { const b = e.target.closest('[data-pre]'); if (!b) return; S.counts = b.dataset.pre === 'none' ? {} : Object.assign({}, PRESETS[+b.dataset.pre].c); persist(); renderFormats(); };
+  $('#sources').addEventListener('change', e => {
+    const t = e.target;
+    if (t.dataset.src) S.src[t.dataset.src] = t.checked;
+    else if (t.id === 'from') S.from = Math.min(+t.value, S.to);
+    else if (t.id === 'to') S.to = Math.max(+t.value, S.from);
+    else if (t.id === 'lv') S.lv = +t.value;
+    else if (t.id === 'whole') S.whole = t.checked;
+    persist(); renderSources(); renderFormats(); renderContent();
+  });
+  $('#make').onclick = () => make(false);
+  $('#addmore').onclick = () => make(true);
+  $('#browse').onclick = browse;
+  $('#qfimport').onclick = qfImport;
+  $('#title').addEventListener('input', e => { S.ws.title = e.target.value; S.ws.autoT = false; persist(); });
+  $('#clear').onclick = () => { if (!S.ws.items.length) return; const before = S.ws.items; S.ws.items = []; persist(); renderList(); toast('Cleared the worksheet.', () => { S.ws.items = before; persist(); renderList(); }); };
+  $('#save').onclick = saveSheet;
+  $('#toprint').onclick = () => go('print');
+  $('#list').onclick = e => {
+    const b = e.target.closest('[data-act]'); if (!b) return; const k = b.dataset.k;
+    ({ up: () => moveEntry(k, -1), down: () => moveEntry(k, 1), swap: () => swapEntry(k), like: () => lookAlike(k), edit: () => editEntry(k), del: () => removeEntry(k),
+      clike: () => claudeLike(k), plain: () => claudePlain(k) })[b.dataset.act]();
+  };
+  $('#savedlist').onclick = e => {
+    const list = store.get(SAVED, []), b = e.target.closest('button'); if (!b) return;
+    if (b.dataset.open) openSheet(list[+b.dataset.open]);
+    else if (b.dataset.copy) { const p = clone(list[+b.dataset.copy]); p.id = 'ws' + Date.now().toString(36); p.title += ' (copy)'; list.unshift(p); store.set(SAVED, list); renderSaved(); }
+    else if (b.dataset.file) { const p = list[+b.dataset.file]; downloadText(`Worksheet - ${p.title.replace(/[\\/:*?"<>|]+/g, '')}.json`, JSON.stringify({ worksheetMaker: 1, sheets: [p] }, null, 1)); }
+    else if (b.dataset.delsaved) { const i = +b.dataset.delsaved, gone = list.splice(i, 1)[0]; store.set(SAVED, list); renderSaved(); toast('Deleted.', () => { const l = store.get(SAVED, []); l.splice(i, 0, gone); store.set(SAVED, l); renderSaved(); }); }
+  };
+  $('#exportall').onclick = () => downloadText('My worksheets.json', JSON.stringify({ worksheetMaker: 1, sheets: store.get(SAVED, []) }, null, 1));
+  $('#importfile').onchange = async e => {
+    const f = e.target.files[0]; if (!f) return;
+    try {
+      const j = JSON.parse(await f.text()), sheets = (j.sheets || []).filter(p => p && Array.isArray(p.items));
+      const list = store.get(SAVED, []); let n = 0;
+      for (const p of sheets) { const i = list.findIndex(x => x.id === p.id); if (i >= 0) list[i] = p; else list.unshift(p); n++; }
+      store.set(SAVED, list); renderSaved(); toast(n ? `Opened ${n} worksheet(s) from the file.` : 'That file has no worksheets in it.');
+    } catch (err) { toast('That file could not be read.'); }
+    e.target.value = '';
+  };
+  $('#cl-go').onclick = claudeWrite;
+  $('#cl-fmt').onchange = () => { $('#cl-lv-f').hidden = $('#cl-fmt').value === 'like'; };
+  $('#claudebox').addEventListener('click', e => { if (e.target.closest('#cl-key, #cl-set')) keyDialog(); });
+}
+
+/* ================================================================ layout settings */
+function renderLayout() {
+  const L = LAY();
+  $('#styles').innerHTML = Object.entries(STYLES).map(([k, s]) => `<button class="style" data-style="${k}" aria-pressed="${L.style === k}"><div class="mini ${k === 'adapt' ? 'lex' : ''}">${mini(k)}</div><b>${esc(s.name)}</b><span>${esc(s.d)}</span></button>`).join('');
+  const sel = (id, label, opts, v) => `<label class="field"><span>${label}</span><select data-l="${id}">${opts.map(([val, t]) => `<option value="${val}" ${String(v) === String(val) ? 'selected' : ''}>${t}</option>`).join('')}</select></label>`;
+  const chk = (id, label) => `<label class="opt"><input type="checkbox" data-l="${id}" ${L[id] ? 'checked' : ''}><span>${label}</span></label>`;
+  $('#layout').innerHTML = `
+  <fieldset><legend>Top of the first page</legend>
+    <div class="two-col"><label class="field"><span>Title</span><input type="text" id="l-title" value="${esc(S.ws.title)}"></label>
+    ${sel('course', 'Course', [['hsc', 'HSC Legal Studies'], ['y11', 'Year 11 Legal Studies']], L.course || 'hsc')}</div>
+    <div class="two-col">${chk('name', 'Name line')}${chk('cls', 'Class line')}${chk('date', 'Date line')}${chk('time', 'Total marks and time')}</div>
+    <label class="field"><span>Instructions for students (optional)</span><input type="text" data-l="intro" value="${esc(L.intro)}" placeholder="e.g. Complete Part A in class and Part B for homework."></label>
+  </fieldset>
+  <fieldset><legend>Questions</legend>
+    <div class="two-col">${sel('group', 'Order', [['format', 'By question type'], ['list', 'As listed'], ['topic', 'By syllabus section']], L.group)}
+    ${sel('size', 'Text size', [[-1, 'Smaller'], [0, 'Normal'], [1, 'Larger']], L.size)}</div>
+    <div class="two-col">${chk('marks', 'Show marks')}${chk('source', 'Show where each question is from')}${chk('tags', 'Show dot points')}${chk('instr', 'Instructions for each part')}${chk('breaks', 'Start each part on a new page')}${chk('mcGrid', 'Multiple choice answer grid')}</div>
+  </fieldset>
+  <fieldset><legend>Writing space</legend>
+    <div class="two-col">${sel('space', 'Answer space', [['lines', 'Ruled lines'], ['dots', 'Dotted lines'], ['box', 'An empty box'], ['none', 'None: answer in books']], L.space)}
+    ${sel('amount', 'How much', [[0.6, 'Less'], [1, 'Normal'], [1.4, 'More'], [2, 'Lots']], L.amount)}
+    ${sel('erPages', 'Extended response', [[0, 'No writing space'], [1, 'One page'], [2, 'Two pages'], [4, 'Four pages (as in the exam)']], L.erPages)}
+    ${sel('cols', 'Short questions', [[1, 'One column'], [2, 'Two columns']], L.cols)}</div>
+    <div class="two-col">${chk('plan', 'Planning box for extended responses')}${chk('wordbank', 'Word banks')}${chk('hints', 'Sentence starters')}</div>
+  </fieldset>
+  <fieldset><legend>Answers</legend>
+    ${sel('answers', 'On the student copy', [['none', 'No answers (use the answer copy)'], ['end', 'Answers at the end, after a page break']], L.answers)}
+    ${sel('version', 'Version', [['A', 'Version A'], ['B', 'Version B: questions and options in a different order']], L.version)}
+    <p class="hint">The answer copy (button above the preview) has the answers, NESA marking criteria, marking points and suggested evidence in red.</p>
+  </fieldset>`;
+  $('#l-title').oninput = e => { S.ws.title = e.target.value; S.ws.autoT = false; persist(); schedulePreview(); };
+}
+function mini(k) {
+  if (k === 'exam') return '<i class="t"></i><i></i><i class="l"></i><i class="l"></i><i style="width:70%"></i><i class="l"></i><i class="l"></i>';
+  if (k === 'book') return '<div class="band"></div><i style="width:80%"></i><i class="d"></i><i class="d"></i><div class="band" style="background:#0e8a8a;height:7px;width:50%"></div><i class="d"></i>';
+  if (k === 'adapt') return '<i class="t" style="width:70%"></i><div class="box"><i style="width:85%"></i><i class="l"></i></div><div class="box"><i style="width:60%"></i></div>';
+  return '<i class="t"></i><div class="two"><div><i></i><i style="width:70%"></i><i></i></div><div><i></i><i style="width:80%"></i><i></i></div></div><div class="two"><div><i></i><i></i></div><div><i style="width:60%"></i><i></i></div></div>';
+}
+function onLayout(e) {
+  const t = e.target, id = t.dataset.l; if (!id) return;
+  const L = LAY(); let v = t.type === 'checkbox' ? t.checked : t.value;
+  if (['size', 'amount', 'erPages', 'cols'].includes(id)) v = +v;
+  L[id] = v; persist(); schedulePreview();
+}
+
+/* ================================================================ PDF: libraries, fonts, images */
+const loadScript = src => new Promise((res, rej) => { const s = document.createElement('script'); s.src = src; s.onload = res; s.onerror = () => rej(new Error('could not load ' + src)); document.head.append(s); });
+const FAMS = { Exam: ['R', 'B', 'I', 'BI'], Book: ['R', 'B', 'I', 'BI'], Lex: ['R', 'B'], Sym: ['R', 'B'] };
+const FONTDEFS = {
+  Exam: { normal: 'Exam-R.ttf', bold: 'Exam-B.ttf', italics: 'Exam-I.ttf', bolditalics: 'Exam-BI.ttf' },
+  Book: { normal: 'Book-R.ttf', bold: 'Book-B.ttf', italics: 'Book-I.ttf', bolditalics: 'Book-BI.ttf' },
+  Lex: { normal: 'Lex-R.ttf', bold: 'Lex-B.ttf', italics: 'Lex-R.ttf', bolditalics: 'Lex-B.ttf' },
+  Sym: { normal: 'Sym-R.ttf', bold: 'Sym-B.ttf', italics: 'Sym-R.ttf', bolditalics: 'Sym-B.ttf' }};
+const VFS = {}, HAS = {}, IMG = new Map();
+function b64(buf) { let s = ''; const b = new Uint8Array(buf); for (let i = 0; i < b.length; i += 0x8000) s += String.fromCharCode.apply(null, b.subarray(i, i + 0x8000)); return btoa(s); }
+// Where the PDF libraries come from: this folder's lib/, or (the Claude copy) the pinned copies on cdn.jsdelivr.net,
+// with pdf.js's worker run on the page because a worker cannot be loaded from another site.
+const LIB = Object.assign({ pdfmake: 'lib/pdfmake.min.js', pdfjs: 'lib/pdf.min.js', worker: 'lib/pdf.worker.min.js', onPage: false }, window.WM_LIB || {});
+async function ensurePdfLib(fam) {
+  if (!window.pdfMake) await loadScript(LIB.pdfmake);
+  if (!HAS.Sym) {
+    const cov = await (await fetch('fonts/coverage.json')).json();
+    for (const f of Object.keys(FAMS)) { const set = new Set(); for (const [a, b] of cov[f + '-R']) for (let c = a; c <= b; c++) set.add(c); HAS[f] = set; }
+  }
+  for (const f of [fam, 'Sym']) for (const v of FAMS[f]) {
+    const n = `${f}-${v}.ttf`; if (VFS[n]) continue;
+    const r = await fetch('fonts/' + n); if (!r.ok) throw new Error('font ' + n + ' missing');
+    VFS[n] = b64(await r.arrayBuffer());
+  }
+}
+async function toPng(src, scale, w, h) {
+  const img = new Image(); img.decoding = 'async';
+  await new Promise((res, rej) => { img.onload = res; img.onerror = () => rej(new Error('image')); img.src = src; });
+  const c = document.createElement('canvas'); c.width = Math.round(w * scale); c.height = Math.round(h * scale);
+  const g = c.getContext('2d'); g.fillStyle = '#fff'; g.fillRect(0, 0, c.width, c.height); g.drawImage(img, 0, 0, c.width, c.height);
+  return c.toDataURL('image/png');
+}
+async function figKey(file) {
+  const key = 'f_' + file.replace(/\W/g, '_'); if (IMG.has(key)) return key;
+  const r = await fetch(FIGBASE + file); if (!r.ok) throw new Error('figure ' + file);
+  const url = URL.createObjectURL(await r.blob());
+  try { const bmp = await createImageBitmap(await (await fetch(url)).blob()); const c = document.createElement('canvas'); c.width = bmp.width; c.height = bmp.height; const g = c.getContext('2d'); g.fillStyle = '#fff'; g.fillRect(0, 0, c.width, c.height); g.drawImage(bmp, 0, 0); IMG.set(key, { url: c.toDataURL('image/png'), w: bmp.width / 3, h: bmp.height / 3 }); }
+  finally { URL.revokeObjectURL(url); }
+  return key;
+}
+async function svgKey(svg, name) {
+  const key = 'd_' + name.replace(/\W/g, '_'); if (IMG.has(key)) return key;
+  const m = svg.match(/viewBox="([-\d.]+) ([-\d.]+) ([\d.]+) ([\d.]+)"/), vw = m ? +m[3] : 300, vh = m ? +m[4] : 220;
+  const sized = svg.replace(/width="100%"/, `width="${vw}" height="${vh}"`).replace(/font-family="[^"]*"/, 'font-family="Helvetica, Arial, sans-serif"');
+  IMG.set(key, { url: await toPng('data:image/svg+xml;charset=utf-8,' + encodeURIComponent(sized), 5, vw, vh), w: vw, h: vh });
+  return key;
+}
+function diaSpec(it, L, answer) {
+  const sp = it.dia; if (!sp || !D.dias[sp]) return null;
+  if (!answer && it.f === 'draw' && L.diagram === 'given' && !/\bgiven\b/.test(sp) && D.dias[sp + ' given']) return sp + ' given';
+  return sp;
+}
+async function preloadImages(ents, L, withAns) {
+  const jobs = [];
+  for (const x of ents) {
+    const it = x.it;
+    for (const b of (it.fig || [])) if (b.t === 'img') jobs.push(figKey(b.f).catch(() => null));
+    if (it.dia && D.dias[it.dia]) {
+      const sp = diaSpec(it, L, false); jobs.push(svgKey(D.dias[sp].s, sp + ':s'));
+      if (withAns) jobs.push(svgKey(D.dias[it.dia].a, it.dia + ':a'));
+    }
+  }
+  await Promise.all(jobs);
+}
+
+/* ================================================================ PDF: text */
+const RED = '#B42318', MUTE = '#5b6475', INK = '#14213d';
+let FAM = 'Exam';
+const SUBRE = /(?!)/g;       // no subscripts in Legal Studies text
+function glyphFix(r) {
+  const has = HAS[FAM], sym = HAS.Sym, text = r.text, out = []; let cur = '', curSym = false;
+  for (const ch of text) {
+    const cp = ch.codePointAt(0), main = !has || has.has(cp) || cp < 32, useSym = !main && sym.has(cp);
+    const c = (!main && !useSym) ? '?' : ch;
+    if (useSym !== curSym && cur) { out.push(Object.assign({}, r, { text: cur }, curSym ? { font: 'Sym' } : {})); cur = ''; }
+    curSym = useSym; cur += c;
+  }
+  if (cur) out.push(Object.assign({}, r, { text: cur }, curSym ? { font: 'Sym' } : {}));
+  return out;
+}
+/* Text with <b> <i> <sub> <sup>, diagram labels (AD1, P2) as subscripts, and symbols the font lacks set in DejaVu. */
+function R(str, base, nosub) {
+  str = String(str == null ? '' : str);
+  const out = [], st = { b: false, i: false, sub: false, sup: false }, re = /<(\/?)(b|i|sub|sup)>/g; let last = 0, m;
+  const push = t => {
+    if (!t) return;
+    let k = 0; SUBRE.lastIndex = 0; let mm;
+    if (nosub) { out.push(Object.assign({}, base || {}, { text: t }, st.b ? { bold: true } : {}, st.i ? { italics: true } : {})); return; }
+    const add = (s, sub) => { if (s) out.push(Object.assign({}, base || {}, { text: s }, st.b ? { bold: true } : {}, st.i ? { italics: true } : {}, (st.sub || sub) ? { sub: true } : {}, st.sup ? { sup: true } : {})); };
+    while ((mm = SUBRE.exec(t))) { add(t.slice(k, mm.index) + mm[1], false); add(mm[2], true); k = SUBRE.lastIndex; }
+    add(t.slice(k), false);
+  };
+  while ((m = re.exec(str))) { push(str.slice(last, m.index)); st[m[2]] = !m[1]; last = re.lastIndex; }
+  push(str.slice(last));
+  return out.flatMap(glyphFix);
+}
+const T = (str, o) => Object.assign({ text: R(str) }, o || {});
+const A = (str, o) => Object.assign({ text: R(str, { color: RED }) }, o || {});   // answer text
+
+/* ================================================================ PDF: page furniture */
+function styleTokens(L) {
+  const s = STYLES[L.style], k = L.size === 1 ? 1.12 : L.size === -1 ? 0.9 : 1;
+  const base = { exam: { gap: 23, lead: 1.22, m: [54, 50, 54, 52] }, book: { gap: 21, lead: 1.2, m: [42, 46, 42, 48] }, adapt: { gap: 30, lead: 1.45, m: [54, 54, 54, 56] }, compact: { gap: 17, lead: 1.15, m: [36, 40, 36, 44] } }[L.style];
+  return Object.assign({ font: s.font, fs: s.size * k, style: L.style }, base, { gap: base.gap * (k > 1 ? 1.08 : 1) });
+}
+function contentWidth(st) { return 595.28 - st.m[0] - st.m[2]; }
+const RAINBOW = ['#E53935', '#F4511E', '#FB8C00', '#FDD835', '#C0CA33', '#7CB342', '#43A047', '#00897B', '#039BE5', '#1E88E5', '#3949AB', '#8E24AA'];
+function docHeader(ctx, totals) {
+  const { L, st, W, mode } = ctx, out = [], ans = mode === 'answers';
+  const title = S.ws.title || 'Worksheet', fields = [L.name && 'Name', L.cls && 'Class', L.date && 'Date'].filter(Boolean);
+  const info = [`${totals.n} ${totals.n === 1 ? 'question' : 'questions'}`, L.time && `${totals.marks} marks`, L.time && `about ${totals.mins} minutes`, L.version === 'B' && 'Version B'].filter(Boolean).join('  ·  ');
+  const fieldRow = fields.length && !ans ? {
+    table: { widths: fields.map(f => f === 'Name' ? '*' : 110), body: [fields.map(f => ({ text: R(f), fontSize: st.fs * 0.9, color: MUTE, margin: [0, 10, 0, 2] }))] },
+    layout: { hLineWidth: (i) => i === 1 ? 0.7 : 0, vLineWidth: () => 0, hLineColor: () => '#555', paddingLeft: () => 0, paddingRight: (i) => 14 }, margin: [0, 6, 0, 8] } : null;
+  if (L.style === 'book') {
+    out.push({ table: { widths: ['*'], body: [[{ stack: [{ text: R(COURSE[L.course || 'hsc'].toUpperCase() + (ans ? '  ·  ANSWER COPY' : '')), color: '#FFD24A', bold: true, fontSize: st.fs * 0.8, characterSpacing: 1 }, { text: R(title), color: '#fff', bold: true, fontSize: st.fs * 1.9 }], fillColor: '#10253F', margin: [12, 10, 12, 10] }]] }, layout: 'noBorders' });
+    out.push({ canvas: RAINBOW.map((c, i) => ({ type: 'rect', x: i * W / 12, y: 0, w: W / 12 + 0.5, h: 4, color: c })), margin: [0, 0, 0, 6] });
+    out.push(T(info, { fontSize: st.fs * 0.9, color: MUTE }));
+  } else if (L.style === 'adapt') {
+    out.push(T(title, { fontSize: st.fs * 1.6, bold: true, margin: [0, 0, 0, 4] }));
+    out.push(T(info + (ans ? '  ·  ANSWER COPY' : ''), { fontSize: st.fs * 0.85, color: ans ? RED : MUTE }));
+  } else {
+    out.push({ columns: [T(COURSE[L.course || 'hsc'], { fontSize: st.fs * 0.85, color: MUTE, bold: true }), T(ans ? 'ANSWER COPY' : '', { alignment: 'right', color: RED, bold: true, fontSize: st.fs * 0.85 })] });
+    out.push(T(title, { fontSize: st.fs * (L.style === 'compact' ? 1.45 : 1.75), bold: true, margin: [0, 2, 0, 2] }));
+    out.push(T(info, { fontSize: st.fs * 0.9, color: MUTE }));
+    out.push({ canvas: [{ type: 'line', x1: 0, y1: 4, x2: W, y2: 4, lineWidth: L.style === 'exam' ? 1.2 : 0.8, lineColor: '#222' }], margin: [0, 0, 0, 2] });
+  }
+  if (fieldRow) out.push(fieldRow);
+  if (L.intro) out.push(T(L.intro, { italics: true, margin: [0, 2, 0, 6] }));
+  if (L.style === 'adapt' && !ans) out.push(box([T('How to use this sheet', { bold: true }), T('Do one question at a time. Tick the box ☐ beside a question when you finish it. Use the word boxes and the sentence starters if you get stuck.')], '#EEF3FB', '#B8C6E0'));
+  if (L.mcGrid && !ans) { const mcs = ctx.U.filter(u => u.f === 'mc'); if (mcs.length) out.push(mcGrid(mcs, ctx)); }
+  return out;
+}
+function mcGrid(mcs, ctx, answers) {
+  const per = Math.min(10, mcs.length), rows = [];
+  for (let i = 0; i < mcs.length; i += per) {
+    const slice = mcs.slice(i, i + per);
+    rows.push(slice.map(u => ({ text: R(String(u.num)), bold: true, alignment: 'center', fillColor: '#EEF1F6', fontSize: ctx.st.fs * 0.85 })).concat(Array(per - slice.length).fill({ text: '' })));
+    rows.push(slice.map(u => answers ? { text: R((u.ents[0].it.key || ['–']).join('/'), { color: RED, bold: true }), alignment: 'center' } : { text: ' ', margin: [0, 6, 0, 6] }).concat(Array(per - slice.length).fill({ text: '' })));
+  }
+  return { stack: [T(answers ? 'Multiple choice answers' : 'Multiple choice: write your answers here', { bold: true, fontSize: ctx.st.fs * 0.9, margin: [0, 6, 0, 3] }), { table: { widths: Array(per).fill('*'), body: rows }, layout: thinGrid() }], margin: [0, 0, 0, 8], unbreakable: true };
+}
+function thinGrid(col) { return { hLineWidth: () => 0.6, vLineWidth: () => 0.6, hLineColor: () => col || '#8a93a6', vLineColor: () => col || '#8a93a6', paddingLeft: () => 4, paddingRight: () => 4, paddingTop: () => 2, paddingBottom: () => 2 }; }
+function box(stack, fill, line) { return { table: { widths: ['*'], body: [[{ stack, fillColor: fill || '#F6F7FB', margin: [8, 6, 8, 6] }]] }, layout: { hLineWidth: () => 0.7, vLineWidth: () => 0.7, hLineColor: () => line || '#C9D2E4', vLineColor: () => line || '#C9D2E4' }, margin: [0, 4, 0, 8] }; }
+function partHeading(f, letter, ctx) {
+  const { L, st, W } = ctx, g = GBY[FBY[f].g], name = FBY[f].name, marks = ctx.U.filter(u => u.f === f).reduce((a, u) => a + u.marks, 0);
+  const label = (L.group === 'format' ? `Part ${letter}: ` : '') + name + (L.marks && marks ? `  (${marks} ${marks === 1 ? 'mark' : 'marks'})` : '');
+  const ins = L.instr ? T(L.space === 'none' && ['sa', 'er', 'stim', 'calc'].includes(f) ? 'Answer in your book.' + (f === 'calc' ? ' Show your working.' : '') : FBY[f].ins, { italics: true, color: MUTE, fontSize: st.fs * 0.92, margin: [0, 2, 0, 6] }) : null;
+  let head;
+  if (L.style === 'book') head = { table: { widths: ['*'], body: [[{ text: R(label), color: '#fff', bold: true, fillColor: g.col, margin: [8, 3, 8, 3] }]] }, layout: 'noBorders', margin: [0, 10, 0, 2] };
+  else if (L.style === 'adapt') head = { table: { widths: [5, '*'], body: [[{ text: '', fillColor: g.col }, T(label, { bold: true, fontSize: st.fs * 1.12, margin: [6, 2, 0, 2] })]] }, layout: 'noBorders', margin: [0, 12, 0, 2] };
+  else head = { stack: [T(label, { bold: true, fontSize: st.fs * (L.style === 'compact' ? 1.02 : 1.12) }), { canvas: [{ type: 'line', x1: 0, y1: 2, x2: W, y2: 2, lineWidth: 0.6, lineColor: '#444' }] }], margin: [0, L.style === 'compact' ? 6 : 12, 0, 2] };
+  head.headlineLevel = 1;
+  return [head, ins].filter(Boolean);
+}
+
+/* ================================================================ PDF: writing space */
+function nLines(m, f, ctx, extra) {
+  const { L } = ctx; if (L.space === 'none') return 0;
+  let n = f === 'calc' ? 5 : m <= 1 ? 2 : Math.round(2.1 * m + 1);
+  if (L.style === 'compact') n = Math.max(1, Math.round(n * 0.6));
+  return Math.max(0, Math.min(40, Math.round(n * L.amount) + (extra || 0)));
+}
+function lines(n, ctx, width) {
+  const { L, st } = ctx, W = width || ctx.W; if (n <= 0 || L.space === 'none') return [];
+  const gap = st.gap;
+  if (L.space === 'box') return [{ canvas: [{ type: 'rect', x: 0, y: 0, w: W, h: n * gap, r: 4, lineWidth: 0.7, lineColor: '#8a93a6' }], margin: [0, 4, 0, 8] }];
+  const dots = L.space === 'dots', out = []; let left = n;
+  while (left > 0) {
+    const k = Math.min(3, left); left -= k;
+    out.push({ canvas: Array.from({ length: k }, (_, i) => Object.assign({ type: 'line', x1: 0, y1: (i + 1) * gap, x2: W, y2: (i + 1) * gap, lineWidth: dots ? 1 : 0.5, lineColor: dots ? '#7f889b' : '#8f97a6' }, dots ? { dash: { length: 1, space: 2.4 }, lineCap: 'round' } : {})) });
+  }
+  out[out.length - 1].margin = [0, 0, 0, 6];
+  return out;
+}
+/* Keep a question with its first writing lines; the rest of the lines may run onto the next page. */
+function keep(head, space, extra) { const sp = space || []; return [{ stack: head.concat(sp.slice(0, 1)), unbreakable: true }].concat(sp.slice(1), extra || []); }
+function marksTxt(m, ctx) { return ctx.L.marks && m ? ` (${m} ${m === 1 ? 'mark' : 'marks'})` : ''; }
+function qHead(u, ctx, label) {
+  const { L, st } = ctx, it = u.ents[0].it, m = u.marks;
+  const src = L.source ? sourceLine(it) : '', tags = L.tags ? codesShown(it).join(' ') : '';
+  const extra = [src, tags].filter(Boolean).join('  ·  ');
+  const tick = L.style === 'adapt' ? '☐  ' : '';
+  return { text: R(`${tick}${label || 'Question'} ${u.num}`, { bold: true }).concat(R(marksTxt(m, ctx), { bold: L.style === 'exam' })).concat(extra ? R('   ' + extra, { color: MUTE, fontSize: st.fs * 0.78 }, true) : []), margin: [0, 8, 0, 3] };
+}
+const niceDate = d => new Date(d + 'T00:00').toLocaleDateString('en-AU', { day: 'numeric', month: 'short', year: 'numeric' });
+function sourceLine(it) { if (it.src === 'hsc') return `HSC ${it.y} ${it.l}`; if (it.src === 'ev') return 'Evidence Finder'; if (it.f === 'teeacl' && it.from) return 'From ' + it.from; if (it.src === 'claude') return 'Written by Claude'; return ''; }
+function partRow(label, text, m, ctx) {
+  const { L, st } = ctx;
+  if (L.style === 'exam' && L.marks) return { columns: [{ width: label ? 26 : 0, text: R(label || '') }, { width: '*', text: R(text) }, { width: 26, text: m ? R(String(m), { bold: true }) : '', alignment: 'right' }], columnGap: 4, margin: [0, 2, 0, 2] };
+  return { columns: [{ width: label ? 26 : 0, text: R(label || '') }, { width: '*', text: R(text).concat(R(marksTxt(m, ctx), { color: MUTE, fontSize: st.fs * 0.9 })) }], columnGap: 4, margin: [0, 2, 0, 2] };
+}
+const STARTERS = [
+  [/^\s*(define|what is|identify)\b/i, 'A … is …'],
+  [/^\s*(outline|describe)\b/i, 'One feature is … Another is …'],
+  [/^\s*(explain|account for|how)\b/i, '… happens because … This leads to … As a result …'],
+  [/^\s*(analyse|examine)\b/i, 'The main effect is … because … This means … The link between them is …'],
+  [/^\s*(discuss|assess|evaluate|justify|to what extent)\b/i, 'On one hand … On the other hand … Overall, I think … because …'],
+  [/^\s*(apply|advise|using the scenario|with reference to the scenario)\b/i, 'The law says … In this scenario … Therefore …'],
+  [/^\s*(compare|distinguish)\b/i, 'Both … However, … whereas …']];
+function hint(text, ctx) {
+  if (!ctx.L.hints || ctx.mode === 'answers') return null;
+  const s = STARTERS.find(([re]) => re.test(text)); if (!s) return null;
+  return T('Start with: ' + s[1], { italics: true, color: '#3a5a99', fontSize: ctx.st.fs * 0.85, margin: [26, 0, 0, 2] });
+}
+
+/* ================================================================ PDF: stimulus pieces */
+function dataTable(rows, ctx, cap) {
+  if (!rows || !rows.length) return null;
+  const n = Math.max(...rows.map(r => r.length));
+  const body = rows.map((r, i) => Array.from({ length: n }, (_, j) => ({ text: R(r[j] == null ? '' : String(r[j]), i === 0 ? { bold: true } : {}), fillColor: i === 0 ? '#E8ECF3' : null, fontSize: ctx.st.fs * 0.92 })));
+  const t = { table: { headerRows: 1, widths: Array(n).fill(n > 3 ? '*' : 'auto'), body, dontBreakRows: true }, layout: thinGrid('#9aa3b5'), margin: [0, 3, 0, 6] };
+  return cap ? { stack: [T(cap, { bold: true, fontSize: ctx.st.fs * 0.9, margin: [0, 2, 0, 2] }), t] } : t;
+}
+function figNodes(list, ctx) {
+  const out = [];
+  for (const b of list || []) {
+    if (b.t === 'tbl') { const t = dataTable(b.rows, ctx); if (t) out.push(t); }
+    else if (b.t === 'img') {
+      const key = 'f_' + b.f.replace(/\W/g, '_'), im = IMG.get(key);
+      if (!im) { out.push(T('[The figure from the paper could not be loaded.]', { italics: true, color: MUTE })); continue; }
+      const w = Math.min(b.w * (ctx.L.style === 'compact' ? 0.72 : 1.0), ctx.W * 0.95), h = w * im.h / im.w, maxH = ctx.L.style === 'compact' ? 330 : 560;
+      out.push({ image: key, width: h > maxH ? w * maxH / h : w, margin: [0, 4, 0, 6] });
+    }
+  }
+  return out;
+}
+function stNote(it, ctx) { return T(`This question uses a stimulus from the ${it.y} HSC paper (${it.st.replace(/\.$/, '')}). See the paper.`, { italics: true, color: MUTE, fontSize: ctx.st.fs * 0.88, margin: [0, 2, 0, 4] }); }
+function imgNode(key, ctx, frac) { const im = IMG.get(key); if (!im) return T('[diagram missing]', { italics: true }); return { image: key, width: Math.min(ctx.W * frac, im.w * 1.35), margin: [0, 4, 0, 6] }; }
+function ansBox(nodes, ctx) { return { table: { widths: [3, '*'], body: [[{ text: '', fillColor: RED }, { stack: nodes, margin: [6, 1, 0, 1] }]] }, layout: 'noBorders', margin: [0, 2, 0, 8], fontSize: ctx.st.fs * 0.92 }; }
+function critNodes(it, ctx, top) {
+  const out = [];
+  if (it.crit) {
+    const bands = top ? it.crit.slice(0, top) : it.crit;
+    out.push(A('NESA marking criteria' + (top && it.crit.length > top ? ' (top bands)' : '') + ':', { bold: true }));
+    for (const b of bands) out.push({ columns: [{ width: 34, text: R(b.m, { color: RED, bold: true }) }, { width: '*', stack: b.b.map(x => A('• ' + x)) }], columnGap: 4, margin: [0, 1, 0, 1] });
+  }
+  if (it.could && it.could.length) out.push(A('Answers could include: ' + it.could.map(c => c.replace(/[.;,\s]+$/, '')).join('; ') + '.', { margin: [0, 3, 0, 0] }));
+  if (it.samp && ctx.L.style !== 'compact' && !top) out.push(A('Sample answer (NESA): ' + it.samp, { italics: true, margin: [0, 3, 0, 0] }));
+  if (it.pts && it.pts.length) { out.push(A('Marking points:', { bold: true, margin: [0, 2, 0, 0] })); it.pts.forEach(p => out.push(A('• ' + p))); }
+  if (it.ans) out.push(A((it.pts && it.pts.length ? 'Model answer: ' : '') + it.ans, { margin: [0, 2, 0, 0] }));
+  if (it.plan && it.plan.length) { out.push(A('A plan:', { bold: true, margin: [0, 2, 0, 0] })); it.plan.forEach((p, i) => out.push(A(`${i + 1}. ${p}`))); }
+  if (!out.length) out.push(A(it.src === 'hsc' ? `NESA did not publish marking guidelines for ${it.y} in the class collection.` : 'No answer notes for this question.', { italics: true }));
+  return out;
+}
+
+/* ================================================================ PDF: one renderer per question type */
+function letterOf(i) { return 'ABCDEFGHIJKLMNOP'[i]; }
+function rMC(u, ctx) {
+  const it = u.ents[0].it, { L, st, mode } = ctx, ans = mode === 'answers', key = it.key || [];
+  const src = L.source && sourceLine(it) ? R('   ' + sourceLine(it), { color: MUTE, fontSize: st.fs * 0.76 }, true) : [];
+  const nodes = [{ text: R(`${L.style === 'adapt' ? '☐ ' : ''}${u.num}.  `, { bold: true }).concat(it.lead ? R(it.lead + '\n\n') : [], R(it.q), src), margin: [0, 0, 0, 3] }];
+  if (it.table) nodes.push(dataTable(it.table.rows, ctx, it.table.cap));
+  nodes.push(...figNodes(it.fig, ctx));
+  const hit = i => ans && key.includes(letterOf(i));
+  if (it.mat) {
+    const body = [[{ text: '' }].concat(it.mat.head.map(h => ({ text: R(h, { bold: true }), fontSize: st.fs * 0.9 })))].concat(
+      it.mat.rows.map((r, i) => [{ text: R(letterOf(i) + (hit(i) ? ' ✓' : ''), { bold: true, color: hit(i) ? RED : undefined }) }].concat(r.map(c => ({ text: R(c, hit(i) ? { color: RED, bold: true } : {}), fontSize: st.fs * 0.92 })))));
+    nodes.push({ table: { widths: [26].concat(it.mat.head.map(() => '*')), body }, layout: thinGrid('#9aa3b5'), margin: [18, 2, 0, 4] });
+  } else {
+    const short = it.o.every(o => o.length <= 34) && ctx.W > 300 && L.style !== 'adapt';
+    const opt = (o, i) => ({ columns: [{ width: 18, text: R(letterOf(i), { bold: true, color: hit(i) ? RED : undefined }) }, { width: '*', text: R(o + (hit(i) ? '  ✓' : ''), hit(i) ? { color: RED, bold: true } : {}) }], margin: [0, 1, 0, 1] });
+    if (short) nodes.push({ table: { widths: ['*', '*'], body: [[opt(it.o[0], 0), opt(it.o[1], 1)], [opt(it.o[2], 2), opt(it.o[3], 3)]] }, layout: 'noBorders', margin: [16, 0, 0, 2] });
+    else nodes.push({ stack: it.o.map(opt), margin: [16, 0, 0, 2] });
+  }
+  if (ans) nodes.push(ansBox(key.length ? [A(`Answer: ${key.join(' or ')}`, { bold: true }), it.e && it.e.why ? A(it.e.why) : null].filter(Boolean)
+    : [A('NESA has not yet published the answer.' + (it.note ? ' What it examined: ' + it.note : ''), { italics: true })], ctx));
+  return [{ stack: nodes, unbreakable: true, margin: [0, 0, 0, L.style === 'compact' ? 6 : 10] }];
+}
+function rSA(u, ctx) {
+  const { mode } = ctx, ans = mode === 'answers', first = u.ents[0].it, out = [];
+  const head = [qHead(u, ctx)], shown = new Set();
+  if (first.lead) head.push(first.f === 'scen' ? box([T('Scenario', { bold: true, fontSize: ctx.st.fs * 0.85, color: MUTE }), T(first.lead)], '#F7F8FB', '#C9D2E4') : T(first.lead, { margin: [0, 0, 0, 4] }));
+  let firstPart = true;
+  for (const x of u.ents) {
+    const it = x.it, pre = [];
+    const figs = (it.fig || []).filter(b => { const k = b.f || JSON.stringify(b.rows); if (shown.has(k)) return false; shown.add(k); return true; });
+    pre.push(...figNodes(figs, ctx));
+    if (it.st && !it.fig && !shown.size && !shown.has('st')) { pre.push(stNote(it, ctx)); shown.add('st'); }
+    if (it.table) pre.push(dataTable(it.table.rows, ctx, it.table.cap));
+    if (it.f === 'read' && it.dia) pre.push(imgNode('d_' + (it.dia + (ans ? ':a' : ':s')).replace(/\W/g, '_'), ctx, 0.62));
+    const seq = u.ents.length > 1 ? `(${'abcdefghij'[u.ents.indexOf(x)]})` : '';
+    const parts = it.parts || [{ label: seq, q: it.q, m: it.m, pts: it.pts, ans: it.ans, crit: it.crit }];
+    for (const p of parts) {
+      const blk = [partRow(p.label, p.q, p.m, ctx)], h = hint(p.q, ctx); if (h) blk.push(h);
+      const pseudo = Object.assign({}, it, { pts: p.pts, ans: p.ans, parts: undefined });
+      if (it.parts) { pseudo.crit = null; pseudo.could = null; pseudo.samp = null; }
+      const space = ans ? [ansBox(critNodes(pseudo, ctx), ctx)] : lines(nLines(p.m, it.f, ctx, it.xl), ctx);
+      out.push(...keep((firstPart ? head : []).concat(pre, blk), space)); firstPart = false; pre.length = 0;
+    }
+  }
+  return out;
+}
+function rER(u, ctx) {
+  const it = u.ents[0].it, { L, st, mode } = ctx, ans = mode === 'answers', head = [qHead(u, ctx)];
+  head.push(...figNodes(it.fig, ctx));
+  if (it.lead) head.push(box([T(it.lead, { italics: true })], '#F7F8FB', '#C9D2E4'));
+  head.push(T(it.q, { margin: [0, 2, 0, 6] }));
+  if (ans) return keep(head, [ansBox(critNodes(it, ctx, 2), ctx)]);
+  const extra = [];
+  if (L.plan) {
+    const rows = ['Your judgement (answer the question)', 'Paragraph 1', 'Paragraph 2', 'Paragraph 3', 'Conclusion'];
+    extra.push({ stack: [T('Plan' + (L.hints || L.style === 'adapt' ? '  (each paragraph: Topic sentence · Evidence · Explanation · Analysis · Counterpoint · Link)' : ''), { bold: true, fontSize: st.fs * 0.92, margin: [0, 0, 0, 2] }),
+      { table: { widths: [L.style === 'compact' ? 90 : 130, '*'], body: rows.map(r => [T(r, { fontSize: st.fs * 0.85, bold: true, color: MUTE }), { text: ' ', margin: [0, st.gap * 0.7, 0, st.gap * 0.7] }]) }, layout: thinGrid('#b4bccb') }], unbreakable: true, margin: [0, 0, 0, 8] });
+  }
+  const perPage = Math.floor((842 - st.m[1] - st.m[3] - 40) / st.gap);
+  return keep(head, extra).concat(L.space === 'none' ? [] : lines(Math.round(L.erPages * perPage), ctx));
+}
+function rStim(u, ctx) {
+  const it = u.ents[0].it, { st, mode } = ctx, ans = mode === 'answers', head = [qHead(u, ctx)];
+  const src = [T(it.full || it.title, { bold: true }), it.by ? T(it.by, { italics: true, color: MUTE, fontSize: st.fs * 0.85, margin: [0, 0, 0, 4] }) : null, T(it.lede, { margin: [0, 0, 0, 4] })].filter(Boolean);
+  if (it.table) src.push(dataTable(it.table.rows, ctx, it.table.cap));
+  head.push(box(src, '#F7F8FB', '#C9D2E4'));
+  const out = []; let first = true;
+  it.qs.forEach((q, i) => {
+    const blk = [partRow(`(${'abcdef'[i]})`, q.q, q.m, ctx)], h = hint(q.q, ctx); if (h) blk.push(h);
+    const notes = ans && ((q.pts && q.pts.length) || q.ans) ? [ansBox(critNodes({ pts: q.pts, ans: q.ans }, ctx), ctx)] : [];
+    const space = ans ? notes : lines(nLines(q.m, 'sa', ctx, it.xl), ctx);
+    out.push(...keep((first ? head : []).concat(blk), space)); first = false;
+  });
+  if (ans && it.guide) out.push(ansBox([A('Significance: ' + it.guide), A('Mark the outline against the source, the explanation against the syllabus content, and the assessment against the criteria for effectiveness, with a second piece of evidence named.', { italics: true, fontSize: st.fs * 0.85 })], ctx));
+  return out;
+}
+/* One TEEACL paragraph: the question, then a row for each move with writing space. */
+const TEE = [['T', 'Topic sentence', 'Answer the question and signal your judgement.'], ['E', 'Evidence', 'Name and cite it (legislation, case, media, international instrument or document).'],
+  ['E', 'Explanation', 'What the law says or what the court did.'], ['A', 'Analysis', 'What this shows, measured against a criterion such as accessibility, enforceability or the protection of rights.'],
+  ['C', 'Counterpoint', '“However, …”: the other side, or a limit.'], ['L', 'Link', 'Back to the question: how far your judgement holds.']];
+function rTee(u, ctx) {
+  const it = u.ents[0].it, { L, st, mode } = ctx, ans = mode === 'answers', head = [qHead(u, ctx)];
+  if (it.lead) head.push(box([T(it.lead, { italics: true })], '#F7F8FB', '#C9D2E4'));
+  head.push(T('Write ONE paragraph that could form part of a response to this question:', { fontSize: st.fs * 0.9, color: MUTE }), T(it.q, { bold: true, margin: [0, 2, 0, 6] }));
+  if (ans) {
+    const n = [];
+    if (it.ans) n.push(A('Model paragraph: ' + it.ans));
+    if (it.pts && it.pts.length) { n.push(A('A strong paragraph:', { bold: true, margin: [0, 2, 0, 0] })); it.pts.forEach(p => n.push(A('• ' + p))); }
+    if (it.evid && it.evid.length) { n.push(A('Evidence students could use (from the Evidence Finder):', { bold: true, margin: [0, 2, 0, 0] })); it.evid.forEach(e => n.push(A(`• ${e.t} (${EVN[e.typ] || 'source'}): ${e.sig}`))); }
+    if (!n.length) n.push(A('Mark for a clear judgement, accurate and cited evidence, analysis against a criterion, a counterpoint and a link to the question.'));
+    return keep(head, [ansBox(n, ctx)]);
+  }
+  const k = L.space === 'none' ? 0 : Math.max(1, Math.round(L.amount * (L.style === 'compact' ? 1 : 2)));
+  const body = TEE.map(([l, name, tip], i) => [T(l, { bold: true, fontSize: st.fs * 1.3, alignment: 'center', color: '#fff', fillColor: ['#1F3864', '#0E7490', '#0E7490', '#8a3fb0', '#b26a00', '#1E6B4F'][i], margin: [0, 4, 0, 4] }),
+    { stack: [T(name, { bold: true, fontSize: st.fs * 0.9 })].concat(L.hints || L.style !== 'exam' ? [T(tip, { fontSize: st.fs * 0.78, color: MUTE })] : []) },
+    { text: ' ', margin: [0, st.gap * (k + (i === 3 ? 1 : 0)) * 0.5, 0, st.gap * (k + (i === 3 ? 1 : 0)) * 0.5] }]);
+  return keep(head, [{ table: { widths: [22, ctx.W * 0.27, '*'], body, dontBreakRows: true }, layout: thinGrid('#8a93a6'), margin: [0, 0, 0, 10] }]);
+}
+function rCalc(u, ctx) {
+  const it = u.ents[0].it, { L, st, mode } = ctx, ans = mode === 'answers', head = [qHead(u, ctx)];
+  for (const b of it.blocks) head.push(b.table ? dataTable(b.table, ctx) : { text: b.p.flatMap(r => R(r.t, r.b ? { bold: true } : {})), margin: [0, 1, 0, 3] });
+  const parts = it.parts.map((p, i) => {
+    const lab = (it.parts.length > 1 ? `(${'abcd'[i]}) ` : '') + p.label + ': ';
+    if (ans) return { text: R(lab).concat(R(p.shown, { color: RED, bold: true })), margin: [0, 2, 0, 2] };
+    if (p.type === 'sel') return { text: R(lab + p.options.map(o => '☐ ' + o).join('    ')), margin: [0, 3, 0, 3] };
+    return { text: R(lab + '____________________ ' + (p.unit || '')), margin: [0, 5, 0, 3] };
+  });
+  const h = L.hints && !ans ? T('Formula: ' + it.formula[0], { italics: true, color: '#3a5a99', fontSize: st.fs * 0.85 }) : null;
+  if (ans) return keep(head.concat(parts), [ansBox([A('Working:', { bold: true })].concat(it.steps.map((s, i) => A(`${i + 1}. ${s}`)), [A('Watch for: ' + it.watch, { italics: true })]), ctx)]);
+  const work = L.space === 'none' ? [] : lines(nLines(it.m, 'calc', ctx, it.xl), ctx);
+  const label = L.space === 'none' ? [] : [T('Working', { fontSize: st.fs * 0.85, color: MUTE, margin: [0, 4, 0, 0] })];
+  return keep(head.concat(h ? [h] : [], label), work, parts);
+}
+function rDraw(u, ctx) {
+  const it = u.ents[0].it, { L, st, mode } = ctx, ans = mode === 'answers', head = [qHead(u, ctx), T(it.q, { margin: [0, 0, 0, 4] })];
+  const sp = diaSpec(it, L, false), frac = L.style === 'compact' ? 0.42 : L.style === 'adapt' ? 0.62 : 0.55;
+  if (ans) return keep(head, [{ columns: [imgNode('d_' + (it.dia + ':a').replace(/\W/g, '_'), ctx, frac), { width: '*', stack: [ansBox([A(it.ans || 'See the diagram.')], ctx)] }], columnGap: 10 }]);
+  const img = imgNode('d_' + (sp + ':s').replace(/\W/g, '_'), ctx, frac);
+  const n = nLines(4, 'sa', ctx, it.xl);
+  if (L.style === 'compact' || L.space === 'none') return keep(head.concat([img]), lines(n, ctx));
+  const colW = ctx.W * (1 - frac) - 12;
+  return [{ stack: head.concat([{ columns: [Object.assign({}, img, { width: ctx.W * frac }), { width: '*', stack: [T('Explain the change:', { fontSize: st.fs * 0.85, color: MUTE })].concat(lines(Math.max(4, n), ctx, colW)) }], columnGap: 12 }]), unbreakable: true, margin: [0, 0, 0, 8] }];
+}
+function rLabel(u, ctx) {
+  const it = u.ents[0].it, { st, mode } = ctx, ans = mode === 'answers', head = [qHead(u, ctx), T(it.q, { margin: [0, 0, 0, 4] })];
+  const img = imgNode('d_' + (it.dia + ':s').replace(/\W/g, '_'), ctx, 0.55);
+  const rows = it.labels.map(([k, v]) => [T(k, { bold: true }), ans ? A(v, { bold: true }) : { text: ' ', margin: [0, st.gap * 0.45, 0, 0] }]);
+  const tbl = { table: { widths: [30, '*'], body: rows }, layout: { hLineWidth: (i, n) => i === 0 ? 0 : 0.6, vLineWidth: () => 0, hLineColor: () => '#8a93a6' } };
+  return [{ stack: head.concat([{ columns: [Object.assign({}, img, { width: ctx.W * 0.55 }), { width: '*', stack: [tbl] }], columnGap: 14 }]), unbreakable: true, margin: [0, 0, 0, 10] }];
+}
+function rMatch(u, ctx) {
+  const it = u.ents[0].it, { st, mode } = ctx, ans = mode === 'answers', head = [qHead(u, ctx)];
+  const pos = it.pairs.map((_, i) => it.perm.indexOf(i));
+  const body = [[T(it.f === 'cases' ? 'Evidence' : 'Term', { bold: true }), T('', {}), T('', {}), T(it.f === 'cases' ? 'Significance' : 'Definition', { bold: true })]].concat(it.pairs.map((p, i) => [
+    T(`${i + 1}. ${p.term}`, { bold: true }),
+    ans ? A(letterOf(pos[i]), { bold: true, alignment: 'center' }) : { text: ' ' },
+    T(letterOf(i), { bold: true, alignment: 'right' }),
+    T(it.pairs[it.perm[i]].def, { fontSize: st.fs * 0.92 })]));
+  return [{ stack: head.concat([{ table: { headerRows: 1, widths: [ctx.W * 0.27, 26, 14, '*'], body, dontBreakRows: true }, layout: { hLineWidth: (i) => i === 1 ? 0.8 : 0.4, vLineWidth: (i) => i === 1 || i === 2 ? 0.8 : 0, hLineColor: () => '#aab2c2', vLineColor: () => '#555', paddingTop: () => 3, paddingBottom: () => 3 } }]), unbreakable: it.pairs.length <= 10, margin: [0, 0, 0, 10] }];
+}
+function rCloze(u, ctx) {
+  const it = u.ents[0].it, { L, st, mode } = ctx, ans = mode === 'answers', head = [qHead(u, ctx)];
+  if ((L.wordbank || L.style === 'adapt') && !ans) head.push(box([T('Word box:  ' + it.words.join('   ·   '), { bold: true, fontSize: st.fs * 0.92 })], '#FFF8E1', '#E8C25A'));
+  const rows = it.rows.map((r, i) => {
+    const bits = r.text.split('[[gap]]'), txt = [];
+    bits.forEach((b, j) => { txt.push(...R(b)); if (j < bits.length - 1) txt.push(...(ans ? R(r.ans, { color: RED, bold: true }) : R('_______________________'))); });
+    return { columns: [{ width: 18, text: R(`${i + 1}.`, { bold: true }) }, { width: '*', text: txt }], margin: [0, 3, 0, ans ? 2 : 6] };
+  });
+  return [{ stack: head.concat(rows), unbreakable: rows.length <= 8, margin: [0, 0, 0, 8] }];
+}
+function rDefine(u, ctx) {
+  const it = u.ents[0].it, { mode } = ctx, ans = mode === 'answers', out = []; let first = true;
+  it.rows.forEach((r, i) => {
+    const blk = [partRow(it.rows.length > 1 ? `(${'abcdefghij'[i]})` : '', `Define the term “${r.term}”.`, 2, ctx)];
+    out.push(...keep((first ? [qHead(u, ctx)] : []).concat(blk), ans ? [ansBox([A(r.def)], ctx)] : lines(nLines(2, 'sa', ctx), ctx))); first = false;
+  });
+  return out;
+}
+function rTF(u, ctx) {
+  const it = u.ents[0].it, { st, mode } = ctx, ans = mode === 'answers';
+  const body = [[T('', {}), T('Statement', { bold: true }), T('T or F', { bold: true, alignment: 'center' }), T('If false, write the correct statement', { bold: true })]].concat(it.rows.map((r, i) => [
+    T(String(i + 1), { bold: true }), T(r.s, { fontSize: st.fs * 0.95 }),
+    ans ? A(r.ans ? 'T' : 'F', { bold: true, alignment: 'center' }) : { text: ' ' },
+    ans ? A(r.ans ? (r.why || '') : r.fix, { fontSize: st.fs * 0.85 }) : { text: ' ', margin: [0, st.gap * 0.6, 0, 0] }]));
+  return [{ stack: [qHead(u, ctx), { table: { headerRows: 1, widths: [14, '*', 34, ctx.W * 0.34], body, dontBreakRows: true }, layout: thinGrid('#aab2c2') }], unbreakable: it.rows.length <= 6, margin: [0, 0, 0, 10] }];
+}
+function seededOrder(id, n) { let h = 2166136261; for (const c of id) h = Math.imul(h ^ c.charCodeAt(0), 16777619); return shuffle([...Array(n).keys()], mulberry(h >>> 0)); }
+function rChain(u, ctx) {
+  const it = u.ents[0].it, { L, st, mode } = ctx, ans = mode === 'answers';
+  const shown = i => i === 0 || (L.style === 'adapt' && i % 2 === 0);
+  const hidden = it.steps.map((s, i) => shown(i) ? null : s.v).filter(Boolean), order = seededOrder(it.id, hidden.length);
+  const head = [qHead(u, ctx), T(it.title || 'Cause and effect', { bold: true }), T('What happens: ' + it.trigger, { margin: [0, 0, 0, 4] })];
+  if ((L.wordbank || L.style === 'adapt') && !ans && hidden.length) head.push(box([T('Steps to place:  ' + order.map(i => hidden[i]).join('   ·   '), { fontSize: st.fs * 0.9 })], '#FFF8E1', '#E8C25A'));
+  const body = [];
+  it.steps.forEach((s, i) => {
+    if (i) body.push([{ text: '' }, { text: R('↓'), alignment: 'center', fontSize: st.fs * 1.1, color: MUTE }]);
+    const give = shown(i) || ans;
+    body.push([T(String(i + 1), { bold: true, margin: [0, 4, 0, 0] }),
+      give ? { stack: [{ text: R(s.v, ans && !shown(i) ? { color: RED, bold: true } : { bold: true }) }].concat(ans && s.why ? [A(s.why, { fontSize: st.fs * 0.8 })] : []), margin: [6, 5, 6, 5] }
+        : { canvas: [{ type: 'rect', x: 0, y: 0, w: ctx.W - 40, h: st.gap * 1.15, r: 3, lineWidth: 0.7, lineColor: '#8a93a6', color: '#ffffff' }], margin: [6, 2, 6, 2] }]);
+  });
+  const tbl = { table: { widths: [14, '*'], body, dontBreakRows: true }, layout: { hLineWidth: () => 0, vLineWidth: () => 0, fillColor: (r) => r % 2 === 0 ? '#F1F4FA' : null } };
+  return [{ stack: head.concat([tbl]), unbreakable: it.steps.length <= 9, margin: [0, 0, 0, 10] }];
+}
+function rOrder(u, ctx) {
+  const it = u.ents[0].it, { st, mode } = ctx, ans = mode === 'answers', order = seededOrder(it.id, it.steps.length);
+  const head = [qHead(u, ctx), T(it.title, { bold: true }), it.blurb ? T(it.blurb, { italics: true, color: MUTE, margin: [0, 0, 0, 4] }) : null].filter(Boolean);
+  const body = order.map(i => [ans ? A(String(i + 1), { bold: true, alignment: 'center' }) : { text: ' ' }, T(it.steps[i])]);
+  const out = head.concat([{ table: { widths: [28, '*'], body, dontBreakRows: true }, layout: { hLineWidth: () => 0.6, vLineWidth: (i) => i < 2 ? 0.6 : 0, hLineColor: () => '#aab2c2', vLineColor: () => '#555', paddingTop: () => 4, paddingBottom: () => 4 } }]);
+  if (ans && it.closing) out.push(ansBox([A(it.closing)], ctx));
+  return [{ stack: out, unbreakable: true, margin: [0, 0, 0, 10] }];
+}
+function rSort(u, ctx) {
+  const it = u.ents[0].it, { st, mode } = ctx, ans = mode === 'answers', order = seededOrder(it.id, it.rows.length);
+  const head = [qHead(u, ctx), T(it.q, { margin: [0, 0, 0, 4] })];
+  if (!ans) head.push(box([{ text: order.map((i, j) => R(`(${'abcdefghijklmnopqrstuvwxyz'[j]}) ${it.rows[i].t}`)).reduce((a, r, j) => a.concat(j ? R('     ') : [], r), []), fontSize: st.fs * 0.92, lineHeight: 1.35 }], '#F7F8FB'));
+  const cells = it.cats.map(c => ans ? { stack: it.rows.filter(r => r.cat === c).map(r => A('• ' + r.t, { fontSize: st.fs * 0.88 })) } : { text: ' ', margin: [0, Math.max(60, it.rows.length * st.gap / it.cats.length * 1.4), 0, 0] });
+  return [{ stack: head.concat([{ table: { headerRows: 1, widths: it.cats.map(() => '*'), body: [it.cats.map(c => T(c, { bold: true, fillColor: '#E8ECF3' })), cells] }, layout: thinGrid('#8a93a6') }]), unbreakable: true, margin: [0, 0, 0, 10] }];
+}
+function rCompare(u, ctx) {
+  const it = u.ents[0].it, { st, mode } = ctx, ans = mode === 'answers', h = st.gap * 1.6;
+  const body = [[{ text: '' }].concat(it.cols.map(c => T(c, { bold: true, fillColor: '#E8ECF3' })))].concat(it.rows.map(r => [T(r.h, { bold: true, fontSize: st.fs * 0.92 })].concat(
+    r.cells.map(c => c.given ? T(c.t, { fontSize: st.fs * 0.9 }) : ans ? A(c.t, { fontSize: st.fs * 0.88 }) : { text: ' ', margin: [0, h / 2, 0, h / 2] }))));
+  return [{ stack: [qHead(u, ctx), T(it.q, { margin: [0, 0, 0, 4] }), { table: { headerRows: 1, widths: [ctx.W * 0.22].concat(it.cols.map(() => '*')), body, dontBreakRows: true }, layout: thinGrid('#8a93a6') }], unbreakable: it.rows.length <= 7, margin: [0, 0, 0, 10] }];
+}
+function rError(u, ctx) {
+  const it = u.ents[0].it, { st, mode } = ctx, ans = mode === 'answers';
+  const errs = [...it.text.matchAll(/\[\[(.+?)=>(.+?)\]\]/g)].map(m => [m[1].trim(), m[2].trim()]);
+  const para = [];
+  it.text.split(/(\[\[.+?=>.+?\]\])/).forEach(bit => {
+    const m = bit.match(/^\[\[(.+?)=>(.+?)\]\]$/);
+    if (!m) para.push(...R(bit));
+    else if (ans) { para.push(...R(m[1].trim(), { decoration: 'lineThrough', color: MUTE })); para.push(...R(' ' + m[2].trim(), { color: RED, bold: true })); }
+    else para.push(...R(m[1].trim()));
+  });
+  const head = [qHead(u, ctx), T((it.q ? it.q + ' ' : '') + `There ${errs.length === 1 ? 'is 1 mistake' : 'are ' + errs.length + ' mistakes'} to find.`, { margin: [0, 0, 0, 4] }), box([{ text: para, lineHeight: 1.45 }], '#FBFBFD')];
+  const body = [[T('Mistake', { bold: true }), T('Correction', { bold: true })]].concat(errs.map(e => ans ? [A(e[0]), A(e[1], { bold: true })] : [{ text: ' ', margin: [0, st.gap * 0.5, 0, 0] }, { text: ' ' }]));
+  return [{ stack: head.concat([{ table: { headerRows: 1, widths: ['*', '*'], body }, layout: thinGrid('#aab2c2') }]), unbreakable: true, margin: [0, 0, 0, 10] }];
+}
+const RENDER = { mc: rMC, sa: rSA, scen: rSA, read: rSA, er: rER, stim: rStim, teeacl: rTee, cases: rMatch, lcmid: rSort, calc: rCalc, draw: rDraw, label: rLabel, match: rMatch, cloze: rCloze, define: rDefine, tf: rTF, chain: rChain, order: rOrder, sort: rSort, compare: rCompare, error: rError };
+
+/* ================================================================ PDF: the document */
+function versionB(ents) {
+  const rnd = mulberry((S.ws.seed ^ 0xB0B) >>> 0), out = [];
+  const byF = new Map(); ents.forEach(x => { if (!byF.has(x.it.f)) byF.set(x.it.f, []); byF.get(x.it.f).push(x); });
+  for (const [, list] of byF) {
+    const U = units(list).map(u => u.ents);
+    for (const grp of shuffle(U, rnd)) for (const x of grp) {
+      let it = x.it;
+      if (it.f === 'mc' && !it.o.some(o => /\b(both|all of the above|none of the above|[A-D] and [A-D])\b/i.test(o))) {
+        it = clone(it); const p = shuffle([0, 1, 2, 3], rnd);
+        it.o = p.map(i => x.it.o[i]); if (it.mat) it.mat.rows = p.map(i => x.it.mat.rows[i]);
+        if (it.key) it.key = it.key.map(k => letterOf(p.indexOf('ABCD'.indexOf(k))));
+        if (it.e && it.e.why) it.e = Object.assign({}, it.e, { why: it.e.why.replace(/\b([A-D])\b(?=[ ,.)]|$)/g, m => letterOf(p.indexOf('ABCD'.indexOf(m)))) });
+      }
+      out.push(Object.assign({}, x, { it }));
+    }
+  }
+  return out;
+}
+async function makePdf(mode) {
+  const L = LAY(), st = styleTokens(L);
+  FAM = st.font;
+  await ensurePdfLib(st.font);
+  let ents = ordered(); if (!ents.length) throw new Error('the worksheet has no questions');
+  if (L.version === 'B') ents = versionB(ents);
+  await preloadImages(ents, L, mode === 'answers' || L.answers === 'end');
+  const U = units(ents), W = contentWidth(st), stats = sheetStats();
+  const ctx = { L, st, W, mode, U };
+  const content = docHeader(ctx, stats);
+  let lastF = null, partN = 0;
+  const compact2 = L.cols === 2;
+  let pending = null, firstPart = true;
+  const put = nodes => {   // a part heading never sits alone at the foot of a page: it goes with the first question
+    if (pending && nodes.length) { nodes[0] = Object.assign({ stack: pending.concat([nodes[0]]), unbreakable: true }, pending.brk ? { pageBreak: 'before' } : {}); pending = null; }
+    content.push(...nodes);
+  };
+  let colBuf = [];
+  const flushCols = () => {
+    if (!colBuf.length) return;
+    const half = (W - 14) / 2, sub = Object.assign({}, ctx, { W: half }), rows = [];
+    for (let i = 0; i < colBuf.length; i += 2) rows.push([{ stack: RENDER[colBuf[i].f](colBuf[i], sub) }, colBuf[i + 1] ? { stack: RENDER[colBuf[i + 1].f](colBuf[i + 1], sub) } : { text: '' }]);
+    const lay = { hLineWidth: () => 0, vLineWidth: (i) => i === 1 ? 0.5 : 0, vLineColor: () => '#c9d2e4', paddingLeft: (i) => i ? 7 : 0, paddingRight: (i) => i ? 0 : 7 };
+    put([{ table: { widths: [half, half], body: rows.slice(0, 1), dontBreakRows: true }, layout: lay }].concat(rows.length > 1 ? [{ table: { widths: [half, half], body: rows.slice(1), dontBreakRows: true }, layout: lay }] : []));
+    colBuf = [];
+  };
+  for (const u of U) {
+    const headKey = L.group === 'format' ? u.f : L.group === 'topic' ? topicKey(u.ents[0].it) : null;
+    if (headKey !== lastF && headKey !== null) {
+      flushCols();
+      pending = L.group === 'format' ? partHeading(u.f, letterOf(partN++), ctx) : [T(SECN[SEC[u.ents[0].it.c[0]]] || 'Questions', { bold: true, fontSize: st.fs * 1.1, margin: [0, 10, 0, 4] })];
+      pending.brk = L.breaks && !firstPart; firstPart = false; lastF = headKey;
+    }
+    if (compact2 && ['mc', 'define', 'order'].includes(u.f) && mode !== 'answers') { colBuf.push(u); continue; }
+    flushCols();
+    put(RENDER[u.f](u, ctx));
+  }
+  flushCols();
+  if (mode === 'student' && L.answers === 'end') {
+    content.push(T('Answers', { bold: true, fontSize: st.fs * 1.4, pageBreak: 'before', margin: [0, 0, 0, 6] }));
+    const mcs = U.filter(u => u.f === 'mc'); if (mcs.length) content.push(mcGrid(mcs, ctx, true));
+    const actx = Object.assign({}, ctx, { mode: 'answers' });
+    for (const u of U) if (u.f !== 'mc') content.push(...RENDER[u.f](u, actx));
+  }
+  const title = S.ws.title || 'Worksheet';
+  const dd = {
+    pageSize: 'A4', pageMargins: st.m, content, info: { title, author: 'Legal Studies Worksheet Maker', subject: COURSE[L.course || 'hsc'] + ' practice' },
+    defaultStyle: { font: st.font, fontSize: st.fs, lineHeight: st.lead, color: INK },
+    images: Object.fromEntries([...IMG].map(([k, v]) => [k, v.url])),
+    footer: (p, n) => ({ columns: [T(`${COURSE[L.course || 'hsc']}  ·  ${title}${L.version === 'B' ? '  ·  Version B' : ''}${mode === 'answers' ? '  ·  ANSWER COPY' : ''}`, { fontSize: 7.5, color: mode === 'answers' ? RED : MUTE }), T(`Page ${p} of ${n}`, { alignment: 'right', fontSize: 7.5, color: MUTE })], margin: [st.m[0], 14, st.m[2], 0] }),
+    pageBreakBefore: (node, after) => node.headlineLevel === 1 && after.length < 6
+  };
+  return new Promise((res, rej) => { try { window.pdfMake.createPdf(dd, null, FONTDEFS, VFS).getBlob(res); } catch (e) { rej(e); } });
+}
+
+/* ================================================================ preview and download */
+let pvTimer = null, pvSeq = 0;
+function schedulePreview(ms) { if (S.view !== 'print') return; clearTimeout(pvTimer); pvTimer = setTimeout(renderPreview, ms == null ? 700 : ms); }
+async function renderPreview() {
+  const seq = ++pvSeq, box = $('#preview');
+  if (!S.ws.items.length) { box.innerHTML = '<p class="msg">Add questions in step 1 first.</p>'; $('#pvnote').textContent = ''; return; }
+  box.innerHTML = '<p class="msg"><span class="spin"></span> Making the PDF…</p>';
+  try {
+    const blob = await makePdf($('#pv-ans').checked ? 'answers' : 'student');
+    if (seq !== pvSeq) return;
+    if (!window.pdfjsLib) await loadScript(LIB.pdfjs);
+    if (LIB.onPage) { if (!window.pdfjsWorker) await loadScript(LIB.worker); }
+    else window.pdfjsLib.GlobalWorkerOptions.workerSrc = LIB.worker;
+    const doc = await window.pdfjsLib.getDocument({ data: new Uint8Array(await blob.arrayBuffer()) }).promise;
+    if (seq !== pvSeq) return;
+    box.innerHTML = '';
+    $('#pvnote').textContent = `${doc.numPages} ${doc.numPages === 1 ? 'page' : 'pages'} of A4. ${$('#pv-ans').checked ? 'This is the answer copy.' : 'This is the student copy.'}`;
+    const W = Math.min(box.clientWidth - 28, 860), dpr = Math.min(2, window.devicePixelRatio || 1);
+    for (let p = 1; p <= doc.numPages; p++) {
+      const page = await doc.getPage(p); if (seq !== pvSeq) return;
+      const vp = page.getViewport({ scale: 1 }), v2 = page.getViewport({ scale: W / vp.width * dpr });
+      const c = document.createElement('canvas'); c.width = Math.floor(v2.width); c.height = Math.floor(v2.height); c.style.width = Math.floor(v2.width / dpr) + 'px';
+      c.setAttribute('aria-label', 'Page ' + p); box.append(c);
+      await page.render({ canvasContext: c.getContext('2d'), viewport: v2 }).promise;
+    }
+  } catch (e) { console.error(e); box.innerHTML = `<p class="msg">The preview could not be made (${esc(e.message || e)}). The download buttons may still work.</p>`; }
+}
+function fileName(mode) {
+  const t = (S.ws.title || 'Worksheet').replace(/[\\/:*?"<>|]+/g, '').slice(0, 80);
+  return `Worksheet - ${t}${LAY().version === 'B' ? ' (B)' : ''}${mode === 'answers' ? ' - answers' : ''}.pdf`;
+}
+async function download(mode) {
+  const btn = mode === 'answers' ? $('#dl-ans') : $('#dl-ws'), old = btn.innerHTML;
+  btn.disabled = true; btn.innerHTML = '<span class="spin"></span> Making the PDF…';
+  try {
+    const blob = await makePdf(mode), name = fileName(mode);
+    if (DOWNLOADS) { try { await DOWNLOADS.save({ filename: name, data: blob }); } catch (e) { if (e.code !== 'declined') toast('The PDF could not be saved here (' + (e.code || 'error') + ').'); } }
+    else { const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = name; document.body.append(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 5000); }
+  } catch (e) { console.error(e); toast('The PDF could not be made: ' + (e.message || e)); }
+  finally { btn.disabled = false; btn.innerHTML = old; }
+}
+
+/* ================================================================ Claude (only in the copy of this page that runs inside Claude) */
+const CL_FMTS = [['mc', 'Multiple choice'], ['sa', 'Short answer'], ['scen', 'Scenario application'], ['stim', 'Source with questions'], ['er', 'Extended response'],
+  ['teeacl', 'TEEACL paragraph task'], ['tf', 'True or false'], ['order', 'Put in order'], ['chain', 'Cause and effect chain'], ['sort', 'Sort and classify'], ['compare', 'Compare'], ['error', 'Spot the mistake']];
+const SHAPES = {
+  mc: '{"f":"mc","c":["crime.2.5"],"m":1,"lv":2,"lead":"an optional short scenario the question is about","q":"the stem","o":["option A","option B","option C","option D"],"key":["B"],"e":{"why":"why B is right and the error behind each other option"}}',
+  sa: '{"f":"sa","c":["hr.2.2"],"m":4,"lv":2,"q":"one question that starts with a NESA key verb","pts":["a marking point (1 mark)","..."],"ans":"a model answer"}  (or several parts: "lead":"a sentence that sets up the parts","parts":[{"label":"(a)","m":2,"q":"...","pts":["..."],"ans":"..."}])',
+  scen: '{"f":"scen","c":["crime.2.4"],"lv":2,"lead":"a realistic scenario of 60 to 120 words with invented names, set in NSW, giving every fact the answers need","parts":[{"label":"(a)","m":2,"q":"Identify ...","pts":["..."],"ans":"..."},{"label":"(b)","m":4,"q":"Explain whether ... With reference to the scenario ...","pts":["..."],"ans":"..."}]}',
+  stim: '{"f":"stim","c":["shel.3.1"],"lv":2,"title":"a title for the source","by":"Constructed source for practice","lede":"a source of 80 to 150 words: an invented media-style extract, a short statement of a real law or case you are sure of, or a description of data","table":{"cap":"Table 1: ...","rows":[["Heading","Heading"],["cell","cell"]]},"qs":[{"q":"Outline ...","m":2,"pts":["..."],"ans":"..."},{"q":"Explain ...","m":4,"pts":["..."],"ans":"..."}]}  ("table" is optional)',
+  er: '{"f":"er","c":["crime.4.2","crime.t.balance"],"m":15,"lv":3,"q":"the essay question","pts":["what a top-band response includes, naming legislation, cases and other evidence"],"plan":["paragraph 1 idea","paragraph 2 idea","paragraph 3 idea"]}  (15 marks for Crime, 25 for an option, 8 to 12 for Year 11)',
+  teeacl: '{"f":"teeacl","c":["fam.2.4"],"m":8,"lv":2,"q":"an essay-style question a single paragraph can answer in part","pts":["what a strong paragraph includes: the judgement, the evidence to cite, the criterion, the counterpoint"],"ans":"a model TEEACL paragraph of 150 to 200 words"}',
+  tf: '{"f":"tf","c":["crime.3.6"],"rows":[{"s":"a statement as printed","ans":true,"fix":"why it is true"},{"s":"a false statement","ans":false,"fix":"the corrected statement"}]}  (6 to 8 rows, about half false)',
+  order: '{"f":"order","c":["crime.3.1"],"title":"the process","blurb":"one line setting it up","steps":["first step","second step","..."],"closing":"a sentence on why the order matters"}  (5 to 8 steps in the correct order; the page shuffles them)',
+  chain: '{"f":"chain","c":["crime.t.reform"],"title":"short title","trigger":"the event","steps":[{"v":"what happens first","why":"why"},{"v":"what that leads to","why":"why"}]}  (5 to 7 steps from the event to the legal outcome)',
+  sort: '{"f":"sort","c":["crime.1.6"],"q":"the instruction","cats":["heading 1","heading 2"],"rows":[{"t":"an item","cat":"heading 1"}]}  (8 to 12 items)',
+  compare: '{"f":"compare","c":["crime.5.3","crime.3.1"],"q":"the instruction","cols":["thing 1","thing 2"],"rows":[{"h":"row heading","cells":[{"t":"answer","given":false},{"t":"answer","given":true}]}]}  (5 to 7 rows; give about one cell in four)',
+  error: '{"f":"error","c":["crime.2.5"],"q":"This paragraph answers: <question>","text":"a 100 to 160 word student paragraph with 3 to 5 mistakes of law or fact, each written as [[the mistaken words => the correct words]]"}'
+};
+const RULES = `House rules (NSW Legal Studies):
+- Australian spelling. Use NESA key verbs (identify, outline, describe, explain, analyse, discuss, assess, evaluate, to what extent) and set the marks to suit the verb.
+- The law must be correct for NSW and the Commonwealth today. Name legislation with its year and jurisdiction, for example Bail Act 2013 (NSW), and cases with their year. Only cite legislation, cases, instruments, reports and statistics you are sure exist and are sure about; if unsure, leave the citation out rather than guess. Never invent a case, a section number, a statistic or a quotation from a real person.
+- Scenarios use invented people and are clearly hypothetical. Do not write scenarios that depict sexual offences or violence against children in detail; keep sensitive topics factual and brief.
+- Use the class paragraph scaffold TEEACL (Topic sentence, Evidence, Explanation, Analysis, Counterpoint, Link) and the evidence types LCMID (Legislation, Cases, Media, International instruments, Documents) when a task calls for them.
+- Use respectful, current terms: Aboriginal and Torres Strait Islander Peoples; a person with disability; the accused (not the criminal) before conviction.
+- Every multiple-choice question has exactly one correct answer, and each wrong option is a common student error.
+- Every question has an answer: marking points with marks, or a model answer.
+- Write for students, not teachers. No markdown, no HTML.`;
+const READING = { std: 'Write at the level of the HSC exam.', plain: 'Write in plain English for students reading at about Year 7: short sentences, everyday words, and a short meaning in brackets the first time a key term appears. Keep the law exactly right.' };
+/* What Claude is told about the course: the 2009 HSC, or Year 11 or Year 12 of the 2025 syllabus. */
+const reading = r => r === 'std' && S.fw === 'y11' ? 'Write at the level of a Year 11 school exam.' : READING[r];
+const teacherIs = () => `an experienced NSW ${S.fw === 'y11' ? 'Year 11 Legal Studies' : 'HSC Legal Studies'} teacher`;
+const contentIs = () => S.fw === 'h09' ? 'Legal Studies Stage 6 Syllabus (2009), HSC course' : `Legal Studies 11–12 Syllabus (2025), ${S.fw === 'y11' ? 'Year 11' : 'Year 12'} content`;
+const tagLike = () => S.fw === 'h09' ? 'dot point codes above (for example crime.2.5)' : `section codes above (for example ${S.fw === 'y11' ? 'dis.1' : 'cj.3'})`;
+const LEVELS = () => S.fw === 'y11' ? { 1: 'foundation', 2: 'Year 11 standard (a school Year 11 exam)', 3: 'extension (for the most capable Year 11 students)' }
+  : { 1: 'foundation (Band 3 and 4)', 2: 'HSC standard', 3: 'extension (Band 6 discriminators)' };
+const Y11_NOTE = () => S.fw === 'y11' ? 'This is the Year 11 course: keep to the Year 11 content above and do not rely on Year 12 (HSC) content.\n' : '';
+function selText(F) {
+  if (S.fw === 'h09') return (F || [...S.sel09]).slice(0, 30).map(p => `${p} ${DOT[p]}`).join('\n');
+  const secs = (D.syl[S.fw] || []).flatMap(t => t.sections);
+  return (F || [...selOf()]).map(s => `${s} ${SECN[s]}: ` + (secs.find(x => x.id === s) || { points: [] }).points.map(p => p.t).join('; ')).join('\n');
+}
+function normalise(x, fallbackC, fallback25) {
+  if (!x || typeof x !== 'object') return null;
+  const f = x.f; if (!FBY[f] || !SHAPES[f]) return null;
+  const valid = c => (c || []).filter(p => DOT[p] && !is25(p));
+  const it = Object.assign({}, x, { f, id: 'cl:' + uid(), src: 'claude', rev: 1, c: valid(x.c).length ? valid(x.c) : fallbackC, k: x.k || [] });
+  if (S.fw !== 'h09') { it.c25 = (x.c || []).filter(p => typeof p === 'string' && (S.fw === 'y11' ? isY11(p) : isY12(p)) && (SECN[p] || DOT[p])); if (!it.c25.length && fallback25) it.c25 = fallback25.slice(0, 3); }
+  const str = v => typeof v === 'string' ? v : '';
+  if (typeof it.lead !== 'string' || !it.lead.trim()) delete it.lead;
+  if (f === 'mc') { if (!Array.isArray(it.o) || it.o.length !== 4 || !Array.isArray(it.key) || !it.key.length || !it.key.every(k => 'ABCD'.includes(k))) return null; it.o = it.o.map(str); it.m = 1; it.e = { why: str(it.e && it.e.why), not: {} };
+    const mt = it.mat; if (mt && !(Array.isArray(mt.head) && mt.head.length && Array.isArray(mt.rows) && mt.rows.length === 4 && mt.rows.every(r => Array.isArray(r) && r.length === mt.head.length))) delete it.mat;
+    else if (mt) it.mat = { head: mt.head.map(str), rows: mt.rows.map(r => r.map(str)) }; }
+  if (f === 'scen' && (!it.lead || !Array.isArray(it.parts))) return null;
+  if (f === 'stim') { if (!it.title || !it.lede || !Array.isArray(it.qs)) return null; it.title = str(it.title); it.lede = str(it.lede); it.by = str(it.by) || 'Constructed source for practice'; it.qs = it.qs.filter(q => q && q.q).map(q => ({ q: str(q.q), m: +q.m || 2, pts: (q.pts || []).map(str), ans: str(q.ans) })); if (!it.qs.length) return null; it.m = it.qs.reduce((a, q) => a + q.m, 0); }
+  if (f === 'teeacl') { if (!it.q) return null; it.m = +it.m || 8; it.pts = (it.pts || []).map(str); it.ans = str(it.ans); }
+  if (f === 'order') { if (!Array.isArray(it.steps) || it.steps.length < 3) return null; it.steps = it.steps.map(str); it.title = str(it.title) || 'Put these steps in order'; it.blurb = str(it.blurb); it.closing = str(it.closing); it.m = it.steps.length; }
+  if (f === 'sa' || f === 'scen') { if (it.parts) { it.parts = it.parts.filter(p => p && p.q).map(p => ({ label: str(p.label) || '', m: +p.m || 1, q: str(p.q), pts: (p.pts || []).map(str), ans: str(p.ans) })); if (!it.parts.length) return null; it.m = it.parts.reduce((a, p) => a + p.m, 0); } else { if (!it.q) return null; it.m = +it.m || 2; it.pts = (it.pts || []).map(str); } }
+  if (it.table && !(Array.isArray(it.table.rows) && it.table.rows.length > 1)) delete it.table;
+  if (f === 'er') { if (!it.q) return null; it.m = +it.m || 15; it.pts = (it.pts || []).map(str); }
+  if (f === 'draw') { if (!it.q || !D.dias[it.dia]) return null; it.m = +it.m || 4; }
+  if (f === 'tf') { if (!Array.isArray(it.rows) || it.rows.length < 3) return null; it.rows = it.rows.map(r => ({ s: str(r.s), ans: !!r.ans, fix: str(r.fix), why: r.ans ? str(r.fix) : '' })); it.m = it.rows.length; }
+  if (f === 'chain') { if (!Array.isArray(it.steps) || it.steps.length < 3) return null; it.steps = it.steps.map(s => ({ v: str(s.v), why: str(s.why) })); it.title = str(it.title); it.trigger = str(it.trigger); it.m = it.steps.length; }
+  if (f === 'sort') { if (!Array.isArray(it.cats) || !Array.isArray(it.rows)) return null; it.rows = it.rows.filter(r => it.cats.includes(r.cat)); it.m = Math.max(2, Math.round(it.rows.length / 2)); }
+  if (f === 'compare') { if (!Array.isArray(it.cols) || !Array.isArray(it.rows)) return null; it.rows = it.rows.map(r => ({ h: str(r.h), cells: (r.cells || []).slice(0, it.cols.length).map(c => ({ t: str(c.t), given: !!c.given })) })); it.m = it.rows.length; }
+  if (f === 'error') { if (!/\[\[.+?=>.+?\]\]/.test(str(it.text))) return null; it.m = (it.text.match(/\[\[/g) || []).length; }
+  return it;
+}
+/* Which Claude writes. Inside the Claude copy: the page's own "sample" capability. On the website: a teacher's own
+   Anthropic API key, kept in this browser (localStorage, or sessionStorage when it is not remembered) and sent only to
+   api.anthropic.com, which accepts calls from a web page when the anthropic-dangerous-direct-browser-access header is set. */
+const INSIDE_CLAUDE = !!window.WM_ARTIFACT;
+const KEYST = 'econ-worksheet-maker-v1:claude-key';      // shared with the Economics Worksheet Maker: set up once for both
+const MODELS = [['claude-sonnet-5-5', 'Claude Sonnet 5.5: quick and careful (recommended)'], ['claude-opus-5-5', 'Claude Opus 5.5: the most careful, about twice the cost'],
+  ['claude-haiku-5-5', 'Claude Haiku 5.5: the quickest and cheapest']];
+const modelName = id => (MODELS.find(m => m[0] === id) || [id, id])[1].split(':')[0];
+function readKey() {
+  for (const remember of [true, false]) {
+    try { const v = JSON.parse((remember ? localStorage : sessionStorage).getItem(KEYST) || 'null'); if (v && v.key) return { key: v.key, model: v.model || MODELS[0][0], ws: v.ws || '', remember }; } catch (e) { }
+  }
+  return null;
+}
+function writeKey(v) {
+  for (const st of ['localStorage', 'sessionStorage']) { try { window[st].removeItem(KEYST); } catch (e) { } }
+  if (v) { try { (v.remember ? localStorage : sessionStorage).setItem(KEYST, JSON.stringify({ key: v.key, model: v.model, ws: v.ws || '' })); } catch (e) { } }
+}
+function setBackend() {
+  if (SAMPLE) CLAUDE = { kind: 'claude', json: (p, o) => SAMPLE.json(p, { signal: o.signal, cache: false, modelTier: 'default' }) };
+  else if (APIKEY && !INSIDE_CLAUDE) CLAUDE = { kind: 'key', json: (p, o) => apiJson(p, o) };
+  else CLAUDE = null;
+}
+function parseJsonText(t) {
+  t = String(t || '').trim().replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '');
+  try { return JSON.parse(t); } catch (e) { }
+  const a = t.indexOf('{'), b = t.lastIndexOf('}');
+  if (a >= 0 && b > a) { try { return JSON.parse(t.slice(a, b + 1)); } catch (e) { } }
+  return null;
+}
+function apiCode(status, type, msg) {
+  if (/CORS requests are not allowed/i.test(msg)) return 'no_browser';
+  if (/not scoped to a workspace/i.test(msg)) return 'need_ws';
+  if (/workspace/i.test(msg) && (status === 404 || /valid workspace ID/i.test(msg))) return 'bad_ws';
+  if (/credit balance/i.test(msg)) return 'no_credit';
+  if (status === 401 || type === 'authentication_error') return 'bad_key';
+  if (status === 403 || type === 'permission_error') return 'forbidden';
+  if (status === 404 || type === 'not_found_error') return 'bad_model';
+  if (status === 429 || type === 'rate_limit_error') return 'rate_limited';
+  if (status === 529 || status === 503 || type === 'overloaded_error') return 'overloaded';
+  return 'api_error';
+}
+/* One request to the Messages API, straight from the browser. Claude is asked for a JSON object; only text blocks are read. */
+async function apiJson(prompt, o = {}) {
+  const cred = o.cred || APIKEY; let r, body = null;
+  try {
+    r = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST', signal: o.signal,
+      headers: Object.assign({ 'content-type': 'application/json', 'x-api-key': cred.key, 'anthropic-version': '2026-10-21', 'anthropic-dangerous-direct-browser-access': 'true' },
+        cred.ws ? { 'anthropic-workspace-id': cred.ws } : {}),
+      body: JSON.stringify({ model: cred.model, max_tokens: o.max || 16000, output_config: { effort: o.effort || 'medium' }, messages: [{ role: 'user', content: prompt }] })
+    });
+    body = await r.json().catch(() => null);
+  } catch (e) { throw { code: o.signal && o.signal.aborted ? 'cancelled' : 'network' }; }
+  if (o.signal && o.signal.aborted) throw { code: 'cancelled' };
+  if (!r.ok) { const er = (body && body.error) || {}; throw { code: apiCode(r.status, er.type, er.message || ''), message: er.message || '' }; }
+  const j = parseJsonText(((body && body.content) || []).filter(x => x.type === 'text').map(x => x.text).join(''));
+  if (j === null) throw { code: body && body.stop_reason === 'max_tokens' ? 'too_long' : 'invalid_json' };
+  return j;
+}
+function keyDialog() {
+  if (INSIDE_CLAUDE) return;
+  const cur = APIKEY || { key: '', model: MODELS[0][0], remember: true };
+  openDlg('Claude on this website', `
+    <p>Claude can write new questions, look-alikes and plain-English wording on this website with your own <b>Anthropic API key</b>. Set it up once on each computer you use.</p>
+    <ol class="steps"><li>Sign in at <a href="https://platform.claude.com/" target="_blank" rel="noopener">platform.claude.com</a> and add some credit. This account is separate from a Claude chat subscription.</li><li>Create an API key at <a href="https://platform.claude.com/settings/keys" target="_blank" rel="noopener">platform.claude.com/settings/keys</a>. Choose a workspace for it (Default is fine), then paste the key below.</li></ol>
+    <label class="field"><span>API key</span><input type="password" id="k-key" autocomplete="off" spellcheck="false" placeholder="sk-ant-…"></label>
+    <label class="field"><span>Model</span><select id="k-model">${MODELS.map(([v, n]) => `<option value="${v}" ${v === cur.model ? 'selected' : ''}>${esc(n)}</option>`).join('')}</select></label>
+    <label class="field"><span>Workspace ID (only for a key with no workspace)</span><input type="text" id="k-ws" autocomplete="off" spellcheck="false" placeholder="wrkspc_…"></label>
+    <label class="opt"><input type="checkbox" id="k-rem" ${cur.remember ? 'checked' : ''}><span>Remember the key on this computer. Leave this off on a shared or student computer: the key is then forgotten when the browser closes.</span></label>
+    <p class="hint">The key stays in this browser and is sent only to Anthropic (api.anthropic.com). Each batch of questions is charged to the key’s account, usually a few cents with Sonnet. Only question text and syllabus wording are sent, never anything about students.</p>
+    <p class="hint" id="k-msg" role="status"></p>`,
+    `${APIKEY ? '<button class="btn ghost sm" id="k-forget">Forget my key</button>' : ''}<button class="btn ghost sm" data-close>Cancel</button><button class="btn" id="k-save">Check and save</button>`);
+  $('#k-key').value = cur.key; $('#k-ws').value = cur.ws || '';
+  $('#k-save').onclick = async () => {
+    const key = $('#k-key').value.trim(), model = $('#k-model').value, ws = $('#k-ws').value.trim(), remember = $('#k-rem').checked, msg = $('#k-msg'), btn = $('#k-save');
+    if (!key) { msg.textContent = 'Paste your API key first.'; return; }
+    btn.disabled = true; msg.innerHTML = '<span class="spin"></span> Checking the key with Anthropic…';
+    try {
+      const j = await apiJson('Reply with only this JSON object and nothing else: {"ok": true}', { cred: { key, model, ws }, max: 2000, effort: 'low' });
+      if (!j || j.ok !== true) throw { code: 'invalid_json' };
+    } catch (e) { msg.textContent = CL_ERR[e.code] || 'The key could not be checked. Try again.'; btn.disabled = false; return; }
+    APIKEY = { key, model, ws, remember }; writeKey(APIKEY); setBackend(); dlg.close(); renderAll();
+    toast('Claude is ready: use “Write new questions with Claude”.');
+  };
+  if ($('#k-forget')) $('#k-forget').onclick = () => { APIKEY = null; writeKey(null); setBackend(); dlg.close(); renderAll(); toast('Your key was removed from this browser.'); };
+}
+function renderClaudeBox() {
+  const box = $('#claudebox'); if (!box || !D) return;
+  box.hidden = !CLAUDE && INSIDE_CLAUDE;
+  $('#cl-setup').hidden = !!CLAUDE; $('#cl-form').hidden = !CLAUDE;
+  if (!CLAUDE) return;
+  if (!$('#cl-fmt').options.length) $('#cl-fmt').innerHTML = '<option value="like">More like my worksheet (same style)</option><optgroup label="Or a set of one type">'
+    + CL_FMTS.map(([k, n]) => `<option value="${k}">${esc(n)}</option>`).join('') + '</optgroup>';
+  const sel = [...selOf()], cur = $('#cl-dp').value, y11 = S.fw === 'y11';
+  $('#cl-lv').options[1].textContent = y11 ? 'Year 11 standard' : 'HSC standard';
+  $('#cl-lv').options[2].textContent = y11 ? 'Extension' : 'Extension (Band 6)';
+  $('#cl-read').options[0].textContent = y11 ? 'Year 11' : 'Year 12';
+  const name = p => { const t = (S.fw === 'h09' ? DOT[p] : SECN[p]) || ''; return t.length > 70 ? t.slice(0, 69) + '…' : t; };
+  $('#cl-dp').innerHTML = `<option value="all">${sel.length === 1 ? esc(sel[0] + ' ' + name(sel[0])) : sel.length ? `All the dot points I chose (${sel.length})` : 'Choose dot points in step 1'}</option>`
+    + (sel.length > 1 && sel.length <= 60 ? sel.map(p => `<option value="${esc(p)}" ${p === cur ? 'selected' : ''}>${esc(p + ' ' + name(p))}</option>`).join('') : '');
+  $('#cl-lv-f').hidden = $('#cl-fmt').value === 'like';
+  $('#cl-who').innerHTML = CLAUDE.kind === 'key' ? `Writing with your API key and ${esc(modelName(APIKEY.model))}. <button type="button" class="linkish" id="cl-set">Claude settings</button>` : 'Writing with Claude in this page.';
+}
+let clCtl = null;
+const CL_ERR = { not_granted: 'Claude was not allowed for this page.', sampling_disabled: 'Claude is not available for this account.', rate_limited: 'Too many requests just now. Wait a minute and try again.',
+  refused: 'Claude declined that request. Try different wording.', invalid_json: 'Claude’s answer could not be read. Try again, or ask for fewer questions.', session_expired: 'Sign in to Claude again.',
+  bad_key: 'Anthropic did not accept that API key. Check it in Claude settings.', no_credit: 'The Anthropic account for this key has run out of credit. Add credit at platform.claude.com.',
+  forbidden: 'This API key is not allowed to do that. Check it at platform.claude.com.', bad_model: 'That Claude model is not available with this key. Choose another in Claude settings.',
+  overloaded: 'Claude is busy right now. Try again in a minute.', network: 'Claude could not be reached. Check the connection: some school networks block api.anthropic.com.',
+  too_long: 'Claude’s answer was cut short. Ask for fewer questions at a time.', api_error: 'Claude returned an error. Try again.',
+  need_ws: 'This key is not tied to a workspace. Create a key for one workspace (Default is fine), or add the workspace ID in Claude settings.',
+  bad_ws: 'That workspace ID was not found for this key. Check it at platform.claude.com/settings/workspaces.',
+  no_browser: 'Your Anthropic organisation does not allow Claude to be used from a web page. Use the Claude copy of the Worksheet Maker instead.' };
+async function askClaude(prompt, msgEl) {
+  if (!CLAUDE) return null;
+  clCtl = new AbortController(); $('#cl-stop').hidden = false; $('#cl-go').disabled = true;
+  msgEl.innerHTML = '<span class="spin"></span> Claude is writing. This can take a minute or two.';
+  try { return await CLAUDE.json(prompt, { signal: clCtl.signal }); }
+  catch (e) {
+    const code = (e && e.code) || 'error';
+    if (code === 'not_granted' || code === 'sampling_disabled') { SAMPLE = null; setBackend(); renderAll(); }
+    msgEl.textContent = code === 'cancelled' ? 'Stopped.' : (CL_ERR[code] || 'Something went wrong. Try again.') + (code === 'api_error' && e.message ? ' (' + String(e.message).slice(0, 160) + ')' : '');
+    return null;
+  }
+  finally { $('#cl-stop').hidden = true; $('#cl-go').disabled = false; }
+}
+/* The dot points Claude writes for: the one picked in the panel, or all those chosen in step 1. */
+function focusSel() {
+  const v = $('#cl-dp').value, all = [...selOf()];
+  return v && v !== 'all' && all.includes(v) ? [v] : all;
+}
+function inFocus(it, F) {
+  if (S.fw === 'h09') return (it.c || []).some(c => F.includes(c));
+  const ys = it._y ? y25(it) : uniq((it.c || []).concat(it.c25 || []).flatMap(secs25));      // Claude's questions are not in the pool
+  return ys.some(y => F.includes(y));
+}
+const fbC = F => S.fw === 'h09' ? F.slice(0, 3) : [];
+const fb25 = F => S.fw !== 'h09' ? F.slice(0, 3) : null;
+function sheetStems(max) {
+  const first = it => it.q || it.title || it.trigger || (it.parts && it.parts[0] && it.parts[0].q) || (it.qs && it.qs[0] && (it.qs[0].q || (typeof it.qs[0] === 'string' ? it.qs[0] : ''))) || '';
+  return S.ws.items.map(itemOf).filter(Boolean).slice(0, max || 40).map(it => plain(first(it)).slice(0, 120)).filter(Boolean);
+}
+async function claudeWrite() {
+  if (!CLAUDE) return;
+  const msg = $('#cl-msg');
+  if (!hasSel()) { msg.textContent = 'Choose dot points first (step 1).'; return; }
+  const fmt = $('#cl-fmt').value;
+  if (fmt === 'like') return claudeMore();
+  const F = focusSel(), n = +$('#cl-n').value, lv = $('#cl-lv').value, read = $('#cl-read').value, note = $('#cl-note').value.trim();
+  const avoid = sheetStems(25);
+  const prompt = `You are ${teacherIs()} writing practice questions for a printed worksheet.
+
+Syllabus content to practise (${contentIs()}):
+${selText(F)}
+
+Write ${n} new ${CL_FMTS.find(x => x[0] === fmt)[1].toLowerCase()} question${n > 1 ? 's' : ''}. Level: ${LEVELS()[lv]}. ${reading(read)}
+${Y11_NOTE()}${note ? 'Teacher’s note: ' + note + '\n' : ''}${fmt === 'draw' ? 'Diagram codes you may use (the page draws them; pick the one that fits): ' + Object.keys(D.dias).filter(k => !/given$/.test(k)).join(', ') + '. Add " given" to the code to show students the starting diagram.\n' : ''}${avoid.length ? 'Do not repeat these questions already on the worksheet:\n- ' + avoid.join('\n- ') + '\n' : ''}
+${RULES}
+
+Tag each question in "c" with the ${tagLike()} it practises.
+Reply with only a JSON object: {"items":[ ... ]} where each item has this shape:
+${SHAPES[fmt]}`;
+  const out = await askClaude(prompt, msg); if (!out) return;
+  const items = (Array.isArray(out) ? out : out.items || []).map(x => normalise(x, fbC(F), fb25(F))).filter(Boolean);
+  if (!items.length) { msg.textContent = 'Claude’s questions could not be used. Try again.'; return; }
+  const before = clone(S.ws.items);
+  items.forEach(it => S.ws.items.push({ k: uid(), item: it })); persist(); renderList();
+  msg.textContent = `Added ${items.length}. Check them before you print.`;
+  toast(`Added ${items.length} from Claude.`, () => { S.ws.items = before; persist(); renderList(); });
+}
+
+/* "More like my worksheet": new questions in the style of those already on the sheet for the dot point
+   (or of past HSC and bank questions on it when the sheet has none), in the same mix of types. */
+const CL_KINDS = new Set(CL_FMTS.map(x => x[0]));
+const LOCAL_KINDS = ['match', 'cloze', 'define', 'cases', 'lcmid'];          // the page makes these itself from the key terms and the Evidence Finder
+const clFmtOf = it => it.f;
+function styleExamples(F) {
+  const onSheet = S.ws.items.map(itemOf).filter(it => it && inFocus(it, F));
+  if (onSheet.length) return { ex: onSheet, from: 'sheet' };
+  const chosen = FMT.filter(f => S.counts[f.id] > 0).map(f => f.id), types = chosen.length ? chosen : ['mc', 'sa'];
+  const pool = D.items.filter(it => !it.hold && types.includes(it.f) && inFocus(it, F) && (it.src === 'hsc' && S.fw !== 'y11' || it.src === 'bank'))
+    .sort((a, b) => (a.src === 'hsc' ? 0 : 1) - (b.src === 'hsc' ? 0 : 1) || (b.y || 0) - (a.y || 0));
+  const ex = []; for (const f of types) ex.push(...pool.filter(it => it.f === f).slice(0, 3));
+  for (const f of types) if (LOCAL_KINDS.includes(f)) ex.push({ f, c: F, k: [], gen: true });   // a calculation or term task needs no example
+  return { ex, from: 'pool' };
+}
+/* Share n new questions across the types in proportion to how often each appears among the examples. */
+function allocate(n, counts) {
+  const fm = Object.keys(counts).sort((a, b) => counts[b] - counts[a]), tot = fm.reduce((t, f) => t + counts[f], 0), out = {};
+  if (n <= fm.length) { fm.slice(0, n).forEach(f => { out[f] = 1; }); return out; }
+  let left = n; const rem = [];
+  for (const f of fm) { const exact = n * counts[f] / tot, k = Math.max(1, Math.floor(exact)); out[f] = k; left -= k; rem.push([exact - Math.floor(exact), f]); }
+  rem.sort((a, b) => b[0] - a[0]);
+  for (let i = 0; left > 0; i++, left--) out[rem[i % rem.length][1]]++;
+  while (left < 0) { const f = Object.keys(out).sort((a, b) => out[b] - out[a])[0]; out[f]--; left++; }
+  return out;
+}
+function pickVaried(list, k) {
+  const out = [], marks = new Set();
+  for (const it of list) if (out.length < k && !marks.has(it.m)) { out.push(it); marks.add(it.m); }
+  for (const it of list) if (out.length < k && !out.includes(it)) out.push(it);
+  return out;
+}
+function morePrompt(F, plan, shown, from, read, note) {
+  const want = Object.entries(plan).map(([f, k]) => `${k} ${CL_FMTS.find(x => x[0] === f)[1].toLowerCase()}`).join(', ');
+  const avoid = sheetStems(40);
+  return `You are ${teacherIs()} adding questions to a printed practice worksheet.
+
+Syllabus content (${contentIs()}):
+${selText(F)}
+
+${from === 'sheet' ? 'These questions are already on the worksheet' : 'These are past HSC and practice questions on this content'}. They show the style to copy:
+${shown.map((it, i) => `Example ${i + 1} (${FBY[it.f].name}): ${itemForPrompt(it, 2500)}`).join('\n\n')}
+
+Write these new questions: ${want}. Write each one in the style of the examples of the same type: match their format, marks, NESA key verb, level of difficulty and kind of stimulus (a scenario, a quote, an extract), so the new questions sit naturally beside them. Use new scenarios, people, disputes and examples, and cover other parts of the syllabus content above where you can. Do not copy the examples’ wording, and do not repeat a question already on the worksheet.
+${reading(read)}
+${Y11_NOTE()}${note ? 'Teacher’s note: ' + note + '\n' : ''}${plan.draw ? 'Diagram codes you may use (the page draws them; pick the one that fits): ' + Object.keys(D.dias).filter(k => !/given$/.test(k)).join(', ') + '. Add " given" to the code to show students the starting diagram.\n' : ''}${avoid.length ? 'Questions already on the worksheet:\n- ' + avoid.join('\n- ') + '\n' : ''}
+${RULES}
+
+Tag each question in "c" with the ${tagLike()} it practises.
+Reply with only a JSON object: {"items":[ ... ]}, the questions in this order of type: ${Object.keys(plan).join(', ')}. Each item has the shape for its type:
+${Object.keys(plan).map(f => f + ': ' + SHAPES[f]).join('\n')}`;
+}
+async function claudeMore() {
+  const msg = $('#cl-msg');
+  const F = focusSel(), n = +$('#cl-n').value, read = $('#cl-read').value, note = $('#cl-note').value.trim();
+  const { ex, from } = styleExamples(F);
+  if (!ex.length) { msg.textContent = 'There is nothing on this dot point to copy the style of yet. Choose a type under “What to write” instead.'; return; }
+  const counts = {}; ex.forEach(it => { const f = clFmtOf(it); counts[f] = (counts[f] || 0) + 1; });
+  const plan = allocate(n, counts);
+  const cant = Object.keys(plan).filter(f => !CL_KINDS.has(f) && !LOCAL_KINDS.includes(f));
+  // calculations and key-term tasks: the same skills with new numbers, or new terms, made here
+  const rnd = newRnd(), used = usedSet(), local = [];
+  for (const f of LOCAL_KINDS) {
+    if (!plan[f]) continue;
+    const skills = ex.filter(it => it.f === 'calc' && it.skill).map(it => D.calc.find(c => c.id === it.skill)).filter(Boolean);
+    for (let i = 0; i < plan[f]; i++) {
+      const x = f === 'calc' && skills.length ? calcItem(skills[i % skills.length], rnd) : genItem(f, rnd, used, f === 'define' ? 3 : (LAY().style === 'adapt' ? 5 : 8));
+      if (x) local.push({ k: uid(), item: x });
+    }
+    delete plan[f];
+  }
+  for (const f of Object.keys(plan)) if (!CL_KINDS.has(f) || !plan[f]) delete plan[f];
+  let cl = [], failed = false;
+  if (Object.keys(plan).length) {
+    const shown = []; for (const f of Object.keys(plan)) shown.push(...pickVaried(ex.filter(it => clFmtOf(it) === f && !it.gen), 2));
+    const out = await askClaude(morePrompt(F, plan, shown, from, read, note), msg);
+    if (out) cl = (Array.isArray(out) ? out : out.items || []).map(x => normalise(x, fbC(F), fb25(F))).filter(Boolean);
+    failed = !out;
+  }
+  if (!local.length && !cl.length) {
+    if (!failed) msg.textContent = cant.length && !Object.keys(plan).length ? `Claude does not write ${cant.map(f => FBY[f].name.toLowerCase()).join(' or ')} tasks. Choose a type under “What to write” instead.` : 'Claude’s questions could not be used. Try again.';
+    return;
+  }
+  const before = clone(S.ws.items);
+  local.concat(cl.map(it => ({ k: uid(), item: it }))).forEach(e => S.ws.items.push(e));
+  persist(); renderList(); renderFormats();
+  const added = local.length + cl.length;
+  if (failed) msg.textContent += ` Added ${local.length} made here (key terms or evidence tasks).`;
+  else msg.textContent = `Added ${added} in the same style${cl.length ? '. Check Claude’s before you print' : ''}.`;
+  toast(`Added ${added} more like these.`, () => { S.ws.items = before; persist(); renderList(); renderFormats(); });
+}
+function itemForPrompt(it, max) {
+  const keep = ['f', 'm', 'q', 'o', 'mat', 'key', 'lead', 'blurb', 'closing', 'by', 'parts', 'pts', 'ans', 'could', 'table', 'title', 'trigger', 'steps', 'rows', 'cats', 'cols', 'text', 'qs', 'lede', 'figs', 'guide', 'dia'];
+  const o = {}; keep.forEach(k => { if (it[k] !== undefined) o[k] = it[k]; });
+  if (it.e && it.e.why) o.why = it.e.why;
+  if (it.crit && !max) o.criteria = it.crit.map(b => b.m + ': ' + b.b.join(' / '));
+  if (max) delete o.could;
+  if (it.st) o.stimulus = 'The paper had this stimulus (not shown): ' + it.st;
+  if (it.fig) o.figures = 'The question uses a figure or table from the paper that you cannot see.';
+  if (it.src === 'hsc') o.source = `NSW HSC Legal Studies ${it.y} ${it.l}`;
+  return JSON.stringify(o).slice(0, max || 12000);
+}
+async function claudeLike(k) {
+  const it = itemOf(S.ws.items[entryIndex(k)]); if (!it || !CLAUDE) return;
+  const msg = $('#cl-msg'); $('#claudebox').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  const fmt = it.f;
+  const prompt = `You are ${teacherIs()}. Write ONE new question modelled on the question below, for a printed worksheet.
+It must practise exactly the same skill, at the same level, with the same marks and the same directive verb, in the same format, but with a different scenario, people, offence, dispute or area of the same law. Do not copy its wording.
+
+The original (JSON):
+${itemForPrompt(it)}
+
+Dot points it practises: ${(it.c.length ? it.c : it.c25 || []).map(c => c + ' ' + (DOT[c] || SECN[c] || '')).join('; ')}
+${fmt === 'draw' ? 'Diagram codes you may use: ' + Object.keys(D.dias).filter(x => !/given$/.test(x)).join(', ') + '\n' : ''}
+${RULES}
+
+Reply with only a JSON object: {"items":[ one item ]} in this shape:
+${SHAPES[fmt] || SHAPES.sa}`;
+  const out = await askClaude(prompt, msg); if (!out) return;
+  const x = normalise((out.items || [out])[0], it.c);
+  if (!x) { msg.textContent = 'Claude’s look-alike could not be used. Try again.'; return; }
+  x.like = [it.id];
+  S.ws.items.splice(entryIndex(k) + 1, 0, { k: uid(), item: x }); persist(); renderList();
+  msg.textContent = 'Added a look-alike after the original. Check it before you print.';
+}
+async function claudePlain(k) {
+  const i = entryIndex(k), it = itemOf(S.ws.items[i]); if (!it || !CLAUDE) return;
+  const msg = $('#cl-msg'); $('#claudebox').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  const fields = ['q', 'lead', 'o', 'parts', 'rows', 'text', 'trigger', 'title', 'cats', 'cols', 'qs', 'lede', 'steps', 'blurb'].filter(f => it[f] !== undefined);
+  const prompt = `Rewrite the student-facing wording of this NSW Legal Studies question in plain English for students reading at about Year 7. Keep the law, the names of legislation and cases, the answer, the marks, the order of any options and the format exactly the same. Use short sentences and everyday words. Keep each key term, but add a short meaning in brackets the first time it appears. Keep any [[wrong => right]] markers and [[gap]] markers exactly as they are.
+
+The question (JSON): ${JSON.stringify(Object.fromEntries(fields.map(f => [f, it[f]])))}
+
+Reply with only a JSON object with the same keys (${fields.join(', ')}) and the rewritten text.`;
+  const out = await askClaude(prompt, msg); if (!out) return;
+  const x = clone(it); let changed = 0;
+  for (const f of fields) if (out[f] !== undefined && typeof out[f] === typeof it[f] && (!Array.isArray(it[f]) || out[f].length === it[f].length)) { x[f] = out[f]; changed++; }
+  if (!changed) { msg.textContent = 'The rewrite could not be used. Try again.'; return; }
+  x.ed = true; x.id = x.id.startsWith('ed:') ? x.id : 'ed:' + x.id;
+  const before = S.ws.items[i]; S.ws.items[i] = { k, item: x }; persist(); renderList();
+  msg.textContent = 'Reworded.'; toast('Reworded in plain English.', () => { S.ws.items[entryIndex(k)] = before; persist(); renderList(); });
+}
+
+/* ================================================================ help and footer */
+function renderHelp() {
+  const n = D.items.length, by = s => D.items.filter(x => x.src === s).length, y11 = x => (x.c || []).some(isY11), y12 = x => (x.c || []).some(isY12);
+  const bank = D.items.filter(x => x.src === 'bank');
+  $('#v-help').innerHTML = `<h2>What it does</h2>
+  <p>The Worksheet Maker builds a printable PDF practice sheet, and a matching answer copy, from ${n.toLocaleString('en-AU')} questions and tasks: ${by('hsc')} past HSC questions (2011 to 2025, with NESA’s marking criteria), ${by('bank')} new practice questions written for it, ${by('ev')} sources from the class Evidence Finder and ${by('auto')} Crime practice multiple-choice questions. Key-term tasks, evidence tasks and TEEACL paragraph tasks are made fresh each time from ${D.gloss.length} key terms, ${D.tf.length} true-or-false statements, the Evidence Finder and the essay questions.</p>
+  <p><b>This page is for teachers.</b> It is not linked from the class website. Anyone who has its address can open it, so do not post the address where students will see it.</p>
+  <h2>Three steps</h2>
+  <ol><li><b>Choose questions.</b> Choose the course at the top: <b>2009 HSC</b> (tick dot points, or themes and challenges), or the 2025 syllabus for <b>Year 11</b> or <b>Year 12</b> (tick sections). Optionally narrow to skills, set how many of each type you want, then press <b>Make the worksheet</b>. Swap, edit, reorder or remove any question. <b>Look-alike</b> adds a new question of the same kind as a past HSC question, when the bank has one.</li>
+  <li><b>Layout and print.</b> Pick a page style (HSC exam, workbook, adapted or compact) and set the header, writing space, columns, part breaks and answers. The preview is the real PDF. <b>Download worksheet</b> and <b>Download answer copy</b> save the files to print.</li>
+  <li><b>Keep it.</b> <b>Save</b> puts the worksheet in <b>My worksheets</b> in this browser; save to a file to move it to another computer.</li></ol>
+  <h2>The three courses</h2>
+  <ul><li><b>2009 HSC</b> (examined for the last time in 2027): Crime, Human Rights, Family and Shelter, by dot point. Extended responses are tagged to whole sections and to the themes and challenges, so ticking any dot point in a section brings in that section’s essays.</li>
+  <li><b>2025 Year 11</b>: the four focus areas. Year 11 sheets use only material tagged to Year 11 (${bank.filter(y11).length} new questions, the Evidence Finder’s Year 11 records and Year 11 key terms). Tick <b>Past HSC questions</b> under step 3 to add, for stretch, the Year 12 questions the crosswalk links to Year 11 content (the elements of crime, courts and the adversary system, young offenders).</li>
+  <li><b>2025 Year 12</b> (taught from Term 4 2027, first examined 2028): The criminal justice system, International relations and human rights, Family law and Housing law. ${bank.filter(y12).length} questions are written for the new content; everything else arrives through the class crosswalk from the 2009 course (<code>worksheet-maker/syllabus25.json</code>). The crosswalk is a class reading, not a NESA mapping, and the new HSC examination may differ from the past papers.</li></ul>
+  <h2>Legal Studies tasks</h2>
+  <ul><li><b>Scenario application</b>: a set of facts, then questions that apply the law to them.</li>
+  <li><b>Match the evidence</b> and <b>LCMID evidence sort</b>: made from the Evidence Finder’s records for the content you ticked.</li>
+  <li><b>TEEACL paragraph</b>: one essay question with a row for each move (Topic sentence, Evidence, Explanation, Analysis, Counterpoint, Link). The answer copy suggests evidence from the Evidence Finder.</li>
+  <li><b>Source-based</b> questions on an Evidence Finder record use three standard questions (outline, explain, assess). Edit them to suit the source.</li></ul>
+  <h2>The Question Finder</h2>
+  <p>Questions you tick in the <a href="../">Question Finder</a> on this computer can be added with <b>Add my Question Finder ticks</b>, when the Question Finder was opened at its own address (not inside the Google Site).</p>
+  <h2>Good to know</h2>
+  <ul><li>New questions are marked <i>not yet reviewed</i> until you have checked them on the Question review page (staff Tools site); questions flagged there for a fix, or removed, are left out of new worksheets. Check the law in a new question before you print it: legislation changes.</li>
+  <li>Three past multiple-choice questions built on a table the collection has no text for are left out (2024 Q7, 2025 Q12 and Q16).</li>
+  <li>Claude can write new questions for any content, including <b>More like my worksheet</b>, look-alikes of any question and plain-English wording. ${INSIDE_CLAUDE ? 'This copy runs inside Claude, so it is ready to use.' : 'A teacher sets it up once on each computer with their own Anthropic API key (<button type="button" class="linkish" data-keydlg>Claude settings</button>); a key already set up for the Economics Worksheet Maker on this computer is used here too. The key stays in that browser, and each batch of questions is charged to the key’s account.'} Claude’s questions are marked <i>check before printing</i>.</li></ul>`;
+}
+
+/* ================================================================ start */
+async function init() {
+  try {
+    // The version in the address stops browsers keeping an old copy; plain data.json is the fallback
+    let r = await fetch('data.json?v=__DATAVER__').catch(() => null);
+    if (!r || !r.ok) r = await fetch('data.json');
+    if (!r.ok) throw new Error(r.status);
+    D = await r.json();
+  } catch (e) { $('#list').innerHTML = '<div class="empty">The question data could not be loaded. Check your connection and reload the page.</div>'; return; }
+  indexData(); restore(); bind();
+  APIKEY = INSIDE_CLAUDE ? null : readKey(); setBackend();
+  $('#v-help').addEventListener('click', e => { if (e.target.closest('[data-keydlg]')) keyDialog(); });
+  $('#layout').addEventListener('change', onLayout);
+  $('#layout').addEventListener('input', e => { if (e.target.type === 'text' && e.target.dataset.l) onLayout(e); });
+  $('#styles').onclick = e => { const b = e.target.closest('[data-style]'); if (!b) return; const keepT = { name: LAY().name, cls: LAY().cls, date: LAY().date, intro: LAY().intro, version: LAY().version, answers: LAY().answers, group: LAY().group, course: LAY().course }; S.ws.layout = Object.assign(defaultLayout(b.dataset.style), keepT); persist(); renderLayout(); schedulePreview(0); };
+  $('#pv-ans').onchange = () => schedulePreview(0);
+  $('#dl-ws').onclick = () => download('student');
+  $('#dl-ans').onclick = () => download('answers');
+  $('#cl-stop').onclick = () => { if (clCtl) clCtl.abort(); };
+  $$('#fw button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.fw === S.fw)));
+  const params = new URLSearchParams(location.search);
+  if (params.get('embed') === '1') document.body.classList.add('embed');
+  if (['light', 'dark'].includes(params.get('theme'))) document.documentElement.dataset.theme = params.get('theme');
+  renderAll(); go('build');
+  $('#foot').innerHTML = `For teachers. Past HSC questions, marking criteria and answers are from the NESA HSC Legal Studies papers and marking guidelines, as held in the class <a href="../">Question Finder</a>. Evidence summaries are from the class <a href="../evidence.html">Evidence Finder</a>. New practice questions, key terms and answer notes were written for this site and are not from NESA. Syllabus tags and the 2009-to-2025 crosswalk are a class reading, not an official mapping. Your worksheets are kept in this browser only. Data version ${esc(D.built)}.`;
+  liveEvidence().then(n => { if (n) { renderFormats(); renderContent(); } });
+  loadReviews().then(n => { if (n) { renderFormats(); renderContent(); renderList(); } });
+  // Opened from the Question Finder's "Make a PDF worksheet" button: its ticks arrive in the address
+  const qf = params.get('qf');
+  if (qf) { qfImport(qf.split(',').map(x => x.trim()).filter(Boolean)); history.replaceState(null, '', location.pathname); }
+  if (window.claude && typeof window.claude.use === 'function') {
+    window.claude.use('sample').then(s => { if (s) { SAMPLE = s; setBackend(); renderAll(); } }).catch(() => {});
+    window.claude.use('downloads').then(d => { if (d) DOWNLOADS = d; }).catch(() => {});
+  }
+  let twoDeep = false; try { twoDeep = window.self !== window.top && window.parent !== window.top; } catch (e) { twoDeep = true; }
+  if (twoDeep && !window.claude && location.protocol.startsWith('http')) { const a = $('#newtab'); a.href = location.href; a.hidden = false; }
+}
+init();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,259 @@
+# Year 11 (2025 syllabus), Focus area 3: Changing the law. Written 28 November 2026 by Claude. Not yet reviewed.
+# Case study 2 is the class's choice: the social media minimum age.
+
+=== terms y11-chg-terms-01
+c: chg.1 chg.2 chg.3 chg.4
+- Law reform => The process of changing the law so that it better meets the needs and values of society.
+- Law reform commission => An independent body that reviews areas of law and recommends changes to the government.
+- Royal commission => A major public inquiry, set up by the government, with strong powers to gather evidence.
+- Advocacy group => An organisation that campaigns to influence public opinion and the law on an issue.
+- Repeal => The removal of a law by parliament.
+- Amendment => A change made to an existing law or to a bill.
+- Statutory interpretation => The process by which courts work out the meaning of the words in an Act.
+
+=== terms y11-chg-terms-02
+c: chg.5
+- Terra nullius => "Land belonging to no one": the doctrine, rejected in 1992, that Australia had no owners before British settlement.
+- Native title => The recognition in Australian law of the rights and interests of Aboriginal and Torres Strait Islander Peoples in land and waters under their traditional laws and customs.
+- Land rights => Rights to land granted to Aboriginal people by legislation, such as the Aboriginal Land Rights Act 1983 (NSW).
+- Aboriginal Land Council => A body set up under NSW legislation that can claim certain Crown land and manage it for Aboriginal people.
+- Extinguishment => The ending of native title, for example by a grant of freehold land.
+
+=== terms y11-chg-terms-03
+c: chg.6
+- eSafety Commissioner => Australia's independent regulator for online safety.
+- Age assurance => Methods used to check or estimate the age of a person using an online service.
+- Age-restricted social media platform => A social media service that Australian law requires to take reasonable steps to stop people under 16 from holding accounts.
+
+=== mc y11-chg-mc-01
+c: chg.1
+lv: 1
+Q: Which of the following is a reason for law reform?
+A: Laws should never change
+B: Changing social values, new technology and the failure of existing law
+C: Judges prefer new laws
+D: The Constitution requires a new law every year
+ANS: B
+WHY: Law must keep up with society. When it falls behind, people lose confidence in it.
+
+=== mc y11-chg-mc-02
+c: chg.1
+lv: 2
+Q: Laws on cyberbullying and image-based abuse were introduced mainly in response to which driver?
+A: International treaties on trade
+B: New technology
+C: A change to the Constitution
+D: The cost of running the courts
+ANS: B
+WHY: Existing laws did not cover new kinds of harm made possible by smartphones and social media.
+
+=== mc y11-chg-mc-03
+c: chg.2
+lv: 2
+Q: Which is a formal method of driving law reform?
+A: A protest march
+B: A social media campaign
+C: A report by a law reform commission
+D: A newspaper editorial
+ANS: C
+WHY: Law reform commissions and royal commissions are set up by governments to inquire and recommend. Protests, campaigns and the media are informal methods.
+
+=== mc y11-chg-mc-04
+c: chg.2
+lv: 2
+Q: What can a law reform commission do?
+A: Pass new laws
+B: Strike down invalid laws
+C: Research an area of law and recommend changes to the government
+D: Sentence offenders
+ANS: C
+WHY: Commissions advise. Only parliament can enact their recommendations, and it does not have to.
+
+=== mc y11-chg-mc-05
+c: chg.3
+lv: 2
+Q: How can courts change the law?
+A: By holding a referendum
+B: By interpreting statutes and creating precedents in the cases that come before them
+C: By introducing bills into parliament
+D: By giving royal assent
+ANS: B
+WHY: Judges make law only when a case raises the issue. Parliament can override a decision by passing a statute.
+
+=== mc y11-chg-mc-06
+c: chg.4
+lv: 2
+Q: Which is a limitation of law reform through parliament?
+A: Parliament cannot change statute law
+B: Reform can be slow and shaped by political interests
+C: Parliament can only act when a case is brought
+D: Acts of parliament apply to one person only
+ANS: B
+WHY: Governments may avoid controversial reforms or lack the numbers to pass them. Courts, not parliament, must wait for a case.
+
+=== mc y11-chg-mc-07
+c: chg.5
+lv: 2
+Q: What did the High Court decide in Mabo v Queensland (No 2) (1992)?
+A: That terra nullius applied to Australia
+B: That native title exists at common law where traditional connection to the land has continued
+C: That all freehold land must be returned
+D: That the Constitution recognises Aboriginal sovereignty
+ANS: B
+WHY: The Court rejected terra nullius and recognised the native title of the Meriam people to the Murray Islands.
+
+=== mc y11-chg-mc-08
+c: chg.5
+lv: 2
+Q: Which Act did the Commonwealth Parliament pass in response to the Mabo decision?
+A: Aboriginal Land Rights Act 1983 (NSW)
+B: Native Title Act 1993 (Cth)
+C: Racial Discrimination Act 1975 (Cth)
+D: Marriage Act 1961 (Cth)
+ANS: B
+WHY: The Act set up a process for claiming native title and the National Native Title Tribunal.
+
+=== mc y11-chg-mc-09
+c: chg.5
+lv: 3
+Q: How do land rights under the Aboriginal Land Rights Act 1983 (NSW) differ from native title?
+A: Land rights are granted by statute and do not need proof of continuous traditional connection
+B: Land rights come from the common law
+C: Land rights apply only in the Torres Strait
+D: There is no difference
+ANS: A
+WHY: Land councils can claim certain unused Crown land as compensation for dispossession. Native title recognises rights that have survived under traditional law and custom.
+
+=== mc y11-chg-mc-10
+c: chg.6
+lv: 2
+Q: What does the Online Safety Amendment (Social Media Minimum Age) Act 2024 (Cth) require?
+A: Parents must supervise all internet use
+B: Age-restricted social media platforms must take reasonable steps to prevent people under 16 from having accounts
+C: Children under 16 who use social media are fined
+D: Schools must ban mobile phones
+ANS: B
+WHY: The duty is on the platforms, not on children or parents. The rules took effect on 10 December 2025.
+
+=== mc y11-chg-mc-11
+c: chg.6
+lv: 2
+Q: Who enforces the social media minimum age law?
+A: The NSW Police Force
+B: The eSafety Commissioner
+C: The High Court
+D: The Australian Human Rights Commission
+ANS: B
+WHY: The eSafety Commissioner oversees compliance. Platforms that fail to take reasonable steps face large civil penalties.
+
+=== sa y11-chg-sa-01
+c: chg.2
+m: 4
+lv: 2
+Q: Explain how the media can drive law reform.
+PTS:
+- The media report on problems and individual cases (1)
+- Coverage shapes public opinion (1)
+- Public pressure reaches politicians, who respond to keep support (1)
+- An example of a law changed after a media campaign (1)
+
+=== sa y11-chg-sa-02
+c: chg.5
+m: 5
+lv: 2
+Q: Explain how the Mabo decision led to changes in the law.
+PTS:
+- The High Court rejected terra nullius in 1992 (1)
+- It recognised native title at common law (1)
+- The decision created uncertainty about land claims (1)
+- Parliament responded with the Native Title Act 1993 (Cth) (1)
+- The case shows courts and parliament both making law (1)
+
+=== sa y11-chg-sa-03
+c: chg.6 chg.4
+m: 6
+lv: 3
+Q: Assess the benefits and limitations of the social media minimum age law as an example of law reform.
+PTS:
+- Outlines the reform (1)
+- A benefit, such as protecting young people from online harm (1)
+- A second benefit, such as placing responsibility on platforms (1)
+- A limitation, such as difficulty verifying age or privacy concerns (1)
+- A second limitation, such as young people moving to less regulated services or losing connection (1)
+- A judgement (1)
+
+=== chain y11-chg-ch-01
+c: chg.6 chg.2
+TITLE: From concern to law: the social media minimum age
+TRIGGER: Parents, researchers and the media raise concerns about the effect of social media on young people's mental health.
+- Advocacy groups and media campaigns call for an age limit => Informal methods build public pressure.
+- Governments announce support for a minimum age => Political will is needed before parliament acts.
+- A bill is introduced into the Commonwealth Parliament => Statute law is the fastest way to regulate a new problem.
+- Parliament passes the Online Safety Amendment (Social Media Minimum Age) Act 2024 (Cth) => Both houses agreed to the bill.
+- The eSafety Commissioner prepares to enforce the law => An independent regulator is given the job.
+- Platforms must take reasonable steps to keep under-16s from holding accounts => The duty began on 10 December 2025.
+
+=== chain y11-chg-ch-02
+c: chg.5
+TITLE: From the Murray Islands to the Native Title Act
+TRIGGER: In 1982 Eddie Koiki Mabo and other Meriam people begin a legal claim to their traditional lands.
+- The case reaches the High Court => Only the High Court could overturn the doctrine of terra nullius.
+- The High Court rejects terra nullius in 1992 => The Court found the doctrine was wrong in fact and unjust.
+- Native title is recognised at common law => Traditional rights survived where connection continued and had not been extinguished.
+- Governments, miners and farmers seek certainty => No one knew which land could be claimed.
+- Parliament passes the Native Title Act 1993 (Cth) => Statute set up a process for claims.
+
+=== order y11-chg-or-01
+c: chg.2 chg.3
+TITLE: How a law reform commission inquiry leads to a new law
+- The Attorney-General gives the commission terms of reference
+- The commission researches the law and releases a discussion paper
+- The public and experts make submissions
+- The commission gives its final report with recommendations
+- The government decides which recommendations to accept
+- A bill is introduced and passed by parliament
+
+=== sort y11-chg-so-01
+c: chg.2
+Q: Sort each example under the correct type of method for influencing law reform.
+CATS: Informal method | Formal method
+- A petition organised by an advocacy group => Informal method
+- A protest rally => Informal method
+- An investigative news report => Informal method
+- A social media campaign => Informal method
+- A royal commission => Formal method
+- A law reform commission report => Formal method
+- A parliamentary committee inquiry => Formal method
+- A High Court decision => Formal method
+
+=== compare y11-chg-co-01
+c: chg.3
+Q: Complete the table to compare how parliament and the courts change the law.
+COLS: Parliament | Courts
+- How change is made => By passing, amending or repealing Acts | !By deciding cases and interpreting statutes
+- When it can act => At any time | Only when a case is brought
+- Who makes the decision => !Elected members | Appointed judges
+- A strength => It can reform a whole area at once | It can protect the rights of unpopular minorities
+- A weakness => It can be slow or avoid controversy | Change is narrow and depends on someone bringing a case
+
+=== error y11-chg-er-x1
+c: chg.5
+Q: This paragraph answers: "Outline the significance of the Mabo decision."
+TEXT: In [[1982 => 1992]] the [[Supreme Court of Queensland => High Court of Australia]] decided Mabo v Queensland (No 2). The Court [[confirmed => rejected]] the doctrine of terra nullius and recognised [[land rights => native title]] at common law. The next year parliament passed the [[Aboriginal Land Rights Act => Native Title Act]] 1993 (Cth).
+
+=== tf y11-chg-tf-01
+c: chg.1 chg.2 chg.3 chg.4
+- T: Changing social values are a reason for law reform.
+- F: A law reform commission can pass laws. => A law reform commission can only recommend changes; parliament passes laws.
+- T: A royal commission can compel witnesses to give evidence.
+- F: Courts can reform any area of law whenever they choose. => Courts can change the law only through the cases brought before them.
+- T: Parliament can pass a statute to override a court's decision on the common law.
+- F: Law reform always achieves its aims. => Reform can have limits, such as weak enforcement or unintended effects.
+
+=== tf y11-chg-tf-02
+c: chg.5 chg.6
+- T: The Mabo decision overturned the doctrine of terra nullius.
+- F: Native title was created by an Act of the NSW Parliament. => Native title was recognised by the High Court at common law and then regulated by the Native Title Act 1993 (Cth).
+- T: Under the Aboriginal Land Rights Act 1983 (NSW), land councils can claim certain Crown land.
+- F: Under the social media minimum age law, children who open an account commit an offence. => The duty and the penalties fall on the platforms, not on children or parents.
+- T: The social media minimum age in Australia is 16.

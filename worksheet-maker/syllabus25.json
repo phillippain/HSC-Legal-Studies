@@ -1,0 +1,461 @@
+{
+ "meta": {
+  "syllabus": "Legal Studies 11–12 Syllabus (2025), Year 12. First taught Term 4 2027, first examined 2028.",
+  "source": "NSW Curriculum website (curriculum.nsw.edu.au/learning-areas/hsie/legal-studies-11-12-2025), content read 28 November 2026.",
+  "note": "The codes (cj.2.3 and so on) are this site's own: NESA does not number the content. Only the two options the class studies are held (Family law, Housing law). The crosswalk is a class reading, not a NESA mapping: check it before relying on it."
+ },
+ "topics": [
+  {
+   "id": "cj",
+   "label": "Criminal justice",
+   "name": "The criminal justice system (core)",
+   "color": "#1F3864",
+   "sections": [
+    {
+     "id": "cj.1",
+     "name": "The nature of crime",
+     "points": [
+      "The changing nature and types of crime affecting individuals and society",
+      "Factors affecting criminal behaviour",
+      "The importance of situational and social crime prevention"
+     ]
+    },
+    {
+     "id": "cj.2",
+     "name": "Investigation",
+     "points": [
+      "The role of police in investigating crime, protecting the community and upholding the rule of law",
+      "Police powers and responsibilities under the law in relation to arrests, searches, warrants, questioning and detention",
+      "The role of police discretion, including the use of warnings, cautions and fines",
+      "The recognition of the rights of the accused, including the right to silence",
+      "Support measures, including advocacy for the accused and assistance for victims"
+     ]
+    },
+    {
+     "id": "cj.3",
+     "name": "Pre-trial",
+     "points": [
+      "The roles and impact of pre-trial processes and decisions",
+      "The bail process and its implications for the presumption of innocence",
+      "The role of remand and its impact on the accused and society"
+     ]
+    },
+    {
+     "id": "cj.4",
+     "name": "Trial",
+     "points": [
+      "Reasons for and the operation of a criminal court hierarchy, including the appeal process",
+      "The adversarial system and its implications for the achievement of justice",
+      "The use of partial and complete defences to criminal charges",
+      "Reasons for and against the use of juries and judge-alone trials",
+      "The provision of legal aid to improve access to justice",
+      "The impact of support services and advocacy to improve access to justice for Aboriginal and Torres Strait Islander Peoples"
+     ]
+    },
+    {
+     "id": "cj.5",
+     "name": "Sentencing",
+     "points": [
+      "The purposes of sentencing, including punishment, deterrence, protection and rehabilitation, and their roles in balancing the rights of victims, offenders and society",
+      "Factors affecting a sentencing decision, including statutory and judicial sentencing guidelines, aggravating and mitigating factors, and the use of judicial discretion",
+      "The role and consideration of victim impact statements",
+      "Types of custodial and non-custodial penalties and the extent to which they achieve their intended outcomes",
+      "Types of diversionary programs, including intervention, treatment and rehabilitation",
+      "The role of and participation in Culturally appropriate options to improve outcomes for Aboriginal and Torres Strait Islander Peoples",
+      "The impact of diversionary programs and alternative approaches to sentencing in diverting offenders and reducing recidivism"
+     ]
+    },
+    {
+     "id": "cj.6",
+     "name": "Post-sentencing",
+     "points": [
+      "The classification and placement of offenders in prison",
+      "The purpose and conditions of parole",
+      "The use of detention and supervision orders for high-risk offenders"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ir",
+   "label": "Human rights",
+   "name": "International relations and human rights (core)",
+   "color": "#0E7490",
+   "sections": [
+    {
+     "id": "ir.1",
+     "name": "The nature of international relations",
+     "points": [
+      "The origin and nature of international relations",
+      "The need for international relations in the global community",
+      "The changing nature of the global community and the impact of state sovereignty",
+      "The contribution of international organisations in fostering relationships in the global community"
+     ]
+    },
+    {
+     "id": "ir.2",
+     "name": "The nature of human rights",
+     "points": [
+      "Characteristics of human rights",
+      "The changing nature and developing recognition of human rights",
+      "Categories of human rights, including civil and political rights, economic, social and cultural rights, the right to self-determination, environmental rights and peace rights",
+      "Foundational instruments for establishing human rights contained in the International Bill of Human Rights: the Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights",
+      "The role of international human rights law in upholding the obligations of nation-states in emerging areas of human rights protection, including the United Nations Declaration on the Rights of Indigenous Peoples"
+     ]
+    },
+    {
+     "id": "ir.3",
+     "name": "International protection of human rights",
+     "points": [
+      "The role and limits of the United Nations in setting standards for human rights protection",
+      "The obligations and duties of nation-states to protect human rights through international instruments",
+      "Ways to monitor the protection and breaches of human rights",
+      "Responses to breaches of human rights by international courts and tribunals",
+      "ONE case study of a human right and the extent to which it is protected at an international level"
+     ]
+    },
+    {
+     "id": "ir.4",
+     "name": "Australian protection of human rights",
+     "points": [
+      "The process of incorporating international human rights instruments into domestic law",
+      "Australia’s obligation to protect human rights through the Australian Constitution, and statute and common law",
+      "The function and importance of the Australian Human Rights Commission",
+      "Responses to breaches of human rights by Australian courts and tribunals",
+      "Debates over the need for a human rights framework in Australia",
+      "ONE case study of a human right and the extent to which it is protected in Australia"
+     ]
+    },
+    {
+     "id": "ir.5",
+     "name": "Promotion of human rights",
+     "points": [
+      "Methods to promote human rights, including advocacy, education, persuasion and investigation",
+      "The role of non-government organisations that promote and monitor breaches of human rights",
+      "The role of organisations that support and advocate for Aboriginal and Torres Strait Islander Peoples’ right to self-determination",
+      "The role and limits of the media in promoting human rights",
+      "ONE case study of a human right and the extent to which it is promoted by non-government organisations or the media"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fl",
+   "label": "Family law",
+   "name": "Family law (option)",
+   "color": "#A31545",
+   "sections": [
+    {
+     "id": "fl.1",
+     "name": "The nature of family law",
+     "points": [
+      "The evolving concept of family in Australia",
+      "Principles of the family law system",
+      "The need to regulate family relationships and protect family members",
+      "The responsibility of the state to protect families under international law",
+      "The role and impact of non-government organisations and the media in promoting and supporting families"
+     ]
+    },
+    {
+     "id": "fl.2",
+     "name": "Family relationships",
+     "points": [
+      "Types of family structures, including the interconnections of kinship, Community and shared responsibilities for Aboriginal and Torres Strait Islander Peoples",
+      "Statutory regulation of de facto relationships and marriages",
+      "The requirements of a valid marriage",
+      "Challenges in identifying and responding to forced marriages in Australia"
+     ]
+    },
+    {
+     "id": "fl.3",
+     "name": "Children",
+     "points": [
+      "The need for protection of the best interests of the child under domestic and international law",
+      "Parental responsibility and the obligations of parents and guardians",
+      "Legal requirements for foster care, Aboriginal and Torres Strait Islander kinship care and adoption",
+      "Challenges in safeguarding children from harm, including child abuse and neglect"
+     ]
+    },
+    {
+     "id": "fl.4",
+     "name": "Conflict",
+     "points": [
+      "Statutory frameworks for separation and divorce",
+      "The use of family dispute resolution and the role of the court in resolving conflict",
+      "The use of parenting plans, court orders and child support to consider the best interests of a child during relationship breakdown",
+      "The determination of property and financial matters to ensure equitable outcomes, including the role of informal and binding financial agreements"
+     ]
+    },
+    {
+     "id": "fl.5",
+     "name": "Protection",
+     "points": [
+      "The roles and powers of police and courts in promoting safety for family members",
+      "Legal remedies, advocacy and support for victims of domestic and family violence",
+      "Responses from government departments and the Children’s Court to prioritise the safety and wellbeing of children",
+      "Barriers to the protection of vulnerable individuals and groups from family violence and harm"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hl",
+   "label": "Housing law",
+   "name": "Housing law (option)",
+   "color": "#1E6B4F",
+   "sections": [
+    {
+     "id": "hl.1",
+     "name": "The nature of housing law",
+     "points": [
+      "The right to adequate housing under international law and the obligation to provide shelter in Australia",
+      "Forms of real property ownership",
+      "Types of property title, including the significance and recognition of native title to Aboriginal and Torres Strait Islander People",
+      "The roles of non-government organisations and the media in supporting those seeking housing"
+     ]
+    },
+    {
+     "id": "hl.2",
+     "name": "Securing a home",
+     "points": [
+      "Legal processes for purchasing and selling property through private treaty and auctions, including the contract of sale",
+      "The role of residential tenancy agreements in outlining the rights and responsibilities of landlords and tenants",
+      "Barriers to buying property, including sources of finance and unfair practices",
+      "Challenges faced in tenancy relationships, including security of tenure and discrimination"
+     ]
+    },
+    {
+     "id": "hl.3",
+     "name": "Conflict",
+     "points": [
+      "Types of residential property disputes",
+      "The role of alternative dispute resolution in managing conflict for home owners, neighbours, tenants and landlords",
+      "The role of courts and tribunals in resolving property disputes",
+      "Challenges in the access of justice in property disputes, including complexity, cost and language barriers"
+     ]
+    },
+    {
+     "id": "hl.4",
+     "name": "Housing affordability",
+     "points": [
+      "The nature and extent of housing affordability and its impact on individuals, families and groups",
+      "Challenges in securing housing, including financial barriers and supply",
+      "The need for social housing, including public and community housing",
+      "The importance of Culturally appropriate housing for Aboriginal and Torres Strait Islander Peoples",
+      "Measures by state and federal governments to address housing affordability"
+     ]
+    },
+    {
+     "id": "hl.5",
+     "name": "Homelessness",
+     "points": [
+      "The causes, nature and extent of homelessness in NSW and Australia",
+      "The impact of homelessness on the access to and enjoyment of human rights",
+      "The role of housing for those with diverse needs and housing instability, including boarding homes and crisis and emergency accommodation",
+      "Measures by state and federal governments to address the needs of individuals and groups experiencing homelessness"
+     ]
+    }
+   ]
+  }
+ ],
+ "xwalk_note": "2009 HSC code (a section, or a dot point where it differs from its section) -> the 2025 sections it is closest to: Year 12 (cj, ir, fl, hl) and, where Year 11 now covers it, Year 11 (inv, dis, chg, exp). A dot point listed here overrides its section.",
+ "xwalk": {
+  "crime.1": [
+   "cj.1"
+  ],
+  "crime.1.1": [
+   "cj.1",
+   "dis.1"
+  ],
+  "crime.1.2": [
+   "dis.1"
+  ],
+  "crime.1.3": [
+   "dis.1"
+  ],
+  "crime.1.4": [
+   "dis.1"
+  ],
+  "crime.1.5": [
+   "cj.1",
+   "dis.1"
+  ],
+  "crime.1.6": [
+   "dis.1",
+   "cj.4"
+  ],
+  "crime.1.7": [
+   "dis.1"
+  ],
+  "crime.2": [
+   "cj.2"
+  ],
+  "crime.2.5": [
+   "cj.3"
+  ],
+  "crime.3": [
+   "cj.4"
+  ],
+  "crime.3.1": [
+   "cj.4",
+   "inv.4"
+  ],
+  "crime.3.2": [
+   "cj.4",
+   "inv.4"
+  ],
+  "crime.3.4": [
+   "cj.3"
+  ],
+  "crime.4": [
+   "cj.5"
+  ],
+  "crime.4.5": [
+   "cj.4"
+  ],
+  "crime.4.8": [
+   "cj.6"
+  ],
+  "crime.5": [
+   "exp.1",
+   "exp.2",
+   "exp.3"
+  ],
+  "crime.6": [],
+  "crime.6.2": [
+   "ir.3"
+  ],
+  "hr.1": [
+   "ir.2"
+  ],
+  "hr.2": [
+   "ir.3"
+  ],
+  "hr.2.1": [
+   "ir.1",
+   "ir.3"
+  ],
+  "hr.2.2": [
+   "ir.3",
+   "ir.1"
+  ],
+  "hr.2.3": [
+   "ir.1",
+   "ir.3"
+  ],
+  "hr.2.5": [
+   "ir.5"
+  ],
+  "hr.2.6": [
+   "ir.5"
+  ],
+  "hr.2.7": [
+   "ir.4"
+  ],
+  "hr.2.8": [
+   "ir.4"
+  ],
+  "hr.2.9": [
+   "ir.4"
+  ],
+  "hr.2.10": [
+   "ir.4"
+  ],
+  "hr.2.11": [
+   "ir.4"
+  ],
+  "hr.2.12": [
+   "ir.5"
+  ],
+  "hr.2.13": [
+   "ir.5"
+  ],
+  "hr.2.14": [
+   "ir.4"
+  ],
+  "hr.3": [
+   "ir.3",
+   "ir.4",
+   "ir.5"
+  ],
+  "fam.1": [
+   "fl.1"
+  ],
+  "fam.1.3": [
+   "fl.2"
+  ],
+  "fam.1.4": [
+   "fl.2"
+  ],
+  "fam.1.5": [
+   "fl.3"
+  ],
+  "fam.1.6": [
+   "fl.3"
+  ],
+  "fam.2": [
+   "fl.4"
+  ],
+  "fam.2.4": [
+   "fl.5"
+  ],
+  "fam.2.6": [
+   "fl.1"
+  ],
+  "fam.2.7": [
+   "fl.1"
+  ],
+  "fam.3": [
+   "fl.3"
+  ],
+  "fam.3.1": [
+   "fl.2",
+   "fl.1"
+  ],
+  "fam.3.4": [
+   "fl.3",
+   "fl.5"
+  ],
+  "shel.1": [
+   "hl.1"
+  ],
+  "shel.1.4": [
+   "hl.1",
+   "hl.5"
+  ],
+  "shel.2": [
+   "hl.2"
+  ],
+  "shel.2.4": [
+   "hl.5",
+   "hl.4"
+  ],
+  "shel.2.5": [
+   "hl.3"
+  ],
+  "shel.2.6": [
+   "hl.3"
+  ],
+  "shel.2.7": [
+   "hl.3"
+  ],
+  "shel.2.8": [
+   "hl.3"
+  ],
+  "shel.2.9": [
+   "hl.1"
+  ],
+  "shel.2.10": [
+   "hl.1"
+  ],
+  "shel.3": [
+   "hl.4"
+  ],
+  "shel.3.2": [
+   "hl.2"
+  ],
+  "shel.3.3": [
+   "hl.5"
+  ]
+ }
+}

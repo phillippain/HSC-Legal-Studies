@@ -1,0 +1,293 @@
+# HSC Human Rights (2009 syllabus). Written 28 November 2026 by Claude. Not yet reviewed.
+
+=== terms hr-terms-01
+c: hr.1.1 hr.1.2
+- Human rights => Basic rights and freedoms that belong to every person because they are human. They are universal, inherent, inalienable and indivisible.
+- Inalienable => Describes rights that cannot be taken or given away.
+- Universal suffrage => The right of all adult citizens to vote, whatever their sex, race or wealth.
+- Self-determination => The right of a people to decide their own political status and to pursue their own economic, social and cultural development.
+- Collective rights => Rights held by a group of people rather than by one person, such as self-determination, environmental rights and peace rights.
+- Trade union => An organisation of workers formed to protect and improve pay and conditions.
+
+=== terms hr-terms-02
+c: hr.1.3
+- Universal Declaration of Human Rights => The 1948 declaration of the United Nations General Assembly that first set out the rights all people should have. It is not a binding treaty.
+- International Covenant on Civil and Political Rights => The 1966 treaty that binds states to protect rights such as life, liberty, a fair trial, free speech and the vote.
+- International Covenant on Economic, Social and Cultural Rights => The 1966 treaty that binds states to work towards rights such as work, health, education and an adequate standard of living.
+- International Bill of Human Rights => The name given to the Universal Declaration of Human Rights and the two 1966 covenants together.
+
+=== terms hr-terms-03
+c: hr.2.1 hr.2.2 hr.2.3 hr.2.4
+- State sovereignty => The authority of a state to govern itself and make its own laws without outside interference.
+- Treaty => A written agreement between states that is binding in international law on the states that ratify it.
+- Ratification => The step by which a state formally agrees to be bound by a treaty.
+- Intergovernmental organisation => An organisation whose members are states, set up by treaty, such as the United Nations or the Commonwealth of Nations.
+- Security Council => The United Nations body responsible for international peace and security. Its five permanent members each hold a veto.
+- International Court of Justice => The main court of the United Nations. It hears disputes between states and gives advisory opinions.
+- Human Rights Council => The United Nations body of 47 member states that reviews the human rights record of every member state.
+
+=== terms hr-terms-04
+c: hr.2.7 hr.2.8 hr.2.9 hr.2.10 hr.2.14
+- Dualist system => A legal system in which a treaty has no effect in domestic law until parliament passes legislation to enact it.
+- Express rights => Rights written into the Australian Constitution, such as freedom of religion in s 116.
+- Implied rights => Rights that the High Court has found are implied by the text and structure of the Constitution, such as the freedom of political communication.
+- Charter of Rights => A document that lists the rights a government must respect. Australia has none at the national level.
+- Australian Human Rights Commission => The independent national body that investigates and conciliates complaints of discrimination and breaches of human rights, and reports to parliament.
+
+=== mc hr-mc-01
+c: hr.1.1
+lv: 1
+Q: Which word describes human rights as belonging to all people everywhere?
+A: Inalienable
+B: Universal
+C: Indivisible
+D: Collective
+ANS: B
+WHY: Universal means the rights apply to everyone. Inalienable means they cannot be taken away.
+
+=== mc hr-mc-02
+c: hr.1.3
+lv: 2
+Q: Why is the Universal Declaration of Human Rights described as soft law?
+A: It applies only to developed countries
+B: It is a declaration that is not legally binding on states
+C: It was replaced by the United Nations Charter
+D: It can be enforced by the International Criminal Court
+ANS: B
+WHY: A declaration states principles. It has great moral force and inspired binding treaties such as the two 1966 covenants.
+
+=== mc hr-mc-03
+c: hr.1.2
+lv: 2
+Q: Which of the following is a collective right?
+A: The right to a fair trial
+B: The right to vote
+C: The right to self-determination
+D: The right to freedom of religion
+ANS: C
+WHY: Self-determination belongs to a people as a group. The other options are individual civil and political rights.
+
+=== mc hr-mc-04
+c: hr.2.1
+lv: 2
+Q: How can state sovereignty limit the protection of human rights?
+A: States must obey every resolution of the General Assembly
+B: A state can refuse to ratify a treaty or to let outside bodies review its conduct
+C: Sovereign states cannot make their own laws
+D: Sovereignty lets individuals sue their government in any court
+ANS: B
+WHY: International law depends largely on consent. A state can decline to sign, ratify or comply.
+
+=== mc hr-mc-05
+c: hr.2.2
+lv: 2
+Q: Which United Nations body can authorise binding measures such as sanctions?
+A: The General Assembly
+B: The Human Rights Council
+C: The Security Council
+D: The International Court of Justice
+ANS: C
+WHY: Security Council resolutions can bind member states, but any of the five permanent members can veto them.
+
+=== mc hr-mc-06
+c: hr.2.4
+lv: 2
+Q: Which statement about the International Court of Justice is correct?
+A: It tries individuals for war crimes
+B: It hears disputes between states that accept its jurisdiction
+C: It hears complaints from individuals against their own government
+D: It is part of the Australian court hierarchy
+ANS: B
+WHY: Only states can be parties before the Court. Individuals are tried by the International Criminal Court.
+
+=== mc hr-mc-07
+c: hr.2.7
+lv: 2
+Q: Australia has a dualist system. What does this mean for a human rights treaty that Australia has ratified?
+A: It becomes part of Australian law at once
+B: It has no effect in domestic law until parliament passes legislation to give it effect
+C: It overrides the Constitution
+D: It applies only in the territories
+ANS: B
+WHY: Parliament must enact a treaty, as it did in part with the Racial Discrimination Act 1975 (Cth).
+
+=== mc hr-mc-08
+c: hr.2.8
+lv: 2
+Q: Which right is expressly protected by the Australian Constitution?
+A: Freedom of speech
+B: The right to privacy
+C: Freedom of religion, in s 116
+D: The right to housing
+ANS: C
+WHY: Section 116 stops the Commonwealth making laws to establish a religion or prohibit its free exercise. Freedom of political communication is implied, not express.
+
+=== mc hr-mc-09
+c: hr.2.14
+lv: 2
+Q: Which is an argument against a national Charter of Rights for Australia?
+A: It would educate people about their rights
+B: It would bring Australia into line with other democracies
+C: It could shift power from elected parliaments to unelected judges
+D: It would protect minorities
+ANS: C
+WHY: Opponents say rights are already protected by parliament, the common law and the Constitution, and that a charter could give judges too much power.
+
+=== mc hr-mc-10
+c: hr.2.5 hr.2.12
+lv: 1
+Q: Which of the following is a non-government organisation that promotes human rights?
+A: The United Nations Human Rights Council
+B: Amnesty International
+C: The High Court of Australia
+D: The Australian Human Rights Commission
+ANS: B
+WHY: Amnesty International is independent of government. It investigates and reports on abuses and campaigns for change.
+
+=== mc hr-mc-11
+c: hr.2.10 hr.2.11
+lv: 3
+Q: Which case is an example of the High Court finding an implied freedom in the Constitution?
+A: Mabo v Queensland (No 2) (1992)
+B: Dietrich v The Queen (1992)
+C: Australian Capital Television v Commonwealth (1992)
+D: Donoghue v Stevenson (1932)
+ANS: C
+WHY: The Court held that the system of representative government in the Constitution implies a freedom of political communication.
+
+=== sa hr-sa-01
+c: hr.1.2
+m: 3
+lv: 2
+Q: Outline how recognition of ONE human right has developed over time.
+PTS:
+- Names a right, such as freedom from slavery, universal suffrage or universal education (1)
+- Describes an early stage, such as a campaign or a national law (1)
+- Describes later international recognition, such as an article of the Universal Declaration of Human Rights (1)
+
+=== sa hr-sa-02
+c: hr.2.2
+m: 5
+lv: 2
+Q: Explain the role of the United Nations in promoting and enforcing human rights.
+PTS:
+- The General Assembly adopts declarations and treaties (1)
+- The Human Rights Council reviews each state's record (1)
+- The Security Council can impose sanctions or authorise intervention (1)
+- Treaty committees monitor compliance with reports (1)
+- A limit, such as the veto or reliance on state consent (1)
+
+=== sa hr-sa-03
+c: hr.2.8 hr.2.9 hr.2.10
+m: 6
+lv: 3
+Q: Compare the protection of human rights by statute law and by common law in Australia.
+PTS:
+- Statute: parliament enacts specific protections, such as the Sex Discrimination Act 1984 (Cth) (1)
+- Statute can be changed or repealed by a later parliament (1)
+- Common law: judges recognise rights case by case, such as the right to a fair trial in Dietrich v The Queen (1992) (1)
+- Common law can be overridden by clear legislation (1)
+- A similarity (1)
+- A difference stated clearly (1)
+
+=== sa hr-sa-04
+c: hr.3.1 hr.t.effectiveness
+m: 7
+lv: 3
+Q: Evaluate the effectiveness of legal responses to ONE contemporary human rights issue.
+PTS:
+- Names and outlines the issue (1)
+- International legal responses, with a named instrument (1 to 2)
+- Domestic legal responses, with named legislation or a case (1 to 2)
+- Limits, such as sovereignty or enforcement (1)
+- A reasoned judgement (1)
+
+=== scen hr-sc-01
+c: hr.2.9 hr.2.11
+lv: 2
+LEAD: Amira applies for a job as a sales assistant. The manager tells her she interviewed well but that customers "would not be comfortable" with her headscarf, and gives the job to someone else. Amira wants to know what she can do.
+PART (a) 2: Identify the type of law that protects Amira and ONE body she could complain to.
+PTS:
+- Anti-discrimination legislation, such as the Racial Discrimination Act 1975 (Cth) or the Anti-Discrimination Act 1977 (NSW) (1)
+- The Australian Human Rights Commission or Anti-Discrimination NSW (1)
+PART (b) 4: Explain how her complaint would be dealt with and what might limit the outcome.
+PTS:
+- The body investigates and tries to conciliate the complaint (1)
+- If conciliation fails she can take the matter to a court or tribunal (1)
+- Remedies can include an apology or compensation (1)
+- Limits include cost, time, proof and gaps in the grounds each Act covers (1)
+
+=== teeacl hr-te-01
+c: hr.2.1 hr.t.sovereignty
+lv: 2
+Q: To what extent does state sovereignty limit the protection of human rights?
+PTS:
+- A judgement about extent
+- Evidence: a named treaty or body and a named example of a state refusing to comply
+- Analysis against enforceability
+- Counterpoint: sovereignty is also how rights become domestic law
+- A link back to the question
+
+=== sort hr-so-01
+c: hr.1.3
+Q: Sort each right under the covenant that protects it.
+CATS: International Covenant on Civil and Political Rights | International Covenant on Economic, Social and Cultural Rights
+- The right to life => International Covenant on Civil and Political Rights
+- Freedom from torture => International Covenant on Civil and Political Rights
+- The right to a fair trial => International Covenant on Civil and Political Rights
+- Freedom of expression => International Covenant on Civil and Political Rights
+- The right to vote => International Covenant on Civil and Political Rights
+- The right to education => International Covenant on Economic, Social and Cultural Rights
+- The right to an adequate standard of living => International Covenant on Economic, Social and Cultural Rights
+- The right to the highest attainable standard of health => International Covenant on Economic, Social and Cultural Rights
+- The right to fair conditions of work => International Covenant on Economic, Social and Cultural Rights
+
+=== compare hr-co-01
+c: hr.2.4
+Q: Complete the table to compare two international courts.
+COLS: International Court of Justice | International Criminal Court
+- Set up by => !The United Nations Charter | The Rome Statute
+- Who appears before it => States | Individuals
+- What it decides => Disputes between states and advisory opinions | Genocide, war crimes, crimes against humanity and aggression
+- Main limit => States must accept its jurisdiction | !It relies on states to arrest suspects, and some major powers are not members
+
+=== error hr-er-x1
+c: hr.1.3 hr.2.7
+Q: This paragraph answers: "Outline how human rights are formally recognised."
+TEXT: The Universal Declaration of Human Rights was adopted in [[1966 => 1948]] by the United Nations [[Security Council => General Assembly]]. It is a [[binding treaty => non-binding declaration]]. In 1966 two covenants turned many of its rights into treaty obligations. Because Australia is a [[monist => dualist]] state, these treaties only become part of domestic law when parliament enacts them.
+
+=== order hr-or-01
+c: hr.2.7
+TITLE: How a human rights treaty becomes Australian law
+- States negotiate the text of the treaty
+- The treaty is adopted and opened for signature
+- Australia signs the treaty
+- The treaty is tabled in parliament and reviewed by a committee
+- Australia ratifies the treaty
+- Parliament passes legislation to give the treaty effect in domestic law
+NOTE: Signing shows intent. Only legislation makes the rights enforceable in Australian courts.
+
+=== tf hr-tf-01
+c: hr.1.1 hr.1.2 hr.1.3
+- T: Human rights are described as inherent because people have them from birth.
+- F: The Universal Declaration of Human Rights is a binding treaty. => The Universal Declaration of Human Rights is a declaration and is not legally binding.
+- T: The International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights were both adopted in 1966.
+- F: Peace rights are individual rights. => Peace rights are collective rights.
+- T: The movement to abolish slavery was one of the first international human rights campaigns.
+- F: Universal suffrage means only property owners can vote. => Universal suffrage means all adult citizens can vote.
+
+=== tf hr-tf-02
+c: hr.2.1 hr.2.2 hr.2.4 hr.2.5
+- T: The five permanent members of the Security Council each hold a veto.
+- F: Individuals can bring a case to the International Court of Justice. => Only states can be parties to cases before the International Court of Justice.
+- T: Non-government organisations can "name and shame" governments by publishing reports.
+- F: United Nations General Assembly resolutions are binding on all states. => General Assembly resolutions are recommendations and are not binding.
+- T: State sovereignty means a state has authority over its own territory and people.
+
+=== tf hr-tf-03
+c: hr.2.8 hr.2.9 hr.2.11 hr.2.14
+- T: Australia has no national Charter of Rights.
+- F: The Constitution expressly protects freedom of speech. => The High Court has found an implied freedom of political communication; there is no express right to free speech.
+- T: Victoria, the Australian Capital Territory and Queensland each have a human rights Act.
+- F: The Australian Human Rights Commission can make binding court orders. => The Commission conciliates complaints; binding orders are made by courts.
+- T: The Racial Discrimination Act 1975 (Cth) gives effect to an international convention.

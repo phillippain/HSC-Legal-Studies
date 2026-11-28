@@ -1,0 +1,365 @@
+# HSC Shelter (2009 syllabus, Option 5). Written 28 November 2026 by Claude. Not yet reviewed.
+
+=== terms shel-terms-01
+c: shel.1.1 shel.1.2 shel.1.4
+- Shelter => A place to live that gives protection, privacy and security.
+- Adequate housing => Housing that is secure, affordable, habitable, accessible and in a suitable location, as described in international law.
+- Social housing => Rental housing provided by the government or community organisations for people on low incomes.
+- Boarding house => Premises where residents rent a room, not the whole dwelling, and share facilities.
+- Strata title => Ownership of a unit or lot in a building, together with a share in the common property.
+
+=== terms shel-terms-02
+c: shel.2.1
+- Torrens title => The system in which the government keeps a register of land ownership and guarantees the title shown on it.
+- Private treaty => The sale of a property at a price negotiated between the seller and the buyer.
+- Auction => A public sale in which the property is sold to the highest bidder, with no cooling-off period.
+- Cooling-off period => A short time after contracts are exchanged in which a buyer can withdraw from a private treaty sale.
+- Mortgage => A loan secured over land. The lender can sell the property if the borrower defaults.
+- Caveat emptor => "Let the buyer beware": the buyer is responsible for checking the property before buying.
+- Conveyancing => The legal work of transferring ownership of land from the seller to the buyer.
+- Exchange of contracts => The point at which the buyer and the seller swap signed contracts and the sale becomes binding.
+
+=== terms shel-terms-03
+c: shel.2.2 shel.2.3 shel.2.6
+- Residential tenancy agreement => A lease: a contract in which a landlord lets a tenant live in a property in return for rent.
+- Rental bond => Money paid by a tenant at the start of a lease as security, lodged with NSW Fair Trading.
+- Condition report => A record of the state of a rented property at the start of a tenancy.
+- Termination notice => A written notice from a landlord or a tenant that ends a tenancy on a stated date.
+- NSW Civil and Administrative Tribunal => The tribunal that hears most tenancy, strata and home building disputes in NSW.
+- Security of tenure => A tenant's confidence that they can stay in their home as long as they meet their obligations.
+
+=== terms shel-terms-04
+c: shel.3.1 shel.3.3
+- Housing affordability => The relationship between housing costs and household income.
+- Housing stress => Often defined as a lower-income household spending more than 30 per cent of its income on housing.
+- Homelessness => Having no home, or living in housing that is inadequate, insecure or without control over one's own space.
+- Crisis accommodation => Short-term emergency housing for people who have nowhere safe to stay.
+
+=== mc shel-mc-01
+c: shel.1.2
+lv: 2
+Q: Which international instrument recognises a right to adequate housing as part of an adequate standard of living?
+A: International Covenant on Civil and Political Rights
+B: International Covenant on Economic, Social and Cultural Rights
+C: Rome Statute
+D: Refugee Convention
+ANS: B
+WHY: Article 11 of the Covenant covers an adequate standard of living, including housing. Article 25 of the Universal Declaration of Human Rights says the same.
+
+=== mc shel-mc-02
+c: shel.2.1
+lv: 1
+Q: Which system of land registration is used for most land in NSW?
+A: Old system title
+B: Torrens title
+C: Native title
+D: Company title
+ANS: B
+WHY: Torrens title, under the Real Property Act 1900 (NSW), relies on a central register guaranteed by the state.
+
+=== mc shel-mc-03
+c: shel.2.1
+lv: 2
+Q: A buyer purchases a house at auction in NSW. Which statement is correct?
+A: The buyer has a five business day cooling-off period
+B: The buyer has no cooling-off period
+C: The buyer can withdraw at any time before settlement
+D: The seller can accept a higher offer after the auction
+ANS: B
+WHY: The cooling-off period applies to private treaty sales only. An auction sale is binding when the hammer falls.
+
+=== mc shel-mc-04
+c: shel.2.1
+lv: 2
+Q: What does a buyer forfeit if they withdraw from a private treaty purchase during the cooling-off period in NSW?
+A: Nothing
+B: 0.25 per cent of the purchase price
+C: The full 10 per cent deposit
+D: The cost of the seller's legal fees
+ANS: B
+WHY: The Conveyancing Act 1919 (NSW) lets the buyer withdraw but the seller keeps 0.25 per cent of the price.
+
+=== mc shel-mc-05
+c: shel.2.2
+lv: 1
+Q: What is the maximum rental bond a landlord can ask for in NSW?
+A: Two weeks' rent
+B: Four weeks' rent
+C: Eight weeks' rent
+D: Any amount the tenant agrees to
+ANS: B
+WHY: The Residential Tenancies Act 2010 (NSW) caps the bond at four weeks' rent. It must be lodged with NSW Fair Trading.
+
+=== mc shel-mc-06
+c: shel.2.2
+lv: 2
+Q: Which of the following is an obligation of a landlord under a residential tenancy agreement?
+A: To pay the tenant's electricity bills
+B: To keep the premises in a reasonable state of repair
+C: To inspect the premises every week
+D: To approve the tenant's guests
+ANS: B
+WHY: The landlord must provide premises that are fit to live in and keep them in reasonable repair. Entry is limited and needs notice.
+
+=== mc shel-mc-07
+c: shel.2.3
+lv: 3
+Q: What changed for NSW tenants in May 2025?
+A: Rental bonds were abolished
+B: Landlords could no longer end a tenancy without giving a reason set out in the law
+C: Rent increases were banned
+D: Tenancy disputes moved to the District Court
+ANS: B
+WHY: Amendments to the Residential Tenancies Act 2010 (NSW) ended "no grounds" evictions for both periodic and fixed-term leases.
+
+=== mc shel-mc-08
+c: shel.2.6
+lv: 1
+Q: Where would a tenant in NSW go to dispute a landlord's claim on their bond?
+A: The Local Court
+B: The NSW Civil and Administrative Tribunal
+C: The Federal Circuit and Family Court of Australia
+D: The Land and Environment Court
+ANS: B
+WHY: The Tribunal hears tenancy disputes cheaply and with little formality. Parties usually represent themselves.
+
+=== mc shel-mc-09
+c: shel.2.7
+lv: 2
+Q: Which is an example of alternative dispute resolution for neighbours arguing about a fence?
+A: A trial in the District Court
+B: Mediation at a Community Justice Centre
+C: A complaint to the High Court
+D: A police caution
+ANS: B
+WHY: Community Justice Centres offer free mediation in NSW. The neighbours keep control of the outcome.
+
+=== mc shel-mc-10
+c: shel.3.2
+lv: 2
+Q: A landlord refuses to rent a flat to a woman because she has young children. Which NSW Act is most relevant?
+A: Residential Tenancies Act 2010 (NSW)
+B: Anti-Discrimination Act 1977 (NSW)
+C: Real Property Act 1900 (NSW)
+D: Conveyancing Act 1919 (NSW)
+ANS: B
+WHY: The Act makes discrimination in accommodation unlawful on grounds that include sex, race, disability and responsibilities as a carer.
+
+=== mc shel-mc-11
+c: shel.3.3
+lv: 2
+Q: Which statement about homelessness in Australia is correct?
+A: Most people counted as homeless are sleeping rough
+B: People in severely crowded dwellings and temporary accommodation are counted as homeless
+C: Homelessness affects only adults
+D: Homelessness is a criminal offence
+ANS: B
+WHY: The Australian Bureau of Statistics counts several groups. People sleeping rough are a small share of the total.
+
+=== mc shel-mc-12
+c: shel.3.4
+lv: 2
+Q: What is the main purpose of social housing?
+A: To give investors a tax deduction
+B: To provide secure, affordable rental housing for people on low incomes who cannot afford the private market
+C: To help first home buyers save a deposit
+D: To house tourists
+ANS: B
+WHY: Social housing includes public, community and Aboriginal housing. Rent is usually set as a share of income.
+
+=== sa shel-sa-01
+c: shel.2.1
+m: 4
+lv: 2
+Q: Explain how the law protects a person buying a home in NSW.
+PTS:
+- The seller must disclose documents in the contract for sale, such as the title search and the zoning certificate (1)
+- A cooling-off period applies to private treaty sales (1)
+- Torrens title guarantees the registered title (1)
+- Building and pest inspections are still the buyer's job: caveat emptor (1)
+
+=== sa shel-sa-02
+c: shel.2.2 shel.2.3
+m: 5
+lv: 2
+Q: Explain the rights and obligations of tenants under the Residential Tenancies Act 2010 (NSW).
+PTS:
+- Right to quiet enjoyment and to premises that are fit to live in (1)
+- Right to have urgent repairs done (1)
+- Limits on bonds, rent increases and landlord entry (1)
+- Obligation to pay rent on time and keep the premises reasonably clean (1)
+- Obligation not to cause damage or a nuisance (1)
+
+=== sa shel-sa-03
+c: shel.3.1
+m: 6
+lv: 3
+Q: Assess the effectiveness of government responses to housing affordability.
+PTS:
+- Describes the problem with a statistic from a named source (1)
+- A response for buyers, such as stamp duty concessions or deposit guarantees (1)
+- A response for renters, such as Commonwealth Rent Assistance or tenancy reform (1)
+- A supply response, such as planning reform or housing targets (1)
+- A limit, such as demand-side measures pushing prices up (1)
+- A judgement (1)
+
+=== scen shel-sc-01
+c: shel.2.2 shel.2.3 shel.2.6
+lv: 2
+LEAD: Mei rents a flat in Sydney on a 12-month lease. In month four the hot water system breaks. She emails the agent three times over two weeks and nothing happens. She pays a plumber $900 to fix it and asks the landlord to repay her. The landlord refuses and says she will be evicted for "causing trouble".
+PART (a) 2: Identify the landlord's obligation that has been breached.
+PTS:
+- To keep the premises in reasonable repair (1)
+- A failed hot water service is an urgent repair (1)
+PART (b) 3: Explain whether Mei can recover the $900.
+PTS:
+- A tenant can arrange urgent repairs if the landlord cannot be contacted or does not act (1)
+- The landlord must repay reasonable costs up to the limit set by the regulations (1)
+- She should keep her notices and receipts as evidence (1)
+PART (c) 3: Explain how the dispute could be resolved and whether the landlord's threat is lawful.
+PTS:
+- She can apply to the NSW Civil and Administrative Tribunal for an order (1)
+- The Tribunal can refuse to end a tenancy where the landlord's notice is retaliatory (1)
+- A landlord now needs a ground set out in the Act to end a tenancy (1)
+
+=== scen shel-sc-02
+c: shel.2.1
+lv: 2
+LEAD: Sam and Alex find a house they love. The agent says another buyer is interested and urges them to sign today. They exchange contracts by private treaty on Monday and pay a deposit. On Wednesday a building inspector finds serious termite damage.
+PART (a) 2: Outline what the cooling-off period allows Sam and Alex to do.
+PTS:
+- Withdraw from the contract within five business days of exchange (1)
+- They forfeit 0.25 per cent of the price (1)
+PART (b) 3: Explain how the outcome would differ if they had bought the house at auction.
+PTS:
+- No cooling-off period applies at auction (1)
+- They would be bound to complete or lose their deposit (1)
+- Inspections must be done before bidding (1)
+PART (c) 2: Explain what caveat emptor means for buyers.
+PTS:
+- The buyer bears the risk of defects they could have found (1)
+- Buyers should get building, pest and strata reports before they commit (1)
+
+=== er shel-er-01
+c: shel.2.2 shel.2.3 shel.t.effectiveness
+m: 25
+lv: 3
+Q: Evaluate the effectiveness of the law in protecting the rights of tenants.
+PTS:
+- Residential Tenancies Act 2010 (NSW): bonds, repairs, rent increases, entry
+- The 2025 reforms: the end of no-grounds evictions and rules on pets
+- The NSW Civil and Administrative Tribunal: cheap and fast, but tenants often do not use it
+- Boarders and lodgers: weaker protection
+- Discrimination and affordability as limits on rights in practice
+- Non-legal responses: the Tenants' Union, tenant advice services, the media
+- A judgement using criteria such as accessibility, enforceability and responsiveness
+PLAN:
+- The rights on paper
+- Enforcement through the Tribunal
+- Reform: security of tenure
+- Gaps: marginal renters and affordability
+- Judgement
+
+=== er shel-er-02
+c: shel.3.3 shel.3.4 shel.t.effectiveness
+m: 25
+lv: 3
+Q: Assess the role of the law in responding to homelessness.
+PTS:
+- The right to shelter in international law, and the lack of an enforceable right in Australia
+- Causes of homelessness: family violence, affordability, health
+- Legal responses: social housing, funding agreements between governments, tenancy protections
+- Non-legal responses: specialist homelessness services and charities
+- Limits: waiting lists, funding and supply
+- A judgement with statistics from a named source
+PLAN:
+- The scale of the problem and the right
+- Legal responses
+- Non-legal responses carry much of the load
+- Judgement
+
+=== teeacl shel-te-01
+c: shel.3.2 shel.t.effectiveness
+lv: 2
+Q: Assess the effectiveness of the law in dealing with discrimination in housing.
+PTS:
+- A judgement
+- Evidence: Anti-Discrimination Act 1977 (NSW) and the complaint process
+- Analysis against enforceability: discrimination is hard to prove
+- Counterpoint: complaints can be conciliated cheaply
+- A link back to the question
+
+=== order shel-or-01
+c: shel.2.1
+TITLE: Buying a home by private treaty in NSW
+- The buyer arranges loan pre-approval
+- The buyer inspects the property and makes an offer
+- The seller's agent sends the contract for sale to the buyer's conveyancer
+- Contracts are exchanged and the deposit is paid
+- The cooling-off period runs
+- The lender finalises the mortgage
+- Settlement takes place and the balance is paid
+- The transfer is registered and the buyer becomes the registered owner
+NOTE: The sale becomes binding at exchange, not when an offer is accepted.
+
+=== sort shel-so-01
+c: shel.2.2
+Q: Sort each obligation under the person who owes it.
+CATS: Landlord | Tenant
+- Provide premises that are fit to live in => Landlord
+- Lodge the bond with NSW Fair Trading => Landlord
+- Give proper notice before entering => Landlord
+- Carry out repairs within a reasonable time => Landlord
+- Pay the rent on time => Tenant
+- Keep the premises reasonably clean => Tenant
+- Report damage or the need for repairs => Tenant
+- Not use the premises for an illegal purpose => Tenant
+- Leave the premises as they were, apart from fair wear and tear => Tenant
+
+=== compare shel-co-01
+c: shel.2.1
+Q: Complete the table to compare two ways of buying a home.
+COLS: Private treaty | Auction
+- How the price is set => Negotiation between the buyer and the seller | !Open bidding; the highest bid at or above the reserve wins
+- Cooling-off period => Five business days | None
+- When the sale is binding => !On exchange of contracts | On the fall of the hammer
+- Main risk for the buyer => Being outbid before exchange | Paying more than planned, with no way to withdraw
+
+=== compare shel-co-02
+c: shel.2.6 shel.2.7
+Q: Complete the table to compare ways of resolving a housing dispute.
+COLS: Mediation | NSW Civil and Administrative Tribunal | Court
+- Who decides => !The parties | A tribunal member | A magistrate or judge
+- Cost => Free or low | Low | High
+- Formality => Informal | !Some formality; lawyers are not usually needed | Formal rules of evidence
+- Is the outcome binding? => Only if the parties agree | Yes | Yes
+
+=== error shel-er-x1
+c: shel.2.2 shel.2.6
+Q: This paragraph answers: "Outline how a tenancy begins and how disputes are resolved in NSW."
+TEXT: A tenancy in NSW is governed by the [[Real Property Act 1900 => Residential Tenancies Act 2010]] (NSW). The tenant pays a bond of up to [[eight => four]] weeks' rent, which must be lodged with [[the landlord's bank => NSW Fair Trading]]. Both sides sign a [[title deed => condition report]] that records the state of the property. If a dispute cannot be settled, either side can apply to the [[District Court => NSW Civil and Administrative Tribunal]].
+
+=== tf shel-tf-01
+c: shel.1.2 shel.1.3 shel.2.1
+- T: The right to adequate housing is recognised in the International Covenant on Economic, Social and Cultural Rights.
+- F: The Australian Constitution guarantees a right to housing. => There is no constitutional right to housing in Australia.
+- T: A deposit of about 10 per cent is usually paid when contracts are exchanged.
+- F: A cooling-off period applies to homes bought at auction. => No cooling-off period applies at auction.
+- T: Under Torrens title, the register is conclusive evidence of ownership.
+- F: A mortgage transfers ownership of the home to the bank. => The borrower owns the home; the bank holds security over it.
+
+=== tf shel-tf-02
+c: shel.2.2 shel.2.3 shel.2.6
+- T: A landlord in NSW must usually give notice before entering a rented property.
+- F: A landlord can keep the bond in a personal bank account. => The bond must be lodged with NSW Fair Trading.
+- T: A tenant can ask the NSW Civil and Administrative Tribunal to order repairs.
+- F: Boarders and lodgers have exactly the same rights as tenants. => Boarders and lodgers are covered by different and weaker rules.
+- T: A tenant is not responsible for fair wear and tear.
+
+=== tf shel-tf-03
+c: shel.3.1 shel.3.2 shel.3.3 shel.3.4
+- T: It is unlawful in NSW to refuse to rent a home to someone because of their race.
+- F: Homelessness only means sleeping on the street. => Homelessness also includes couch surfing, crisis accommodation and severe overcrowding.
+- T: Family and domestic violence is a leading cause of homelessness for women and children.
+- F: Social housing is provided only by the government. => Community housing providers and Aboriginal housing organisations also provide social housing.
+- T: Commonwealth Rent Assistance is a payment that helps eligible people with private rent.

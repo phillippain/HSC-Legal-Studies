@@ -1,0 +1,131 @@
+# Year 11 (2025 syllabus): extended responses and TEEACL paragraph tasks. Written 28 November 2026 by Claude. Not yet reviewed.
+
+=== er y11-er-01
+c: inv.3 inv.5
+m: 12
+lv: 2
+Q: Explain how laws are made in Australia. In your answer, refer to both parliament and the courts.
+PTS:
+- Statute law: the stages of a bill and royal assent
+- Common law: precedent, ratio decidendi and the court hierarchy
+- The relationship between the two: statute overrides common law; courts interpret statutes
+- The Constitution sets the limits of law-making power
+- At least one named Act and one named case
+PLAN:
+- How parliament makes law
+- How courts make law
+- How the two work together
+- Conclusion
+
+=== er y11-er-02
+c: dis.1 dis.2
+m: 12
+lv: 2
+Q: Compare how criminal law and civil law resolve disputes.
+PTS:
+- Purpose, parties, burden and standard of proof
+- Process: prosecution and trial against claim, negotiation and hearing
+- Outcomes: sanctions against remedies
+- A named example or case for each
+- Similarities as well as differences
+PLAN:
+- Purpose and parties
+- Proof
+- Outcomes
+- Conclusion: two systems for two kinds of wrong
+
+=== er y11-er-03
+c: chg.5 chg.4
+m: 12
+lv: 3
+Q: Assess the outcomes of law reform in relation to native title.
+PTS:
+- Mabo v Queensland (No 2) (1992) and the rejection of terra nullius
+- Native Title Act 1993 (Cth) and later amendments
+- Benefits: recognition, successful claims, agreements over land use
+- Limitations: the burden of proving continuous connection, extinguishment, delay and cost
+- A judgement
+PLAN:
+- What changed
+- Benefits
+- Limitations
+- Judgement
+
+=== er y11-er-04
+c: exp.2 exp.3
+m: 12
+lv: 3
+Q: To what extent does the legal system achieve justice for young people?
+PTS:
+- Protection in domestic and international law
+- Police powers and safeguards for young people
+- The Children's Court and diversion under the Young Offenders Act 1997 (NSW)
+- Barriers: knowledge, access to legal help, over-representation of some groups, detention
+- A judgement on extent, with evidence
+PLAN:
+- Protections that work
+- Diversion
+- Barriers
+- Judgement
+
+=== er y11-er-05
+c: exp.5 exp.6
+m: 12
+lv: 3
+Q: Assess the responsiveness of the legal system to asylum seekers and refugees.
+PTS:
+- International obligations: the Refugee Convention and non-refoulement
+- Migration Act 1958 (Cth): detention and visas
+- Review by the Administrative Review Tribunal and the courts, including NZYQ (2023)
+- Advocates: the Australian Human Rights Commission and non-government organisations
+- Barriers: delay, detention, limited legal help
+- A judgement
+PLAN:
+- Obligations
+- Domestic law and review
+- Barriers
+- Judgement
+
+=== teeacl y11-te-01
+c: inv.1
+lv: 2
+Q: Explain why the rule of law is important in Australia.
+PTS:
+- A clear statement of what the rule of law means
+- Evidence: an example such as courts reviewing government decisions
+- Explanation of how it limits power
+- Counterpoint: unequal access to legal help weakens equality before the law
+- A link back to the question
+
+=== teeacl y11-te-02
+c: dis.3
+lv: 2
+Q: Assess the effectiveness of tribunals in resolving disputes between individuals and the state.
+PTS:
+- A judgement
+- Evidence: a named tribunal and what it can do
+- Analysis against accessibility or resource efficiency
+- Counterpoint: delay, or limits on what can be reviewed
+- A link back to the question
+
+=== teeacl y11-te-03
+c: chg.6
+lv: 2
+Q: Assess the effectiveness of the social media minimum age law as a response to changing technology.
+PTS:
+- A judgement
+- Evidence: Online Safety Amendment (Social Media Minimum Age) Act 2024 (Cth) and who must comply
+- Analysis against enforceability or responsiveness
+- Counterpoint: age checks can be avoided, and there are privacy concerns
+- A link back to the question
+
+=== teeacl y11-te-04
+c: exp.3
+lv: 2
+Q: Assess the effectiveness of diversion in achieving justice for young people.
+PTS:
+- A judgement
+- Evidence: Young Offenders Act 1997 (NSW) and a finding from a named source
+- Analysis against the capacity to meet society's needs
+- Counterpoint: diversion is not used equally for all groups
+- A link back to the question

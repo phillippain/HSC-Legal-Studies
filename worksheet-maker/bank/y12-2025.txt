@@ -1,0 +1,502 @@
+# Year 12 (2025 syllabus): questions on content that is new or reworded in the 2025 course.
+# Everything else reaches Year 12 through the crosswalk from the 2009 bank. Written 28 November 2026 by Claude. Not yet reviewed.
+
+=== terms y12-terms-cj
+c: cj.3 cj.4 cj.5 cj.6
+- Remand => Being held in custody while waiting for a trial or sentence.
+- Judge-alone trial => A trial for an indictable offence in which a judge, without a jury, decides the verdict.
+- Diversionary program => A program that directs an offender away from the usual court or prison path and into treatment, education or support.
+- Security classification => The level of security, such as maximum, medium or minimum, at which a prisoner is held.
+- Extended supervision order => A Supreme Court order that keeps a high-risk offender under strict supervision in the community after their sentence ends.
+- Continuing detention order => A Supreme Court order that keeps a high-risk offender in custody after their sentence ends.
+- Non-parole period => The minimum time an offender must spend in custody before being eligible for release on parole.
+
+=== terms y12-terms-ir
+c: ir.1 ir.2
+- International relations => The ways nation-states and international organisations deal with each other, including through diplomacy, trade, law and conflict.
+- Diplomacy => The management of relations between states by negotiation.
+- Multilateral treaty => A treaty between three or more states.
+- Bilateral treaty => A treaty between two states.
+- Globalisation => The growing connection of countries through trade, technology, travel and communication.
+- United Nations Declaration on the Rights of Indigenous Peoples => The 2007 declaration that sets out the individual and collective rights of Indigenous peoples. It is not a binding treaty.
+
+=== terms y12-terms-fl
+c: fl.2 fl.3
+- Forced marriage => A marriage entered into without the free and full consent of one or both people, because of coercion, threat or deception, or where a person is under 16.
+- Foster care => Care of a child in the home of an authorised carer when the child cannot live safely with their parents.
+- Aboriginal and Torres Strait Islander Child Placement Principle => The principle that an Aboriginal or Torres Strait Islander child who cannot live at home should be placed, in order of priority, with family, community or other Aboriginal and Torres Strait Islander carers.
+
+=== terms y12-terms-hl
+c: hl.1 hl.4 hl.5
+- Real property => Land and anything fixed to it, such as a house.
+- Community housing => Social housing managed by not-for-profit organisations.
+- Public housing => Social housing owned and managed by the state government.
+- Specialist homelessness service => A funded service that gives accommodation and support to people who are homeless or at risk of homelessness.
+
+=== mc y12-mc-01
+c: cj.1
+lv: 2
+Q: Which is an example of the changing nature of crime?
+A: The growth of online fraud, scams and identity theft
+B: The abolition of all summary offences
+C: The end of police discretion
+D: The removal of juries from every trial
+ANS: A
+WHY: Technology has created new offences and new ways to commit old ones, and the law has had to respond.
+
+=== mc y12-mc-02
+c: cj.2
+lv: 2
+Q: How does police discretion support the rule of law when it is used properly?
+A: It lets police ignore legislation
+B: It lets police respond in proportion to the offence, within limits set by law and guidelines
+C: It replaces the role of the courts
+D: It applies only to indictable offences
+ANS: B
+WHY: Warnings, cautions and fines save court time for serious matters. The risk is inconsistent or biased use.
+
+=== mc y12-mc-03
+c: cj.3
+lv: 2
+Q: Why can a long period on remand be seen as conflicting with the presumption of innocence?
+A: Remand is a sentence imposed after conviction
+B: A person on remand is held in custody although they have not been found guilty
+C: Remand applies only to people who plead guilty
+D: People on remand cannot have a lawyer
+ANS: B
+WHY: Time on remand can cost a person their job or housing, and some are later acquitted or given a non-custodial sentence.
+
+=== mc y12-mc-04
+c: cj.3
+lv: 2
+Q: Which is an example of a pre-trial process?
+A: Sentencing
+B: Parole
+C: Committal proceedings and charge negotiation
+D: An appeal to the High Court
+ANS: C
+WHY: Pre-trial steps decide whether and how a matter goes to trial, and encourage early guilty pleas.
+
+=== mc y12-mc-05
+c: cj.4
+lv: 2
+Q: Which is an argument for a judge-alone trial rather than a jury trial?
+A: A judge gives written reasons, and the trial avoids jurors being swayed by pre-trial publicity
+B: A judge represents a cross-section of the community
+C: Judge-alone trials always take longer
+D: The accused cannot appeal a jury verdict
+ANS: A
+WHY: Reasons make the decision open to review. The main argument for juries is community participation.
+
+=== mc y12-mc-06
+c: cj.4
+lv: 2
+Q: Which organisation provides legal services designed for Aboriginal and Torres Strait Islander people in NSW?
+A: The Aboriginal Legal Service
+B: The State Parole Authority
+C: The Sentencing Council
+D: The Judicial Commission
+ANS: A
+WHY: The Service gives culturally appropriate advice and representation, including through the custody notification service.
+
+=== mc y12-mc-07
+c: cj.5
+lv: 2
+Q: Which is a diversionary program available to some adult offenders in NSW?
+A: The Drug Court program
+B: A standard non-parole period
+C: A continuing detention order
+D: A committal hearing
+ANS: A
+WHY: The Drug Court supervises treatment for drug-dependent offenders as an alternative to prison.
+
+=== mc y12-mc-08
+c: cj.5
+lv: 2
+Q: Which sentencing options are designed to be culturally appropriate for Aboriginal and Torres Strait Islander offenders?
+A: Circle sentencing and the Youth Koori Court
+B: Mandatory sentencing and standard non-parole periods
+C: Fines and forfeiture
+D: Extradition and deportation
+ANS: A
+WHY: Elders and respected community members take part, which aims to make the process meaningful and to reduce reoffending.
+
+=== mc y12-mc-09
+c: cj.6
+lv: 2
+Q: Who decides how a prisoner in NSW is classified and where they are placed?
+A: The sentencing judge
+B: Corrective Services NSW
+C: The jury
+D: The Director of Public Prosecutions
+ANS: B
+WHY: Classification reflects risk and affects access to programs and work, and so to rehabilitation.
+
+=== mc y12-mc-10
+c: cj.6
+lv: 3
+Q: What is the main criticism of continuing detention orders for high-risk offenders?
+A: They are made by police without any court hearing
+B: They keep a person in custody after their sentence has ended, on the basis of what they might do
+C: They apply to every offender
+D: They cannot be reviewed
+ANS: B
+WHY: The orders protect the community but sit uneasily with the principle that a person is punished only for what they have done.
+
+=== mc y12-mc-11
+c: ir.1
+lv: 2
+Q: Why do nation-states need international relations?
+A: Because problems such as conflict, trade, climate and migration cross borders and cannot be solved by one state alone
+B: Because the United Nations makes laws for every state
+C: Because state sovereignty no longer exists
+D: Because every state has the same legal system
+ANS: A
+WHY: Cooperation through treaties and organisations lets states manage shared problems while keeping their sovereignty.
+
+=== mc y12-mc-12
+c: ir.1
+lv: 2
+Q: Which is an example of a regional intergovernmental organisation?
+A: Amnesty International
+B: The Association of Southeast Asian Nations (ASEAN)
+C: The International Committee of the Red Cross
+D: Human Rights Watch
+ANS: B
+WHY: Its members are states. Amnesty International and Human Rights Watch are non-government organisations.
+
+=== mc y12-mc-13
+c: ir.2
+lv: 2
+Q: Which statement about the United Nations Declaration on the Rights of Indigenous Peoples is correct?
+A: It is a binding treaty enforced by the International Criminal Court
+B: It is a non-binding declaration that sets standards, including the right to self-determination
+C: It applies only in Australia
+D: It replaced the Universal Declaration of Human Rights
+ANS: B
+WHY: The General Assembly adopted it in 2007. Australia voted against it then and endorsed it in 2009.
+
+=== mc y12-mc-14
+c: ir.3
+lv: 2
+Q: How does the Universal Periodic Review monitor human rights?
+A: Judges try the leaders of each state
+B: The human rights record of every United Nations member state is reviewed by other states through the Human Rights Council
+C: Non-government organisations vote on sanctions
+D: The Security Council inspects each state every year
+ANS: B
+WHY: The review produces recommendations. States are not forced to accept them.
+
+=== mc y12-mc-15
+c: ir.4
+lv: 2
+Q: What does the Human Rights (Parliamentary Scrutiny) Act 2011 (Cth) require?
+A: Courts must strike down laws that breach human rights
+B: Each new bill must come with a statement of compatibility with human rights, and a parliamentary committee examines bills
+C: A referendum on a bill of rights
+D: Treaties to apply automatically
+ANS: B
+WHY: The Act builds rights into law-making, but parliament can still pass a law that is not compatible.
+
+=== mc y12-mc-16
+c: ir.5
+lv: 2
+Q: Which is a limit on the role of the media in promoting human rights?
+A: The media cannot report on other countries
+B: Coverage can be selective, short-lived or shaped by commercial and political interests
+C: The media is controlled by the United Nations
+D: Journalists are not allowed to interview victims
+ANS: B
+WHY: Media attention can force action, but issues that are not covered may be ignored.
+
+=== mc y12-mc-17
+c: fl.2
+lv: 2
+Q: How does Australian law respond to forced marriage?
+A: It is a criminal offence under Commonwealth law
+B: It is lawful with parental consent
+C: It is dealt with only by the Children's Court
+D: It is not recognised as a legal issue
+ANS: A
+WHY: Forced marriage offences were added to the Criminal Code Act 1995 (Cth) in 2013. Under-reporting makes cases hard to identify.
+
+=== mc y12-mc-18
+c: fl.3
+lv: 2
+Q: What is the aim of the Aboriginal and Torres Strait Islander Child Placement Principle?
+A: To place every child in residential care
+B: To keep children who cannot live at home connected to family, community, culture and Country
+C: To speed up adoption
+D: To move child protection cases to the High Court
+ANS: B
+WHY: The Principle responds to the harm done by past removal policies and is part of NSW child protection law.
+
+=== mc y12-mc-19
+c: fl.4
+lv: 2
+Q: What makes a financial agreement between partners binding under the Family Law Act 1975 (Cth)?
+A: It is agreed verbally
+B: It is in writing, signed, and each person has had independent legal advice
+C: It is approved by the Children's Court
+D: It is made after a divorce only
+ANS: B
+WHY: Without independent advice for each person, a court can set the agreement aside.
+
+=== mc y12-mc-20
+c: hl.1
+lv: 2
+Q: How does native title differ from Torrens title?
+A: Native title is a registered freehold interest that can be sold
+B: Native title recognises rights under traditional laws and customs and cannot be sold like freehold
+C: Torrens title applies only to Crown land
+D: There is no difference
+ANS: B
+WHY: Native title is a communal set of rights that depends on continuing connection. Torrens title is ownership recorded on the state register.
+
+=== mc y12-mc-21
+c: hl.4
+lv: 2
+Q: Why is culturally appropriate housing important for Aboriginal and Torres Strait Islander Peoples?
+A: It costs less to build
+B: Housing designed and managed with communities supports kinship obligations, connection to Country and better health
+C: It is required by the Constitution
+D: It replaces the need for land rights
+ANS: B
+WHY: Standard housing and rules can clash with family obligations, and overcrowding harms health and education.
+
+=== mc y12-mc-22
+c: hl.3
+lv: 2
+Q: Which is a barrier to justice in property disputes?
+A: The NSW Civil and Administrative Tribunal charges no fees at all
+B: Complex rules, legal costs and language barriers discourage people from enforcing their rights
+C: Tenants are banned from applying to the Tribunal
+D: Mediation is illegal in NSW
+ANS: B
+WHY: Rights that people cannot use in practice give little protection. Advice services and interpreters reduce the barrier.
+
+=== sa y12-sa-01
+c: cj.3
+m: 5
+lv: 2
+Q: Explain the impact of remand on the accused and on society.
+PTS:
+- Defines remand (1)
+- Impact on the accused: loss of liberty, work, housing or family contact before any finding of guilt (1)
+- It is harder to prepare a defence from custody (1)
+- Impact on society: protection from risk, but a high cost and crowded prisons (1)
+- A link to the presumption of innocence (1)
+
+=== sa y12-sa-02
+c: cj.4
+m: 4
+lv: 2
+Q: Outline TWO reasons for and TWO reasons against the use of juries in criminal trials.
+PTS:
+- For: community participation; the decision is shared among twelve people (2)
+- Against: no reasons are given; jurors may be influenced by the media or struggle with complex evidence (2)
+
+=== sa y12-sa-03
+c: cj.6
+m: 4
+lv: 2
+Q: Explain the purpose of parole and the conditions that may apply.
+PTS:
+- Supervised release for the last part of a sentence (1)
+- It supports reintegration and reduces reoffending (1)
+- Conditions such as reporting, where to live and attending programs (1)
+- Parole can be revoked if conditions are breached (1)
+
+=== sa y12-sa-04
+c: ir.1
+m: 4
+lv: 2
+Q: Explain the impact of state sovereignty on the changing global community.
+PTS:
+- Defines state sovereignty (1)
+- States remain the main actors and must consent to be bound (1)
+- Global problems and organisations put pressure on sovereignty (1)
+- An example, such as a state refusing to follow a decision of an international body (1)
+
+=== sa y12-sa-05
+c: ir.4
+m: 6
+lv: 3
+Q: Discuss the debate over the need for a human rights framework in Australia.
+PTS:
+- Current protection is spread across the Constitution, statute and common law (1)
+- For: clearer rights, protection of minorities, education (1 to 2)
+- Against: parliamentary sovereignty, power shifted to judges, cost (1 to 2)
+- Refers to an existing model, such as the Victorian Charter or the Human Rights Act 2019 (Qld) (1)
+- Presents both sides (1)
+
+=== sa y12-sa-06
+c: fl.2
+m: 4
+lv: 2
+Q: Explain the challenges in identifying and responding to forced marriage in Australia.
+PTS:
+- Defines forced marriage and notes it is a crime (1)
+- Victims are often young and under family pressure, so they may not report (1)
+- Marriages may take place overseas (1)
+- Responses include support services, protection orders and education (1)
+
+=== sa y12-sa-07
+c: hl.5
+m: 5
+lv: 2
+Q: Explain the impact of homelessness on the enjoyment of human rights.
+PTS:
+- Names the right to adequate housing (1)
+- Health: harder to stay well or get treatment (1)
+- Education and work: hard to attend without a stable address (1)
+- Safety and privacy are at risk (1)
+- Rights are connected: losing one affects the others (1)
+
+=== scen y12-sc-01
+c: cj.3 cj.4
+lv: 3
+LEAD: Dev, aged 28, is charged with a serious assault. He has no criminal record, a full-time job and lives with his parents. The alleged victim is a neighbour. The case has been in the news for a week, with headlines calling Dev a "thug". His trial in the District Court is nine months away.
+PART (a) 3: Explain what a court would consider in deciding whether to grant Dev bail.
+PTS:
+- Whether there is an unacceptable risk, such as endangering the victim or interfering with witnesses (1)
+- His community ties, job and lack of record reduce the risk of failing to appear (1)
+- Conditions, such as no contact with the neighbour, could manage the risk (1)
+PART (b) 3: Explain why Dev might apply for a judge-alone trial.
+PTS:
+- Pre-trial publicity may prejudice jurors (1)
+- A judge gives reasons, which can be tested on appeal (1)
+- The court decides whether a judge-alone trial is in the interests of justice (1)
+
+=== scen y12-sc-02
+c: hl.2 hl.3
+lv: 2
+LEAD: Thanh arrived in Australia two years ago and speaks limited English. He rents a unit with his family. Mould has spread through the bedroom and his daughter's asthma is worse. The agent has ignored his messages for a month. Thanh is afraid that if he complains, the family will lose their home.
+PART (a) 2: Identify the landlord's obligation and the body that can enforce it.
+PTS:
+- To provide and maintain premises that are fit to live in and in reasonable repair (1)
+- The NSW Civil and Administrative Tribunal (1)
+PART (b) 4: Explain the barriers Thanh faces in accessing justice and how they could be reduced.
+PTS:
+- Language: forms and hearings are in English (1)
+- Fear of losing the tenancy, and not knowing the law (1)
+- Interpreters are available at the Tribunal, and tenant advice services give free help (1)
+- The law limits retaliatory evictions and now requires a reason to end a tenancy (1)
+
+=== er y12-er-01
+c: cj.5 cj.6
+m: 15
+lv: 3
+Q: To what extent do sentencing and post-sentencing measures balance the rights of victims, offenders and society?
+PTS:
+- The purposes of sentencing and how they compete
+- Judicial discretion, guidelines, and aggravating and mitigating factors
+- Victim impact statements
+- Custodial and non-custodial penalties, with evidence on reoffending
+- Diversionary and culturally appropriate options
+- Parole, and detention and supervision orders for high-risk offenders
+- A sustained judgement
+PLAN:
+- Sentencing: weighing purposes
+- Victims: a voice but not a veto
+- Offenders: rehabilitation and diversion
+- Society: protection after the sentence ends
+- Judgement
+
+=== er y12-er-02
+c: ir.3 ir.4 ir.5
+m: 15
+lv: 3
+Q: Evaluate the effectiveness of legal and non-legal measures in protecting ONE human right.
+PTS:
+- Names the right and where it is recognised
+- International protection: instruments, monitoring and courts, and their limits
+- Australian protection: the Constitution, statute, common law, the Australian Human Rights Commission, courts and tribunals
+- Promotion by non-government organisations and the media
+- A judgement using criteria such as enforceability and the protection of individual rights
+PLAN:
+- International protection and state sovereignty
+- Domestic protection without a national framework
+- Non-legal promotion
+- Judgement
+
+=== teeacl y12-te-01
+c: cj.5
+lv: 2
+Q: Assess the impact of diversionary programs in reducing recidivism.
+PTS:
+- A judgement
+- Evidence: a named program, such as the Drug Court or circle sentencing, and a finding from a named source
+- Analysis against resource efficiency or the capacity to meet society's needs
+- Counterpoint: limited places and strict eligibility
+- A link back to the question
+
+=== teeacl y12-te-02
+c: hl.4
+lv: 2
+Q: Evaluate the effectiveness of government measures to address housing affordability.
+PTS:
+- A judgement
+- Evidence: a named measure and a statistic from a named source
+- Analysis against the capacity to meet society's needs
+- Counterpoint: measures that add to demand can push prices higher
+- A link back to the question
+
+=== sort y12-so-01
+c: cj.5 cj.6
+Q: Sort each measure under the stage of the criminal justice system where it is used.
+CATS: Sentencing | Post-sentencing
+- Victim impact statement => Sentencing
+- Intensive correction order => Sentencing
+- Aggravating and mitigating factors => Sentencing
+- Circle sentencing => Sentencing
+- Security classification => Post-sentencing
+- Parole => Post-sentencing
+- Extended supervision order => Post-sentencing
+- Continuing detention order => Post-sentencing
+
+=== compare y12-co-01
+c: cj.4
+Q: Complete the table to compare a jury trial with a judge-alone trial.
+COLS: Jury trial | Judge-alone trial
+- Who decides the verdict => Twelve members of the community | !A judge
+- Reasons for the verdict => None are given | Written reasons are given
+- Main strength => !Community participation and shared responsibility | Legal expertise and less risk of prejudice from publicity
+- Main weakness => Jurors may not follow complex evidence or directions | One person decides, without community input
+
+=== error y12-er-x1
+c: cj.6
+Q: This paragraph answers: "Outline how high-risk offenders can be managed after their sentence ends in NSW."
+TEXT: Under the Crimes (High Risk Offenders) Act 2006 (NSW), the [[Local Court => Supreme Court]] can make orders about serious sex or violence offenders who still pose an unacceptable risk. An [[intensive correction => extended supervision]] order lets the person live in the community under strict conditions. A continuing [[parole => detention]] order keeps the person in custody. These orders are made [[before the trial => near the end of the sentence]].
+
+=== tf y12-tf-01
+c: cj.2 cj.3 cj.4
+- T: A person on remand has not been convicted of the offence they are charged with.
+- F: Police discretion means police can act outside the law. => Police discretion must be used within limits set by legislation and guidelines.
+- T: An accused can apply for a trial by judge alone in NSW.
+- F: Legal aid is available to everyone charged with any offence. => Legal aid is subject to means, merit and jurisdiction tests.
+- T: A partial defence to murder reduces the offence to manslaughter.
+
+=== tf y12-tf-02
+c: cj.5 cj.6
+- T: Diversionary programs aim to address the causes of offending.
+- F: Parole means the sentence has ended. => Parole is served in the community as part of the sentence.
+- T: The State Parole Authority can revoke parole if conditions are breached.
+- F: A continuing detention order is made by the police. => A continuing detention order is made by the Supreme Court.
+- T: A victim impact statement can be considered when an offender is sentenced.
+
+=== tf y12-tf-03
+c: ir.1 ir.2 ir.3
+- T: The United Nations was founded in 1945.
+- F: The United Nations Declaration on the Rights of Indigenous Peoples is a binding treaty. => It is a declaration and is not legally binding.
+- T: Nation-states are bound by a treaty only when they consent to it.
+- F: International courts have their own police to arrest suspects. => International courts rely on states to arrest and surrender suspects.
+- T: Environmental rights and peace rights are categories of human rights.
+
+=== tf y12-tf-04
+c: fl.2 fl.3 fl.5 hl.1 hl.5
+- T: Forced marriage is a criminal offence in Australia.
+- F: A de facto couple must register their relationship before the law recognises it. => Registration is optional; the law looks at the circumstances of the relationship.
+- T: The best interests of the child are protected by both Australian law and the Convention on the Rights of the Child.
+- F: Native title can be bought and sold like freehold land. => Native title is a communal right under traditional law and cannot be sold like freehold.
+- T: Crisis and emergency accommodation is a response to homelessness.

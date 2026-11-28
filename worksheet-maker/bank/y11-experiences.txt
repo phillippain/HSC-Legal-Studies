@@ -1,0 +1,271 @@
+# Year 11 (2025 syllabus), Focus area 4: Experiences with the law. Written 28 November 2026 by Claude. Not yet reviewed.
+# The second group is the class's choice: asylum seekers and refugees.
+
+=== terms y11-exp-terms-01
+c: exp.1 exp.2 exp.3
+- Evolving capacity => The idea that children gain the ability to make their own decisions as they mature.
+- Age of criminal responsibility => The age below which a child cannot be charged with a criminal offence: 10 in NSW.
+- Doli incapax => The presumption that a child aged 10 to under 14 does not know that their conduct is seriously wrong.
+- Recidivism => Reoffending after being dealt with by the criminal justice system.
+- Diversion => Dealing with an offender, especially a young person, outside the formal court process.
+- Youth justice conference => A meeting in which a young offender, the victim and others agree on a plan to repair the harm.
+- Convention on the Rights of the Child => The 1989 treaty that sets out the rights of everyone under 18.
+
+=== terms y11-exp-terms-02
+c: exp.4 exp.5 exp.6
+- Asylum seeker => A person who has left their country and applied for protection as a refugee, and whose claim has not yet been decided.
+- Refugee => A person outside their country who has a well-founded fear of persecution because of their race, religion, nationality, political opinion or membership of a particular social group.
+- Non-refoulement => The duty not to return a person to a place where they face persecution or serious harm.
+- Mandatory detention => The legal requirement that a non-citizen in Australia without a valid visa be detained.
+- Offshore processing => The assessment of asylum claims in a country other than the one where protection is sought.
+- Protection visa => A visa granted to a person in Australia who is found to be owed protection.
+
+=== mc y11-exp-mc-01
+c: exp.1
+lv: 1
+Q: Why does the law give young people special protection?
+A: Young people have more money than adults
+B: Young people are still developing and are more vulnerable to harm and exploitation
+C: Young people cannot break the law
+D: The Constitution requires it
+ANS: B
+WHY: The law recognises limited maturity and experience, while giving more independence as capacity grows.
+
+=== mc y11-exp-mc-02
+c: exp.1
+lv: 2
+Q: What is the minimum age of criminal responsibility in NSW?
+A: 8
+B: 10
+C: 14
+D: 16
+ANS: B
+WHY: A child under 10 cannot be charged. From 10 to under 14, doli incapax applies.
+
+=== mc y11-exp-mc-03
+c: exp.1
+lv: 2
+Q: What does a high rate of recidivism among young people who have been in detention suggest?
+A: Detention is working well as a deterrent
+B: Detention often fails to address the causes of offending
+C: Young people commit more serious crimes than adults
+D: The age of criminal responsibility is too high
+ANS: B
+WHY: If many young people reoffend after detention, rehabilitation has not been achieved. This supports diversion.
+
+=== mc y11-exp-mc-04
+c: exp.2
+lv: 2
+Q: Which international treaty sets out the rights of people under 18?
+A: Refugee Convention
+B: Convention on the Rights of the Child
+C: Rome Statute
+D: International Covenant on Economic, Social and Cultural Rights
+ANS: B
+WHY: Australia ratified the Convention in 1990. It says the best interests of the child must be a primary consideration.
+
+=== mc y11-exp-mc-05
+c: exp.2
+lv: 2
+Q: Which NSW court hears most criminal matters involving people under 18?
+A: The Local Court
+B: The Children's Court
+C: The District Court
+D: The Coroner's Court
+ANS: B
+WHY: The Children's Court is a closed, specialist court. Very serious offences can be sent to a higher court.
+
+=== mc y11-exp-mc-06
+c: exp.2
+lv: 2
+Q: Which Act sets up warnings, cautions and youth justice conferences in NSW?
+A: Children (Criminal Proceedings) Act 1987 (NSW)
+B: Young Offenders Act 1997 (NSW)
+C: Bail Act 2013 (NSW)
+D: Crimes Act 1900 (NSW)
+ANS: B
+WHY: The Act diverts young people who admit less serious offences away from court.
+
+=== mc y11-exp-mc-07
+c: exp.2
+lv: 2
+Q: Which body advocates for the rights of children and young people across Australia?
+A: The National Children's Commissioner
+B: The Director of Public Prosecutions
+C: The Reserve Bank of Australia
+D: The State Parole Authority
+ANS: A
+WHY: The Commissioner sits within the Australian Human Rights Commission. NSW also has an Advocate for Children and Young People.
+
+=== mc y11-exp-mc-08
+c: exp.3
+lv: 2
+Q: Which is a barrier to justice for many young people?
+A: They are not allowed to have a lawyer
+B: They often do not know their rights or how to get legal help
+C: They cannot be witnesses
+D: Courts are open only on weekends
+ANS: B
+WHY: Lack of knowledge, cost, distance and distrust of authority all limit access. Legal Aid NSW runs a Youth Hotline to help.
+
+=== mc y11-exp-mc-09
+c: exp.4
+lv: 1
+Q: What is the difference between an asylum seeker and a refugee?
+A: An asylum seeker has been found to be owed protection; a refugee has not
+B: An asylum seeker's claim for protection has not yet been decided; a refugee meets the legal definition
+C: They are the same thing
+D: A refugee always arrives by boat
+ANS: B
+WHY: Every refugee was first an asylum seeker. How a person arrives does not decide whether they are a refugee.
+
+=== mc y11-exp-mc-10
+c: exp.5
+lv: 2
+Q: Which treaty defines who is a refugee and sets out the duty of non-refoulement?
+A: Convention on the Rights of the Child
+B: Convention relating to the Status of Refugees (1951)
+C: Universal Declaration of Human Rights
+D: Rome Statute
+ANS: B
+WHY: The Convention and its 1967 Protocol bind Australia in international law.
+
+=== mc y11-exp-mc-11
+c: exp.5
+lv: 2
+Q: Which Act governs visas, detention and the removal of non-citizens in Australia?
+A: Migration Act 1958 (Cth)
+B: Australian Citizenship Act 2007 (Cth)
+C: Racial Discrimination Act 1975 (Cth)
+D: Crimes Act 1914 (Cth)
+ANS: A
+WHY: The Act requires the detention of unlawful non-citizens and sets the tests for protection visas.
+
+=== mc y11-exp-mc-12
+c: exp.5 exp.6
+lv: 3
+Q: What did the High Court decide in NZYQ v Minister for Immigration (2023)?
+A: That offshore processing is unlawful
+B: That indefinite immigration detention is unlawful where there is no real prospect of removing the person in the reasonably foreseeable future
+C: That all asylum seekers must be given permanent visas
+D: That the Refugee Convention is part of the Constitution
+ANS: B
+WHY: The decision overturned Al-Kateb v Godwin (2004) and led to the release of people held in long-term detention.
+
+=== mc y11-exp-mc-13
+c: exp.5
+lv: 2
+Q: Which body can review many decisions to refuse a protection visa?
+A: The NSW Civil and Administrative Tribunal
+B: The Administrative Review Tribunal
+C: The Children's Court
+D: The International Criminal Court
+ANS: B
+WHY: The Tribunal replaced the Administrative Appeals Tribunal in October 2024 and conducts merits review of Commonwealth decisions.
+
+=== sa y11-exp-sa-01
+c: exp.1
+m: 4
+lv: 2
+Q: Explain what is meant by the "evolving capacity" of young people, using TWO examples of age limits in the law.
+PTS:
+- Defines evolving capacity (1)
+- The law gives rights and responsibilities in stages (1)
+- Two accurate examples, such as criminal responsibility at 10, a learner licence at 16 or voting at 18 (2)
+
+=== sa y11-exp-sa-02
+c: exp.2 exp.3
+m: 5
+lv: 2
+Q: Explain how the Young Offenders Act 1997 (NSW) aims to achieve justice for young people.
+PTS:
+- It provides warnings, cautions and youth justice conferences (1)
+- Court is kept for more serious matters (1)
+- Young people avoid a criminal record for minor offending (1)
+- Conferences let victims take part and repair harm (1)
+- A limit, such as uneven use across groups (1)
+
+=== sa y11-exp-sa-03
+c: exp.6
+m: 6
+lv: 3
+Q: Assess the responsiveness of the legal system to asylum seekers and refugees.
+PTS:
+- An indicator of success, such as merits review or access to the courts (1)
+- A case or law that shows it, such as NZYQ (2023) (1)
+- A barrier, such as mandatory detention or offshore processing (1)
+- A second barrier, such as delay, language or limited legal aid (1)
+- The role of advocates, such as the Australian Human Rights Commission or non-government organisations (1)
+- A judgement (1)
+
+=== scen y11-exp-sc-01
+c: exp.2
+lv: 2
+LEAD: Kai, aged 15, is stopped by police at a train station after a security guard says he saw Kai take a pair of headphones from a shop. Kai admits he took them. It is his first contact with police. The officer wants to take a formal statement from him straight away, on the platform.
+PART (a) 2: Outline TWO rights Kai has when police question him.
+PTS:
+- The right to silence, apart from giving his name and address (1)
+- The right to have a responsible adult present and to get legal advice, for example from the Legal Aid Youth Hotline (1)
+PART (b) 3: Explain the most likely outcome for Kai and why.
+PTS:
+- A caution, or possibly a warning, under the Young Offenders Act 1997 (NSW) (1)
+- The offence is minor, he admits it and it is his first (1)
+- Diversion aims to keep young people out of court (1)
+
+=== scen y11-exp-sc-02
+c: exp.4 exp.5
+lv: 2
+LEAD: Samira fled her country after she was threatened because of her work as a journalist. She arrived in Australia on a student visa and has now applied for a protection visa. A departmental officer refuses her application, saying she could safely live in another part of her country.
+PART (a) 2: Explain whether Samira is an asylum seeker or a refugee at this point.
+PTS:
+- She is an asylum seeker because her claim has not been finally decided (1)
+- She would be a refugee if she is found to have a well-founded fear of persecution for a Convention reason, such as political opinion (1)
+PART (b) 3: Outline what Samira can do about the refusal.
+PTS:
+- Apply for merits review by the Administrative Review Tribunal (1)
+- Seek help from a refugee legal service or advocacy group (1)
+- Judicial review by a court is possible if there was a legal error (1)
+
+=== sort y11-exp-so-01
+c: exp.3 exp.6
+Q: Sort each item under the correct heading.
+CATS: Indicator of success in achieving justice | Barrier to achieving justice
+- Free legal advice is available by phone => Indicator of success in achieving justice
+- Decisions can be reviewed by an independent tribunal => Indicator of success in achieving justice
+- Diversion keeps most young people out of court => Indicator of success in achieving justice
+- An interpreter is provided at hearings => Indicator of success in achieving justice
+- Long delays before a decision is made => Barrier to achieving justice
+- People do not know their rights => Barrier to achieving justice
+- Legal help is not funded for many cases => Barrier to achieving justice
+- Detention far from family and lawyers => Barrier to achieving justice
+
+=== compare y11-exp-co-01
+c: exp.2 exp.5
+Q: Complete the table to compare how two groups experience the law.
+COLS: Young people | Asylum seekers and refugees
+- Main international treaty => Convention on the Rights of the Child | !Convention relating to the Status of Refugees
+- Main domestic law => !Young Offenders Act 1997 (NSW) and Children (Criminal Proceedings) Act 1987 (NSW) | Migration Act 1958 (Cth)
+- Where decisions are made => Police and the Children's Court | The department, the Administrative Review Tribunal and the federal courts
+- An advocate => National Children's Commissioner | Australian Human Rights Commission or a refugee legal service
+
+=== error y11-exp-er-x1
+c: exp.1 exp.2
+Q: This paragraph answers: "Outline how the law treats a 12-year-old accused of an offence in NSW."
+TEXT: In NSW a child under [[12 => 10]] cannot be charged with an offence. A 12-year-old is covered by doli incapax, which means the [[defence => prosecution]] must prove the child knew the act was seriously wrong. The matter would be heard in the [[Local Court => Children's Court]], which is [[open => closed]] to the public.
+
+=== tf y11-exp-tf-01
+c: exp.1 exp.2 exp.3
+- T: A child under 10 cannot be held criminally responsible in NSW.
+- F: The Children's Court is open to the public and the media can name the child. => The Children's Court is closed and children generally cannot be named.
+- T: Australia has ratified the Convention on the Rights of the Child.
+- F: Police can never arrest a person under 18. => Police can arrest a young person, but arrest and detention should be a last resort.
+- T: A youth justice conference can include the victim.
+- F: Recidivism means a young person has been diverted from court. => Recidivism means reoffending.
+
+=== tf y11-exp-tf-02
+c: exp.4 exp.5 exp.6
+- T: It is lawful under international law to seek asylum.
+- F: A person who arrives without a visa cannot be a refugee. => Refugee status depends on a well-founded fear of persecution, not on how a person arrives.
+- T: Non-refoulement means a refugee must not be returned to a place where they face persecution.
+- F: The Refugee Convention is automatically part of Australian law. => Treaties apply in Australia only as far as parliament has enacted them, mainly through the Migration Act 1958 (Cth).
+- T: The Australian Human Rights Commission can inquire into the treatment of people in immigration detention.

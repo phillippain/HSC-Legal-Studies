@@ -1,0 +1,353 @@
+# HSC Family (2009 syllabus, Option 3). Written 28 November 2026 by Claude. Not yet reviewed.
+
+=== terms fam-terms-01
+c: fam.1.1 fam.1.3 fam.1.4
+- Marriage => In Australian law, the union of two people to the exclusion of all others, voluntarily entered into for life.
+- De facto relationship => A relationship between two people who live together as a couple on a genuine domestic basis and are not married to each other.
+- Blended family => A family formed when a couple live together with children from earlier relationships.
+- Kinship => The system of family relationships and obligations that connects Aboriginal and Torres Strait Islander people to each other, to community and to Country.
+- Void marriage => A marriage that has no legal effect, for example because one person was already married or did not give real consent.
+
+=== terms fam-terms-02
+c: fam.1.5 fam.1.6 fam.2.2
+- Parental responsibility => All the duties, powers, responsibilities and authority that parents have by law in relation to their children.
+- Best interests of the child => The paramount consideration a court must apply when it makes a parenting order.
+- Adoption => The legal process that permanently transfers parental rights and responsibilities from the birth parents to the adoptive parents.
+- Parenting plan => A written, signed and dated agreement between parents about the care of their children. It is not enforceable by a court.
+- Parenting order => A court order about who a child lives with, spends time with and communicates with, and who makes major decisions.
+- Child support => Money paid by a parent towards the cost of raising a child after separation.
+
+=== terms fam-terms-03
+c: fam.2.1 fam.2.3 fam.2.4 fam.2.5
+- Divorce => The legal ending of a marriage by a court order.
+- Irretrievable breakdown => The only ground for divorce in Australia, shown by 12 months of separation.
+- Property settlement => The division of the assets and debts of a couple after separation.
+- Binding financial agreement => A written agreement between partners, made with independent legal advice, about how property will be divided if they separate.
+- Apprehended domestic violence order => A court order that restricts a person's behaviour to protect someone they have a domestic relationship with.
+- Family dispute resolution => A process in which an independent practitioner helps separating families to agree, usually required before applying for a parenting order.
+- Coercive control => A pattern of abusive behaviour used to control or dominate an intimate partner.
+
+=== terms fam-terms-04
+c: fam.3.3 fam.3.4
+- Surrogacy => An arrangement in which a woman agrees to carry a child for another person or couple who will become the child's parents.
+- Altruistic surrogacy => Surrogacy in which the birth mother receives no payment beyond her reasonable costs.
+- Parentage order => A court order that transfers legal parentage of a child from the birth mother to the intended parents after surrogacy.
+- Mandatory reporting => The legal duty of certain workers, such as teachers and doctors, to report a child at risk of significant harm.
+- Out-of-home care => Care for a child who cannot live safely at home, such as foster care or kinship care.
+
+=== mc fam-mc-01
+c: fam.1.2
+lv: 2
+Q: Which level of government makes laws about marriage and divorce in Australia?
+A: The states, under their residual powers
+B: The Commonwealth, under the Constitution
+C: Local councils
+D: The United Nations
+ANS: B
+WHY: The Constitution gives the Commonwealth power over marriage and divorce. The states keep areas such as adoption and child protection.
+
+=== mc fam-mc-02
+c: fam.1.3
+lv: 1
+Q: What is the marriageable age in Australia?
+A: 16 for everyone
+B: 18, or 16 to 17 with a court order in exceptional circumstances
+C: 21
+D: Any age with parental consent
+ANS: B
+WHY: The Marriage Act 1961 (Cth) sets 18. A person aged 16 or 17 needs a court order and parental consent to marry someone who is 18 or over.
+
+=== mc fam-mc-03
+c: fam.1.3
+lv: 2
+Q: Which of the following is NOT a requirement of a valid marriage in Australia?
+A: Both people give real consent
+B: A notice of intended marriage is given at least one month before the wedding
+C: The ceremony is held in a religious building
+D: Two adult witnesses are present
+ANS: C
+WHY: A marriage can be held anywhere by an authorised celebrant. Consent, notice and witnesses are required.
+
+=== mc fam-mc-04
+c: fam.2.1
+lv: 1
+Q: What must be shown to obtain a divorce in Australia?
+A: That one spouse was at fault
+B: That the marriage has broken down irretrievably, shown by 12 months of separation
+C: That both spouses agree to the divorce
+D: That the couple have no children
+ANS: B
+WHY: The Family Law Act 1975 (Cth) introduced no-fault divorce. Neither fault nor agreement is needed.
+
+=== mc fam-mc-05
+c: fam.2.2
+lv: 2
+Q: What is the paramount consideration when a court makes a parenting order?
+A: The wishes of the parents
+B: The best interests of the child
+C: The income of each parent
+D: An equal split of time
+ANS: B
+WHY: The Family Law Act 1975 (Cth) makes the child's best interests paramount. There is no rule that time must be equal.
+
+=== mc fam-mc-06
+c: fam.3.2
+lv: 3
+Q: What did the Family Law Amendment Act 2023 (Cth) change about parenting orders?
+A: It removed the best interests test
+B: It removed the presumption of equal shared parental responsibility
+C: It ended family dispute resolution
+D: It moved parenting cases to the Local Court
+ANS: B
+WHY: From May 2024 the presumption introduced in 2006 no longer applies, and the list of best interests factors was simplified with a stronger focus on safety.
+
+=== mc fam-mc-07
+c: fam.2.3
+lv: 2
+Q: How does a court divide property after a marriage ends?
+A: Each person keeps what is in their name
+B: Property is always divided equally
+C: The court makes an order that is just and equitable after weighing contributions and future needs
+D: The person who earned more receives everything
+ANS: C
+WHY: The court counts financial and non-financial contributions, including homemaking and parenting, and each person's future needs.
+
+=== mc fam-mc-08
+c: fam.2.4
+lv: 2
+Q: Which statement about an apprehended domestic violence order in NSW is correct?
+A: It is a criminal conviction
+B: It is a civil order, but breaching it is a criminal offence
+C: It can only be applied for by the victim
+D: It lasts for life
+ANS: B
+WHY: The order is made under the Crimes (Domestic and Personal Violence) Act 2007 (NSW). Police often apply on the victim's behalf.
+
+=== mc fam-mc-09
+c: fam.2.5
+lv: 2
+Q: Which court hears most parenting and property disputes after separation?
+A: The Children's Court of NSW
+B: The Federal Circuit and Family Court of Australia
+C: The High Court of Australia
+D: The NSW Civil and Administrative Tribunal
+ANS: B
+WHY: The court was formed in 2021. The Children's Court hears care and protection matters under NSW law.
+
+=== mc fam-mc-10
+c: fam.3.1
+lv: 2
+Q: Which change gave same-sex couples the right to marry in Australia?
+A: A High Court decision in 2013
+B: A referendum in 2017
+C: An amendment to the Marriage Act 1961 (Cth) in December 2017
+D: A treaty ratified in 2009
+ANS: C
+WHY: Parliament changed the definition of marriage to "the union of 2 people" after the postal survey. It was a survey, not a referendum.
+
+=== mc fam-mc-11
+c: fam.3.3
+lv: 2
+Q: Which statement about surrogacy in NSW is correct?
+A: Commercial surrogacy is legal if it is arranged overseas
+B: Only altruistic surrogacy is permitted
+C: The intended parents are the legal parents from birth
+D: Surrogacy agreements are enforced by the courts
+ANS: B
+WHY: The Surrogacy Act 2010 (NSW) bans commercial surrogacy, including overseas arrangements by NSW residents. Parentage is transferred by a court order.
+
+=== mc fam-mc-12
+c: fam.3.4
+lv: 2
+Q: Which Act allows a child at risk of significant harm to be removed from the family home in NSW?
+A: Family Law Act 1975 (Cth)
+B: Children and Young Persons (Care and Protection) Act 1998 (NSW)
+C: Adoption Act 2000 (NSW)
+D: Marriage Act 1961 (Cth)
+ANS: B
+WHY: The Act governs reports, investigations and care orders made by the Children's Court.
+
+=== sa fam-sa-01
+c: fam.1.4
+m: 4
+lv: 2
+Q: Explain how the law recognises de facto relationships.
+PTS:
+- A de facto couple live together on a genuine domestic basis (1)
+- Courts look at factors such as how long they have lived together and shared finances (1)
+- Since 2009 the Family Law Act 1975 (Cth) has covered property and maintenance for most de facto couples (1)
+- Children are treated the same whether or not their parents are married (1)
+
+=== sa fam-sa-02
+c: fam.2.5
+m: 5
+lv: 2
+Q: Explain why the law encourages families to resolve disputes without going to court.
+PTS:
+- Family dispute resolution is usually required before applying for a parenting order (1)
+- It is cheaper and faster than a hearing (1)
+- Agreements parents make themselves are more likely to last (1)
+- It reduces conflict that harms children (1)
+- A limit: it is not suitable where there is family violence or an imbalance of power (1)
+
+=== scen fam-sc-01
+c: fam.2.1 fam.2.2
+lv: 2
+LEAD: Priya and Tom married eight years ago and have a daughter, Mia, aged 6. They separated ten months ago but still live in the same house because neither can afford to move out. Tom wants a divorce now. Priya wants Mia to live mainly with her.
+PART (a) 3: Explain whether Tom can apply for a divorce now.
+PTS:
+- The ground is irretrievable breakdown, shown by 12 months of separation (1)
+- Only ten months have passed, so he must wait (1)
+- Separation under one roof can count, but it must be proved (1)
+PART (b) 4: Explain how a decision about Mia's living arrangements would be made if Priya and Tom cannot agree.
+PTS:
+- They must usually try family dispute resolution first (1)
+- A court can then make a parenting order (1)
+- Mia's best interests are the paramount consideration (1)
+- The court considers her safety, her views and her need for a relationship with both parents where that is safe (1)
+
+=== scen fam-sc-02
+c: fam.2.4
+lv: 2
+LEAD: Over two years, Jordan's partner has checked Jordan's phone every day, controlled all the money, and stopped Jordan from seeing friends. Last week the partner threatened to hurt Jordan if Jordan left. Jordan lives in NSW and is frightened.
+PART (a) 2: Identify TWO legal protections available to Jordan.
+PTS:
+- An apprehended domestic violence order (1)
+- Criminal charges, such as for intimidation or coercive control (1)
+PART (b) 4: Assess how effective these protections are likely to be.
+PTS:
+- An order sets clear conditions and police can apply for it (1)
+- A breach is a criminal offence (1)
+- Limits: orders are sometimes breached and victims may fear reporting (1)
+- A judgement, with reference to support services or recent reform (1)
+
+=== scen fam-sc-03
+c: fam.2.3
+lv: 3
+LEAD: Elena and Chris were married for 15 years. Chris worked full time and paid the mortgage. Elena left paid work to care for their three children and now earns much less than Chris. The house is in Chris's name only. They have separated and cannot agree on how to divide their property.
+PART (a) 2: Outline TWO types of contribution a court would consider.
+PTS:
+- Financial contributions, such as income and mortgage payments (1)
+- Non-financial contributions, such as homemaking and caring for children (1)
+PART (b) 4: Explain why Elena could receive a share of the house even though it is in Chris's name.
+PTS:
+- The court looks at all the property of both people, whoever holds title (1)
+- Her contributions as homemaker and parent are recognised (1)
+- Future needs matter: her lower earning capacity and care of the children (1)
+- The order must be just and equitable in all the circumstances (1)
+
+=== er fam-er-01
+c: fam.t.values fam.3
+m: 25
+lv: 3
+Q: To what extent has family law responded to changing community values?
+PTS:
+- The changing concept of family
+- No-fault divorce under the Family Law Act 1975 (Cth)
+- Recognition of de facto and same-sex relationships, including the 2017 change to the Marriage Act 1961 (Cth)
+- Parental responsibility: the 2006 and 2023 reforms
+- Surrogacy and birth technologies
+- Domestic violence: recognition of coercive control
+- Areas where the law lags, with media and reports as evidence
+- A sustained judgement on extent
+PLAN:
+- Relationships: the law caught up slowly, then decisively
+- Children: from parents' rights to children's safety
+- New technology: the law trails practice
+- Violence: values changed first, the law followed
+- Judgement
+
+=== er fam-er-02
+c: fam.2.4 fam.3.4 fam.t.effectiveness
+m: 25
+lv: 3
+Q: Evaluate the effectiveness of legal and non-legal responses in protecting family members from harm.
+PTS:
+- Domestic violence: apprehended domestic violence orders, police powers, the coercive control offence
+- Children: mandatory reporting, the Children's Court, out-of-home care
+- Family Law Act 1975 (Cth): safety in parenting decisions
+- Non-legal responses: refuges, helplines, non-government organisations and the media
+- Limits: under-reporting, breaches, resources, remote communities
+- A judgement using criteria such as enforceability, accessibility and protection of rights
+PLAN:
+- Legal responses to domestic violence
+- Care and protection of children
+- Non-legal responses fill gaps
+- Judgement
+
+=== teeacl fam-te-01
+c: fam.3.2 fam.t.reform
+lv: 2
+Q: Assess the effectiveness of law reform in protecting the best interests of children after separation.
+PTS:
+- A judgement about the 2023 reforms
+- Evidence: Family Law Amendment Act 2023 (Cth) and what it removed
+- Analysis against protection of rights or responsiveness
+- Counterpoint: cost and delay in the courts remain
+- A link back to the question
+
+=== order fam-or-01
+c: fam.2.1 fam.2.2
+TITLE: Resolving a parenting dispute after separation
+- The parents separate
+- The parents try to agree between themselves, perhaps in a parenting plan
+- The parents attend family dispute resolution
+- A certificate is issued if no agreement is reached
+- One parent applies to the court for a parenting order
+- The court considers the best interests of the child
+- The court makes a parenting order
+NOTE: Court is the last step. Cases involving family violence or urgency can skip dispute resolution.
+
+=== sort fam-so-01
+c: fam.1.2
+Q: Sort each area of family law under the level of government mainly responsible for it.
+CATS: Commonwealth | New South Wales
+- Marriage => Commonwealth
+- Divorce => Commonwealth
+- Parenting orders after separation => Commonwealth
+- Property settlements => Commonwealth
+- Child support => Commonwealth
+- Adoption => New South Wales
+- Care and protection of children => New South Wales
+- Apprehended domestic violence orders => New South Wales
+- Surrogacy => New South Wales
+
+=== compare fam-co-01
+c: fam.1.3 fam.1.4
+Q: Complete the table to compare marriage with a de facto relationship.
+COLS: Marriage | De facto relationship
+- How it begins => A ceremony that meets the Marriage Act 1961 (Cth) | !The couple live together on a genuine domestic basis
+- Proof => !A marriage certificate | Evidence such as shared finances, a shared home and how others see the couple
+- How it ends => A divorce order | Separation; no court order is needed
+- Property disputes => Family Law Act 1975 (Cth) | Family Law Act 1975 (Cth), if the relationship meets the tests
+- Children => Treated the same under the law | Treated the same under the law
+
+=== error fam-er-x1
+c: fam.2.1 fam.2.2
+Q: This paragraph answers: "Outline the law on divorce in Australia."
+TEXT: Divorce is governed by the [[Marriage Act 1961 => Family Law Act 1975]] (Cth). The only ground is that the marriage has broken down irretrievably, shown by [[six => 12]] months of separation. The court [[must => does not]] consider who was at fault. If there are children under 18, the court must be satisfied that [[the parents have equal time => proper arrangements have been made for their care]].
+
+=== tf fam-tf-01
+c: fam.1.3 fam.1.4 fam.1.5
+- T: A marriage is void if one person was already legally married to someone else.
+- F: A couple must be married for the law to recognise their relationship. => De facto relationships are also recognised by the law.
+- T: Both parents have parental responsibility for a child unless a court orders otherwise.
+- F: Children have no say in parenting disputes. => A court considers the child's views, giving them weight according to the child's age and maturity.
+- T: A marriage celebrant must be authorised under the Marriage Act 1961 (Cth).
+
+=== tf fam-tf-02
+c: fam.2.1 fam.2.3 fam.2.4 fam.2.5
+- T: Australia has had no-fault divorce since the Family Law Act 1975 (Cth) began.
+- F: A couple married for less than two years cannot divorce. => They can, but they must usually attend counselling first or get the court's permission.
+- T: Non-financial contributions, such as caring for children, count in a property settlement.
+- F: Only the victim can apply for an apprehended domestic violence order. => Police can and often must apply on the victim's behalf.
+- T: Breaching an apprehended domestic violence order is a criminal offence.
+- F: A parenting plan is enforceable in the same way as a court order. => A parenting plan is not legally enforceable; a parenting order is.
+
+=== tf fam-tf-03
+c: fam.3.1 fam.3.3 fam.3.4
+- T: Same-sex couples have been able to marry in Australia since December 2017.
+- F: Commercial surrogacy is legal in NSW. => Commercial surrogacy is a criminal offence in NSW; only altruistic surrogacy is allowed.
+- T: Teachers in NSW are mandatory reporters of children at risk of significant harm.
+- F: The Family Court decides whether a child is removed from an unsafe home. => The Children's Court of NSW makes care and protection orders.
+- T: Same-sex couples can adopt children in NSW.
